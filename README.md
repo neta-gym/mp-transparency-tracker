@@ -1,205 +1,324 @@
-# Indian MP Leaderboard
+# MP Transparency Tracker
 
-A production-ready, agentic transparency scoring pipeline for Indian Members of Parliament (MPs), with a static web dashboard for public exploration.
+A reproducible, open-data transparency ranking system for Indian Members of Parliament.
 
-The system discovers MPs, collects public records from multiple open sources, validates data quality, computes standardized scores, and publishes state + national leaderboards.
+The project collects public records for MPs, normalizes them into auditable JSON, computes a weighted 0-100 transparency score, and publishes a static dashboard for citizens, researchers, journalists, and contributors.
 
-It is designed to be:
-- open-data first
-- reproducible
-- automation-friendly
-- GitHub Pages deployable
+Live site: https://neta-gym.github.io/mp-transparency-tracker/
 
-## Why this project exists
+![Current national leaderboard](docs/assets/national-leaderboard.png)
 
-Citizens often need to check MP performance across fragmented data sources (Sansad, PRS, affidavits, utilization reports, etc.). This project unifies that into a single structured workflow and scoring framework:
+## What this project is trying to do
 
-- discover current MPs from authoritative sources
-- enrich profiles with parliamentary and governance indicators
-- score each MP using a weighted transparency methodology
-- publish machine-readable JSON + human-readable markdown reports
-- render an interactive dashboard with maps, comparisons, and MP pages
+Public information about MPs is scattered across Parliament portals, affidavit sites, MPLADS data, PRS-style activity records, and other public datasets. A voter should not need to manually reconcile all of those sources to answer simple questions like:
 
-## Core principles
+- Who are the highest-scoring MPs on measurable transparency indicators?
+- Which MPs have red flags that deserve closer public scrutiny?
+- How do parties, states, and constituencies compare?
+- Which parts of the score are backed by strong evidence, and which need better data?
 
-1. Open-data only
-   - Pipeline is built to run without paid LLM/API dependencies.
-   - Inputs come from public, auditable sources.
+MP Transparency Tracker turns that fragmented public information into:
 
-2. Agentic pipeline design
-   - The codebase uses role-based processing stages (manager/research/validate/assess/report) to keep responsibilities modular and extensible.
+- state leaderboards
+- a national leaderboard
+- per-MP score JSON
+- per-MP markdown reports
+- an interactive static dashboard
+- reusable source connectors and scoring code
 
-3. Deterministic outputs
-   - Scoring rules and data transforms are code-defined and reproducible.
+The motive is not to declare a final moral judgment on any MP. The motive is to make public records easier to inspect, compare, verify, and improve.
 
-4. Public deployment by default
-   - Dashboard is statically exported and deployable on GitHub Pages.
+## Current national snapshot
 
-## High-level architecture
+Generated from `data/national/leaderboard/latest.json`.
 
-The tracker follows a staged, agentic flow:
+- MPs scored: 537
+- States/UTs covered: 36 / 36
+- Average national score: 46.7 / 100
+- Highest current score: 61.5 / 100
+- Snapshot timestamp: 2026-05-21T16:12:04.940318Z
 
-Manager -> Discovery -> Research/Enrichment -> Validation -> Scoring -> Report Compilation -> Leaderboard Export
+Top 10 in the current national ranking:
 
-Mapped in code:
-- src/tracker/agents/manager.py
-- src/tracker/agents/researcher.py
-- src/tracker/agents/validator.py
-- src/tracker/agents/assessor.py
-- src/tracker/agents/developer.py
+| Rank | MP | Party | State | Constituency | Score |
+|---:|---|---|---|---|---:|
+| 1 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 61.5 |
+| 2 | P P Chaudhary | Bharatiya Janata Party | Rajasthan | Pali | 61.5 |
+| 3 | Shrirang Appa Chandu Barne | Shiv Sena | Maharashtra | Maval | 60.0 |
+| 4 | Navaskani K | Indian Union Muslim League | Tamil Nadu | Ramanathapuram | 60.0 |
+| 5 | Janardan Singh Sigriwal | Bharatiya Janata Party | Bihar | Maharajganj | 59.5 |
+| 6 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 59.5 |
+| 7 | D M Kathir Anand | Dravida Munnetra Kazhagam | Tamil Nadu | Vellore | 59.5 |
+| 8 | C N Manjunath | Bharatiya Janata Party | Karnataka | Bangalore Rural | 58.5 |
+| 9 | V K Sreekandan | Indian National Congress | Kerala | Palakkad | 58.5 |
+| 10 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 58.5 |
 
-Data and source connectors live under:
-- src/tracker/tools/
+The scores are intentionally conservative. A score near 60 currently means “stronger than peers on available measurable indicators,” not “perfect transparency.” Missing or weakly evidenced public data can keep scores lower.
 
-Persistence and output helpers:
-- src/tracker/storage/
-- src/tracker/utils/
+## How the ranking works
+
+Each MP receives component scores from 0 to 100. The composite score is a weighted average defined in `src/tracker/config.py`:
+
+| Component | Weight | What it is meant to capture |
+|---|---:|---|
+| MPLADS fund utilization | 25% | Whether available constituency development funds appear used effectively and transparently. |
+| Asset declarations/growth | 15% | Public affidavit-linked asset signals and declaration consistency. |
+| Criminal record disclosures | 15% | Declared criminal cases and severity signals from public affidavit-linked data. |
+| Parliament attendance | 10% | Attendance signals where available, with ministerial context handled in code. |
+| Parliamentary participation | 10% | Questions/debates participation signals from parliamentary activity data. |
+| Committee participation | 10% | Committee membership/participation where available. |
+| Legislative activity | 10% | Bill/legislative activity signals where available. |
+| Public accessibility | 5% | Public-facing contact/social/accessibility signals. |
+
+Important interpretation notes:
+
+- Higher score means stronger measured transparency/performance on this project’s selected indicators.
+- The score is only as good as the public data available and the mapping quality for that MP.
+- Component scores are kept visible so users can see why a composite score is high or low.
+- `data_confidence` is separate from the composite score and reflects source/evidence confidence.
+- The leaderboard is a starting point for scrutiny, not a substitute for source-level verification.
+
+Core scoring implementation:
+
+- weights: `src/tracker/config.py`
+- component calculations: `src/tracker/agents/assessor.py`
+- leaderboard assembly: `src/tracker/agents/manager.py`
+- exported national data: `data/national/leaderboard/latest.json`
+
+## Data sources
+
+The pipeline is designed to be open-data first and reproducible. It should not require paid LLM/API dependencies.
+
+Primary source families include:
+
+- Digital Sansad / Sansad member data
+- MyNeta affidavit-linked election records
+- PRS/parliamentary activity style datasets
+- MPLADS/public expenditure datasets
+- data.gov.in and other public-domain government datasets where available
+- public MP profile/contact/social records where available
+
+Source connectors live under `src/tracker/tools/`. Generated findings and reports retain enough structure to inspect evidence and confidence.
 
 ## Repository structure
 
-- src/tracker/                    Core tracker package
-- tests/                          Unit/integration tests
-- scripts/                        Operational scripts (refresh, enrichment, notifications)
-- data/                           Generated state/national outputs
-- dashboard/                      Next.js static site
-- .github/workflows/              CI + deployment workflows
+```text
+src/tracker/                    Core Python package
+src/tracker/agents/             Pipeline stages: discovery, research, validation, scoring, reporting
+src/tracker/tools/              Public-data connectors and scrapers
+src/tracker/storage/            Persistence helpers
+tests/                          Unit/integration tests
+scripts/                        Operational refresh/enrichment/rescoring scripts
+data/                           Generated state and national outputs
+dashboard/                      Next.js 15 static dashboard
+.github/workflows/              CI and GitHub Pages deployment
+docs/assets/                    README and documentation images
+```
 
-## Data outputs
+## Generated data layout
 
-For each state, outputs are written under:
+For each state/UT:
 
-- data/{state-slug}/raw/          Raw and validated MP records
-- data/{state-slug}/scores/       Score JSON per MP
-- data/{state-slug}/reports/      Markdown report per MP
-- data/{state-slug}/leaderboard/  latest.json + snapshots + latest.md
+```text
+data/{state-slug}/raw/          Raw and validated MP records
+data/{state-slug}/scores/       One score JSON per MP
+data/{state-slug}/reports/      One markdown report per MP
+data/{state-slug}/leaderboard/  latest.json, latest.md, and snapshots
+```
 
-National aggregates are maintained under data/national/.
+National aggregate:
 
-## Scoring model (overview)
-
-Each MP receives a composite transparency score (0-100) from weighted components.
-
-Current methodology in this repo is based on factors such as:
-- MPLADS fund utilization
-- asset growth/declarations
-- criminal case disclosures
-- parliamentary participation (attendance, questions, debates)
-
-Exact implementation lives in scoring and utility modules inside src/tracker/.
-
-## Supported data sources
-
-- Digital Sansad / Sansad
-- MyNeta affidavit-linked records
-- PRS parliamentary data
-- MPLADS/public expenditure datasets
-- Additional governance/public-domain signals where available
+```text
+data/national/leaderboard/latest.json
+```
 
 ## Quick start
 
 Requirements:
-- Python 3.10+ (recommended: 3.11)
-- Node.js 20+ for dashboard build
 
-### 1) Create virtual environment and install dependencies
+- Python 3.10+; Python 3.11 recommended
+- Node.js 20+ for the dashboard
 
-From repo root:
+Create a Python environment and install dependencies:
 
+```bash
 python3.11 -m venv .venv311
 . .venv311/bin/activate
 python -m pip install -U pip
 python -m pip install -r requirements.txt pytest pytest-asyncio aioresponses
+```
 
-If you use another Python version, ensure it is >= 3.10.
+Run tests:
 
-### 2) Run tests
-
+```bash
 PYTHONPATH=src pytest tests -q
+```
 
-### 3) Run tracker for one state
+Run the tracker for one state:
 
+```bash
 PYTHONPATH=src python -m tracker.main --state delhi --format json
+```
 
-### 4) Run for all states
+Run the tracker for all states:
 
+```bash
 PYTHONPATH=src python -m tracker.main --all-states --format json
+```
 
-## Dashboard (Next.js static export)
+Run using a display-name state value if needed:
 
-The dashboard is a static app generated from files in data/.
+```bash
+PYTHONPATH=src python -m tracker.main --state "Uttar Pradesh" --format json
+```
 
-Build:
+## Dashboard
 
+The dashboard is a static Next.js export generated from `data/`.
+
+Build locally:
+
+```bash
 cd dashboard
 npm ci
 npm run build
+```
 
-Local preview of exported site:
+Preview the static export:
 
+```bash
 npx serve@latest out -p 3000
+```
 
-Important:
-- Use Node 20+ (Next.js 15 requirement)
-- This project uses static export output in dashboard/out
+Important dashboard notes:
+
+- Use Node 20+. Next.js 15 will fail on older Node versions.
+- This is a static export. Use `npx serve@latest out -p 3000`, not `next start`.
+- If `data/` changes, rebuild the dashboard before judging UI output.
+- GitHub Pages deploys under `/mp-transparency-tracker`, so asset paths must respect the configured base path.
 
 ## GitHub Pages deployment
 
-Workflow file:
-- .github/workflows/deploy-dashboard.yml
+Workflow:
 
-Trigger:
-- push to main affecting dashboard/** or data/**
-- manual workflow dispatch
+```text
+.github/workflows/deploy-dashboard.yml
+```
 
-Expected public URL:
-- https://neta-gym.github.io/mp-transparency-tracker/
+Public URL:
 
-If path routing looks broken, verify basePath/assetPrefix settings in dashboard Next config for repository pages deployment.
+```text
+https://neta-gym.github.io/mp-transparency-tracker/
+```
+
+The Pages build sets:
+
+```text
+NEXT_PUBLIC_BASE_PATH=/mp-transparency-tracker
+```
+
+This is required because project Pages are served from a repository subpath. If the live page appears unstyled, maps stay stuck at “Loading map…”, or MP photos break, check that generated links point under `/mp-transparency-tracker/` rather than the domain root.
+
+## Guide for AI coding agents: Codex, Claude Code, and similar tools
+
+If you are an automated coding agent reading this repository, preserve these project invariants:
+
+1. Do not add hidden LLM dependencies to the data pipeline.
+   - The tracker is meant to run from open/public data and deterministic code.
+   - Avoid Claude/OpenAI/API calls for scoring, validation, or report generation unless the maintainer explicitly asks for that architectural change.
+
+2. Treat generated data as source-backed artifacts.
+   - Do not hand-edit leaderboard JSON to “fix” rankings.
+   - Fix the source connector, normalization, validation, or scoring code, then regenerate outputs.
+
+3. Keep ranking logic explainable.
+   - If you change weights or component formulas, update this README and tests.
+   - Users must be able to understand why an MP moved up or down.
+
+4. Keep state/national coverage intact.
+   - Current target coverage is 36 states/UTs and 537 MPs.
+   - After pipeline changes, verify national aggregation still includes the expected coverage.
+
+5. Be careful with dashboard deployment paths.
+   - Local `/` behavior differs from GitHub Pages `/mp-transparency-tracker/` behavior.
+   - Public assets in `dashboard/public` and client-side `fetch()` URLs must be base-path safe.
+
+6. Prefer small, testable changes.
+   - Add or update tests for parsers, scoring rules, and data transforms.
+   - Run `PYTHONPATH=src pytest tests -q` before proposing a final change.
+   - For dashboard changes, run `npm run build` inside `dashboard/`.
+
+7. Understand the ranking before modifying UI labels.
+   - “Score” is the weighted composite.
+   - “Confidence” is evidence/source confidence and is not the same as score.
+   - The red-flag/watchlist UI is for scrutiny signals, not a legal conclusion.
+
+8. Do not overwrite unrelated local work.
+   - Check `git status --short` before edits.
+   - This repository often has generated files and dashboard changes in flight.
+
+Good first places to inspect:
+
+```text
+src/tracker/config.py                 scoring weights and source URLs
+src/tracker/agents/assessor.py        score formulas
+src/tracker/agents/manager.py         pipeline orchestration and leaderboard export
+src/tracker/tools/                    source connectors
+data/national/leaderboard/latest.json current national ranking
+dashboard/src/                        public dashboard UI
+```
+
+## Development checklist
+
+Before pushing meaningful code changes:
+
+```bash
+PYTHONPATH=src pytest tests -q
+cd dashboard && npm run build
+```
+
+Before publishing data/dashboard updates:
+
+```bash
+PYTHONPATH=src python -m tracker.main --all-states --format json
+cd dashboard && npm run build
+```
+
+Then inspect:
+
+```text
+data/national/leaderboard/latest.json
+dashboard/out/
+```
 
 ## CI
 
-The repository includes CI checks via:
-- .github/workflows/ci.yml
+CI workflow:
 
-Typical gates include dependency install + test execution.
+```text
+.github/workflows/ci.yml
+```
 
-## Agentic operation model (for contributors)
+Deployment workflow:
 
-Think in stable stages:
-1) discovery: identify current MPs by state/house
-2) enrichment: gather source records and normalize schemas
-3) validation: confidence, consistency, and anomaly flags
-4) scoring: weighted metric calculation
-5) publication: reports + leaderboards + static dashboard
-
-This separation keeps behavior debuggable and lets you improve one stage without destabilizing others.
-
-## Development tips
-
-- Always run tests before pushing
-- Keep outputs reproducible and source-attributable
-- Prefer schema-safe changes (models first, then tools)
-- Avoid introducing hidden non-open dependencies
-
-## Status and maturity
-
-The codebase is already operational for nationwide data slices and supports static dashboard publication. Remaining work typically focuses on:
-- improving enrichment coverage
-- tightening validation confidence logic
-- adding data quality diagnostics
-- improving UX/visualization in dashboard
+```text
+.github/workflows/deploy-dashboard.yml
+```
 
 ## Contributing
 
-Contributions are welcome in:
-- data quality checks
-- source connector hardening
-- test coverage
-- scoring methodology transparency
-- dashboard usability/performance
+Useful contribution areas:
 
-Please keep changes deterministic, documented, and aligned with open-data principles.
+- source connector hardening
+- better MyNeta/Sansad/PRS matching
+- data confidence diagnostics
+- scoring methodology transparency
+- parser tests and fixture coverage
+- dashboard usability and performance
+- state/party/MP comparison views
+
+Please keep changes deterministic, documented, source-attributable, and aligned with open-data principles.
 
 ## License
 
-Add your preferred open-source license in this repository (e.g., MIT/Apache-2.0) if not already set.
+Add the intended open-source license for this repository if not already present.
