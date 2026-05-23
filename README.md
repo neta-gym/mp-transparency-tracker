@@ -34,26 +34,26 @@ The motive is not to declare a final moral judgment on any MP. The motive is to 
 
 Generated from `data/national/leaderboard/latest.json`.
 
-- MPs scored: 537
+- MPs scored: 540
 - States/UTs covered: 36 / 36
-- Average national score: 46.7 / 100
-- Highest current score: 61.5 / 100
-- Snapshot timestamp: 2026-05-21T16:12:04.940318Z
+- Average national score: 39.8 / 100
+- Highest current score: 59.5 / 100
+- Snapshot timestamp: 2026-05-23T18:23:39.289312Z
 
 Top 10 in the current national ranking:
 
 | Rank | MP | Party | State | Constituency | Score |
 |---:|---|---|---|---|---:|
-| 1 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 61.5 |
-| 2 | P P Chaudhary | Bharatiya Janata Party | Rajasthan | Pali | 61.5 |
-| 3 | Shrirang Appa Chandu Barne | Shiv Sena | Maharashtra | Maval | 60.0 |
-| 4 | Navaskani K | Indian Union Muslim League | Tamil Nadu | Ramanathapuram | 60.0 |
-| 5 | Janardan Singh Sigriwal | Bharatiya Janata Party | Bihar | Maharajganj | 59.5 |
-| 6 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 59.5 |
-| 7 | D M Kathir Anand | Dravida Munnetra Kazhagam | Tamil Nadu | Vellore | 59.5 |
-| 8 | C N Manjunath | Bharatiya Janata Party | Karnataka | Bangalore Rural | 58.5 |
-| 9 | V K Sreekandan | Indian National Congress | Kerala | Palakkad | 58.5 |
-| 10 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 58.5 |
+| 1 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 59.5 |
+| 2 | Sukhdeo Bhagat | Indian National Congress | Jharkhand | Lohardaga | 57.6 |
+| 3 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 57.5 |
+| 4 | Arun Kumar Sagar | Bharatiya Janata Party | Uttar Pradesh | Shahjahanpur | 57.0 |
+| 5 | Chandra Shekhar | Azad Samaj Party (Kanshi Ram) | Uttar Pradesh | Nagina | 56.6 |
+| 6 | Tapir Gao | Bharatiya Janata Party | Arunachal Pradesh | Arunachal East | 55.1 |
+| 7 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 55.0 |
+| 8 | Rajesh Mishra | Bharatiya Janata Party | Madhya Pradesh | Sidhi | 54.3 |
+| 9 | Shrikant Eknath Shinde | Shiv Sena | Maharashtra | Kalyan | 54.0 |
+| 10 | Mohammad Jawed | Indian National Congress | Bihar | Kishanganj | 53.4 |
 
 The scores are intentionally conservative. A score near 60 currently means “stronger than peers on available measurable indicators,” not “perfect transparency.” Missing or weakly evidenced public data can keep scores lower.
 
@@ -94,9 +94,9 @@ The pipeline is designed to be open-data first and reproducible. It should not r
 Primary source families include:
 
 - Digital Sansad / Sansad member data
-- MyNeta affidavit-linked election records
+- MyNeta affidavit-linked election records, including constituency-aware matching and direct candidate-page fallbacks for high-confidence mappings
 - PRS/parliamentary activity style datasets
-- MPLADS/public expenditure datasets
+- MPLADS/eSAKSHI public expenditure datasets, with spelling/suffix normalization for constituency names
 - data.gov.in and other public-domain government datasets where available
 - public MP profile/contact/social records where available
 
@@ -128,10 +128,11 @@ data/{state-slug}/reports/      One markdown report per MP
 data/{state-slug}/leaderboard/  latest.json, latest.md, and snapshots
 ```
 
-National aggregate:
+National aggregate and enrichment/coverage diagnostics:
 
 ```text
 data/national/leaderboard/latest.json
+data/enrichment/coverage_after_backfill.json
 ```
 
 ## Quick start
@@ -238,8 +239,9 @@ If you are an automated coding agent reading this repository, preserve these pro
    - Users must be able to understand why an MP moved up or down.
 
 4. Keep state/national coverage intact.
-   - Current target coverage is 36 states/UTs and 537 MPs.
+   - Current target coverage is 36 states/UTs and 540 MPs.
    - After pipeline changes, verify national aggregation still includes the expected coverage.
+   - For MPLADS/MyNeta backfills, check `data/enrichment/coverage_after_backfill.json` and ensure `missing_mplads`, `missing_assets`, and `blank_name` remain 0.
 
 5. Be careful with dashboard deployment paths.
    - Local `/` behavior differs from GitHub Pages `/mp-transparency-tracker/` behavior.
@@ -283,6 +285,8 @@ Before publishing data/dashboard updates:
 
 ```bash
 PYTHONPATH=src python -m tracker.main --all-states --format json
+# Optional targeted enrichment refresh for missing MyNeta/eSAKSHI fields:
+PYTHONPATH=src python scripts/backfill_myneta_esakshi.py
 cd dashboard && npm run build
 ```
 
@@ -290,6 +294,7 @@ Then inspect:
 
 ```text
 data/national/leaderboard/latest.json
+data/enrichment/coverage_after_backfill.json
 dashboard/out/
 ```
 
