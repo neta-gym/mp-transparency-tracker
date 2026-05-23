@@ -1,4 +1,4 @@
-# MP Transparency Tracker
+# Indian MP Leaderboard
 
 A production-ready, agentic transparency scoring pipeline for Indian Members of Parliament (MPs), with a static web dashboard for public exploration.
 
