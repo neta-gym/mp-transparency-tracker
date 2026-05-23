@@ -38,7 +38,7 @@ jobs:
           cache-dependency-path: dashboard/package-lock.json
 
       - name: Install npm dependencies
-        run: npm ci
+        run: npm ci --legacy-peer-deps
 
       - name: Build static export
         run: npm run build
