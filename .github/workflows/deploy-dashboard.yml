@@ -42,9 +42,6 @@ jobs:
 
       - name: Build static export
         run: npm run build
-        env:
-          # The build reads data from ../data/ (relative to dashboard/)
-          # Data is committed in the repo, so no special env needed
 
       - name: Add .nojekyll (disable Jekyll on GH Pages)
         run: touch out/.nojekyll
