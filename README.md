@@ -1,83 +1,205 @@
 # MP Transparency Tracker
 
-Automated scoring system for Indian Members of Parliament. Researches, validates, and scores MPs on a 0–100 transparency index using data from MyNeta, PRS India, and MPLADS.
+A production-ready, agentic transparency scoring pipeline for Indian Members of Parliament (MPs), with a static web dashboard for public exploration.
 
-## Quick Start
+The system discovers MPs, collects public records from multiple open sources, validates data quality, computes standardized scores, and publishes state + national leaderboards.
 
-```bash
-# 1. Install dependencies
-pip install -e ".[dev]"
+It is designed to be:
+- open-data first
+- reproducible
+- automation-friendly
+- GitHub Pages deployable
 
-# 2. Set your API key
-cp .env.example .env
-# Edit .env and add your ANTHROPIC_API_KEY
+## Why this project exists
 
-# 3. Run for Delhi (7 MPs)
-python -m tracker.main --state delhi
+Citizens often need to check MP performance across fragmented data sources (Sansad, PRS, affidavits, utilization reports, etc.). This project unifies that into a single structured workflow and scoring framework:
 
-# Or use the script
-python scripts/run.py --state delhi
-```
+- discover current MPs from authoritative sources
+- enrich profiles with parliamentary and governance indicators
+- score each MP using a weighted transparency methodology
+- publish machine-readable JSON + human-readable markdown reports
+- render an interactive dashboard with maps, comparisons, and MP pages
 
-## Usage
+## Core principles
 
-```bash
-# Run for any state — no code changes needed
-python -m tracker.main --state maharashtra
-python -m tracker.main --state "uttar pradesh"
-python -m tracker.main --state goa
+1. Open-data only
+   - Pipeline is built to run without paid LLM/API dependencies.
+   - Inputs come from public, auditable sources.
 
-# Discover MPs only (no scoring)
-python -m tracker.main --state delhi --discover-only
+2. Agentic pipeline design
+   - The codebase uses role-based processing stages (manager/research/validate/assess/report) to keep responsibilities modular and extensible.
 
-# Run for all states
-python -m tracker.main --all-states
-```
+3. Deterministic outputs
+   - Scoring rules and data transforms are code-defined and reproducible.
 
-## Output
+4. Public deployment by default
+   - Dashboard is statically exported and deployable on GitHub Pages.
 
-Results are saved under `data/{state-slug}/`:
+## High-level architecture
 
-```
-data/delhi/
-├── raw/              # Raw + validated JSON per MP
-├── reports/          # Markdown reports per MP
-├── scores/           # Score breakdown JSON per MP
-└── leaderboard/      # latest.json, latest.md, timestamped snapshots
-```
+The tracker follows a staged, agentic flow:
 
-## Scoring Methodology (v1.0)
+Manager -> Discovery -> Research/Enrichment -> Validation -> Scoring -> Report Compilation -> Leaderboard Export
 
-| Component | Weight | Source |
-|-----------|--------|--------|
-| MPLADS Fund Utilization | 30% | data.gov.in / dataful.in |
-| Asset Growth | 20% | MyNeta affidavits |
-| Criminal Record | 20% | MyNeta |
-| Parliament Attendance | 15% | PRS India |
-| Questions & Debates | 15% | PRS India |
+Mapped in code:
+- src/tracker/agents/manager.py
+- src/tracker/agents/researcher.py
+- src/tracker/agents/validator.py
+- src/tracker/agents/assessor.py
+- src/tracker/agents/developer.py
 
-**Composite Score** = weighted sum of all components (0–100).
+Data and source connectors live under:
+- src/tracker/tools/
 
-## Architecture
+Persistence and output helpers:
+- src/tracker/storage/
+- src/tracker/utils/
 
-```
-Manager Agent → Researcher → Validator → Assessor → Developer
-                (fetch data)  (cross-check) (score)   (report)
-```
+## Repository structure
 
-- Up to 3 MPs processed in parallel
-- Claude API for gap-filling and qualitative assessment
-- SQLite database for persistence and historical snapshots
+- src/tracker/                    Core tracker package
+- tests/                          Unit/integration tests
+- scripts/                        Operational scripts (refresh, enrichment, notifications)
+- data/                           Generated state/national outputs
+- dashboard/                      Next.js static site
+- .github/workflows/              CI + deployment workflows
 
-## Tests
+## Data outputs
 
-```bash
-pytest tests/ -v
-```
+For each state, outputs are written under:
 
-## Data Sources
+- data/{state-slug}/raw/          Raw and validated MP records
+- data/{state-slug}/scores/       Score JSON per MP
+- data/{state-slug}/reports/      Markdown report per MP
+- data/{state-slug}/leaderboard/  latest.json + snapshots + latest.md
 
-- **MyNeta** (myneta.info) — Criminal records, asset declarations
-- **PRS India** (via GitHub) — Parliament attendance, questions, debates
-- **MPLADS** (dataful.in) — Fund utilization data
-- **Claude** — Gap-filling, news context, qualitative assessment
+National aggregates are maintained under data/national/.
+
+## Scoring model (overview)
+
+Each MP receives a composite transparency score (0-100) from weighted components.
+
+Current methodology in this repo is based on factors such as:
+- MPLADS fund utilization
+- asset growth/declarations
+- criminal case disclosures
+- parliamentary participation (attendance, questions, debates)
+
+Exact implementation lives in scoring and utility modules inside src/tracker/.
+
+## Supported data sources
+
+- Digital Sansad / Sansad
+- MyNeta affidavit-linked records
+- PRS parliamentary data
+- MPLADS/public expenditure datasets
+- Additional governance/public-domain signals where available
+
+## Quick start
+
+Requirements:
+- Python 3.10+ (recommended: 3.11)
+- Node.js 20+ for dashboard build
+
+### 1) Create virtual environment and install dependencies
+
+From repo root:
+
+python3.11 -m venv .venv311
+. .venv311/bin/activate
+python -m pip install -U pip
+python -m pip install -r requirements.txt pytest pytest-asyncio aioresponses
+
+If you use another Python version, ensure it is >= 3.10.
+
+### 2) Run tests
+
+PYTHONPATH=src pytest tests -q
+
+### 3) Run tracker for one state
+
+PYTHONPATH=src python -m tracker.main --state delhi --format json
+
+### 4) Run for all states
+
+PYTHONPATH=src python -m tracker.main --all-states --format json
+
+## Dashboard (Next.js static export)
+
+The dashboard is a static app generated from files in data/.
+
+Build:
+
+cd dashboard
+npm ci
+npm run build
+
+Local preview of exported site:
+
+npx serve@latest out -p 3000
+
+Important:
+- Use Node 20+ (Next.js 15 requirement)
+- This project uses static export output in dashboard/out
+
+## GitHub Pages deployment
+
+Workflow file:
+- .github/workflows/deploy-dashboard.yml
+
+Trigger:
+- push to main affecting dashboard/** or data/**
+- manual workflow dispatch
+
+Expected public URL:
+- https://neta-gym.github.io/mp-transparency-tracker/
+
+If path routing looks broken, verify basePath/assetPrefix settings in dashboard Next config for repository pages deployment.
+
+## CI
+
+The repository includes CI checks via:
+- .github/workflows/ci.yml
+
+Typical gates include dependency install + test execution.
+
+## Agentic operation model (for contributors)
+
+Think in stable stages:
+1) discovery: identify current MPs by state/house
+2) enrichment: gather source records and normalize schemas
+3) validation: confidence, consistency, and anomaly flags
+4) scoring: weighted metric calculation
+5) publication: reports + leaderboards + static dashboard
+
+This separation keeps behavior debuggable and lets you improve one stage without destabilizing others.
+
+## Development tips
+
+- Always run tests before pushing
+- Keep outputs reproducible and source-attributable
+- Prefer schema-safe changes (models first, then tools)
+- Avoid introducing hidden non-open dependencies
+
+## Status and maturity
+
+The codebase is already operational for nationwide data slices and supports static dashboard publication. Remaining work typically focuses on:
+- improving enrichment coverage
+- tightening validation confidence logic
+- adding data quality diagnostics
+- improving UX/visualization in dashboard
+
+## Contributing
+
+Contributions are welcome in:
+- data quality checks
+- source connector hardening
+- test coverage
+- scoring methodology transparency
+- dashboard usability/performance
+
+Please keep changes deterministic, documented, and aligned with open-data principles.
+
+## License
+
+Add your preferred open-source license in this repository (e.g., MIT/Apache-2.0) if not already set.
