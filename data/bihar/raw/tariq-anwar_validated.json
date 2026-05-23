@@ -1,0 +1,460 @@
+{
+  "mp": {
+    "name": "Tariq Anwar",
+    "constituency": "Katihar",
+    "state": "bihar",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "tariq-anwar",
+    "house": "lok_sabha",
+    "sansad_member_id": 2664,
+    "profile_url": null,
+    "canonical_name": "Tariq Anwar",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Tariq Anwar",
+      "constituency": "Katihar",
+      "state": "bihar",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "tariq-anwar",
+      "house": "lok_sabha",
+      "sansad_member_id": 2664,
+      "profile_url": null,
+      "canonical_name": "Tariq Anwar",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:21.463501Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:20:14.486966Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:20:16.855765Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 90.0,
+      "questions_asked": 16,
+      "debates_participated": 5,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:20:15.636361Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:20:39.535279Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544443Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544458Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544464Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544470Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "bihar",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544475Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544481Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544486Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:39.544490Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "‘All is not well in Bihar Congress’: Tariq Anwar flags internal rift - The Statesman",
+          "source": "The Statesman",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUxvZzQ4RUZUX0QycDFNalB4WlpJVEZRT2NVd0lpanJiU2p6cjdGT2c5d1JUZDJNNURtTGpiX3RBcTYtTHk0YU1RX0M3aFBhaE9RcGhQRWtubWVqcnhUc0drNkJScmVpempMQXhMN01LemJEZkdnTkVXTjZLRDZSNUt5UGEzbG5BQmZhMHNOVEVZRHRSREJUXzhmbFZHMzRsOTgwUDdFQWdSMWlQa1VrY2pYRFVBR3fSAbwBQVVfeXFMUGVnM2VxN0dWdTlUV3lTNXp5WWRRQjRUbUhpT3c1TzljV3l1UTBycUtBVW5KRnBOVV9OVlNHb3hUZFUtRWk2SzVfNGR2OFpkWUF3bVBLSTFMTXQ0MkQ3WS1kNnBDNmhKcl82V1Z6WVJRanZrQW85aW1XNE8xb2lfQ0x3OWhxaFkzMlNWNkdtblk3X3dKWmotdDNDY09fN3dXUWZxejdQWUJxTzhQVGx6R3ZTczE2cGM5RXV3NUg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Temple visit with T20 trophy sparks political reactions - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGNiWmFoUTlqTzVtaGpnWGRjRVg0M2FhZ0JSWndMbkJyZnhKdHJxaFpjNEZLamNId3hDOGk5Z05mS3BURndlQUtqbklBdHRMQnQ5WG1rOWZJTW5sNDhjaUZGdHk4UUFoQVlxSDhPNks5TmxfbWlWUGp3OHQ0SjNDNlRJaVZUdHVRYU12Y2xvUVdyNEpNT3J5Njl6WE44MFl5V2xDM3EyUklYQUY5MURQMFdpbldvYjJac0JibUQtdDFyZ1lCQVJ30gHMAUFVX3lxTE1IaHB1V2NRNmg2d2l2ellCT2RSc0N1UkM4SjhaaUwwRW1tSkx4YlhOamdSQURmS3pkYnJpQVhLRFQ3WHQxMmhFYl94eUR1X0ZZOUVNT0ZRUUhoRW95T284cWpFTmpoSE8ta1p0aGtPOWozck9JYUplWXhmMFJkZEdodjFLaTA0c2ZwVnQ3ekpTajcwVzkwLWFJZ3lCQnd0WkkwU1VsVXotNGJiTUxwaUZORHRCWm5wRFZTdjNGLXBmcUUzcXhhV3dsT3JxUg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Giriraj Singh Remarks on Naqab Row Spark Political Backlash - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEdrVnhFMkxYMHRJc19ROTBnUlU3Nmp6Y0J1MGdDNGoyOURCMGdNMm4tcmpocGw5MFEyTG9IalBaa04zNVRzaF9FRjNxbnpsaUFCdC13cDlwWlpmNDlKM1FUbGxFQVBvSk1McHplQU9JeHVtZ0VUcWd1dGxTaFNfQVQxQkZ1N3pHTEFQVlZWS2RNZ2hGZEZRMERMTXpNbGJ4ODNncmtEdkp0TDNqVGpOdlM5dEN2TlVGT3dIUDhDMnhkVlBNS2ZoWnpaVE5ocHFhUC1hc0RjUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Unwell\" Congress MP Tariq Anwar Carried By Villagers For Flood Inspection In Bihar - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdU1XTnVvYWZSM0s3RFdsV3hQcjRlX2ItQ1pGcWZrRmYzY2R5TXlRSUtIWXhrWWdQcVkzckhQYWRDUlRzMUZlZzBOblNYYVZaeHl5VXVEVFRjX1NNNV9YUlVqZklmM3VEV3RJOS1NWDFmSzZUWWJTeHhtV1Z0a19TbHhSTE9BczZJNjdVa0M3cTM4MG5LN2hWVnYyc3NKS0dSUENlTHNoV2NldjdDSDYxeXhGLUFnSVVQaTlJemVB0gHGAUFVX3lxTE0yQ21VQzBmLUdBd2lnS200aFFCbmREMnlvZzZFc1NSQ2tkRUo4RF9lUjk3RndqdG5lV2ZLcEZSQjl5LXhGR2FEVHVYTFJkdlpWTVE1WDJraE1sTGtwSjJjLTVDVkl1MkE3RTBpdV84ZVRvdTJjZlF5VGpkelRYczVQYzAyajBXdEhYWW5YN1gwei1pRVZEaU42V1FobzVXMHVBeVhPaHBMbmF5SlhEekFPN3Vuc2YwTExiUnl5eGMwNHBVOVJDUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Not BJP, not EC, Congress MP Tariq Anwar says this party decision sealed its fate in Bihar - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUkxR0JKWkxGWVRlTG5nMllzcnRwQkh6d2dCUWZxSTk4M0gxLUpWMExLOFFZN3ZhOW14d1FvRHB2VklLS2dfZ0t6VWpJVWlxVTl0SDdfNGpSVHBmVll0ZVdKQjhaMjYtUmQ4UTRCQWdjWk5RUjFqT0pqZUh6blZ5Y3c1emE5dnFaMlJvUktRdC1EQ3M4UkFKN1V1NkRHQndoZWtjNFFYbzhRQ2VpZENnWnA5c0d5dVZLRXd6a1VrVktYSjRq0gHKAUFVX3lxTFBQZE5DNEhWUV9admRSc3BVM2hKZ0QwY3ZldmJpX1NWMG9ncmJtSU1jTmItb1dUMEJFWTBTR1RjWTEyQkItenVfbWF4WmpsbG45Z01EbFJZd3NuMEkyS3lZU2hmMUg3MGRucjZPdVRDbFlWemVJUF9xaGdKalgxVmhURno2NE50UTdUSjdoRUtwdFZNX1FGbU11YWpxbFVUaFpIZ2ZNcDRYcklLaEtWNEh6TmNsTUxWNVdRTEtYRzRXS0l5dDh5OVJXZEE?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Bihar: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Tariq Anwar\n\n### Overall Assessment\nTariq Anwar, the Indian National Congress MP from Katihar, Bihar, presents a mixed transparency profile characterized by adequate parliamentary attendance but significant data gaps across most critical metrics. While maintaining a clean criminal record, the absence of asset and development fund information severely limits assessment of his overall performance and financial transparency.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Tariq Anwar, making it impossible to assess his developmental work effectiveness. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Bihar's fund utilization. The audit revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, voters cannot evaluate how effectively Anwar has utilized his allocated development funds for Katihar's benefit.\n\n### Financial Transparency\nFinancial transparency is severely compromised due to complete absence of asset declaration data. No information is available regarding total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for assessing potential conflicts of interest. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nAnwar maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, indicating potential source unavailability. While the clean record is positive, the data quality concern suggests this assessment should be viewed with appropriate caution.\n\n### Parliamentary Performance\nAnwar demonstrates strong parliamentary attendance at 90%, well above average attendance rates in the Lok Sabha. His legislative engagement shows moderate activity with 16 questions raised and 5 debate participations. However, he has not introduced any private member bills, indicating limited proactive legislative initiative. The parliament activity data receives a 'C' grade for evidence quality, suggesting reasonable but not comprehensive coverage of his legislative work.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal limited accessibility, earning a 'D' grade for evidence quality. News sentiment analysis shows neutral coverage across 10 articles with no positive or negative sentiment detected, suggesting either balanced reporting or limited media attention. The absence of social media engagement data and limited news coverage indicates potential gaps in public communication and constituent outreach efforts.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality limitations that substantially impact reliability:\n\n- **Criminal record data**: Low confidence warning due to potential source unavailability\n- **Asset information**: Complete absence of mandatory financial declarations\n- **MPLADS data**: No development fund utilization information available\n- **Committee participation**: No committee assignment data found\n- **Legislative effectiveness**: Low confidence in comprehensive legislative tracking\n\nThese data gaps represent critical transparency deficits that prevent comprehensive performance evaluation. The evidence grading system indicates moderate confidence in parliamentary activity (Grade C) but poor accessibility assessment (Grade D).\n\n### Key Takeaway\nWhile Tariq Anwar maintains strong parliamentary attendance and a clean criminal record, the absence of crucial financial and development data creates significant transparency gaps. Voters in Katihar lack access to essential information about asset declarations and MPLADS utilization - both critical for assessing representative accountability. The systemic fund utilization issues identified by CAG audits in Bihar make the absence of MPLADS data particularly concerning. For meaningful democratic accountability, comprehensive disclosure of assets and development fund utilization is essential, regardless of the MP's positive attendance record and clean legal standing.",
+  "validated_at": "2026-05-21T14:21:00.935755Z"
+}

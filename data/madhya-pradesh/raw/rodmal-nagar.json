@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Rodmal Nagar",
+    "constituency": "Rajgarh",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "rodmal-nagar",
+    "house": "lok_sabha",
+    "sansad_member_id": 4702,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 65483248.0,
+    "liabilities": 12940393.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 52542855.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.192354Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:28:20.958376Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:28:20.955584Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 90.0,
+    "questions_asked": 9,
+    "debates_participated": 8,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:28:20.954417Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:29:20.192500Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207414Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207442Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207451Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207458Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "madhya pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207471Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207479Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207485Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:20.207492Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "Rajgarh MP touches officials’ feet in protest over delay: 'Made to wait like a fool for 90 minutes', says R... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZWplSWxsZTBPa2M2SDJzRGp6NWJPZHJaNGRLRnlPSk5waUV0Y1VHUlpWbDVnQ05qb1lBbjJPaTltR1JSZURqWDE5TkpNc3hwQXotYjVoaEhLTzNXTHRIUUZjcDB5UklRRVVEU3JqVmJoUk1RangyWEpBbURWRmQzT0FpNjhfWXBqR2EwOURFZTY0dW5NamFNZjdLbl9xRjFzVHZsUTIyY2VrZXVDVjZJVXpLaGNFekVHLTk4YjhMX0lfcFNzUk9UTWlXTUxzTWpCelRQWjNBV21SOUZTYlA3ZEl4WWVfOXFfc01FakdyVG5nV0daQmkxMEhXQl96bEZtenfSAYcCQVVfeXFMUHZEdEFnSlE0OExnWGdlanNZRkV3RTFuSl9iVk1MV1p2Y2tlRHpDV2s2MDVBV2NobnRHdkt6X3RGdmJlbU5mbDA1OWhRWktOaHlZcXZtRk5PaGRRbVNmODRIb2xicnp3VldtMjJmVmdNTU9ncFZTNnh6YThRMGlFcW5teDVTUnF5WWhybVJMZjVzTFhKcUxZNG91Um5KMGJFczZ0UUdfampOczlzakRWd2EzMzBJSFNfcjU0ZGxiSUthLUJxQ3pCWEhQVGlEYzF3VDVudFJvYndnYmdkZVItNVowQ29kNlVET1hnNl9HYXpRZEwtckJIUmdQcW5NbFdQX3FONV9USlE?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Rajgarh election results 2024 live updates: BJP's Rodmal Nagar wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQbGRzMHBLWC1IaGszTFNCRXkxaHNBdG5vaWJWWVRad2ttWUUySjJYX3NKbHlWWEhvUm5KSkh4VGtmbmNfNmRuVXVULUh1Z3ExdjF2MWl1T2plVW9neHg2R3R0bEZKZ2czNjBQRmNnY05mdTE2SkZtNXJPRWZxeTd0SkN3NGNfSmQ5Y0JNZWtGQ0FSY2w5WnlUMm5VTml3SUxIaU5BVGpTZ2R4NEJTZkFCY0dRUDJTMEsxdU5ISnMxWGQwRTJlTEdrRFJJSEVrTWhkeTdPeEtybTFKbXVrWm9hUmlCVktXaE1UTjMxZzR2UEZWV25ab192RnFldDNzSXQwb0Uta1RHWHJZWVlXR19wLU1iZWJrNXBQVkk3VDEyNHJXVGFrSW9Rc0xVVTFNM0ZUc2V3VTRWcUZCY25GVkFOaV80dVJpaGRrOVVIcWx30gHTAkFVX3lxTE1xUEkxQzQ1Q1QxQ21rNDJXcTBfN0ZRNHcxY3IxQ2swekR3NmwteERTVmZmLVllVWs2QUNlazhBSXZLcEtBTUtLb082MWhIend5VVk0SnF4MjhCU2xzWmw1Q2ItN09YU1pfaWV6UUVDMGNpa1JxSzduZnBCTWlzaXdxc0E4cGpMVnpwYUttMUpoN0dxVWZlU3dNRmZsbHFjWXpFTkN4Y242QU9NaURlb2hXcWMtRDFDbDBWeWJwTVp5OXRZRkQ4VDM4UWpoNXZpbWk0cnJMdE5CWER6ZlpfTlRzUW1lWklpU2xHZnp1X2I0cFpfOXdmYkFXSHFIUExYY3JKYWZpZVB2UzFnUnhkQjhGNERWWVA4M0NvNnFvSVBNNVNSdEZ3Qi1KdVlBcUlhTVJBTHoxeThGMmUxM2xtNTAzUW5PRDI1MWdrTk9LRlRlSEI4TQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajgarh Lok Sabha Seat Result 2024: Rodmal Nagar Defeats Digvijaya Singh - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTzBCVXNFMGZ5UnFYZGFiTkdpSS01dlZweGxXWGkxZjFGRG9KdmRaZ21UZVBDSGk3b1A4MXVFOFplc1JXOUlHaEg3WWQ3TzhKbWRlNnB5ZWg1dUVBaUU0dlM5b2xVbXMtWWpWdVFaY1FMWTRod3E5QXhBSnlCZEZVdU5Kc25JOXNCQ29ONTY0T0tGaFVEdFFYMTlIN3p6MWV0dzRaRnhULTZiLV9uZkNWU2ROdXZnaUZPRnQzZTB1OFpFZHAwV2puYXdKaW1OUU0weHFqeDdWT29qOUVpb0pIVnJpNlhubGFUbkU4SWIwaGJRbl9XMEczSjdkU1F0UElBeEHSAYcCQVVfeXFMTVZDbWkwNWVON01KRjFZam1heUgtLTdCbGZzcWEyVnhraUFaeV9jdUJidlhpUHJ4OHYwUWNMVTdUZnZIS2xCMHF0SVdYWkJrQk96ZUhLWXVCY013Qm9EREptTFdSOXRibXVzUHJsYmdNNmpDR0RidFJneW0yRjVYakhQLWdCZEtCekJUbnB6N2o5c0JZZ1dZOUZiMzZDMWQwcjNMZGlxeEhraE9UWFozbG4xczY5YVNEbHQyMUdjYjVRakZyOWlQTkEySk9VTEFxemhnZTlnRHpkVHhKekpYMkQ4YWFxNW90aXlvaFBrelFVRUJwMmMxMjM0WjRlRkt1VWNtX3Z0REU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajgarh MP says India achieved independence in 2014: Congress counters, saying their ancestors faced sacrif... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN01rcjVVT01xTnNZTGZfelJsbzVaeWpiWjl2WHhVUG1Mek1rZFduMUpVbmlZTWRXUDhTQ3ZfeHZuZXV2S3U3S01SVHUzZk9SQ1JWbm1pMDZreFg5dGh5UGhEeEZJeUpzdVRsclV0emh0cVlIRVlnOF9FUm4yWWI2REs4Rkw5cFhyRUlYaUUtRmltNWxCdXdSei1ISll0WkZFcFhYaDdVMFhpWk5JNjBQUXRaN0F4THNsX1g4VGpqeEtmeFZKSzExUlBvY3F3b0o2T0ZGN1FCdjc3czk4a05YYVljd9IB6AFBVV95cUxNWHFyMVM0ZDBGdHpjVGFvWU1aVnhGbV9iR0tReTJpQWVzVy1FazBMdXJCRWVwcFE0UWs2eG5Dekh2MEtzVXU2RjBSTW80RDJManN5NTRfQTltODFKMkpnbVpzNGRGSEI3aUpOSEZOLWhtNUFDZUpvRklTMHZqblYyZERZTnljR0V3alFub3lySk5acTluWkYzZjBIWEt1Smd2QzlaaTdmU2daMzB6djhKbnlqNWo1OVg4RG5KRV9PVjJETk52di0xWmU5TnJOM25MZllrb1UyeW9vM0pTaDNVUnBxN2NkeDZT?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWV1cEZTMHAxRmtJdGNEcjJBSjNmWUVTbzlwY2lXU0NQOVFTRDRyeTBRLUtQckZCQ0J5VWVYMklQNVJxZFVPT3lHdmxMM2Y3WWl4YTh4Q2k0ZUxMejJ5SFA5d0R5SVhlcEFDZUQ0WXgyU1JUS3JOWWJoVFR0cWI2aWRhdlFIVzNjRkpnZ244bUQtdFpaMGF3bWExLVUyWktvUHpVQ0F3M3hHMmhGV3B3dU10WjVTd0d0MlFrMNIBxAFBVV95cUxPSHlYbk1ycDN2YlhXMGZ6NVZnc2d4NzNmclNKTVp2cDltTV9SVzVtNFF0b2cwUjJ4SnM2SnpsRmJlLXB3WnJzUnZsUjRMUmtVc0RCSFpaX3lEeHpYdmVKVmdrTXoyNEg4WG5aRXNTT1lKU3RHNW1PWGF6Zk40ODROYnlSMjYybWs3Y0FoZzJ6Y3kxYlNUN1N3a2dWVmFZc0VYcXR6RW9lc2N1b2tPb3VXX1QzN3ltMklESlY2VENHWEg4NlJx?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

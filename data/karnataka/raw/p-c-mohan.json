@@ -1,0 +1,384 @@
+{
+  "mp": {
+    "name": "P C Mohan",
+    "constituency": "Bangalore Central",
+    "state": "karnataka",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "p-c-mohan",
+    "house": "lok_sabha",
+    "sansad_member_id": 4321,
+    "profile_url": null,
+    "canonical_name": "P C Mohan",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.344786Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:27:09.537836Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:27:09.535515Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 24,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:27:09.534402Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:28:15.344948Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359604Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359626Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359634Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359641Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359654Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359660Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:15.359667Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 2,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "Bengaluru Central MP PC Mohan hits back at Rahul Gandhi, says ‘voters are not Congress property’ | Bengaluru - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYy03MW8xY1loQXR4M1REdUd6X3h0dklYNTRlWkpjNi1Sb0FGOThjYkt4MmFhR0JzYkY4c3g1Q2w2eUxVbUh3ZXpDZXJiU3hqaEl5RUZSaHlJM3d3Sm5lOTEzNXpGUVpYRlFXbmpWcDNqTTM3V0k1emxHU3pSNTAzQ2NhVmdLRU9aLWw5SlZCWkEyLWZpcElBQTAyTWxiNWhEa2hud3JRNk5jelUwbEdTQ3lVbkFRa00zUTJUM3c2N0pFOGF3U3RVS1dVTEgxSWNwSzJoUlNCTzRTaTVKTWp6U0dzdzB0TGNWZGNOanRLRW9zYWx4UEtyOGxVVdIBgAJBVV95cUxPOGhBd2phUTV3MktEZGZzUnRxY0lCb0t4UEJKWm9kSlR3MVB1czh0STZtWFhLZmVLVTR0a01COVU3OWhxNHh4YnNSc2V1c2w5SFV5c0tiSkZjbkhubU1DT0tVRzFLaC1CWVlLV1FjeTNuZDJOaFduTFpTTlppNjRtXzBLRG5HMC0yQzJKOE9MeWtrZTBUWWdfVGdNbl9keF9URWhrcGx1aVFoRkloMWE0WTgxV253bUZXSFFiRXNrNmtySHNnTUNEMnBoMWFzUmd5OW54ZUF4RXViamJtQ0ZFVm1KcUJIWUVsR0NrWDJRR1ZxSXFONXBGbEFPR1FsdFBl?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘ECI Must Remain Neutral Without Any Political Allegiances’: Mansoor Ali Khan - Frontline Magazine",
+        "source": "Frontline Magazine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1ZCWnlwbl9VVXNhUTAzWG5pYmljMzd5OVhiSDhLd2hyNlFTUTBhZkhlQnNOaENtUGlGb3pMUnVtRlloOWhkVmU0YWNEYjNDc2g5bEtyNEdMS044SUQxRVpvaVpzRnB0T1hPOFVyM1JldzdvMXBacXUzampxUkZmZEE2cWJaWnJfOXFmTlVpRnByVVdJemlGUUNNa19zUnVVbnZCRHpQLXZYOHJQdU9fLUlMNEdhVlo4QTZUcm9Wc2dNcFp20gHLAUFVX3lxTE1hMUJrNklzdy1YSzdsZjJNdlRJWVhSU1VHNDZUaVdfYXhhUE9BUlFEbmcwUEFfQ2xNU25rOGw2V1hYT21OTUJqczRKNUlXb2J5bGlBMkxrTTlRVzRnOEdNdjZybmw2TFVDcnJ0Ql9yaGRWeTZqLXVvajZMbl9oVERGeVE2T214VDNKRGo0V3VaUEo4Sy1wU0trem4wU1ZTTDQ2cjYwSERRT3hUa1dCYjBGcHpCcnBDbEJubGFSQWdaSnAzWFFhbHUtNXI4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Insult to Hindus’: BJP MP PC Mohan reacts to Rahul Gandhi’s voter fraud allegations - The News Minute",
+        "source": "The News Minute",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeW5uWUZpWWlOcGE4X2VOWm52dnpOczluWTlsamNQSEVqTW1Wd09FWlZHWGtkcGxPLW9PODF4eTA5YTZuclhNQ2xPZVhwcGtDRURnT3U0Qy05R1VMXzJsM25wU2s1dlVNUDlSbXlLc2RuV1pWRHNVdDVXX2J1V1BheXNmd1p3VjBVbkpLRW13YkQ1Qm1QS0VBNWJnOFhhTi1ySkMxdHdkNlVpZEdKSzlYc0hPOExlYU5VeXlSYtIBygFBVV95cUxQblZRRHUtS0FnT2tzN2ZINUZ1N0pnX1V0ZGQ3UVROTjI4ZExycmlNbzR4cy13bEx3azg0SjNJRjRCX2I3NU1pWTNwY3V2R08tZkZCc2gxZFM3U0JuSkJlVTRnV1pPM0VteUdfeVl5enBhWURZYTNNX0lsWTB1SXgyaGJFOU5RVU44Y2JvQW5KNjFuLWhFSlV6OFlQOWNnY3BtamV6MWRETlNXVWh3NlU4WjFIY01hd0wyNXJpMkZ2X1B1aDNMODZQYU5R?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "BJP urges Bengaluru Police Commissioner to cancel event supporting Umar Khalid - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iRElxNlJ6QlRzVVNGdXVRUV9SRVdGYktfRl92UWJjMzVGY1NhMm44aHlMd1JZdXFoX1g3MGhhZXlVVWZOSW5Dc2p4WExVZ3htQzZlNUt1eXU2SFp2R1pNNk5fTzFFdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rahul Insulted Hindus with Voter Fraud Claims: PC Mohan Hits Back in Bengaluru Row - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjZNSlZGdTJZYWFmaVNfVldxWmNITmhocVFGNDVnVl9tWGNVakdFREh4OU83a20xcUxRNnIxbl9hUnlOWWZOY2V0UGM1RFdZVEN0UXhJTG5rZXFmd216Y2pZZDZwRjlEcVZXRDkwdW5obWk1Qnc1LVNOY2FlYjdQbG9tMHFPYWFoMmR5bHFGeEprVlctOGhqSF8tWEUybkdFTHZ5MG4wTmRmVnFC?oc=5",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

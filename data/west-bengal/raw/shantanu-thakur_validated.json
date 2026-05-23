@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Shantanu Thakur",
+    "constituency": "Bangaon",
+    "state": "west bengal",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "shantanu-thakur",
+    "house": "lok_sabha",
+    "sansad_member_id": 5036,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Shantanu Thakur",
+      "constituency": "Bangaon",
+      "state": "west bengal",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "shantanu-thakur",
+      "house": "lok_sabha",
+      "sansad_member_id": 5036,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.189821Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:20.938656Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:20.936311Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:20.935236Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:26.189918Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195178Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195197Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195203Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195209Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195215Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195220Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:26.195225Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "SIR cleared voter list of Bangladeshis, Rohingyas ahead of West Bengal polls, says Union Minister Shantanu Thakur - Mint",
+          "source": "Mint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc2pNUE1xRHgyNE56XzdWZjh4anh4MFB3MXdYY3Znbmo3VDc3WHpWS1ZVc3RzN1Y0YjVLTlYtOFJ0OVZ5TlJTUmNXaE56M0xyX0pWSlRSQ1VsLXRiVVBXTlFSWDEtVVg3aEFJdWNwRDVaVGtmal9TQjZHYm84RU9FVXVXUWpTVE9JX19uSV9Zanp5eXFKR0Y5QmRIb0tsZG5GZGFBRkhodHplZGQzN1FVXy1odWFJVGNjYkplZDJaSkJWWkFzdHRJQ0ZubF91SVpYUDB2QXRUMlJfNjZWSTFyRE1sWGlMbmdNR3N2LVJ2UndCWFcyZEFSNWZOTElKVGRYckRuNmwwQnJoWlY3YVNmenB5OTRyazRZ0gGeAkFVX3lxTE15UUM3UUhlcHlBaGpPM3V4YXVVTEtmaGlWVW4yUzlNdzk3QmtfRFgtcEQwZjB2QzhGUngxQkg3dzZ5Ry1FRnBCNW1fUnQwYUNxRFp6UnU4UUtyQ2ZTd0M1UW94b2dRRmJudmxIYl9wUG82ampVSzVJUHVxSlNfMWRYNXhIclhMajYyczlVb09JbnE3c3dlSlZ0dWxOaFBhOHY0R0dJeHpPRm9ZUHRjWTZ6SDQzYXFJT2h5cDFkTUZqeEh4R0MtMkt1dVNIYl80dUJWUGQ1NFVMdGg3c1dBMF94ZFJna3M1dHpuSlFVbERfc2dmbFBQTjFSRGs0c2tmOWwzcVp1RW50cnlod3dYUmp6NmtUMU1Md0hBU1RtVkE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "In Bengal, BJP's Strongest Voter Base Needs Attention Quickly - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd3BfQkVGbEttNjh3NkdYeE51VUhHN2I2SWVZc3hjRkRHQzVtWEFwaEtfZ0Z6S3Y3WDZneWs3a2M2X0lxZ2FsclM0Z05hZDNlTmc4Qlg1TlBZeHBXNURnc2RPY1djVGUtcU16MW81bkpNNUhVRTMwbWdGX3Bpdm1NSHBnajFTSUxGY2dHWWhET2R4LXBlb3ZqVjFLNkhrWTNxTVhaM3BfZkd0U2JJYzFzVkNtQy1COVF2bHBoZzZVR21sWWVqUnlOT2lXa3pHYU1PaXZaNE45WmhhVTg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP, MLA in public spat a day after Modi’s address - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VxVmFlUVdoNEs4bS0wRXRqN3hndEI4dzB2azBYaFFDMXY0Ty1jVU8tOU1ja0piODNrLWRCWDJybW5SYllSUDVVblNDNGI4emRYaDRMMXVMZU1FTEp4RnRUN1VhdE1UM2k3MWt5SmhNMWR3TWZiNlZZVmxVb3pXdU56Zm52QWxrVTh6Y1hucXZMQUVNRFRtUzJjaXhtRG1CR3NMUXo3RGIyVzMxUGtfbmllQVNsSkd1emJITC16T0ppYVNK0gHKAUFVX3lxTE1QMHhyV3lTUFJHNVloZ1M5WFdERnFLT3lDSUJyTE4tY013S091TjQxcmJzaDg3NFVwM3pQaDJDa0JjMnk1Zm9nTlY4X1kxYlFVU3ZnTGNYRmo1Z1ZxUDFyNS1fRW4yQ1l1S09MYXJKbnU3RndkSXNIVGNXTWR0UWk5XzFONm9vNkFQaG1VeExHRzFyRzJ0OS1mTVBEY09WMlhTRXRxQ0QwR0NBUTBJazBwZmdudV9YS3ltQUJEY0hmVEpfa2hmZXFMamc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "SIR List Row Turns Violent In Bengal After Union Minister Claims '1 Lakh Names Removed' - ABP News",
+          "source": "ABP News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDhBTGFyZi1ITXV4ZlF5azYzdks5OVVMYVVPU0Z4SmdkZmRmVnNvRkVjOFdxVXY4RTh1eGppdHFYVXowcjNTcEljWkZBTUtKQi13U1dBR2FXNnVLbU9SMTJmRUtVRXAzaXJHRFc0TXhNZWpUd1BhblJrMlFacjg0OGlDT1pGejJ0UXhoTERmYWhZY2Q3Ylhsa0VWMG5lR0U1Zks3bUdiSy1lN193NjFHLTBXZ01LTHfSAbwBQVVfeXFMTzJjY0otTHFwdng5U2pOckVLVmtjZmV3bnVMUms2WVBFSVMwVUdoLUstMG1ESkRHS2owS1h5aEdNN2x1NjdFR1UycnZIZld1TVlHN3lyMzlMdE5uMXRmT3VuNmt0UWZ2cmVFMktxTHptdEFpckY5dkpWeWVPT0pnZ05samxBS3BDanItdTB6SUkzQVRjV0xRcGlQTW9sMFFmNkJ0Vm1pWEdZLUJENlNXQzBvNm9OdFFrNUUtdVk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "More than 86K names of Matuas in Bongaon removed from draft rolls - MillenniumPost",
+          "source": "MillenniumPost",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2Z3MTVGbkZUUTlQbzl3Zmx0NGJZUDVKdXliREZzcFMtUm1rWW5wZzE0d00zLWtjRTREQ004Y3BkUXluVVIyY01sazk5a3E1UEo5cWdDdERzUC1ERWxxVGRNaU4wZWp4OG12bzc1M1k4TllJUGgzOHRyZU1qcFNxVk5tVjlPdlRaMnFIbVZCN3JTSHduNkxkdS12a183bDhxcGJoZzFnUm5meEpMWVHSAbMBQVVfeXFMUG9qSkVBRlR5ZDhsX29vdkhlMWhFck9ZNllfXzQySUI5RU12eTdRSjZLVm9RX0U2Zk1GQm1Eb2JtRFM4U3UwUjZJbFdCWmJXQmFETk84Snh3MHI2cVV2N21pLUpFMGZURldjNkhsY1BkY19NNkRidDlBTFlHa1lMLW1ZaUc3S2hDNFl0Z2RveXBCbV9idFpURG0tMllwc09iSkg3dkZZWjh5cFFmZkRoTUs0WFE?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Shantanu Thakur\n\n### Overall Assessment\nShantanu Thakur, BJP MP from Bangaon, West Bengal, presents a transparency profile with significant data gaps across most performance indicators. Currently serving as a Minister in the Lok Sabha, his profile lacks comprehensive financial, parliamentary, and development metrics typically available for public representatives. The available evidence grades range from C to D, indicating substantial limitations in data accessibility and reliability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context for West Bengal reveals systemic concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential oversight challenges that may affect local development initiatives.\n\n### Financial Transparency\nAsset declarations show no available data for current or previous financial holdings, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are unavailable, creating a complete transparency void in financial accountability. Monthly compensation stands at Rs 2.45 lakh, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nCriminal record appears clean with zero cases across all categories - no pending cases, disposed matters, or convictions. However, this data carries a low confidence warning, suggesting potential source unavailability or incomplete record verification. While the clean record is positive, the data quality concerns limit definitive assessment.\n\n### Parliamentary Performance\nParliamentary activity metrics are entirely missing, with no data on attendance rates, questions raised, debate participation, or private member bills. His ministerial status may partially explain lower attendance expectations due to executive responsibilities, but the complete absence of performance data prevents meaningful evaluation of legislative effectiveness. The evidence grade of 'C' for parliamentary data indicates significant reliability concerns.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals neutral coverage across 10 articles with zero positive or negative pieces, suggesting limited media engagement or public visibility. The accessibility evidence grade of 'D' indicates poor public information availability. No committee membership data exists, further limiting assessment of specialized parliamentary contributions. Social media presence appears minimal based on available sources.\n\n### Data Quality & Caveats\nMultiple automated flags highlight systematic data limitations: low confidence warnings for criminal records, assets, MPLADS utilization, and parliamentary activity. Committee information is completely unavailable, potentially indicating missing Sansad profile data. The overall evidence quality ranges from C to D grades, significantly limiting analytical reliability. Seven relevant CAG findings for West Bengal provide contextual background but don't specifically address this constituency.\n\n### Key Takeaway\nShantanu Thakur's transparency profile is characterized by extensive data gaps rather than performance indicators, making comprehensive assessment impossible. While no negative findings emerge from available data, the systematic absence of key metrics across financial, developmental, and parliamentary domains represents a significant transparency deficit that limits public accountability evaluation.",
+  "validated_at": "2026-05-21T14:22:44.619575Z"
+}

@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Arun Kumar Sagar",
+    "constituency": "Shahjahanpur",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "arun-kumar-sagar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5163,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 58317453.0,
+    "liabilities": 250000025.0,
+    "net_worth": -191682572.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 34.8,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:10:42.682776Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:10:37.820348Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:10:37.817457Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 41,
+    "debates_participated": 15,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:10:37.816364Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:10:58.723412Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568523Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568529Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568532Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568535Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568538Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568541Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568544Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.568547Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "BJP MP from UP’s Shahjahanpur accuses woman of abusing his son with casteist remarks - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkJIblFuNF83Rl9xSkl6aU1EVnFpUDVBUkFHRThwc2h3eXBBUTQyOHVkVFlabG5wakFSTURULVF2c05IWktEQ1d5LU9KQnpkU21ocHM0ZGtlWk1MZUF4d21xODhrR0xBRVl4b291dWRMbnhTOHRVQ0Jid2FNSlNxemVfMzI5RWNWZ3UzUi1nT1oxNG81MHdURVdxQlBWM0RvWkV0cXhWVVNZYlJUM2FYWGd0NEhyNXk5M1HSAb8BQVVfeXFMT2czZ3ZJbUhzUWpnUW1Jb25CeTQ5dExMS2Njcm5feUxZbEJwYkFKMDV0UWV1aE9ZQ0tQT2ZsdVItTmxPS2gzZDFRZGxvT2N2djI4endtaVpPSkxhR2FKeHh2SDl5ZWVYdDdSV1dKd1Q1UEptMS1LYUlWcWxVX2tXOXpNQ2ZIekswSkt2QzlaeVBZbTM2eTRUSGl2UXVRZl9MVmg4b09jNmpaMDF2WnZGdU9hSEZOZGdGOVNURmgxd0k?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Casteist slurs hurled at BJP MP’s son - The Hans India",
+        "source": "The Hans India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlVkSV9ySmk0dVIwRUY4d3ZQcWNkdUNpd29KZW5SQTlSbm5HMU5KT2I2ME5JaTBjd0dTWS13VFFLcmRpZGZfSHA2QkRyMXdGNUd2YlFDS19OME90MlVuR0tZSUI3NV9qUmE4SmFXN2JIV243UUZQWGEzY0xOMHI1SGtFNkFFMFBXTkRTVjd4STHSAZYBQVVfeXFMTmZZaHdZRm1NQTBJNkpNbTFPWE40Q1c2cnRJTXlDMC1SalpDb3NmUUtzVHdxUmZOMlBFM0xOdmtVT0k3UUdUd0JZTXZzaHcwb19HNGM4bXgyaVpQVWg0NUZnRUNEeVUtSlpIeXpJelpOOVI1WW8wcG94Y3diY2pQbXFIeEs3NDk2a2JycEk5Sk40dHh4b1RB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shahjahanpur BJP MP Arun Kumar Sagar declared absconder by Uttar Pradesh’s MP/MLA court - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXVwY2F0MG5takFKUnI5T29WVlRQd3Y0UktwaFF3bWhTY3VXcmp1LXlJVDZFRzVOR0ZVWFVLRnVOcTRSTHh2WVBhYk5ZYlpGLUVYYmVzQWhVcFpKN1pUWXNIV3hocWV5OWg4UFQ0RHoxNXk2N1BIOEZLQkQxVzFINnlkOWROX2VvdGN2Nk5mU3I5aldLeDB3a0xaOGZGTWpvQ1V4UXdjMXRIZ21TQ1o1b3FMcmtXVF8xTlVkZ3Q3UWxaa2xhazA3NEl6YmN4UdIB1AFBVV95cUxOMEVRY3UyeGF3ekM1UVNJUHJpSmRaRG1JUG5yTUE1N0ZGblJDazVfT0lpRVdWd0xmZV81RnF2WEhSMHdzZk1CaVB3aW9LVExXOHRYc2Z5bl9QcHFTdWlhX2daNGhuUTZ0XzRld2tNRnFFdG4tcDJTNGpnZVgyRTZGckNmdTVDaGJfTUJHNVFmSzNuRlBKU0Q2ODVIVl9wWjRyZXQ3STFjM05pc2Nnb1pwLVV4OEFQNk8yRjl4ZWF2dUUyWks0YXpRZnVKeThyWHFwZ2VxYQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shahjahanpur BJP MP Arun Kumar Sagar declared absconder by UP court - The Economic Times",
+        "source": "The Economic Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdlRfcnZDZ2JEQzhOQ05iR1NnZU9zY3lMelA2M0xSRDFpY1JuZ1dMdDdKRzJuV2NJVWdlZkJSR1hoVFdNZ0xDS3lsc05TRVpwZXVvLVozTjByYUpRX1lLb0FfZDNFWXB3U1RSZWFPWDc0QWhkamRUWlNpZERGR2hnV1hPWEhubm1XZmFTZXJDZmR0Sk5oeEJxSDNoc3JPMk0zZW04cjNWNmcwd2Jsd1dLa0dZSHFISHhoYjBPalZaYlBQWWZ0eFF0aDlMTkJFSXNZcXJUeU5pVTd4S3ZhOXfSAeMBQVVfeXFMUDVjNHVJMEJ6ckdVWE1Yd0xCOHIzcmxEdEJYNUh5R1dNMmQ1bnJ4d0Q2YWhIRUtBcDQ5eVl1dTJFZ1Qtc1l6eEFxelJaVGFTT21scTN0U0Z4N2dKdmVmejk0NThvRHN2bnRjb0p2ckxQRDdBVGxFcWpkZVhRYTJ0c09GQ3ZEX2ZYSVZpMlNYMURiRXQ3T3V6X3lwT1AyeTMwOTluZEVQdnRjalppdzVORTZlNXFudWNqM0tIdDd0bHVtTzB0VlozVzNlb3JjQnhzcUJpZGZ5REdWWFNzTEo4ZGlTam8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arun Sagar, BJP MP who talked of irregularities in govt scheme in UP a Dalit, ex-BSP leader - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmhKODBfZzdvQ1BZdDBkZWc4bThlajV4bGxtRUZra1FmTjQtU05tVEtSb1RPSGtxMHN2c1FuN0trdDZYN3NYbFUtWEZ0NFlqNERuQkFQWGhoQndpU3psajRzencxd1VpVzRFWmctTU90ckNsbTU3b3dSTHFMdkxvRnV1Xy05RW96UE5sbW9aaXRWZm5sc0M1ZlU1bTZ1Rnp0djdXRlhFRlIxZnZWc0RaOV9QWTNqekpNNUHSAcABQVVfeXFMUF9ORS12RmNoSUtVaGFiVDhLVUlWUmk2RVhDUTVzUk9Oa3NTVzF1MFRIUjdvY3JtOVJNNEhvZlUzT21yRUc3NlctYlNjNXlFY2Jfa0xYTUdnTExlekcxV2JncnFiTEZGYzhvbm9UU2I5S3gza0tiRkJTRnRIVHNfam5RRW5tY2kza1FVUktZRmtUZkdHejRZX1pQMDByYUJZQTZvNlVHa2dpLU85cDFZblZobURFYUk1QnBFUEQtQndn?oc=5",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

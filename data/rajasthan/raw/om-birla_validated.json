@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Om Birla",
+    "constituency": "Kota",
+    "state": "rajasthan",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "om-birla",
+    "house": "lok_sabha",
+    "sansad_member_id": 4716,
+    "profile_url": null,
+    "canonical_name": "Om Birla",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Om Birla",
+      "constituency": "Kota",
+      "state": "rajasthan",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "om-birla",
+      "house": "lok_sabha",
+      "sansad_member_id": 4716,
+      "profile_url": null,
+      "canonical_name": "Om Birla",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.154049Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:21.313421Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:21.311704Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:21.310994Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:20.154238Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159901Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159919Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159928Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159936Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159944Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159951Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:20.159958Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 8,
+      "top_headlines": [
+        {
+          "headline": "One dead, five critically ill after alleged post-C-section medication error in Kota hospital - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYlZKZUkwRUlIclY3WlNZMzVGSUxHT1lwcE5XZHlQOFFPMHN2ZGw2TXVkV2R1UWszUS12LVRkOWFUa2xjbjJybGlfODVGRS01VS1jMjMyNmRHd0prRUNqc0pIQkpBN1RpakMwM003a0txY0xILUxmUE50bHBNMERNRUU3MXpYdDZlektJU09adHZBSFBGSHZPdWt6eFAyMnVXOHVRR0lkb1VsTmRwQmZ6NFBoTHNVb0pUNnhkSFUtczNPQnE1Z2VFR3F0S3BPV3VzbU1hSVpSWWxhRUpEMjlGYThUMjh1emNT0gH2AUFVX3lxTE5zNzBBcUdFT1JfSWtSUkhKdWVpWkdnWXZKZmZsS01tSGRYY0pCbVBjd25KWVY2UnhIaUFwRUMwYjFBR3VPR2hoakI5N3NFQXpzWDJVM1kzM3dzNmdhZFdqTHpiNlRqeDBhS0w4TUVRUEdwX3FsWERMN3pCckFIUFhrT0JmbUt3a0NtY0Y3dDlVY25mWVJ3SDN1Z01PX0ZxOE5xR2Q4ZFFDa0gtdzY3bmlIdmRPMGxjY2J0SHdnZlNHM0JvODQ3bjVRc1VibzlOa3FUVWRRQTZfMjRUdS1YTFoyNVp6a290c3owdmljelhKTWhsRkcwdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Om Birla fully dedicated to Constitution, holds deep respect for parliamentary systems: PM Modi - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS09PeEdHLU9Ha0NPTEtTU2RjSDdrNnhZYW4zNFRWaGRSYlNzUnZTVm83NVp2VnBtVkNNcXNVemp4RFI0WjBsYS1EX1dhZlYzbEd0cDVCWDZNa0U5ZzM5enZSQVZHaU1OcjFFcVBLN0xkUG9oVW5mSEhBcjNSYlZPcUJ3R3VpTFFuWjNHV2tvM1VrSElYMkNsR3lMU0ZpcDhYaXVLYTJDRU96Sm16S2l3M3Ytc0IzRXlIc2JJSThNWnVDbUQwc0Nqa3JsNklkUFpteFc0d1p5d2oxUllhUzVmbHhHT2twdW83?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Man detained in Kota for threatening to shoot Rahul Gandhi, other Congress MPs - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlYzZHpzaDRUNXZNMDljVGFzQkRTWXAwa0RxS2hnZUlaRjFENTF0ZE9sUGVrd3BSZy1nYzlQU1NlN25nUjl3dFFWYkM2WE1pOTNmT3pBdGIwcHdUeHdqQ1l3T2xodTktN2lOdWNTX2NDbjA0Um5MZDdYMjczWUxFckF6NFowcnVxSkVPeVRub2c4WGw4LUxMSnBFNEFTZHpTT1BsYVNTclp3YnNob1BBX3ZWZFNOaWswRjVHSWFuNXFRVFJNN2RoVDRnUHJsTW43cGw1M19fLXc2ZndyX1VB0gHmAUFVX3lxTE40eWFQODVMajZzY1ZTQzJXM3NTamRPOXZTRmx3eWpvZmE3anhVcjZmVEw5YXZaa0M3NzYxUV9oYUVfNndhTDB6anlJQmNVZ0NYemNjQ1lCZm1DWXFPRHoycFVxTlh5YkZYNV9zaFFieng5MlBSNEY3dDdUWlgyN2VVbEhuUmR4WlNJdkJaUlp1bi1FN3JnRUNROGhkU1l2ejlkdHZmVWNqUUFGcDlkdEtNRzBiMVRYUWRFNG12TTRKOW02YWxmUVRnMjVjWTBrZHpLdnBrdjkwbVVBX2gwNXJhamx5V3p3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kota man arrested for threatening to shoot Rahul, 25 Cong MPs in video posted online - The Times of India",
+          "source": "The Times of India",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcDJwamJKMWEtZ3EzNUFfZFM3Z0o4U0c0aFRfYldjNzlOR3JBVENaWktCZFliV2FKZlBSQnBveW5rOUdsZ2ltNGxMdVdaNzNPc2ZMQkttVDJCbHdyY1Q4ZnQxYTVxbml1eEJ1NWVYVnhnTGlMTF9jTWFrNmdTVFhuTjFGb0NfWjI5eUppY0RNYXREMlpOVUxsRkFZdjhpMVRQb0swcEIzZDZEb1o1QUdjeHEzNmc0VTlxdGJ0UmlJcXJMS2VsUEs2RThRQXFmTGtJS2UwMVFQT25kN2Etc1dXR0pmMkJkUdIB6wFBVV95cUxNWkNlRV9qMHNDa1FOZk1FWkFCYUlJTnI1WVloRjlfV0FqRG1lb0Z0cUtWZmdWN2ZnR1VMY0Z6MHRhbVJ0ZVhBOV9BYUxLQ1RDZS1mQllVVWtCNmtoaXhmSU5VRmIxNURwRGt5aUJjRTlqQW1IdGR2SDBheFVZZEg0ei1KTzdoQ2tJaHpNQ1I2ZG9rWEVaTDlIdmxqWVYtNUEwOEZaWUhrTWxNV0RLWlFYNklBODVteHkwZ3I1ek0yWk1xQkxSam56eE1UcDBVT0FrNWxPanNiWHAyUEtydGpvZXVDQXhBQ1Fyblln?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "No-confidence motion: Speaker Om Birla to skip LS proceedings on ‘moral grounds’ till disposal of notice - The Statesman",
+          "source": "The Statesman",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUFJuemg0ZDZaSUx2SnBWN255bzRoTUpoNjVjb240SllWQzNnT0NIQkJmZ0RCUkV0cGtxaGQ0eVAwVS1wbVBHTEMycFo4TGtGZ1dDeG5jU2x1dGdLRjkxbHFwLUFxSlhrUEk5M2pneVB2T3ROdkpCMU04bW1hV29wRHNmS0lQWVFnYWJzc29ESWVSWGRPZHMwM2t4SEhwQjA2b3ZTcEt2RFMyWlZYc2lKZTNxX3dHRGpWMkZlZGN4aUtVbzNGeDBPOFN4Y1RqUm5WamVEWFVCVVZBZkFrbGpxMHllY2dGVFZFMHlmUTAzN1MyNHNOcG5nZGRVbHdQTkFZTUFTbmtWLUV5ZHQ2UDY3b0ZlX3Zab2wzNC000gGgAkFVX3lxTE45VjJJOXFVWHNRQWtJQjk1WDg5MWZhSVJXYVAxS3AtMmZkNXhCaE9zakphd1dJUTlfYmdlMU4wNEtoaGFLMVY4cE1Vb3V3QVFLUnE2Zl92SXc5Ny1INmtaeTg5OTVFS0pYcXh0QmFGeGN5bEJHNEtzRy1ZUkszUVIzbllhRVhXbWJDUUFGQ19KVlNoQ2xKR2VjZmRIVjZLemsxeUpGUFlKR1BZM3ZZaXB3NHNsZFhGWTBielBURnQ2RWRSSHhvWmtSSkE4dW14ZnUxX1lZb1h2WWRhcEMtSEhYeVFiRmpRZHh0UFJKelptRnN0OHZyRnFlSUU1NFNiMGVWcUczRkctUmxYOGVQTjhkUWg4akhDdk9Sd19Kb0RaVw?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Rajasthan: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Om Birla\n\n### Overall Assessment\nOm Birla, Bharatiya Janata Party MP from Kota, Rajasthan, maintains a clean legal record with no criminal cases. However, significant data gaps across financial disclosures and parliamentary metrics severely limit transparency assessment capabilities. The profile shows concerning data quality issues affecting most key performance indicators.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, preventing assessment of constituency development work. This is particularly concerning given CAG audit findings highlighting systemic issues in fund utilization across states. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether these historical issues persist in Birla's constituency.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, providing no insight into financial holdings, growth patterns, or potential conflicts of interest. The monthly compensation is recorded at Rs 2,45,000, consistent with standard MP remuneration. However, the absence of asset declarations represents a significant transparency gap that prevents proper financial accountability assessment.\n\n### Legal & Criminal Standing\nBirla maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, convictions, or disposed matters. This represents the strongest positive indicator in his transparency profile, though data confidence is flagged as low, suggesting verification limitations.\n\n### Parliamentary Performance\nParliamentary activity data is completely unavailable, showing 0% attendance, zero questions raised, no debate participation, and no private member bills. This data void prevents assessment of legislative engagement, constituency representation effectiveness, or parliamentary contribution quality. The evidence grade of 'C' for parliament data indicates substantial reliability concerns.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement with only 10 total news articles identified. The sentiment breakdown shows predominantly neutral coverage (8 articles), with minimal positive (1 article) or negative (1 article) coverage. This low media presence suggests either limited public visibility or insufficient digital footprint tracking. The accessibility evidence grade of 'D' indicates poor data availability for public engagement metrics.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight severe data reliability issues:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence levels\n- MPLADS utilization data is completely missing\n- Parliamentary activity metrics have low confidence ratings\n- Committee participation data is entirely absent\n- Legislative effectiveness data has low confidence\n\nThese limitations significantly compromise the assessment's reliability and suggest systemic issues with data collection or disclosure compliance.\n\n### Key Takeaway\nWhile Om Birla maintains a clean legal record, the extensive data gaps across financial disclosures, parliamentary performance, and fund utilization create substantial transparency concerns. The absence of MPLADS data is particularly problematic given documented fund utilization issues in the region. Stakeholders should demand improved data disclosure to enable proper accountability assessment of this Lok Sabha representative from Rajasthan.",
+  "validated_at": "2026-05-21T14:22:39.692702Z"
+}

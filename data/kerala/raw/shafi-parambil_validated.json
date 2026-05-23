@@ -1,0 +1,432 @@
+{
+  "mp": {
+    "name": "Shafi Parambil",
+    "constituency": "Vadakara",
+    "state": "kerala",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "shafi-parambil",
+    "house": "lok_sabha",
+    "sansad_member_id": 5698,
+    "profile_url": null,
+    "canonical_name": "Shafi Parambil",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Shafi Parambil",
+      "constituency": "Vadakara",
+      "state": "kerala",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "shafi-parambil",
+      "house": "lok_sabha",
+      "sansad_member_id": 5698,
+      "profile_url": null,
+      "canonical_name": "Shafi Parambil",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 47,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 47,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 9934524.0,
+      "liabilities": 1500000.0,
+      "net_worth": 8434524.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:01.322884Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:23:03.814037Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:23:03.811237Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 60.0,
+      "questions_asked": 46,
+      "debates_participated": 5,
+      "private_bills_introduced": 2,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:23:03.810122Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:24:01.323018Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193281Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193291Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193297Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193302Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193308Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193313Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.193318Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "From campaign hero to villain: Shafi faces heat from some Congress, IUML workers over CM race stand - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVV82bWVIUi14bHh5SktEblZaVWE3MjBUVXlGeUN3MV9mXzlPTHdranhldVk2eDdFNGltd3FLNHR6NUJGamdpUDd2ZDNMQ2NHSUprdllaZnVUVTNjM2lYdVdBY2ZBdTZSdS1nX2lSMGNpZUF1bEYybWlCb1NKdExoYWl4czVIVFhhbTdTX2RqS01jMDQyTHNYTzl2Q1VGdF9mXy1XbHpfWlBWRzIxNTRJdzBMV280QlRPWFpBZWkwTHBGT0tqd3FjekpacDhVaW5qY19VM1o1bU1Bd1pELWdCMWFkWktkTDJ6eGpSS9IB-gFBVV95cUxQd3FnczBHUGdweTM1djhWSnBsbTk3MGdNdU5DajN2MUxqUldfeUZuREFUOGRKVlk3aHpOaHlLVjB6U3dxcGNVd1RUSTVNdHNQS3NIam1FRVpfbEJ2ZmJuSjN2NE5MdVgzajBkMnl2TjI1cnF1d0pDSDBUYlJ6YnF4ZFJUZm51c1FKMUozQ21VNEZOVjNSM09kSy1GeGtIakdNNWhmc3FzUmtCZDJDaDdiazBZTlhMWUZKUFJGc0NYU0NMRTFpU0FTNkdpQmlYLTF2NnJtUWVXQmJQVXhTTEJkUFZwVnJnSEFWWWVSTDlLRkhlNklxbFJZWS1n?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kerala electorate has voted for ‘change of government’, says Shafi Parambil - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcXFkV3dMMUEyMXNtN1ZzalVsSmg1TGNEQUZ3VHJVSld6Umt6NEdjSXMySWJYejBqajJ6TkNzRDQyTDJIYjNGRXMwblZzWDAzbVBTLWJhY2Q4OG9TdWlJcWtXTmY3QWNvQmR4Q3haNlJFV1hyOUI5cG5MTDhCempoYTY0QlZFa3M0UU9hbUZQanFpaURYRVR3QW9MM0lIVV9PSDJuTE5uU3JSMkt6dWRuc1pCNmlSeFBZc0theXJ0SVBoUTIwTF8tdkM1al9PVWxuVXZnelk5cmdHMGPSAeIBQVVfeXFMTVVCMlhEVk85RTBuY2tsd1pOMTNUdzNCeEpKTmk4ZGh4cjdFMW9RX25zd3N5RTg1NnNTM2dwWXBadU1jR1JORTh3UlNrVWplakhhNnI2LUF6a3ZPSDNsM3BUYnlwb2U5RzNlODNyWl9zWGpCcE1QR3FXZmVUR2ZDVml3UmJKLVBPTjBwSjEyRVRFSjFITm1McGNXc0pkSU5wcFBYSTVFd0ZNWVozSUYtUzRXckIyYjQtYkFpNUdOd054Mm9ZZUlzY0NqYkZJOXRqRXN6d3pDZExMajNtVE1maGU1Zw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kerala court detains Vadakara MP Shafi Parambil in national highway blockade case - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkJaRlcwVllRZC1IMnVKclFpRHg0Q2hBTkhCbW9ac1Q0Wk5ISHNBV1FYWWV0bHUybFVHREhTU1hRSWtRMG1xNXR2ckljNVIwNFg5R01HcHR3V1pMTFRCenhxZjNkWHVGVXdEMjFlR3lWbzRyOXRQWFdoVUNaM3h3b0wzNEVMTHcxbWsyREJLYkRmWHRVUklRVGNYMWo2engxaFpYOEZubkNmaDRtWW40bkpHaTQ1WlpFTG9YYlVDbkNxQTZsNExMaEZZcVJTcGtaaTZ5bDNLam5feWo3blE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shafi Parambil against Pinarayi Vijayan in Dharmadom? Four Congress MPs likely to contest assembly polls - Kerala Kaumudi",
+          "source": "Kerala Kaumudi",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSnJvcmNPTkxDekZqMnBiUEQwejI0WllvVjJIMm5IeUNqdlV4UTEwOEwtc0QwVWh2SXZNTDRhYjNCTnNDWFpSbzVLNjR6OTBFcXlpZGZXQ1pyblNFdEtvNmx1aWlWQUt6aktjakRhQTNLel9OUDRRVkFkZEUxejlUN2FtLTdNdjNnc3ZnZFhhcldQOW56OFJ4Z2xwQkFDblhYY3FIUnNBSTZQZzl2QldVaEg0VXBHdU5wUmp0TGY3T1BxUFJjeDhPeG1yVmY1NWlvMVNvUUtEbE9udHRHZHdtRmc2LXhza1ppUFdmTFNKVXRUZE5FZVplTTV30gH_AUFVX3lxTE1TNk9QMURNa3VOWllmX09IS2pKbV94NVJQZWFYdXBsQnEtZ3VxSVNNVzlWUkw1LWZPS3luZHpraEItV01RZXlidGZfTXZfaDdxQ2piYmVTUkx5bFNsQnBSSmI2NW5DSExJaFMtT21JQ0t4VkphSW82eGJ1QnBZS2ZQOVRZZU9ha2RJZG10NklrZ1lMQmNCdEFzYTc2ZmVuLXNMRkZ6Rm11RDc1b09RSTNqZkc4RUJDcFVnNUhaUmVjV2M0bXVHTUF1TVhRMXdjQnZQNVV4cTFZWDdyaFVqOXJLbUR4eXhwbGhmSmNGRmVhdEJPcEZySG11NE9VZU9tQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "On-stage scuffle should have been avoided, Shafi Parambil should not have got provoked in public: Mullapp - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZk5SeWREVERLMFJFUGx4UmdXY0ctcXRicDJKOUVneFpuUGU0WVVnUWtKMUwxUV9TV2Izd1E5c2Z1b3FyalRXMDdMclBSVl9GTDV2ajduZ1J4aVdiUVQ0V0tkdUhYLVpHeDNjQVRTa3RWcC1tVjQ0ZXdyYkdUZXFhaTBxM3VKeEhxZnZ6ZnBnbll1SDdfYVNJYld6dlhxM19PT0YyWnhqOHJRUlRGRWtkSTZ6MzFRUXFYNWVPdk5kRjN3dnBfSjN1UEJFb0VDa3owbjRrak02Zkxrdzk0V0NDY3Q3ZjNCZmNjckppQ3FwUDhsdzAtRDBiQXRnZWpXMndNcTlpUk5YZ0FNTjRM0gGSAkFVX3lxTE5KdTRtcXVlWWJWb1NISlAtczJ0Q2huTExvYndYc3k3QUdKY1dTNkNrMUl4ci04RG9tYnl2ektmT2VuWDh2TlNhXzliakkyQnVQeXJ3OE1zNXdGcnB6RUlvNGNkTTdxazBEcEZnZi1RcEE4ZFVYemxwcUhOZUJhdEtsRlMyODZwZ0ZubXJQNVYtV0FxUTFaSEJkeHBUNmRpNG5yQkpWakJDLVNwNFpURkdKVXBlR19qNnVNTWIxX2Y1Zl9BZFFqY24zQzh0MUZyZ2dqZlgwd292SUM3bWhaSXFfa3RwRXVsTFVYUFZyRkhyVEVhNElyRGtiQ2hPNmtvMmNVUXBVWnd0NmVhUUY0OWJ3enc?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 2,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Kerala: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Shafi Parambil\n\n### Overall Assessment\nShafi Parambil (Indian National Congress) represents Vadakara, Kerala. The current composite transparency score is 38.5/100 with low overall data confidence. Shafi Parambil has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Active in questions and debates.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 99.35 lakh; liabilities of Rs 15.00 lakh; net worth of Rs 84.35 lakh. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n47 declared criminal case(s), including 0 serious case(s), 47 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 60.0%, 46 questions, 5 debates and 2 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 0 negative, 10 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 7 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nShafi Parambil's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:57:10.194303Z"
+}

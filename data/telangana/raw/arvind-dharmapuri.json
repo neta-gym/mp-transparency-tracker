@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Arvind Dharmapuri",
+    "constituency": "Nizamabad",
+    "state": "telangana",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "arvind-dharmapuri",
+    "house": "lok_sabha",
+    "sansad_member_id": 5082,
+    "profile_url": null,
+    "canonical_name": "Arvind Dharmapuri",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 22,
+    "serious_cases": 0,
+    "pending_cases": 22,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 1099020273.0,
+    "liabilities": 306681918.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 792338355.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.005359Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:20:39.930427Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:20:41.848682Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 34,
+    "debates_participated": 2,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:20:41.012035Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:21:17.005522Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028127Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028137Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028142Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028158Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028164Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028168Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:17.028171Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Revanth Reddy will become next Suvendu Adhikari: BJP MP Dharmapuri Arvind's big claim - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTZOWW4wNmZzX3V6cUhRSWNNT1cyM0Z5UTVRVHhtT2RaV285azAxdFNOZG1TNUtoakQ0QXhRMXBrT3dTMGJyUXFCVlFDSHUyY1otcWwyZ1pjQnZrMjN4eElLZklvekg4Mng2cFhJU3pQdHZ2em0tdFlQRkFKV1RoTGRKakpUZ0R0b1FqS2VUaUtDUnotbmY3UUdXcDVvXzlCRXd3NVpLNF9XYkloUkxxRWJRVEZzMmhmdG9ab0h3NkdDV2NOenNGN1BWMUpKdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will Revanth Reddy join BJP? Nizamabad MP Dharmapuri sparks major defection talk: 'Like Suvendu…' - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRW55UTRtdzJJc2RyeFVSY0ZkTTZ5aDl3T0pLcmNvVHB1ZWxOQ3dhNWYycDRfbDZ2aEg4LU8yQy1TQXBKTFdHT1VVZ2l3Nkx1eF9tYVUxSTAzZVhobjF6bjQxRS1HUEh3MnJKU3FVVkJLRVlXc3dyNVZURXhtU3NiX3N6Ulp0M0ZfbG1Ib2w2WGpPNTREbjFrWjNoQzBNR21GSWxSZTFBcGlHYWlNWGdYa0w5SlVjOFMzaUFuNGdham5oVEROcC05a001dHp2UC1ESDVoWXRlRF8tQmJtYmVSb2RR0gHnAUFVX3lxTE91RjdkZzVEU2ZUS1d0X2pFRHBac3pLUjVLa3N2SXp4VXBDdzkzS1UwOVQ2NnRmZXUxZEFsNzBDa3NKekg3VDk4VzVmUFIxYTYzU1h6YUJIdnNFa0NxRWFkNXRhLXJKa0g5a1AtU0lyT2R2Z3Z6cGIzamxyV0VJUGl6cVptcnoyb1pxQklUQmpwQlNma3ZqLUg1SHNqUS02RTF1Z2xTb0p0X2NidllRZ1ZPZ3RvNHJGMXdRNlZ0eDBBVWNzakxOTlN1b3JCcVFnaExvMEFwaHBEeF82QUc3T0s3R0dBQVdxaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CM Revanth Reddy appears to be eager to join BJP, claims MP Dharmapuri Arvind - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM1lBcV9YOEQyelNiNUJJX1NmeGFEOFItejVzN0ZKS1h6MHNfRTRhb0VtckZ2M2RRWUdNcEZFLXByVGkyTXotQ3JMdTQzWjFhTm01UktpVW5pd05PN2FmUGR1THZsVXlWdHh5T1VKLTJDUW9GY24xTVBTUTc5NGRkdG05Z1gwWUdJWlNHNTYybVJSYTlQZXRWR0NvS2RMZlNnNVVpYXVkbWZjWXViMTZPSXAycl9QdG0tM0NkdVhoTWlyX09BRVdrU2FZTGVBbHd4dG8yUNIB4gFBVV95cUxNZldfTldlckljOVBoSk1vTnNhOXJoOFhNd0tLaHFiWFhUcTNuN0ttenlRZjBKOFZMLUtBLTBtVkI2R21SampRZ1JidnVQcHctX3N4X2RESFpscTdacWpndTlkSWE1dFdNYWFPNHUwenowQWMtYldhYzIzTFJfM3VnT1RyRzR0RFJrX09ZM3U4Y2VkRzN2QmdyaExVd2VrOWV0ZERxY1dmUW5XZ0FMaUh5VXYxUlMxeUVINk53WEVpbEx0M1g0Wk1rT1A0YU9VSll6Z0pMbWYxUzFzUHB1bmlsU3Vn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Telangana CM Revanth Reddy will be next Suvendu Adhikari: BJP MP Arvind Dharmapuri - Zee News",
+        "source": "Zee News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZi1hbjU4TkJfdkNaR2tELVdYNS0taHdWOVJvNnpZM2FNRGFMMDBGYjI3Z0VGSkk3RWk3YnNsSjdRTC1ZclhBVzhhVTdRNHYzWTVBcU5SUUlqV1JHeWNEdW1mSnlNVW9FRmpsUFIyZ1hxMzdidmVGWFdyMG9oU2RKZF9MbXhRUGRIa19uNWc0S0pYQ2tkRThNOWFvb0hpanZDaGxWd1hGa0lIRVRxYXE4Ml9sZmhmOEItY19aaGltMS12dElPVjhLRm9n0gHKAUFVX3lxTE1mLWFuNThOQl92Q1pHa0QtV1g1LS1od1Y5Um82elkzYU1EYUwwMEZiMjdnRUZKSTdFaTdic2xKN1FMLVlyWEFXOGFVN1E0djNZNUFxTlJRSWpXUkd5Y0R1bWZKeU1Vb0VGamxQUjJnWHEzN2J2ZUZYV3Iwb2hTZEpkX0xteFFQZEhrX241ZzRLSlhDa2RFOE05YW9vSGlqdkNobFZ3WEZrSUhFVHFhcTgyX2xmaGY4Qi1jX1poaW0xLXZ0SU9WOEtGb2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dharmapuri Arvind makes stunning prediction on Revanth Reddy, says he could become BJP’s next Suvendu Adhi - The Economic Times",
+        "source": "The Economic Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONG9vWFBiSnFQUHllWmtiMEkwY0I3Z1hobDVJbmRoYnkwZU1oVzc2OG8zNkRGWFRTRzlrRWVocFdvbXltQklzNnA2Zm1WVDg0NUlWdFhoV19Fb09yQmc2ZHA5REs2WGNhZFBvRkxiTkhqYmlUQVlVY1Y2bGs0TlZ3elNSNWRXSHI3Tm9qWGNjV1ZvTThjZ1habXJYRWRTVGZYV1NaQzFWZmRjSUdqU0ZSMU1fLTE5dkNVeC02SEhubzZnWTdxU3A5bGd3THhHWlVJaTJRTEZCRTA4c3I2OUxRZzBUV0hyblRxbFRXNTdLMEVyaFMxcTBqTE50QkdCMTdrRVJjR2NsSUlPanZMMHQ3dNIBkAJBVV95cUxONG9vWFBiSnFQUHllWmtiMEkwY0I3Z1hobDVJbmRoYnkwZU1oVzc2OG8zNkRGWFRTRzlrRWVocFdvbXltQklzNnA2Zm1WVDg0NUlWdFhoV19Fb09yQmc2ZHA5REs2WGNhZFBvRkxiTkhqYmlUQVlVY1Y2bGs0TlZ3elNSNWRXSHI3Tm9qWGNjV1ZvTThjZ1habXJYRWRTVGZYV1NaQzFWZmRjSUdqU0ZSMU1fLTE5dkNVeC02SEhubzZnWTdxU3A5bGd3THhHWlVJaTJRTEZCRTA4c3I2OUxRZzBUV0hyblRxbFRXNTdLMEVyaFMxcTBqTE50QkdCMTdrRVJjR2NsSUlPanZMMHQ3dA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

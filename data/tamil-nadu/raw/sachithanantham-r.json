@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Sachithanantham R",
+    "constituency": "Dindigul",
+    "state": "tamil nadu",
+    "party": "Communist Party of India (Marxist)",
+    "myneta_candidate_id": null,
+    "slug": "sachithanantham-r",
+    "house": "lok_sabha",
+    "sansad_member_id": 5628,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 9,
+    "serious_cases": 0,
+    "pending_cases": 9,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 2597479.0,
+    "liabilities": 785694.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 1811785.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.294183Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:23:58.717839Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:23:58.714923Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 30,
+    "debates_participated": 7,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:23:58.713746Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:24:55.294377Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309694Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309713Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309721Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309729Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309737Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309743Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:55.309750Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "Allot NEET centres in TN, urges Dindigul MP - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUw3MmxNamtIdERoY25NRW5CV0k5amlJVW03MFA4S2dzbHl6YXJzYmVyY2drX01sUVNnZGJwU1RfVFJDQUNQOG5LcFF2eDhZTHhNTXduRUVUT2c4ZjRCWFl1eVhCZ2xhcGhLcWs2Y21XUGFVb2NOamVRNzhLcGxseHk5WHdscE05RnhtU1NhQdIBnAFBVV95cUxOa2xoT0E5U1BXbVI4dHJGMk03YjMtd3RhVWxUWlNMOEF6aFVSLXJodGlPa0hob1VWbWRmNmJZZVNEdXVHNFVXenN5dVp6VmhKS1VjcFI3ZzBYQXNCNTF0OGZCeXhtNlhSdkFMamZhYmN3OUhMWWNqQzJmYVNWU3Y0T3JNYkF1eFRGWXVOeVF1Qkxobm5IRUdQZm1IakU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "DINDIGUL: CPI(M) Candidate's Vision for Development - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcUhFWndqanFkVjk4MDRWNGdhanU1VG82Z2JyMUNqT2ROQ1VBdHdsWU9rU1hNMlg1a0lxdkJacHhxTmRDUmZOTks3cEhoRUNYd09yblVVZ1BmZldXb2N0S2RqdlY1eURZWWVxNjNSeG0yZmtpZVp5RXhRckU0Vmw4SXI3RXJXM2NGRUlrdEh0QzdzWEsxcWhwYzVXbE85MFlPRnJyalEzSWxWVlNIR0lISjNrZGR3STh1ZEtUTHZNTkk3c0ktMVU5NmhOUFd2ak9YR0RYb0Nvc2ZqZERNTkhseDdodmFMZWwzQVRPZC0yVGsxMTJDRzNBTXlUTU5WdVlkRFhyN1hfSdIBjgJBVV95cUxOdkFZSTMwM3BVZVNlNkhEbnBXMmJTRjd0Q0lhaERScURVTFZZX2w0LWdSajBPUFJDd1VKLWxlMXpjbFhFdHdGdFZWaFZrMzh5WmdoWlRuajRkSnNxUW1obmtPcG1IXzJLMGVxUUpFMWlubGlYbU9oOWtWMGF1bW1QMWhHS2tqY2cxaHFzMko0ODBRTERvekhpN0R5VGVyXzZ4TDduR1NYRXN6Zy1zRkV6Szk0SnM1elhZMm00YjNUZHBwcHhJaExHSHJKWUNpMkcyTV9XTEV6RUdMNWxJdDRhVFhsWlgySUZETWNKR1d3aUlwVWpMcWlrYkxYbkhJWDNFejRycEhDOTVWaGFTUlE?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "CPM ends losing streak, bags Dindigul LS seat with big win - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzE4eDYxZF83Z1BpTmw4ZjZKWnl3ZXVWTUtSZ05nRUNWdHRlOHd5VWJkRGVJOGlYOXB0U2FHWHFwNl83TmRJNWh2cTVZQXhlUUpLTzdDSm84TldCMkQ1Y243RjFmZ0ZRMmdNWGxnNDJGdE9ybTdJdkd0N0hXdGx6a0prX0UzV1pYbHdJWmFXSE1fa2poRTl4ckNMcXBYRTVPNk5HVURFRFFWZkdVckZMWWdzR2E4SlY10gG-AUFVX3lxTE53MkZ1OW93WXktbmxwU0xGQ05nTHh6UGlFbWRGVDQ5clhCaHlhZW1FS3U5cFdSRmZlQkN5amQ4M0xOTzN6QXhoVnhUOWtIZTZqdjhTb2o0RFhCUXhyTExQdTZ5bXhhekRILWRuRWt5VVpUYmNsR0RvV2hVRTlZc2Nydl96alpQODhaaXNBOHB5SjYtYTFkVEc3QmZpeEQ4OWxkLWJpLVh5TkxwcUdDcFVDWEFlbnhxVkxvb0h5Q3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shipping Minister Sarbananda Sonowal Assures Improvement in Maritime Connectivity for Residents of A&N Islands - Andaman Chronicle",
+        "source": "Andaman Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3l0eUh5ZW9qQ1RxNFJyYnozSlVoT3VGdW9hdmFwSW1lU2NnUlBpbGY4UlFsWldoOFE2MzVpUC1XTmhmQjNiQTY1M2hLOGZXN2ZVbDVYMmRWcm9WSWlwa1EzZWJVd2hXUy1hbHJtUEZfYnhCQ3pwUGFpb0t5a0UtaVl0VU9QTlIwNFNzV19hN2w1ZTdRdjBLWkZMc05vQUFOczl2WGpCT3dQdHJUbExTQTVSVlRvZmlVdmM1ZDd5WGtucnZZTGJod09zOUI3V2x0V1NzWm9B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Renowned gynaecologist Dr Kousalya passes away at 93 - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb19oclNnenZHZm4wY21Da2NBOUVVOGN5Y1BETHF2Y0I4dEU1ek5walpZLUY4UGZESUl3NG0xVy1rUkthcUttaklKQjFxX0ZidzlVZEcxM1Q1X2h5aVo0YlpUOVNQLWpuclI2Q1RfRFJuVFFYVFVFbGpTd0t4UjVxOGdLdU43OU1oY0wweDFGNF81X0pub2wwZUtaV094Q0pnQXBXUGU1RU1fNG1ndk9sbHpMSGdsUdIBwwFBVV95cUxOdDd3SHhReE02QWo1ekQwcndIdVNYVFVwME9FanhZTXBhNXkyemdJTDhab08wLTRmM0F0SnR5ZmdMVUtEUl9QM0RqbURDbko4RlgzMVVfc1hDZ05wUWotV0FpYXJROV9FelZrTjJsYzRwUzRrRWh5a0hIREV0TmpWMXFfeEhJX3k4TG5QWWRxV0N0Sm5GTVRTSnc2V09LVDJBal9KM0RPZmw2UTZmTHFEa0p5bGdTYzFXcDV2aTE1eVFyblE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

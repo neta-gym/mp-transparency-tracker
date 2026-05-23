@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Sudip Bandyopadhyay",
+    "constituency": "Kolkata Uttar",
+    "state": "west bengal",
+    "party": "All India Trinamool Congress",
+    "myneta_candidate_id": null,
+    "slug": "sudip-bandyopadhyay",
+    "house": "lok_sabha",
+    "sansad_member_id": 38,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sudip Bandyopadhyay",
+      "constituency": "Kolkata Uttar",
+      "state": "west bengal",
+      "party": "All India Trinamool Congress",
+      "myneta_candidate_id": null,
+      "slug": "sudip-bandyopadhyay",
+      "house": "lok_sabha",
+      "sansad_member_id": 38,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.019788Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:33:07.600775Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:33:07.599080Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 85.0,
+      "questions_asked": 0,
+      "debates_participated": 5,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:33:07.598434Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:33:58.083698Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099164Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099182Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099190Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099198Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099207Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099214Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:58.099220Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "TMC Leadership Shift: Abhishek Banerjee Named Lok Sabha Leader as Kalyan Banerjee Quits as Chief Whip - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWURnVjBuUEhMTmo2Q2RRZTZIZ0ZHdUlyMlpHMk50R3Azc0FlV29PbFd3WFNjZmh0bEtUUEt0dVBBbUxxY1pQREtYX1hCZU85TUx4cHFTbll0RzJ6T1lOdnlkNGltZWs1NW5PTTQxakdsN21QeFFhRE55el9uR0FTOEs2cUJNQlM1QnRnTEtrSzRyNHZuWTBONjkwbjYxYjRlek5uZmtvTUgtRDBVVEE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kolkata Uttar election results 2024 live updates: TMC's Sudip Bandyopadhyay wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVm9RYklwN01kMFJUMnZVLWp0cG5xR19XLVhNd24ycnU4TXRfdUZ3QmRqUl9qRGNJUkhDVnloeGJPWnhuclVwbUFfbHFyNGhYZ3Q4OVZGQ0RfaEcxbGtCM2lBNFFWZ1BIRC1rYzNoZjlOc2swVXgwS1NsVHJqQTQ2eUVsa2JPclpzZmZZWHFLWjkxcjJVdnhKcEhVOE9UaXpwMmFrVU5YLUdONEQ0ZTlUVTBPOV9SQlNaQUhSQXp5ZVJTbUYweTlyMG8xYV81dVhrb2xvMVZPcGxoLWptb1U0dkQ1QkFodXlnNjc4RFQ2WUZsTHJOWTlxMm40eHpEWHpNbUdlS081WmJ3a24yMGtLZUtXYjRiSFpZaHFSYWEtS24yR0tHdmxaN3FlYldqck10VU1RUl9fLUtqeUxRRUgwZ0lFSklCbElCdVlKR2ZnbnNmNGdjRTFESkx3Z9IB4AJBVV95cUxQczh4RTNaTEZJeDFHdE9sTFRCbkpLdHV5ZzMzdGVpTzRTNjVuWnRzYm1vN2p2NElwTnZ2VTVObmNJMG1rcWU0eDZJczUwYm1xbmZsMnFIYmFnSXYyZG1WMkctLVhWZWlTWUNZSEpoREJWdkF6M3VKeUhkV0VvdmstUUFEa0l5T0dPSHZoSDNQQjFZd1I1ZmxsSGo1UkNuWkQ4azRub3FhQ0lFWURsUV95YnhmalBhMDB3cGdZd1VIa2c2VkN5WWNiOXJPcUZmYVlaM0o1dzBfUWthaEZYampOVGtzWnFKeGZ6MkIyc0xxSk9oNFpaOXpEVHk4LXh1Z0N5LU9LcjFRT1YzTl91RUFmdE1XV0dSOHZld19hZVRQZWUtRmNQRXVGSzdLdlVWVG44bmtiY3c1Z3JwX1lpcGowaXF3NlBUNlJGdFVwczlFS2NvTjNsOTh3TzFmdWVBejhT?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kolkata Uttar Election Result 2024: TMC's Bandyopadhyay Sudip wins for a fourth straight term - CNBC TV18",
+          "source": "CNBC TV18",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNmFXU2hvVU5LUG5JcmZ6NVJnQmhXekpxbTVTWDRPXzM0bXk4SXY5WFhvTGtZbWZ5UmxmdGM3SDIyUDhPMlN2czdFSWwxSXlyNDc5NkNESjdjRjFRWFZpZ2VwWE9IZzk2bmdZeTFPemZ6eG5sUnBfXzdoS1JpcHRmamIyaFd3b1RMYzFxOUlYREV5bkx6M0VkV09WRVdiSHhnV3dyOWNxM0hnQXpNZXlfOEJjYUJyNFpCS3dIYTYxRGRCOFRBazdDQ2k4aF9QMU5OMGVCNFNwNS16VFdZTlRqV2ZJLUxPdFND0gHuAUFVX3lxTE1aR09XdWJ2Wl9FclpSS0Q5bWZVM2FRSjFWVFZmRGZuMloxMkpDaURPYktBVWRaY01KSnVZVUd1UFhPRjMweFNkRnluNnFhREJRWmJnQzZXU0hac1pPbVRlRnM3M0VtS1NrbWF0eU0xVnZrYVhKbzdRaG9qcXQ2cThsS2Rhc1ZCMTYwRXRyZDJ0N28yZG9rVjdGTnFWcnl3SWlQb19aNHVsakdSQkhzWTJ5QkYxWm1nV3NzOFRZQ2dEd0ZHbE4zN3NBd1Rsd2JiaWx2R28wbjF2eFpKUFVxdlkyZXA4aHprcGV2N1U4ZkE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "In Conversation With… Sudip Bandyopadhyay - AITC",
+          "source": "AITC",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zYS11S2dxMjdQUHNySzM0SDNCT1BCWHBQZjh2QUVvYXh1QUlPQ1BPRjZpTngxNnl6VEhCckxsMlI0andPTWhFQ0NLMHJOUk92ekFOOGNoOFBrWm40MDk1cE5qajRlU0hlblE0RFlmUWl5MUFr?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Veterans eye Kolkata North: TMC's Sudip Bandyopadhyay faces challenge from old warhorses - Telegraph India",
+          "source": "Telegraph India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc0lzaUxJQjdQeHZKc2hPaDF0cjc0TU4wdmlBRUx6WW14YW5GdHU4eGx5ZUVockhpdldpdS1VemlHVHUwckF3bVN0bmdKQlhmRkNUWVl4QzVZMHBmVFBmX0Z4WGJ5QzZhNHN6MG91NnZtemNGdGdqR3dxellqbjNjOEhaaEl1cWt6SUFQbUtSajVjMEZTNW1sbkRNMVRrT01kYWRPUFhqVXYxMnpmTkJtLXdqUC1DQ1UybUlBdGRJMDJNbUZFdzRZRlhtcDdrRzBnamo2WDBfcHZOQnhIUEs1ajVTeEdzOVNpTlNxeGoxU0VoQkNQWmfSAfsBQVVfeXFMTzN4aFB4dTRNQjZhLV83c0JKM1N2WHE4aUMyVUl3cXZESm1QV3NHUmVPQ1NuTEwzRDNnVHhiT0NxX09GMTJVVXk4Z2tudzFjQUNvbWliZU9jTnlyazJlZ0l0WnNUUmxuT2h2YXFBSlQ2amdMTzFnRkROZ2pzOFNNVzdhYWxoUnhGMzF4UmxDMjZYQUJUQjZkNDhLd1VOQ1djcWd1WjZXUl9CLTFBNVhPcjNWem5OcDh2SzhCckZrV1dvLXZqWGlLS3B3QkRTUG9VT1NwNFd6Umxza3gzY2hGbW1Wa3ZBSzJkUzEwTnRQeVZDQVV2cE5JMDdYalU?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sudip Bandyopadhyay\n\n### Overall Assessment\n\nSudip Bandyopadhyay, All India Trinamool Congress MP representing Kolkata Uttar constituency in West Bengal, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining good parliamentary attendance at 85%, critical financial and development data are largely unavailable, raising concerns about transparency and accountability standards.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This data gap is particularly concerning given West Bengal's documented challenges with fund management. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader infrastructure delivery challenges that may impact Bandyopadhyay's constituency development efforts.\n\n### Financial Transparency\n\nAsset disclosure transparency is critically poor, with no current or historical asset data available. Growth ratios and net worth calculations cannot be performed due to missing baseline information. The MP's monthly compensation stands at Rs 245,000, representing the only available financial data point. This lack of asset transparency severely limits public ability to assess potential conflicts of interest or financial accountability.\n\n### Legal & Criminal Standing\n\nBandyopadhyay maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, confidence in this criminal record data is flagged as low, suggesting potential data source limitations that could affect accuracy.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with good attendance (85%) but limited legislative activity. The MP has participated in 5 parliamentary debates but has asked zero questions and introduced no private member bills. This pattern suggests passive rather than proactive parliamentary participation, potentially limiting effective constituency representation and policy advocacy.\n\n### Public Engagement & Accessibility\n\nPublic engagement metrics are limited, with news coverage showing 10 articles maintaining neutral sentiment (no positive or negative articles identified). Social media presence and public accessibility initiatives are not documented in available data. Committee participation data is entirely unavailable, indicating either non-participation in parliamentary committees or significant data collection gaps affecting assessment of specialized legislative work.\n\n### Data Quality & Caveats\n\nThis analysis faces substantial limitations due to poor data quality across multiple domains. Evidence grades rate parliamentary data as 'C' and accessibility as 'D', indicating significant reliability concerns. Specific warnings include low confidence in criminal records, assets, and MPLADS data. Legislative effectiveness data is also flagged as low confidence. The absence of committee data suggests Sansad profile unavailability, further limiting comprehensive evaluation. These data gaps prevent meaningful assessment of key transparency indicators and may mask both positive contributions and potential concerns.\n\n### Key Takeaway\n\nSudip Bandyopadhyay's transparency profile is severely hampered by extensive data unavailability, making comprehensive accountability assessment impossible. While maintaining clean legal standing and reasonable parliamentary attendance, the complete absence of financial disclosure and development fund data, combined with limited legislative activity, raises significant transparency concerns. The documented systemic issues in West Bengal's fund management, including substantial idle funds and documentation deficiencies, underscore the critical need for improved data collection and transparency mechanisms. Citizens and oversight bodies should prioritize obtaining complete financial and development data to enable proper democratic accountability.",
+  "validated_at": "2026-05-21T14:34:17.058088Z"
+}

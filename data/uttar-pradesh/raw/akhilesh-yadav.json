@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Akhilesh Yadav",
+    "constituency": "Kannauj",
+    "state": "uttar pradesh",
+    "party": "Samajwadi Party",
+    "myneta_candidate_id": null,
+    "slug": "akhilesh-yadav",
+    "house": "lok_sabha",
+    "sansad_member_id": 564,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 420262015.0,
+    "liabilities": 9985548.0,
+    "net_worth": 410276467.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 85.5,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:03:48.999125Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:03:44.014845Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:03:44.011942Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 35.0,
+    "questions_asked": 0,
+    "debates_participated": 6,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:03:44.010815Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:04:04.895406Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297802Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297808Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297811Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297815Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297818Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297821Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297823Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.297826Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Yogi Cabinet 2.0: Celebrations In Aligarh, Kannauj As New Ministers Inducted Into UP Govt - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzd2R1BmdTg0UWU1ZVVLVk9jXzYybGQ5R0FiWWkwMWU1WFo4QWpDZ0VZSXpQUWNpTmdkbTFicXp4Rm0xcVBremM3ck11R3A3WTFRMG9NaS1vRU45VDc0MXAyenZNSU1YWlBvbW04bDRhUWZRZ2kwZ05wZlJURjE5YjRBdGFKSWdzRlMyelBwMUJGQVdEQ2p2ZVN6elFjcmJ1NmlObDczV1JBN1Y4NU9DbWs5dVgycXR0cFhzdlpCREFHdTJCUVdaNTRVSmdxd9IB0wFBVV95cUxPS2lhcGdzcWktRm1wZDduakhwWVlqd04xQnBFUC1PQkpkRFFIQWhLTHMyMFFkWERDV0xoZk52VVZ4QTByRXl1WmFDdEE1MFJ0cUQtWXVVYkxmd0NLbGRSUDNka0hQekhKb1FHNGhJWURlT0xLaEkwSXZKVi01MUV5YWtfMXI0RWF5N3JZeU5INDJ1dE5XaE1mbXFqeVJ2c2NTdFZCTzdIbG85Q2FlajFyNmtGckduZnJpeVRyd0tkN2VhX1dEbU5uU0VWdlAwakJTVURN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Akhilesh hasn’t visited Kannauj as MP': Social Welfare Minister Asim Arun says officials kept him waiting ... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXdHb0l1a3k0akFac1AtSkc5LTdwdjBJdFdxRlpacW92a2NxRkItMy1hSU5MTDV3MmlmSE55T20tcFZJWC1ySGMyQ2FWZjRhWlVqdFE4MHc0RVRqdnVnQ1VmNWZOeHU1d0VjMVJrLTZHRUkxUjhISS1PSE9iUTNjMzh5aHViZ0M4NjRNeXczR09Zd0F4aEI0U1c1RmhHcVY0V2paN21Ub05KaFY4U180eUhtTHE3bTlzalRkY3hjTDBqaDhJclFLaNIBzgFBVV95cUxNc0g3dnRrWFN1aExjYUFhTVBkaEdRRmRsVnc4d3hlc1NoQ0JsbTBWSHhVOHR2SncwaFZ3UFZxdEtFM0NGZ2RpRUd0Wk5xVjFENGFUZU02OUpWakRvdkhqN0pUWjc0bHBDUXdZT0xPZ1FMTjZqVVk2bzl1MU5DV2RSTDQ2ZFhrajMtVGFmV0t1cVhkNW5tX25tY3B6M1JTY19SN1NTSHNucWEyejlHWWpnM3JzWUkyeXhEekdHVng1aWJGR2VNSV9FcmxtWFdOQQ?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Akhilesh Yadav questions ‘Gorakhpur Model’ for developing Kannauj railway station - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGNPb2FjRU83Q2ltRFZiNlAtWTNOejFqRld0S0FHZzRleHhaVVNsUmhSVE53TWNTaGdrM3hQOVRKMElhbTdnVkFEbWdqX0FXUVZONnhlRERtWUtFZlA5dkJlSkZoY01jVzVUanhfbUc3dlkzWkFHTUtpZHdlcTdac2ZVZ1g2ampmUk9HQ09WNEZ6Sm1XLVhpc3ZNbkNYUDI5eV8yVC1KdThUSEhyanZiUHNwcnZUV3A2d3ZfUnRTVnV3cUkwV2xtNlFB0gHPAUFVX3lxTE5jUlM5dXV0SFBjYXBrcS0tVDdZbk9RTXRSemRVcV9Ycmd4X0JmSUVRX2U4REVuVV9uMlozTGVSRUVWMFd3ZENXMmhOWGM3SzN2SHNlRThQc0o0RWw4dGR5SVZLZjlPRFQ0OXNKcTctNjZSRldfSWV6ZUN6S1YtZGxHVURrdlI0b0lZUTFWS3VFbmJGekFORzM0a3U2VHZOdUZjdEJEQUZVUy02SVM4eklnS01NMWYzRHVsZWREY2FoT2hVNlZKVXJueFFuN0Q1bw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Akhilesh Yadav extends financial aid to accident victims in Kannauj; Details here - Dailyhunt",
+        "source": "Dailyhunt",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbmE0ODcxUFBNdDd6RkU0b21fakw4Ql9UM1FhbzNfSTAtMWtBWXBveTU4Um9FTHFaalViN080Q0xsanhXMldYT21nOXBNSm5VZTZ2LW44Y0JVVUVKOExEdnd2a1U5ejJwVEtKQkc1NkhkNFB3WHdxMXd3SHM5RDlXTDZaUGU5SWMtNWFpVG5sWFVRYXd0TE5KSnJuWXdzbU1xY2tnY01VaWFwcjZFVVV0cElPbnJxNHZQSlprdWE3NmhyTFloMjRGOUpJQm55TU9oU252RGJfMnBlRmVQdm5HMERpbU1MZVlYRXNXcXkzekU1V0k0ZXV3ZHktakpDNm5NdDFpNlYyQW8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Akhilesh Yadav files nomination from Kannauj - DD News",
+        "source": "DD News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ya2ExLXh1QkljV2EwWDEwcVlrMTVncTFVRTBsaTBzVTRTaDlZYUN5c2UySGp0bksyRVBTd05YOXZhV2I1OFZhN3dXa3pyNE9COEZWRm9zeGJZOXdSMXlDZ3g0LThEMTFsYTVjcmdxYlR3bk02WkFCMjB3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Chhatrapal Singh Gangwar",
+    "constituency": "Bareilly",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "chhatrapal-singh-gangwar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5566,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T13:56:04.184879Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T13:56:00.648141Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T13:56:00.645163Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 0,
+    "debates_participated": 1,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T13:56:00.644028Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T15:56:56.997099Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997611Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997617Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997620Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997623Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997627Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997630Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997633Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:56.997636Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "BJP leader Chhatrapal Singh Gangwar says 'Jai Hindu Rashtra’ during oath-taking ceremony as MP | WATCH - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb3NpaHhRSVZVeEl5RGZEUnhXeVB6S3VPX1BpeWw4eHlDUTNNS2YxalFjb1Y1QjVyZWlITExUdkZkM1FBZ2MySGd1dHFnSmVlTm5zMk1nRkp6Z0NvdEhMNVFPanZmNFczNXliTEJGdzBuWUFfREIwRENUUXZybHR6dXo5cmhpejZWaGhrVVBBM05nM1RReVdBdjllVExsX0ZSZ09PYWlXRVdkV2s1eDFvZVFJbG4tTGxSNXdlM1FzYUY3aW1paHRlVXJXNm9VdVg3LWY5MzVaT016RzRKdW1FX2h2M2k0NFk3VWlTR3ZwZENHX0HSAfgBQVVfeXFMTjQtLUhmWC1Vc2dLS1B0enV5NFNhVlhwdTQ4QkVGMWI0TEZmU1ZzaTRmN01KeHZxWnFMRk9heTgyQUE0ek1NdW1nYm5uLUxlaWNNMEcyd2ZycXNwV2p4dUhGMlVEdkMtU095OVN0TGxTYWxoRzB4N3RubWVjOU9KX3lCd3F1d200ODZwM2w1aEZwVGlvYTBMUDNqMGJGNWxOeVZ1d0VTREpLcFdNZGhpSzBCUGdYT3E2N1ZwakV0aWhUaVZJcjZFYy04RThVNlFsN09uTDA4NzRnQVpWclVEV2hEa245OU5GaEF6R1hmWlpRYmkzR0RPaUY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bareilly Lok Sabha constituency: SP’s Praveen Singh Aron to take on BJP’s Chhatrapal Singh Gangwar - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkpoMFdtel9qdno1cEZxNjBtYWhnekp6LWx2TFNGNkdCQU9vblVTME5CdW11UXItalZtRnlXRE9NdDk2Tk9VTkpVYXpiR0JZQmt1LTNoU0dsM1p4RnBHMzk5cHRtczhSWHRCTVpVcDhqLWd0dzBrVHZKcFo4aWU5ZFpCVHZJRm5mYldKUkcwQmpMOUd4Y0VqUWpzbkhEbTZuVEYteHVKdHBHLWlyTEM2WnJIOUI1cGhqajdGZC1ydzgwMVMwN2phb2RyZGdnMC1BQmJ5VGFIb9IB3gFBVV95cUxNY1cxbE9JcVR1Szh2UnBKcUZCNGlwNGN1SWdoYmlselFtY19pVEs4blNQRWdFQTN5SUNUSzJZMjJEUHZXT2cxa0JoM1IyZGtNS29rb2VhanQ5NTBleUwzT0JOdWkyYTUxYjRTaTBHNnlEaFJBbUxlYlEzNFRRc0NwVnR1a2dJYXBRUWctdVQyQUNXdGRYbEFQdm9wZFVWOHhOVjZxbmtZaGFlN3dKemk1X2NYRXFIalhxZDhtMlpfbFIxV2swQVRVQXdpOHdVSm1RR2ppY05CVVhpVmZWYVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bareilly election results 2024 live updates: BJP's Chhatrapal Singh wins with over 5.6 lakh votes - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNeWlCS3RvRVdWMjVYRkt1OC1pM2tueDNLOFNpcXJibVV2VnY0enZlb3JKZXR4aGZNMEtpWTJEd3dpVlAzRzJWS2FLUndNRVpEbTJReUFjLUtfOW1oMUhtRTRBVnZCQVcxY2hwdHRldHZFRmFGLXkwZG1nYndwSGtuTVZfNm1za205czBSaGFNLWhxT1ZIZEY5OUpwc3BSRkM2OTNKUjBJRVBsZU0tXzBHUi10M0hQOE4xWlpwWnM5cUN1Mkx6b21XRms1XzZGZWhxR3d2aktpaEQ0aDc0QTdlQkZzS0JPamRQVU0yWkFDQU1NWTc0YWdaVzBfX0hzblJZSXdxWXdHZjhtN1JRWENHM3pGaWZySy1Yb3JYV3RvSkk5M1FUdFdmRlRBREpvWlUwcUdOMEtRV3fSAb4CQVVfeXFMTjJHZWdmekx6ME1wU0tKZnIxQTh4LUQzOHRYbkdyVGFfTVBnbHZYdFRCcVQ3LUNGTnNHU1VDXzhja0NsYkZzUWNOT0dvZEszTk1sZlhVU2J6ZUFCSnZLdEhOZlA3cDNKT0NRU2FBMzJDSDA2Rm5HUi1DaHN4UEFpbC1ZMUgzU3lsbTFwcldNUG9kMEZBN3BzRjFvclNVOTdneWM4MGRtME5wLU1RNXVRSVdFQ3ZyNHpYVGd2RTg4NVJYUUZGdGd2LTVnYnU4M3Z6R1BNOFA3MS1uRnp5LXhoZ1RUTFZVLVRFZVMxUFJkRDdESTg2Nm4xdzN5UnNkbFdvVG9XVDdWMVU2aWRva09ibVFwTnotel9TOEd5YkdWcWFmOGgyektOTDFxalBqLUF5LUlPYjRIa1hzWlhSSVNB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "UP CM interacts with intelligentsia to garner support for Pilibhit, Badaun, Bareilly candidates - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTWhPbzRnTlJHeGtNWE52cmtmY3Z6TUUyYldSNGN5YmxNMXZWeVQ3YjhiTENkMDVLVHVtblczWHJBLU4wR1hJMmNRWUFkY3JUaXotT1E5Mlc3X3dHZHlpbUVlV1RFNkQ1VmV0Sl8yRjE0c1Z6MEd4bFFQSFdZUUdHQ2RGNTFFSFk4alhTUFBDVUx6ZUhzckhITzU1ZHFpV2prMy1QMTV2ekFHQTFHSjlOb2FiaVVVQUEwV213S281OUI0STU1VVpLSHF3d3lWb1VPb1JNcTc2V2dPN05M0gHqAUFVX3lxTE5sSUpBbkk0M2tMS3BBRnJCN20zc1dTSG1WQWptTTZ2bkNGWnF3VTVpTTE5bldmVXlIVGQwakx1U3kwNXYyb1VJVVB2dDBSTzdSNVFabXc1M1lSeUN6NkExLUdKcVFvaTFWb3JLX2Joc1ZKaXhERE5nVGxuX3BsODBjRlR4MDBpRjdRWFMzZk0tUW9rZkF5eFdQNmxlZUoxekNnNmMzalBSd2swRG5mUFFxV2JpejVYSTRObDJTRjFZMm1SXy1sVzNTTmZqNU1FbkxTT0pmMWJXZm0tbFVRdUVmRnBPVHZMakt3QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "More Opposition MPs swear by the Constitution on second day of oath-taking - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdDVGSHFJQUZ2dUpRUDA3dHpLVGhvLXpXX2dyVTFnOURoUUFqeC1sb0xrMzNiWjlzWTQ4NURXRWtfLWMwcmpmbjBjTVJqNmZIMElmNjhUYWdpREZKc2RHRDd3UHMxWF9hLTJMZjRBWWE1RWNwN0h0bFQ4MjdnRlVoZWFGa2FyYlZSQ2RHVWJjVjAwdXM3bXp2OUcxUnR3ZGxSWk4tTEdLRThxa2NSTzhnbTZZTHZVZklnOGxaZlhtTGd2MlZsbHJ6V3huc0swQncyWVJpckhWcGx5dnZjWnZmMUtSczhjRGNKdmfSAfABQVVfeXFMT0pOd2hweEp3NE85UkVoSHFncm5Vb3VSQmdoeUoyWFFvcnJOcUtORmpCdEhOV3dRUU1UQzV6czg5dVA1ZjU4cl9hTzlQWVlERlBZRnVnLUVtUmQxLU1EM3J3ckpqNkRJZUdQVVVudTZhSXl1WVhwR2RBbTRESTVzSzlCQXhaQ0NxQ0F6NzI1OTJLQnVoUW5KcENzT0syNElqcmhGbkNURzdWeTh4VGVUSUN4dWZIQXJaRGhkV3Q0WjlSVWRDakpIc203MHdQMllsaDVwRTRZVFk1NXNraUhWVEVYdkRSS2ctMlc2VkdJdW1x?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

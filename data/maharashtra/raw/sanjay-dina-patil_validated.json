@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Sanjay Dina Patil",
+    "constituency": "Mumbai North East",
+    "state": "maharashtra",
+    "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+    "myneta_candidate_id": null,
+    "slug": "sanjay-dina-patil",
+    "house": "lok_sabha",
+    "sansad_member_id": 4393,
+    "profile_url": null,
+    "canonical_name": "Sanjay Dina Patil",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sanjay Dina Patil",
+      "constituency": "Mumbai North East",
+      "state": "maharashtra",
+      "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "myneta_candidate_id": null,
+      "slug": "sanjay-dina-patil",
+      "house": "lok_sabha",
+      "sansad_member_id": 4393,
+      "profile_url": null,
+      "canonical_name": "Sanjay Dina Patil",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.753585Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:33:34.300670Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:33:34.298900Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 80.0,
+      "questions_asked": 64,
+      "debates_participated": 8,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:33:34.298194Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:33:56.754410Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770606Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770627Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770635Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770642Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770651Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770658Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:56.770664Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "In Sena UBT, leaders seek tickets for kin, party says considering based on work - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmF2dlpEU1lEU01tU2o2aXFPbnN6SzhDU3BNM0tQVUpjWm5Jb29kUWJEQmhfT2U4U2FidDJ0Wm1FNXAydERLVHY2THdOck5VYUJhX05iclA4ZUFoYko2LTFRdUJSYWZrOS1HS211ZGNWQVV6SnNXTVROTERUaEZIa2xYRlRCcUZhb2xPekpiWXJkU2ltMWUzeWtDbWF5R1I5elpmZ0dfNFhXMmluWUFVStIBtwFBVV95cUxNWS1tNUlrQjhLcERxd0w5b3RMU21nX3Vjeklfckp4MFQzWnNOaVZjX1hGenY0Ri1EN0lCOVJDcGdzbmRWZXFqSzdVMjJnR2preWROc3BKeHFwR0VxR205eTBCVDdvV0dOY29sZl9CU01ZSEFDV3ZsTUw3QTU0TS04LXROVlY0bHJyc0wzRWJYYlY0ZXVvU3c1WmlDOWVkeDMyNldiOU11WVVsaFc3aEtVYXVlZUY1SG8?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mumbai North East election results 2024 live updates: SS(UBT)'s Sanjay Dina Patil wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWUpRek0xRUFHQnA2MzF4RGp2LWxVaFp5RU5HclVDSUo3TXF1cU1IbVFpOHJVeFF4bVdXS2g1YThzVHF0cUd3V2loSmtGUTFyRWNSNWRHdTI4SWVqbGUzbVNsMWFuYi0xdFZoUDJkZUV5ZWpfMTJ5Y1FkVXFpRjhUX3BHUnFQNWF4THU5TEptcFVDZkE3Q0FEaXV4Y196MkVmQnRDbk5SNy1SN2ctUlNVSmV4RE90REh4OFh4bDY3aU5NR1ZjczZRLVo5bDQ3T1R1TXFhYkh6MWZqVWxyLTR1SnF5VnBmTF9YNy1YWkJmekZfbF80SldiNi1QNk1VSk9nQnlLclY4RURIUVkxVkRtRThPb3VhREJhaHNydWVwSUk1TVdlQkpKaklhbF92MXF3VnN3cGhHVGZ2SUdTLXhtb3k3QmQ0S1JXcnljdWdhLVbSAdYCQVVfeXFMTk8zaTRhTXRTZmJTS3ZvcW9SNVdWUjN0dXlSYm0tTEV2N0ZLQ3pyalVWZE5IeVRoUzc2RF9DbVVNSGU1eHloRUdnUU5NMlZEQlNYeXROSG1pV0Y4SFB0QUlpbGQ3eFU5dm1CS2xDUHNCb3B6bVhiNWh3X1FGNkhKS25XdU5XdFFoSkhsYk50X2YwM0RYT3N6dkJ4MUc5UEpZRndoajF5VnlhU08xcnFBcnpjVndGc2lqdnNvNDVDeVJVQ3pXVDI5ZXFobkpkOS13Rmp4WVRDQ0N0d3A3Q205MUJVUWdaRVIwbGRiNXdTR2JIRklsbU4xZkp6M3QyOWxveGVVdThBR29HLTR5bGxjd2xycS1SQ0c1ejNXUXRZMk1pTWRxUU5jTm5sVjl0eUZIeEdPTjlKbEg4SWpoX3NmdVdCSUxNempIb2VGekFWX0NZajlaTk13?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mumbai North - East lok sabha election results 2024: Mumbai North - East Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUENCNUNZMWdQMzhGOHpndkJ2ZVYwb0xtRTNDVUJsMVFGR3VDM2xJRTZBbXlwR2kzTFJrWHo4cTAzZVZkSUd6aWZKRUs5djZqbFFoTWdVdlJ4UEk2dmVfc0k0QkVuRDh4VFlYNW5Bek9CZldkTjVzSXptVS1HYVlRSXJraDBLeTZ2UEt0ZG5tTGx4OVB6ZTdDNWl5R08wSkdnMmpF?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mumbai, meet your new MPs - Citizen Matters",
+          "source": "Citizen Matters",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mumbai North East: Marathi-Muslim wave for Sanjay Dina Patil | Mumbai news - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkt3Z2liRDBFZ2NDUFRwZWNORkR5NTNmc0V3VXFXaFJlM01OMjlET3BncWR1N2pWV19ESUV4elhNdjRJQVNMeDkyN183U0pRZUhWMFpheG5wTGRfZ09veXBxOEgyRml0RVAzWG43d1FUbDB4bUlBMlhZOVZIcnNoNXVQQXdZdmd1bTM0ZWRHWkQxM3pFN3p2NVhYNE45X19LNkZsVEtRblVWTXNaQkxsVVV0eHkxZGJ6UmfSAb8BQVVfeXFMUG5NaFhRTmxoZjFoam95bzlEaXpsczJwYWU3bTNuci1qWHEyb0tTeW1Pak41Tl9yYVNVcVhKTmJObzJfdy1jQ0Z3Ul9zSmNXcTBiaWNfN2dad3lhN0ZiM0xCUVFlX04tOVcyYjU0bGVSSHFOV1ZDaXlvd1FNRkUxcjByZm5tYlY5TTg3a2JudHlUTUxFLWx4cXktT3cxdlVCWWdOenNSZlZCR2FQUElybFRBSGptLVlYYzM0MzY1M1U?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Maharashtra: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sanjay Dina Patil\n\n### Overall Assessment\nSanjay Dina Patil, representing Mumbai North East constituency in Maharashtra under the Shiv Sena (Uddhav Balasaheb Thackrey) party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance stands at a solid 80%, substantial missing information across financial and developmental indicators raises concerns about overall accountability assessment.\n\n### Fund Utilization & Development\nComplete MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given the CAG audit findings for Maharashtra revealing systemic issues with fund management. The 2010 CAG report highlighted that Rs 1,558 crore remained unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Patil's constituency, it's impossible to evaluate his performance against these broader governance challenges.\n\n### Financial Transparency\nAsset disclosure information is entirely missing from available records, creating a significant transparency gap. No data is available regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The only available financial data point is his monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nRecords indicate zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat: the data source confidence is marked as low, suggesting potential gaps in criminal record verification processes. This limitation requires careful interpretation of what appears to be an unblemished legal standing.\n\n### Parliamentary Performance\nPatil demonstrates moderate engagement in parliamentary proceedings with 80% attendance, exceeding the average attendance rates typically seen in the Lok Sabha. His legislative activity shows reasonable participation with 64 questions raised and 8 debate contributions, indicating active engagement in parliamentary discussions. However, he has not introduced any private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available, which limits assessment of his specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement, with only 10 news articles identified over the assessment period. All articles maintain neutral sentiment with no positive or negative coverage detected, suggesting either low media visibility or carefully managed public communications. This neutral profile, while avoiding controversy, may also indicate limited proactive public engagement or policy advocacy. The evidence grade for accessibility is marked as 'D', indicating poor data availability regarding public outreach and constituent services.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to poor data quality across multiple domains. Criminal record data carries low confidence ratings, asset information is completely unavailable, and MPLADS utilization data is missing entirely. Committee membership information is absent, potentially due to unavailable Sansad profile data. The parliamentary performance grade of 'C' and accessibility grade of 'D' reflect these data limitations. These gaps significantly constrain the ability to provide a comprehensive transparency assessment and suggest systemic issues with information disclosure or data collection processes.\n\n### Key Takeaway\nWhile Sanjay Dina Patil maintains reasonable parliamentary attendance and shows no recorded criminal issues, the extensive data gaps across financial disclosures, development fund utilization, and public engagement create substantial transparency concerns. The absence of asset information and MPLADS data, combined with limited media visibility, suggests either inadequate disclosure practices or systemic data collection failures. Without addressing these information gaps, constituents and oversight bodies cannot effectively evaluate his performance as their elected representative, undermining democratic accountability principles.",
+  "validated_at": "2026-05-21T14:34:19.102955Z"
+}

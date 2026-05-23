@@ -1,0 +1,460 @@
+{
+  "mp": {
+    "name": "Dinesh Chandra Yadav",
+    "constituency": "Madhepura",
+    "state": "bihar",
+    "party": "Janata Dal (United)",
+    "myneta_candidate_id": null,
+    "slug": "dinesh-chandra-yadav",
+    "house": "lok_sabha",
+    "sansad_member_id": 527,
+    "profile_url": null,
+    "canonical_name": "Dinesh Chandra Yadav",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Dinesh Chandra Yadav",
+      "constituency": "Madhepura",
+      "state": "bihar",
+      "party": "Janata Dal (United)",
+      "myneta_candidate_id": null,
+      "slug": "dinesh-chandra-yadav",
+      "house": "lok_sabha",
+      "sansad_member_id": 527,
+      "profile_url": null,
+      "canonical_name": "Dinesh Chandra Yadav",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.557347Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:36:57.387937Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:36:57.385067Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 27,
+      "debates_participated": 10,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:36:57.383937Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:37:51.557460Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571596Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571610Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571616Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571622Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "bihar",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571627Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571633Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571641Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:37:51.571646Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Dinesh Chandra Yadav Latest News, Updates in Hindi | दिनेश चंद्र यादव के समाचार और अपडेट - AajTak",
+          "source": "AajTak",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVFNqU3Nod2RtTExXZzNObjBZRlNRel9ENnZnRUcwcFRTMUFZNnJOa293Y1FraW43Nm9DSW94SjFTRnVOZV85aWpUTVkwWlN3RVdIVUxmZWhFcnRj?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Madhepura: Old tactics, new players in Yadav land - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2Uxc0Noa3Y2TnJUMHgzRDdyVFdxUVBycWtNbkpKNjNhaWJiLTZBblJDVFFjcWZNSTRBdDd4ck5UUm9Lc1VBWWJ5QzVUeFhkdHhtbUhCa2t3WFVhR2NDY2Q5cjlGV2NKQXhRWlZ6MmtwRUx4YThQZXA3NGJkbVZUOWF0Q2l3OHFiTklmVE1zNWJmZHFfYmJ0QXdtWmczVG4y0gGuAUFVX3lxTE5hMDM3WHI5aU1ubHF6eVhlRm9nbXluaC1Ici1JY095TnptbGtmRng1UmIteEVxLVZIVzdMUUJESlVaWWR2VU5nOWRaSkh6MUFjRkxhMDFnR0VaZ3EwZFRHOXB0UnZwMTJMcUF3cEl6QU1jajJYRUFXYlJVZzE2azVkbWhEdFhKRzhCVXpJV3F1RzdZbmdjUEplZGFKXzVmYW5BaFp5cnFpTjJmRWRFUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Constituency Watch: Yadav stronghold Madhepura set for interesting Lok Sabha battle - IANS LIVE",
+          "source": "IANS LIVE",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVVUQ2xYQ1Nxd2h2b1h3RnBIcmpRRTNaZDdIMEtEa3loSXh5dzhMUWswZklreHBwcmFleFlfUmpoZnZmRjI2SV9JMEdnTlozY3FaMUU5S2ZhTlB4LVBBZFFYX1VsNGpTRjFRZmRDbDBtdHJnY0lnM2hZdmpVUHh3ZDBVR0gxTUt5cWZFaXpqVHAzZjJiT2FKTS1JSlR4cFd4c1M0NUtsSjFOVlV5SEFsc0NJQm5aQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Madhepura Lok Sabha Election Results 2019 Bihar: JD(U)'s Dinesh Chandra Yadav wins with a landslide margin - DNA India",
+          "source": "DNA India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEFOdEVNR0dTc25za1FKckpVbS1YRDFHVGczYkR6WVZzSTFDTUkwYTRodlJRaGpxTGphb3lDX1QtVnh0bFRkd3A1Skx4bFVDWkhIUEtUQURGLWVJU3RTX3FMNDhGMjVMWlNLdHRxSW5OaUItYWVSaHhmYlBCdl9IamZXU2dLOTZlNU9xbHJmZjFyaV9SdVdNaEFOY3lCX2lQY2hMRWNUSl8xRDFsQjQ2enNZT1BzUUgwREdJdTEzajlUZzR5cTNPMFJWUGg0WTV4a3NJLTBaeFdaUllJb2REcFByb9IB6AFBVV95cUxQX05wRElybWFQeEhxSHE4VjJiMjFseTlkZVliSmpRVGYteUFRdWktV0d3UzJ4U1ZEVUdmdk5ocDA1aGpHck56czIteVZiSzdXM1dlMllLR2hudmVuTzY2ZFVjc3FQRUVoaDA3LU5YV01mTTEtdm44WjlBblpyQU9MWTJFVEN0VERMdlF3QldORmd6WmJKemVIQmxjZnh4NmozOTNYN0NhOE8zX0lndC1nZTMzejhlUGdmalBaU1A5YnhEUFQwcGhFTkU5THNlZHd6MENWaExHajd6TFViN1RSdXowVU5fa3A2?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "It’s Yadav vs Yadav in Madhepura constituency again - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTk3cGtEc3ZmNlFNX01hRGJwTjRva3Nkdkh0dTdtOUk1MTVPUFpaM3IzVHFDUEctTmIwZ0pmaERLbEhpLWdjT1lWYXdaS3BmNW5OU0VaWHFULW5Eb2RwS2IwS0ZjZ2xJTkU0NnlibnQzdGtmSk5kd0FLMlNIMU1wWXJhUkxXc3UzMUZJM0kzVkpmYnlLSlNDTHpHenkwakFlelQzeGFFU3BRcmFuWUwwLWxIZ9IBuAFBVV95cUxPZTRDZnVXam1OVFh5VUlaZDEyb1lmUmdpaXc2N2ZPZnZYUU82WVB2alZiaDNLdzF1TkIyMk9yV1N5Z2d0elFZdElhQjhySTRuT1FGTVA5MDBvNm9qTW45UnZQY3ZGR21VVkdnMUlHeUNXazBQS3NvZHdZZ0wydkZ0S2RickR4QUozRmRVUkJaSXhXaUx4eU9EMFd0ekhRdmtIcHFaUFVPLW1PLUZZVHQyZVJlMG5tLU5C?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Bihar: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Dinesh Chandra Yadav\n\n### Overall Assessment\nDinesh Chandra Yadav, representing Madhepura constituency in Bihar as a Janata Dal (United) MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While his parliamentary attendance record is exemplary at 100%, substantial missing information regarding assets, MPLADS utilization, and criminal records limits comprehensive assessment of his overall performance and accountability.\n\n### Fund Utilization & Development\nMPLADS data for MP Yadav is unavailable, with all key metrics (entitled, released, expended amounts, and utilization percentage) showing as \"None.\" This absence of data is particularly concerning given Bihar's documented MPLADS implementation challenges. CAG audit findings from 2010 reveal systemic issues in the state, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, suggesting potential implementation challenges that may affect Madhepura constituency's development projects.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with total assets, previous assets, growth ratio, and net worth all reported as \"None.\" This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. MP Yadav receives a total monthly compensation of Rs 2,45,000, but without asset data, it's impossible to assess potential conflicts of interest or track wealth accumulation during his tenure.\n\n### Legal & Criminal Standing\nMP Yadav's criminal record shows zero cases across all categories (total, serious, pending, disposed, and convictions). However, this data carries a low confidence warning, indicating potential source unavailability. While the clean record is positive if accurate, the data quality caveat necessitates cautious interpretation of this information.\n\n### Parliamentary Performance\nMP Yadav demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above average attendance rates. His legislative activity includes 27 questions raised and participation in 10 debates, indicating active involvement in parliamentary proceedings. However, he has introduced zero private bills, suggesting limited initiative in legislative development. The parliament activity data receives a 'C' evidence grade, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversial positions. This neutral coverage pattern may indicate either effective consensus-building or insufficient media engagement. The accessibility evidence grade of 'D' suggests poor data availability regarding public outreach efforts, constituency interactions, or digital presence.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues:\n- Criminal record data carries low confidence warnings due to potential source unavailability\n- Asset information is completely missing, preventing financial transparency evaluation\n- MPLADS utilization data is unavailable despite its critical importance for constituency development assessment\n- Committee membership information is absent, with Sansad profile potentially unavailable\n- Legislative effectiveness data has low confidence ratings\n\nThese gaps substantially limit the comprehensiveness of this transparency evaluation and suggest potential systemic data collection or disclosure issues.\n\n### Key Takeaway\nWhile MP Dinesh Chandra Yadav demonstrates exemplary parliamentary attendance and maintains a clean legal record (subject to data quality concerns), his transparency profile is severely compromised by missing asset declarations and MPLADS utilization data. The absence of these critical transparency metrics, combined with Bihar's documented fund utilization challenges, raises concerns about accountability and effective constituency representation. Immediate disclosure of complete asset information and MPLADS utilization details would significantly enhance public trust and transparency assessment capabilities.",
+  "validated_at": "2026-05-21T14:38:12.340741Z"
+}

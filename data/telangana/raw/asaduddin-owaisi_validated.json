@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Asaduddin Owaisi",
+    "constituency": "Hyderabad",
+    "state": "telangana",
+    "party": "All India Majlis-E-Ittehadul Muslimeen",
+    "myneta_candidate_id": null,
+    "slug": "asaduddin-owaisi",
+    "house": "lok_sabha",
+    "sansad_member_id": 4091,
+    "profile_url": null,
+    "canonical_name": "Asaduddin Owaisi",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Asaduddin Owaisi",
+      "constituency": "Hyderabad",
+      "state": "telangana",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "myneta_candidate_id": null,
+      "slug": "asaduddin-owaisi",
+      "house": "lok_sabha",
+      "sansad_member_id": 4091,
+      "profile_url": null,
+      "canonical_name": "Asaduddin Owaisi",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.477405Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:22:59.684818Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:22:59.682040Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 90.0,
+      "questions_asked": 29,
+      "debates_participated": 15,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:22:59.680951Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:23:58.477588Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492720Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492739Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492747Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492755Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492763Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492771Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:58.492783Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Hyderabad MP Owaisi files complaint against Assam CM over hate video - The News Minute",
+          "source": "The News Minute",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUV0SDFUMDdDM051XzR4dy0yM0hQM1NmQW1MN1VlbkRpYTRreHViWGRmbEg5bklOc09zaEZNeTlSUEFZc1BQQ055RFNQdERDb2poTWpYaHA4RkktUDgzVUs1VlduOFM4X093bkpuVF9VX2lGR18xbXNiVE1tUkZFXzQ2WEc1OTdJY0NJUHNvSF80SmFyNVJ1YndzZ0E5c2FvY2tQVloyRGQ4elhW0gG6AUFVX3lxTFA4cGZhbVByMm9CUVFJN3V0YzIzLV9QZ09JZFBlZmVuZG1tYnBqRDM3aUd1bFkwRnhJaHFOQTROWmRRU1BOMjY1TGhGR1V2Rzc0dzlGNkpoajNhVHZfMDNMOXl5SWEwR3ZieXNCWnhJNGlJMkRfWVdQMThVVlh6d25TMlNlT1h0ZURzcFh2X1FOdFBCckhVa3kzUjBjbWplS0lfVWpDUl9oOG5kM0VOenFRa3MwWkxqOWNDZw?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "Hyderabad: Owaisi completed just 8 of 69 civic work in last term - The Siasat Daily",
+          "source": "The Siasat Daily",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlBxN21rdF90LUM0WVd4SldQdFpoUFZmMGRiaXFhR0tLTXV2ZXhBWUFTZjBvekVwdXhHZnEydFNPOF9naXFGMzNuakVlU2NZaW9VNGFDY3Y2MkFYZEgtOHp4VUp5Z1NXWlJUM1J5MTJKTGtqc1d0aUV2dlBSQ1QyQVdwTjl5aXRheWNOU1pERk91akl6SUl6Q2NOVdIBoAFBVV95cUxONWdoZkpZb0tHaFVxVVU3VHZELV9CYkdoX0pJcF95NzU5NGR5NkpyMHNzYXBqdU5MZXU1NnFPZEViOXVkMTZ5RDFvU1ZWNTlnLXZDb2I5YlE5VFhKQ2dnT3VSMDVoMHVYX2lnNV9mSzlmUTVtN0RHVkxkV0ZuX3kwV2UzTGJRSGVwdURwbFBwcmJTMjQ5dTJIMlhkVkVYd0Fi?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Praying for safety of all those trapped\": AIMIM chief Owaisi expresses concern over Nampally fire incident - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZEpOVm1pV2tabUlzVG5FSGdaZ3d6S2o0bkVvYk9QRlBVbnF4MnhlTF81OEF6MFNnbVViMTNNRFlwcnlWazZPc1N4Y0J6Ynp3Z3dxcVdaWGlVOXJkYWFsYkZZQ2R2bWlzYlZpZThlV0FBXzVQYWp1dlQ3b1NRV2NRQXB4N1NhUGZJNmNrb2ZTYXBONXJvbUJWNkhaVk9YbUFEQmtGWm9NSGdYNFVLVlVWb3VwNzlDT0N6Xzl2Qm0wNXpUbENuZXhvUTZxUjNLSml0Qmo1b1RrRzZHbm00ZEdtSW9NS3cxR1Jfb0Vwek5NX0hGNVBnX2FRWktHMWQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Hyderabad MP Asaduddin Owaisi slams police inaction in Medaram Jatara vendor row - The News Minute",
+          "source": "The News Minute",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1JmcFo1MWw2bmdqeWUtS0JZQ1BMaURKakdrbm41azVUTWJJNTM0Um1FT2pWSFhtcjhKSFQxWUxWTWgwbFlLYTRiR3g3MUVxbTdNWkxhYnFWRTBUdms2NkdEbmc2RFJSRnlmZjJwcVdCck1KZnBLMDJaMVBvSWRwb3k3RDFRQWdUUXF5czB2dm1mT2xRb3NuYmk4NEZScDgxdzlROXVXVFZ6YU5VUy1wVUhhMmY0Z1BwZmhZQ9IBygFBVV95cUxOZGRyU2d3TjM3RHdjUGpwSGZMT2dXYkU4WlZ1am4zZnljTk42MFFVTFJpRF9lWTJtaXhwaHJYcWtNQVlLbThXRFBLQVhHZVFnLVE1bm1kU0V2WUd2X1FYanY5ZTVRaUE4QWdIeEpmSUplUnpMWTVBeFBlcktEeG1IMm1kZzFGYTBtNlpfNmJoOWhOdFluS3JKclZEdDk2ODFBMG1ROXVQbFBwbHRBd3Q1UXhLUVA3VU13NmdZWUVjSW1FSHRaNWszbUFB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Asaduddin Owaisi writes to Indian Consulate after Hyderabad man dies in UAE - The Siasat Daily",
+          "source": "The Siasat Daily",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWl5d2tBNTBfdXktOG1uSGJITG1qRXlVejZDdTN6R2k2SWNtRXB2QjZGWXJESHBIcmhvY2QzdHUtdnQ4eGVENEFMSW1rM0ptallyeHBfTTRpNDhSbDc2aFdiRnNETUIySGJZSmotSW9feE8yVkUyTS14VkUybFBSWmtwWXFham96MmZTOFd1R0pZQ2lObnUtbE5XWFNIVDJHeWQ0X2w2bzJZc0XSAbABQVVfeXFMUHQyVDdWU1cyREMxU3dhMi1YZGpoY21yTXp4bTNHUkIxN18tNEVQYWdOZDdlR3VnQ0ZLLXhZYWxYRkI3emVYRnFoWU9oRnRQRUhDeXlQVzE5M3o1RXFMT0ExLVNXRWNJYXRlUzJkOU5oZWdiUTNzRFgyWjNfUUJsTmtELVpuSmN3UEhKUFAtckhwTlM4UDZZcmRnSmtrSk83Q3UtenlxZ2UweW1xOGpVcDI?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Telangana: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Asaduddin Owaisi\n\n### Overall Assessment\nAsaduddin Owaisi, representing Hyderabad constituency in Telangana as a member of All India Majlis-E-Ittehadul Muslimeen (AIMIM), demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple metrics. With 90% attendance and active participation through 29 questions and 15 debates, his legislative engagement appears robust. However, critical financial and developmental data remains unavailable, limiting comprehensive assessment of his overall effectiveness as an elected representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a significant transparency gap given that MPLADS is a key mechanism for constituency development. The absence of utilization data prevents assessment of developmental impact in Hyderabad constituency. CAG audit findings from 2010 highlight systemic issues in MPLADS implementation across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, though specific data for Owaisi's constituency is not available.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, with no information available on total assets, previous declarations, growth patterns, or net worth. This complete absence of financial transparency data raises concerns about public accountability. The monthly compensation is listed at Rs 2,45,000, which appears standard for Lok Sabha members. Without baseline asset data, it is impossible to assess financial growth patterns or potential conflicts of interest during his tenure.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal standing. However, automated flags warn of low confidence in criminal data due to potentially unavailable sources. While the reported clean record is positive, the data quality concerns suggest these figures should be interpreted cautiously until verified through additional sources.\n\n### Parliamentary Performance\nOwaisi demonstrates strong parliamentary engagement with 90% attendance, significantly above average for many MPs. His participation includes 29 questions raised and 15 debates participated in, showing active involvement in legislative processes. However, he has introduced zero private member bills, which could indicate limited initiative in proposing new legislation. No committee membership data is available, preventing assessment of his contribution to parliamentary committee work. The evidence grade for parliamentary performance is rated 'C', suggesting moderate confidence in available data.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows neutral-to-mixed sentiment with 10 articles tracked (9 neutral, 1 negative, 0 positive). This relatively balanced coverage suggests he maintains a steady public profile without major controversies or significant positive breakthroughs during the analyzed period. However, the accessibility evidence grade is rated 'D', indicating poor data availability for assessing public outreach and constituent services. No data is available on social media engagement, public meetings, or other accessibility metrics.\n\n### Data Quality & Caveats\nMultiple automated flags indicate serious data quality concerns. Asset information carries low confidence warnings, MPLADS data is flagged as unreliable, and criminal record data may be incomplete due to source unavailability. Committee participation data is entirely missing, and legislative effectiveness data has low confidence ratings. These limitations significantly constrain the ability to provide a comprehensive transparency assessment. The evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality challenges.\n\n### Key Takeaway\nWhile Asaduddin Owaisi shows strong parliamentary attendance (90%) and active legislative participation through questions and debates, his transparency profile is severely hampered by missing data across critical areas including assets, MPLADS utilization, and committee work. The clean criminal record is positive but requires verification. The most significant concern is the complete absence of financial and developmental fund data, which prevents meaningful assessment of his stewardship of public resources and constituency development efforts. Improved data disclosure would be essential for comprehensive transparency evaluation.",
+  "validated_at": "2026-05-21T14:24:20.576171Z"
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head><title>MP Track - Test MP</title></head>
+<body>
+<h1>Test MP - North East Delhi</h1>
+<div id="div-chartw0"></div>
+<div id="div-chartw1"></div>
+<div id="div-chartw2"></div>
+<div id="div-chartw3"></div>
+<script type="text/javascript">
+google.charts.setOnLoadCallback(drawChartw0);
+function drawChartw0(){
+    var data=google.visualization.arrayToDataTable([["","",{"role":"style"}],["",75,"#8562a4"],["",86,"#558f17"],["",80,"#f58d36"]]);
+    var options={legend:{position:'none'}};
+    var chart=new google.visualization.ColumnChart(document.getElementById("div-chartw0"));
+    chart.draw(data,options);
+}
+google.charts.setOnLoadCallback(drawChartw1);
+function drawChartw1(){
+    var data=google.visualization.arrayToDataTable([["","",{"role":"style"}],["",10,"#8562a4"],["",17,"#558f17"],["",12,"#f58d36"]]);
+    var options={legend:{position:'none'}};
+    var chart=new google.visualization.ColumnChart(document.getElementById("div-chartw1"));
+    chart.draw(data,options);
+}
+google.charts.setOnLoadCallback(drawChartw2);
+function drawChartw2(){
+    var data=google.visualization.arrayToDataTable([["","",{"role":"style"}],["",50,"#8562a4"],["",88,"#558f17"],["",100,"#f58d36"]]);
+    var options={legend:{position:'none'}};
+    var chart=new google.visualization.ColumnChart(document.getElementById("div-chartw2"));
+    chart.draw(data,options);
+}
+google.charts.setOnLoadCallback(drawChartw3);
+function drawChartw3(){
+    var data=google.visualization.arrayToDataTable([["","",{"role":"style"}],["",1,"#8562a4"],["",0.4,"#558f17"],["",0.5,"#f58d36"]]);
+    var options={legend:{position:'none'}};
+    var chart=new google.visualization.ColumnChart(document.getElementById("div-chartw3"));
+    chart.draw(data,options);
+}
+</script>
+</body>
+</html>

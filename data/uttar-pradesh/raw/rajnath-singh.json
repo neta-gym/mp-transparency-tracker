@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Rajnath Singh",
+    "constituency": "Lucknow",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "rajnath-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 4268,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 73684617.0,
+    "liabilities": 0.0,
+    "net_worth": 73684617.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 43.5,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:05:21.397269Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:05:16.470224Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:05:16.467344Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": null,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": true,
+    "source": "prs",
+    "confidence": 0.3,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:05:16.466204Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:05:37.153880Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358865Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358871Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358874Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358877Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358880Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358883Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358886Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.358889Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Rajnath thanks Modi for Metro expansion - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQbzhBZ3NrQWVEbWwxVUlGTDNoQU1fczM0bzgwVl9IRUxNME16MENWYmFEc2VNY1Rnelg3M1R1dmpqNFVkWnZsSGxneEJpSnQzRGRTWDJMZUlSOElFdkNYUkxob2gyM3FWakV3dnhLaXM4R2lrLXlHV2tmc1VFWEFQQXBYcUt6OENOUHVqTXpveUN5NXJXYzdKeGVQNU0wMTlRMndMc2NaUUcxcjkwVGwwS2hib2ozRVpGcko2bGpmUHBXYVlsUDhzZFlibHpaQkR3Yk1oRnFxQktsY3lxckFhT2l5bXdsX1dJYTJ1Z2NKemFDeGJhT0k3Q2QxWEtPY2VTblhoODJQRVVsMU9oT2dZYWpoSGFYbzRDSkVYUUNUZVE0VjlxWWR3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "​Lucknow has transformed, India’s stature rising globally: Rajnath - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHRFYkpNVnFpWEo3ajBHbkxQaXZJM0htV3lLbVFzanloN0diNjJHVnY2bTJ0TEkwa0lOLTgyODliRFBncjkyaU03T3RhNmlUbldJUER5b0RQcU1NcFFzN3FsZDVKZ0dRVlFiME1BZEdiU3Jrb3Z6OW9Sa3ZHRFdYRm5wcHhDUVhWUl91MWFzbTNxSm5pOGNIZ3R3aHR6TXV5X2NTRXlzUU1ibXdLeTdHQmJPdGx2bUdyZV9xYl9qdi1UQ0YxR3dHTnlkX0FUT0FBakg40gHYAUFVX3lxTE9LbWFNRXRSTTlOcEFRdlYtdDZPZWFpVURHT09uT2xtdEtHMHQ1YnRKZFpzODZDaExNbnEzaHBjdjFVb2lfWFJyWnhHTVZyc2VveHd0NmJDbVBXSlRibFAxanNuSDhkaENXT1dGOGFiWUx2MlRIeXdlNVVzZ0NfOWVQbkw5RFRqSm50Wndxa19lVjhFMUJ6Vkprcm5HeXVoY2lTd01DdmN0dkstSlctajFWMmRnWmVJX2VHWVRTWGFEWjE4eS1xWVluUnJhVGdCNFBqampSZnlkZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajnath Singh: meets family of Operation Sindoor martyr Sunil Kumar Lucknow - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmZaRkl0RGF2TTlvMS1MZFhaYjdkYXdWQXZkazIzTmJtNWZkUFp0NU9xOUM5ZU9OeTBtZkFKNlBOa1V2UHBwUjVidFRHbFZRcnd6UWJIYUpPU0xieHVoMGd3aTZHVVVOMUlWYVBOSFhfTm45ZF9BOGU4NXZMOU9vTjhfNjJvbWxFVjhoRVpPTDdvcnVuYlpKajJlYlAwcWVDQURDX2JieDdGQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lucknow is playing a bigger role in boosting India’s security: Rajnath - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXZiTmdnb3F6N0ozZHB4X09ISTROd2hEdTduano4OWhmR2VPZ25Tdml5a28xU0xoM3pxZ0JfUFotdnNiVExqUmRfZXdwcElBblpBWS1JSjBvYkctTlRZbTkzdTRXbDNkWWhKeFJ0OXpwY3VkRk92TU1sbjBWVjJwblkwSUR2amV4aW1zS24zUUdiUdIBmAFBVV95cUxQSmZOczNnd21QeDVXUnlicDVsZlpRbTFoMnpZY1RLekpUWlhMOUFILVExSjNKNDFNX1pfd3hKVmRvbDJ5dTRQemloMm04ME11cUJDQUUybFRFTFZBcXdvcDU3bGFzWVZsQk52M2ZGclZUNTNhM3lraG5ySWlpaHgzWkRTUUg5ZHFTdHdla3ozWUE3V2hrek1mdQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Our full effort is to make Lucknow world-class city: Rajnath Singh - Business Standard",
+        "source": "Business Standard",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0xIMGRHcVB6a09Fc2dEcTktdWxEcDF1WElsMXRGaDVMQ1E3WkZhemZUUVBMMzczclJaQ083Z21HMjlScEkxMmtyTTN3NWtpZ2pZYkVuc2VxOXZiTU1YSWJQTkVWSVB3UE04NHl3b09CNkdlb3RORFMxczRMTWhUNFpxVXpibFBQSDBySmUzZHVQb2k5eGpqRWl1QmNFLWtzOUxud2Mxd1VGN3hVekhUcnQ4ZGUzVzRza2V6bHlDS3NIXzdsZXJ5WnVB0gHPAUFVX3lxTE5VWVRzdkNKMzVjdktxcWI0OFI0MWVGTlR3bkl4SjdJTGFwdDI4ZUpVMmZ2dS1LTWUzdnVRRFZtbWpXbDR5WEV3eU1rUHZGakNKcXVKTEhaQms3WE9iUmhROTJBUWlCNVIyOXdlTHA4U2lqaXd2NUpkeHAycVgweGlNdmloZ1dmOENBVlB2bFlKcHlBUjZIWHVfdVRGNDdaZDFjLWdoNU1DdXIxSFc3ZWZrV3BCMDhRbmhRLV95M18zTFFRcnh5dmhqZHFLR0ZGNA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

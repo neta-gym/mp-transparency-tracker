@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Dharamvira Gandhi",
+    "constituency": "Patiala",
+    "state": "punjab",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "dharamvira-gandhi",
+    "house": "lok_sabha",
+    "sansad_member_id": 4676,
+    "profile_url": null,
+    "canonical_name": "Dharamvira Gandhi",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Dharamvira Gandhi",
+      "constituency": "Patiala",
+      "state": "punjab",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "dharamvira-gandhi",
+      "house": "lok_sabha",
+      "sansad_member_id": 4676,
+      "profile_url": null,
+      "canonical_name": "Dharamvira Gandhi",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.942943Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:41.308803Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:41.306974Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 75.0,
+      "questions_asked": 18,
+      "debates_participated": 4,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:41.306237Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:41.943078Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958325Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958351Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958359Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958367Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958375Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958382Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:41.958395Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Patiala law varsity approves dropping 'Rajiv Gandhi' as prefix; Congress calls it election stunt - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQ18tejQwNkJFSW82eVdXZVlVcW5TckVqY2pWUm55MThRalhZTGoyZm43VVR0Um5SYkM3VFhKOTZHdzlScXdmRUVCbkhiejc2MklDNlpUbmF2UHB2czZmMlNTLUdLaDE4c2I0UHhVUzJtbTVTSk52bjNtbkZrSjFHVTVHTHFtbEpYN19RRU93b2FFNE9sMU0yOVUwOHJubE54MEZTS0dRZEdZcXd5d3p5ZUlFTDlYajZPTFo2bUNJeXpEWmpxVFZPTEFLcTVDSzNiaWlrVjhLYXZlbGlYNDFNY0puVUpKSnJfcWNKU1RZVVVMNUZhTnJWcGlVNDVhQk1CYVBUMy1QOTRFdDE3eVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Patiala national law varsity moots dropping prefix Rajiv Gandhi from title - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakVjS1RWWUptcnRTbl9SMkJUSENKaFFtMVVKYVhMamhja0g5X051OHROUGJuZEt1dDc3ZDNSWWpYSW5BeE9lcVNZdzRDT2h2Y3NSSHE4bFM1eFljOFpvaFYwTXJQb3k2c0ZzaHFIRlItekdEUTNYVG0tOXJvRThxQ3A2TWdUNy02ckNTeUI3Q3pBMUxVM0R4VHRHMElwZjFMTWhibVprZV96cGtiNnY3TF9rYw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Centre rushing 'Nari Shakti Adhiniyam' to bypass delimitation of constituencies: Dr Dharamvira Gandhi, Patiala MP - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOU25WOG9zcVpPM1lHSHlEVFpHdFBKSzlUYnZfX3NYenNtOURTY3FMbDhUbkY4NDlLRGN0Wm8xQnotNW1wSi13Nkc5Q19ZaEVoTFZseG56a3BqYmZWRk9qTGpEbVJSQzBMS1EtcjdiTXVwMHduTHlxYUE0TFpHX3JwNWhSdUxRZmUwbDVZRm1tUmQxWC1HZlZiVEZScHl1b250Q2FKdk8telVtdHg2djBpaHZMY1Yxd3k2QzB4dk9pMGlJVGdjdmEtUF9BOHlhR2R0SVllMXJQdFVUOHYtdzdjZ3Y2S1VQTGFJTlQ0TEpoLW9nNUdGdHVwZTlrdkUzQUxWdENScUxyc1l5Z0Z5clFCbkN3V2k1SlhaYmhlZFBtczd1N1U?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Rajpura-Mohali rail link likely in 18 months: Patiala MP Dharamvira Gandhi - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZk5GeG1QU1k4UkpiZTI3NVRwUVJuc29mQXR6eVZoZHYtWDU3R1Z2OWt6QWlyU1R0Y2dYcjRXdXgtVnYzM1dra2lvM3NrX09VNk9nMjZ4U2ZieERhNkt0YjJubkF5SGJGS3dGOVh3RXlybHJBSXYzQW0zV3dsNzV1Sm1hOTRXeGZEZHRJSHpCUlRjcFVDWTJ0VEpYZU1CY1gzQWdN?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress MP Dharamvira Gandhi questions own party’s leaders over halka incharges in Punjab - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLVkteFNIYTVLRE9mYkxiYklLdE9teHpwS3lxaVZoOVdKN3ZNN2ljeGtiYWEwVHVBV1VPUHVPZ3JfNGY1amU0T1pUbUVzN1gwUFpteWY2Zk4tcjVTaEt1Y2pxRnFzVTBhNzk3Zm1lZF9oRXpJZzZkcFZraTQ0LWo0SmFOWVZQcDJFcGN0SXE1bzRkZ3RZcFphUTFOTWZKU1lRZUF2MkJCei1fM21FMzloWEk3YmhOR09lZ2hXOWt1MlpjSGM4c1lvQVU1WkpyWFRTN291WVFlM2N2UFJoRVNGWU5vTEhwN1c1QWlGdzhJZkRvaENlZmVhcW43VdIBgAJBVV95cUxQaXBpd3pTMHotTTNNZFk0ZmxkYTBZMXQ3cU8xLVk4cTV0amtnc3NTcjdzWU1qckR4cmh6UGtnZmY0RUlxdHlIOXlOanJra3hBWUxmZVZqenJVWkdBMlp0TFF1M2Q5VWs4UU1kOGpOemJxNW5DTUg3S1ZjNlA5UzlHbTcySDBvZmpkRFBZMDFNQVROSU85ZjNQYW5XNUlJMUYybE9DLU05aVZvdkozZjVXbUFEZkFDTWlQSjdfeW9VUWdTWlFUTTlLN2lwYi0wODZCYUZWbkV4OTNHS09NRWNNd0dxQlljZ1VueGZYdzZSa3U0WmpUV25faWNCLXlMN29Q?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Punjab: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Dharamvira Gandhi\n\n### Overall Assessment\nDharamvira Gandhi, representing Patiala constituency in Punjab for the Indian National Congress, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. Available records show moderate parliamentary participation (75% attendance) and a clean criminal record, but critical financial and development fund data is unavailable, hindering assessment of his effectiveness in constituency development and fiscal accountability.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is completely unavailable for Gandhi, with no information on funds entitled, released, or expended. This represents a significant transparency gap given that each MP is typically entitled to Rs 5 crore annually for local development projects. The absence of utilization data prevents assessment of his effectiveness in addressing constituency development needs in Patiala.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to evaluate potential conflicts of interest or assess the MP's financial accountability. Only compensation data is available, showing a standard monthly salary of Rs 2,45,000, consistent with parliamentary remuneration norms.\n\n### Legal & Criminal Standing\nGandhi maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability, suggesting this assessment may be incomplete.\n\n### Parliamentary Performance\nGandhi demonstrates moderate engagement in parliamentary proceedings with 75% attendance, positioning him reasonably within expected participation levels. His legislative activity shows limited scope with 18 questions raised, participation in 4 debates, and zero private member bills introduced. No committee membership data is available, potentially indicating either non-participation in parliamentary committees or data unavailability from Sansad profiles.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment (no positive or negative coverage), suggesting limited public visibility or controversial positioning. The absence of varied media sentiment may indicate either low-profile constituency work or insufficient media engagement. Social media presence and public accessibility metrics are not provided in available data sources.\n\n### Data Quality & Caveats\nThe transparency assessment faces significant limitations due to multiple data quality issues:\n- **Critical gaps**: Complete absence of MPLADS and asset data severely limits development and financial accountability assessment\n- **Low confidence ratings**: Criminal record data marked as potentially unreliable due to source unavailability\n- **Missing information**: No committee participation data, suggesting Sansad profile unavailability\n- **Evidence grading**: Parliament activity rated 'C' grade and accessibility rated 'D' grade, indicating moderate to poor data quality\n- **CAG context**: While Punjab-specific audit findings highlight systemic issues with fund utilization (Rs 1,558 crore idle funds, 34% bogus certificates, 18% incomplete works), these cannot be directly attributed to Gandhi without specific MPLADS data\n\n### Key Takeaway\nDharamvira Gandhi's transparency profile is severely compromised by extensive data unavailability, particularly regarding financial assets and development fund utilization - two critical areas for MP accountability. While available data suggests clean legal standing and reasonable parliamentary participation, the absence of key transparency indicators prevents meaningful assessment of his effectiveness as a public representative. Improved data disclosure is essential for proper accountability evaluation.",
+  "validated_at": "2026-05-21T14:23:01.720939Z"
+}

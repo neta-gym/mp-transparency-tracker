@@ -1,0 +1,454 @@
+{
+  "mp": {
+    "name": "Anupriya Patel",
+    "constituency": "Mirzapur",
+    "state": "uttar pradesh",
+    "party": "Apna Dal (Soneylal)",
+    "myneta_candidate_id": null,
+    "slug": "anupriya-patel",
+    "house": "lok_sabha",
+    "sansad_member_id": 4662,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Anupriya Patel",
+      "constituency": "Mirzapur",
+      "state": "uttar pradesh",
+      "party": "Apna Dal (Soneylal)",
+      "myneta_candidate_id": null,
+      "slug": "anupriya-patel",
+      "house": "lok_sabha",
+      "sansad_member_id": 4662,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 2,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 2,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 42241754.0,
+      "liabilities": 9805603.0,
+      "net_worth": 32436151.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:06:50.916002Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:06:46.756036Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:06:46.754230Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:06:46.753529Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:07:05.532715Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415514Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415519Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415522Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415525Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415528Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415531Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415534Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.415537Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - MSN",
+          "source": "MSN",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWs0RnN6WlFMQzI0OTUyeE5WamxKM1JLWXQ3cmdUUl9wNDVHcEk3MWVuUFlDd3hTQ1IxblB0Y1dVdjdXamxzZll1Q1JlS3FSQURCRnRyQXh4Z05nZVctRkZMV0FxZHlRcENsSkYwV3RLNFlCeW1YZy1WSkt3ek5PdXR4QTFKX2dQaER1TWQzRGFBdl8tcGVXOVFFNVltaG1fb09MM0RFa0lFTzZobkw0TGRNSWp4Z3F3VllzSjRYOS1BaElvbk9DOGVLQVA3bnVlYmFTTTY1N2I?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Merchant navy officer from UP goes missing in US - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSEhxZUxPdnZONVhPU1R2Sk8waXRqLUMtbUdITElCYnQ4c2RfTFdnWEJYTG9iTkQwTWZTM29FNWh1WUpFNFc3NGt2MVJvX05sbG1zYXFZaEVPWEt4cFQ1SkZWSldLZmh3YWxZMF84eHNJLUNSMDZfM0RSSGVJQVFhSktFeXA4RHEtWWFsYUFXeEU5X014U0x0NHhOVW0xb1dnX2FKTUFMTGxpWFNiaGhvbFpkV1BONFNwb0h4X1lpM3RibjNuZk9KT0dkYWdQdmhiWVFYeWg4cXdwTDIyNXlyZUpR0gHnAUFVX3lxTE5vckhsdW1LZGN4c000SndIcUFUXzBMaEdDUUV6TlNvYV9iaktocndTdTRjOG9Rc2dKREtwQXlIcFlRdVVHSTVvbTZkNEtNbmtlLUxVS2Vuc0JMb2pnZDE3cjZ2NDBrdXVoOFE1ZW95Z1F2dmh0MUtzS3dPZ3pVXzhSbVBxT2UyY2FwNTQ2dkxGNFlSWGNmSEpMSGtoSXB4ZTZMRUZBUHlzYW9kNG1uTGg4U1JrZGwzUUVtZExsdGhGZ2R2TGJPUGdTamtmVXVEVDVUcDZxWkxkU0l3OGlwUEU2VGhhQnEycw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Smt. Anupriya Patel takes charge as Union Minister of State in the Ministry of Health & Family Welfare - PIB",
+          "source": "PIB",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zWTcwUUh4Tnp5dkQzMUJ2dE1VekNTOXUxcjl2b0NOcDRKRDRsNVF5UjNUbkJ0R3JQQ25YaHZVRHlGZ2RFLVJuaWEycFJDQXJpV2Z2dmhkSjVrQnNNb2l4QThQaHBuemQ3aUxJV0ducjQ?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "How a rebel BJP MP and BSP could queer the pitch for Apna Dal’s Anupriya Patel in Mirzapur - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSTlfanpONnhlLTBoYkYya3ptS1VXWUJQTzhTcXgydHJnMzExYVVCUUFNMUhsZ0Z2Tk41Rk9QQjJBQTItTjlYZVZkeG9fODc0emc4REdkaWwzbWtJdHF0YmU3MzZxRVByUjJLMFhMU2VacjFPc1FReVRfNndLX1BmTmotOF9jN0pPZW91YWVvbG5jSTNOanJBUUxPb1JNTmo3dkwwSE1LakFlTzBTeVFDVVFRdXNQY0EtNVZWZ0k5UmpjYUxkaHfSAcsBQVVfeXFMTjZMOS1ncVRpcnVPYTZnbEtMcXVKZzd5X3NadU1QbldXTVJPM2h4VHh5R0phY0hyRnZxcUJFQ3IyZTVXc2p6ODJDTVlUY1ZVYVhKRzRRSjNzdVpLOXBoMDBqUFZXV2hQcTY4TkVTQWlzWHhoU2ZiMUtxUmpyTDJhc2JLMGFmTDF0ZzMtZlNLd3FhQVM4NEoxQ293Qkl5eFIwYXBtbVNqRG4wRXRYZFAwNDFNbXZnNUhOb010aU5fanJ2SXItYXMyVGxHSjg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha Elections: Is the kaleen rolling out for Apna Dal's Anupriya didi in Mirzapur season 3? - The Economic Times",
+          "source": "The Economic Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOak9nUDZFOG9abngxM2NIODBiVlpZYTJOOVl4cW1ZMkRwWDAxdVFZajViLWZKa2RZLXBCSTNqSEV5RDRNRThFcGF3UGFQOXVHNEgzd1hxRE55YklNb195dWlpbHl4NnZ3SHRBZEhaWGd4eU9UWmdyMDFaYTlCOERWdlNBVWxZTGh3dHBPRkdXSVdtTl9Oczd5Si14MGxqVnNvZ05Tc1dHUnMwRzdLQTBIWEg1US0tbjJNc2h0dGwwUWNZUlRsWjRRenAwaHVhaEVoSUEtSzNKZFg4ZVlLaWNxcVllSVc4V203ZldRVjh2a1pweHMyazR4NDA3SHhlRzVzaGM4RmlMNzFWLWJxb3BlSVl0UHc3d9IBmwJBVV95cUxQeFF0eGNjNWJLYnl6dTcyeHhlUEQtUjFoUE1JYTUyX2k2NnNsZkp5TXlxLXRHcVgzUk85UEFSaUZKemRhRnJhbjJpVDg3dTNvVllIcVpGamlycnhWbUdkeXJhTUhCODJkSC1uTkFnV3E0YmtFbmZGMHZDcUZ0aENyU1lIZGs5T2pEUG5hZkRva2hnRHE2RjVneDB4blN2aEhuVnppZEp0elN2Y1VsdElQMy1HeXNiQ1VTWVNnLXRaUkdxYnRpTHcwOU5pN0pxQVhpVUQ0NGtGZEdva2JmWjRhQjdRU2thbkJxMkxjUkpCYWVWY25tNGZmMmg3WU9Td293dlV3VVMzcUdqaW85a19pdzMxdUJqUklvTWVJ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.3,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Anupriya Patel\n\n### Overall Assessment\nAnupriya Patel (Apna Dal (Soneylal)) represents Mirzapur, Uttar Pradesh. The current composite transparency score is 42.5/100 with low overall data confidence. Anupriya Patel has a below-average transparency score of 42.5/100, indicating significant room for improvement. Minor criminal cases on record.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 4.22 crore; liabilities of Rs 98.06 lakh; net worth of Rs 3.24 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n2 declared criminal case(s), including 0 serious case(s), 2 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at not available, 0 questions, 0 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (1 positive, 0 negative, 9 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 2 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads, parliament activity. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nAnupriya Patel's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.416026Z"
+}

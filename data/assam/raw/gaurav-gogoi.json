@@ -1,0 +1,384 @@
+{
+  "mp": {
+    "name": "Gaurav Gogoi",
+    "constituency": "Jorhat",
+    "state": "assam",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "gaurav-gogoi",
+    "house": "lok_sabha",
+    "sansad_member_id": 4788,
+    "profile_url": null,
+    "canonical_name": "Gaurav Gogoi",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.640592Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:21:34.786554Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:21:34.783747Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 45,
+    "debates_participated": 15,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:21:34.782629Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:22:37.640688Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644714Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644727Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644739Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644747Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644756Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644764Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:22:37.644771Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Congress MP Gaurav Gogoi fails in his first attempt to become MLA from Assam's Jorhat - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTlZ5ZjhoSGxVQ2FjWTV5cWt5S3MwenhDV05jRFVPTHAtOWdEVjNYSWE0U2pQSHM4RVpCc3dJLVR6U2Mxa3VHT19QUjJxZElMQWxjcno1M21McXZSLWxvMmxwUlZnRzlOdlBsVVkxRFNtS1BZZk12aFJYaWYwN1pVT09wVnhsUnJZcl9IUFJLdTdmeDVNT3Y5SlpTV1hrcm1mOTF4Qkw5QVNLZUg0QnZwYTFmVlRhaEtiVTltcnhua29mbEl4cnBwUWZTbWJvQ1QxNE81MDhlQ3M1SFBxcU1SQlp0REY1aFFfVFpjaHpicnBRVnpnY0lpQnJDTVZ2el81YlgtY2h5aEN4VVNCNWxTSWNaRlRFZWFtOERWeHVMRU53WlBNRkFCdnZUSVpmdG1OdmFFZVY3VUlqbVNGWDZCM1dPQXI1UDRTTE11YjFkcnJ3ODZFTGNHRHB6WV9vMU1QT0F6ZThiTDlvWXFiN0JBWUFqSTVSQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam Assembly results: State Congress chief Gaurav Gogoi loses in Jorhat - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPanBVZHRKRGFhZkg4cHVKU3RvVGYxMHJUWmYtaEJiTVVxTTZSVjlwcTJxaDR3dW0tdHA2NjRtYzNsbUE1eXZ5NmRNdjZMMTVkbkFyakJIdDUwTVNyU3pqSEV6T3NsRVdMY3EwRHVCSnFYMWZrVE02cFRZdkViYmpBMEZjelFlSElUYkRVeTY5NHZMTUdCaVpuRDhYVWw2azlpU1FNbkZDN3ZNcS1LZWhuTy0wbEVmdEJQaUFaN1RFdnRmQ0t1TkF1WElzdXFjNEc2Zk9mNzFhVlpDUdIB4AFBVV95cUxNbGZySG4tV0NScm81UUV3LV80MHFZYnRzdXNHeDlxVHBVb3R2dThFTTdOT2ZwX3pSaURzemFVX1R2N2w1WW5ZRi1VQVE1RDlMME4weVBmVFdlWTlsRnlGeGU4S05aSkpROEFNMVlwQmU5dTlNM1N2VXJhOE9uS1Z1MVFhX2JGZXk0a0NUN2lVVUI5SC0tV2Z1TjVMWkhUaS1JSThla0RzbnBlbmN4SHhqSVBOaWF3b0dUaVU2MUVFVnFXTlNiQms2clVzTXhZcUI0VkJKdEI3ZEJtbHhSalZxTA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam Poll Results 2026: Congress leader Gaurav Gogoi defeated in Jorhat | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOci05WG9EQTFSQTBJZzhhc3MtNGg1U2NQMGQ3Zk1NV2ttelJyeUx5anFvb3JmeHAwUGRlYm5KWUx5Tk5wRTdYWWs4UXdXaUllc202emUwRUJPcFBJVTBnVUd5U2g2a08yVlA0SDBZQ05ucUQycXp4b0dyRGZWcTBza2Y3Y3BnSFU2UlBIejJoTnpxdEFmazQ1VU45SXVnT2ZnNWRlQ0RRSFN2Rnd6blJ3VXV3QXNkM3BMSExmY2JCeTl5MVpTWllUdXl3TkJKZUc1bklCNlFYZDRaMU3SAeABQVVfeXFMTTNNaFFuaXduamtTZGpzQ2t2ci02Nkg2aGJGanZQakEwX2hlX2ROZmVFNjJ6V04tbWNEQWY2RXd1ajV0WlEzZGV4cFpWU2o4Z3gyU2Q4WmFMYzhPbkNsdzNGVkFXSnlUdjJJZGJYb0NYWE5rWFZKWUxfcm5xa2xKckpFVXpuOGphektfeGZJTkI5aVlrX3R1RDFnUFllYTJGYzlDWFE2YV9lU3VHQTRRNi1rckhtQi15U0EzUGl2RGFaZXMtQ3FWZUZWcW9UNER1RTlUbTdBVldSeGRjb1p2d0Q?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rahul Gandhi's babbar sher Gaurav Gogoi loses Jorhat to BJP MLA by 23,000 votes - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX2hCMzNHRzBsUVVmZjlRNkc3Sk9ILXVpQ2U3WEJCYmpwcUtFRVhOLWlDQTQySEFPbFc3Y1FWZWt3Q29hR21MMk95TUxOWkJ2T01QcGdGbGtTRmp4S0tzREdaQlJoSHFUVnI2eUpBdXZhNEtiQ213V0wyLUx5OExSeXFCNTBXVHRQMGM4LVBHV2paSXFSOEhHYi1sTGhoSUpoaFVSZzY0SFlqQ0phNWZBakdsb1JFeEZ1RFdlVy1RQWVpQlZSSm1yWFpYUlFxeFlIcWJpLTFsOXYxTWtRdUdzdjA2TmFQQmd4WGx1ZGNCRG9hRWp3dHgtZzZiS2jSAYICQVVfeXFMTTJZRTBrbzNsUzRCUDF4c0JjZGxvb3FNVnc2Q2pxOHVuOXF2Q3hnQkFiSnZVcEtobGRKN0tqVDZGMkU1ZU0zTGFucl93NUExNEJtVFJlUUQ4cWtIbk1BblphQjNpNGg1LUxhOVNGMlVrNVkwYUoyT0hzUGtnS2dROG1Zek9vLXFoWElrSzVxcU54UzVEMWEyMm5OTXNNbFJPSHhVdFNTZDJpZ3VRRU1aV3J0b2lIWHFTakZodmVxWVZzSGFkYkNGSmNNQW5ESVhpSVVnUjFDVkxkOVFsY05NN01PMTJQZzdtUC10YUd4TG03Sm1IMG80TlZZWTEzSGcxTHdR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress CM face Gaurav Gogoi crashes & burns in Assam polls debut, loses Jorhat by 23,000+ votes - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2RZR1d4X3ZnRUpUUkRIZENRT0JBbGtRRUpiQ05Bb20tNXoydDNxaFFOOVRjMU5ZdUZEQkZSTHMtQnFQWGg2QWN2OHY0c3BOcnAxZXRrd0VwWDN1T0ZScEdWXzJBOFE5XzhSSy0wcEUtcEotLUhPbWdYUlZMazgzVEk4MGQtNFhWVFBYVFZLSnhTaTB5QUIxWnJBSVpYYVA0WFlaOGMzeG5VeFpfbHY3RVBmV08xR2Fjc3BB0gHAAUFVX3lxTFBURHZrNW1GQjd0a1lTS25sc2lUUk9jMTJmdTdNS3RCU0Q3VnA3WkszVjJWaUxnME51NVd0aW1iMERXa0Y0M2VKVXhIWlQ1MkNwZEExa2k3TEdwX3VFTFM1aTBaY0Y1LVFtS2pvTTNKRTBubUhDVWdGeGctVm1YRlZhZGd1eldvaEhRd3c5YWpTRklURkR2ZUh1UlZkWWozNVBOZFBiRWlYVjZNSW54MXJSNU1DOHhsZGR4bEdfem9wcQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

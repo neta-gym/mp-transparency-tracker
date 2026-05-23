@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Putta Mahesh Kumar",
+    "constituency": "Eluru",
+    "state": "andhra pradesh",
+    "party": "Telugu Desam Party",
+    "myneta_candidate_id": null,
+    "slug": "putta-mahesh-kumar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5726,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "pending_cases": 1,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 720851715.0,
+    "liabilities": 200430056.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 520421659.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.899438Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:22:56.531998Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:22:56.530197Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 60.0,
+    "questions_asked": 51,
+    "debates_participated": 3,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:22:56.529503Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:23:59.899618Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914184Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914201Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914209Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914217Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914225Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914231Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:59.914237Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Drug bust in Hyderabad farmhouse: TDP’s Eluru MP Putta Mahesh Kumar tests positive for meth - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNczNaU1Y1UnpRYkhRcFpfNWJrYy0tVHlaRlNiVEhhUUhib1JBS0ZSNGxqM0RITnJUR3h1WEFFN3BNWUVnWkJrcVBtSUNqZ2FwbjIwQWdxdmpmQkhEbjY4a3Nqb2pHY1NEdi16aTlsbjJmVDVOWC00SWM0OGlIZzNMbTkyVmZDOHhUU1ZqTFpPVkhUVWVFNTBJeU9uanJLTXk1M0hRWFE3TDFmVUxOSXpjYkZUU1FqNm9rRmxOYmJBNHhDUFNiQ2Y1eS01TFhoQXU0YTZ2U0ZPUjAxNklCYlRtNnI2eDk4UWF4WEdHZnFZM25PTVBUYVlmclphanZITHpaVF9Td0dMVmxER2hzcFZjX2VWUHhzOUtkR3F2anozd2lUZDlkSURVWUVGMlJUd0hDNjNXa1JDcDI2OFA2R01lNWc0eXc5cl9FNFpBOHI4S3RXeG85TWM0MUZNQXZDb2E3NS1DRDVnUVJ6WDlESUhOU2pDY3daQ1ZlN24xd192alVkc0xqOWNwYXFB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3RfQTJ5NWIzVW5PMGhQNkdHYm4wQTBmZmU0NW1vMzRhTFZfdkpjejhIRTY1RVRNa0ZJeTFnSUV4Uy04bW9NMHJhQXV6WDdsLWV1a1h4QnR6U2NVRGtlUUFDZU5rUWdFdDNfU01BV1RMLUJFSWtMM05WYTFSdmc3bWlpcUxJMG40NmI3elVjc3JXR0w5QzJIdEhNU2RaZ3JJcS1kdGlIVGdhMW5HOFRuN1cxcW5WYkt2QmpKQzhDTFMtZnhCbVNQbm9HZ2hoaXg1MUQ0VTZVakhpak1tSFdUQVRuSlHSAesBQVVfeXFMTUlIeG9sZ0FXM0NaX3pERmh5NVBLZWF1dUk2V3dLMTl6Skw4eWRPM2IydE9pMVFQc0JVTzhQaDBJOGZCY0NSQW1DdGMyS000cFlZWktPZ29PNm8zZ1R0R0ZTMjVOR0RYR2RTbmFJUEs3bXZzRnEzX3RzUTNvQkk0bDU1VmdSeEIxUjJiME92cEd5YjdZdEVLNVFMbUhiS1pJSldMNWpyLWNGTUxiR0M3TE5jYWpFbUZoZHZRdHoycDV6QXRVNW9YakdEZTlXbHBTUTYwaExLaVYyNFJiNnZRXzR1WGdNS1MzWW5EZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hyderabad drug bust: Naidu directs Eluru MP Putta Mahesh Kumar Yadav to stay away from TDP activities - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVTBOZXdiWG16SUFMNDNZR21iTEk4NTU0Y0U2VXEwOXFhbHdQa2VXOVdTYzV2M2VEeElqZS1rM3hPSE02MUxwY2dnc2F6SDlCcVQ0cGRlUUhJYWl5ejVoV1duR2c4ay03MXZDczdCS1NiNGZncWJTcGptUnl1b2lEc05tN1FSbmdTZVNIZ05PRk1DOGp3LWp1Q2dsOV9ocEhEemFrYWZBMFlPd0MtTjR4LUprbUxVUmZnOG9OcUFaRGxjRnhTZUlMdmNwQTVDV2FwWkpiaWtxLWg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cocaine bust at farmhouse party in Hyderabad: After BRS ex-MLA Pilot Rohith Reddy now TDP MP Putta Mahesh - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTTZqcjdSYkhPd1hqR0tyMUQzYTVFSy1WYUhXRW9wNHdEUmNfTHJ1RkYyZ3FET25KbU9KanNZY0piUEhwcklzUDR5SndBbEhGcnBnTGRLTUFOa1ZKSWtWLUpINzF4U0NHcktCMjFUT2ZobVpCUms5eHEtZ1JaaFE0aTd5aTNFb1R4SEFyZ18zZXdNOG1WNkplSUhZelE3REJGQzdzN0dDNG1OM2twT1ZjQ0l3MC1JNC1GNjRxLTFWLTlaU01HankybUVZYWNJUHo1WVBPdExQc19UNzVFenJPRVJ6ZE5XSDQtZGRsTEMxT05WN1FaVFB5MWQ2bFFsYWdRSWVKUnN2aVBHV1FKVE9ZNWNfWjNzN3FySkNKVk5CYnpVSEVWd3V4TzFB0gGvAkFVX3lxTE5PZTZQVUFoQXRCaGtVQ1k1YzFYTHVZdU9CUi1IMEFmMnhFMThLMDdiLVl3c2MwZjhfYWlENjYtSHNZODA0VWxjMXlJNzlpODhEN0t5YXZ6d3Y3SVlPQW9CVy1XSUs1Z2xJNl9WOHBaSU82blFZNzlyaWg1ekdESDFnaHk2WVZsTF9nbFdhMUc3RjFwc1pQY1AtRUtGVms0UV9LN2U3Rkl1eDJFLVNrWFpyeDk1ZTFLUVZOdUh4VzA3WUE2R3JaS3Z3Y3hPdUhfd2Q3OFJvQzRZc01sNEpYZlJHYnlIMnUtekppV0dCSUFrLXlONFdzTDdjQld3czFMNWRlMUZmaEdRWEJjWkxoVFBta1UzVVpiRGo2RnJzOXoyaG1ocW9CUEtHSDQ5RDdMQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Eluru MP Putta opts for trial over de-addiction - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFZEckRkMUJwc2VENi1UQi1VU2JyLVJiWTVUSF9CM016alF5V1l5S2UzeGZGcGFvbXRfaVNhaFZqblV0VjJjMlRyOVdtSUxYT3B6Q2lzenZrcFNWUy1IbnRhVWhhbHFZT3d0eXZhOFNTSjBPMDZGZ3VMdEVjNkpxUmtKU1k1RUNtNDQ4YjlrZlpsY2FMbVc4Zi1tc0ttaUZabkxieWNhQ2Nvc0dEZVdzVEsyUnDSAcIBQVVfeXFMTzNkSUFST1VIMWUxZlBwZW90THpiVVFYV1BuT0E4aFAtLUNveWQyTGhxOWxDaGlMSXFXbWpROG5fdU0zU0cySERneVFkWWlINnl4TVltUThZN2xSN3gxZTF2SHNvNG45Ykw0cFRZTGkwSjYxclBfbWg0b2RTNkdpa19fU3FYcXpsS3FzaFBDSUlsV1RPTXpXY0RvRWNEOWVObEwtc05pNTVkb1otUjBXaW9TZnNDQjZpdmJqOHNKQzFtb0E?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

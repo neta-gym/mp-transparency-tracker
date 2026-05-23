@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Rajkumar Chahar",
+    "constituency": "Fatehpur Sikri",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "rajkumar-chahar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5142,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Rajkumar Chahar",
+      "constituency": "Fatehpur Sikri",
+      "state": "uttar pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "rajkumar-chahar",
+      "house": "lok_sabha",
+      "sansad_member_id": 5142,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 2,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 2,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 34176612.0,
+      "liabilities": 1964321.0,
+      "net_worth": 32212291.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T13:59:34.805749Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T13:59:29.424441Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T13:59:29.421550Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 95.0,
+      "questions_asked": 12,
+      "debates_participated": 5,
+      "private_bills_introduced": 1,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T13:59:29.420422Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T13:59:50.069025Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145896Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145902Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145905Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145908Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145911Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145914Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145917Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.145920Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Agra celebrates Nat’l Sports Day at Eklavya stadium - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajlGVlFJSmphMWp1emw3d0RTdEpuWW9HNjk2c2dqNFZRSjNqUlpwcEd0TjVHMkJPbndNY2d4aUx1ZzV5T2ZtMDhrWE9ZZkgzbTRmcU9rTjh6eGk5d3dsWS1XVkJNbWdpeFBrYThFdFkyZzA1bVRkNkdPQjhOZS16M0gyS3ZNcHdpN2ZmN012clNJWjBsRmdVZmRpNGdWdmNGTGhMUTRGZUhPRk9Fbm14MGcyY24yN3h4X0o1b1dUQdIBxAFBVV95cUxQSC15LUhIT2NQd3RVbTBoWjdJWV9zNERCR0F6ZGViSUVKTFNkZDdpclU5SHJySXg4WXUycjc2bHpYN2owbXVjSmlyTElKd09mZ3JQeGw2d2d6dEhKVkFJS3B1N3RFaUtXY2J6enRISmgyZHp2SVN6QTBIcmlCY1puSTByemEtejJReHkyQUFySWVtbmhlTzRFYzlOZmlfNGpJTGlObHlRb05LVGFOT1Fla2ZGUGpmYm1vVVRFT3lTZUh4UHdj?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BSP picks Brahmin candidate for Fatehpur Sikri Lok Sabha seat for 4th time - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSUJ6LVRoVkpzNGhKS05DZ1FwWEwwcjJMREhwRmVGZ1BaREdZWG1INmJkWHZEdDNfQnVLcVpKMEozU2Q1TnNUT3JpNmR5blhlS1BsTG9LQ21DMGNuRDZLUHh1NWt0SFJ3VjZmMTdLeUNYQjlRZmRPdlQ5Y01XTVJCQUJIVFBkSFZLTzY5bGV2ODRlMWxadUplTV9pdDA4dnpLU2g2OW9TRFl1VVVqSXpQdlBwSFNCdDhQekcxQ1dZdDVjNFZxcDFNc1dkUdIB0AFBVV95cUxPdzlzWm5JZGhPLU5EUkpla3habTl0X2hXT1F4MXFmTjZLM2YwSEFmYUpHSndzdUNBZElXSkZ2X0UwZU9tNHVGa2dibmtSQzdfb0pNWmFfTHJQNW5MNTBRaGxlb1c3M1BFNmVJUUJBX0FBUHRTeU13dlJ6MWhtVElSdS12WHpHRG5DTVl1WVVMa1N3VV9DOW1ldTJOcjlhZ3ZMcW5DN3BaZURzdzljRnhvZkMtOXJ4ZlN5RkpQc1o1aFFUZ1JxZHVxY3k0Wm5Pb2dH?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "फतेहपुर सीकरी से BJP सांसद और इंस्पेक्टर में तू-तू-मैं-मैं, वीडियो बनाया तो दी धमकी - AajTak",
+          "source": "AajTak",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYS1HT3JBVFlETlZqay1rQ1RLbGFuSnNUUXpnRm13R25GcC0wdldfOFNSb0EwUGxBSW54VzI1MWVUNWRHcE82QlBoX0FuekVBUkFoaHVTNHBnUFBMVXFrMjdRNDI0eDhMaFNrYk04Z1d5c0RVc3pnVGdsWmNMWUxnRnZBLTJGWFA5VEtOMWd5cTRJSC1nUEFzLWd4T1pRLXg5OVZqcF9RQUtvV2wxaFNwZjhWR2Z4bDliaEp4V3pRVEdOYVp4VGZjOFBHVWdkWktMczhzRlJTMU5qb0Q3VkhyR01NbENTWU1NY1VJanhZY1hnd2_SAfgBQVVfeXFMTzFGUnFCMUtQX1ZfQmhfNnFuMUp0cEt3OFJ3cGUxT1hLcGJ0NU52VUlpRXFoYVo0dFB3OVVReGtBa0NzWlVmclNib0xOSEJVdmRWYk94YTA3d1Q2WjE2WTZPZnpCTnRjc05ybGduUzBfSTB3VjFFTDRrZDdIMHJDd3c3R2lRN3ZhNEtsZGx3dFlIbTJFWnlnU0Z2TWM1bjk3TEo0UVZpd0N0VExzZXZEU0JzWUF4aU5YSk10bU03RTZaUEF4RWxzM3NmVEFJck5lTGI1eHAtNjBVTzh5cGNmWGdpa2R5VUU4MEdYdkxXcC1seE1MMXkzcy0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Fatehpur Sikri: BJP MLA turns rebel, fields son against party nominee - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenU2X3ExMnJCOTAxT2tYcFlndUlDMGhzWHQ2c01kelBEdmk5NTh5QUl5ZW9pMjlyT3dIV09VY3JjaXp6d3psX291NHJVNW11bWREZTh0QjdvMWVsSkdjalRycjFfMnJ4TjZtNnZGVjhqMTdaMHpmLXQ4Q3VJT1pjUm1YMTcwci03b2hDZ3RGQmQ1d2tBNFRzZjllckVodHo4N2JZWTEzQ1d0Q285dnI0Y2pNeDdCdEVhcWVsa2VBckpIOXVa0gHLAUFVX3lxTE5xX2UzTm1UbW1YcnNHUlh6bDlUeHlUWkx5S0xjQVViSWJyeHJKYUJ5LXBGbDJ6Ul9LVnpMREN2NE5tdVJqelZSTV9vWkpZMTFNUk5vWFVvSEs4eXlFdFZBandtWDVfX1VFQU1INGVOcW1DSlcwd0ZoUzRlUXV2QVRWZjM1eC1QRmN1Rk5pMnZTd3g4OTRGRG9BMFJhVlNmRHo1YmFmZUpPWmVJZ3lxNDdxNUZTdU1FZnF2TjJMRC1rM25IZFpGUkQyVUhN?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Fatehpur Sikri Election Result 2024 LIVE Updates Highlights: Rajkumar Chahar of BJP Wins - News18",
+          "source": "News18",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc0FsVHF0V25Fc21GWnRlc1NIb1JYaThQVzlsQm5FSVg4MWQxZzV3NEdjem5hamc4cjdtNHRXRmFhOVpUak9sbjV6bFBDR3dwNnc2Q0V3aFJsbEllUi02T29yOVNicmxwR1ZaNTJkZFhPcTJ0NUxmYVB3OWpmVXB4bFg5c1h5Mml0M1BHV1NXS19QRGczQVRJQ29yX2JjQWdLdzhlYWNiOEk4ZFdPYjA3Mlk0c0ZDUmZiXzA2RWNQcU45WkRCSmJ0bnVCT3p0VVZxU0lDLXV1U0JSWGozR0gtU1c0dEFxYVliZDY40gHwAUFVX3lxTE5UaFdCbE5qSE9HVTFkUUlBeWJwZF96Z0pUY29HMXNYTzBDdjdxdGMyajFFV2wtOHpSNndwLXQ3Z1RnT3NtdWdCMHZCQ21tVmNRLXRDM1FYUGtBRXoxRUxybXNIc3I5ZElOVTlVYThCRjM3YnR1ZzdhRjFyS3lxdXpTcl9KU2N1VnR5eXpiY3JKdU5oUXNCeWVtUWIxRlZ5b0kyYzRKMnJidWFad0FWRlM4b3pwMVJBbFZNdTgtcWtoQ2F4VlRheEllWkU4WlRFVHdQbEZ4SEpMcHhicGN4UUtlSGEwOEpndVBib0FLZ0JReA?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 1,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Rajkumar Chahar\n\n### Overall Assessment\nRajkumar Chahar (Bharatiya Janata Party) represents Fatehpur Sikri, Uttar Pradesh. The current composite transparency score is 50.0/100 with low overall data confidence. Rajkumar Chahar shows moderate transparency with a score of 50.0/100. Minor criminal cases on record. High parliament attendance.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 3.42 crore; liabilities of Rs 19.64 lakh; net worth of Rs 3.22 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n2 declared criminal case(s), including 0 serious case(s), 2 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 95.0%, 12 questions, 5 debates and 1 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 1 negative, 9 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nRajkumar Chahar's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.146419Z"
+}

@@ -1,0 +1,1065 @@
+{
+  "timestamp": "2026-03-12T17:48:00.621229",
+  "state": "delhi",
+  "suites": [
+    {
+      "name": "Environment & Configuration",
+      "passed": 13,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "Score weights sum to 1.0",
+          "status": "PASS",
+          "message": "Sum = 1.0",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Data directory exists",
+          "status": "PASS",
+          "message": "data",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Database file exists",
+          "status": "PASS",
+          "message": "data/tracker.db",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Python >= 3.10",
+          "status": "PASS",
+          "message": "3.10.13",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import anthropic",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import aiohttp",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import aiosqlite",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import pydantic",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import rich",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import bs4",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Import lxml",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": ".env file exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ANTHROPIC_API_KEY set",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Database Integrity",
+      "passed": 27,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "Table 'mps' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Table 'research_findings' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Table 'validated_findings' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Table 'scores' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Table 'leaderboards' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Table 'api_usage' exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "No NULL/empty 'slug' in mps",
+          "status": "PASS",
+          "message": "0 invalid rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "No NULL/empty 'state' in mps",
+          "status": "PASS",
+          "message": "0 invalid rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "No NULL/empty 'name' in mps",
+          "status": "PASS",
+          "message": "0 invalid rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "No NULL/empty 'constituency' in mps",
+          "status": "PASS",
+          "message": "0 invalid rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "No NULL/empty 'party' in mps",
+          "status": "PASS",
+          "message": "0 invalid rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "composite_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "mplads_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "asset_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "criminal_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "attendance_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "participation_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "committee_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "accessibility_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "legislative_score in [0, 100]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "overall_confidence in [0, 1]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "data_confidence in [0, 1]",
+          "status": "PASS",
+          "message": "0 out-of-range",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "research_findings.findings_json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "0/10 failed to deserialize",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "validated_findings.validated_json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "0/10 failed to deserialize",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "FK: research_findings.mp_slug \u2192 mps",
+          "status": "PASS",
+          "message": "0 orphaned rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "FK: validated_findings.mp_slug \u2192 mps",
+          "status": "PASS",
+          "message": "0 orphaned rows",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "FK: scores.mp_slug \u2192 mps",
+          "status": "PASS",
+          "message": "0 orphaned rows",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Output File Compliance",
+      "passed": 42,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "Valid JSON: ramvir-singh-bidhuri.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: kamaljeet-sehrawat.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: bansuri-swaraj.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: bansuri-swaraj_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: ramvir-singh-bidhuri_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: manoj-tiwari.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: manoj-tiwari_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: yogender-chandoliya.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: harsh-malhotra.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: praveen-khandelwal.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: praveen-khandelwal_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: harsh-malhotra_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: yogender-chandoliya_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Valid JSON: kamaljeet-sehrawat_validated.json",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ramvir-singh-bidhuri.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "kamaljeet-sehrawat.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "bansuri-swaraj.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "bansuri-swaraj_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ramvir-singh-bidhuri_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "manoj-tiwari.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "manoj-tiwari_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "yogender-chandoliya.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "harsh-malhotra.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "praveen-khandelwal.json \u2192 ResearchFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "praveen-khandelwal_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "harsh-malhotra_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "yogender-chandoliya_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "kamaljeet-sehrawat_validated.json \u2192 ValidatedFindings",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ramvir-singh-bidhuri.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "kamaljeet-sehrawat.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "bansuri-swaraj.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "manoj-tiwari.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "yogender-chandoliya.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "harsh-malhotra.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "praveen-khandelwal.json \u2192 ScoreResult",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] leaderboard JSON exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] leaderboard MD exists",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "latest.json \u2192 Leaderboard",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] entry count == total_mps",
+          "status": "PASS",
+          "message": "entries=7, total_mps=7",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] ranks sequential",
+          "status": "PASS",
+          "message": "Expected [1, 2, 3, 4, 5]..., got [1, 2, 3, 4, 5]...",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] sorted by score desc",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] reports for all scored MPs",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Pydantic Model Round-Trip",
+      "passed": 8,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "MPProfile round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ResearchFindings round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ResearchFindings computed fields",
+          "status": "PASS",
+          "message": "growth_ratio=1.0, utilization_rate=80.0",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ValidatedFindings round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "ScoreResult round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Leaderboard round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "House enum round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "EvidenceGrade enum round-trip",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Scoring Algorithm Invariants",
+      "passed": 27,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "MPLADS: None \u2192 50.0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "MPLADS: 0 \u2192 0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "MPLADS: capped at 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "MPLADS: monotonically increasing",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Asset: None \u2192 50.0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Asset: 0.0 \u2192 85",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Asset: decreasing with growth",
+          "status": "PASS",
+          "message": "Scores: [85, 80, 80, 65, 45, 25, 10]",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Criminal: clean \u2192 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Criminal: floor at 0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Criminal: conviction > pending > disposed severity",
+          "status": "PASS",
+          "message": "convicted=55.0, pending=90.0, disposed=97.0",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Attendance: None \u2192 50.0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Attendance: minister \u2192 50.0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Attendance: clamped [0, 100]",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Participation: (0,0) \u2192 0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Participation: (50,30) \u2192 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Participation: minister \u2192 50.0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Committee: 0 \u2192 0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Committee: 1 \u2192 30",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Committee: 3 \u2192 70",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Committee: capped at 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Accessibility: 0 \u2192 10",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Accessibility: 3 \u2192 70",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Accessibility: capped at 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Legislative: (0,0,0) \u2192 0",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Legislative: 1 bill \u2192 30",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Legislative: capped at 100",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "Composite in [0, 100]",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Leaderboard Consistency",
+      "passed": 5,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "[delhi] no duplicate entries",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] entries valid confidence & house",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] scores match leaderboard",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] weighted sum \u2248 composite",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] all scored MPs in leaderboard",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Cross-Artifact Consistency",
+      "passed": 17,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "[delhi] validated \u2192 raw slug consistency",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] scores \u2192 raw slug consistency",
+          "status": "PASS",
+          "message": "",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] praveen-khandelwal profile consistent",
+          "status": "PASS",
+          "message": "name: Praveen Khandelwal/Praveen Khandelwal/Praveen Khandelwal, slug: praveen-khandelwal/praveen-khandelwal/praveen-khandelwal",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] kamaljeet-sehrawat profile consistent",
+          "status": "PASS",
+          "message": "name: Kamaljeet Sehrawat/Kamaljeet Sehrawat/Kamaljeet Sehrawat, slug: kamaljeet-sehrawat/kamaljeet-sehrawat/kamaljeet-sehrawat",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] manoj-tiwari profile consistent",
+          "status": "PASS",
+          "message": "name: Manoj Tiwari/Manoj Tiwari/Manoj Tiwari, slug: manoj-tiwari/manoj-tiwari/manoj-tiwari",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] bansuri-swaraj profile consistent",
+          "status": "PASS",
+          "message": "name: Bansuri Swaraj/Bansuri Swaraj/Bansuri Swaraj, slug: bansuri-swaraj/bansuri-swaraj/bansuri-swaraj",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] yogender-chandoliya profile consistent",
+          "status": "PASS",
+          "message": "name: Yogender Chandoliya/Yogender Chandoliya/Yogender Chandoliya, slug: yogender-chandoliya/yogender-chandoliya/yogender-chandoliya",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] praveen-khandelwal has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] kamaljeet-sehrawat has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] manoj-tiwari has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] bansuri-swaraj has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] yogender-chandoliya has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] ramvir-singh-bidhuri has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] harsh-malhotra has sources",
+          "status": "PASS",
+          "message": "sources_consulted=['myneta', 'prs', 'mplads', 'social_media', 'news']",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] praveen-khandelwal DB \u2194 file score",
+          "status": "PASS",
+          "message": "DB=43.9, file=43.9",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] kamaljeet-sehrawat DB \u2194 file score",
+          "status": "PASS",
+          "message": "DB=36.0, file=36.0",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "[delhi] manoj-tiwari DB \u2194 file score",
+          "status": "PASS",
+          "message": "DB=44.6, file=44.6",
+          "details": "",
+          "duration_ms": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Existing Test Suite (pytest)",
+      "passed": 2,
+      "failed": 0,
+      "warned": 0,
+      "skipped": 0,
+      "checks": [
+        {
+          "name": "pytest exit code",
+          "status": "PASS",
+          "message": "exit code 0",
+          "details": "",
+          "duration_ms": 0.0
+        },
+        {
+          "name": "pytest results",
+          "status": "PASS",
+          "message": "246 passed, 0 failed",
+          "details": "igfile: pyproject.toml\nplugins: anyio-4.12.1, asyncio-1.3.0\nasyncio: mode=auto, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollected 249 items\n\ntests/test_agents.py .......................                             [  9%]\ntests/test_compensation.py ......                                        [ 11%]\ntests/test_debugger.py ..............                                    [ 17%]\ntests/test_discovery.py .......                                          [ 20%]\ntests/test_esakshi.py ...............                                    [ 26%]\ntests/test_mplads_calc.py ..............                                 [ 31%]\ntests/test_mplads_datagov.py s..ss                                       [ 33%]\ntests/test_name_match.py ..........................                      [ 44%]\ntests/test_sansad.py .......                                             [ 46%]\ntests/test_scoring.py .................................................. [ 67%]\n.......................                                                  [ 76%]\ntests/test_tools.py .................................................... [ 97%]\n.......                                                                  [100%]\n\n=============================== warnings summary ===============================\ntests/test_discovery.py::TestSansadFirstDiscovery::test_discover_from_sansad\ntests/test_discovery.py::TestSansadFirstDiscovery::test_discover_with_rs\n  /Users/shridhar.kumar/.pyenv/versions/3.10.13/lib/python3.10/site-packages/_pytest/stash.py:108: RuntimeWarning: coroutine 'AsyncMockMixin._execute_mock_call' was never awaited\n    del self._storage[key]\n  Enable tracemalloc to get traceback where the object was allocated.\n  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n================== 246 passed, 3 skipped, 2 warnings in 0.43s ==================\n",
+          "duration_ms": 0.0
+        }
+      ]
+    }
+  ]
+}

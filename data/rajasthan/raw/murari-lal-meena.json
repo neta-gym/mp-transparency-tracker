@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Murari Lal Meena",
+    "constituency": "Dausa",
+    "state": "rajasthan",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "murari-lal-meena",
+    "house": "lok_sabha",
+    "sansad_member_id": 5717,
+    "profile_url": null,
+    "canonical_name": "Murari Lal Meena",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 135714010.0,
+    "liabilities": 2166932.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 133547078.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.737229Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:25:43.303901Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:25:43.301067Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 95.0,
+    "questions_asked": 48,
+    "debates_participated": 7,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:25:43.299927Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:26:44.737408Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753296Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753314Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753322Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753330Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753345Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753352Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:44.753362Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Dausa (ST) election results 2024 live updates: Congress's Murari Lal Meena wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcTN5WnRDbVUyS1B2T1poUFlRTV9QYl80N2N1N0VBU19odGZkTkxBamxtSHpWeVJDTFg4XzBiMVhlczRqYktSUEVnSDJaYmJqeG1teFBwUVAzaEwzN0hoYWJ5bkpROUQ2dWp2ODR6SFpudmcxaWJmb1hiSkZUcFFDakFtNWpPY0daMVJGbUJ0T3FlQU1CMUlDOFpFWFpSQ041U2NUcWZPd0Z4X2tKVlJ5QmprUF9WSUdFWklMdm1TdjRiWFp6NXFsOUdoY1dSa1RualdCbWg4SzZwZWgtUlpBSVVhbFN6SkxvVG1yS25DblhQYkhPS2RETDBVYWFvdTg1NERlNG1WWGZqU0tqZjlNWGYtU2FDQkhVelFJRGplMmM5LVR4anN0b1hIR3U4Y1VRd3hUU2JCNFoxblJlSEJr0gHEAkFVX3lxTE9LNmdUTTNQcmpoVW42NDlJSUpCZ1RKNl8wdEhOR2VwMVFROHZJQUs4cVNGMmMxMjRVY1dnSnhWVFRlbTJrbzUzREhTWkNuUWwwa2JaZ3Y2RHE2ZElBaGFpNGtPMWV5VmRZNDRkZkdTeGVFbDlBemVyVVN2Y0J1S0NWazhud19DbE12emREeDh4MmFDTVdxendhTVYyMFY1aENnX0xIZW91dTVSUGJqODR2UzlVX096eGVvWEt3aEYzNnlkV3MxcjFhb2ZVVF9CY1N5ektLMDQwQkZINXFXX0VIX0R6ZVp6ZWFNVmJQYVdRWWpxX19yTUI2RUM0N2pPVDR1ZUZBclVoa3kyeVBUdkNkbTA2QUpmOVVZcm1KUE85UkpSRVU5MWJFbEx4MW5CdkpPc0o1cnJUSlhFN3BPUlJ6SXdPMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dausa lok sabha election results 2024: Dausa Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0sya3NaZE5XeE44bG1MOVlHLUFJY1JvdEJjZWtSTG13RHdfTHdIdUVmWTAxcXBQREZ4eExnaTZlUk04NkJYV3QxNGstSTRDdFp0Z0tGTC1WNDRQSy1idnY3aDI5QklkU2wwcjRDVkdpcVhKOE04VGRfWkVET2pSZ0NnZThZRURrb0FoSWdFMHg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi holds roadshow in Rajasthan’s Dausa - DD News",
+        "source": "DD News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GQzhoY2hzZmQ2MFFHTUR1dklFRTlzUmhUbFNoSjd1M01zdUFMSGFDazlfaW1vN21NOGhHOVNPcVQtNE5DNHhhY1Z6MW9OQ2lsODVFSlRrSzhZLXhSUzRiY1RIM0h1c1Q0MlZMQUk5WTVSSkZjVXM0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP leader Kirodi Lal Meena’s reputation at stake in Dausa Assembly bypoll - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVTJWclpCal9pS1lyUlJTeWtwaXVMWFBENjNzRXhab2lTR01DcDBwZWRBV3VKVTBKZDV0MlRoQWgxX3hRQ1hyMW9Lc21GNWRLRTFCYmtBV0JSVXhCYWZNTzdOaHJlUWVSZzJNWHlHbWJZNkxiRm5KcnM3M2U4LWdtQTA2eFRvQ3pTVkg4Y3UyRGMyOXNJVXVZWXhuVlNRQXBrUmVKOGMzNzNUTVppWVJHMjhIbjNMNG5ReEZZLWFoeDI0Wk80bEJnYnhoQjMzZ2l0b28wSXczanhvd9IB4AFBVV95cUxNTWlNaE53WDE1ZGtVaW9jSTM3b0M0bTdaQXZzVUd0a0ZYakNyQ3NfWU5XZV9fSV9MWFAxRTR2SlZCVUZ4R0VDN282c1h1LVI3Y3F5NklBYXlxTjFIZU1VYzF6aDlQaFlPY3NIR3FJT3poSzV3TzliX191Vkc1X2tJN09iT1ZkZ0dQM0N6RVpqS2NKMk1OUTJGS1NyNEpPNjBTdEJwV3FQUWhrLWMySmtQSU1aczRaQlBhMktkTWMzaGh4WVJXWE04eTFJTENqQ1R6TkRwWm5aYU1UbDRBd2hqWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will win Dausa Vidhan Sabha seat by huge margin, says Congress leader Murari Lal Meena - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbU1xR3lYTGl5NVNYLUgxMjRwQWtNZUtTN2JhUlJiZmVkUXZsRUJPX2VDNEd1aEpNdG42aE1tMTlReWNIMmJ1S3Zfc2pSNWFTMll0eWdDRWNoOUxNT2pYR29MOFZQT1l5V19BdU9SYnRxR21nc2dMS2JCWGxoc1lpTG5WSXJQUkkzNndRbEdPajh4aFAtc183VWlwa0NRaEJWT2lOQXh6dUtRX0dTSjlQOThyU0dqVmZfRTlMd3ByZ1l2XzNtM0hZbFR5SktkaEFLTEHSAdcBQVVfeXFMUE90THZscDEtWEE0YUNod0xjcXU2dERCSDBhU3VIU3dHMXhGbEplNTVPTnUxbmVKRk5aM1pfSHBaYlM2UWNtZk9nQjFhWUd5SU5RY1dRS3BGcUd5X0NOcGdBbXFva25OUnEtVUVjOUIwTzE5cEMyTWhIblFmUTA5Y3hONTNHV2Z2X1VhOWxZM1FXeUZCZVQ1WWlUb1ZGWlotbDBZcWtMWFZRQW9WckNTNHp1bEdFc2FnVGRPd1llTURROW95WjVSQThqTjJIUHlDQW93ODNYXzA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Satish Kumar Gautam",
+    "constituency": "Aligarh",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "satish-kumar-gautam",
+    "house": "lok_sabha",
+    "sansad_member_id": 4603,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Satish Kumar Gautam",
+      "constituency": "Aligarh",
+      "state": "uttar pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "satish-kumar-gautam",
+      "house": "lok_sabha",
+      "sansad_member_id": 4603,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 160624125.0,
+      "liabilities": 46570044.0,
+      "net_worth": 114054081.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T13:51:57.468272Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T13:51:49.256528Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T13:51:54.160190Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 4,
+      "debates_participated": 3,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T13:51:52.670774Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T13:52:19.467798Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850864Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850869Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850873Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850876Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850878Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850881Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850884Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.850887Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Aligarh BJP MP opposes Eid namaz at Numaish Ground: ‘What’s Ramzan?’ - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamF2RU5hTHluZWM5SWRFM0N6ek90ckdpR1lPbE9ERWJaNjZEakVKVHNuc2N3WjR4Y1U1TUYyUjNVbENRVFNEeXVtWng0Mnc3NnJ0ZkI1bHBpd0dQQUlBOGZzam05RmU1NDVJNnlaZTFkbWJYWTBOeVVHcENrMXg2eDZ2Q1lvcFYzTkFTaXpnY19vc0NmdEtNV2dmWl8ycmh3V3F2R20yVmd3Y3lDcWFadTdxWmJ1TDdnSlHSAb8BQVVfeXFMTWt1UHU5Zk9OSU51QTYtWlhKZlpJN3FLZE52NGFFb1V3RGx4cG1ZLW5YbUFPZzNYR2g5UjJDOWRSZDBVVW1kYW9MQWR5TF9TMVF0aDRkc1J4RDA2TllGN1NBcVYzZHpuZzhfaVZCZ0FnS3I1S3lxSTNsTVEtVzROZTBGaUsyRjMtb0c0cHVfSmY0cWNzWGpWenVuTGhTVldwcThyZUNPenoyNnpTOGlraDB3czNCYmtDeVlCNkRxU2M?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress sees BJP leader’s bid to trigger polarisation - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEF6MG9VSW04d2tvTUtDQVpNcUlpUmtjeXdtc2JuR0paSnUtM0hGTFpqeFlwZjFLNEVXNG96YzM2b1hiRWIzeGJnNmlReWtSSkszY0p2TzU0c0hvd2xLR3pJLU5wWFpKVjl3TDA5dDJzY0xjSW1IakozVVFvTm93VjlrUU11LWYzLXdKeFg4dmIxa1RXMVVIaE14WTJMWVN0Q1NqRk9JMXVPRmxyVnk3ZVNn0gG4AUFVX3lxTE1sc0ZuWkQ5RW1pdTBYelBkNGJNNkRHT1QzdnJJZlhtMV92a2FJbjNZYVdkSEdZNGpFMHhKU1h5N2U2ZjRWSDdoeHdrdFZYc2dtRV9Hb2JuaXJ4YnJnOUJqbjhtV2prN0M2UEtiNnRxenVNSWdmbUJPenJyVk9uOXBQMWZ1MUJyRnpwSnBIRnhyYWFtY3dQZjlPWlo3aGtrR3dwSnZ0cHEwNDMwNW5FTUJkRmtXYjhJM3o?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Aligarh MP sparks row with remark on Eid prayers: Angry over demand for Namaz in open ground; says shouting... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUd0Njk4SDZjM3dRWExLVjY4cVgwS3JnM1E5YzF2c1BmY3Q2VS1YMllqdnphRlNGQVRiLUVMOFZDM1Zod2VnLUx1c2Y2aWs4cnlwR1dfeTA3Ti0wb0VrNWQxMS0zMWZTbUpmX3V3WGI3d1FFRndfdDJWcy1HdzB5dm53Mm11QWtjVTgyUXp2U1M4cjd0VmEyMG9CdFI4UG5faHRWLTlOT0tTbXNvcWYtSDN3RkpweTFTOVF0OUdmN3FrNm9xb05DcnAxWdIB0AFBVV95cUxQMWNrWnZlaF8zMU5BbE44NEFaWFU4VlE1TURzQmFqYVg0VHRON2gtSEdxandMbXhCTVR2dmd0dmxGVm1nd05LckltRDl6UTVYY1VDWFNlOVh1d3pPZnAxbEFCNEUwaGcxWkFYV25fb3JNQTlGTmQxbnI1OE90RU92TEtGUlhwN1JwVjE3Uk14cGhQX19ybUo4SWQ1RjQzb25EeFhfTkhGeGFydnFKQy1hbDFWai1HejZzQk1WNHQ0SFVlWElWQmtyTEFGTmNXU2JL?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MoS Mohol highlights BBSSL’s initiatives in UP - Indian Cooperative",
+          "source": "Indian Cooperative",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUE4WEhNbl9KT0hmb2tfdll2dF9fbGNBZUVPQ0JBRnlXU29JM094bThpMlg3N2pPa1drd29YbzZfMGpLMzBVbWp3RWRGem5yclptS2hzWnI0N0F0Wm5INFN4NVlQQ0p1T0V5NS00WXJQSk1RQVpIOGhQS0F6Ukg3UXBsWElGVVptU3RvQWVfZnZodGU0dlZGQ2M0bF9rcnpIMHfSAacBQVVfeXFMTV9UYkFCa25uZXhxR1IzUExCNHdYa0Robm1GVVFLQlBsRWkyZVF0OUJuckNsb0hOQjlTUTRMM3YyZzdtTEZVMHB2Um91N3hnT0JsdjZaMHF6RHdKc2lQSkVyZFhBMUpUcGpZMHNCTDN6ZUJQNERiSS1PR2xEV1Q4TFVGS2hGS3hvSnR2eUZQdVpNclNOdEw1Q2xCcDRFQVdEMERZRDVuM3M?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "सांसद सतीश गौतम बने परामर्शदात्री समिति के चेयरमैन - Hindustan Hindi News",
+          "source": "Hindustan Hindi News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3dUOEtaclR6RWtLTTlRSHNHeE4zZEdQUFVSX0wzWTFOaDJ1XzdfSXVSajJJbTVTbzhpNjBJb0FQOGladVBlQlVsRUZZMWU4TXN2bXJER2wyc1QzeEpUdlNVSTJSV3MyV1ozNTZDMzlxTGlYbEdTeTVrTjVGRGNaVW1LandfZzRBbEw0WUo0bUV4R1huMHhRNGZodm1sVnNPMGdldkRZRW03WWZBeENuXzRqdUIwYThSTXF1UzFaQml6bE5CeWdtU3hqWmpyTEpxb3dHREQzV2RsTjFsdW9XOVBEUTLSAeoBQVVfeXFMUFgxUUJ3TlBwTG5jNi1aYTU1QXRkUU82Zm1tTE9FcV95R1lsVElqR3g1WUNNa3ViVDJjN0R2NmFOa3d5SVUxOFpvb0lkc2E5TUtjR2RyZEUzeGM1QlItbWg2LXJXd1BsdW9fVUl3QWZmMmtpZzhUaS1DYWpWYnIxU1lNV2JoRkhWalpqVUc2OGVab2M4eDRvd1h2ZGZHM1VjLTA2c0hjelp0cHZpUmY4ZmpSNmx2bXptODNRMVhZV0VVWTRfSlNXVU5uaUxIakNXR1EwaFh5TlB1cVdMVEtfc1lCQWVtXzBWMHZR?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Satish Kumar Gautam\n\n### Overall Assessment\nSatish Kumar Gautam (Bharatiya Janata Party) represents Aligarh, Uttar Pradesh. The current composite transparency score is 48.5/100 with low overall data confidence. Satish Kumar Gautam has a below-average transparency score of 48.5/100, indicating significant room for improvement. No criminal cases declared. High parliament attendance.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 16.06 crore; liabilities of Rs 4.66 crore; net worth of Rs 11.41 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\nNo criminal cases are declared in the available affidavit-derived data. Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 100.0%, 4 questions, 3 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 0 negative, 10 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nSatish Kumar Gautam's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:56.851447Z"
+}

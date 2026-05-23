@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Chandra Prakash Choudhary",
+    "constituency": "Giridih",
+    "state": "jharkhand",
+    "party": "AJSU Party",
+    "myneta_candidate_id": null,
+    "slug": "chandra-prakash-choudhary",
+    "house": "lok_sabha",
+    "sansad_member_id": 5115,
+    "profile_url": null,
+    "canonical_name": "Chandra Prakash Choudhary",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "pending_cases": 2,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 49849182.0,
+    "liabilities": 27031670.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 22817512.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.745794Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:20:40.683376Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:20:42.394862Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 37,
+    "debates_participated": 5,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:20:41.761091Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:21:19.745896Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758943Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758955Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758967Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758973Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758979Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758984Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:21:19.758988Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "BJP ignored Kurmi community, says lone AJSU MP from Jharkhand - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVFNGSk1CWnpQblBUTFB6TXZEaWR3TGpSbzg0aFRXZFBKVWYwdW03ZFF5TDJsODM4bHpzRXRmWV9SY2dSaGJjR25CcTAyellmbzNzTTFzY194UHdkUTlzUnlNZ1QtTWY4NmVrU1ZWQ1hqZEtuZXFuQm9iV1RwOVZZelRXT2RDUnR3MnhIYzdvMnpzWERmYVJVVnJvQ0NMSmdyMzgtcGtZa1NlY29jOUwtM2pDc3VxVzFjMkhjTkdUUC1rN0J3MUx5ZdIBzwFBVV95cUxQdGVvbVhZWWNtdlJ6cmlNWlVaTnFOWW5sSHdFOUx3TEJwUWR5SmpjTXFXckN1dzk5VTd4ZzBmNGxwRHZkTjF3RVpYWlJTTDdrUk8ycWN4cTN6c1p5alotU2dnWHpCQXdPVF96ZnFFcVVaT2tORVUzaHRUQ3F2aUZoWTJuTG5NMXlRSmgyU3NPb3hob2Yzbm0zLUtCYk16OVRyYi1BcEpvclB5SG5LM05oMEtRZ1daS2J0azJxUE9pUjZGSUNXcm1BdmpiVmtoTUU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Giridih election results 2024 live updates: AJSU's Chandra Prakash Choudhary wins against JMM’s Mathura P - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRUJMU3Mxa0RERmM0dkN1ZEpRQ19Yemh1RGJqdTNMb1FVNmxhOURGRzFLWk51QWotMkJUeWJZQzRRLTZnNTYtcThrZXZQV0x0X01wR3VlWmFVbERxLWNMSWR1MGg0bU9udHFMdW5YSjdSejZTczBfdFBraDM2ZjRrYmx4OEg2RHQ2Q2gyR2YtUWRPTGZLQWY3ZUZYR3J2T3ZJeVlDc05pZW1ydTYzbWV6bFVjLUR3ak9ldXpFbmhnay1mSGNWU2tqYVByT2Fsa0FWZDE1Y2dSZ1ExOEU0S0Nvc0VBN1RJbWVvREw2aUdmQ3JXTVRfWDUtZzctX25RWDdWSE5xUVdscHZKT0o5MHfSAZMCQVVfeXFMT0lUQWNxX2FPZmhyVGdKclBRUmdtMlRoa3lVMlNodG5QbnlZMWxqNlptYmFldzVaV0hZRGllVldVQkx0V3RKYWItdlVEREdBc3dVeWluNnZRZ0VMekVkUmIzNDFxd3ZSWkFCcE0zdzhWNno5YzhkVWhYNEhkc0J0NUVMVGxlb3J5SWVpbUlkZW5jaGMtM1pzcWYzQ1JQX2Y1d0czdGk1bTZFYkhQMktjbUw0NVhjbW4tNVdWanNYaDVfQXU0R2w3UjUyY0JmenlCLXp1cFhWTnBrUlNDTHJ2N25xMHBTaXBTQWs4MFB2cng5NWtIbFZCYWZkaHEzUThuUmlnYWpxTEZpNVJCX3RaQ3JkVWM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JMM decides to filed Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com",
+        "source": "jharkhandstatenews.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWVZwM0Q4aWJxN2dNdjJOanNQYlJ1QjNnLW9HLXBrVUMyNDIyeW50SlJxMnlJTWxGOF9fWXY2UHF2ZHBIYjlnbmo2QThLc1ZxM0Z6MzRMSUtSMDd0bWJ6REpKYnIxVTV2TUxPdUdDSEJidHNfbVRNWlV2TlBCalR2NzdUV0R6MDhaNUNNd3JzWnVxdVBIdVhQVXVSejVhTjloOG5rNExZWTBBYzRLdUtySkRrZ2JoWU1SQ1ZZejNIWWxuUi1LMnIxX2JISF9sZjM5WnBjdUZxV1VXWjZtSEVr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Giridih lok sabha election results 2024: Giridih Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEhSX2tTTDYtVDBEcWJiOFNYN0JaczdmdkxMYUdZdHBnMzVuNkxxeDhqYjAxaF9kMmVqa2FRRmtReTlqNk1YX1B1QWVfNEI5RHVvbVBOWm03THlKdHpCRFJNWVRrZF9lTm5zNU9ScU84QTRORktaTjd3Q3VMaWxLQWVGRzB5cGl1QjVmRTBjRHJsbEk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Three days after collapse, search begins for trapped workers in illegal mine in Jharkhand’s Dhanbad - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLXJFalZlX214azVkM3lsdmpJS3lfVmlFZTVnZms2OV84YjdMalFRSm9VemFFM1F2RVdwSlpzSUtUeXdZWEtEOVRMWER3M2FSQWpuLXNhOHllQ0tvTGVGSW1BSDlRdzVmNEdqaWJjVE5BNTdLdExXc0psRlhDaVlGVS1adWxBUXlPOUQ1Q29fZ3RQVXpUaHNRb1RzNFRLT1hRTjU4V1NqOW1MQWZKd0lyT2psTlktRmZqZUt1eUJmRmM4anRjanJGaVN1cTFtWHE4Nzk0V3dTVGNCYUdxUWJ6c3l30gHvAUFVX3lxTFBkOFFnWHhaOTJQeWNSR2szM0RrZnpxNy1KWXVoUlp1dDJ5dXUyV0xLUUphVDVSejdNcHpmeG15TExFMzRGekR5RTlwMUhKMFhwbUNMT1R6d1hIdlVkZXo3YTNtWllBYnZaYmdmbTFkZXhlSW91MmdVQnZoLXN3MHNuUktLb3ZIUzZkbmdPTGpkUXk5Uk9KX3ZjOVdxSjZkWFdhbFh4SktRNEhkMUdFNHNYY3lWVmVLbFVrQkpRQ3VKbkd3VEVDbk5xQ2o3ZUg1TnZjdnBIbVJKc0d3TzZfQTV6d2YzU2R2QlNWbVNoNWE4?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Nalin Soren",
+    "constituency": "Dumka",
+    "state": "jharkhand",
+    "party": "Jharkhand Mukti Morcha",
+    "myneta_candidate_id": null,
+    "slug": "nalin-soren",
+    "house": "lok_sabha",
+    "sansad_member_id": 5826,
+    "profile_url": null,
+    "canonical_name": "Nalin Soren",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Nalin Soren",
+      "constituency": "Dumka",
+      "state": "jharkhand",
+      "party": "Jharkhand Mukti Morcha",
+      "myneta_candidate_id": null,
+      "slug": "nalin-soren",
+      "house": "lok_sabha",
+      "sansad_member_id": 5826,
+      "profile_url": null,
+      "canonical_name": "Nalin Soren",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.147663Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:26:08.667677Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:26:08.664988Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 15.0,
+      "questions_asked": 12,
+      "debates_participated": 1,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:26:08.663897Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:27:01.147783Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152374Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152385Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152390Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152395Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152400Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152403Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:27:01.152407Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Dumka Election Results 2024: JMM's Nalin Soren wins against BJP's Sita Soren - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVk0QzBWZVE0SlQxZ2lHS2p6VW5BTi05Qmdjc1ZoNkU2b0RrUVJZeVJoNUFuWW5ZU182V3lRdXp5VDE0NlV4SFZSQUpBQUZRUXZhRU9oMDNZMGhKc0k4T1A3dmNFSmNKVlNDVFRjbUhWOU5WSU1udVd4aGEzNEJ2Z2RHdzB3NWN2WHZWc3BaNnlVTFZPZHduRjZYa0l2T2hTbDI3MzItekRNbVg4RWhZRjE5b3d4cHdwTVQ2eno5VXlZMml4dTVCbUhZeFFPYW96cXpEUktOdEdMQmVVbFUtNHpIeHZTR3dNbFh5b1Z6VC1rcEpIZDhiTm9VSUx3UEUtQ1VmWnZ5VjNqdGZTMkJScG1WR2c3VWpCS2NNOENIdnhnQXNhNVlYODJUd9IBsAJBVV95cUxNVDhRRTRTZF8teEJrVGZiMjJkWkM5YV9SNzc5WDBQbEo0QXBwMVRtQ1ZwMHJvTGJTWllwMzNTTnBkSExMNTJyQ2d2UEpDM2Ria1JMTmpRZjZjbUVjRlFTa1hROHJfLXllS2V3TnpYNUk1ek4zZ2hlZWZXV29lN2lLMm1lWEJFTTgxZlJzUnlNV24zTUJhcWZ4ZmVrWWNJak9KYTZjTjdOY2R5dksxZEV6VXF2YWxEVktncWFDa0hQWW5FY016SXRNTDlfTU1na1BqOGRxVlhzMmoyMjlfdFpCRzNZcndyRG4zemlrUE1mcWdYMG5PM2RuQy1kMFk0Nm5RQ2ctdG5adlpKOW9Bel93ZE9tUEVrMHJkSGR5UjVLd2lZMTNlX2ZmMmcxOHVkVzhC?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP’s Sita Soren aims to wrest Dumka, once a JMM bastion | India News - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanBnNVBZMFZDM0NNN0pYU3k1VFRmclA0YkpWS0swSGFOVHM5eG5pdmtEbXphUDhRTk1CSjJFSEJYbzF6ZjVudWxNVjg2TFBXYnhsbXRUcXZUMTkySkRzcjZTVTFvQ2JyTU11RmdXZnJLYmtFT1VDdG5MS0ZGWWtCYVIwTUh4aWViUWxfWUVhVTRCQTZmcl9HelU0VmxnV3lPZzBBbGtQV3hBY1JOaU5HUENnTnNwb0wz0gG-AUFVX3lxTFBCb3RQdG5sNWNQUWxFNnVVanpKX0NEbVJFZzNhQVlabE9SRTZ6NHZOS3BHMUo4SUJJckJieHhFX05PZ0gxNXZrTmlwaXBZT3ljZWtPeGFSTGQxSDAyOEt0R3hWMkRtd01SdFJIX0k1c0hObVlfb2FVOFlvcFM5V2dmOTBkUmdycThUUERBRUc4dFBFcEhUeV9oUUJQM2pTSVBPR0hySzVXRzhsUW5rOWxZclJuRmdEblBuaTd6UEE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Basant inaugurates and lays foundation of projects worth over ₹2k cr in Dumka - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3Nqc2h6b1FyT2RFZjdzSjl0N01xMmtreWlpa3oteGJabHRJUXJjNG5STnpOSWtXZElRSVkweEV0THFrYXRGYXBhYWprNUhNX0ZQYk1YRnNSVWtvYTZJbHZhVUNkU19ydkxnU0Fzc3dvNlV3c2RSN0gyanRkT1F1M2J3SHhGY2E2d2plYVg3a2lKNElvYUFJVVA4aHotMDZWSlo4REJRNzdwdmdnSE1EZVVpUnhqRnp6TGlOQWxfQ0JLVnRMSUswcmQyYTUyanExd1g5S0t0MUtaMjB3ZTBfR0xYRmw4ZFFTUG01adIB8gFBVV95cUxOZjFoREdhWTFXNkhpTXpRRkIwTWVhRFNkeWMzQVRGdFFUTmlVS3dSUTA5d2ZJaFVGeTBtLW5Gam1NSUhLR3VJU3dHS2xQaUJIWnFKX0ZEY1NpOXdxb3h1ekV5OVdDZW1pempLTmZ4bUJ4VHRweE80WURTTlUzeldvRHBfWW9rbU1sQVNxRDlNS05rdjMzTTUxQnFtZTVHbWpVMlNweGNqNGFaR0RVcWlmd2l5SWFKZE0zMkN4RTZqZmcxWFlOZ1F1X2dHOXdqTVg5aHN0VFNpeWM3Wk5FWXJrZmRLdHpMYkU4VWo1V2hRX3VfZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Future of Soren family at stake in Dumka, Godda & Rajmahal - jharkhandstatenews.com",
+          "source": "jharkhandstatenews.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmlvNjZYaGNZTnJoN084TFBBTjVVQXhtSHItb0FaUFNPNkxUVU9meDZkV3RPcTVtNlZGMUNTd2lWMmhDOWNRaTNQZU9wUXgwWGFvYmhvc29Ic1ZRRDhzLXVVd3kwUU1wYVlEeGZkc0lXRWFwYjFWRFp0Q2JrdWxMRHpPN2FpRDNkTWJoN3VhZHlkNXJfbGszR1dGbk9na3N6aXJUU2lMcUFxQmM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Will rebel ‘bahu’ be able to sail through in JMM’s stronghold? - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejJTbkdsVklBZVBXWEVmbENDRkNWd3dDVEs2NGliS0RYaXJ3ZXFIdHcwUTR6Zk8tX0dlZHhpcklIM3o3dnZfMU1jbUlmckRYS18zdWpxVmNCUlRBSXZMeEF3eGlYR19fSTIxUnAyUzJqRWgwS2RSREJ2V2NYa09kQWxHb29WTTVLLTRjUDZ3VW54bFc0ZlNvTXJUQkJEek1uc3FKNTBSeUdDLUxqX1HSAbsBQVVfeXFMTlhVTlB4bDNOazBhdXdJOGhVaUJvRHFZdmxwTkNod2UzaFZyaV9EMzZHelhvd1ZTOVk3SnN5czJvQXR6X3hmNXpMNWVvbl9hYWZsSUpDSFUxTFVXcmVVZHRVcnJ6djRuZ0xuWEtCN0NfWk9hNlBMMjBVdFA0cFVjVUV6bUp4ZjEtZEM2ZWJpTll6WnprWWtPbmljT3k2bG92MUtLZ1FNbWJONG1GS1l2NC1UUnpKZTNkUU5pUQ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Jharkhand: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Nalin Soren\n\n### Overall Assessment\nNalin Soren, representing Dumka constituency in Jharkhand for the Jharkhand Mukti Morcha party, presents a mixed transparency profile characterized by significant data limitations. While maintaining a clean legal record, his parliamentary engagement shows concerning attendance patterns at 15%, though he demonstrates moderate legislative activity through questions and debates. The assessment is severely constrained by unavailable asset and MPLADS utilization data, limiting comprehensive evaluation of his financial transparency and development fund management.\n\n### Fund Utilization & Development\nComplete data unavailability prevents assessment of Soren's MPLADS fund utilization, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit context for Jharkhand, which identified systemic issues in fund management including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting the critical importance of transparent fund tracking that cannot be evaluated for this MP.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, preventing any assessment of Soren's financial holdings, growth patterns, or wealth accumulation during his tenure. This represents a significant transparency gap, as asset declarations are fundamental to evaluating potential conflicts of interest and ensuring accountability. The only available financial information is his monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nSoren maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, and convictions. However, this assessment comes with a data quality caveat, as the criminal record information carries low confidence due to potentially unavailable source data. Despite this limitation, the available information suggests no significant legal concerns affecting his eligibility or public service capacity.\n\n### Parliamentary Performance\nSoren's parliamentary engagement presents mixed results with a concerning attendance rate of just 15%, significantly below expected standards for effective representation. However, he demonstrates moderate legislative activity with 12 questions raised and participation in 1 debate, indicating some level of parliamentary engagement despite poor attendance. He has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary performance is rated 'C', indicating moderate confidence in available data.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 news articles identified showing balanced coverage (0 positive, 0 negative, 10 neutral). This neutral sentiment suggests absence of major controversies or significant achievements generating substantial media attention. However, the accessibility evidence grade is rated 'D', indicating poor data availability regarding public outreach initiatives, constituency services, or direct citizen engagement mechanisms beyond traditional media coverage.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to multiple data quality issues. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information is entirely missing, preventing financial transparency evaluation. MPLADS data is unavailable despite high relevance given systemic fund management issues identified in Jharkhand. Committee participation data is absent, possibly due to unavailable Sansad profile information. Legislative effectiveness data has low confidence ratings. These gaps significantly constrain comprehensive transparency assessment and highlight the need for improved data collection and disclosure mechanisms.\n\n### Key Takeaway\nNalin Soren's transparency profile is fundamentally incomplete due to critical data unavailability across financial disclosures and development fund utilization. While maintaining a clean legal record and demonstrating some parliamentary activity through questions and debates, his extremely low attendance rate of 15% raises concerns about constituency representation effectiveness. The absence of asset declarations and MPLADS utilization data, combined with documented systemic fund management issues in Jharkhand, creates significant accountability gaps. Improved data disclosure and enhanced parliamentary attendance are essential for meaningful transparency assessment and effective public service delivery.",
+  "validated_at": "2026-05-21T14:27:22.904302Z"
+}

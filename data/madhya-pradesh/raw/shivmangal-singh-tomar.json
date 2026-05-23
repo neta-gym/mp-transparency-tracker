@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Shivmangal Singh Tomar",
+    "constituency": "Morena",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "shivmangal-singh-tomar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5604,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 22614911.0,
+    "liabilities": 4430205.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 18184706.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.162583Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:28:10.537722Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:28:10.534811Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 95.0,
+    "questions_asked": 2,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:28:10.533664Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:29:10.162770Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177931Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177949Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177958Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177965Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "madhya pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177973Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177980Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177989Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:10.177995Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "'लेडी है इसलिए कुछ कह नहीं सकते, बहुत ही ढीठ है...', महिला तहसीलदार के बारे में ये क्या बोल गए BJP सांसद, देखिए VIDEO - AajTak",
+        "source": "AajTak",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjFoYkk1REx6NjF5amxHNmRDSzNLZmJLM1FVSk9fZVgyNVAzZ25CbUUwN0pxMXhMOEtveUJVdVBWZ3pOWWIydUdwUmd6WThBVVlzZGtybUNmNW44Wk12SGNvWkVfMTR5andFMGh4RkxUeWhma05GTFkxcm1tRTNiQmZoNTdQTzNoTkJNNFJqbWlQQlhra2p1bnJyYU1wREFKSndkaWdRTDNtMXY0aDB6NzgybE1iRjlMV3ZSb2lacE5xRnNLUGNzZkw1dXJVZHM1RWVLTVlXVFrSAd4BQVVfeXFMTUszM1JOb3lYRldreDFCckc3U0lBU2drWVFXZzRNamgwU1Vud3ZfSXNRaTQyWFM2S0ozTG1EVDVlMWNIWFEtb1IzdnAxOGl4Z3Bqb0FBcFhvT19rNUMtS2NaY25jUFF0WWRDTlJ6b0QyUHE3TGpUS2FwTWctcWllajJ4d0ZaQ3BDeDhZNm5UNnpaRGs5RjJRZ0toR2pablE3U1BWRW1sNk0tV3pqWUl4ZWs0bEFyZFhfZGtBUE5XcUxBZk9kenhSeWFTRVpvSFljRllJWnpGZ01JNUJCV3lB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Madhya Pradesh BJP MP calls woman tehsildar 'dheet', video viral - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRQekJ2QUtRQXFESmk1dTJpNXphU054MUdHUHZVZk1mNHBLQ2hYaV9paHZvcnVMeVlHbktmdUdVWk81UXE1Mkd4b1lVSUczb3NtWUJMSzM5a3dGVGVYVmswZUlYNkZVS3RVUEJycFhBQnAyQTR4V3Q5X25Ca3ZZVC1PTENRb2VVTElzMUtvamZNOEhJT1RBUFczRWFFcFVRZG9ONmhXUlBQS3p4NjVHb24xUTg1T3NoTVdDa1RVcFBpR2pIaVdjQnBvZlpsQV93dTFHQnY2aknSAd4BQVVfeXFMUHktY3ZIaGtON2s0enhYSVJsLW1MNXB2TGdIX3BWU1p6a05VWWl2TjctUzRpSEV3ZkdkR3Jhcjc4S3JGeUFEVFFtdHB5Y2Y4TWdWS1gtYlEzMHBzMGVzLWZzLWVWZ0dlRFBOcHhoQThYQkVsaUJtS3d2M0YxWmY4aDFzQXVtYmZibGg2ZUJMaVM0alhWbWJfcm5fdzZwN0duRVBSNC1iVU1uNDZCV0NodnhDaGtsajlLWGFEY3NKc0c1TWpRS043UndOZVg3R2lnYUM0Zm5faEZWSGphN1dR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP calls Banmore Naib Tehsildar ‘stubborn’: Tomar dials Morena Collector over officer’s absence, says '... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbS1mMDFINjg5X1BCQVVSNUs3UE90czhMMUVuWUtGZS1uTXZ4UUtTT0ZaSlRUTk5MVU5hMW1MUXB1dURCVW41ZHVma1dsOHgxeVA3ajVjLXRseWRhUElNWGEtMC1ZcFlQdWpTUHhNSG44T1VLUjk2aUlHQU5RY0RCMzVmcDhhQ1U0Y2NvdF9yQ3dMb2N5S0VfbFZlZjJfRHFYc3RpU1JYM2dWTE1nUUx1RFJCN09UT1haWk5BeUlCYW1PX1hNdDZ6UTV5My01UkVScXdzQXM4WDhLNnkwWmlxS3A4Sk8zVjUxLVJjOVBvZnJhc0FRRzBVY1dpOFFiUDN4Z2dXYjhYYzFSUTNJVEpMYVRwMHp0TzNZVzFxRjFGd0ZVd9IBpwJBVV95cUxNZlNhNFBtNldHVWhETHVWX1hxX1QxNG91VEZLcEtMdW01RUtIZWt0NUpCcnNkN1VqZlBVMWo3WklfQ1k1UFdiYVlBSURSZU5wZ1NDc2sta3NXRlFMWk8xQXNSTG5hRDlzOHlQRVpPVE9TSThGblVtSVFZdTVwZnZ6ckJ6MzJlWE9FWU9IMFhJaWZfWGVGZ0ctV0R3a1Q2MTEycGU1S3l0RUJqc2gxMEdjVDZGOVJ3dWhQTThzSmNVVGt2VmV3dVN6eFY0TDhlWUlVRDJpajduU1gzWm1nUU5HVE5Wa3dPeUZyT21nMWlUTDluYmcwa2xSNk1iRGFDcFFoVFlwUTV6VW5MZkp1aWJoUDZqbWhPaV83cmMxUGMzdDZNS2dwOVMw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivmangal Singh Tomar - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlZYRmk5bUNXazI0ZFB6RXEtNjJRWkRISzhpSjUxNXdRX1BsMnZYZENOR1hKcVUzejNBeFVJb3drWXdZLU5lRzVSTVFOVUZFUWRONnAtcDh5dXgzNTR3ZnhWNm1fbDAycU14ZS1xV0NGLTloam5iSFdpVXRtbk9YOFpaQTN3ZHRSMEJ1cFdLbmJLUUN6b240eUo5TFBIcS1hWGVIVzRJUHRZQXZpd25Rd1RnWC1MNk11c0NUVi1EdUtEUnYzMENnRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Morena Lok Sabha constituency: Electoral battle between Shivmangal Singh Tomar of BJP and Satyapal Singh Sikarwarof Congress - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTURSdG5qaTlmcU52RFdrZFRuZnF5bXJ3MW9sYWVaME90cU81b2FMWXZNZC04TGktb2pmOTVQck9TZDAzdU1YSFRxbDgtM01QaFE3SFY0ZkNsZUVmcVphQm1vU3hLUkJEUzVRaWZJcW5VN3NqWXZUdXF6bEh5bHZRWl8yenIxMFhZaVJaLVhIRlMzXzBodXpYbnpOOHFQQm5Pa1dKS0luQ21KQU1YcmdFenBFb1JOQnZsaU54NXFKaHNpRWZfOXo3VlloMl9QQ20teHhsT0RnSk9yT183WWRFOWZOQXJObkVDcXhCMWlXX0s3OG4wcG8xUThfcHDSAYMCQVVfeXFMTnVZVzB4czhjZ0RWQURtMXBjcjBTSmVWSlI1QkxHWHZ5M091bmZxSEdQLWhFbHp3WnhmYXdBTUhiLWQwdzFTZHFoWHJsUnZOUmc2dGlBbWxLeDZVY2o3Q1NVT0hTUkZXaXN4ZjJuZ3FlTGc4WkJSN3JDTlltd19hVFdFc3pwejJNQV90ZV93M0UyOFh6V01NQTFtX1l0ek5KU2tTNUYwRDFQRDBsU3doSmVGUU9KYjREVm9kNElEazNsYXVjZ256ay1fV285dVpWS255cVlqZDVQV3JvNnJFRWlRZjNxVmNscjFjU01CSDZtSjg2NlBMZUVMSUNTLXFuU2ZaRQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Sayani Ghosh",
+    "constituency": "Jadavpur",
+    "state": "west bengal",
+    "party": "All India Trinamool Congress",
+    "myneta_candidate_id": null,
+    "slug": "sayani-ghosh",
+    "house": "lok_sabha",
+    "sansad_member_id": 5785,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sayani Ghosh",
+      "constituency": "Jadavpur",
+      "state": "west bengal",
+      "party": "All India Trinamool Congress",
+      "myneta_candidate_id": null,
+      "slug": "sayani-ghosh",
+      "house": "lok_sabha",
+      "sansad_member_id": 5785,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.315233Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:30:02.373757Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:30:02.370885Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 23,
+      "debates_participated": 4,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:30:02.369752Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:31:08.315439Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330838Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330857Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330865Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330872Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330880Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330890Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:08.330896Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "'My assets have been...': TMC's Sayani Ghosh clarifies on joint property with Abhishek Banerjee - MSN",
+          "source": "MSN",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdjQ3N2ZRVS00VGNXWmxqYnZMVXpsYjVPUnFsME5NSU4wUVI2a0dDMkFXS1ZjcnRfWTdQUjdSMFJzYXJPcTROMGRkUGxMbVE1ZURpU004aEhHalctcDN6YVpWQkhzQnEzcTlwTGk4dUpYUjFDc3ZFNHVKM0Fnd2ZGWEl2YldIbzRlM1NUZjU5VHJtMGc1U1JiUjhfWGNCazV6Zlo1cklBbWk5Tmd6X3pFOFBvS1R2YnVKTU5IVy1ETHVobm10YWtXUVZGU3ctUjlUUm5HbjExVnB0VjhtR2VIakJQS2hwX3Z1OVpsTw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Jadavpur election result 2026: BJP's Sarbori Mukherjee wins against TMC's Debabrata Majumdar - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWnRrTWl4NkhiLTZOemRiWC02UzNoaGpRbjJ1NVlTQ3JvLTNCc1A1UlhNWklWOC16dnNyaklLWkRlejhXWHI2N1lGbXVMZ1dFWF9zVGlpTHNoV3U2V2Z2MlhseXJ1UTN4SXROcTQ5UWZkbTFMakloUXRCSzRVMXVGS2ZuUmF0OHNldlI5ZWJDUy1pb3dMbTVfWU54NHdsM2FJWTJMaE1Pa2dIVm5JUDFvM3EyRzBJYk4yN20wd0lodk9tRW44dUJzSVBBQlh4TXhZZFA1SnBkNThqaDN1U0dMRNIB5gFBVV95cUxQU2JfaWM3NURsdUQyYVliRUNNeWc2a0Z2V2lTNXB2ellBeXpiaVhJNl95amtUZDJtN1ZiZzVHcGJwWDBwQmpSNHhUemdKOHl6UGZsd2todmp3WjZPWWlwbFBsVVlkSFl3VkhzeFh2aTFQVTdYLTdOYUs2cmFFZGx6VHF5UE5RRF9tckp5TVZicm1MTFU4alF2VjJYWXg5UXdGUXZncUxfa2N0MnRfeHRSZzZRRDhuaGpxT1E1Q1RQUy1uSXYtcE1HSjdza3NpYjFkVEpnajVzQldvUDg2QlNDWkNpUU8yUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who is Saayoni Ghosh? TMC MP who went viral for singing 'kaba madina' breaks silence on BJP's win in West Bengal - DNA India",
+          "source": "DNA India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ0IxWlBYaUY5WGpmd21MRXdNWjB2b3Y0OGJ4SHJsMDl5aHVoWlNESFpCTzhhLVJOZmVocXhkZlYyckNPbW9iQWhjU09oT1RDa0QtT0NWRWN2WjI3WU1uR1d0XzNwdWtZR183ZTVwWjgwemY0SnNsZGNfQWUwYmZwOHZvSlRpb3JiWGZ5TWhxbFJtWW40RzUtTDY3dHM3dlVKNWpIeE9lME1feVhkNk1SYUxiY2RMdl9LZ0VPeTZMcTBtVnNtRWF1WkNXV004cWx0R0lVNkZOLW9CR1VTWDBiTDVQNUt5THNlWHMyUHVhNThyUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Saayoni Ghosh: A Spirited Political Force - Outlook India",
+          "source": "Outlook India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXV6cVRwMzFtMzBvVW1PTmFJNzIwZVYzd3lLbm1CUGtkQXBpN1N4UDJoaDNsWE9vZFVNY3ZmTnVseTJFVHpvbEJFSmVDMHNIZXFXNElsZmVrWmFGamVmc1Nvb0NUYXhrWEJlYldxc01VVy1saHBjOXNxUlJfYVFCaFdOaVjSAZIBQVVfeXFMUGRuc3YycHNWeEdLc1lld0ZxaDJNdVpFZXJTLVJaQnpLcHlLZDhwSkcweHBKVUNMV3pQOW1nVkdxM2ZHb0Y4bDROY09TWDU5bmxibzZKVnBhX1VxLUZUbzMzNTdKUEstVHAxVUhiWUhwSDZmWkoxTFlNUnF5ZmU1WlhTMzN5cFdHVW5fZERleXNmdXc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Saayoni Ghosh: Biography, Life, Education, Net Worth and Career of West Bengal MP - Jagran Josh",
+          "source": "Jagran Josh",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeW5SQk5XLU9RQlZMQVE4RjVTV1N5aUFVZ25VWkRLWUJ5MFlyWExIem5CaDZ1eHpRMnNBcVpBcVdCWThwbU1fMWNwSG5vX0ZrMDVlQnV5TUtDWkdZMUZmVzNYX0hqUGNMd0NCUFBybVdUYmI0WlVSc05xUWRnY0RhYmx5S25hWUcwa1BLSnRhd3ZnUVZjX2xoTmdndkVkM3NMLTNFUUlwamFVSDRQYW5wTjZkRDNTVHZyTUdjeU1DS0JHcDNUcGFIeHZFck5EZjdDZXZVRWVB?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sayani Ghosh\n\n### Overall Assessment\nSayani Ghosh, representing Jadavpur constituency in West Bengal as an All India Trinamool Congress MP, demonstrates strong parliamentary attendance but faces significant transparency challenges due to missing or incomplete data across most key performance indicators. Her profile shows excellent legislative participation with 100% attendance and active question-raising, though broader transparency metrics remain largely unavailable.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Sayani Ghosh, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical gap in assessing her development work effectiveness. The broader West Bengal context reveals concerning patterns from CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about overall development fund management in the state.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation is reported as Rs 2,45,000, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nSayani Ghosh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings, suggesting potential gaps in information availability rather than confirmed clean standing.\n\n### Parliamentary Performance\nGhosh demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. She has raised 23 questions and participated in 4 debates, indicating active legislative participation. However, she has not introduced any private member bills. No committee membership data is available, limiting assessment of her broader parliamentary contributions beyond floor participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either limited media attention or balanced reporting. The summary indicates \"mixed/neutral coverage,\" which may reflect either effective constituency management or limited public visibility. No data is available on social media engagement or direct constituent accessibility measures.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues:\n- **Criminal records**: Low confidence rating with potential source unavailability\n- **Assets**: Complete absence of financial disclosure data\n- **MPLADS**: No fund utilization data available\n- **Parliamentary data**: Grade 'C' evidence quality\n- **Accessibility metrics**: Grade 'D' evidence quality\n- **Committee participation**: No data found, possibly due to unavailable Sansad profile\n\nThese gaps substantially limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile Sayani Ghosh demonstrates strong parliamentary attendance and participation, her overall transparency profile remains largely opaque due to missing data across critical areas including asset disclosure, development fund utilization, and committee work. The 100% attendance record and active question-raising suggest legislative engagement, but without financial transparency and development fund data, constituents cannot fully assess her effectiveness or accountability. The systemic data gaps, particularly given the concerning CAG findings about fund management in West Bengal, highlight the need for improved transparency mechanisms and data availability for meaningful public oversight.",
+  "validated_at": "2026-05-21T14:31:26.238670Z"
+}

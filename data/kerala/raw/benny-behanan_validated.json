@@ -1,0 +1,432 @@
+{
+  "mp": {
+    "name": "Benny Behanan",
+    "constituency": "Chalakudy",
+    "state": "kerala",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "benny-behanan",
+    "house": "lok_sabha",
+    "sansad_member_id": 5124,
+    "profile_url": null,
+    "canonical_name": "Benny Behanan",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Benny Behanan",
+      "constituency": "Chalakudy",
+      "state": "kerala",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "benny-behanan",
+      "house": "lok_sabha",
+      "sansad_member_id": 5124,
+      "profile_url": null,
+      "canonical_name": "Benny Behanan",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 5,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 5,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 35020209.0,
+      "liabilities": 7893411.0,
+      "net_worth": 27126798.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.912654Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:20:40.830831Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:20:44.160562Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 95.0,
+      "questions_asked": 60,
+      "debates_participated": 8,
+      "private_bills_introduced": 2,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:20:43.343940Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:21:10.174502Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.086983Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.086996Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.087003Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.087010Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.087017Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.087023Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:57:10.087029Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Congress workers stop Benny Behanan over CM choice; MP calls it ‘friendly conversation' - Onmanorama",
+          "source": "Onmanorama",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0hMU3dPUnpUckQ5eEFNOUVEU0hSak51cFJZTTJCN3c4a3pMYzhXbi1VSXlVTVRIMFBwd2t0NS1IWWhjU0NaQTduejNkcHFEZkZqQ21kbHFXNTZONjJxc3JrOGFNVTFLUVdpQzBxdk1qZGo3cWZSVlhkTVlEcUNIdmlHZ0hXa1A5UGdGN3dXczAxazhBLTJzLXA4MmpUWXdHQzRJYXc3RFd5Z3o00gGsAUFVX3lxTFBXSExTd09SelRyRDl4QU05RURTSFJqTnVwUllNMkI3dzhrekxjOFduLVVJeVVNVEgwUHB3a3Q1LUhZaGNTQ1pBN256M2RwcURmRmpDbWRscVc1Nk42MnFzcms4YU1VMUtRV2lDMHF2TWpkajdxZlJWWGRNWURxQ0h2aUdnSFdrUDlQZ0Y3d1dzMDFrOEEtMnMtcDgyalRZd0dDNElhdzdEV3lnejQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "War of words erupts between left legislators, Chalakudy MP - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUVtQjFNaUpOX0ZqbkVxbnRSSDVjSThpLXM0Q2NpZUFHWElCYkxfYUpWSk1Mb29oTVNQaDZBT0NHRVA5SnNLUi1OLUhxNUVkYmdlOERsT3RPdGNCR3V4YkJoSGFaNGlJclZYTkw2RVZmd1VibWd5b0xrMUUwSWxKZThTM1RzU0IwRnZCVWpWQ2JxNEY3ajgzalhScXRYeE9Gb1dmYXM4Z0YyWjF0djV0NXFSU2lyTnhWQlliVWdySnlLVGxDRUFMY9IBzwFBVV95cUxPelJ4aHZWaFpWTVNhVWZTeGNMbDNHNV9nZnprbVBzOVg5TGljeHVJekQzeWVLUmF0YmhZdl9kNWI0azNtX1ZRQjlxMEl6cm5OTnp0WnFmYl9ZUVVhc0RrZHpLaExxOGpTREw3Yk5lMlRZYlJrM1hSTE1HNElWWVMzSjljNjVaUy1sNWFoZFhPcy1sQ0IyRUUxT0JnQUF6TkhSVHFJSlZPZjM0d1BLaVFxS29VQk9sZ0JiNHkxazVEREh4dHpwVG9jV3VvMDFOY0k?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress's Benny Behanan stands his ground in Chalakudy - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkJ5NGpKTXpkOGJVdTdOV3YtTUNmM1Jkc2RIUjBOejNKODM3Ylpra3V5RFJPaGNacmlPSGlpX0ZweTl2SVJYTEx2eTRKbThSU1dOWFd0VHE4Z1hmR2RlcVpWdTRYWWN0OTV4a2NrUDZPOXFjR1lhVFpKY0F2WkpwOTlMdjNoRzN3NENPQ3BDQjQyUjVnVDJyOXhDUWgxeVlhV3poOWkxZ3hpY2VHM1VhLWVB0gG_AUFVX3lxTE9fRWZmaEhvdjI3bGF1djZDajVpWGtoZ05EVVdWNTVYbnJjdDgwVl84VEJEbHJaeWx1NF8zcGhQaThmRi1qdV9iVFduWnFmSWVaSXRJQ3g1Qk5Jck1ERlVaeExockgybWVxQU1FbHVxR0M3N29NOXc5OEE5WkZZZkFaQmozUkZBd19Rcml5b0ZqQjUyVFhZOWRvTGE4VjdqTGhJbi13VTFKOEVSZ25QcWZqdTZXajNrNElscFU2Z3NR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Chalakudy election results 2024 live updates: Cong's Benny Behanan defeats CPM's C Raveendranath - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2ZnVDFsRlIwYVZfQlVTYjVEMnA3WER1aThDbnRrdDJfNFpHbS1iLVpFVWJZVmpidXNQR0plQVlUSnBCLXhDWmpPQUZrUjRIMldENFRQM3lHX3loU3JNWXNZZl9sVnhXeUtWNUxsSkR5RHFDRGJyUllPSTd1Y1ZTWllrdndnMkhKbkJ6QXZRMGlYM1NHV1JvTjBNTEpPUW1iZVkzMkw1Y2NUWUdNZ0pUb3Y2dXRmN25iNXU5dXUwYnplNktoWlBUWUFUbTkyMFFqRUZTdW5PSko1aXpLVHdCX2JhUURYeHZqbVVENTJTSUFVcEI2R05HUEJUTXJsWDZpbWYzNzUzenJ6akdvdENGSVNNV0owQlN4NlFtc1NCZHc5OVViRXF2dndKd0hkN0RQUldmVEVQcXHSAb4CQVVfeXFMTVRaenJrS0xvbmpMaWFuNzVsV3J0Qk1aa0pWOWoxMGVPdFEzdjBUQ3ozVzdUalA3QTBtN05LXzdIdkNCNW5pU1BjTERhWEUybGM3MVZLaThIQnZkeklTX2FaajBZTGFtY19nSnhVRjFMWm1ySkZtTUVDMHAwOFJoUUoxQVlhWUZjOVRWVE42T2JTRW5vSWtvVVU5UW9tUUJfZF9DMnEycVpnMENjUThQZHl6OWJncnFpZEJKOTVpWVFSb25FQWJ4eXBKU2tmOWdmY1N3dVlfdEVhU0xHZ0ZrVnFHNlZqYzU1R1k5eWtOaVZyY1NJeHIteWJuTEFCVUFwR3lXU0tuMGZHU2dZaGZIbHhZMG5QMFpERWg1XzV0Y09MeEd6Z1Z5T0hPQmlpeDZiV3FzX0luLXFKLWFqRW9B?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Chalakudy lok sabha election results 2024: Chalakudy Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkFOTDNOeEwzMDBteWVFTTNaUmJpWTR3bXd2QWhLYkRQREpKZ0lTTVRJQ0EzZTZGSUlWdC0xUWxwRkxWWEJvVzN3M2xsZk5QY19rYzk1TlRXVHNWY2NqcmtGUHB3TmlPYnlTV3RrM1hpUGUyNjZlSWF0N1VJWHJTbjNFZHd4SGJWbUlMTHJEcTZkUQ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 2,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Kerala: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Benny Behanan\n\n### Overall Assessment\nBenny Behanan (Indian National Congress) represents Chalakudy, Kerala. The current composite transparency score is 50.5/100 with low overall data confidence. Benny Behanan shows moderate transparency with a score of 50.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 3.50 crore; liabilities of Rs 78.93 lakh; net worth of Rs 2.71 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n5 declared criminal case(s), including 0 serious case(s), 5 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 95.0%, 60 questions, 8 debates and 2 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 0 negative, 10 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 7 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nBenny Behanan's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:57:10.088100Z"
+}

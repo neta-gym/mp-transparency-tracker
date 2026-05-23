@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Laxmikant Pappu Nishad",
+    "constituency": "Sant Kabir Nagar",
+    "state": "uttar pradesh",
+    "party": "Samajwadi Party",
+    "myneta_candidate_id": null,
+    "slug": "laxmikant-pappu-nishad",
+    "house": "lok_sabha",
+    "sansad_member_id": 5813,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Laxmikant Pappu Nishad",
+      "constituency": "Sant Kabir Nagar",
+      "state": "uttar pradesh",
+      "party": "Samajwadi Party",
+      "myneta_candidate_id": null,
+      "slug": "laxmikant-pappu-nishad",
+      "house": "lok_sabha",
+      "sansad_member_id": 5813,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 3,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 3,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 33728000.0,
+      "liabilities": 2330000.0,
+      "net_worth": 31398000.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:10:30.032030Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:10:26.431537Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:10:26.428574Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 4,
+      "debates_participated": 6,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:10:26.427423Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:10:45.970583Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566697Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566702Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566706Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566709Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566711Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566714Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566717Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.566720Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "top_headlines": [
+        {
+          "headline": "Laxmikant Pappu Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJfT29QRXRwcERpSXpqdzN4aUlReDRrc1J0b2Z4bWlmVkpYRVF1eVJCRGtLUzlUMkpQcmdmbGNOZWYxejFBVjRRVEZYcHJ4MnVsTlM4eVlGSnhxVzBZSnozT2JLNWRnbDEzckxXMDlDazFEeF81R0lVa3BwN05oN2I5OFNoMTR3QWd6OExaU0U?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament of India : Lok Sabha Member of Parliament – N - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP Nishad ally struggles in Sant Kabir Nagar, but for Modi-Yogi name - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGFsbXIwTVdhVEVBelAybW9yM0IzeVpjWTBmbmZEOG5WdmlHdVhoWHAyV3lmdzJHdm9tM3l6aXB0RzlFbFdxRlZQNzZKQTlOLXVVM0lQc2lYbnRQWE9GOEFuZjctVzE2RW5FS0ZrOWJidmFaZjBtSmZ2UkQtTTJqbUJycjZKc2l6WkhVdmZoQdIBlgFBVV95cUxQSy1QbkNRcmIycFhQQUFrZ2pRc21CUVFHUVVsbXB3b3VMWTJRclFLeFFrSUJLRkMtQzZvNXpfUUhIZUlQV2hyaEdmdlVQdFdlZDZlUmlsRmVPUUxGWnFHNzEzLThNRnFIV2pVQjM2MVhrNzFpRjIwWVhhWTlxeks5cjZOU2JWZHRSa045UzlnMnptUXh1M0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sant Kabir Nagar Election Result 2024 LIVE Updates Highlights: Laxmikant Pappu Nishad of SP Wins - News18",
+          "source": "News18",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONnBtOUNBZlZUSFV2SGYydHNwa2VuSXluRjVncWtOU3hVYldEU05lemhsUnhFWV9mb1Y0VTYtdG5XVG1NUGdrclFPZTQtNjFDeEx5TUhCelRxUjhHam5FZmhabC1ta3JncGVHNlhTb1lReDFUc2ExTXZOZXJKSW9Rb0lqbnY3czVjVjRHa2RteUluY0FBaHVseDZHSTFNVThxNzdzeGItVS1hMWVLRzZTLXQtdV9ISElGaFc0X0ZkUjgzYzlLWjZuQWNKZG5JcFBmbElFRVpDWTRTalU2VzlLWHJLNS10dTdfMWVWcHJR0gHzAUFVX3lxTFBtaExOVng4WG14cC1nbTdtSlJHSWR2dFE2WlNiN1FZQTVDbEl3Y3hjQW1zQ1hCRTI5M09jMU9BdWt0OE5ScGRoNmJRMHlUX2dIOGJNenVYU1ZHQmh5STJZT2ROa1N1LVVVcUFrNXZ2Ri1hNlhUQ1BXWVMxV0F0QzY5dFRvVkEzZkFuN1ZVWlZ3VnAyZ2dZNl9uaGk2V21kaW9KUEpJclFMNXI5cXlnaERvWlVWSVFIMTdkd1hTUE9qdXlmRVNORzV3TXhZN19Oc0JUVUU3RlAxek8zMXJuWEVreHNOcS1JSF9ETHYyVUFjOS03UQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kabir’s message of communal, caste unity lost in cacophony of poll campaigns | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDdJdWF1RGZJOXhUZ1V5UVc1YVR2T2xHc2R5Z3d2clA2b0FrSHRxakkzOVFZdjRfQzRSZzA2aEh5TmwybWFkRWRQZk9OTkFaaUp2cmpPWEQ2ZDdBLXV2WnZkNnRYWE1LN0hoMDRzR0FmZFJvaTJoMTJhWURpT25zNVR6NE9td0FKNTVsdGJ6WE5oS2FRcEFBMXZWNXF4bWhLTXpqX0VaTXN3U0h6YVJXT0FFYzFUVEhkVExxQXVmWGZ0UFY3VWwteWsyMTRmV0RYQjlyekNlV3dBcnJZS2NsY1pNUdIB6AFBVV95cUxQOXJYaDF6SHY2eGo1V042b3pFTEVIZ0tPd1ByOGg3bVhKNl80d1l3YnhtRnpTRmlmelVaQ3cwLUlWVjBwYlhXa081dkQzQV9KUmtsS1d2ZWZ1UERXSEFiQW82SEs1dmNzMkIydXNFMWRBamhhazNsQ3dDdWRaZlBseWlfYkVBb2VwRTZyMlEtYVB4MVB1YmNzRkU3T1p0ajA1eTJqcE84dWJkeWthSUdnejdWeXRmeXptMG1nZXN2d2RSVTRzMkJzSnpqSzlNYXJmZGpteW1DeUVCbWp4cTlObjBYSHBscUFi?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Laxmikant Pappu Nishad\n\n### Overall Assessment\nLaxmikant Pappu Nishad (Samajwadi Party) represents Sant Kabir Nagar, Uttar Pradesh. The current composite transparency score is 45.0/100 with low overall data confidence. Laxmikant Pappu Nishad has a below-average transparency score of 45.0/100, indicating significant room for improvement. Minor criminal cases on record. High parliament attendance.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 3.37 crore; liabilities of Rs 23.30 lakh; net worth of Rs 3.14 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n3 declared criminal case(s), including 0 serious case(s), 3 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 100.0%, 4 questions, 6 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 8 recent/news-cache article(s) (0 positive, 0 negative, 8 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nLaxmikant Pappu Nishad's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.567211Z"
+}

@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Rakibul Hussain",
+    "constituency": "Dhubri",
+    "state": "assam",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "rakibul-hussain",
+    "house": "lok_sabha",
+    "sansad_member_id": 5724,
+    "profile_url": null,
+    "canonical_name": "Rakibul Hussain",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Rakibul Hussain",
+      "constituency": "Dhubri",
+      "state": "assam",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "rakibul-hussain",
+      "house": "lok_sabha",
+      "sansad_member_id": 5724,
+      "profile_url": null,
+      "canonical_name": "Rakibul Hussain",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.963931Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:37.291344Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:37.289571Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 5,
+      "debates_participated": 5,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:37.288859Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:40.964061Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978629Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978644Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978653Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978664Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978674Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978680Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:40.978687Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Father in Parliament, son in Assembly: Rakibul Hussain, Tanzil Hussain keep Congress stronghold intact in Samaguri - India Today NE",
+          "source": "India Today NE",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaVBJX0UzOXFoSWJrbzlEd3Bsb0szZE1saGZ5TWFXam9Ed0ZUMGJEcFV5WndXU2d4akpEVWlZTlFMamRqUkZjbG82VUR5eW9WSXlWeDRVU0JQdFc3RDNrOHh3d0tYRVFvSHU1TWtUQi0tWGZpRDBoSkYyWlU3cndZeVVzLThBamM0SnVJcDVjR0hqYkZva3RHOC1NajFEbGxYTGV3cXRubmp6YWJtWDM4OVg4bDkya0duZ0M4N1J1OGNfcnhIMzBrek14VWJPLXRrSjVicFlLbU1tUFZ0WjBvcmdYS0kzbEdPVzhTLTlDbDE0eXJoM3htbGVmenF5LTTSAYQCQVVfeXFMTTFRdDRabndLZ3RIeFphejZLS2RteTFmeXp3d2Y5ZmxKaDFtYklxZzlCOTA5c2pmMldRNWhCN3BYM1dKM0daWm16cXlmLVYtcUhtZFU0RVhVS2hrcHJCVkdVZ0RveWt0MFd0NGVhVTI2SXVZWF9fRnNJaVVxY3RyR3M4Q0hwUEM2TlVqQkMzQjBRWmNtUW8wNElHbmFQZm4wampBZ2pvY3RwakpkMWllZ3pXWmpYMFhCNzByTWlrWXhPY0pYaW9PTUNlU3VNeVB4bThSdXFDSDhLUGRvMkRFSVR6NVRFbzBJQVdZeFlQQXNCMEp6QkFrc3YyNkNMUDV0UkgtN24?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Cong not against UCC principle but seeks clarity on implementation: Rakibul Hussain - thehawk.in",
+          "source": "thehawk.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFh6Mk42NmhjdUk4QXE4TXRVM2xGVHlyQzdkVEhnQjRUV2U4U3BDcGxjR1FIcTJWQjRTM0VMQTlUWTNMOC1Id25oRURSTUk2Z0tBXzhvNzFwSFIxSm1qdUZHOTIxaUY3LUpva2dneTNTVEpoSjcyQkZ2M29vUUJZWDBabVNGM2NuOVg5ZXhiZnVkU1JFVDZwUkhNYk05UXRpOEo1Tm42RUxPS3ZFcERsMThNYWRucDA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Cong not against UCC principle but seeks clarity on implementation: Rakibul Hussain - lokmattimes.com",
+          "source": "lokmattimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1RFSlpPLVAxRllzVnhYVURDQjdaX2w0Q1h4ZEFYUThoVV95WmExSnk0dGRFa1drTFpGdVMxVGtMd29KdWVydnZtaWxQenJBV0VpSnN6YkpvOHlJM2JGV2pESi14YkNGMjhDd3ozaGl6VGVWV2g2SWlrNW9LNnFIN2pZWmlUQmduUl92LVduVFJzd0ZDYXI3N1hpM05OdHZqdU1hcVFoUlNrNVN6RUVqVkFsQzZ1X0pjVEhxedIBwgFBVV95cUxPaDBSREd5ei1NUFlFV0QwbWJzWjZwekxnV2tXaEdLOUdabzVNa2N2OEkzOGQ5ek5WeTBkYmxwQ2tpREcxbXlQZWNZaEpYWjIwSU1YNjdrNHlRb2g1VWYtRDN2WWpXOEl0RHd4WkJwNHBweHFNMjl6RzB0dXJ3cTZnc2sxcXZUX1JRd3pqTXlUM2UtYlFzVE5BS1FmREx5TWloZ3ltcEVIOE1kNXZFbXJJLTNyUzU0YTdnZ2pic0pHZGxoUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who Is Congress' Rakibul Hussain, Reason Behind Bhupen Borah's Resignation - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdFlCcFlrN181QV92alh4aGRnZjZYZVV1SGhiU2xiVGg0WGVIZ2xSTUhJN1ZreWtOa0YtdmVZbGhGYlZCeUh4LXhtNV9rcnZvcFNKQ1hBNE1iQ2dzMlZhQzd0clllWlNXbEdJcjg1SUQxNjJRcmdzdGxUaTJxek1aSy1jdmdadUZQVXlFYkZsRW9WcU5yTXhEOUlXSDJrbEdURDlRX0psS1J3blNPejZEaGZXN2hOenNXekJ4SmtybllzY0NnQ1dDWHN4N1ZhQS1fMXfSAdoBQVVfeXFMTkRfWlpkS0dmY0NCTFVsczV1dnA1N3hvekFJT0loWWRTNlRzRElvUDE2MVVKMXRoT0laQ2RxN0VCaHhQYVJwZmp1TzNuNWNZNkNJRzBSMVdVY3RNZTZLTWk0TVF0czBEMU01SlFDb2N0QkplSVE5TGRqQkRLZTM3ZVpBX1RNbDYxQ2twMlpLVE9BWXNia1FxcC1iVm5nUHNFX3QxWTR6T3lBSVEzNTQ5YVZmR3B6c0h4TE1jcXVZY3Rpb3JYMmhGOHZQYW00VnJHRFJlUlV6M1lzTWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ticket War Turns Ugly: Congress Workers Chant 'Rakibul Hussain Murdabad' in Dhubri - Pratidin Time",
+          "source": "Pratidin Time",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEl0NWhZTVZCM0dKcFc1TEQ5Z1hXZXhUcUpoUzdhRFNLekZaa1pJU2FpWnM5MWw0TmJycEZOZ1dCQmYyWmpVRm94TDZjcmRiSGtNREItLVFIS19YT2xJS0ZXMEl4U3k4dnhqSkNCMFRrNHp2M1BPWWRRTWltUi14NTdudWVRbklVd2NhLTZkbVpNRm1udGFqU0NZVjlNVEtEMEMya0NDVXRseDBGUktkNURLZnktVWdVbUFKQUhpZGNWRnA0eEJURXlhbGV1UE5xelVFeUl4TGJqU1lqd3RF0gHfAUFVX3lxTE9oSXQ1aFlNVkIzR0pwVzVMRDlnWFdleFRxSmhTN2FEU0t6RlprWklTYWlaczkxbDROYnJwRk5nV0JCZjJaalVGb3hMNmNyZGJIa01EQi0tUUhLX1hPbElLRlcwSXhTeTh2eGpKQ0IwVGs0enYzUE9ZZFFNaW1SLXg1N251ZVFuSVV3Y2EtNmRtWk1GbW50YWpTQ1lWOU1US0QwQzJrQ0NVdGx4MEZSS2Q1REtmeS1VZ1VtQUpBSGlkY1ZGcDR4QlRFeWFsZXVQTnF6VUV5SXhMYmpTWWp3dEU?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Assam: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Rakibul Hussain\n\n### Overall Assessment\n\nRakibul Hussain, representing Dhubri constituency in Assam for the Indian National Congress, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance and a clean criminal record, substantial missing information regarding assets and MPLADS fund utilization raises concerns about financial transparency. The evidence quality is notably poor, with parliamentary performance graded 'C' and accessibility graded 'D'.\n\n### Fund Utilization & Development\n\nComplete data unavailability regarding MPLADS fund utilization presents a critical transparency gap. No information is available on entitled amounts, funds released, or expenditure patterns, making it impossible to assess developmental impact in Dhubri constituency. This absence of data is particularly concerning given the CAG audit context for Assam, which highlights systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documentation. The audit also revealed that 18% of sampled works were abandoned or incomplete, suggesting potential inefficiencies in fund deployment that cannot be evaluated for this MP due to missing data.\n\n### Financial Transparency\n\nAsset disclosure information is entirely unavailable, preventing assessment of financial standing, growth patterns, or potential conflicts of interest. The absence of current and previous asset declarations, along with missing growth ratio and net worth data, represents a significant transparency deficit. This data gap is flagged with low confidence warnings, indicating potential source unavailability rather than deliberate non-disclosure. Monthly compensation is documented at Rs 245,000, providing the only available financial reference point.\n\n### Legal & Criminal Standing\n\nHussain maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean criminal profile suggests adherence to legal standards expected of public representatives. However, the criminal record data carries a low confidence warning due to potential source unavailability, though the zero-case status appears consistent across all metrics.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Hussain demonstrates exceptional attendance with a perfect 100% record, indicating consistent presence in parliamentary proceedings. However, legislative participation appears limited with only 5 questions raised and 5 debate contributions, suggesting minimal active engagement in parliamentary discourse. No private member bills were introduced, indicating limited legislative initiative. The absence of committee participation data further restricts evaluation of parliamentary effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public sentiment with 10 articles showing no positive or negative bias - all classified as neutral coverage. This suggests limited public visibility or controversial positioning. The lack of accessibility data and committee information indicates poor public engagement mechanisms. No social media or public outreach metrics are available, limiting assessment of constituent communication effectiveness.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data quality issues. Criminal record confidence is low due to potential source unavailability, while asset and MPLADS data carry similar warnings. Committee data is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data shows low confidence levels. Sources include PRS, social media, and news outlets, but coverage appears incomplete. The evidence grading system rates parliamentary performance as 'C' and accessibility as 'D', indicating substantial room for improvement in transparency standards.\n\n### Key Takeaway\n\nRakibul Hussain's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining perfect attendance and a clean criminal record, the absence of financial disclosure and development fund information prevents meaningful assessment of performance and accountability. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Given Assam's documented issues with fund utilization and administrative efficiency highlighted in CAG audits, the lack of MPLADS data is particularly concerning and requires immediate attention to ensure constituent transparency and developmental accountability.",
+  "validated_at": "2026-05-21T14:23:02.728146Z"
+}

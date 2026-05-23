@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "T Sumathy Alias Thamizhachi Thangapandian",
+    "constituency": "Chennai South",
+    "state": "tamil nadu",
+    "party": "Dravida Munnetra Kazhagam",
+    "myneta_candidate_id": null,
+    "slug": "t-sumathy-alias-thamizhachi-thangapandian",
+    "house": "lok_sabha",
+    "sansad_member_id": 4961,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "T Sumathy Alias Thamizhachi Thangapandian",
+      "constituency": "Chennai South",
+      "state": "tamil nadu",
+      "party": "Dravida Munnetra Kazhagam",
+      "myneta_candidate_id": null,
+      "slug": "t-sumathy-alias-thamizhachi-thangapandian",
+      "house": "lok_sabha",
+      "sansad_member_id": 4961,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.213665Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:10.651277Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:10.649351Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 55.0,
+      "questions_asked": 45,
+      "debates_participated": 26,
+      "private_bills_introduced": 2,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:10.648535Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:13.213807Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218300Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218316Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218322Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218328Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218345Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218351Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:13.218356Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Will push for education reforms including ban on coaching institute ads: Thamizhachi Thangapandian - Citizen Matters",
+          "source": "Citizen Matters",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkw5Y1RvVnJIZkJTcVJPTV9ETDg2TmtSWFB2QklwRzNPRzFDNk9NX3RNbWlneGxRNkZCUnZOcXlTd0M5OHNWVTh0VWlmeU10bWhUdzlWRUFySVFsVkdXb3hFdGU5d0RLZVhHODJHLVhubVRwYkRCNkMybmFYRWktZTFvbWRCOHJlLTNGNTdOZk1DUkFLOGc3cmhjak9rOGliUkhQQnhuZlViOWJLWThhM2luQmxuTVYwMC0tcDd5YTEyalZXU3RVVUhEVm9fZ0JDY0h0ZzVDTQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Chennai South election result: DMK's Thamizhachi Thangapandian secures victory - CNBC TV18",
+          "source": "CNBC TV18",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGtvR3lNMzZrVnRNaUsxNDFlVlFhRFRyUV9PSnFEQmRGanllNW5sRDA2ZHVWdHJjSkU1Mzd3Y0syS0NTSmwxWlFMUjdGbDY5US1ndzZ6ei1jSGdRODh3bVR5cXFJNnBCaFpuLU9uaC1MU25uU0dyR3BfellKai14UFRTaWQ1QjJZTVlwSzd2SW1BMGtmazJOMXNSc1JxSDV3cThTZzhtLW1jRDQzQThvWVMtZk9nSGZaTDhEZ3dFLU5xRm1IUVVlZjBHbXhha0JYeUdLcm5JRXg1eXNzN0HSAeMBQVVfeXFMTThvdmhmZXpwZFFzbTI3RkNEOERUOElBRTZwWTBPYXBTRnhWUUxNcmxPX00zUzZhOEFTemVOUW1PanA3b1NsaVJJMzM2OWF4ZWM0R1JzNXFqcHVSZFBUREVILS1YbE9BQWRBVGdrT2lDb2tKSzF0WFZydkVxcEtMOTB1Zm1rTEhvWWwyalcyMXhVQWE3WWpNRU53cV9ZWkpZYVlJT0xQRGlVcUV3cGFVVE9qbnFJSU9BVVhONnFTejA3d1l2T3lHN3ZfWlZ1Sk9KOWd4aXpIU0ZkbjJIbnB3bFQtQms?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Thamizhachi Thangapandian wins from Chennai South constituency for a second consecutive term - Adyar Times",
+          "source": "Adyar Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlWTXFQQWZzSjRGNHQ3X2dWMnM5VWI5bHBtUFlIa0dkcGlGc0c4RXJsT3YtMDZlTXZMWlZpWnhLSHR6d1Znb0V5YkttNlZSWHcybjNsZFk1T0pLZlVZRWMtV1dZQkRsb25BcDRaUHd0dUNwbW4yOUtxbk9UNkMxazl6emZqNWg0Z19SZVE1V2liUGt5bXlhMnRYWDhJa0doekF2QW80NWU1OGF4S0pzLVJ6UFdxUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP urges IIT-M to redress grievances of reserved categories - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGVtNm9QaDEzWXRoOTk2Z3JDd1ZCVVJpeXd0X2hDSkh4SXpaUW1kbmRwS2ZvMGNhMHR5dGxSdnF1cWk0S2N6UGQ3bktCa0VlTXROZmozVjY4S3EteXY4ellPb3IzODRBOV9ZZHlNQi1vT1BOZzkzSy13UEhfRE1PZ1M4ZFZFUW9IYXJYaTZFSXBSTUpjaEJVQVR4a0Z4R2tVTVdXU2RUQTJYRnA5TVp1SWNtNjdnYWY3Ymd0bjI0YWd2d9IByAFBVV95cUxOaDJFbE9lRUNUbHZZWFRXTEFBaGJkdDNGSkIxODJMelFXZU5HUnh3QS1RY2J6b19WX3IzTTJTZkRhYVBoenVBOEJoenBQcEdvcW8zTDRoeFZyMWlIaDlMUXJRUklWSGMyc3JBekhuMVpTUEJEYm8tc1RtSlFraVJ0YjBMQXE4WDEzRjI5ZnhJcmEtYzY5NXpNeDlXMy1tQ2lIa2ctZXVQdk5yX3luSU5fbC1yNWJfSDh3V09TX0lNUFNPY2xBeTRQVw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Chennai South election results 2024 live updates: DMK's T Sumathy wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVFVKTDdyeS1mZTVZOTF1MnlySHVsT1g1SFN3cm1wWGZXaXk5VVVMMGNDMzM5a1V6VmJmX3BnazlDamRETkRiZXNOa2lRSE1Rb3VTcmFlemV5VUMyNkdpeTlHSUNLVVpEcmxGN1RveEtseEZtZ1p1alAwUk00THVUUERIbHVuNExqckphYW83Y3JBZVcyd0pBa3dUVTIwd2FFSTZ5aTZpRVR5bndpLVhqWm9jNmV3TXVXYXZmLUhBTl9ZdHhUTlgwM3d1V01HRlVvcUR5dDZfUm1MS0FLVUdWXzFEdFlyTkUtaGFGd3Rmb1o1Z01QRkpMbWFMQVhJVFRUTzlYM1RWVjRVbDY3T19VbGo0NVdiZTNScHF3ME5qT2V4VlNzUDcyUFlEQlR5M1JCeWdaWjVvb2ZoUG91QXZxbjFTZmlYLXdSTklOUzZqVjVfNGV6elNNNGh30gHfAkFVX3lxTE1XN1N5cms3Y18zTHB6ZnhMUGhHM1o3MGFDVkFpT1hCejhtX0NZZGltZGZmZkFWWUFCQ3ZqYkV5NGJTU1dSb3BkNGxzMTU0XzhVazh0a2R2U21TZ2pzT2VtMWZOc2xFUkNpdV80blhybVhHSVBrUUpmeGsxSmxUeW9ZT1BpOGJacXhGMGV5SEVBT19ZQ3ZWTTJaUW41aHI5WFJ2QlJXOUFNVmNNTTVFQzhiQjg3em5CSDFucWU1bTA1cUpvdnFtQU5VOERPOENsRGlkMmpjdFpXUTNCLTV4ZmV2dEI3aHNxOHJsbVQwbjVsa1BpNFgwQjZLempzT3JyMXMxVWpKVTdNSlhQX0pJaktNT1d1ekRQMlRNcFEwQnZvRmpnMXJyWEdCRnF5ZlR2MGdYWGNzNHpmLTlBcHNZaW1zcmstZmlBOFJ6a1hrNnpVNU9XdF9BQzlRRkpWOEdyZw?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 2,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: T Sumathy Alias Thamizhachi Thangapandian\n\n### Overall Assessment\nT Sumathy Alias Thamizhachi Thangapandian represents Chennai South constituency in the Lok Sabha as a member of the Dravida Munnetra Kazhagam (DMK). Her transparency profile reveals significant data gaps across key accountability metrics, with limited available information on asset disclosure, MPLADS utilization, and legislative effectiveness. The available evidence suggests moderate parliamentary engagement but raises concerns about data accessibility and transparency reporting.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap, especially given the CAG audit context highlighting systemic issues in Tamil Nadu's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for this MP, constituents cannot assess her development fund management effectiveness.\n\n### Financial Transparency\nAsset declaration data is completely absent, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a fundamental transparency failure, as asset disclosure is mandatory for elected representatives. The MP receives a total monthly compensation of Rs 2.45 lakh, but without asset data, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during her tenure.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources. While the available data suggests no criminal involvement, the reliability caveat prevents definitive assessment.\n\n### Parliamentary Performance\nParliamentary attendance stands at 55%, falling below the ideal benchmark and indicating room for improvement in House participation. Legislative activity shows mixed results: 45 questions asked and 26 debate participations demonstrate reasonable engagement with parliamentary proceedings. She has introduced 2 private member bills, showing some initiative in legislative drafting. However, zero hour interventions (0) and special mentions (0) suggest limited use of available parliamentary mechanisms for raising constituency issues. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment—no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial positioning. However, the accessibility evidence grade of 'D' indicates poor data quality regarding public engagement metrics. No information is available on committee memberships, suggesting either non-participation or data unavailability. Social media presence and constituent outreach mechanisms remain undocumented.\n\n### Data Quality & Caveats\nMultiple critical data gaps significantly limit this transparency assessment. Asset information is completely unavailable, raising concerns about disclosure compliance or data reporting systems. MPLADS data absence prevents evaluation of development fund stewardship. Criminal record data carries low confidence warnings, and committee membership information is entirely missing. The overall evidence quality varies from 'C' for parliamentary data to 'D' for accessibility metrics. These limitations severely constrain the ability to provide a comprehensive transparency evaluation.\n\n### Key Takeaway\nWhile MP Thangapandian maintains a clean criminal record and shows moderate parliamentary engagement (55% attendance, 45 questions, 26 debates), her transparency profile is severely compromised by missing asset declarations and MPLADS utilization data. The neutral media coverage and absence of committee information further limit public accountability assessment. Given Tamil Nadu's documented fund management challenges highlighted in CAG audits, the lack of MPLADS transparency is particularly concerning. Constituents cannot adequately evaluate her performance due to these critical data gaps, highlighting systemic transparency deficiencies that require immediate attention.",
+  "validated_at": "2026-05-21T14:22:34.103835Z"
+}

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+.venv/
+.venv311/
+venv/
+
+# Env/secrets
+.env
+
+# Local DB/runtime
+*.db
+
+# Node/Next
+/dashboard/node_modules/
+/dashboard/.next/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local static serving artifacts
+/dashboard/out/

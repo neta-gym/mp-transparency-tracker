@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Mukesh Rajput",
+    "constituency": "Farrukhabad",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "mukesh-rajput",
+    "house": "lok_sabha",
+    "sansad_member_id": 4666,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 93680840.0,
+    "liabilities": 0.0,
+    "net_worth": 93680840.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 50.7,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T13:59:08.470868Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T13:59:05.402073Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T13:59:05.399128Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 90.0,
+    "questions_asked": 25,
+    "debates_participated": 5,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T13:59:05.398011Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T13:59:23.730487Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118239Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118245Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118248Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118252Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118255Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118258Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118260Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.118263Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 2,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "UP BJP MP's Sister Alleges Assault By In-Laws, Says Was Filmed While Bathing - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaV9Wdy1vaHFTQnNObE95aWtKZFJ6S3ZyYUgwVlRUUDJ6TV9TOHlIbDlYVWczVnBVUUFfVi1lWGJ2U3kwaEhqOXRJTG1oaDJ4UEN3cDlBamNEZlRLTGROSjNCbmFMbEFWa2owZnlZTUtQeHZxam0xMlNja3RkeTFsRTY3cU1CT2UyVGFTWTNWdjhDeENXdTB3M3gtV3hSVEQ1U29wY2VnaENyYndOMkdvWG1NeVVTb0c4Wkg2cEF5RHN2ZFc0QmtvUGRTSW5pM0Rn0gHYAUFVX3lxTE02SS1HTHYwS1JtS0t0bVlPNEZYa1QxelBfYloxQS1RNUM2UVdFZGFSMU9EcGotV0c5ZkdtVVZ1eFh2OFhzM2lhOW1iUExMMUkxSVVCRFpGbXY3amVrdW5Ma18wOHh1UXFZLURwbXMtZ2VuQXBXMVlQTkVnQVJOZXBrQ3BaV0lOcDh0WXlLdDhQb2xObE4weDYyeW9WcE9XYzh1UFRYUjZhRHhkRWZZVDUwTXBRUkNuVDNNd3lPMTNJcFIwajloSHJLZEhQTjRRaHowT0dYWTB6VA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP's sister filmed while taking bath, thrashed by in-laws after protesting - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEZMT3pxYW84SXZPT3EycU56WWxTeFdrakg0djBvSzc4YWxuQ1hGQjRhRnJPaVZ5QXJCbEt6eVhPd290LWhNTWhSRUdCT2RVblZlZXNVTEpNN19XUkM4Ujl0TW9lZ0JiMTZZenRhLWZKcUotMENlUVdfTDk1bkk5REI1Uld4dHFVb3hwQlNQTzRjdHUwallBV2xsd2d1dU5CQzJCQmpUTWNINHA0Z3hXNU00cm80V3pHMW12ODFNMGc1VlM4eXpRQ093Yjg4aW5IbGQzTzBUaTRiLWlybjVEdtIB5gFBVV95cUxNTmllWE1ELTBlQ0hLU0pfYlI0Wm9QMExQX1NpNjNtYWxSMVc0cC1lRmtmT0Ztd3dFdGFIUmlSSmh1dkZjbDRJdktKYnNlSTN6a25MUUFBbEJ5TjRzNEZkelNGUHVONURCQWVLLWFUNk9tZVVVZkk2SkFuUmc2dlQzVTl3a1lPeHJ0V01rUmZ1WWxGeVpQMmM5RTF5cWZKWUFBcXlJVExQRWtRQ2NGMGR4RENud3lGMVZQajdYaEF2QzZRYkpvYjZCNllKQ2U2WG02ZmFoNXAyTHVPa2pSSEp5djVwalR3Zw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Will shoot you’: BJP MP Mukesh Rajput’s sister alleges assault by in-laws, FIR lodged - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkU2anhuWXdBUmlDclEycWt5c0plQjA5LWRyZUlKa0toQnh3UGtUMGc2elZQRHpReDN4STE4Wk9JVS1HLUJYa2J6VjZVNlNaajlaZi1lR2dUcG15SWoyRGlLc0FuMWRKdXFtX3UyM3hTSmpqZndKMDlCbTJoZVVONkhzbUJ3WnVxQmxERzB1aldUQ0U2eWJES2w4eFBJTzlPanVDaUxCVDRGTjBaOWY3bzJWcnrSAbsBQVVfeXFMTi1iX0FOTi1BYjkxTWVvTnF2WVRYZWI5MzRpMU9QOEQxLXExcFQ2dXg3WEZNNXFNbXF4N3YyMHpaRndXRmFnQ0xONGtzNThJeTcxUTJFRGdSeks1bTZkbkJleWVqNEthMHNZREFKV0lOQVpwRlJ4eDl4Z0hiRHVaUXNRMW9PMFdTNWVXT0ozUU11eFBpX0VOYllCMjFUQW9YTGsteHh2TnlvVl8zcWp3aW5DV0ltRXFNM25QMA?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "BJP MP's sister 'filmed' while bathing; father-in-law threatens to 'shoot' her - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0VsTVpwb21scHRtbnpEYTUzbGdqVjFSVDNCSVJXZG9VLTdqZGlJX1M3alFPdFJ3WnI3US1HWV9HZFVVYUU2aXJIbGdSemMtaHhpVTJ2MzkwaDMxdTdISmxZR0EyeVVpZ2ZZS1hYYWRBanUtb1dmbDR5ZWhJRzdBZGZyVWIzVTJxdFVTeWlXOW95bGtOMmk5TE15WHlURjFyaHl3OUlLbTNrRmxHS0FDcnRYTmVoaGZGRmRZOHBpRU85NmlhODd5VEoxekhZbkZ4S0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Mukesh Rajput? BJP MP injured amid protests outside Parliament - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMVBsY19lQV9hTlFMaEl1RU56aWk2YjAweFZNNjdGbFpuelR2ZVFmS1hRX2Y4UkFrWENDbDRjaDFHYncyakhYUFNhS2g4NW5aVTUtSEUxbDVWYmhiUzNJUW1OZmU4Y1Zxemx2ZFNyQm91QUlXenFkSlRGTTBZdnAtU2hZVVlPd2ppT0llVVloQkxESmFuaDBBX0JMYzBmLXB5cllZOGtOekFEa0U1QkNGMmdleVNQV3VTYVBJVjl2NGduZEpMbmdRTmpCZHpyeGx3aWfSAdcBQVVfeXFMTkhoWmtLN29ZaVd5b3psaHo3dHE5bEFucGFQNUxxVTFHU3NGdTBkV1d0SE1pY2MtQ0lFd2NVMV82LXFtdU0wdE5oZmE4RlpOa0pjMk9scWxEZDJvSm11cndtSUFZWFo3Y3hsUmNRMWRBS095U19WZ0xNQWhNeEhVeFdsLWROSEpabDRzMHcwTG9zRmFfeEx0ZkVwanJqNHRlRV9vLVFGY190UW8zU2RHaUVvOURXa1ZYTXdmR3p0Ul8yMWhkaTVmTG5rUXZKMEVMMk14azA0ZGs?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

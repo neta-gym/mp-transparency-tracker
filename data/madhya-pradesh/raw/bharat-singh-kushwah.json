@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Bharat Singh Kushwah",
+    "constituency": "Gwalior",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "bharat-singh-kushwah",
+    "house": "lok_sabha",
+    "sansad_member_id": 5609,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 28809530.0,
+    "liabilities": 6276267.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 22533263.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.124167Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:23:59.452034Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:23:59.449866Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 12,
+    "debates_participated": 1,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:23:59.449009Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:24:58.124367Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140749Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140767Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140776Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140784Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "madhya pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140791Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140799Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140806Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:58.140815Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjEtUlV3aTVjLXJnLTdLMjJzNU1HOXprbGI1MTVjbnAweXhDLUVQanRjUkl3am1HeVJ1NlJrS2NZeG1zVU9HNUszcnFnWnNKRU5mUUc0RzVQMEV1bExtZGZyR1pPLUJyQkFIRkJZc05POWNjVHUyRTEyTlFJNDAtS09hQjVHdGhpUFAxcVU4UDlaLUlPamF3RW9xRkJxLXl4dWRxbG8ycGNZNHJIRDhMVlNpX3NXdnVMSHV3VHltOEYxZTRkMXJiVnBrdDhzb2F0Mm1XdHlaUHYxMGE3bGpRS2NVNUhPNWxQRlhwaEtSZ07SAfYBQVVfeXFMUEZNREY4RHRuVHdURldZelU5MDRabk82TlVhMGIzMXVBb1lXWGpNS3lxSVA1Tl9zTmNTZWc2SVlldHZJWDlhbVBEWENlT3ZkWEZhS3AxeEYwMHZBRnhCVTlQSndybHBtbHJXYVdEZ2ZPSUx6cGlKcWg1cU01Uld1VDJMdTJnalVsYnhqS01oY1JGVHlWM2xjQklXSVB5RE50dGZZaFVhM0tRSWJ0aHp3UGswaU13Vzc0bzVrenZ3QWtMbEkzVmQxaFAxcE1CckpRTExUcTRUTGFtM01HSnFPb0V1aVotRmxZcDF1bFZkVlNuQzE1OXB3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSTlzNEgyaV9xekY5MnpaeTZRMDFVNTl3anRqQW1BVk1WQjdWYVI4OFVVUWxZUEVYOFJVajFIaWdkaEE5TmxwNGFsNG1sdGlURU0zWmJOLWFtdVdHWUFHQTZtN2xGdHdaek9iSTk2Nm14SlJwelduNnJlcXFVTkJIZVdfYzJSbjJLeThMZlpCRnVIekU0Zm1janZqeFlJNkdDLXY3S0Qta25aZ2VTa0xkb0lmZWVaVk5zVU9Eb3ktRl9VaktSUlZVVUhKdEFlVnhWVVVxbmlDV081b280OGRiYndhRF9NNEtoQWlXT1EzS05TQTJXb0J6N3BHOFVQMFNyRXFPV1FrWDczallydF80QnQwU1l5ZFJnQU1ZQ0RiczlQMlJLLWpkZ2VIQTQ0UG1TeFBLejNicGhNZlBvZnMtaFlRLTE3V01ta1ZsZ0NfcUxfU1FsaWRNYzRBQWXSAeICQVVfeXFMTkVocy15UmNZYk1mejkxVFlGYTBjbndYZ3M2TmVXVUVTWmdMWF90RUVDb2g5R21qTjdISjNDbG5qUXhCMlNNQWxvSVlBbWZUVm41NWZZcW9PZHFZT1l4Yko3ang2Yno3czZxRGNLSG1BZVdCc0Q0NDVwMTFIbEVNVWJWX001dmQ4c1NVVWFHcEFvODZDallNZXI5Q1kxNXpabDhUNlpoVUNkZFAxa2cwRW1NVU1xNEFhWmdHYnJrX3FGY2ZvQkNTSEFhQUlKeW02T0IxNEJsTkVyaEdFZUZFSkptbHZTYmhkMnpGZ0gyc0YxY2c1S3pZZGJiZXdZbnpqbmJSelZRc2xncF9KbkVxaWFXVEpxOHFhYmdwRWI3U0VHZTNZdHUyb0k2LUZpNE5nbURvUnloMUtyakIwUjY5T1ZTWC1sWGxQdUdFU2N6OG8yQU9NODEzR0o1Nk5iLWlZRk93?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Political Profile of Bharat Singh Kushwah, Bjp Party, Gwalior, and Net Worth - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRi1VdE9XZnBZSXNjRDc4OFhTa0g4ZnUtM2stMGtONElUTU9kWF83RnpkbVlRc0NiR3draGtJNVVCOE0teVpJZkFqVVlTcDYxeHV5bVpMVktEeDdxa1NkNTM5UW1TaXY4S0h5SWZnZU1kNnI5NFdDS3VyaE5GMFRGRW1fRXVjcl93cEhOYVZjZWtXWFNrYklwVk5KTGI1ckpQUEk3Q1k5QUl1UlYzUzU5SUFpMjlmMXUxMmZnZUlhRERvWXEwN3FidF81QXZRUVU4WWVZRkp2TkwtOGtGT0pnVWs0N1UzZzJsM3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gwalior Election Result: बीजेपी ने लगातार 5वीं बार जीता ग्वालियर, कांग्रेस के प्रवीण पाठक की हार - AajTak",
+        "source": "AajTak",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPR2xfWUZ2M3FfV0FhQ0M4YnNXbUxfRVQxblVjWTgzLWwwSFZ5RDVuTHdYbVNTeXJGQWhKVE41OXRqNTBXdDV3Y3JNQklDVUt4SkVuMTNKd3ZHWnlKMEIycnZyUkFiZ2hQOC1iWVVRbl9sT2RsZlhJTFpHZzdrUUVLaEpsTkZCZlJPTm1XZWVZUGhPZ0ZNeHQ4X2dtc3c5clltR1NyS3JYTzhkOUd1Q0NIZDQycEx3NUh6SmVZOWlseGhLcjJiSlJoTjVib19WbThRUHN2RXQ0MHhuU2NJc2ljVjFyU2VEdXM5X2tvTG5rZ3FHcTAtVFE3RW50VTU3c3lSUVQxYVlNYWxOZUJlZmVydDQ4VdIBmAJBVV95cUxOR0FDRTgzVXBCbTdyYk44NjcyUWtkeUdUbVlGQnpMMzM2NFhmSE00ZlNZbWlzR2ZTaHJMSzd0OWRMRm1rbnJjdVpNek93dW82RWxGWmd2S1lfVG9jc0V4ZU1Xb0JMWmhpcmFLdzVIOWU3RlVzblpCVHdyUkRhdUJxMnVHU1ZSV1NfYm9zMW5qTUdSSzlDb2xYZldCdHBVRWpxTnphZGdvWkdNbmgwNFFHVVlfeTFrX1h6c3U1alJBT0gyUWtQQk5XU3VDYWM3OWx6Wi1KZGwwZnY5S1FnajR0ZHVXalNRdjQ4UkhuaVFyU0ZaU2pSV1RwMHcyTlBvZVNVUk5RcmloSHp1dkFfcEplYVVjN3BBaDhx?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "A Grand Unveiling: Vice President Shri Jagdeep Dhankhar Inaugurates GSI Geoscience Museum in Gwalior - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5keldvejI4SVlTVDB0eVhjWEROaG84amQ2eS1HbWg1blYyZVV3SFRFLU43eWoxR2lDaHhrU2JMQXBUcnAxZGlHQmw5LXBHcFNiYWRKeUs2czBqMnpKWkI5ekdncG5tczlM?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

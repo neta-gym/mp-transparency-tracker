@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Rajkumar Roat",
+    "constituency": "Banswara",
+    "state": "rajasthan",
+    "party": "Bharat Adivasi Party",
+    "myneta_candidate_id": null,
+    "slug": "rajkumar-roat",
+    "house": "lok_sabha",
+    "sansad_member_id": 5764,
+    "profile_url": null,
+    "canonical_name": "Rajkumar Roat",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Rajkumar Roat",
+      "constituency": "Banswara",
+      "state": "rajasthan",
+      "party": "Bharat Adivasi Party",
+      "myneta_candidate_id": null,
+      "slug": "rajkumar-roat",
+      "house": "lok_sabha",
+      "sansad_member_id": 5764,
+      "profile_url": null,
+      "canonical_name": "Rajkumar Roat",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.852645Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:28:39.822925Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:28:39.820123Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 85.0,
+      "questions_asked": 43,
+      "debates_participated": 14,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:28:39.818997Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:29:42.852777Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867714Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867729Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867751Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867758Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867766Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867773Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:29:42.867779Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY",
+          "source": "FACTLY",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQb1dJbGdOMUR5ZGwtT2RybkNubmJ3SUNmVU5jak93X0N6OFo3MnJKSDNSN253S3pac3JzQm1jeHJVMDFoSGcxWG5ub0QzZnR2dGVSVW5wVmQ1V25MdXJXWjVhRVVJWHJZRjlGZW53WlViTThEc1ZhcVJEVjlQZjZUdlZvWmoydDdGbVlhSlFWdXBrYm9RTGlXZTk5WjNOcjgzTlFJZVVCOUhDYjFhbUFjVkEyUnVtSjdieEdZWUYwS0dTRkEwc1M1eFZFNzNNVnRxdmJMSVQ1bldFV2d6SUV4LTkwVWN3X3dzQ3hvWWV1WVpFNjdoeE1MT1dlNVppcUZYUkF4YUplVWc3Y1dRSzQ4QkFScmdmOXZkZ3VQUmJseE5ZckRwcEoxQy14Ums1aVhz?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BAP MLA threatens BJP MP in public meeting: Challenges him to fight outside; MPs Rajkumar Roat and Mannalal... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeWpQdGJ2Y0hhZk5QYm96N2U2ZmlCbm50Q1BXS2hsWnhqLXRPaVdESG05OEFQMmp1Umc4cDBWNDBEQnBqSWZnZVpONHkxdXR6Rnh0LVRGbWxhMTJxTXZXSlBkaHdXLVFjNFNTNzROZWxGWkVUQ2R2MG1TSU9PRVRCdXlSeGk1VGpSelp4bFMtX19leWpacVV1VGxjbDhsY2RsbjN2TmRoSkhCb3htZ21qc3R3VDhUaTBCZXJTV3hVM0o5NWdxSHc2WHB5NS1BTTBhcUdLeE5CU2ZHWWpqRVMwLdIB5gFBVV95cUxPVVBoRGRtODZGVk45ajlQdnpyRldMZzVnVVdMNVg0SGU4c21XcFVjNE4tWElCM0g3YTcwN3VpUmJEaTQzaWhSdkxEYVQ1c3k0amEzbklkZXRCRXBPWC16akNuWGZ6UTlnSTN0cDRrbG50S3JWaE1QSDhWRkJJV0tRb3pBM2JwekVlUG42dzNsVExwa0JvaXR2aVdlbjZZb3A1R2ZWTGxDVVl6NThhYmQ0Vl9vSFkwSTRMQ2VpcFduNzhPdVQ3V3dnVDJDVWYzdXlWaF9Mdm1nbjRHT2lGSjdQR2h1R2wxZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3dleUE1RVF4OU9MR09jTUtBajYwOFVEZ1N0MnJJUXlpc2I4bGRub0FKS3RkVWhhQUMzR3VHU25fYW9sNENJb05WV0VfWWdINzZiSHlKS01oX1duNDZIWU15SnNMSUc0UWRxZzNxWW96a2huNHI0T1E2R2swc0wteXpMUG53TGdxYWRiWWVPMTdoQ0pSUVZ6T3lFR29aeFpNbi01dllON1pHS0l2b1pCTnJ1TGE2cU92cFMtYmtNMk5qREdqeE1DadIBzgFBVV95cUxNa1VOdWE1VzJ5VUNaUDl6SnpLUXRIcVBxZ3ZyQlgtdV9aaG1YS1dJRzMxVGRiaTE3S2F2Xzl2LXRKekl4NTZ4WEFCNFB1azUzWUl5a2M5Q1FjdThYNS1iUlE5eklBc0hIbGtvcTdBXy1CU2EtYTRkaThvRFkwaHluaDRtb3RhNGFOVmc5cXcwQldqTFFRWTQ3TEZxaXctSThqaVViTktrYkp6enB6b0cwYWMyaVV0X3duV3N6dmFZdmZZaGpZX0Z5YlZGdEowdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRmxER0JTX0FWM3ZYZlFBTDJ4U3BLa2p3ZGFXb0dSYkZxaVNqS2tPVXlXOW1ncTN5Rk5NOVg4Y3Z1R3NnUVgtWlZYYVdmY0ZneU90dVFWa0pNWXpWTGJhajlYbjVBbDkydFAxTjk1a1BhaUtwWGttc2F0Y19MTVRNaFZ5YVNHazhfelk5N1c0Nzczc3Ayb0dTRGNvQV91ZXNIUmptbmhqdThuYjBQdEZXZ3hCYVZNRUFzOGlWaXFVMWhyZXBJS1BFSnU4d1JGbTZacGxKTDluS3VsaXRhY2FhaFJhbGQxQ29BcWRYLU1mUjlQTmR6WXhfUXYxVXVYUXla0gGGAkFVX3lxTFBrZnl2SThXZ21GdnhhM1pMNTNlOGNEYUxqLVlGZ0RsRjIybkN1SzlEWjBKR2lGbElQSl9jOEdydGpIOFBfaGpqMjlsODZwanNvNE9zNlAtVzFzaGRERjQ3Um50b0MxMW0xT0M2VUZHUHdMbDFUWHIzc2trdDFyRG9qSEFBcGhxa2o5d1Q3R21OQmlPWngyU3pMZ3dWVXQxaHZ3djVKNDZiSC1qbFBJQWJpcTI3RFJ6RUFjTy10aGxxdTNhWkNwWThrQzdRNUdoaUxLUl85TEtxdmR2clNkQzN5alhiS1VGMzlkWDhIRWlQeGxXMzYxU0hreXZGX2YwM3hCdHd3Y3c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Rajasthan's Dungri Dam Project: MP Rajkumar Rot's Questions on Displacement of 76 Villages Met with Government's Evasive Response - The Mooknayak English",
+          "source": "The Mooknayak English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdV9MdTRiSkJJTDBzNTEzME9hS0czVEJHVGlhX3Mtcmx0UjVIMlBGQTlIY01lU2dEeE05QmwxNVVLSTNVcWFlR3Z5c0haMEc1VFNzeGdxYzBlVndzMG5fendhZldRWEJ0SmJrMl9LaEVZOTJXY0NuSW1rX3QtSy1OLU5sbDhGUmJNZ0wtc0VxNDJRUVhWcGhSWmRzdFBRb0tkNHg5bUVsUzhNVFhxczZ2eVdHTWRiMFYtemxxcjlwVllZODZVcTJxWkJFWGREQ0szVG1IbXJkajZaLU9ENDZubmtQQjNxTmlydGZDTGEtTG91d2V3dWt3eNIBhgJBVV95cUxPc3BYVlJXMEdYUHNCV1ItQWdqbENwd2Q1WTkzWHhSYy01cDVadmpTTkY2bnlMNmdQU0J1Uk03LXFQX2RsZFVpcHE5UWdYQk1IQzZXMG9jejN1NXdrOWdLUFFGcnlUSmV1MWpPM3BpSElZaHVjNHB2N3Q4RkJCdnRYcV9fVlFRMFB2UkVpdWM3ZFZUOXdIYUI4T2R3b0R4YTV3NUxnRzJVQVFkVG1ud01zQXZUelREbVhnaFhaRHdEZWRWcHJPUlltYlg5VDZQS1cwTHFpcEFGYVVtZ1NZUFozQXBvbVFveDRRS0VqODZJb2RGa1R2U04zeV9kaExkeGpsOUhzYnpB?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Rajasthan: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "# Executive Summary: Rajkumar Roat\n\n## Executive Summary: Rajkumar Roat\n\n### Overall Assessment\nRajkumar Roat, representing Banswara constituency in Rajasthan as a member of the Bharat Adivasi Party, demonstrates a mixed transparency profile characterized by significant data gaps across multiple domains. While showing reasonable parliamentary engagement with 85% attendance, comprehensive assessment is hampered by missing or low-confidence data across financial, asset, and development fund metrics.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given the CAG audit findings highlighting systemic issues in fund management across Rajasthan. The CAG reports reveal concerning patterns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. Without specific MPLADS data for Roat's constituency, it is impossible to assess his development fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on current total assets, previous asset values, growth ratios, or net worth calculations. This absence of financial transparency metrics prevents any meaningful assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but the lack of asset data represents a significant transparency deficit.\n\n### Legal & Criminal Standing\nRoat maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data suggests no legal issues, the reliability caveat requires acknowledgment.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 85% attendance rate, demonstrating reasonable commitment to legislative proceedings. Roat has raised 43 questions and participated in 14 debates, indicating active engagement in parliamentary discourse. However, he has introduced zero private member bills, suggesting limited legislative initiative. The parliament activity data carries a 'C' grade for evidence quality, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal limited visibility with only 10 news articles identified, all categorized as neutral in sentiment with no positive or negative coverage. This suggests either limited media attention or minimal public discourse around his activities. The accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement effectiveness. No committee participation data is available, further limiting assessment of his broader parliamentary contribution.\n\n### Data Quality & Caveats\nThe transparency profile suffers from significant data quality issues across multiple domains. Critical warnings include low confidence in criminal record data, asset information, and MPLADS utilization metrics. Committee participation data is entirely missing, and legislative effectiveness data carries low confidence ratings. The evidence grading system assigns 'C' for parliamentary data and 'D' for accessibility, indicating substantial reliability concerns. These data gaps severely limit the ability to provide comprehensive transparency assessment.\n\n### Key Takeaway\nRajkumar Roat's transparency profile is characterized by concerning data unavailability rather than documented misconduct. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of crucial financial, asset, and development fund data creates significant transparency gaps. The systemic fund management issues highlighted by CAG audits in Rajasthan underscore the importance of obtaining reliable MPLADS utilization data for meaningful accountability assessment. Improved data collection and disclosure mechanisms are essential for proper transparency evaluation.",
+  "validated_at": "2026-05-21T14:30:02.204050Z"
+}

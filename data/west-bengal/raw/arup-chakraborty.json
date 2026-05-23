@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Arup Chakraborty",
+    "constituency": "Bankura",
+    "state": "west bengal",
+    "party": "All India Trinamool Congress",
+    "myneta_candidate_id": null,
+    "slug": "arup-chakraborty",
+    "house": "lok_sabha",
+    "sansad_member_id": 5778,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 171911710.0,
+    "liabilities": 65685037.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 106226673.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.440572Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:22:41.626426Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:22:41.623943Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 55.0,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:22:41.622836Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:23:44.440745Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447130Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447156Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447164Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447172Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447181Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447187Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:44.447193Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Trinamool plaint after CAPF jawan ‘seen’ with lotus cutouts - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFVGcExENFBlc3FFcTh6V2M0aU16LTZqcUdCYjJQN0FEY0VjWHBnc0lmZXFPRXYwOEk3VzA5TnV5REpJTVVpcXBicUpjUUlud2hobWwtTlk4V05kcm1BUzZDSm9hUklfbGhOdUQyZEFzUXRGaTlQMnJ1Z3F0R2pvdUlSa3VhaTYzVk5uTm45TTJTXzJvUXY4Yi05R1J0YmdYRXZkRkFRQkZ1MVBfbmZyTWJvcDJocU9MOHBldUQyOUdXSy10R1ZpZFdLb1rSAdIBQVVfeXFMTVNZRGVyR2htZFdZLXBtbGNWUVpNVzVJd2tJSllPMVV4eUZRRnhjUGV3UFh5MXkwVjlvd0pYaUwzV3g4THlSbk5ZbkZEV0lheDZ6dTY2VzBWYTdZdnRHQnluZTFXVl9ELWNmb1MxbFdMZjBpaUpYakVMZ1FTVEE0VzUtM3VYMG5VcW1FRUlTQTl4TEJFVm1SZFR2OE9YdUVRLTJYVVlHelcyMTB3ZmZMMlNUZXZYc09YbHhiUXltWVJ6ZGVadHdHTDJ0cEV1dEUtbXhn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Families allege ‘SIR stress’ behind two heart attack deaths in Bengal - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxvRnM0eEI2MXIySzBXcjd0SHNkdDR0LVgxdVFra3llenFRZ1RKSHpreUdoRGoyYUk1UXphWlhTVXBNaU9ZajBiNTRHR29pUzd3TDQ3Y0NXMGlid3hVcjdCa1RpTTRhaGtaVThYak5SSWVvZko5N2dBa2VNTFltUjd0SGhPcmo0NFAzRW5KV3MwU2Q3cmlxRldRRmxqcEYwQTd0VTZHM3lsbDZMb0pTaC1jeU9jSVJyZnY1NnZqVG5SSmZoZHZfZ2swMmpNYWtqSGNhbl9mUnZ6Z9IB3wFBVV95cUxNMEgtM0diNl9GdDJISGpseTZxOHVOdmx5bEROckE4RXFVc1kyQzhqdHF2a1VWMEF4UUF0c2ZsWS1YWV9PWGZ5Zks0dUlFazMxeTVUcmEtdTV2dk42dlNVdFRQaVBJQXVlanZkMGdBWG9Jd3dvdWZocTgyVHd3NDFxbU1DUHNFbHV2eHl5S1F3SEhWR1BQSlpoZk1UWGh2czVEQWdtZVBoS2k3M0tCQy1CX0ZDWUhEeWlUaElfdkM0TTlfVjhxa2p0MUxkWUNTVUdfek9ZY2Z4MXBKV1A0NkhF?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "If patients die and public anger falls on you, we won't protect you: TMC MP Arup Chakraborty to doctors - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVExlQl9FbFNsQll3dUQtb0tWYVlPZkdtcGxaVG9UcWVCMTJ0UDQ0VXh1SWU2Z1ZCQ0JyQXBEZkF0d2VtY3VLSWVlWW5sVFdwVkozTm5vVWd4LVBIOEpGX2tRWUhwOHg3emVPckwxVlNWbFZQc3VNT3JQMThuYW1XUF9haFdNYzI2a3Boa29sT0pWWC1hSkpfNzZaSlFuRFRCM0s0UTVUWWNPVmh0c2kzajBRQmgyV2U0NTY5aEhhWUVWeUxvRXdDRk42Y21Ld0kwWkVKNFY1UU5kT1Q1TERZMjlmSGhhVDgyZHhVdkZGRllfeV9EWnfSAfsBQVVfeXFMTWlQSEs3SU53cnlIOWdXZ0pSSGMwNGsxRFdiS1hrYm94R24zSWZoVVNwdldWRDNncjFKLTRieFVoS2VhLUlPTGFmc1RPZFJNZHpiaE9NNWhVOFpnMGhTQldnaWt6UXhEMVpNV0piSzNHZENLSWNJYWR4dEJTWHVuQlhCZU1mQ3VDWjN2d1JrN0taOFFPZWxmbXYzX0Z1ZEswRXc5RUxMVWNrVU5NRXdJTXBFM0EwQk5VaEtnLThVS044NDJUNGFuRWJBNEhLR0VMRENwSWh4OWlZc0M5ZzVTYVctNnRYakliV1R6OHNOU2FUZFVHY3VVZzBlRzA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "LS polls: ‘Son of the soil’ is TMC’s ‘bet in Bankura’ - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5wVjhYYkRKU3dJNFo1aml1OG1oc2xQekgxNnB4azlqWGVCbTdlUGl2TDVOcUlwcXQ0ZHFrVkNPVWcyM3pJWHd6eEdKdU9vVTNHblNuS0E2OU9KYUJBa0dERmpDc2YxbHpTY1VyQkh1SVlTRkRxTGkxcjgtUmRSWk9NSG9qdVRWR19FNWxGTzNuU0NlU2fSAZsBQVVfeXFMTjJaRl9RTE9XMlR5YnJWUVZpSkhBcVptYUw0WXhRVTJsR0d3TnVrSktYM0FfdVhKUjE0UDVSX0c0NzdabHhFYk5Vc1d6bHVNZVQtQzZSWXNiMWMxUEZXSzhzdHYteGhjbXhyUUZNakt5TGlIeVlNc01TOC1yVThJV0xRR19DZ3RHaHo3TjJTQ05SOTA1UHBrREVCMDg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parties in Taldangra look for Odia community votes - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTBtYkN2WWxKeXQ1R0Yzckp4ajkwVi1EV3ZzRTJSdkVUaG5vUFhxY3NWSjMtX3JUazNaZ0tNR3g4azhoQ3NHRlNJTlhHbi0xZWk0WVVsRXRJdGdkNEZsalEwTmREaHoxRV9nX1ZIb2E5a0FBNWk5ajNOZUE1N2pzNlQ1VzZvbHJKamRLUzktS2J4d04zNjFoLWstR0pnLW4yNUlzT9IBqgFBVV95cUxOVmdKRW94YlZWYnpQMzZLX3JMaFd6Z0RqaFVtSnlkUkhuOTR5T0dFQjhTUjQ3dlNCYU1hc3lkS0M2WXRvYnB0S0ppRzdrVEJJNWtXS1p2TkR3S2E1Sll0RkZMcDQ1WGdYZVRXUHRBYi11X3VaY19TODdSR18tWDJ1N0pKTVl4TzZ4R0VVenp3blh3cTQ4cWlmUm94WFZrYWR2OXg2S0s2cU9tQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

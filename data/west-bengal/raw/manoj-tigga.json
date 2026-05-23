@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Manoj Tigga",
+    "constituency": "Alipurduars",
+    "state": "west bengal",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "manoj-tigga",
+    "house": "lok_sabha",
+    "sansad_member_id": 5596,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 6,
+    "serious_cases": 0,
+    "pending_cases": 6,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 5751023.0,
+    "liabilities": 1602698.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 4148325.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:30.548367Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:20:22.314489Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:20:27.439831Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 1,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:20:26.574674Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:20:55.325407Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339778Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339795Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339804Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339817Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339825Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339834Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:55.339841Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "\"BJP will win all five seats in Alipurduar again\": Manoj Tigga; candidates flag unemployment, tea workers' issues - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSkYzTGx6aDk5ZUppc09JX2dLUFhCTWlXSEdNZFNmVkswd19sV3FZNy1nMHB2NnN3VzNLeFk1eVhBS2V0MTl0c0d2dTVfNW9nallBVmZsMGpCU2hZLXZYNWdEY1BCOE1MTkpxSE9KOW9DVHRSYzdHRzNtWXRrWG9sTENad3c0OU1veEFtY1NEV2x2WU9vNFhmclFmS013aWgwaHB0a0tGOW1nSF9wMVY4eTUzc0FMekctNWYwSUtsQldhcEpkUW9qT3RBaXhKQ3c5NUdHOVJ1VEtDU2JremkxSThlS0M5NnBWRHB5NjRpVnpsbEMzaEJXSGE5Yw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Socio-economic uplift: BJP MP Manoj Tigga seeks direct transfer of cash to tea workers - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXF2bTRaWHF6eVpFQkFWOTFHV0VsM1FwMnZuNXY2dDF0d0h4ejFyT0lvY3JiYlRzX1BaQmxLai1UXzMtNmtiVS1aWXNzQ2NJU0pRbS15aXVuTTBVcW9EbnRRZ0JLN3NrU2hVNi0yRjR4aFBBbXh4aWJzUmlTbUpFNzJ5dnF1ZXhtSlRJWVBjc1RwRExwRlZnMVZUZl80OEwzVTVnN2VCU0ctOWgtWnpybDVSTXZtbGllZm1YM1c5SU5uYXBaU0JvWkR6RHZPMHQ0V1d5RG5rNzI0anF0OFHSAeMBQVVfeXFMUDlXVXdGeWdZNDlfV1M3OFgtbWpYYzZreVB2bHgzVjNueC1IUEZpVkczbDZncTZQSzc2Z0FqYmpqYlZydEprLWpqRWR0d3RhaWtwWTM2c05wUmxmVjY4eUhvRmw5OE9KeHJjcDFjVF8tNXZadWRYYVVhNDNaVllSdU5IVTdGWEZXV1pTU3pxQ195UTlqOXR6eUx3WE1PeW83RUZzV2ZvQlNLUUE3NE5KeWlvUEg4Q2dJSUtPeTc5ZWFucXI2MGtsMlhiYkYzTTE0SEVGaTA0ZGVIeHNieWE4YXluSTA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Candidates from all parties in Alipurduar's Madarihat Assembly meet tea workers - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcTREdWFXb242VzZMQXN1QllGX3hqcXItQWY0ZGFBRzVNNHdXMU5YQm9kR1hLeFV3TldvQVltbGlQMEJuTy1nLXR1VEZjWE40bWEwaUZTcE5wWUxNcnNKN2F2enNxMWQ4YTMtTWxIblhITzh5WGhyUVNiTWNxMkRQRW9lYURJRzlKd2lpd1RuZUZnOXkwaS1iT3FXcGRZY3lqLUpueldfTnVaeGNKeFZJSkNCMlhzSmlnbkk5WTVHdE1aV0JNQ0s5LXg5YmFrOUpWd1Vpc3dFY2lxMmpQenZ0aTVlc01DWlBYaEdKRXRoLUp1aTg4LUdVZHB1U1NCRlViWWY5RlFUcjkyY3hrN09saVZNTlJXQdIBmwJBVV95cUxPRWdCTnlpZ0UzSEJ2R01IMnBnbElpam15bkN4aWxYaFduZ3dXVl91dFVEbncxenhEV194VmE1bEx4WTNaU2ZqVWFMdnhCWGM3eHQ5QXpoU3U2WXVzQ2dZcUdlYzdKVkk2ZDV3MWhRS00wYmc4WTZ4VW1aaXd6Szk3bDRvSFhoeFlBU0taQ3RlT0dUYUJXVGFMVllLb3dIXzMya2dNWGdYS1hwaFMxNk1aU0xCUThyUHBMVDBDWnJsNUYtdlBJRTFiM1JJbWFTVXZWUFJ6ZmV1VUl2eVpTYWpPMHlpMUkxZEMySTVwS1N6VExQdkRqcVhLRXRQcjVXTlF1OVB3UlZiX1I1Q3ZnMUQ2OS16LVdxYi1fb0hJ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Alipurduar BJP MP Manoj Tigga accused of intimidating BDO: Viral video shows MP pointing finger, slamming t... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTkN4MmFxZG44LU11Nzh1cDZzZ0hvRzBzZDVVYzlUeHpHb19kVFhlVW0zM1ZDTi1DUlNKMUlTQjBiYVJma0UtZWRnbndheWNlUWRJbU9zMXpoUnUzVHc3U3czQTRLSGpmWV9wWjRBOElPNDZ4a296a215TXVmWFhTLTZ6SHNzR3p1ODB0bzd0WVd1VXF3Z3J3d2VNSVZ6TUZOR0VvS0xSeUhNSU8zaFJBUFVDaFg5MFNsSFRrZy1SYUE5TFREQUpveUwtOE80cWxVM2lqeW45dUt5RjBrMWZ0b0xRTC1QRFppelpjbUNOM0xmWGlWUkhwNXZn0gH_AUFVX3lxTFBTZ0NXX3FpVE0yRC1WVTdOdUlHOVhZaW1OMmt0dXJGM25hb2FlZnJxOUhHdzJUMGI5S1BadC1heTFST2tpaFE1d0FlNG5ZamNMSE9HZmNlSVFITUxVTmVoZkNwWEV2cW5ON0VoV1ktaVh5dzM2b2hlUFoyV0lIajFfbkhmNnFQelNkZzRxWlAxY25vWGR4ZmxGRzNWZkluNGNNei1lSGxESEcwRExrd2c0bWVscEtMTG83Q1hrVGFxUklkR0VZamdjWlQ1QnY4MldvNF9ZWlRRTFgySGQtMlVDSGZlZHkyRDQtVGVvY2dVU2xzRnVlSjNlNTBIV2M4cw?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "‘Do your job or carry TMC flag’: Alipurduar BJP MP Manoj Tigga lashes out at Madarihat BDO over flood relief aid, video goes viral - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObVNkYXlaMGtRRVhzUmNjNmJXRXFjT2tiUGstbFBRZk1pQ1lYeEIzN2FhSlhwNEFaVmU0VVFIZ3hwRjcxYXpFS2pnTXlWQ0pyNnp4ZldfU1IwU0lkTmc1bkV3NFBRTEcyN2JkRlFya1plNlg0dkk0cXpPSmhMcmFWcGgyUDVqMzZpYkg5dWxqdmd5Zm9yUUJjZjV5UlVuMENHT2Y0bFFWMkIxY0taOHNuY29oZi1wLXdBU2E0TlowUUtTUlFFOVRpQWxkUHU2RDFMelRHSzYzdVNFMjBhVTFBUGZzV0xkYkhLb3l4QjRxc2JjUjdMcHfSAfwBQVVfeXFMT2t4ZDFzUndaQUpWdXg2a2RmRS1GYjVPTEV6OUtjOW54VW92ZFlTSnpxVkR3SWxoQTY2aDdXTU9vMjhjU1pYS0NTT29yblVuLVFFdGNYM0x3ODdZbXU5M0ljc3Boc2dnV0pGbUNPdzZJSGRjenlHSHJPQXBnSGhvMmpheURnNXBLbkJIMW4tNXFMeGoyS284SzBhaTU3VHZUU2xtZ21NX1hGMFphOUlzdWFPbi1YSHN5bzh0X3UyLW5OU2xRMGtFclhmaFlqeWpnbHVqZ2NCTzBUanNzSDFCWWRMaGJtY2xNNVdDMGVZbG5pVWZ3eVRGM3F0OGgw?oc=5",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

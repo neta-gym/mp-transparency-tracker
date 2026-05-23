@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "B Y Raghavendra",
+    "constituency": "Shimoga",
+    "state": "karnataka",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "b-y-raghavendra",
+    "house": "lok_sabha",
+    "sansad_member_id": 4570,
+    "profile_url": null,
+    "canonical_name": "B Y Raghavendra",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "B Y Raghavendra",
+      "constituency": "Shimoga",
+      "state": "karnataka",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "b-y-raghavendra",
+      "house": "lok_sabha",
+      "sansad_member_id": 4570,
+      "profile_url": null,
+      "canonical_name": "B Y Raghavendra",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.538280Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:30:09.999539Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:30:09.995814Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 80.0,
+      "questions_asked": 21,
+      "debates_participated": 2,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:30:09.994323Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:31:13.538475Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554054Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554072Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554080Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554088Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554096Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554103Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:13.554109Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Efforts on to handover Shivamogga Airport to AAI, says MP B.Y. Raghavendra - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQnAxSFFRRnBWT2N1QWpvd0FiZlNpdVZNcTdxeWl5ZlVZUlNKRGxabm5zM0ZCOVEzb19BMEFoSWFEbWhOWU55ZW9qaklnT3ZFTW52TTVJUVhaS1A3SjhnMHdsWkhFRWdROV9rcVhPcHJ2S1JEdjlFWmlabnVraDBPalpfSk1uMXIweTA2cGFJU1lTZjN1ampxN29TeHhGblhham55amF0WGxfNEVKdXg1ZGlyVkpWdlhBazlwb0hoZEFmSC1Mdjk5T3lEbXdvb0V1QW0tVldCONIB3gFBVV95cUxOYXhxZlhLc01XeEpsbTN0VG8weEt1Y3lGZDBDMlRLUVRGTTBNLVJyVmt4X2phczE1Z29qMENLaWlya1JjY1dvVU1FeDR5NXVTc0hSNXBEenhaalhuMEM5QXRyUGlHblBaS3VSSlNULXJDc0dUM2xlLXJFZ3hYUzZwM2Y2OFdlc0E1cDBQbnZMYUlEc0xpRzBmaFNaRmpHNHFFRFNNZk5tbTU5bTRMREE4UDFnTHJYVHhfdklmUVhOd0xKU2xtTkZXRWZzYTBIZzZqZWJydS04N2ZDMEs0Z0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "No proposal for nuclear power plant in Shivamogga's Besuru: MP B Y Raghavendra - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTlSSFdoSVFlajk4dnJGc2pRV2V1RWVURDlucWpid1E5d3dLbXlYX3YydzFEVHNzV25qSVBFelpZbjVHa3JIV29NRG1vbE13VGxpbnYwOUlDenBOcVZGaER0YjY2czc4cWxVOUx3TU91TnM1ZlhGQWhKeUc2bFBIbnh6OWw1Z3BDdWZ5NHNTZ1I4eHEtbktiZ3BBVEFCQldpaDZEMElhYUI3LXMxaGotSnJmQ2R2S08xRWlrZnFtaWZFd28yTG82VQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivamogga MP urges people not to panic over nuclear power plant, says no such proposal - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkdGazRZdGkzdEZacm5jTVpzVHBZaWtZRHlWc2lIZUxEU0ppNzVaQU9TLXN2U0lOR1ljSWN0UnN1ZlB3WGg4M2dPaHdVa2RCV0xya1BWNi1SUnZkeVJYeko4MFViYTN4NnNTQ2xBSllCVF9aaEhsb2o0V3pweGNxLTdDLUtzbG9aTnh1OUVvX3hnaml5NFFlWUFhdWRuWmotdWVRTFZadEt1SlZud2RUNWtWMHFVYWpSTktWMm9qbXJ3X2Z6bUVSZUhRLXcyRmNxSGtxX0pnVEdvQ0IwemU0QzNFTm5mNUlfUkY00gHyAUFVX3lxTE9lRlJLTlhMamYyRzhaaHZqbUViSHhvdjlVOTIzM0o3d21tT1dqeXRxUk1mTGV2LXR3R25aWkJ6RjY4YlJncDF5Q09zb2FMVFpXT2l3N3ZkU1NRSzRPSjc0bTZxUzZVRWJSVFdQWEp0WWtVQzdJRmtKU0h3dWtqYUlJRE1XMmtEUkg2bmI1YVJuN280U1J3cEFqX2lLQmlLamc1cnNkVTdtMVdXLUVpU1BxY1NFQS1wb00yeF9UTFRDYU9zaUhuUFJER3VRenhzTU13R1Y2ZUJwSDNSaG9EUmFnSS1EV210M3NCM2QzdW93T01n?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Centre sanctions funds for primary surveys of new railway lines: BY Raghavendra - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1JSEFLQmZyTHhLLTlCZXNzMWVFQ19GQk1nUGR0bDhkdUtkWi0wMVlkcVhlb3ZwYzFEVlhTUmJPcTVQOFBRck9sRkxPTUQyNm1YWVF5TWFIWVdwWWtTVEJhNkhtMldsb2Fpc2ZCSnNkaGRDT3l4OTlPQnhjeWVnTmVrUld2czZfZnhHS2wtanZQNzBuc3Exb1A5OWJLVkJPZXNJNTREZzhJRGp0WDQ4Ny01c2I4NmVVQmlBUlFRVDRCTDZfeUxfZFZGVEUyUERDUUVmZGF6UkxJenpJN1NhSExQVTVZUzTSAewBQVVfeXFMT203NTZmNEZhdFlIc053b0FxcmJoR2tvcjVTbTl2a0h2V0puc2x2c0I1SWhkcGZOTlF1Wk9PTmtXSHMyYjVVREF0R3oyMHRqemZmT2otalF5UVhha1k3R2FsbFBreG9MVXRjdWR6cUdkVlRJaEtwSHp5UmpYazZJd1NTbUw4cGZBOENZcEQwbklfV3FVbWpYMENrdTZYZTNpQjRvTDFMQ01GSnl0TEREV0hxZ0hsZENLQ014LU1tSXh5b0xXRjFoSFJPZGNqQjdjQTBIdTJmNnZFQ00tZTdTazNMOTVhNkwzbmxOb3Y?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivamogga MP holds meeting with officers on road, railway works - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0pVd3V1MGhfOUZ2UmlkcE5HUDBSa0ZGTkRzbkFtREdTVkVwbnVNY2Q3VVctbDlQcnlEY2hGMFo3enpMbU1NUUdMMHFvR3YzaUZNQlNMeUw4bFBROFJwZVJEaklwS2tYTTJ0aHlDS0M0VkYzMjBmLVkybkZZVE9vVGhyQTN6ektfenEzeC1KaFQ1THZFV3VMNG1Pd3BaX0lEWkN4WVg1MkdsQWlIVUtMQjlpM1pOanJBTDgtRndUdDhrWmNEVndUVnNaUmPSAdMBQVVfeXFMTXBtanV0NnZoNHdCemxSZTFZMmxHemFyWHFRS2dpYUphOE5XTlItbTlmNUNEUHA5elRSLTI3ei1iTnQzdmcwUjhDbFBsQl9JRDBXZDQ4SXdBRl9uR3VOeV84YXYzVkRNcTNSYzY0MWYyVDJYVldwX2Y2QlFPejFNYkQtZGwza3pIbFhGNTdrUHo3b0pVN0pJMVF5RGVjSnhaTnBvN3RUVFNsT0NiN0NGTFNzRVduVGVVd3BUeGNoU25USFFleU5VcF9NUkVrbk1Wcm0yWQ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Karnataka: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: B Y Raghavendra\n\n### Overall Assessment\nB Y Raghavendra, BJP MP from Shimoga, Karnataka, presents a limited transparency profile with significant data gaps across most assessment categories. While maintaining clean criminal records and decent parliamentary attendance (80%), the absence of critical financial and developmental data severely constrains comprehensive evaluation of his performance as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given the ₹5 crore annual MPLADS allocation per MP. The absence of utilization metrics prevents assessment of developmental impact in Shimoga constituency.\n\nKarnataka faces systemic MPLADS implementation challenges highlighted in CAG audits, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, raising concerns about effective fund deployment at the state level.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no current or previous asset valuations available. This prevents analysis of wealth accumulation patterns or potential conflicts of interest. The MP receives standard parliamentary compensation of ₹2.45 lakh monthly, but without asset declarations, comprehensive financial transparency assessment is impossible.\n\n### Legal & Criminal Standing\nRaghavendra maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 80% attendance rate, indicating reasonable participation in House proceedings. Legislative activity remains limited with 21 questions raised, 2 debate participations, and no private member bills introduced. No committee assignment data is available, limiting assessment of specialized parliamentary contributions.\n\nThe evidence grade for parliamentary performance is rated 'C', suggesting moderate reliability but potential data gaps in comprehensive activity tracking.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely constrained by data limitations. News coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited media visibility or public discourse engagement. Social media presence and constituent accessibility metrics are not available.\n\nAccessibility evidence grade is rated 'D', indicating poor data availability for meaningful assessment of public engagement effectiveness.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues:\n- Criminal record data has low source confidence\n- Asset information is entirely missing with low confidence ratings\n- MPLADS data is unavailable despite being critical for MP performance assessment\n- Committee participation data is missing due to potential Sansad profile unavailability\n- Legislative effectiveness assessment has low confidence levels\n\nEvidence grades range from 'C' for parliamentary data to 'D' for accessibility metrics, indicating substantial data quality concerns across assessment categories.\n\n### Key Takeaway\nB Y Raghavendra's transparency profile is characterized by clean criminal records and adequate parliamentary attendance but is severely undermined by missing critical financial and developmental data. The absence of asset disclosures and MPLADS utilization information prevents meaningful assessment of fiscal responsibility and constituency development impact. While maintaining basic parliamentary participation, the lack of comprehensive transparency data raises concerns about accountability standards and public access to performance metrics. Enhanced data collection and disclosure mechanisms are essential for enabling informed citizen evaluation of his representation effectiveness in Shimoga constituency.",
+  "validated_at": "2026-05-21T14:31:35.174751Z"
+}

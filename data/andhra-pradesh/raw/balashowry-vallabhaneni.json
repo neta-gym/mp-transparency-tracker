@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Balashowry Vallabhaneni",
+    "constituency": "Machilipatnam",
+    "state": "andhra pradesh",
+    "party": "Janasena Party",
+    "myneta_candidate_id": null,
+    "slug": "balashowry-vallabhaneni",
+    "house": "lok_sabha",
+    "sansad_member_id": 4021,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "pending_cases": 2,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 1337214564.0,
+    "liabilities": 870602917.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 466611647.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.174351Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:25:46.863570Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:25:46.861743Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 40.0,
+    "questions_asked": 43,
+    "debates_participated": 9,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:25:46.861026Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:26:52.174529Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189238Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189255Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189266Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189274Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189282Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189289Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:52.189295Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Machilipatnam-Repalle railway project enters new phase with completion of DPR - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUw5eFpfazdiVkdzWHBsME81M3dKcWlfM1d2OEh6YkxLR2o3TURLNjVRS1pNVm9pNzNGT2w5SnZwREp0Z2EwVkZCY0VxVWNkSzVXSVZnUThHLWJnc3Ytak9vTF85aFJwSXFuTmVHSFM2N05WS19jWGVWaDVHVXdsUTdvQXpQTkV1ZHZWMndmOU5LN2FpSlFzclBvQVI4MUFVb0pjdVUzQW9peFJQbWtMNVIyUHBPVTlCUlZNYXhFNUxYRHlpQU04a0Y2SDBmTzlyc3lxLXdXWdIB5AFBVV95cUxNck5TcXphTGNOSHVMVUU5aV9kN3VQQkt0RnBjdG1tTWt5V2ptNUpJWjlXamswd0RrUV9LVGhjT1ZUVmVRWFV4WVhaQXN3Wjk2bjFVdTYzSU1wNHJDWldiTGlfOWRpTWgyRkhLMlVhNHVaVVFTYmZEakNDZTRERmhBNjV2U214YTZ0dHA4cTd2YjZ0dXl1NDRBSnNfUTQxVGtGMUxJcFNObGlCWDVWWE1rLVQzSUNIQTdjWVQ5WGg5c01VVzJoMmo2bTFXX0M1TWdGb2FaRU5Za0w5eDZJUUVSVzZnek4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2-time MP locked in tough fight with 1st timer in Machilipatnam - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNG5xWnFPYUFzVDhRSGdsR1pobGJNbFVUQk9Nb2dFX0dPNDZGTmMxMnVJc0dvQm15SlNjNkQ3TzlwUUdKclNLSXJYeWdGd0V3WmNsTlQ0Y3BUQWZ6QlZBUVFRc2xkOFBNN3hvSGJ0cjdxT1d1WTBKUmRpQ0Y5SURrdG5ueGNHS1lWQmwxV3VaeWVSd0p4WDcwWVpjdTgxYXdOZElTb1lQdzJEZVNTWHg3bHozWHgwbFdvdXhqU1VGU1JTaTZUVmhsVFNmcXBranllSFNnT19OdHbSAd4BQVVfeXFMTzFpOUVRQmo2Qm96Q2lyRXhIVUhYZDFnVE1uZHhHTFVKeFU5V3AxY1NiejIySlRQcHY1WG5FajN1c0lxUXZRLUd5UC1yOGxMcXBYSi1RR1BvbHNVeTFDU3FFdmtoUjJ6UkZ2MEVtUGRKNDBQNmppQVJZakFLRl9XR1RwTlNEYktGZkU3QkRZVzZkbkRYNVNjZ25wWF9CMXdqS0Jua3djTS1kNzRuMGV2dWtBWFlzcHo4Y2RTb1FXWE1NQ1UyeTJwR1FSMjdQcnFlVno4Y29uZXpFZkg3SndR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Andhra govt giving undue benefits to some companies, passing cost to people: MP Balashowry Vallabhaneni - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXZ4eDAxbGZHZmh6MGJxaHcxbVFQUlBVaDZXTV9yYU54WG54VzdrOFNLbF9ad09TeXJoRFlSZlFqZ0lKeWE1SGhadE01a2ljS0N2Y0lCbGYxQ2hBeFF5QkpUQU1sbEhyQVE0VUZPbjhrVHJBa1dSanptOWhfdVY5MGd4UkRJM0w0clJTTnoyd1NOWDZrWHQxLXg3OG5wQldxWlRwZUs1YXltT1Q3OEVwRkVhMmhUdDkxT2FKcVBEc2l2dVR2YzQzRk1uWHYxRDF5N29nYnpXM3FaQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Andhra: Machilipatnam MP quits YSRCP, second MP to resign in less than a week - The News Minute",
+        "source": "The News Minute",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDlFRUUyS1UzS014d0xDNUptMGNmMWZBR3VpWHhRTUVTWlVGSU9nblZhMF9PS3JTX1VVNktzMmpwNGkwY0F0OFVQTnBCSlhzT0lWai1tMVNvbXZweHIwdGd1cllVMDJEWGx2TzlSUl9UbGdpc3lETHVVMXdJcUlCSEJRYm1CUHJTc3ZIVGpYTlRGc3J5SmlmV1B4aUJ4RmVhRzBxck54eVQybklkOThsY1VjNFl4V1F5aEE2Y9IBygFBVV95cUxOc2xYcklHNjBkbWtYdThZZWNnajZjdTNjZGRDWTNfVDBoNkdwUm5BR0hJLTlXemZISGIzakF2LXQzUkdtNkhvOGZ1dHdFLTNsM0RMQ2pfMml4eV90U19yUG1hOGtjWmh4OWdjaThqa1d2RlhxblQxT3E2dVN1Tmt5dTFNOElTWVMxNFpQNmZHcXFOZ1IzaXUzRkpEZG1RWk1pWXl2eTI5dS1BNXN4bngwcEdsOVliR3FDOHlvTGdzZXlldk9USWQySDd3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Political Profile of Balashowry Vallabhaneni, Janasena Party Party, Machilipatnam, and Net Worth - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc3Fhc2k2NHZiaEZyamJNdXdQOEhSdVNiZHh0dWQ0RlNzbi0wZEhoaXVuY2Q5cG9pd0tEaURmRzM4bS02aWU2NHNGT3k3Tk50Y1hpVmVMU3hhQ3hFaFVqeXRNLXdaT0hVb2hNbXV1UHNIRjNXVnRpc1VuT0JvZTNxTmVVQWthZ0NZV3U5aGhmbmdQbXNmQ3h6U2VRS3FVdEVFcEljQ0xoa1Vmd0VFY0pJLUlTT2c0eWQtVFZwUm9mX2hKa3ZpcVBGeEt1R3V5Unl0STZwSmpqUjI0andsUENRWk4zd1puOUFPQ29ZMjYtZldFSjVKRFE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

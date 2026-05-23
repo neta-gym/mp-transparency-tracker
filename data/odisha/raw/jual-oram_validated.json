@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Jual Oram",
+    "constituency": "Sundargarh",
+    "state": "odisha",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "jual-oram",
+    "house": "lok_sabha",
+    "sansad_member_id": 279,
+    "profile_url": null,
+    "canonical_name": "Jual Oram",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Jual Oram",
+      "constituency": "Sundargarh",
+      "state": "odisha",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "jual-oram",
+      "house": "lok_sabha",
+      "sansad_member_id": 279,
+      "profile_url": null,
+      "canonical_name": "Jual Oram",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.016230Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:22:46.701952Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:22:46.699156Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:22:46.698054Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:23:51.016374Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031066Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031089Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031097Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031104Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031115Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031122Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:23:51.031128Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "President Droupadi Murmu to visit Rourkela on April 21: Union Minister Jual Oram - Kalinga TV",
+          "source": "Kalinga TV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcW9teVVxdG5wcUJuNlRrZUtlSzVwd1hjNXQzUUxjX0lBSURwNFlocm5DZ0pXR0lUOUVQb0JKZXBaZ3VucFllV3IzWkF2cDJHOTNrbTItMlJ2SWt2YkdldVZCOW03bWoxWFRuT1BFaW9CSDVOZzdsS1NsLWxxai14Nks1MzRVY19KSlU5TU9KY2lyM0pGazYwa19ucHQzZDZQWXkzc2t5bFhrVHFsbEE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Odisha: Droupadi Murmu Likely to Visit Rourkela on April 21 - Deccan Chronicle",
+          "source": "Deccan Chronicle",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3U5dnpKQTA5Z2lTQkJwa25WOEpNN1lVTDE1ckRlSUhWRGhPeTFzOEFxM3ZJNnEwUTVEOEN3OHVnWUU3aUdoWko1RXV2dkt5SEM2dy1uWmh5UTlXbkI3VFk2TksyOW1HdEpxWlYyYWh4bXRLaE1Uclh5Q0FpcmNuSzk0eHlSenBjY3JldjgxZUNYdEpvOS1Sc2hydVIyMGRwc2FJbnZ0NmhZd9IBrwFBVV95cUxNMmxuM0NSTUtyVWJ0S1BabEt2TmpuVDVTRkR1U0d1NHA2bnMzUnJTNmZWd2x5MFJLUWZaVXd2c2VVLXEyM01wdUxwSzBRY1RJbUhsalM1QlFSUXMzV1BNZHYwbDRlT0pyWkNwVkhMblNHTnZtR0MtRXkxQldQZjZLSGhtLTRJSjY0SEVQYnlmRjhUV0E4eFpLWmJISlZOOUFZMHNSdFd6Tmxtb1pBMk9J?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Union Minister Oram writes to Mandaviya, wants ESIC MCH in Rourkela - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHBOYTBpMGc2bHZQajFNS0VZTTY5dXFkWmxJdDFWNW5jd3lLSEFtX09BQzhwNy1Da1FKVERVWTR4UDVMQzNPVkRra1hicXpzc2QtcnoydkxBSXRBVDRfNU9DYzc2Sm55TmZUWmtzUUlvV0MzR2V0Mmd5X0dnaTh4RmxxSWtkbFhvNTNOVlRkUTRpV2kwZS1KM090ellwNVlTZjBubVhnejhOelJPZkVCcXlYYVZWMHVHUVk0bXVsMVlwZUHSAdABQVVfeXFMTnMxMWtQN3VObFRLLTdtTDRlOHBYaWROYVFNbmc1Sl9GZUtLdllSeG0yT2laV3NVUmJ6SC12UTdsYXRaM2lOUFY1aU9uUmdSOXhGZFByZWc2NnZKQk5Zd0puT0ZWZ3JzMkFBV2w0NzhPZUMxamU1OXAweU9jRVowUXVVM1ozdGF4TzhpZk1DbWdBd0pRVktBeUhReTJnb09mel9UOXBLeFYySG9IN2dJYlZ4emFZX212a3NLSjBteXBnWWJJNkhaaVp4MG5wZVhLTA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Union Minister Jual Oram Unveils Atal Bihari Vajpayee Statue in Rourkela - pragativadi.com",
+          "source": "pragativadi.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTh0LWxaa09DZHNjZl9tS3p0YWJCVWd6REU0N0Q1QV82REVBUER0N2ZNUUt0dlRmbWxqUEJ4SW1lSDN1UGJVN0VWb2dPSlRpVENXOGZ4Z1RvRmpvQnhzZGEwVEZVYXpqalIyYllXbzFrNEptOE9ZV1ZvVzFxWVREOW1sUUtJel9pdWZ4Tll6LXBpSUYyc1MxV1NIYi1Gdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Tribal leaders Jual Oram's journey: From humble roots to championing tribal causes - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm1nR055UzI2VEk2bllDUUdRem0xcUJiUjVOY3pwTFFoV1E4RXBYUmh3SHZTVTZuckt2d1FVMXo3ckg1cDdmenMzMERId1ZqZkdOR2lJalZkSzNPNldJQ3VQVkZZQl9vQnhxOXRldGpHeGFRQzVxMjB1cUxndEJRZ2dLWWhLT0wwcTZlMjQ3bUluMWQ4cnBTcjJHQXVKbVA5TmZhLV9pTTUtSEpRQmxuLVplZW84MHFRYTJFenUyeUVmWExZdzlV0gHMAUFVX3lxTFBIQ1VFOGpPeG9tUDJRNl8tdXFPRDRKVU1WaFZJd3I1TmJMa2ZjdzFEaXE2NzVvZ3h5Y0c2LXJ2MlRGWUo5V3hDRUhfLXFTbnRfdkdRSVppTUNXQ0lfWU9XNzlNaFVRTk42dEVtUEhOeGhPSkhLWDZNT2RXU0dnbGRURTc1c0RFU0Zhb0s5WDFsRHNCUlJRVmh3Q0RCUzR1MGdhSnRPajdaR1pJek5RZWo3ZkV5b1VmV2tGODRabkpnUzFoVlZ4X3E5eUNkdg?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Odisha: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Jual Oram\n\n### Overall Assessment\n\nJual Oram, BJP MP from Sundargarh constituency in Odisha, presents a transparency profile with significant data gaps across multiple key areas. While maintaining a clean criminal record, the lack of available data on critical metrics including assets, MPLADS utilization, and parliamentary performance severely limits assessment of his effectiveness as a public representative. The evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate substantial transparency challenges.\n\n### Fund Utilization & Development\n\nMPLADS data for Jual Oram is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This absence of data prevents evaluation of his development work in Sundargarh constituency. However, CAG audit findings from 2010 reveal systemic issues in Odisha's fund management: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works remaining abandoned or incomplete. These state-level findings suggest potential challenges in development fund management that may affect constituency-level implementation.\n\n### Financial Transparency\n\nAsset disclosure data is completely missing, with no information available on current or previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is mandatory for MPs under election commission guidelines. The only available financial data is the standard monthly compensation of Rs 2,45,000. Without asset information, it's impossible to assess financial transparency or identify potential conflicts of interest.\n\n### Legal & Criminal Standing\n\nJual Oram maintains a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, this data carries a low confidence warning due to potential source unavailability, suggesting the information may not be comprehensive or current.\n\n### Parliamentary Performance\n\nParliamentary activity data is largely unavailable, showing 0% attendance (though noted that ministerial duties may affect attendance), zero questions raised, zero debates participated in, and zero private bills introduced. The MP's ministerial status may partially explain lower attendance figures, as executive responsibilities often conflict with parliamentary presence. However, the complete absence of question-raising or debate participation raises concerns about legislative engagement.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited public visibility or engagement. The 'D' grade for accessibility suggests poor responsiveness to constituent needs or media engagement. No social media activity data is available, limiting assessment of digital outreach efforts.\n\n### Data Quality & Caveats\n\nMultiple automated warnings indicate severe data quality issues:\n- Low confidence warnings for criminal records, assets, MPLADS, and parliamentary activity\n- No committee membership data found, suggesting Sansad profile unavailability\n- Evidence grades of 'C' for parliament and 'D' for accessibility reflect poor data availability\n- Sources limited to PRS, social media, and news outlets\n\nThese data gaps significantly compromise the reliability of this transparency assessment and suggest either poor record-keeping or limited public disclosure practices.\n\n### Key Takeaway\n\nJual Oram's transparency profile is characterized by extensive data unavailability across critical metrics, making meaningful assessment of his performance as an MP extremely difficult. While maintaining a clean criminal record, the absence of asset declarations, MPLADS utilization data, and detailed parliamentary activity records represents a significant transparency deficit. The neutral media coverage and poor accessibility grade suggest limited public engagement. Voters in Sundargarh constituency lack essential information needed to evaluate their representative's effectiveness, highlighting the urgent need for improved data disclosure and transparency practices.",
+  "validated_at": "2026-05-21T14:24:10.552906Z"
+}

@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Zia Ur Rehman",
+    "constituency": "Sambhal",
+    "state": "uttar pradesh",
+    "party": "Samajwadi Party",
+    "myneta_candidate_id": null,
+    "slug": "zia-ur-rehman",
+    "house": "lok_sabha",
+    "sansad_member_id": 5822,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 6,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 6,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 18967476.0,
+    "liabilities": 0.0,
+    "net_worth": 18967476.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 5.8,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:10:14.944266Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:10:10.593066Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:10:10.590294Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 16,
+    "debates_participated": 9,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:10:10.589209Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:10:30.911489Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564885Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564890Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564894Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564897Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564900Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564903Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564905Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.564908Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "'Fear Of False Cases': SP MP Zia Ur Rahman Barq Expresses Fear Over BJP’s Bengal Win - ABP News",
+        "source": "ABP News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJSUmVpOUNraEhqYWs3cXRlb2gySm9wZExpbkp6RF9SUmEyUG1UWjM3US1yellOT3JhT3JFS0M4WDg0dkpzU1A0UTYzUUpTb0pnSGgzZmNPMkRtQk5aeFMtMGY4T0QzREJYdVlZOFExbGFpYmR3aDRMbnVvOFgxbElLbjcwcnppVWpvYzJhby05aTVVeEYzNGJHSW1mR0FkX3pZRFNUWnFGOURGdm1tMXgwODVhU3Z60gG-AUFVX3lxTFBHN01iNmZqVEtCWEJaX2J4V25EcmswMHRWZFNQTURSeDl3cTQ1cUxYQzZPb2MtOE9STFIzMDZ3eXVqRmVYNE1sMWVvTkpucjdPOEV3cGhQRTBJdUg0RkN2bmFoRFpmc0p6SmZzaWsxMTRxSTlzYUFDZi1EMS0tWUZuX1BmQU9ROGtSS2VVUk0zNXJDc0YybHpFRDA4YVpQcGNJYmdiNVdOc044RUFxc0pweHRlMjNZT3BjZ3otUUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Yogi Govt Turning Sambhal ‘into a New Ayodhya’: Samajwadi MP Barq’s Father - Clarion India",
+        "source": "Clarion India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0hpZVVEcU9qUmNNOVJ5STcwUlNvU1hURXNJSnVsRnh3WDhvd29tUGJjUG93NjZRU2ptcnZSeG1tN3lKeWpvcGhDejFIeU1Cc0cxQlVQdDBIYkNwVlNmdDVjR0FmWGJRMWJFWUZLQ1cyRTFKUDNGeEYzR2NQVW10UzI0emVrSUZlMDhhbFJuUmM5VGhyekRrQ0p6bWo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "FIR against SP's Sambhal MP Ziaur Rehman Barq for power theft - Dailyhunt",
+        "source": "Dailyhunt",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDVuaGtqTVFZSmhHRjlUNVNJLXRERzBqWUNwVklvTkhuT2RmVFZUSnpYSFNyRDg0d2JNNTNjRVl0b1lJVzZhME5PRnhlbEpfRXdOay1BOGNfeGVaeUJ3V2U2eFlPQWJwSkNxVHNJM1dDdk54T1p5V1hwSWlBaTZvMlR6amtQSWZoWkw0bFcxM1hWbjBXckFMWVh0V3lQX190aV9ZYjdvaWVLaEtSZjhaQV9kczN4Vm1WVElaTzF4UWpoTlZjWGRXb3o1aDItNnVOdDJWM0ZkRU9pSkNOOHJ5TDN3?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Police post built with stones thrown at cops during Sambhal clash opens - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGdta2hQelNKSEhseTEwa1lCVUlZRHZhM1ZxZURqbHc5UGNtei0wUmt2ZERLNG5RNXFsQTh4QzBJYmQ3MmM3eDhxbzFTcVBrWUZ0SGd5WGhsTmUzOEoxN3JfeUZKZzctdnFyT1o2Q21CLVZZalFwUktwdHhRVWdmUVV3RWpMRVJWbWlYV1k2WFVoLVJZd2ZqMGEwQ0o1aXBxTlF0dzBrX1RjQWNVc0JDV1h6OXNPTlVzeERMYzZyUEjSAc4BQVVfeXFMTTluamE3VWttRXg3aHY1Nm1iX00wU09pY2JaVk1wRGFSTFpuZjVWTjFvYzNXTnF3V0dSazNISGw1UW8xRUdNZlNtNXF2LWxiSEdGaHF1ZTZRZGZmcnhOZ0J3SkhtLTdqa3ExUFRBSEpHWHBVcnV2U1pCR21udW1xZkNMbzB0RGJ2Q0FNaktyUjVIMmV4LXFDWHA1N3puc1JxYlVZRkJKaFExdG9ycmhiWWt1c3JnVnlCcElfN0U3SDdjVWhqNzg5TGxDclhTOHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sambhal violence case: Allahabad HC grants interim relief to SP MP Zia Ur Rehman Barq; seeks state reply - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOFRobmtxTzRFbWhnaUtRWDlXSWdKbHVmblJrR01WS2tJWEh4ckVpVlFMMjdTbUV2VS1NU1dHZDZoOFRBeDQxY0hNSzRtMFQ1bjFZUDVOTk0tZVVQc3E5Skx4UlJRUTVURUdqOUU1cUpRMWJfbzZ4WGlxZ2xuQlA5ZmtDR1dxZE43NmRocE50SlNVdW5ycl9KajAyelNfdVZ6YlNQN2k1bUtnbF8yRVQ1MzdCeEhrS2dXTjAyNlJ3QV9SSGhNeDZGUFNkOFRPeVpEWng5X1duendseUpJYW51R1o2SFRucUx1c3lYY3doWFNSclU1NEhlVnJ4U1ZJa1NVVE5nQWtCd3NKVFRueE5ObGEtLWVzMUtJbXRrRlVWUdIBpAJBVV95cUxOczhKZmlpMmNvYWo4M3EzX0t0X2tzZFpPNjk1d3JjUk9uOGFYcGszcXZ4T0tONUR2UFFqWWRzN1g2d1dyNERjNnZ6WFNSQUpFZmJTWW5fOG1ORDg4b1E4b1VVb3owWWdGUlVoNG41N1pLVEdBbnNXWTd5azhEaHZWU21lTjhJdW8tSU5Bcldxdmd0UTI0RFlNWkJxQzdJS1Q3alJMSE9lSTlsei1CNEphM1pmc0hFcDdtZFpOaHBadzk3alg3N3ZIdUZsQU5NMm1sdFhkRWVETmdZRlFkbTgtVlpZbVI5ZlVYQS0xTGV6ZVVxU3VuaVRMdUFzUERjVmxJOVdiRzYyS0FVMnYtTlFONGlGRXNFVHRIb0NIanRoa3NPN3l5?oc=5",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

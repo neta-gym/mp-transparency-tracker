@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Bharatbhai Manubhai Sutariya",
+    "constituency": "Amreli",
+    "state": "gujarat",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "bharatbhai-manubhai-sutariya",
+    "house": "lok_sabha",
+    "sansad_member_id": 5616,
+    "profile_url": null,
+    "canonical_name": "Bharatbhai Manubhai Sutariya",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 8378748.0,
+    "liabilities": 0.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 8378748.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.129368Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:29:58.039035Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:29:58.036273Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:29:58.035200Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:30:59.129459Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143592Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143604Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143614Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143620Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143627Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143631Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:30:59.143636Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 6,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 6,
+    "top_headlines": [
+      {
+        "headline": "Amreli Lok Sabha Constituency: BJP’s Bharatbhai Manubhai Sutariya to go against Congress’ Jenny Thummar - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGdxek9RT1ktUFhoZjVWSzZKcFFLeEEwazlnaTRMNll6SWZzZTlpVURsVDl4bTVvWTR2WWt0cDhGaFNqMnEyRWs4UThfV3p3Qy1keVhKR0lrLWlyWS0wck5sM3FScUZBUURWaHhIZDI4d0NlTTVtMkZwLU1sLTJTOXh3eFNSVGhKUzd2Z3pNUVFQWWppSjRIUnNIR2NPcTEyYU9OZmVJS3RrdXV4U3VrMGJYNUxleXdDQkRQaXItVUhOeWpUdDVkaE54eTVBenpvQTd5ZkV3bktOemFmQVHSAeQBQVVfeXFMUHdTZklROHVvMGVyYlMyYy1tRkRlTFpaZEEzQ3BTcXo5MTBIb2NaaEZxaWFkR2hIdDI0REV1TE04ZnJNQUNBUzNfd05ETlo4eTBza2FEOGc3RWd2Q0xuTnNSUVQwU3FTZ2p0OTNxb0VTa29STE9kSnE5dU8zbFZ2Q2dOOGJLMHhQdjBTTWFYQ1lxYy1kYktKcVpGdWMydXozZFNuY0NVQnFfQ3pIcDkxamR5aGdvVEh0WHJmc3hxTHhpcWhfZDNFY0NJaEFFWXk4ZVJnRW0xTmpqUGVBaDBsLUItWmhq?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Amreli Election Result 2024 LIVE Updates Highlights: Bharatbhai Manubhai Sutariya of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXRVT1l1aFVieGVXaXRsZWk1WGtnQjZiSndzMFBqYjBNWW9rVTgxU1hCVzI2YjAtb0xlNFBSTjFiQjdsNXFCRHlqMjczLVFUcjhPdWI3UUNCOFdrREpVMzJxQUp1OEpRYzRodF9vU0NxYUZpRVF6QmZKcDJYcXZtdU9mY2ZMTTU2X3NYTFRFd2tvZ1AzNFNjdkpWbTZ5TkFjUmxpWnZwR3pZVHF0MEZDc2psTjZabUthelpyUTItR2dCS1NPVWNidG0tX1ZxRGxPTlpMRW92Zk96RGx6N1IzNdIB5gFBVV95cUxNT0NRTlpCYmJidXJMZmM1NVVfZkswWUloRUtGLWZpNVFFUkxpQkd1MVlYQ3hkdmttX1ZwRzhOelJkbV94T085cElWTEFrTXVQWUl3VkVsNlFYTGt3YUZLYWx4SjVuSnRkb1dVbEs1eGJQT1pqbjRSMjFoTHM0TVNrNGxZTlkzN1ZTQnNqV1dvaHB0MFEzNHBjRW1nNGZ1blZrRW54NnA4N1Zqa2Y0U2tmcTg5VU5tSWhTcGxIN19sZTQxUUZsX2lqOTlZLXNjY0J3dmJwY2o0eFE3cWVxMnFicGhpRnpBZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha Election Winner List 2024: Here is the full list of all 543 BJP, Congress, SP, TMC and other vic - The Economic Times",
+        "source": "The Economic Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPQ0d6YWdPQ2Vyd0Y0MkdVT01BakxXTmhnc3pVRFBNN0JzbDFGdHM5YzNsXzRTNTRja19MUGVrMGNvdHhRLTJnN3Y3S0FIZWtBWU9BSzFGTHNGMlNrVXY3WUFyNEkzMVE4OUNyMzZkWUs2MUh5OURpTU1JMXpGVmNiOWYzeXhvWWs1RDg3WkpfVktxeXgwVVRSdWd4a3VoMmpJT2dTbGhjYmZPUFY4NHNjMXJRT1JSeGh2aGNTM0t0SzhTb3VWVkpGc2NoTWw0SmFxVFphS3p3WmJFc1BsUzVseFFJLTFOU1lWMzYwajFwaVA5YTBpaDl4RmNxdWx4RG9XUUJCS0lvMTh5NUxNaTc5aExMODFkVFBuSG9hbTJYZENjUmN0X1ZFc2R5SlZ1Q0500gG2AkFVX3lxTE1lQW1FbF9wZkR1aHc0WVR5U3pyTFFFVHNaRUdKRy1VLS1PSGZFbWNGTEw1bzVQbjJGbzA3amJ2YVRBX192SHpVcE5FeXRVWnh1YmFGS3J3akZ3c0VSQWdFakJ2TnNXTG16Q0gwOEQ0cDZpa3Y0MUtNcm5oc3I1MFFXWEpZU1ZnWlVYMDZaM0Y2T2loSGhKTnV3UGFLTDJxX0dNZHYxNzZqUjFsTkZpS216YmgxeWNPQU9BQzVXSTZFOC1CY1Q2aE5JTEVVUTBHWHYzZ3ktSnhxQ1JjUzVITGtwMFR0QzVBQnljWF9yd3NJdkpQYjBFa2ZrWWVuY3RGQUM5aFFROWQxWnZUa0FKWFRwU08tLXdOOVpzLU95SU5GenFOUmZWTVhTY2xwbmpvQjhDaXhkSVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nepal General Election - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUdJbGxVYUJWcW5tb3o5VzM5dURPY0Q0eHcxUzdqVGZhcGk0cGMzaFhGd0swNmtRbVEyWXhNaWNTMTBZMVJkY0xtYnpCZUM3R0NHRWZUc1prNFVEREFOWV93ZmNBTWgxYXJQdmoyZ1BXcmNnV0VGNzBUUkt2Zk9GamZzSGhEYU1yM2ozZ2JZYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (6 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Sambit Patra",
+    "constituency": "Puri",
+    "state": "odisha",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "sambit-patra",
+    "house": "lok_sabha",
+    "sansad_member_id": 5599,
+    "profile_url": null,
+    "canonical_name": "Sambit Patra",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sambit Patra",
+      "constituency": "Puri",
+      "state": "odisha",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "sambit-patra",
+      "house": "lok_sabha",
+      "sansad_member_id": 5599,
+      "profile_url": null,
+      "canonical_name": "Sambit Patra",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.115823Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:25:43.952563Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:25:43.949833Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 90.0,
+      "questions_asked": 3,
+      "debates_participated": 7,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:25:43.948728Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:26:49.115955Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121899Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121915Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121923Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121944Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121953Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121960Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:49.121966Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Mahua Moitra effect? Naveen Patnaik drops 4-time MP Pinaki Mishra, announces Arup Patnaik as candidate for Puri Lok Sabha seat against BJP's Sambit Patra - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQLVluZWlQZGd2RjlCMjRNRVYxb2V4Wkp0WHE5V1lsRUxmMW44NmdicFNaZGNDYkVNRDBJTGZiZDVMLXBtenJ6dkJhNmkyd2lKcTJ5WXZad044ZlQzU2F3cVpEVDVUcVR0UHRGcWVXOGJBSkxLaWc2NU54Y0Rlc2dpX0VoWVdHOC0zV01aQThBVHVaRzNGRnF5MkFmdUI2TGV3YVYyeVJ0V2NzQi0zOG81UEZnbG9nREpkYlhBMW9ZcWJYUjQzUHh2T0pEald2elNYYkk1VXBnaDFmLUpGTVlzTm9Jd3FFLUdMaWxPQnZwcGNXTVA3bm10eUtaNDZVYmZIT0hLQklFYUw5QTNfVGRLR2hwTWkzWXR3dXFEMGFyOC1XeHNhSGhjUFZvd01aRjQ4Z0wxQWVaTkZLaHg5QjhNWUQ0ZmpHZlZaN1FzMWp2S2dZZW5PUVFNYjBBYmw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Odisha hotel, restaurant association proposes mega tourism, airport projects in state - ET Hospitality",
+          "source": "ET Hospitality",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0dQWVlJalNWa3RBN3RPU2dGdldOSGVGOEpnTy1EdENuSlplNGx0YlRDLW04QnZBdGh2THlfQlRPMy04RHlWcGlNRHdaSFR5VFBCS1k2LUpyTFFxSEZleHllWk9xdTJMZmhaNEpiVExFWEpBbUJWcnBhZWhXQmdWVTgzUU83a0l1VmNjOC1NZ29MQmJfMFJjbHAzbHhhZGxnX2xMcl9LVFVXUUNjby1kYlFHR25PaHFNbmM3S0E4WnA4NVVRb1RSQkNZSEtwdmlPVkRBREJEdlVLbS1wQ04zaVhsRnpNRDFFOUHSAe8BQVVfeXFMUENidmtWYkhadzhnYWJEZFZUNm1VYUpXME00Q1VMRF9XMUFTYk45OU9KQ1pXLWY1N3hyUGRlQ2VIUzZlUTAyXzU4SWNuXzNKOTg5Vm1ZMmdhV01XbWVXNi1YMDhjM2htS0hubWNPOC0tT0xxcUIzTnV5RFB1T1BOT3h2a0lZZzJRWDZoUTlnY1ZIdGY5WmNpazJGT1dtTnQ3X2UzampFWlFnNlZ0NDN3Q2JnRGtwQU5LOUk5aTlRQ0NkaVNCcF9weVJKV3NVQzJFVURmXzBqVEdESDZwM0xicEtJUDFab2laZ2ttX292UDg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Member of Parliament from Puri Sambit Patra recites Durga Aarti in LokSabha, moment goes viral - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTlBuRl9fWk1MUERlLUJTdFZwTm5PYUI5MzlhMkNFcjdXUkdnWURqU2lHdFZ1OENZcG5MTWgwT25XWkFOTEdmVFJtVndQNGFYVG1FcUhsdWZnSll3ZGlGWUhDQl95RnItLW5tYlZkS1gtOHV0amVqVkh1Z3BWbDgtRXlvYUNMSjFaTWU3eXdyNkE3UmpXSjRld2FfMmZDM1RFU3gteDV2WUZzUGJ3X0lRMUMxNkxTZ1paQ0pSMTVQTUhLY1pnaEdvSW5oSl8xYlZVQjIwX3hvNTAyd2Z3dFlFVlJMbWdiTm9BVDk3VmxQaE5FZWdfZzVrMkNnNkZnT3lIVHc1WA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Video | Sambit Patra Visits Jagannath Temple For Rath Yatra 2025 Celebrations - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWVUMm45NDA3RHBrNzltS3A4cmxfQnhiZ1QxUkYzQTU4NVFFcHVab256ZmRINmtzU21valBlS2tVeTcyV1pGU1RwX3RlU1NycVltTmR5TW5qTkFHMklDdXVRWEI5X1NQalZHc2lKcnNEdzhUTF9tSHQ1ZmF0aVBCYTFrVWJJcXp5WHB3ZS1fWVZuRW82WHd1MVo3OERYOUh2VWtVLVJ3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sambit Patra attacks BJD supremo Naveen Patnaik over 'betrayer’ and ‘candidate theft’ remarks - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFRyRkg0NVNrRzZudDZpTEtNNjdGM2xEZnRCdWR6VC1HdzBKRmdvb3Y5aFdETFRwSkhKOHQ2WTk1MFIwOFI0NEpLdTNhNGJCem94QUxqVldMQTNyWTRPQ1kzcWZuSmxPTzdqeWZGWEJEaXk5R0VYZl94WFVzWDNTUlJINF9IWDlFYkpFb2ZKR1EwZ3h2Uk5obkVJX21XeE53S2k4VXhPT2FLbkstM091RThiR1I1NzhNa3pZdjQ3SmRNanpoXzFHN0FSYUk0RGdMWUpGRkRwYkxZdEFSZDk5T0N30gHvAUFVX3lxTE5NUHBja0dramdDM0NLN3J2QVlQSTM5TXRUVWgzVjUwZTJpdHNxYnhkZDhtZlVlOHN6WXM0NU9fOXVHNUEzVUNWdGNhVDhNMUY2SzNKV2JDRy12c29WT21NaG9CcW9IdHlxYTFfQVpOZTFMWDczUGtQN1NObWdvV1VrZTlnLUxpYy1vTkhZM0F6RVpPdkk5d1JISVo2RVpNWGp6U3p0cDc5OHpFVVdEZXZpZmN0eC0wcy1SWWdWQnFod3R3MkN5TXpKdVRNWERfVkhVbHJ6a05PVzBUTjN2cDlWOGwtVmhBTzJpbUFOUmFj?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Odisha: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sambit Patra\n\n### Overall Assessment\nDr. Sambit Patra, BJP MP from Puri constituency in Odisha, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining a clean legal record and demonstrating strong parliamentary attendance (90%), critical information regarding assets, MPLADS fund utilization, and development activities is unavailable, raising transparency concerns for a constituency with known fund utilization challenges.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable for MP Patra, with no information on entitled funds, releases, expenditures, or utilization rates. This data gap is particularly concerning given the CAG's identification of systemic issues in Odisha's fund management. The 2010 CAG audit (Report 31) highlighted Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, indicating broader infrastructure delivery challenges in the state that may affect Puri constituency.\n\n### Financial Transparency\nAsset disclosure information is completely missing, preventing assessment of wealth accumulation or potential conflicts of interest. Without baseline or current asset declarations, growth patterns cannot be evaluated. MP Patra receives the standard monthly compensation of Rs 2,45,000, but the absence of asset data significantly undermines financial transparency standards expected of public representatives.\n\n### Legal & Criminal Standing\nDr. Patra maintains a clean legal record with zero criminal cases (total: 0, serious: 0, pending: 0, disposed: 0, convictions: 0). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. Despite this caveat, available information indicates no legal impediments to his parliamentary duties.\n\n### Parliamentary Performance\nMP Patra demonstrates strong attendance with a 90% participation rate in parliamentary sessions, well above average performance levels. His legislative engagement includes asking 3 questions and participating in 7 debates, showing moderate involvement in parliamentary discussions. However, he has not introduced any private member bills, indicating limited initiative in legislative proposals. The evidence grade for parliamentary activity is rated 'C', suggesting room for improvement in overall legislative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public sentiment with 10 news articles showing balanced coverage (positive: 0, negative: 0, neutral: 10). This suggests neither particularly strong advocacy nor controversial positions in public discourse. However, accessibility receives a 'D' evidence grade, indicating poor public engagement mechanisms or limited transparency in constituent communication channels. No social media engagement data or public interaction metrics are available for comprehensive assessment.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- **Criminal records**: Low confidence flagged due to potentially unavailable sources\n- **Assets**: Low confidence in asset data with complete absence of financial declarations\n- **MPLADS**: Low confidence in development fund data with no utilization information\n- **Committees**: No parliamentary committee participation data found\n- **Legislative effectiveness**: Low confidence in comprehensive legislative performance metrics\n\nEvidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate substantial transparency gaps. The absence of Sansad profile data further limits comprehensive evaluation.\n\n### Key Takeaway\nWhile Dr. Sambit Patra maintains strong parliamentary attendance and a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization, combined with systemic fund management issues identified by CAG in Odisha, raise significant concerns about accountability and development effectiveness. The 'D' grade for accessibility and missing financial data suggest immediate need for improved transparency mechanisms to meet public accountability standards expected of elected representatives in a constituency facing documented infrastructure delivery challenges.",
+  "validated_at": "2026-05-21T14:27:10.045507Z"
+}

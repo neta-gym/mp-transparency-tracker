@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Joba Majhi",
+    "constituency": "Singhbhum",
+    "state": "jharkhand",
+    "party": "Jharkhand Mukti Morcha",
+    "myneta_candidate_id": null,
+    "slug": "joba-majhi",
+    "house": "lok_sabha",
+    "sansad_member_id": 5827,
+    "profile_url": null,
+    "canonical_name": "Joba Majhi",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Joba Majhi",
+      "constituency": "Singhbhum",
+      "state": "jharkhand",
+      "party": "Jharkhand Mukti Morcha",
+      "myneta_candidate_id": null,
+      "slug": "joba-majhi",
+      "house": "lok_sabha",
+      "sansad_member_id": 5827,
+      "profile_url": null,
+      "canonical_name": "Joba Majhi",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.095816Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:23:17.402896Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:23:17.399286Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 55.0,
+      "questions_asked": 11,
+      "debates_participated": 2,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:23:17.397872Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:24:17.095896Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108659Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108667Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108671Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108675Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108679Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108682Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:24:17.108686Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Ghatshila Bypoll: JMM Women vs BJP Stars in Key Election - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM09aYTRHN3ppWHhmT3VuTlRVWmdtVllINjFOcmhGZi0xb0J2RWdHcFdOVWM2NXczajJNZUZsOVZRaHl1NTdleWJqbGZuazdITDhvdi1sU29wdXo2OFI0a1ZqXzNTRlI1WEZuLVEwUDRlTHFlTU1JekNkN0l2QVJNczk5TzEzSzV5bFdiS2hWdzdEOE43QjhReC1UWXBERW1vd0ZPUThKMXUxc1I4alZQcG84Q3B4ZzItZ2NRVm9wQUZMOFEyWlpZd2RaZ0hoQW8?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Jharkhand: JMM’s Joba Majhi to take on BJP’s Geeta Koda for Singhbhum Lok Sabha seat - The Avenue Mail",
+          "source": "The Avenue Mail",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3pNbnNtZE9EbFJYU011TWx0TWZxTW9LdDRWcy1NQ2NHZlhXc2FGdWNGRExEZ1N4ODRIRDl5UW9sU1ZGSmlTazNlMi1UakxLYkkwYWhzS1lHT25RZUQzZ1FkSTFmWDRudDA2SWZ6dGwzb3pfLVhabktfOWxDUHRBLWlDZlROYXQyNnZzVldQWFNZcktTYXN4S0xXTlNTLTFCb1VBcXBLZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Singhbhum (ST) election results 2024 live updates: JMM's Joba Majhi wins against BJP's Geeta Kora with a - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaVFFeFAydVBwbkhVQ0dNSEhrcGh4V081aGZxbVF1eHhGYWJ2Nk5PSlpSSzJJNzROSl9EZGR1WnRqSThacmNYd01yVVlRWG9rZ2cyMU9OX0Rhc0NWMXB3R1hFLVQxa0hCZ2tyVm9SemZZdmRXOV9ySjdWSkl0OUE3NF9pbGlfT19XaEpZWktlOGlYTUw0OUNTSjVaSzJyU19KVWMzb1VFVm1sRjg2UjNEUGNhaS00Q3hUb0FoVjhJb3ZjS1FMZUpFS1lVOVNTUWZMX3hzNFpyajBSV2swcGc0WmRxM3cwVnVrVURDV0lCeUdLengxSV8xN01tMWdkd0NRWGFtaWR5dmJ4UnRzVzFLS0VTQXZ0Y0RwYzFTZUhGb2vSAaYCQVVfeXFMTk9yOF9aTnBIQWY4d0VkbHRLdG5aa3pUMHd3NS0xb21HTXpRWVZ6VjN5d0pWTUprX0R1NjhTQjBZOXJ4aGQ2ZHNMRklkNEFNeVJ1UjcyZ1BOVmd5bnFnc01MRm1ISXY3czNiYjZUel9LaXNOZ0t2b045TGxXSEl6ZFZZalR4UHhNMGtlNzdMMUlscHl5Q2J2c2pWUUlUUF9rMFNvYlJ1NlRfcm55OVRQdEVTZE9lSHZ4VEE3Mks1ekhfNENjcnBkaGZ0ME04dUxVajZPUUp4cGsxLVhObVVZbVhWT0NQMGUtTHA4ekFKcnhjU0tOYVFCaG9pYXJSU3BtbFBLWllkRzE3NDlsTEx1WXF5c05DLUhfN2RHNHJrMk9UeXdRWFVn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Joba Majhi - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWG9CRkR5MTdtdjFWOVc5WlZ5U0ZhTG9sUkY5NWI0d0NKWTNweVVWNngzOXkwVnV6QjBJVnZFcmoyTGpxOTlwdHdSclQ4eENPaGpVd2VOMkRrRmdTT1FESnNvaUdPQmVXM1I5Q3Y2NTlVNmFJemxkaUdYQVE3NDl5WQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Singhbhum Lok Sabha Election 2024: Turncoat Geeta Koda to take on JMM's Joba Majhi - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeTdHTFB4a29YdGk0VUw4dGt6MGZiNm5UbURHbXVFcFVmNVlWdS1TenEtQ3ducmd5QzkteDl1Q3MwWU1ta09PVmYwR1lMRFNnSTMzNk5xc1ZWZlF0dkw0Wjc0TWdfOUR4STYtelFiVDBFY2w4dEZaYTE2YTQ2R2ZYbDVjcXRTRkk1cTd1TzZEdEZpMHMwNTZnaW04YnN0VHk1ZGZUTGFxQzFVbXBvcHhOYzZHU3RhLTUtVUJoNndYeUtPRFRmRkZIV3JJamVMSFZiZzg3Vko2VS1CQUZnOWpMSzZXREZ2bWxQWUI4akI3SDBLWkZJcWwyV0lTVEphUmh3OVg40gGIAkFVX3lxTFBvckFFc3ZJdVZINWU1cnJjS3dhbmtOajZGOWpGdW9KVTgycmtMaHJkTDRoOFpzYjJKb3JEOVE5anUtcUN0UVliRXJkWEVKdW5yOWRZRDAtVk1KNnhFMHN2LWRCZ3otTW5yRTU4RmJ5M1V0Z0tUSVF4b241V1hLU3JhTVJzenNmeEliZEFfNFRBZ1JzbEZxOTU4dDc2d3ZyUFVZMHUwNTVwb2g5SEdMOFRjOUw0dmluVWcydFVwMXcwc01fVGJzc0hza3RVc0doQktXN2R2YTA2N3R5X0R6Uy15a0R5OVJFX1lNMzFQZ3ZIelM3YzZuUnNDdXZOZV80YmhFUzM2eXdWOA?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Jharkhand: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Joba Majhi\n\n### Overall Assessment\n\nJoba Majhi, representing Singhbhum constituency in Jharkhand as a Jharkhand Mukti Morcha MP, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and moderate parliamentary attendance (55%), substantial gaps exist in financial disclosure data, making comprehensive assessment challenging. The MP's parliamentary engagement shows room for improvement with limited legislative activity.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is unavailable, preventing assessment of development work effectiveness. This data gap is concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The CAG has identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Majhi's constituency, it's impossible to determine whether these state-wide issues affect Singhbhum's development projects.\n\n### Financial Transparency\n\nAsset disclosure presents a complete data void - both current and previous asset values are unavailable, making wealth assessment impossible. Growth ratios and net worth calculations cannot be performed due to missing baseline data. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset declarations, questions remain about financial transparency compliance. This represents a significant accountability gap that affects public trust and transparency benchmarks.\n\n### Legal & Criminal Standing\n\nMajhi maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal standing positions the MP favorably compared to many parliamentary colleagues where criminal cases are common. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification processes.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity levels with 55% attendance, falling short of optimal participation standards. Legislative contributions are limited - 11 questions raised, 2 debate participations, and zero private member bills introduced. This activity level suggests below-average parliamentary engagement compared to active legislators. No committee membership data is available, preventing assessment of specialized parliamentary work. The evidence grade of 'C' for parliamentary performance indicates mediocre engagement levels.\n\n### Public Engagement & Accessibility\n\nMedia presence reflects neutral public engagement with 10 news articles showing balanced coverage (no positive or negative sentiment detected). This neutral profile suggests limited public visibility or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent communication channels. Social media presence appears minimal based on available data sources.\n\n### Data Quality & Caveats\n\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record confidence is flagged as low due to potential source unavailability. Asset data shows low confidence levels, creating substantial transparency gaps. MPLADS utilization data is completely unavailable, preventing development work evaluation. Committee participation data is missing due to potential Sansad profile unavailability. Legislative effectiveness assessment carries low confidence ratings. These limitations mean this profile represents only partial transparency evaluation rather than comprehensive assessment.\n\n### Key Takeaway\n\nJoba Majhi's transparency profile suffers from critical data gaps that prevent full accountability assessment. While maintaining clean criminal records and moderate parliamentary attendance, significant concerns arise from missing asset disclosures and unavailable development fund utilization data. The neutral media presence and poor accessibility ratings suggest limited public engagement. Improving data disclosure compliance and parliamentary participation would enhance transparency standing and constituent service delivery.",
+  "validated_at": "2026-05-21T14:24:38.115734Z"
+}

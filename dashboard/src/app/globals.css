@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background-color: #FAFAFA;
+  color: #0F172A;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAFAFA;
+}
+::-webkit-scrollbar-thumb {
+  background: #94A3B8;
+  border-left: 3px solid #FAFAFA;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FF3D00;
+}
+
+/* No-data stripe pattern */
+.no-data-pattern {
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 4px,
+    rgba(15, 23, 42, 0.06) 4px,
+    rgba(15, 23, 42, 0.06) 8px
+  );
+}
+
+/* Neo-brutalist utilities */
+.brutal-press:active {
+  transform: translate(2px, 2px);
+  box-shadow: none !important;
+}
+
+.brutal-sticker {
+  border: 2px solid #1E293B;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  box-shadow: 1px 1px 0 0 #CBD5E1;
+}
+
+.font-data {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+.brutal-section-header {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 3px solid #1E293B;
+  padding-bottom: 0.5rem;
+}
+
+/* Print-friendly styles for PDF export */
+@media print {
+  nav, footer, .no-print {
+    display: none !important;
+  }
+  body {
+    background-color: white !important;
+    color: black !important;
+    font-size: 12px;
+  }
+  .shadow-brutal, .shadow-brutal-sm {
+    box-shadow: none !important;
+  }
+  * {
+    border-color: #333 !important;
+  }
+  a {
+    text-decoration: underline;
+  }
+  @page {
+    margin: 1.5cm;
+    size: A4;
+  }
+  .executive-summary {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .executive-summary .prose h3 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+}

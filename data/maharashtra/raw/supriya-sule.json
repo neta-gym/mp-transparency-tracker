@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Supriya Sule",
+    "constituency": "Baramati",
+    "state": "maharashtra",
+    "party": "Nationalist Congress Party - Sharadchandra Pawar",
+    "myneta_candidate_id": null,
+    "slug": "supriya-sule",
+    "house": "lok_sabha",
+    "sansad_member_id": 4392,
+    "profile_url": null,
+    "canonical_name": "Supriya Sule",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 1665186348.0,
+    "liabilities": 200000020.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 1465186328.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:20.957025Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:37:18.023376Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:37:18.021650Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 65,
+    "debates_participated": 30,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:37:18.020946Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:37:45.238113Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253306Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253331Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253351Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253358Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253366Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253377Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:45.253384Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Will not contest a Pawar family member again, says Baramati MP Supriya Sule - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT1dHZ290Yi1jMXBobzlUUFBPc1p2NXVaaksxcW5ISFQ4ZUx4OWhnbGc0T0VlQU9fLTlqR2xJUG5HT2h5VWFSZlQtLXl4MzNIM1BaeUpsU3hzQ3dUTjJTc1luNEZyREdRNms5TXNHUm1vc3dYdktsaE5rTGJfbENUVmY3M2hmSTZHcjdQMUJkaFhBeGFzemtpSmFpWTEtSkV1SG1sNFIwNGJBcTh5SDk2OWFoWjVsZEg3VVM4V2psTFdQZWxJbF9EVldGamRLdFlMaUR0Q0NNd25kanN2dEY4bNIB5gFBVV95cUxPTGptQ2NHeUt0a01HV0pnTHlqdGlscjhHVURlakFCay1HeFZtc0FfbUNoclJCenN6VkdHeHJUSGctNGd1VUV1QjlBNmxUNHR6UG1DZ2llNUw4TEkwSHpHVVdzbU9iNTZ3U0xpdGJ6bGlNaHhmNTN1U2p6c2k1MGFUTjVzRFdyMjlhdjNtaVhaMUxwTURGbmpOamNQZEgyN1ZvWHl1d0t5dXVsVWo1cjZhYUNtLU4taDc2ZDNwakFUeF93bUhOYlpNNzQ1bWtGWUtGS0x6VUNWSnU1LVoteDNzR296SWJkZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Baramati MP Supriya Sule’s car meets with accident, she escapes unhurt - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUNoN19rb2xKVEJ4YmZBb09CbWk2dUFqeFA3QnE3M2ZsT1Zvdi16dVZCM2JabUNES2RYNnRpWWF5NzJWX1hiVlRqc3A3c002ai1LdmFocXdMSjJuanFsdk5hOWJWR0s0OEgxcVhIRy1Ub2VtYUdpQUVnMlc2Vl91NUZsWDJzMTFidk9VaFJaSmRlU0w0TjBFWDVOMTMzajhCZGFKaEVWQmg4WE5tSVh2ZzBtUkpGS1hXMzZxdWhad1c0UdIByAFBVV95cUxPeHN6d2JteFFBLUhtTVVVR2FqYWhyTHNkbllqTHdXLTE1cUZHc3l2cmQwWXR3UkQxSy1LZE9Wck5ya1VOWG0yS3NUaTR6OVZYcmNqT05jSGxxc1JEX25zSXZIQV9xU1VjM0puXzZ4Ul9yUVA4V0VRcF9tSXhiN2xVV0ZCMDViMVpyUmtHSGQwOHlkWF9YRTFTOWIwNGt6R29mb3RfbkNvVE5DYUZOWnMxSE1pMG1VanpuVktLNkQtM1BiYmtsV2hQNg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supriya Sule’s son Vijay graduates from NYU; social media reacts with mixed views - Mid-day",
+        "source": "Mid-day",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWmNUZGQ1SlAtXzlyN1VHdktvYWctclFHb3ltUjQ1V1lhYnNTenFxRXNtTXFaRFVRSmwzd1g5ZW9TTHlTekQ3Z2JXQUszbXFDel9sXzZaa0RTLVJrbWx3WkxPXzduTGp5T3hNdUJzN01aa1NsU2ZuVkNRdExoYUp0Nk9rV3ZWc0RxTzBkaUprTll2MGhEUEdYSlhUYkpzS3NfMDRybmlvai14MzRnZWV1N2JQek9fOWVWcnFCUEJGQ29ybG43WU1LOUNPcHlyZFFlblZ0ZzFOMnJSbkE3MnfSAeMBQVVfeXFMT3lWNEx4S29oNXFGZjhwb0FnQUNBNi1vQnhlTjlyOWZFcHl6TmdaaHFiYWgxUS1CY19zOHRLOFpYVlZpWnhGQktWTFphTksxcEFPdS1RQUJzbUtTUXo4ekpWUzNac08wMk80SzRuYWk5Mlc4NXdmSWt5bmpTV0haMDNhZFcwQTljcGtjN3owUERER0FNRS1lQ2xCNDRNZlJxUmZocFhPazBDTkt3Y3lfeVlSRUhFLXI3b19VQWd2NVJjUHNMUU9FYnpCa3dFLUh5NXcxUXg0MVpxNURpakNidnlrVkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Tribute To Ajit Pawar\": Sunetra Pawar On Historic Win In Baramati Bypoll Win - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRHJvWi00ZU5ILXBFVmFLalluaFRoMm85d0dpaUNZUC1DNkpnNDJyUm8wOVpTT1hUT0RTOFpLbWJFWG5uWWdDWGFaS2xkbzN4MGxLOUdDNVFtdjBYeXpYSGRGamtwWUJJVXhNWTJUYldvZmJ1RUlnaXc0NXlXc3NFcWVodWtET01nbXBOcU13cXZjdE9kME9ib1ZHbFB3Y2Rkb29MeEVpdEY4WmtYOEVLVG52SG0ybkp0M3NSdUNka0VMWVI3a1JIUTBpZFRidGpTQzQ3NkFDQW1wV2pS0gHkAUFVX3lxTE1mdHRoTkU2U1NOREZhV3dOTlp6dm5NWUdOY1J6OEZ3Qjc3NDJHM2VKNDZ5YXNQZ0ZGb1ZKVlE1dHJkeGlyekZqODdLZWpPSXU5NHFIaFRSN3p1dDZtNXVIVU4yZFVzZm5rUmQ2bEhydnRYNjcyMkd2WTZYT1hXTTM3VV8wTHl5VWtDMXVBaS12TmpkNERNWk9ZRlVKeFIzOUV4WGtXMXN6ZHZPWHh5T2pkUDRvZmMwS3VHV1dfdzVjTkY1VmJnaGFSRHUtY2RwNzg4VUVlYWZoN2owTFJfZFBub05PRg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will not contest a Pawar family member again, says Baramati MP Supriya Sule - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3JiLXFjQS1OeW5pUHk2akV1Ry1aZFRoTlNwSGZmLUJjeWVMLUpCZGdkdFEwTHgzNHRPRm8xWTlDUEhBVUxwVzlKYUZtSE1RMmtjR3JfTWdidHd4OTJuRlp4dnBNenkzMFFyd1hvZ0ZfTFRUanczdEFiX3RlVG1mVUJEdEFYTzJwc05XNEJwc2Zvd2V0c05rbG1ndzlDWTJJUTFoNENtWWNMd2NCdlR6SzdLMlZxc2ozZFZNVjkyV04?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

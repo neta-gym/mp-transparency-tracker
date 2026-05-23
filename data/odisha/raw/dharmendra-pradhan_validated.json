@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Dharmendra Pradhan",
+    "constituency": "Sambalpur",
+    "state": "odisha",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "dharmendra-pradhan",
+    "house": "lok_sabha",
+    "sansad_member_id": 3999,
+    "profile_url": null,
+    "canonical_name": "Dharmendra Pradhan",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Dharmendra Pradhan",
+      "constituency": "Sambalpur",
+      "state": "odisha",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "dharmendra-pradhan",
+      "house": "lok_sabha",
+      "sansad_member_id": 3999,
+      "profile_url": null,
+      "canonical_name": "Dharmendra Pradhan",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.722143Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:25:46.791730Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:25:46.789567Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:25:46.788706Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:26:47.722318Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737551Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737569Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737577Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737584Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737592Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737599Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:47.737606Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Bhima Mandali caves to be developed as global heritage site, says Dharmendra Pradhan - The News Mill",
+          "source": "The News Mill",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVdpOVpjMFdOOUs1aUdzMjdQa0pKMkJlTGNqTlctRFlNdzZYN25UT0JIQ2FrZ3ZHZlVYUkYyTEVXUVlrc01SN0Vsb1JiOFpiUy1GV1BzRWVyT2JtRThTdzRsUWhLLU9IMmt4Q2llR0hPclJZc0cxeFJQMmlNd1UyNlFKNzlmOXJRS0k0OXVGVzgxSTZkS1JscVBNTzJrQW41alNuMXRGTjAzakRLcVdRYzdpdi1oX2M?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Minister Pradhan, Samal hail ‘historic’\nvictory in the Assembly elections - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWhPVDRWZTY5YUJBU1lCSEZ6b2E3VzlNbUFPT1dOb0tkUlFTeHdjQm9ObndzMzlxYXlzb0xJTFhfZjRqelYxTlU2bXRPaEFfbjVhaS15MzNjSlQ5N2k0ajFVMmRTXzlqQXdFSWJzcDB3a0JYT2tUMUh0N2hIMXZLeWh3YmRic2dwQUpLbXpobVNvdEYyRjE4TnFraUFhWFJwd1Z3R0dobEpxXzhkRTJtWWNBc0M3eUdOY3Myc2pwTGdfWnZEX2ow0gHUAUFVX3lxTFBxOHV2eTgxN0JCemNwVkRzd3pyQVJDVkVDdnptVlNfUnJ6QjFmdHJ1OC1LcUl5NERNSTR2anN3NDZnb0RIVDd2WHhDNWNIanFIVU4xLWFDeldNb0cyMjdwc0ZTbU9KRXdubU03SHVjVlJlSl9kWnRfWmdnLVZSZDRzQTRvWWY0alF3S25ab240TldBT3dHSENFYW5EVk1ONk5lb0UzY1lZWVN2UTVMR0pia0l3Wm13ck91VFRld09OSlVSRVcwWF9wRGljZ0J2RWJ4SjIy?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Dharmendra Pradhan Lays Foundation Stone For ‘Bhima Mandali’ Eco Heritage Site - Ommcom News",
+          "source": "Ommcom News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHFvYUtfWUhib0tIX0x6TWJad0xSMHp0YmJmRDdFaWZRV3gwa1NPNU0tVjZ0bGU4THlPbktDTTlucmdXSEVPd3E0LWVNVjJsQnZ3bTdLTWUxTkpnVTNSMFN4NlpBQjc3WndKSklsM19LNWNIUERiamw5QTNGY1Y4emc2XzQtczBoRE1nLWxhSHZoQ3V3MTloOWJ5aDg2Zk1yMTVEejcyLTdRZmwzZWQybFlR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "10 thousand years old Bhima Mandali to be developed as Global Heritage site: Union Minister Dharmendra Pradhan - India's News.Net",
+          "source": "India's News.Net",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEhJTFJqRjFyV3dhWi1zbUo2RTltTkU5YlF5Sml1aEpib19sSXE3TG95dUJkbFRLU3pWUk4xQjJyRnc2b3p1WGoyUk15ZUJmaXUyVzh3UmpkVzhaUVhOX3dkNU5VeHp1NUw4Z1ZIWGM2aFo5MUpHbXlOZXk0UjliNFZkOTF5c3ZVZWlXaUdZWlNQTDZvLUFlcTVsMDB2a0ozUVJIczctbUhvc0xpRDFMUFEyM292aXlXUnNxay1fVGlkbVZqb0IwaU1JQm15aXlRLW5rbS1fRWt5YUNrTERHMkZua2pEdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bhima Mandali to be developed as Global Heritage site: Pradhan - Magzter",
+          "source": "Magzter",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm80bUhLTkY2Y2JYeFlpTzkwQnctZlVSeHBCVXNWVUJpMGRRZlo3U0tGSmYzLTVKZTU2MmhPaWJ6ZnBveXNkRzUzS0tlUTRodmRDVGRKeVE1T080TGRmR2lOU1lGbjJiUXhJak5Rc2FVc0tYNHhuZWZYMmREeXlmbnl3cjRmSzU0cXRtRlZLN0xibEdRek80cmpNR3FSTTRkOEc0bTdWLW5qZkNjUjRNR3V3YXl1OHYyNlpqMzYtWQ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Odisha: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Dharmendra Pradhan\n\n### Overall Assessment\nDharmendra Pradhan, BJP MP from Sambalpur, Odisha, presents a transparency profile with significant data gaps that limit comprehensive evaluation. As a Minister, his role encompasses both legislative and executive responsibilities, which affects traditional parliamentary metrics. The available data shows a clean legal record but lacks critical information on assets, MPLADS utilization, and detailed parliamentary activity.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, preventing assessment of constituency development fund management. This represents a critical transparency gap given the scheme's Rs 5 crore annual allocation per MP. CAG audit findings for Odisha reveal systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues raise questions about fund management oversight in Pradhan's constituency.\n\n### Financial Transparency\nAsset declaration data is completely missing, eliminating the possibility to assess financial transparency or wealth accumulation patterns during tenure. Monthly compensation is reported at Rs 2.45 lakh, consistent with standard MP remuneration. Without baseline or current asset information, no evaluation of financial probity can be conducted.\n\n### Legal & Criminal Standing\nPradhan maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, convictions). However, data confidence is flagged as low, suggesting potential source reliability issues. The absence of criminal cases is positive but should be viewed cautiously given the data quality warnings.\n\n### Parliamentary Performance\nParliamentary activity data is severely limited, showing zero recorded questions, debates, and private bills. Attendance percentage is unavailable. As a Minister, Pradhan's lower legislative metrics may reflect executive duties taking precedence over traditional parliamentary functions. The 'C' grade for parliamentary evidence and absence of committee information further limits performance assessment. His ministerial status suggests engagement through executive channels rather than legislative participation.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is constrained by a 'D' grade for accessibility evidence. News sentiment analysis covers 10 articles with neutral tone (0 positive, 0 negative, 10 neutral), suggesting minimal media controversies but also limited positive coverage of initiatives. Social media presence is noted as a data source but specific metrics are unavailable. The neutral media coverage indicates steady public profile without significant scandals or achievements generating strong reactions.\n\n### Data Quality & Caveats\nMultiple critical data quality warnings significantly impact this assessment:\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information is entirely missing with low confidence ratings\n- MPLADS utilization data is completely absent\n- Parliamentary activity shows low confidence levels\n- Committee membership information is unavailable, suggesting Sansad profile accessibility issues\n\nThe evidence grading system gives parliament activity a 'C' and accessibility a 'D', indicating substantial data collection challenges. These limitations prevent comprehensive transparency evaluation and suggest systemic issues with information availability or disclosure.\n\n### Key Takeaway\nDharmendra Pradhan's transparency profile suffers from extensive data gaps that prevent meaningful assessment across most critical areas. While maintaining a clean legal record, the absence of asset declarations, MPLADS utilization data, and limited parliamentary activity information raises transparency concerns. His ministerial role may explain some legislative activity gaps, but doesn't excuse missing financial and development fund data. The systemic data quality issues highlight broader transparency challenges in Indian parliamentary oversight systems, making evidence-based evaluation of his constituency service and financial probity impossible with current information availability.",
+  "validated_at": "2026-05-21T14:27:09.025949Z"
+}

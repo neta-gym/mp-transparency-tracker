@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Ravindra Shukla Alias Ravi Kishan",
+    "constituency": "Gorakhpur",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "ravindra-shukla-alias-ravi-kishan",
+    "house": "lok_sabha",
+    "sansad_member_id": 5144,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 433235340.0,
+    "liabilities": 19051840.0,
+    "net_worth": 414183500.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 88.4,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:01:29.181717Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:01:24.489152Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:01:24.485319Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 75.0,
+    "questions_asked": 73,
+    "debates_participated": 6,
+    "private_bills_introduced": 3,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:01:24.484142Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:01:45.210594Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207358Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207364Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207367Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207370Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207374Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207377Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207380Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.207383Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Ravindra Shukla Alias Ravi Kishan - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVZNNVIzN0VYalVlQWdoZ3JZUHJNY3RpUzNleHJYU0ltcEFWVXZ0NFNUaThMdXlQdkg3dlFKTXlINnU5OXFGQ19wYUdjQWdEX3NpYXFjbnBBMnUwcWU0TVBjSEpPNEZnUkQ1dndKR2tvS0Y0cHByZHk4OUp5UEpVZzUtQ1JOMDBrOElhbi1aZ1ZOOXA4OWV1NDg4N003RWM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Political Profile of Ravindra Shukla Alias Ravi Kishan, Bjp Party, Gorakhpur, and Net Worth - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQTl4N2xkdi1RTWY5em8wai1wR1RUM2EtYUFQakJtYktzUko4WWVlMnhjaW4tNG12Y2R0bnpDVU14U3ZWYlV0M2xFMFdsZ251Tkd3QVE5SUExc2hibnFjVW5BS2M2VTRwbEFaRHdfSjY5QW5qb1Y0UEtJRzI3UHJicTZMM0RmSG1BM3dsYTBhXzJtZVNPYlI1TnQxLWZORzBOTGNycmh4b2R2dnA3ekU5M0c3SmREYkJfSVF5Z2ZWQjNGTjJGcVl4QUJFd21MNnZrZ2lCMzluaG5mR3k4VDREa2lKa0xUeUZrdzhRU3BjTFMzbFUtaVQwSmVNdzI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gorakhpur Election Results 2024: BJP's Ravi Kishan wins with over one lakh vote margin - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaVZrRjdGNzBrNVFNMGJxQnBVcHpHWndnX3daejJyeHNhQldEN1I0MmZrbWd0V3ZkTXg2TXdFcUJBdUgwYzlhS1hRWmFXeHpGY19hT3hFNGVvWkh3OVBRWFhHUU1HSmVzb0p3Nk5FeTdHN0RTM05ZYWZ0ZmJ0eE5rTndZWVljWmtHbGt3ZmI3VUtqYW1QUFUyWmk5MlhNQ1pCS0NIUDVoVEpNZTFOaENSZjQ4aGpRRWNKV216VGFUUzZwZVlHNEJNcTh0MG5ieVdxZ3B2RlE4dTRvX25xZF9ENDB4aGlTZlItMDBpWFl5YjJmNHNtOF9Ga1RpVUlVUXZ1emtTUUFiT0pDWmF0bzVaMGt0OFVoYWZzUGIxQWpxS29IdGVUWFJrc253NEdDSlY2UFlmOVZNazNqci14MUZ6c9IBxgJBVV95cUxNc3BoWC1WNk4xcmVvMG80bnZuWTl1Z1lGcWRhRW9xZm1neVM1b2lLYkJTc3FWdWtmN3N4blBmZklIcXBJaUxUZGRXX0pFQjBmVVQwTURLRGd2YktXYk45YldxelBDZzhGbDlLQWNNYW9GNDl4UmRTcjluRzBCN1pLQWc1bHlKX0VYZXBmYlQ1OXR6dmMwVjE4X0FsLWN2QXJFMl8wVEt1RHFFX0F6UXJMTjVwd3Nwdk5zQlJmQWtpaTAwTllHM1B6MUNKZXJUcS1kTm9hVVhveEx6U2VDVHV6TERXNlBLSl9lcDh1bXZ3ZlkyRVNfZEtZTVdlaktUX1RPbEN2WlZPXzEyel9aOVBVNnduVi04M21wbTFTQUJ1NFBUdVNYNjBWY1N2ck1EdmQyVHNSNnZ5Uk5GS3p0RmtudmFhTWhPQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gorakhpur: Why did Yogi pick Bhojpuri actor Ravi Kishan to contest from his bastion? - Newslaundry",
+        "source": "Newslaundry",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUJEN3VrRWFWOXQ2V0hEUjc4SU41SjRDMkhTdnk2RFR5NFlDUmxwQVdvRmVneGVKdHZ2RnlqNkxwbnVYZl80RWlPMVlKZ2JvcHpmV2R2R1EwUDdNVUFvY21aTV9GZlRuRnVZNy1yY3pmbDdxdFdRaGd2TFJldlRiUVp0ckw5azI3NUZ1amdpR0dZTGF0RUHSAasBQVVfeXFMTTFrbkZlczFBZ3pFc1BsaHd1WGRVc3ZaSldBalhJTmtOVk5rMUJQWVNfUThZNFJsaW55UDhhRjlON1dxU1BmRFRDREpBOHFPMzdnWVZiVDJJYTdLQTl3R2U0UXhOU3JpWUtxZzBtaFM0UC1QWDExWHQ1QTNJbGl4MVF6RnQ2SVRLWUlYZ1lUVXVMRS1tSFJVX0g5NklsRWx2MFIyamRjczh4WGFZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gorakhpur Election Result 2024 LIVE Updates Highlights: Ravindra Shukla alias Ravi Kishan of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbGZBbU9HZUVobFlHWFRjUXhPMDBsdDBmMzFqTnhkT2pVUFdNVnZ2LVhLLVU0QlVNdnFkT0FFbXh4bFRvQ0FXMElnM0hPbXp1UXlpVURtXzZJSWczQXhWZkpuMlVpaEVlb1FfVURqZUlncnRNbE15cW4zOEhpbDNvVFF5QUlJZHl5aER0ekN2WmRQRl9mRXVJeXYxWE5YXzRkajZZNkN2cnQ0azgyOVNYR25zbWd1WUs1dUVIVXpWdXJpVWRwbjE2a1oxM0p4dmx5aDJKSC1oOGJNYkRHZzZURWFteXbSAeoBQVVfeXFMTmVRZV8yZXNrV3Jzakp4R1NJcmFOclRqWkZMalB1S213cl8zMHlNU3pLaFpucFhOdzJxQ1lDXzJOemtGZFNxQnVoNUNfMzR2NUZIVzVQMnVlVEJ4RWNXNDgyLXc3NnpUNDh5TFNnMW5lbUwxQ0hYZ0RXVDhHa0tUdjJJbU9KTVI1UGs4M3FuYjBGUkpmbE12eWFqY0dZeHlFWTNxRVRxemREbjRXYXlNNGRDTlB4U3VTZ2lsbmNpTVdySlFCS1JrVk9zM2QwZkx5cjl4YzEzQWFDSkttZ0JCOWRMb0NjSktycnFR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 3,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

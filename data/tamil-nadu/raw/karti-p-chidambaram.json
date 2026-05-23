@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Karti P Chidambaram",
+    "constituency": "Sivaganga",
+    "state": "tamil nadu",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "karti-p-chidambaram",
+    "house": "lok_sabha",
+    "sansad_member_id": 4967,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 11,
+    "serious_cases": 0,
+    "pending_cases": 11,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 962744048.0,
+    "liabilities": 319544125.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 643199923.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.731876Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:31:29.036936Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:31:29.034073Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 75.0,
+    "questions_asked": 16,
+    "debates_participated": 4,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:31:29.032958Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:32:28.732021Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747289Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747306Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747315Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747325Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747345Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747356Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:28.747362Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 2,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "Tamil Nadu: Kerosene bombs hurled at MP Karti Chidambaram’s office in Karaikudi - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMmNZUEp0TFUxT21wX1BpMlc0c1hVeWRTekZjdm1QUVZ2MkdfYXYyMmVfLVFiNWRuWEZaMndVTTlBekhWSzB6WUhlQ0lZYkZZRUJMSjhDTzBpN21EaUNxMzZhVVA0MUcwWk1lc0hfaTc0WFVkWkh4U0JnZXJOWGh6ZFNidTBiSEFaVU43aFZBRU1yeERseEFXQ0EwUDJpSkt3d1A5Ty1iZ3c3RkNpREgyRmFtVzVRZUZqSmk2SnA2RE1Zc1JLcjcxSWptTXh6UTdPX0HSAdgBQVVfeXFMTi1abURlTTY0Z1dLN012QVpQdWtTTmIzbENkSU45UFFMRURpbnpLc3FRaUd4bFFFTUxXaUowTTB3VU9qR1JtSUJLUEF5T0xqNlMtQUJYS0U1OFdCUUxRdldRV3ZPbEg3REZ2Zi0yekJKVXE0SDJGTTlDbmEzWkU2aTdDOEhzZ0t2S3BoSWVmN21vLU9hM2NydmJHdi1HelAxbG1sOXZCMmk4UEc1VUlZaHVEcGVZdlN5dkpRMGJGTUJwMktWSlBoa194N3F2ZkNNWVFYd2lzdF9U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Molotov cocktails hurled at the office of Congress MP Karti P Chidambaram in Karaikudi - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzMwYVA3RUw2aG1PZ3psSkxwMG1vOUdLUUgwclpWZDBQOXdWam9KWDVfQ1JycGxtVmlLYy14SURXejBPVk1lS18xaFpvVXl3WjJiX09nSXhGZlYyNWxYbVpZdXg5SUw5OHA4MEVISmF5VU9lQTQ0S0xaOGFvRkRrS3JycFRVSHJNRkxKTVVva2JWWG83OFRvOHBjZE1JNFZaX3hkTWU5M2VTQ2dqNTFGbmp3eHZHMzdzUUgyWnNFQ0lxa2V0M3ZhM0hNNGRKX2NHZ0w3VTc1VmNpdE00QkF1T3oyY9IB8AFBVV95cUxNbVFwc2lPVTZhQnU5UC10V1NMbEhPU2t5bU5HM2RBQWVIWjF5THhGNENfV3hDdmoxU0h6TVU5Mmh2VU5ZXzRtamxqcFBQZDdoemI0RWdKTm4ycmxWT0xHdFlIN2pLblRwbXE5NVkxc1R2NXNKZmsyaWFvdm9ubGF6bk9MOXBTRzY2Y3ZYLWs4NklUV0RzVnZHRFk3U1l5T0N0TVdWekRpVlBsb0IzSnlWLXVwcERBVGppSTFBUkZsX01uMWlfNnJzT1lLb09PVUxCNDJpcjRPS3JGbWtZby1oc3F2YlFNY1pNcjhvdUhFOHM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karti Chidambaram Calls Dhurandhar Allegations Mix Of Fact, Fiction And WhatsApp Forwards, Defends Himself On ANI Podcast - Swarajyamag",
+        "source": "Swarajyamag",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOVcyeDdTSWxrc0hYNURXSW5tNW4zQWlkT3V1S2cwcG5rcGhRX3pZQlNKRW1UU19UaDR3QllqS2R1elRROUJ4ZW9hRm01Rm9EZnQ3RGxYZzZZamdUZmZwX2hoZVVMTVRIOFBJekx2VVhmR3FqaFkwbTJNOC02MmhXZmREU1NONnVPeTdVR3UxenNQZHJrSnpFYWVqMzBoOGtLRmlqeHBsS3BxZW5zMDI1V1BFUE14ai12azFobnVYR3dNNUVkbEYwRlB0Q3FXQzNiS2hPZ3g1Q3BfVzllOWxwUTA0WkZYQdIB9gFBVV95cUxNZUpwd3daUU1Qa05BWGNPVHY2LXdUXzlGcWNibTRJVHN0dTJCSGIwRWpVeVIzRXpsaC1GV19uNC1YcEtlN0VqTGs2REx2S2lrTVFmZnRuMGpJVGVtUjZSSzdhVUFfRFZCUlhVRlV3ZkIwQzFHSGVIV01pemg0SFZNaXFIX3dpU2FQb0hHN045TzRpZURWWDZMbzZvbW0xdy1nRVRYSGpJclF0RUpRVjV0bThOV1hsSlNuUlFFbmRBN1RtWWhpdXBURTRad2lvQm9zZEVzYlZwOU50eDNJa2IyUnJhazU0QXBMVDRENmxJdWM3UHl2dHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress cadre flee with Rs 13 lakh seized from MP Karti Chidambaram’s office by election officials - MSN",
+        "source": "MSN",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYjhnd0NqU0JhRGd6WTJZeVpCVHJ1NFVyOWFVX1JSVFU0bWxiUG5YWGhOOV9Na0llME9pclNTbVp4b1Q0c2JCYWQ0dDBUZncyLV9WQ1Rmazg3WmZXS3k2TERScWhEVmtBY1FQMDNuRkNaWnJDRGpkck84dHNfRFhXNmg4NnRlSEJkMzRRT1dhMm5DcmRYdUF0NEdpOThqSjgtakZqMEozOFR5SnY2Q01USFp4R25ESHd6X0JvcE5HMS0wUURtRHdRMU5tWHNLZkJGUGxFN0dyS215WmFZNEZ6VmRB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Delhi court orders framing of charges against Cong MP Karti Chidambaram in Chinese visa scam case - PGurus",
+        "source": "PGurus",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0hLNHJSdW9ydG9pRERmb0J2all0WGhxX0xtVWlDM0taMzh5MnN5VHZhNjNSRDFMMW1TZExiUDV0LXJNREJlMGpOQUVjY2dENWNsOV9QRjBGUWQwUXhMcC1HZU9VaEgzSWNFZW01YUVNMUE0c2xFUXBRNUtsODA3c3BkNlhvaDROZXpBbks2bExkRVluZ2JNMk1CNU9icmdlMkMyNWtfLW5FTFNKOWRrbUxMYU10VWhCYy0yRFdB?oc=5",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

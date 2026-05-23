@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Anita Nagarsingh Chouhan",
+    "constituency": "Ratlam",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "anita-nagarsingh-chouhan",
+    "house": "lok_sabha",
+    "sansad_member_id": 5663,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 52459353.0,
+    "liabilities": 186900.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 52272453.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.776073Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:28:23.253463Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:28:23.250512Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 75.0,
+    "questions_asked": 1,
+    "debates_participated": 8,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:28:23.249364Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:29:22.776207Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.790974Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.790992Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791000Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791012Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "madhya pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791019Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791026Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791033Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:22.791040Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Anita Nagarsingh Chouhan - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3diRVF1ZE5mSklVQkpwX183ZkpuQ09VRUZMTWE0dzRrS0hBcFVvOExXZWMzc0tlbnhRM091T3NxY2xORUYxOHhLMlZ6QTFxLWY5WjN4YVRORXBQRVlFQV9yNFFVMHMzcFBzeUFkVzdXQXJaWmF4aEtUMDBqLWZZOFZub2k0bFZ1TWdaaVFKWUEwaldqQmgtbFIyWHByYjlpSVRhVkJISTYwUi1DRFlqM19sakRjQ2JIY2hVTDV4clNSbE0xOU03R1R5Zw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWlIWktCNkRsc29JY3RoVVBDZU9hdkpKalVyVDYxaVQ0LVlNZjNiNFVwbmF3MFZZMWlEUDRKLTR5R3c2dWpEd28xTjJpSzJ1N2xfUXhLNmo0dVdZV0Q5MFlqNVZ1N3FKalBpNWc0cFdFTEJxcVI4QUsyLS1FTWpkMW9wcWx1VGlFeUYyTUtPRVFxTmdraHBVY29JeFk3Y1VWUGJtUE9NTlJWdEtLOGhGWWlvT3EtRTE2b25uYVVKZDRlekpQYV8tYTMyWFZMY0Fibk9n0gHaAUFVX3lxTE5YZXc2elFvVVpMckpkaUh2aTk4ckRzdnlDRWhjaVJpZGJUSkdCMnRyTzZleWhOT2JMdG1nU3NESFZjcWR2N2p6RjRMaWZLdlNqQ2d1VVYwS0FzNFFpV3pmcUxOcmhxUV9haERpakhBaDFpT0YxMTBWZWRVcU1uTjVJNUhxQnFJZm1BbGJhazRwNnRFcjN5MmQ4U09UMTV2bVU5MUo0bTJIejhLMTJIYVQ0NWdNXzdRZTY3Vko2UXhvemhiMDFtUmM3Q193QU9FeDZzUFBNY0hKVUJn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ratlam Election Result 2024 Live Updates:BJP's Anita Nagarsingh Chouhan Has Won This Lok Sabha Seat - The Quint",
+        "source": "The Quint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNazhMdzJ0aDg3eTBkcjlMS0pENHVScVotcThULVczSmRpbDQ3ZnUxemNvMjlWUzNuMENHa0RWTWtkd3lDbnJIUjRVS1ZiV2gzdElWVGJ6OWJ2bUVfM3FOUm1Pa0ktTFRoT3ZyQm1jSHctbzZiRnYxQzI0NzUtSXBDd3F2d0VGdEZNZUgtaGVMMUhuZm5OX1E4bm5pRVZXaGl5aHpZQ294aU02SVBBWm9FQjB0TjF5Z2ZrZHhoUXBJdk94QVRibWtBUk5n0gHXAUFVX3lxTE9RSXlvVXJDUHZFUHZoT0g1RXBnTVJSNnlST1l1T1d4aFBMVkxaT21aZVZBeU13UEJJb2lfWFI3WENTTEp1X2xWLTJwRzVpNVdsRHgtUXBqdWdNZ3dZU1ltdVlyS2MwTWhGUFZjSnZncXVnYlJUYkdmOElDWXRvQzVITC1QckxKQ1pQUWlVYV9PbDVDWmZseWhNRFB3Sks4SXZ1a1ZlZzdHMHZia19lVzVFRzBYVGJfZTA4c1N1elU0OUFqVE5kR0VuME5nVm1FcjlQNnJNN3FN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament of India : Lok Sabha Member of Parliament – C - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ratlam election results 2024 live updates: BJP's Anita Nagarsingh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNeHNVdGt2TWVUN0hmMXhtX0pMeHYzTHJ2cTZiR2NZcmZNRG9KWjRjTS1CcloxZmhCVFJrV1ZWbnZTakhubDJYdWlhN0duS0ZYUzlhM2lMRm1PMV9EV2d3ejNIUGU2UW1HUEI4STN5Mm1tZmFJR1RyaVhRREJXbTdiLTVwbGlja3hLbHdSOU5qY1ZnYXZKTDVoOVFxT0VWcW90ZFRjdUhyY3N1a0Ntem1tbXFFV2xoWHptR0ZqZDI0bjhuVFJkRC0tUTRVNzhFOVhyYjdJUnEwV2JJTE1vZGU0LUs0NTFPOHZmcXczMGdIWDJGSEdVV2QxUVJnNUlCV2oxenNnNGZkNWZ4VHFKZ21Wc1BGOEhyN0dVYlliT3FlelVJSGtfNlVnc042c0Z6QzVWOFVaWGo0N2stMHJscXluVERpYzRybWxNc3R0Rmp1N1IwNWNvWGZveTlDUVLSAeICQVVfeXFMT1Y4U0JKcHNGYUhxU0JiU0F4eFdaSXFPdDVFQ3ZHZTk4QldIT2ZoUFhFbTdkZzRvbk1jbC1kT1UwNW1xTXN6YWhIN3pDdDJtYk9YZVZSRDVNWlRXdkhFalBXd1k3Z213d01HNXlITnBhTE90LUJtd1ZFTVZKOUdhUVg2RmR6R1Zud2w0SjNaRWxnUk1yMGNDVkdobE9FaVdDSjdMWGMxaVYtcHNRaC1EcW1Xc2pKNFBRMlNSY0JIaGNnYTA4VWY0ZGVrUTB1X2F6eGNzZ1NaNVZKWnVuellwWTB2dHhiNGF6eFpVMF9xNHFTdlJwb2Q0V2ZmSW1Ld3d3QlUwLWlDODNYU1FwY1NRN0pQTzBxd1lxTU5yRVdLVHFvdGg2U0Zyd2cxR2ZSeWZfQnFac05FdmdsSkw0Q05maG1VU09YTXNtbW9tZWhkdlh2d1Exam9CcjZXMVlIcWVsR2ZB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

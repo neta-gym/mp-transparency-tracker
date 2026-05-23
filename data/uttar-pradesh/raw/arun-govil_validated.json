@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Arun Govil",
+    "constituency": "Meerut",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "arun-govil",
+    "house": "lok_sabha",
+    "sansad_member_id": 5564,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Arun Govil",
+      "constituency": "Meerut",
+      "state": "uttar pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "arun-govil",
+      "house": "lok_sabha",
+      "sansad_member_id": 5564,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 144400261.0,
+      "liabilities": 1464028.0,
+      "net_worth": 142936233.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:06:35.086215Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:06:30.124668Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:06:30.121876Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 28,
+      "debates_participated": 6,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:06:30.120797Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:06:50.912203Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413772Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413777Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413781Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413784Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413787Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413790Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413792Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.413795Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalhnTk16b3R6QTZOMlM1X0p4b01qY0NrZFIxRlZjbTdkbjFCN0dlR3BDb3Znc3NfTEVtTG5qYjFrT083bG9YZVFNYk5DTjFpdkJoZlBtZVYxcU1DYThiNlJoZ0k1S2QweDZ2NkhNNFpwanc3Q09WX1ExYjk2VEMwdVBXemp5TVFRT1JoWDl3REkyRFFOQ0FtcnFjLThXQ0JhcXFoUEdhOHpZYW1lOENxaHNjZHdibUNjRkRzLWVTSDltMXAwLVFz0gHMAUFVX3lxTE1GS1ktcEF2cVBZbFpLaURmWWxwVjc0NzhUWFlIamFRYVNZcTAzWm0wWnZsdkxkTjNPM1FPYVhYS2dGQ0thOGRmS2R6VlgzVlF2a2QyeEN2MERoWWVuY2pYbmZ5ODQ3X3htaG5IeUFtNHlBSThtMG1xSjNXcW5vcloxYzBDZW1BRktLUHRMOHM4SVkxSFpFTUlQVnVKbW44c1RFeURVdXJpZzNrVTc2NVVSNjdoMUNsa3pweW5zMGdhWDZEZnpKTTJkb0tJaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Namo Bharat train, Meerut metro to be highlighted in 2027 UP Assembly polls: BJP - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzlaVjRjalR4dUxuUDhhMVhLbDZhSERELU5WYTJZWVRTcGQ3QUR4QWFNdDVWVHptNkEzWUxlXzI3NldTVzExMFVoNlBNOWpHN1BsSGRKNHJCVTdaclRnNDNlcUtCYXBxa1dxaUhvZWZzRVc0V1B0VEpPZkFZNF9BYjZoY2k0OW1GenBJdEY2YTJOdzBFOHJqTlVlRVVua2tLRk9FV1BXR3g5VFZOZ3pnek9yM2VjWDJGWjV6eVFlTi1TLWdtRjdvUmV5eHcybFZ5?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘Install CCTVs in all mosques, madrasas for national security’: BJP’s Meerut MP Arun Govil tells Centre - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS203RXZrazFNZ0xma0FVSTFRd0dMdXJaSlA0SkpJREZycnM0UVRRMnVLdDBjbGFBWnF5VGNSc2RFeEw4VnZ0bndmdEFIT1g4MGlTeTdYVGtQdEtOM1pEaUtzbU1LV3VRbnlENHNET2RSclBJbThUREM0RmZwOGpuQ2ROcUlOVjg0LVlHSWNYcW43ZmNtQzJuOEp1cGVRRE1wQmdTNEFQRGJqT3VPbEplQXFNckdKLWxzYTFRQm5qdWVmRk4tOV9HYmVXaHJNaW9RR2MzdXRMZVBVcnhncllTM0o3NGM5alZ2b0VPQW5n0gH0AUFVX3lxTE9jamtEZTEwUlROaGRqcEZ5MUdNdXNNcmhQd3RNMzBsc05VTVJmQnVZRlU3S2ZWZFJVa2dmWDgyajRuWmNkRDJ3R3RrLW14aTRsTkJMMnRFcS11R0RVZmhENFZ0Z1QwSjZ2cDZpeHhoaWMtOWZ0Zlk0Ry12dE44WkVMT0EwXzlWUmFiS1pXb0pnSUlibVZmcGVTTTB1WHBIZG1Nc3dmVXFrZGxoZmhCSzRiM0pSR282RGxzT0dMZDhueGFaY3didnR0bGwyODY1WHhXRTFuN1RlNmpjaWxFZ1NOT3hpNzU2dEFpNmFpdFJrRm9kckg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP’s Arun Govil calls for CCTV cameras in mosques and madrasas citing “national security concerns” - Muslim Mirror",
+          "source": "Muslim Mirror",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1BQQ2pqQWpKdGotbWhpVVRmNVZyVDVPNkd3SGstdjVUUWZfVWNsZUVTOUlsY2pKR1JobzRNSkhmMU9KUEhlUkdUQVlSU3dfSDJrMWlIZUJMa1VNLU9CN1h6X0NCWUNmWmNaSGZnWlpYWDc2c3JVR3JkQmlsRDdKc1lxWURVXzJrTmRHR3dqMk5aVmhEWnlQWjlHYU45aTA0QUx6TlcxRjJfaVZzSkd6Uy13VkdOdHZGczI5V0h1bw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "PM Modi, CM Yogi Inaugurate High-Speed Delhi–Meerut Rapid Rail, 23-km Meerut Metro - Oneindia",
+          "source": "Oneindia",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYml5ZVdiSVdZLWdJdF8tQ3RkeGN4ODJva05xSVZiSVVNM21oQkYxT2hKaHp3T19DNEZETUJJNzBSeXY3TFJNdFpnQXducDVHSVlkVk5vWmJzZUJXSDhCaDlFNU8zcFA2SG9xS3FTMHcwN3oyZXN5NEdUUFVRQ0RYVGNCZnZxWTljZVhTVFNfRGVhWUNqU2RDUUhJSGxweW1XMVRycWk1aHNfX1hGRUpNYXF0akxvdWFzVUFja2JpVU1uQQ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Arun Govil\n\n### Overall Assessment\nArun Govil (Bharatiya Janata Party) represents Meerut, Uttar Pradesh. The current composite transparency score is 51.5/100 with low overall data confidence. Arun Govil shows moderate transparency with a score of 51.5/100. No criminal cases declared. High parliament attendance. Active in questions and debates.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 14.44 crore; liabilities of Rs 14.64 lakh; net worth of Rs 14.29 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\nNo criminal cases are declared in the available affidavit-derived data. Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 100.0%, 28 questions, 6 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 0 negative, 10 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nArun Govil's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.414284Z"
+}

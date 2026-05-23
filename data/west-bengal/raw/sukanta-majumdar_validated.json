@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Sukanta Majumdar",
+    "constituency": "Balurghat",
+    "state": "west bengal",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "sukanta-majumdar",
+    "house": "lok_sabha",
+    "sansad_member_id": 5035,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sukanta Majumdar",
+      "constituency": "Balurghat",
+      "state": "west bengal",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "sukanta-majumdar",
+      "house": "lok_sabha",
+      "sansad_member_id": 5035,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.084615Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:17.234515Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:17.231634Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:17.230508Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:21.084758Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099262Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099277Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099292Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099305Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099321Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099331Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:21.099348Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "\"If Bengal had 60% Muslims, no Chatterjee or Banerjee would become Chief Minister.\" BJP's Sukanta Majumdar - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSWNUbmtiRHRZYnBoOUhZTlFrdHhUR1BxYWRPOWdLMU1jMzNscHZTd205Zy1SSUlpMVI4OVhIUy16TTFNTEZLeFdVNktkeEZuNGczV091MG10d2ZDOHpjd0hIelNyaGpKaXNnMjk2bmtRS29OQTZwWFJLZ2pUNDhnR0RRbEZ2cmhtNkJScklndVFDTTNGcE03UXJXR2ZqT29KTzNyZ1FBWnQxcUF6N3ozQXRDR2dGZ0ZHTGc5RFNkNHVXWnhVRkJPSWFvY0s5NThndXVZQXdEc3VmaWJJSDNxbmtSakI3amhGeHJMVFEtQzFrTkEwQkRr?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "TMC MP Abhishek Banerjee slams BJP over migrant workers’ ordeal when detained in Maharashtra - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU0pVT2tmX0JVd3RfZmVlb0dvUmxwQXN2NW1veUx4eHlLZjJyNzkyQWtHU3Bvam1tSmRuWXVhUmIxR2hFZmVJR3N2dUhDUHBHMDZmZ1lNNmNIb2JQR3l5R2xKazhTQ3JWOFpaS3pWRnRGQ0lDcUNQMy1GaG5INFUyRmVxcEhrT2tfN05YN0xSRGRtYUJ2V05NNDYtdUhtTHJRT09RZlhFOHNGMWZ0OENhM19xdk1nVGlQWjU3SXo5TVVLQUkwcjkwLUpIVzVvRlg4T3RNZnJXUjh1cW5ld2JfVG9JN3VKYU96MTJnZy1Sdm1HUdIB-AFBVV95cUxPZFFBV1hEZVJVc0pueXdVb1ZwWEFXSE1Pa3IxSmtPc0Zjbl9TTERyOHZHSjFDNTNRVzQ1dnQyRlAwSjlFSXdRVW9mSU00bTd0RThFUWxYVnkwX3NEZzZvNURWbTk1RlBucEJsMjJadTlfcDVtWXBsVjNmLXQ4djFPYUdEMmxMcWstZlUxSE5fWmhjSlNHMmVsVk5iT2VmZkhlTzRtMG93Nzc2Y1RCc3NyZ3FMNWtXcW11THFYdmE2aFNoUGVBeWlUYnlwWDRrZEtFVVl0YXBZWGV0UzRsZWdSTFBuaHZmbVhWVXhwNE9JTHN4YmtrZi1XYw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Balurghat election results 2024 live updates: BJP's Sukanta Majumdar wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU01zd1R3WHotN0J3TmlsLWVhQWNHMlVNbUVBUFV4Z3d1VXBCaU1wcTVqbFdhMWltY2NacmVGMTJKS1loWnk0V2FDY1pMQzZHaHpjbWFteXdkdmZUREFfTkZqWVdGY3BMMVdwNFNtWW56bVJjWi00a2tMUzA0Z1ktWmxsX0xwZEZFd1poMXpDUnViVU1HelVKbTcwS185NV9Lc3hkSmIteTh5NEN1VW8yWDBpT3Fna0tyWU5SelJWMkVHRjJKdWhLa2dUcU0wR0JzSkU0OVo1TDR5WTJQcXVYZGVRNmJTRDE4Q3ltYTRRdWk3MVZfVWZlcHo0UGduSWhxZE0yWjZ6TUk0Qk5uZ0pkVmhiMHd3MU1jNnR6N2xpUXotS1lwaDI0T05CVjBOZGPSAbQCQVVfeXFMUExFQW9OSUJJS0hwM0U0eUlLY0Z1RlpRMV9rMjBHd2ltR1V0VWlLMlJrSmVMcXhRQmNkVEw3T1N6bTNuYXFSdzlzOGEwUDRwbmc5dDJuUkE2RzNQcnJ6T2xRcTEtNU13cUpyRXdweGNuajdvNUlOdW5ZYkZtcTZ4aVJxeWZqTl9WQ21lNjJzenNpMjFnVE1LUGJqZDhIZkZ0OExCblVNbVp0ckZ2cktlZHZZUFVRMGZIYS1Kamc5RlRUTE96QTIzNGtYRjUzTklhWm5TN0t0RE1POHVSbjNTLTJaTFBxOW9yT3JaVFhsTXlwclRPeWgzQ0tubkdhR2tEOWR3RjU5MXlGdlBERGJDcE1idXJkQVgyQURSOHNPYTJTdjRIME14MUdGZFdDNzd0MTY1MFI?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Balurghat Lok Sabha Election 2024: BJP's Sukanta Majumdar to contest against TMC's Biplab Mitra - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbnRPLVBNaGt3WDgzeHE0RkhuZWFlVTUzYjdFekJjLU95LV9MRWotZFY2aXAzb2xLeUl0Z2l1VWM2bEVHR3VNVWxGbXFyWTFtQVB5eWppU1ZMRWJ0N2doTlJHX3Y1clZPT3RJS1pHckw3eVBDWDAzZy02RnhmT1pLRTFseDdVN1BfWENBcG4xMC1VQWFiSi16MTluc1pjTGZ2dE10Ylh1UkswZVFZc0xOcDU1S1ZzQWJLQlBYQzlHTzFfV3A5QVlhYUQ1Qy03czNaSkRKNVlsYS1ObU1sRGpPMk1fN3hTYXkwcTR0b9IB8gFBVV95cUxPN2U5X0hMdUdsZWNtSlJSaWp6V2NCdm5Ta3IwQ1l6MDk0dkFJQkZ5Q3FXR3ROa0hHTkFvX2ZHTF9WV3BMWENINEhiODFhTmlWNHZXREowdm5mcVZEYnYzejRvZjNORWRUcno2RkdHVHdqLUxEQUIyT1dlTUM4Vjd0NkZ5dGdvLXNPTldCYmFlWlFpV050T0w3OWdBMm9SMm5XOTlLc2RQdUdzQWVMN2RnOWZwbER1eXYyMF9zQlB5SVkyMzR4TGxFTUN4dVcxZFQyZXFMU3ViMzNfZ0J5Z2REQXJqUHVmRW9ibHdLVGVOaFc0UQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Why Bengal BJP chief Sukanta Majumdar's plan for north Bengal has ignited a controversy - India Today",
+          "source": "India Today",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQWh1M2JaRmVMZHZkb1JxS2VhOXcyYks2VElSaXJNT3pfV0lWT2RhRVpITnE0aUttdTZRT09pMThJTWkzOGsxTDJMWFBEQW5mNmw1NkM2SXJDUTRSZWxRa0N1NjhpRnZzcU00Vkh6eHJlMG1QaGRoMm0wQ2hTbEI1WnFJUHhMWHFETHVwOHB5RlZtanRZWkJ1d01NYWJZckZfX0MwNXJzVncxcTFwdktnX2VZS2h3ODdkcnBFSXdWNzBJdGc0MmlyejlEUFQxYjU0R2tMM3Njajdhd1VqWXlNbW5vamluZkRSRTdDenl30gHzAUFVX3lxTE1VN3daVGV6RVhSRkZDVnJfOGhSRUE2aHFMSlJnOWxOTkVxb2pWMGdIX3NCZGVNaXhaQWQ4dFdsQ2swSmNWbHpXT1hZVl93by1lSjNrNFhoM1RPMy1Hb2lVbzVFX3Y1TUJwU1psUG5NOGpOdTBpU1ZHYW1YLTZHcXVIY2g3OUtvY1NFbjdrcWRWbXdCTExtUVZPbWRsa2lRQWI1Ul91LWpEcjNIdVlOblhoaFI5YVJLaU4xQk5YUDM3bnRoZENlUHQ5dXgyZExPTmdjajhTcmxVZGp1SnR5VFlIR1RkcG4wT0NoLXNRTEQzbkk1UQ?oc=5",
+          "sentiment": "negative"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sukanta Majumdar\n### Overall Assessment\nSukanta Majumdar, BJP MP from Balurghat constituency in West Bengal, presents a transparency profile severely hampered by data unavailability across key metrics. Currently serving as a Minister in the Lok Sabha, his profile shows minimal information across most transparency indicators, making a comprehensive assessment challenging. The evidence grades of 'C' for parliamentary data and 'D' for accessibility reflect significant data gaps that limit accountability evaluation.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that each MP is typically entitled to ₹5 crore annually for local development projects. The absence of this data prevents assessment of his development impact in Balurghat constituency.\n\nCAG audit findings highlight systemic concerns in West Bengal's fund utilization: ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues provide important context for local development challenges, though Majumdar's specific performance remains unmeasurable.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit as asset declarations are mandatory for all MPs and serve as key indicators of potential conflicts of interest. His monthly compensation is listed at ₹2,45,000, which appears consistent with standard MP remuneration packages.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), though this comes with a low confidence warning indicating potential data source issues. While this suggests a clean legal record, the data quality concerns prevent definitive conclusions about his criminal background.\n\n### Parliamentary Performance\nParliamentary activity metrics are entirely absent, with no data on attendance rates, questions raised, debates participated in, or private bills introduced. His ministerial status is noted, which typically results in lower attendance due to executive responsibilities, but specific performance indicators remain unavailable. This complete data absence prevents evaluation of his legislative effectiveness or constituency representation quality.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals limited but generally neutral coverage, with 10 articles identified (9 neutral, 1 negative, 0 positive). This relatively low media presence suggests either limited public engagement activities or insufficient media monitoring coverage. No social media metrics or public accessibility measures are available, contributing to the 'D' grade for accessibility.\n\n### Data Quality & Caveats\nMultiple automated warnings indicate severe data reliability issues:\n- Low confidence across criminal records, assets, MPLADS, and parliamentary activity\n- No committee assignment data found\n- Sansad profile potentially unavailable\n- Legislative effectiveness data unreliable\n\nThese widespread data gaps significantly limit the utility of this transparency assessment. The evidence grades reflect these limitations, with parliamentary performance rated 'C' and accessibility 'D', indicating substantial information deficits across core transparency metrics.\n\n### Key Takeaway\nSukanta Majumdar's transparency profile is characterized by extensive data unavailability rather than poor performance, making accountability assessment nearly impossible. While available indicators suggest no criminal record and neutral public coverage, the absence of crucial information on asset declarations, MPLADS utilization, and parliamentary performance represents a significant transparency failure. This data deficit could indicate either systemic disclosure problems or inadequate monitoring systems, both of which undermine democratic accountability for this ministerial position in West Bengal.",
+  "validated_at": "2026-05-21T14:22:41.269365Z"
+}

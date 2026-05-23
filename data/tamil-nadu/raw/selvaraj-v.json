@@ -1,0 +1,384 @@
+{
+  "mp": {
+    "name": "Selvaraj V",
+    "constituency": "Nagapattinam",
+    "state": "tamil nadu",
+    "party": "Communist Party of India",
+    "myneta_candidate_id": null,
+    "slug": "selvaraj-v",
+    "house": "lok_sabha",
+    "sansad_member_id": 5800,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.187381Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:28:28.701901Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:28:28.698212Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 42,
+    "debates_participated": 6,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:28:28.696785Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:29:31.187566Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203083Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203102Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203110Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203117Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203125Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203132Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:29:31.203139Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Roadwork yet to begin in SC hamlet near Nagapattinam, residents flag delay - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1NvWWZ4WXpXQTFMLXg0R0pPcUQtQ3pJT3pyV0prRkN0bFBZNmYyblRIekV5M1NJZlF5enp1M3NMMlEzSHJmZVJINjhvZmVIVXlJYV92SWhlWlhaS05ENUdmYXBuajg3dG54VktETzdDeXkyeVhWTFExWXVqalo5VXJGcU1taUZGV1RtaEJuTEYwcnpQaERHRjFRMFlHZXMwOGdiV0hJVXlWcDJMZHFhWWZnd21KaXAwaVNVRDZfMGFqT0t5WWE4TkF3OHRZSmxYeFBtN3d5aXNlRkNncVHSAeQBQVVfeXFMTjFYYXVlTW8tVWRpNG9BQnMtVU1fNWViYWxkeFpENzkzMmtPWnZBSmFzTlpDdEFhOWxfYTk5QldwQjNXbXk4eUJfZFE3cVMxb1kzUkxVekdsZi1YWEhtS0NCOWVKX3JZTzR0RHBhOWVMSU43cm5oNHRnbDdKS01uS1ZTeEVxdnpLX0thTU9LeFBWUFUtc19kanlzcHZaNV9NTDJuTndKODBZTVgyQmhyVzBvQWhQX25UdHRzcHpXMW5vcFZrMzVDOGRPNHlfNzctb1NyUVduTXZaeDdhMERyM2NaYUhM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUk16ZlltLUF3WVZCc0kyQ2Zqc2hza3hWZVpwRUNKYXdfVnl5TWdmNndXcDlYSDg3MkR6WnRTQ21EYkNQeDJUTDZVem9XeGRsS1ZHWU84YV9TeV9WUVpwYm02aWlPa3lxSVRrTTJ3U2xIdHVxN3JySEdXZ1NPZWxBN296ZzFaZXNMVkVwZ3lDNS1oU21DZExMb2xuVWZQVmRaWGRtb1ZiRHpocmlfZHozc1NxOEM5dEZwN3ZEUk96OUpyOE9sRGlPUFV0bGFoV29GZHgyUnR1MWpScDAzZ3oxTtIB7gFBVV95cUxOMno0TFRLYjY5NGYtQkQwWVY4OVk1N3Q4aXAyaWI5Nl80Q01hMTMyaTBySmFpMmdYdVpQSld3aGJBZVVoVlRCc2dRT3VISl9ia3VWN3NtNk10QlA1bGEzRVNBVmlfWnZ6dlV6YnR6UkIwbUMxMVNuY0k1NGt6T2dWaHl5VnZ6NkdDWXJqN2dScXpSLU5ZRFhTdjE3ai1nY2dUWHZndnUyZHUxMGhicmpUOVFQajc1TVZLaWVpdkZPWU5weWQzSEQ0dFRad1lJOE5VQnVKUjVOeEV5c25YMG9YMEEySF9rYkdDeFdhcmt3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nagapattinam MP seeks introduction of passenger services on the newly constructed Karaikal - Peralam BG line - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSEZkeEIycFVCcUZJYTV5Q19NSHBTQWNwVGxyblVCbDFOTmVmSDhoaWFja2VpVU1XX21iN2docTJKYkxmaGtseUFUSWxNZk44NnVPUko1U29INzk0YndpTFh6OHg1Um50ck5kdjZEMXYzbzZUMEZVU0RJdUh0M0dLV2R1MG04eF9xZFB6c2xVbnVVWGpwWUdUM183cGhWcUtka2hYVGZkMW05Rlo4aDkwNmcwazFlMURhN2pqRjdQQWhmZDBnM2FyOUdOUlN2a0xnX2JZYmJRMlk4MnJxVHlhYjhCUkFxUWxBT3J2d0MxMUptcFQ2VTUzbWJTemU5czE1ZXFZN09MV0VaQdIBkAJBVV95cUxNRTNkR3NRdFQ3MHlCTDctMy1oR2d6aFlXaDJyNVV5TG9wQllHc293eDdtUC1Kd1NSTi1mM0tYUEVSVTZ5R2ZBYUdOUHNLMnVfYmJNUDIyQnQyVGp6RzVvM2I2bllPY0R2QWtyVU5RWTFrUE9HaUpJc3ZPNlpmb21HcUpvMGxPUHpLUkNWNFFncmJRTFQwWlN5TGpkbTVGNktSMUo1SDVEcXFFNFhsN09tZDE4blVGZ2ZTclZjRk9tMmJGWmxTSmoxb1lqLWFVX3NmdEYxZXNQNDNwMkU5c2lGOExaLTdrVEZQd0VDUlR2TG1vVWRzMWJaeW9FZm1RQWhVd19NXy1yeUh4YjAxbWpvNw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamil Nadu: Four-time CPI MP M Selvaraj passes away at 67 - The News Minute",
+        "source": "The News Minute",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0VUY0UwcGZ5X0RCVXBWUmIzejhfNkNYWk15ZzdWcEVTV05MR19jSmlnWUtiV2dHQ1JuMVJWMHFQNy1nUjg2QnFXSnVTSVFVd1pLblNQcVJ5Tkc5emtQLW5kUkRUYzJtYWRIa3djdzBkanI2Y2dRWXFhYUlYWmNqMFRsdjY5aE5EaG9JWVhLY3NudW9mMmdkUU5nTXRrd9IBqwFBVV95cUxOamZScGNHQmRrczg2Yl9VOEJQY3U4WnBFb1JLbWNlV2tSTFh5OVZiQTVrNm1XUDFpMWxpNU9HdmxIUlNYTG1jV0h2ZmNDbzdhVWFZbnkzcVUzTG1RQk1EMWxscll2dFVhRlJFbUtRcUV4RDc4Sk1BNTl3Vkd5NF9OMERZTDItU2VKb1pqN0VQZ2w5MnRzbmxaakNiMGkzcWh2dHFabUwwb3hkeU0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nagapattinam election results 2024 live updates: CPI's Selvaraj wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOa0VvRzh2QzZFYkhvaEVMcEJRUk02cDlzZTZDMkQwWTJraWZwY3J2c1RUVm1RSmg1SVpBVWN0cjFsT0ZRZ3NTNXlWX2U3NHRFNnRvZHdicU1FMlNfRlVidW14cU9qSUhLMEEwakRIeVpTT3hHU0gyMURRcDAzQk1DR2N6M0dwcWI2UXN3c0xOekF4Z3RNd1NxMW9uelE3dUVDaWZWc29qTm9vTXhYeE1QdGJVMU5vcXVwUE8yb21KMHNhUXVDRFJRR2lFRU91SDVOQkhQbzhiNEg0aV9XYTNRTUVfaTFfVHlVdG8yM1NRV0FnRDFCOHZ5T2RJbzk4VElDQk9ncXJXMWNja0h5UXRjckNuNmgwOWlnV0l4dWFYWU9nZW1KTlcxWWxjbkpWbnlFUnBoTmtJWFJYWGtRdXJzWGNEbndzaWhVRXJVQmZnMC1sV0tnN2lId3Y0OHfSAeICQVVfeXFMUGlIZmNrS1VZaTJKN1VKOHBvblN5bGFkNGdVeTl1eENTbGtBTlkwdFdCUk9JU1dfTmFoTG5aRTNDS1NraWtFM3BsSnMxMGQ4U0JVb05ycTY1VUdFdFBFSVdxbkIzLWI1TDI1dlkwM3IzRDVlT25tSVdaejl1RV9GYnM5RF85SmU3dGswbGk5cmZ4VTFoaHZWNHYzdm1sbmlLX2taY3kybFZja1ljX29yRG50ZFZwXzR3RWg5VkxfYXVyZkNqWTktM043TG5MQmllREU2S3ZpUzJ4dkZsTXNrMTRVZEJ3ZEl4dHZrbFNIVEdWVE5EMWZrTUlzbldSQVFjMDd2RFNoa2ZiWmNMSXlIdk5XVVVtYVY0cHpmXzk1WlQxTWZvTXhKSlJPdERqNnNtU19YMV9yV1ZMcEs4VEhHUTZpaklIbjJBUFpKdUxZQzAwSFRkV3dTbDBMejZVLU1EQk13?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

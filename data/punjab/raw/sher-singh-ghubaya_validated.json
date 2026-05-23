@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Sher Singh Ghubaya",
+    "constituency": "Firozpur",
+    "state": "punjab",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "sher-singh-ghubaya",
+    "house": "lok_sabha",
+    "sansad_member_id": 4432,
+    "profile_url": null,
+    "canonical_name": "Sher Singh Ghubaya",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Sher Singh Ghubaya",
+      "constituency": "Firozpur",
+      "state": "punjab",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "sher-singh-ghubaya",
+      "house": "lok_sabha",
+      "sansad_member_id": 4432,
+      "profile_url": null,
+      "canonical_name": "Sher Singh Ghubaya",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.878571Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:42.861074Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:42.858858Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 85.0,
+      "questions_asked": 10,
+      "debates_participated": 4,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:42.857962Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:46.878707Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884656Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884671Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884680Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884690Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884701Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884707Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:46.884713Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Firozpur election results 2024 live updates:Congress' Sher Singh Ghubaya wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPZDJYUVpwS0VzTGdsOG14T3k3VlBLV3pRckRIT1hpSXVXRjVvWG9vb0hidFRscHBmXzcwbk5TcDJUVDA5U3lEbVhhZF9NWmpocGoySHo1U3pSOGNKRFd6cS1hZ3FqSktKc2kydm5wVlNIaWVCRUZCYzl4RHNENVVEWUFROUZld3J1Vks4U2tjVDVTQWVZN2VyVkV6SUVxbTBJVDJQMC03NGhOZ2FaWW44VTVRejR2TkZpdjFsc0UxMmFLNEgyY0JoQnRTNC11VVkwenRrcEJfSC1oMVBwck0xMlk2Q0hGb2VMZE0yelJ1V0FCalQxZEZYaFJLRWtxVl9aVV8tcm9Mek1aWUJhbWJ1RmI2NUhxMjEwZ0ZBVTU1c3hYMTl4Uzc5Xzc3SXVURDl2RVRGaVNORFVKQmZBSURwRkN4a1FfVnNkamNTWkxienFfVzjSAdgCQVVfeXFMTllzaUNiaU1jdWhWakVGRkpHTjNNQnJJRmthQU1HLUVYdTdlVmJrZG03RXBZTmhvVnlOYmo0clFkd0xyeFYtVXJzWHFCb3FhR1RFckt1czVhN3Fka2p2bmVCVVByR2tpaUVKSm93d2o2Z0pqclhVWk1VSmFmVHJGeVhuaS00MV9qbTI1SXN5OG9VWEtndTg0Z2VBdEZNNHJIb21kV0hxUUxEYURHempUZ3BSZ1Y5TFItMHJselhpSnhRMXU0c0FrdlVDWFJfb1NxZTZqQ0NaM2hmQkgtSTV5eXROdzNMc0U5MGp3M2JaSDROYlNiMXB5QXJVSFNqR1FfZUdlalFMRFhDakFXbnZTY0VEVXlLR1c5U0xMVW5yVDcxWkN1QTBzYXY3RDdsMmx6eFFfc29pbzR1LWY2RzBhZ2lNWFJWbkNVcDVKbng1VHY5TkJlTDByemM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ferozepur MP Sher Singh Ghubaya joins Congress a day after quitting Akali Dal - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3ozMVF2MGJYR2VjZHRNbm5Ed09qWUw2UmwzelBoSVV2Q0NNd2cwbEN4M3Rya3gzcUtOTWtvd1FaVC1VQ2V4enZVZnY2Z25oazBkOHJia002NWUtMFdFbk9vUGNUSFV2VEdTOWFFRWlDdk5fVW52ZG5MZnNETFhuaUloc0ZpN2xCN0JfSXJjSTA3ZXJoNWtoX0lGQ3FTbHIxMHAzQWJJcXjSAa8BQVVfeXFMUEtrR0dubkRhZ3Z0U2NpZ2hQaDFaVDE3NVdsbS1xNEc3dWRpNWV5N0NWWE5vMmRQY29qa2tqU3ZjWDFyU1lXcGM2SzFEcVcxTUQ5SXBjWWhXRDJKWWcxMG96cnlMZ25fWkRuT2dSd3NOQldRc01PS3V4aDQ1aFQ2NzdTVVNUWjZRVTIwUjV1NEJUbWlVVExLV0g4VnhIWWg0QWJoTkdtOVF4dm9GZjZraw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress fields ex-MP Sher Singh Ghubaya from Ferozepur | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdjdaNzluZ1JPeUNYUjAtU0FVVGwyOEZfd2hPdDdOOGtPUXdpdmtQVHotZEt0dFFZVXNCWlpMQ2x5SDkxX0pHUUpUalc2Z3JURFBMNW9YQnFVaFBCWWVqOF9rSzJsVTlNUEVTZk9oYzBQd1VDZ05oSml6UU9jYTJucWpWc0o4QUtKWmRZTkhjNmZ2WmlDOU5oZ2pUaEVqOGd4QTU0UGc1T0FiekZqNXNoMkI5M3RVOWs3bS1OakNhZm1FUXVVSlRKN0lB0gHPAUFVX3lxTE9WR1o0Z29oWnlQMFF3SWpUdVRnak90R0pSVVl2UG1vbmFOeE9uZi1BdDdEN21IbEFtak0yamZnSWF5cG53aXdVM3BacGtRVVV4d1JBT2JnSWxSaThsYUNJVXlUN1N3ZklTOHhHWkNSc2RHMFBielZFRWhXT3VfQ0hQUkxLdVNlRmZNWEZzcHZSRUhRSFUtTjNJd3U2V20xR2haYmgtTkJOY21iNzZ4U3M1bktZY2ZLRW10Q0RfUGRuZHFqbFY1VWFjUklqM3NQVQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress fields Sher Singh Ghubaya from Punjab’s Ferozepur Lok Sabha seat - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2xJZFhFUXJLZkJUWFVLUUxpTXVwN3o3Ul9MQ2swWTk4MWY5SndPNXEycHpNRk9OVVNaLWhhOE92d2Fzc21ydW9UMWVVWVNFdW5fbi05SkVCV3lGWnVlYkpGMnhnVkd2Y3lsMHc3Zzh3YW8tdnA2c2Ftb09iYkNTdjR2T3R5cDd2VFVSdFFsOHN6LVF2SFV5Ul9LVERLRjBuRUtRalJoTlpQci1fN2lJ0gG2AUFVX3lxTE5qS1pIb2dianVJUTNtb2VycEo3OFZLdlBqMkdGS2xMdHdJVllhUThKbHNBSjM1REFlbUhVTEN3OW9SYU1qb1U5R2xsSWVSX0xRWFd4VG8xd0lqbVNTYUt4cEwyb043ampsVFByb29vVGhlSXZKb2ZMVHBNZUhOV3ExU213VFgzaFRJYWRWVVNzR3cwWGFMRjFnZVQyX1pLcHdVcVNMLWlLVmcweWZDdHRFcUZ2ZFBB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Firozpur lok sabha election results 2024: Firozpur Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXJxdkx3cjU4bk5neEVaamlNNF9qUnAtU2NkRVRWc2U2Yy1XYjZMb2ZlWW9HejlYeDJQRWVyV1FkWGI5MTgybEtaaFNwWnRpMzk0aGhPZi1sSFN4bFVzLTJfVGpoN045bXNlV2phcTVqR2hhRVZ4THEwOG5EMDVvS3dBUnQ0clpCYlU5X2pOdzA?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Punjab: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Sher Singh Ghubaya\n\n### Overall Assessment\nSher Singh Ghubaya, Indian National Congress MP from Firozpur, Punjab, presents a transparency profile characterized by significant data gaps across most accountability metrics. While his clean criminal record and neutral media coverage suggest basic integrity, the absence of critical financial and developmental data severely limits comprehensive assessment of his parliamentary effectiveness and stewardship of public resources.\n\n### Fund Utilization & Development\nNo MPLADS data is available for MP Ghubaya, making it impossible to assess his utilization of the ₹5 crore annual constituency development allocation. This data gap is particularly concerning given the CAG's identification of systemic issues in Punjab's fund utilization, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also found 18% of sampled works were abandoned or incomplete, highlighting the critical need for transparent MPLADS reporting.\n\n### Financial Transparency\nAsset declaration data is entirely unavailable, preventing any assessment of the MP's financial holdings, growth patterns, or potential conflicts of interest. This absence of basic wealth transparency information represents a significant gap in public accountability. The MP's monthly compensation is recorded at ₹2,45,000, consistent with standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nMP Ghubaya maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting this clean record should be verified through additional channels.\n\n### Parliamentary Performance\nGhubaya demonstrates moderate parliamentary engagement with 85% attendance, exceeding the typical benchmark for active participation. His legislative activity shows limited output with 10 questions raised, 4 debate participations, and zero private member bills introduced. This level of activity suggests basic fulfillment of parliamentary duties but indicates room for more proactive legislative engagement. No committee membership data is available, preventing assessment of his specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment—no positive or negative coverage detected. This neutral profile suggests either limited public visibility or balanced reporting. The absence of strong media engagement may indicate reduced public outreach or limited controversial positions. Social media and direct accessibility metrics are not provided in the available data.\n\n### Data Quality & Caveats\nThe transparency assessment faces severe limitations due to multiple data quality warnings. Criminal record confidence is flagged as low, asset information is completely unavailable, and MPLADS data is missing entirely. Committee participation data is absent, likely due to unavailable Sansad profile information. Legislative effectiveness assessment carries low confidence ratings. These gaps significantly compromise the ability to provide a comprehensive accountability evaluation. The evidence quality receives a 'C' grade for parliament activity and 'D' grade for accessibility, indicating substantial room for improvement in data availability.\n\n### Key Takeaway\nWhile MP Ghubaya maintains basic parliamentary attendance and a clean legal record, the extensive absence of financial, developmental, and detailed performance data prevents meaningful assessment of his effectiveness as a public representative. The critical gaps in MPLADS utilization data are particularly concerning given Punjab's documented fund management challenges identified in CAG audits. Voters and stakeholders require substantially more transparent reporting across asset declarations, development fund utilization, and detailed parliamentary contributions to make informed assessments of his public service delivery.",
+  "validated_at": "2026-05-21T14:23:06.724415Z"
+}

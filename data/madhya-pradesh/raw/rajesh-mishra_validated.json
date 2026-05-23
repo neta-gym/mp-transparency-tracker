@@ -1,0 +1,460 @@
+{
+  "mp": {
+    "name": "Rajesh Mishra",
+    "constituency": "Sidhi",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "rajesh-mishra",
+    "house": "lok_sabha",
+    "sansad_member_id": 5579,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Rajesh Mishra",
+      "constituency": "Sidhi",
+      "state": "madhya pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "rajesh-mishra",
+      "house": "lok_sabha",
+      "sansad_member_id": 5579,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.263212Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:31:02.305175Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:31:02.303354Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 38,
+      "debates_participated": 8,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:31:02.302645Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:31:57.263363Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269797Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269812Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269821Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269829Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "madhya pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269837Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269844Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269851Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:31:57.269858Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "BJP MP loses temper with woman in Sidhi: Yells to silence her, scolds youth filming incident - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlpkeHFDbnBHT0hHdmFYWlpqekFfQ0hPbm9ueFhSX25XeEFnYkpKdWlrTFhCRXZheWY2NlA2TkQ4WmU0ekNYN0VGRldfamM1T0FaaFU2NGItWU9KaVZFdVR0d0EzSkhGTEwzZ25OZ1lmVVpCQmY0alJZbTNkOGpZOExael8zQ0tMVXE2YkM2dk41M1R1cC1MeGpqejZYSjY0RklPZ3E5RXFKUW4zNkhuZUpnQ1ZPSGVBeDlDb3hKaVJHTjBD0gHKAUFVX3lxTE5waTBDYW5iQUVEdllTemJLcFZUUlh2bzlzaGI5UE01NzVHQXF4TlZXWGZid1FTX2JJMzFIUzgtX3JPM09LZ0VCRUc3Q09LWF9yWU16dWJ1bUZncHItclVaTng1QlQ1NHlVRVpkdXItcHJlOU9raVFEckpVbC1RWGVST1QyUUpDbDMxU2V4aklJNFVIWTVVckItQU1qTWNBWkZVNWZrVE1GTmdTcXo0bFh3aHF6dEprQ2doTFQxck5ZRVMxeUtTWG5sb0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "'Sidhi urination case conspirator are now MP and MLA': Former BJP MLA Kedarnath Shukla says, 'Party organis... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSF9hSUpXbnNSQjlIR0xsUndmWFpEdDViVW1nS25GU1ZxQ1pxa09rVm9pZEJsbFhMRU5idEFTaU9Jd1Q0bnpYb29rUlhrNXR6UzBCM3hIYnVrMVFNalpJOGtnQkgtN1d4QW8tVE9mU1o2OTFJMnRnRFNrMGFoUzlZMU04WWxueFFCNmNEb2djemhSRmRpbHRFMkFuZzlqajJOMktwRXF0R2lkTzFmSFJFRkFMMmdPOHAwa2hFS3N0TldEYk1jVnRNZ3AtSTM4Y1FBa2xIeTV2VXpFWlRzWDVlZEhEX0w4S250YXAxSzVOUGhLOXZ6RW4wY3dSaHRNUkE1NU1tUUhYWTRyZF9FOWxqeVJVa1ZhWWZuN2hLV0FQSU5Ha2FZM2fSAasCQVVfeXFMTkF2akxBX1lVMlR6cHM4c1JWOVc4eDhxN0pjNUFuYUc0bjl6QXV1ekg1ODBEbjFLSE9KYXNiVU9lUGx2TEJGQjVEbU5RR0Y2SDF0bXZfcmlNVi1hTldDbWJwT3VCM3VXU2dQOVhFbGlIWE9sMFlUa1Q2WDJMcm1sLVRLQXBQamJjRENDbFhXM0xxMDhWaDFnWVhTWTA3ZnRVR3lDc2x2azFfel9jNnd2QXhYZWQzSlI4VG1ocHFCWEVxbU00dlRLNVdiLTUtVUk0Q2hpcnZ1Y3RERm50SU1sM2F3VDU3RXpKeDdHejIxZ1V4c1JJNmpZeDhUNFQ4YXF4VEIwbWl1WDE1cmc0dzhrRHlBeUttb1pDdmQtR2plbUs0c0J3Sk5UTzRKdlk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Leela Sahu को 'उठवा लेंगे' वाले बयान पर BJP सांसद ने दी सफाई, बोले- पूरा वीडियो देखें, मैंने कहीं कुछ गलत नहीं कहा - AajTak",
+          "source": "AajTak",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0RacGtDMFpVRi1OTXZMUkY5V29fX3FRcFRyNm9vSl9hR1k5X2p6cDFTZjhnN0ZnWXhOTmRkVV9EaUpVbkp3WG42SURXNXhjU3ZGTnc4OEUzRmVmRXBMcU8zVm02S29VWWI2elNfeGZGNFR2SGk4MkVDZnBrOXctUEZ4bmdRbFRCZnVIQ3FzV3IzWWd4MHMxdnd2dUxhMWZweXgxSHF6OXBiZ211UUhsUmdMY0RlcGdaSG81NzJQbHFEcXNTNlNqUXJVaW82ZmUzeUU00gHYAUFVX3lxTE5OVThST09ObHNpamFRaHVIZC1GMWlsRHFvYy1iZjZzSDF1WEdZMWNndWkzQVBYYnpCNW1maGJ1MXJHQW04Z0czZ3N4MUVYT3NCU3FnTGxPdE5qUE82NXFOczlQY3loZndtLW1LeG4wZmhXSGlqYWNhakpmN2NkNGdidW1UOFBRMnAwVVEwaDYtbDB5ZF9rUVdId29udERkcTFIaXp4UE96SEo0VXBLLWxuQXpMaEJkM2N1UGZTV0RkeWhPQWRUb09oUXk4dU9VeGhwNjdocUNfZA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Madhya Pradesh: Pregnant woman demands road for village, MP says she will be shifted before delivery - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOR2VPY0oybktGcVZlQXZzWVNsYmdXRjAzMHp3UjhXYTBvZzdyVnNlNFJwS3ZLb3JONHVWMHRDcy1GVFVuemFkUFZiamFwSG9vaUVvbS16cmhidmhBS1Axc0pRNm91UHo4VDRyZEYxV2tnRVVKMDdpTC1tSjBDTjJZTEJBSGF4TVhXdFJGZEJUcG44SHZDelY4WWZ1MzRWUi11aHZYd1hTbnNJd1lIcEhmaW9DUzU5MlhKcUJqbWoyNTI3a3JoYzV6anJDczMwLVpDRkZIWHgzUG03TU8wUDRzc0IzWGQzdElDLV9sdFplNW9TN2FWMGZWU3FYQkVvelVkaEpYVlV0VDBEdDcybTFxaXVWVUFCQ0HSAZwCQVVfeXFMTnlOQXp2Q2E1amVJZkphTlJfMmNMcDdEWkxQSVViUUdocHlybHVWaDhfaDh6SkkzOERiMV9qcENHSTFYdUEyVXNpcGZRUUxFTWxrc3V6MXBrdUdxVTNvd3d5Z2E5ZWVaUkd0UlllR0s2N2doRDA3LVkyNDlheHR3TTBkWmU2dTRiV0VFM1NXZndhOU1XcXBlUHo4TFo5NFNPYWxyWjFZZEUtWVl4dUxEdU93R2hxa2ZxOVAycmtCME5XMnBwd3RHZ3I0aGIwaWVBeThFLV8zaWxhb2RPTjNOUHFnQ2luV25XVlZhV2ozUHdBcVdsYVBEQTdVZy1xQUZZOXh5akp1bXQ5S2JlS0RCbWhuOXZHX1V2WlpJZ28?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘Will get them picked-up before delivery': BJP MP’s bizarre response to pregnant women demanding road; op - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2RwMjhCNGhuRHNXVkNIZEdVeVctWDFyajRZbms1LUxPZUdfV0FVUk95SXJUQzRxaFRHZlEtb2ZQdWRoNE1obk1DNURmOHhtNjRON1pGMEd0TWUtRjJLQWs5aFJrRUlyRXVRYVYxempVUlY1V1RqVzF4cjljd2JHZHgxNmstd3ZsdmJKcHRoMFBONkRZU3lwVTJZbzd5ZzhtcExOZzlrblNwdlNlR2hBbnRtYTZjakV0V1ZyamE5WkYxNGZtMTJFd1ZLNjZUZVlKSlhET0pXOUZtd2lNUnhRWHNNekRaS2RHZUZRRmFyUzNGR3l3NDlwaHpwWDBnNzRTSEpieFlnb3Y1Qk1jYnVONFhLUlRMQdIBmwJBVV95cUxPWFI1akJDdXZQaDBPdEpxaEZKdFdhSExuZjV5MlpfLTV4SXlnTmo2aG1HUzF2bDNxN2szbTRIY1RrTTFROFpUM0pPWUdkTHZSOUhlanJTeUhuRFhVejc4cmdqYmRnXzNZd1AxQlNBRFBsR2s4elRSRWtTU19Ha2ZlZEp3Uk9VeXZSWE5PbWhVdWlkcFBGaE8xaVZnQlM1a3B1Q2x5c0ttaWhkQ1BueDdQQ20xTVc3Ykc4VjYyQ3pEYXRtWDhiR1YwNUhmZGxXSDNsSFFrTTE0TXZubVRDZ2drWnlrSzg3RnlXeDRaQkhpQlVrbkt6Nm1nSGc2Uzk1UWI5NzB3Nm5MeG1VZGMyX0hWTFpKUTRPN3l2Nzlv?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Rajesh Mishra\n\n### Overall Assessment\nRajesh Mishra, BJP MP from Sidhi constituency in Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining a clean criminal record and demonstrating consistent legislative engagement, critical information regarding financial assets and development fund utilization remains unavailable, limiting comprehensive assessment of his overall performance.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for assessment, including entitled amounts, funds released, or expenditure patterns. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG report identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were either abandoned or incomplete, raising questions about effective fund deployment in the state.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and serve as crucial indicators of potential conflicts of interest. The MP's monthly compensation is recorded at Rs 245,000, representing the standard parliamentary salary structure.\n\n### Legal & Criminal Standing\nMishra maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, this data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems or data accessibility issues.\n\n### Parliamentary Performance\nMishra demonstrates exemplary attendance with a perfect 100% parliamentary presence, significantly above average MP attendance rates. His legislative engagement includes 38 questions raised and participation in 8 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, which could suggest limited initiative in independent legislative proposals. The parliament activity data receives a 'C' grade for evidence quality, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral media profile suggests either limited public controversy or insufficient media attention. The accessibility assessment receives a 'D' grade, indicating poor transparency in public communication and engagement mechanisms. No social media data or committee participation information is available, further limiting assessment of public outreach efforts.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, missing asset information, and absent MPLADS utilization details. Committee participation data is entirely missing, attributed to potential Sansad profile unavailability. Legislative effectiveness data also carries low confidence ratings. The evidence grading system rates parliamentary data as 'C' grade and accessibility as 'D' grade, indicating substantial reliability concerns. Data sources include PRS Legislative Research, social media monitoring, and news aggregation, but coverage appears incomplete.\n\n### Key Takeaway\nWhile Rajesh Mishra demonstrates strong parliamentary attendance and maintains a clean legal record, his transparency profile is severely hampered by missing critical data across financial disclosures and development fund utilization. The absence of asset information and MPLADS data, combined with systemic fund management issues identified by CAG audits in Madhya Pradesh, raises concerns about accountability mechanisms. His neutral media profile and poor accessibility grade suggest limited public engagement. Voters and oversight bodies should prioritize obtaining complete financial and development fund data to enable comprehensive performance evaluation.",
+  "validated_at": "2026-05-21T14:32:18.181156Z"
+}

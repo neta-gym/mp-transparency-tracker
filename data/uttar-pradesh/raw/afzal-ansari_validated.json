@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Afzal Ansari",
+    "constituency": "Ghazipur",
+    "state": "uttar pradesh",
+    "party": "Samajwadi Party",
+    "myneta_candidate_id": null,
+    "slug": "afzal-ansari",
+    "house": "lok_sabha",
+    "sansad_member_id": 4170,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Afzal Ansari",
+      "constituency": "Ghazipur",
+      "state": "uttar pradesh",
+      "party": "Samajwadi Party",
+      "myneta_candidate_id": null,
+      "slug": "afzal-ansari",
+      "house": "lok_sabha",
+      "sansad_member_id": 4170,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 5,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 5,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 207682224.0,
+      "liabilities": 0.0,
+      "net_worth": 207682224.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:00:40.835877Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:00:36.837383Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:00:36.834584Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 80.0,
+      "questions_asked": 0,
+      "debates_participated": 1,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:00:36.833465Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:00:55.799551Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177864Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177869Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177873Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177876Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177879Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177881Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177884Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.177887Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Allahabad HC grants relief to Afzal Ansari on his statement on marijuana - MSN",
+          "source": "MSN",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPMzVoUWFtcWtpV3VoSTFHUHdYaXNCTTl1MlJ5UnprU0xPUXNaNnB3V1dlM29rcGtwRnVhLW14M0VVeldjUmpsRU5Bb19TaXgyZnJtN0JfZElIRHZhOVc2dDdrNHNkQUZuZHZncFk1WGJSLW9YR19jejItelhCaTh4M1FyaXhRLUh2UTBfTjNwdjFYTkM5Q21VY3laZGdfTGNNQ1VxbTAyNVZJeWxkbHZCQXBoQnJSR3RKNkFubmUwZ2dqY3VaM3BWZDNKTW5nN2RNdGN4M1ZoVDhFX2FyeF9ZekZFT3U1U2tnbDZSczYwMnJIUW5qc09hMnJ2a19VM085VGEyMGdCMkpHZ0tEWGx0ZlE3bXpTa01Ucmw0OGI3bjFrb0xiOHoycU5vdmtfMGxvRVZXeXF0bHNyV3RrTjB2TFd0akwxV2NUSkxZbm1BT1hPVkZKQkpxNm50RXVQd0U2SUh2NkZHS1RWX3pzZFRJUA?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "सांसद अफजाल अंसारी के आवास पर भाजपाइयों का प्रदर्शन: गाजीपुर में कार्यकत्री बोलीं- महिला आरक्षण बिल का विरोध क्यों किया, सांसद ने दिया जवाब - Ghazipur News - Dainik Bhaskar",
+          "source": "Dainik Bhaskar",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGtQSmpaZW5HSlJubUs1VTNLYkVPOExiSElKX2R1emtuMWJINGRUSDRtbzRPYkVIVDl3SWc5QVBEQVlQcTdrWlVFN0EzTzVzWmxodlQ0ODQtZGJUdHlNQVJOU0d1NUNtQ1hFcm85VnV6V280ck94U0J2X01JVVh3RjlnbUVmTjlMMXNrbnc4aFFVRWt4X1FrbjdUQXRmb2szcWFsQWtNSjF4d3dHUFJPMjJ4cEwtamNud1UzWk9jZS1icDBpUnRyQ2EzOGJxR0RvU2x1WA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "'Indian Army should annex PoK to India', SP MP Afzal Ansari lashes out at Pakistan - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWmxWMUt6OU9OamFYSGpmQU10c3hGTV9oeVllYXpqZm40RVBUM2sxTUxNaF9DZ3c0U2RDQlV3S2M3SzdqSVdQQ3lack1WbmFMN1E4R0Q2T0RHQzdKN2x4bnBLb3RpTXI3cnJlTXJDeU1iTjBNWUdLMXVUWEZQazhmUGpIRzNEMlJIRFpHNHJqeXdXN1R0VWtvZVB5cVRKZEdkRjlUckdzMGtwLVhzLUVkNHp6RVhsdTNpZEZOUlh3bFpzMjZGZDRUcjR2SUsxSEpnYmdWTnhiMG9Nb0hNZkk3aFlIaEp5WlpvOVpicFQ4ejFEYXcwT3JQSDVB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ghazipur election results 2024 live updates: SP's Afzal Ansari wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUWU2d3ZiNkg3TzRCS1pZaHBmbEFFd0hKc1d1dWF2MlhHUi1mWTdybFRMTnptNEs0cHZad0lYeldCT2laYVM0cVZoa3h4TTFYZWcyMG5PUFZzYm5zRkNxRmpjLWFZVlRadnEyczhEQUR0bHZYMU01Rk1hLXczMlgxdzkyU19jQlI2OGJxd1V4YnE2RTRWOTI0SXZfRm5MbG85eG9Ja1NTZzdON1Y1dzZ6U3BQYk9YRm02NHp2UG1saXdvRV9GUlNTZ1hqbU5oSnFmdU0tTGcxeXRpZDdWc2RraC1pbVEtNWFqaDljZUFMTnhSczd0WGYyOUJNTUVkZ2JDQmpoQlFTdHc5cHRQYmF0TTRBVF92RklqaHNJYlVhWHkzSHFoUzEzY3lrZDJ3VENRWUlLU3RJbG82NGQ5WkMtOVlSVzN6QW_SAcwCQVVfeXFMTjdISkRkT01MRDRsSTVOWWVURWx4cFZjMWxmUmFvLTJaVHlUUE5QcmFmYWxpeERuUDYwY0ttRDlla3RLcm03NmRNaUw2UWNfZG51LWxudXA2am1pYTlVU0RDeFhIQThTNUVabHFUaldWenRxdk5ETVlpRFJxblZoRFpidUFyaWl6VHlhYlFmN2R6ZnotcnhJSGJhNHh5Y09OTFpVRzAxR1hLMHVPNmR6dUo5VXVXY3JLRlE2SWM2NEliRVh5VS00cDlleEE1QWlWbWVFZFdjMU9RVDFWLTl1X3VXUE85Nnh5UjRhOTJ2b3NTUzVEMFpIU3Fab3h0QlhlMURHVnpzM3VfbV9FTk9HMWd4VmR4NkNIT05tZU1UZThGejFoUU03Mm5zZ0ZTR2VheGZmVjltY2lUODNZdXpVb2J0bkNSbWRKQ2plUVM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Disqualified MP Afzal Ansari Released On Bail From Ghazipur District Jail - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXhEQ2o0SVFkVXJoZ1FwQlA5V1ZGOWk4ZDkwa1E4b09EZndHd3JGbTBFUjEtZmdQNTdFcXRqQVpHU2ZzWEtsc1VDVjNWLVREMnREdTZMZ3pSN0J1a3cwblhmMEVFOVU4c1pWSFFBU0F4WldUZ2ttSy1HNDZYS2RERVpsT0Uwb3A1dkdEanI3eVVQcjk2R1lSb0tJMGZ1NlN6Y2NzYUNOMkJNQ3ozb2VFY05fNNIBuwFBVV95cUxOR2JaVXo5TTlaX1U2cWwwRmFOMkhqY3BBRjM1VlY3bVVGcHJtY0FwNTFocjQ0dGVudEx1X2p3UWpxUmNjNTgweW1raXBGWWd2azJrVW5zV01aLXBzMmZ6eEJCeW1WYWFKblZYa0FzelFNWHRUNVdHcnFlMC1XTDBzbUF6bnBlT25QeXJpTVJzV3ktTDVuSk5ES2FVdzg3dnA4STh5andVbDlnNHNBa0dhZVhpRnk1dVlsU2RZ?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Afzal Ansari\n\n### Overall Assessment\nAfzal Ansari (Samajwadi Party) represents Ghazipur, Uttar Pradesh. The current composite transparency score is 38.0/100 with low overall data confidence. Afzal Ansari has a below-average transparency score of 38.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Limited participation in parliamentary proceedings.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 20.77 crore; liabilities of Rs 0; net worth of Rs 20.77 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n5 declared criminal case(s), including 0 serious case(s), 5 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 80.0%, 0 questions, 1 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (1 positive, 0 negative, 9 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nAfzal Ansari's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.178372Z"
+}

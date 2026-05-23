@@ -1,0 +1,450 @@
+{
+  "mp": {
+    "name": "Piyush Vedprakash Goyal",
+    "constituency": "Mumbai North",
+    "state": "maharashtra",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "piyush-vedprakash-goyal",
+    "house": "lok_sabha",
+    "sansad_member_id": 5551,
+    "profile_url": null,
+    "canonical_name": "Piyush Vedprakash Goyal",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Piyush Vedprakash Goyal",
+      "constituency": "Mumbai North",
+      "state": "maharashtra",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "piyush-vedprakash-goyal",
+      "house": "lok_sabha",
+      "sansad_member_id": 5551,
+      "profile_url": null,
+      "canonical_name": "Piyush Vedprakash Goyal",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.242406Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:25:40.907979Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:25:40.905053Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:25:40.903911Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:26:39.242535Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249010Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249034Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249042Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249050Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249058Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249064Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:26:39.249070Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 7,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 6,
+      "top_headlines": [
+        {
+          "headline": "Piyush Goyal, BJP's troubleshooter, prepares for Lok Sabha debut - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTS1TZlR6czQtekFrODA1czFpTGZyZlkydUpsajJZVlBrTTVtQ05BakxPUTJiNU5DVVI3MUNaX3dtWGhoWFBjQ2VFcmU3Nk1MMDhtcWs1VnJfSTFqbE82UGNjM0NuNkw2TXRvcHJHWjBZNzFiRjVpc2owM0l1clU0cndwZ0VneVRoZHZOczR6UHN2dWM3UlpjWW1OQVA2VWdRMkY2MFdfRmp6WWdPRXRETVM3U0J2ZlZ2MFp1X1RBczQ4X2VUM0pWZ1NYc2ZiUdIB0wFBVV95cUxNYlVacjRrVlY5VlA1eGdHMXdacjFYeDltZ2Z3MmdYV0xuMTZhVjY5OWR1anExeUF1NC1XQnB4c3lJVnZHV3FrbGFIR1NENzFNSWprLTE2NVVudjBWYUhzVk43UWI3elp0REFKcnRISUl6WDJjS2wxVWRkVlF0UmlrajdVWnVWZV9KQmgwaUgyUU9KWWJzUXhZQVREMFNEUkNScnp2U29xekIwQ3dicUdhSUt4bXV4NzQ4b1kyMlp4U0NLcWR3d0VSaTJPcHlzdHdSWWJB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Road to Mumbai North: Piyush Goyal’s election debut from BJP’s safest seat - Newslaundry",
+          "source": "Newslaundry",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdC1KWDN5M291Nllxb2h4X1EzSUdMV0VfR3JKSHpKaUliOFo0QU5ES083WXdIUkVMdHV3NUFGUjRNODdnMEhlNDd1dzVwZ25hSFdzeG9meTRtQ1FSLUlaV0doeVQzZnFDOUY3X0drbDBWb2hoVml6Zm1haTFUVkE4SkhWUkpKcUVmU2VHQzRNbFFRTDNSX3N6cElVX0sxLU5FMUdKNldzRXZrd2ctXzlV0gHEAUFVX3lxTE1nM1JjRXVzVEctZV84aWxObmktX3FwSWFCRTBnMGF2SW1NMEhOdGNCVVhoWHFsaS1ZWFFsSk5kY2lQYk1UR0RtcDdIVTlIUDVsTWNKTXJ2ckdSaEFLTEQzeW45dGpSOFN0MldBU0hTaE9ZRzdDWi16VTJhNjFKVV9vXzFuNnI4MkJOTi1wMVV6UElrQktWV0t1QUpneUtSWGtLR0hENW1GMVVRY01nNjl1T1BxMzhXcUFRM1RmUUdIYmtOZEo?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Modi government 3.0: Piyush Goyal takes oath as Union minister after debut Lok Sabha victory - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQzlqWVNsbGVuR2pjN2ZOTGs4SkpZQ285aGgzWlZON1lzaDdqLXVKVDRoWG1FTmJUZlE4SUJJRHBtc2o5VlpaMFpuWnFxMURYNWtlbmtQNkZEeEc5T1BZR3NteGRBUXg2NEN5clBXNjJ1bTNMWTYxMzF2MWw5QXBDRTJ0cTY5UHN1d0lockozLWEzbWxYSTFqNzhxaTlmYXhWNkR1Q0xpb0U2R3VGN0ZxU3dHU2ZWV09wbEpabUhSQ2NOUUM4RlpGWTdjZmNGQnkwaUdyenZvaDUzbk0tZkEzdzZDSFlmWmZzZnJCZ3hxNjbSAfYBQVVfeXFMTUpSX3FpV01OdWFrc0RqQ1J1SDRpc2Nrc0tKZHpEVHBYRk04dXQ2YzlHRWFSZWVCbE5xTTJDNzRqeURMR0FuR2lKUDNvcWFncWlHaW5jMzYxakhFYkxSZURLSHROWnJmNHFWZC1ITnlPRlJHcy1RNFR2c3AybnN1b2lORHVpLVlzQm84MVcxb0JSM0g5ZDEyYlY3aDdLTFQ1VlF5REhHdl9pM0dmM3pyRTZDTGxOVFc3NmJIb0ZMRUdxN01LckhjM3VEOTVsVXBGQzNGdWkyRzBnTGtFREZ5NDdyd01yTEdKVVBDR01pQnVodVNzWm13?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Piyush Goyal returns as Union minister in new avatar as 1st time LS member - Business Standard",
+          "source": "Business Standard",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2NtY1pSQ0RjT01fWHFmWGJyRUplSE5rNEVPZXdmSDRnY1V4dEc2bm5zemQ0aTFzNEFHWlNRTmVHMUFoaVlKWlpfV29OMk03ZHBWaXVzQnhMOWtabnFVSE9QYnNoQ0pTV211WW1XOFlZbDRyT3dDdElRYXhMbE1sVU0tRkdJNndlVTJ4b1hfNEZiMS16ME9kVnZxSDk3X095NGFEU2tHMjNNVmFBazdYd0RnYlZKZEliX2xyYmlNYVlfUktCRlZfNVVSa2JQRG4wRzFLZWxB0gHbAUFVX3lxTE9KbnBzZlBUN1FOU1phZzZ6RFRJS2FvNFpOSE5yNGxtNWxiOFJpdFdPM0JiRjVodnlrUnhoZC1XNVdyalhRZDctTVZQVlU1WDRUU0xuZThhc2FGTEpLSVhnaTFLWWxqTllzdEQtdkw0VEdIaVJfR0lKZDBPanVXWUpuQlp3YzBEdjVxRHhMMUpLNVd1SFBFckEzM1VMQ2ZaNTB6TzhrV2RMYnVsVFRCcjJpT3dRX25YSVUtQTBwVXFKaTEtc2xwV3ZuV2d5a1Fubm5hVEtqUkFsYndTdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Inspiring memory continues to guide\": Piyush Goyal remembers father, ex-Union Minister Vedprakash Goyal on 100th birth anniversary - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQWDdqbEFUYUNZNFpWQlZJVEFQcWpVNV9CUHRCMzM5MjhYTS1uVTB5UjFhNEx1RXpkZE1NalJyRVM5WEJ6NS12ODJSR0I1bVZfbGFXNWlPMjJkVTNTb0hkMHRhSVRROFNETFlvUHMwX2I1bHdZNmtPOGdQMlUxbUhFdFo3U2sxNU9ZSm5RTk53VFJwVzNXNVZ5Q2theWc2Z2tEYVBwWFZ5ZDg3aF9qOWhQVDM4cVBpMXNhVG5jVGFtSmotTnRUVi01ZXdwWEpfeXN0aDZTaHdJM25lam53MExieS1URkdVYS1od3N1UWZuNU05SmFTUTVtQ3ZTWUtTUmsyMDZoQ3FXVDRTQU5BTGl1LTRMS1Zla0hDMm1n?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (7 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Maharashtra: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Piyush Vedprakash Goyal\n\n### Overall Assessment\nPiyush Vedprakash Goyal, BJP MP from Mumbai North, Maharashtra, presents a mixed transparency profile hampered by significant data gaps across multiple categories. As a Minister in the current government, his executive responsibilities may impact traditional parliamentary metrics. The limited available data shows a clean criminal record but lacks comprehensive information on assets, MPLADS utilization, and parliamentary activity.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing his developmental impact in Mumbai North constituency. The absence of this data is particularly concerning given CAG audit findings highlighting systemic issues in MPLADS implementation across Maharashtra, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This prevents any assessment of financial transparency or potential conflicts of interest. The only available financial information is his monthly compensation of Rs 245,000, which represents standard parliamentary remuneration. The complete absence of asset data significantly undermines transparency assessment.\n\n### Legal & Criminal Standing\nGoyal maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data shows no legal issues, the reliability caveat requires noting.\n\n### Parliamentary Performance\nParliamentary activity metrics are largely unavailable, showing zero questions asked, zero debates participated in, and zero private bills introduced. Attendance data is also missing. As a Minister, his lower traditional parliamentary activity may be explained by executive duties, which typically reduce floor participation. However, the complete absence of data prevents meaningful assessment of his legislative effectiveness or constituent representation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 7 articles with predominantly neutral sentiment (6 neutral, 1 positive, 0 negative), indicating limited but generally favorable public visibility. The evidence grade for accessibility rates poorly at 'D', suggesting minimal public engagement or transparency in communication. No committee participation data is available, as Sansad profile information appears unavailable.\n\n### Data Quality & Caveats\nThe assessment faces severe data quality limitations with evidence grades of 'C' for parliament and 'D' for accessibility. Automated warnings flag low confidence across criminal records, assets, MPLADS, and parliamentary activity data. Multiple data sources (PRS, social media, news) were consulted, but critical information remains unavailable. The systemic data gaps significantly limit the reliability of this transparency assessment and prevent comprehensive evaluation of performance.\n\n### Key Takeaway\nWhile Piyush Vedprakash Goyal shows no criminal concerns and maintains neutral media coverage, his transparency profile is severely compromised by extensive data unavailability across assets, MPLADS utilization, and parliamentary activity. As a Minister, some reduced parliamentary metrics may be expected, but the complete absence of financial and developmental fund data represents a significant transparency deficit that prevents meaningful accountability assessment for Mumbai North constituents.",
+  "validated_at": "2026-05-21T14:26:57.210056Z"
+}

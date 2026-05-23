@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Narendra Modi",
+    "constituency": "Varanasi",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "narendra-modi",
+    "house": "lok_sabha",
+    "sansad_member_id": 4589,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 30206889.0,
+    "liabilities": 0.0,
+    "net_worth": 30206889.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 11.6,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:11:56.450946Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:11:51.484484Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:11:51.482520Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": null,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": true,
+    "source": "prs",
+    "confidence": 0.3,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:11:51.481828Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:12:12.203117Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627396Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627402Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627405Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627408Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627411Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627414Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627417Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.627419Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "In Varanasi, Modi says women reservation a national mission, blames Opposition for Bill’s defeat - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1lGdmthelNJSjJPcTVOd0wyUGxpWXZ0dW1zcU1td3c0TkRMeWktT19Zb3VaRXBxZ1ZlbVZORlY2ZWtFakMyYkNGMjNfWlZ5QmpIdnpNc21sX3Y3LURDVmhWX0UwQ2MzV3FRNTFCeWFmaDJFZXlMX0xmeDU0cmhTVEs0UHZiai1oWEUwc2ZlWUZFUHRhc0tJOVowNFIzRXpGcWg4S3F4LU1DSWVPMU5ZWkVNSFNZWi1CRF9DV1FBdXNCcjhjLTRBempqR3ZtTm9zbHZERU51U2c5NDJNWmdNRzBtVVB2VDjSAe4BQVVfeXFMTmlVYjNuODl0bnl6VHBOTEtIeWpSTjJob0RRMkdtVDljTzluck5ublYxUDBvMThjWENSQUVOZWU0amt0c0d0WU5PN09TQTVRcTFYYXVYR1JoTmFsNmN5MTF3NEt2Snpjakt2a2dieHFIaFFjTFVnUHl4T05XczNMSVR6amwtWElWRXA2blh3NVQ5UktDUDB5QUxDM2RmNndnd1VhRXJKd01icXhFUkYxVldNbXRfcWhXTHRHWEZOQWxhWTBFLUhJWko3Yk10SWFVVHJYU2huUDlxTzdNV1FiNE5BblBRamdjUGZkdmp0dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Varanasi gears up for PM Modi’s visit; women perform 'shankhnaad' to welcome Prime Minister - lokmattimes.com",
+        "source": "lokmattimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcF9CMEhrOUVyLVdBV21oRlZza1ZFaFdqU2VMLXRkNEQzQXptMlFFbTMtVnNWczlZcUZoUGlyZmpUZ3dzeG9md3p5Y3RTazhrR0ZBczVmOHRwQThPTlpjR0JvRXRUSG1qTFNnOW9LS1lKQ1dvM3V6S2NQbVc4a2JjT195X0pXQzlqZHpMLWlwVnE2NlhfdW1HQXpUQUxsZW5Xcjd1LUtfMzRzQzNNcnp5RFdqQ0RGaTZ2dzBiOWZHY2VrcHPSAcgBQVVfeXFMUDF1emlUbXVVYml3NFpGLTlvZ1E5cmFyR3FuU1BtN2c2eUZqdExXdzRmWHlFdmlOZnZjOTNzNlZYSWotWi1vYXR4ekFlbjgtSXRrdi03RUVMdGVuNkNlN01DeXVFY2QzZGJCNlM4NFRWWnNnNWtRV2p6T19jNG5ORjJmeFJaTURmbGNJTEpNWmhFRndnQVlYR0V3akw3MGZNZkpEZ3UwcWhsR3dueGdtUnFQWFRjNGVzRlpNQU5NckZIVE5OT1J3TWI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP-ruled UP and MP sign MoU in Varanasi to manage temple crowd - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9GQno4SzRrcjhpczItY3dudGdadGJ4Ymd0NXNKaGxoY3htVHU5WnFvUFdlcHdzUDF1SThfVjI3cmgtaDd1ZmJRZ1lPVHBiS3pqdlN4ejU4aGFjTko2ZVJUZExOblItU0duaWtyR3JYb1BueUdGTTdva2Nnd2R2Z3dITEZfLXVrYmY0cmp0MWFMQVZnZ055WThEMGx1MDZyMUNIQm9FWFB2ZUVkZ1VObHhzWWzSAcIBQVVfeXFMUDM3cUFrbDJORHRXU3pUU3JaRFdUWmFocjBoX2hkQTdwcVFjRHVhX09WallWVmxfWWxzRmhzak15SDZxd2NxZG02clhJeHNQWkJQQTNRSUdtX2lsTnpHY0J2dWJxQTZqd3NIOUQ3Q2E4QWFTUnYtM09JUFZqMjB3aU9EMVpmc3E3S1IyeTNDOVpTY0ZodE5Wb25pUmtuWUZzUXMtLUJ3UmNSSkRnempvOHFWdU05a01ycnNGSmxlcml1NkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Varanasi: Security tightened outside PM Modi's public outreach office ahead of NSUI's 'Save MGNREGA' march - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZlloQnV6QjhhaWQ0Tklod3k3dVNNQ3JWYWhZa2R3cWYzeUdaalA1OTJKdHBvZWk5X0NjVEVhWjFCTnBTTnZrUFNIT0ZjbW1LNmdtZVpRT0pJWFNGeHJTQ3czQUJzLTF3WEV2REpoTlF2MFY0LXZ2SFdKQllYalpzRXA5bUJ2SXo1R0h0N3VMX0w0U0d5ZU1qbG9HS3NZY1lfa296Ql8zc2sySkJoVFhtTnI1VWpOQzluWGlCMTBlTjcwNTk0SnBaUHRBOXVHaVM3ckZGcEEwdmQ0M1B4bzNEQVR4bHRIbVFtQ1ppY3BsVHR5X2tnSjJJMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kashi emerging as hub of sports, mega events: PM - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkhfdDVTVm5TWVRnY01qVDhHc2ZKUUd3YmVmTGRyYlBnUWZTbFFJeUZWV0x1WF8yM05kLVhkUGt0cmZRUGg1YlpyM3ZUc2RkMFN2VmxtXzRLRlFfdTRORHFFM3BfcGI1MFpJaDh4emg1VVZZckM4WGdvN0tLTFU0QkRxM205TUxpQ2ZKRzhoeUppR0E5aDVCMTVqdU1fdmRsU1J6bDJ6b1I2dU5ORzdydEdZTFItR2QwSHB4UTRGUdIBxAFBVV95cUxNV01ZODZnNkVrUmNZU096WnRVSk9mVXJ3eXpDMDFQZzlpTUdfeFByQ05TSDZBTlJDaHBKSmoyZThrdU5UZy1yb2JpQWdqQXFudXhfaHdGRzh2U1N5NGhFZklST3pGZDRkdWxFaEtRWjU4d0lJcHNWZVJDV1NiQjdqTWZjcUxrUnJUMHI5bWtkRGFfbXdoTHp5Y1ZBeVF5Y0RyMnNmT0NWS1hWM3hiaE94TEMwM3c1WklSNTZCVDktZlNEOFlQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

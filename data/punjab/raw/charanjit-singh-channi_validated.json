@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Charanjit Singh Channi",
+    "constituency": "Jalandhar",
+    "state": "punjab",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "charanjit-singh-channi",
+    "house": "lok_sabha",
+    "sansad_member_id": 5750,
+    "profile_url": null,
+    "canonical_name": "Charanjit Singh Channi",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Charanjit Singh Channi",
+      "constituency": "Jalandhar",
+      "state": "punjab",
+      "party": "Indian National Congress",
+      "myneta_candidate_id": null,
+      "slug": "charanjit-singh-channi",
+      "house": "lok_sabha",
+      "sansad_member_id": 5750,
+      "profile_url": null,
+      "canonical_name": "Charanjit Singh Channi",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.548389Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:34.204926Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:34.203112Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 25.0,
+      "questions_asked": 35,
+      "debates_participated": 1,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:34.202403Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:37.548510Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556409Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556427Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556434Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556439Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556446Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556451Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:37.556457Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Charanjit Singh Channi’s new Jalandhar abode: A move to shed ‘outsider’ tag? - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEVsMGhGRF9qZGtfN3NvVXN6dzg0WDIzejEwd1dsUjJYejZxRlRrZFd0UV9SaThFUzRoNS1ja1RnQkRQLVRsQWZ6VDl1eWY1V3VmWTZTWHNzcEtGNWg0TndoTU5PbEgxV201YjNEREt0QUdYQ08wek1lSV95cWE4b1JubkxFaDhnNDZBMVFkV18tXzNXVkpJYkk3OU9KYWVtV1E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "From Corridors of Power| Full on optics ahead of polls: Jalebis, Jalandhar and jibes - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hGYk54amxGOV9QNEgtTDZPRUstSW5hdzczYmJTZDQwcTFvMnd3VE03OUtESHg3NnhQdzBGNVE5TDB1WWlMOHdfc1pTcnc5NHlpc0dyeF9HR3dFOWc2RUl0Q0dtd21DQnduMGpVU0pxYnpUTWZjMXJFVWN1eEh0LUxHN1FtZ3gwaDllV2JqdU1Mc0xvcUFvR1JYQ19kcU9WbzVn0gGqAUFVX3lxTE1tT3BTZ0NZdGdLQzdWY2UyX09wQ2wxbFhvYkZtQml6UXFoNVNmcmZHNDYwd1lUS19ZNTZQUU1FTDBWSmlzdFl2cDZKZTB1TDJzcEFlQi15U09aUmJteXJoa3pIVE5xejNqMHFBcUZPakxRRUVaSGpqb2hhSGVZV1N3OWZDcVpwclg5MzcxcUtyZ0QyZEYwa1drOUFDOEtjcHhLRU5GSjVsTUdR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "channi-denies-remarks-against-any-community - News Arena India",
+          "source": "News Arena India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkQyWFZrSG5aMjRKYXhUWFVsSWZUcTlFUHhRd21fRDc2TUJkUzlDc0stZzFST1pDcGhka2NudzB1Y0tJdEJXQXFEQ0FYQWx6c3RuWElVQWM4ck1uVW9WY2R3MFRHbVd6NDM3RWY2a1ZYYXRydGE1TGQ4R0lVY2wtR1JLUzE3dE5GR29r?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Punjab news: At Charanjit Singh Channi’s Khajurla ‘Durbar’, outreach meets quiet power play - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW9oSmk0X2RhYi1RYVkxMkdDMm9RSlBGeXc5b2RSdWhGR1N5TFMyaGg5ZUs3cXB5dVJBakRWeDdFUkk2QTZsdURha2QwNnNJVGQ3d3pMSENQQzV2ZmJNVEpFTlFYa1psVkYzdUVsMk8tRmR0SzJjaUstOE5MMkpWakZOcjJmcjNUREtBTnJtbE9vT3FrcktveTlDM1pZMmptN1BNTzJ30gGqAUFVX3lxTE9RTXpfYWpEZUFnekNoSEZwY3lJY0d0N3FaalpSQXNGRjJsandtd2ZYc1loTG5ud3RjNzJfVlpfaTlzblpmcWxsZW8wUVNCVlBmc0hfU1FDbFpMbWFPVEczTFJXanZLTHZKWXg5YUQ4eEJ0c1pDY3UwcF9nNHlodkxoR2ZTNVU2U3dlc2JVZDJ1YUgybEZYZE5VNzZyNU1xS2M5YWxsS0txM3lB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Punjab ground to viral songs, Channi presence grows: Will he be Congress face for 2027 polls? - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE4tODVGSmJacGxfSVBFMVpDZmg2a0RrTm9jb3BpUE1fcWlmazdsY1JWaFE3STBSbG9iSGZ6NjdIOElna1VOLVpKbGpXQWEzdGduSE40NHNicHdKVndyc0lsYzNwWnZBc2htVkFSTVoyWG12dVJ6Nm8xT0FQaTlIVnZaMkY2Si1vTjlENVdnWlZDNXFLbElFX3dNajdOWGlCSjNRWFdNQlNZTm5NSWpwaUt3NFpyVWRV0gG_AUFVX3lxTE93NFdHb1FxYlBRMHdUbFBLekR4OXlMZ3BMU0hJbHhSWEM2dUJkdTUyUy1ZTTV6TE5Qb2xtVU53OXUwZVBwYnF2TTF1Mk5TTWhrRWYwc3VDZkJlbUJsRHBGbDRZWWg2Z0NkLXp1XzhYQk1KZWhTZlNFVE9LYXM2T2ZYeWNtdVliMldxZVdUNTNBbEQzamFCSFl5QnktamU4QktyWFZxYmpodkRKUzZnX2RFZFFQRml5a25WS1Q5ZTI4?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Punjab: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Charanjit Singh Channi\n\n### Overall Assessment\nCharanjit Singh Channi, Indian National Congress MP from Jalandhar, Punjab, presents a concerning transparency profile marked by significant data gaps and below-average parliamentary engagement. With 25% attendance and minimal legislative activity, his performance raises questions about effective constituency representation. The absence of critical financial and development fund data severely limits assessment of his accountability and effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This complete absence of development fund transparency is particularly concerning given CAG audit findings highlighting systemic issues in Punjab's fund management. The 2010 CAG audit (Report 31) revealed Rs 1,558 crore lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess whether Channi's constituency benefits align with allocated development funds.\n\n### Financial Transparency\nAsset disclosure presents a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency severely undermines public accountability standards expected from elected representatives. The only available financial information is the standard monthly compensation of Rs 2.45 lakh, which provides no insight into personal wealth accumulation or potential conflicts of interest during his tenure.\n\n### Legal & Criminal Standing\nChanni maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, this positive indicator comes with a significant caveat: the data carries low confidence ratings, suggesting potential source unavailability that could affect accuracy. While the clean record appears favorable, the reliability concerns prevent definitive assessment of his legal standing.\n\n### Parliamentary Performance\nParliamentary engagement shows concerning patterns of limited effectiveness. With only 25% attendance, Channi falls significantly below expected participation standards for constituency representation. His legislative activity includes 35 questions raised and participation in 1 debate, but zero private bills introduced. This minimal legislative footprint suggests limited proactive policy engagement or constituency advocacy within parliamentary proceedings. The low attendance combined with restricted legislative activity indicates suboptimal utilization of parliamentary platforms for constituent benefit.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral tone - zero positive or negative coverage. This absence of polarized coverage could indicate either limited public visibility or unremarkable policy positions. However, the evidence grade for accessibility receives a 'D' rating, suggesting significant deficiencies in public engagement mechanisms. No committee participation data exists, further limiting assessment of his specialized policy contributions or stakeholder engagement beyond basic parliamentary functions.\n\n### Data Quality & Caveats\nMultiple critical data quality issues severely compromise this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is completely absent with low confidence ratings. MPLADS fund data is entirely missing, preventing development impact assessment. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data has low confidence ratings. These systematic data gaps, particularly affecting financial transparency and development fund utilization, represent significant limitations in accountability assessment.\n\n### Key Takeaway\nCharanjit Singh Channi's transparency profile is characterized by concerning data voids rather than demonstrable accountability. While maintaining a reportedly clean criminal record, his 25% parliamentary attendance and absence of critical financial disclosure data raise serious questions about representative effectiveness. The complete lack of MPLADS utilization information, combined with CAG audit findings highlighting systemic fund management issues in Punjab, prevents assessment of his development impact. Until comprehensive asset disclosure and development fund transparency are established, constituents lack essential information needed to evaluate their representative's performance and accountability standards.",
+  "validated_at": "2026-05-21T14:22:57.697843Z"
+}

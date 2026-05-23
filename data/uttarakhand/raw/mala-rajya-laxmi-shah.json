@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Mala Rajya Laxmi Shah",
+    "constituency": "Tehri Garhwal",
+    "state": "uttarakhand",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "mala-rajya-laxmi-shah",
+    "house": "lok_sabha",
+    "sansad_member_id": 4582,
+    "profile_url": null,
+    "canonical_name": "Mala Rajya Laxmi Shah",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 2068739424.0,
+    "liabilities": 179000000.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 1889739424.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.251113Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:22:30.056666Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:22:30.053754Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 90.0,
+    "questions_asked": 1,
+    "debates_participated": 1,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:22:30.052635Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:23:21.251261Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266048Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266068Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266076Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266083Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266091Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266098Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:23:21.266104Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWQyMjlQNGE2RExNV0pOLUprbGJJZlF0b3VSRzlyTDlnMndnMlp0RzlZbFZMaDVEVEhqZHltd1NBYXFkRURJOFJIX0l0eXUteURsU1ZFbzg1Z1JnajhzdVpiYk9PVzRmakctQTJvLW45bEtYWGM1WDN3WTdOQTI3MDBKLXRoczUyY1VhdnltenFZSHhpMmJOM0kxSWF3UEF2dHBoa2dkQk51X3oxOEZVbFpB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkw5ZXJycWtwbGJLNnVaelZDdmFoX1VyYTcwdF9pMzRKeGd4cEpILWgyTDZMNVZYazNSa2xvMDRqS1BwRUhGV25DSGVYSHROWTZaUVFHcURPM2N5aVJabFpzNU1Xd21lS1N4QnJiYmlyWE9seG1NYTN3eVMtUXNFWkNweHJ2SGxoOHVhTi0tb19KelFLQjVCRDZLMzluS2xtT0ZQUFJybW54ZHdyRkFROEp3RVI2VkFXNU1DQ0RYbW4xbk00YUFhSGozaVdIaDRoVVFR0gHgAUFVX3lxTE9wYS1DMTZscG9yWi1SS3FqeW43UF9JLUlhUUNzOXdnWUVoTUJ0ZTFCY2Q1NE5oWEtjRWctS0lieXYzNW9LMTVyWmdWMnBpWXMzWEIySkgxejNUalhfTkE1engxLWswZUc2bkc2MlU5NmJUcmFRQnVnRmVCeVgzWlU3cy10bEZHcFItQkdaNFR0SlJDVWY2Z29TRGdsNGY5cmZZOW55VUJJck1icDhCbWk3UUF1ZWlCOG5rbmtmT3o1R3YtelNXUkxOQTNOVERQemFuLTQ0NkxoV1BQTThjcmxH?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Manujendra Shah? Tehri Garhwal royal in spotlight over Rs 1000 crore Delhi house, his wife is…, business is… - news24online.com",
+        "source": "news24online.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPaUNOZEFYZnRGeE9nRTdHTEVOTXFzU2tkRmp1WVNRdWNFd1l2c3NsUnhQeVU5N054TXhnRUlWc3FJa3B1cy1jRmdsT0FUSVh4YmlOem5qYWxaVEN1eUNGc1Rpel9sUVU0RTBKU0cxUXhWa05SSlhtZ2JsWjh0M0F4N3g2ZVVVZENMZHYxcXRjVEpoLUUtZzVaX3U0aWNRZzg0LUFDMG1FVzZkYWxnOFBld3NSbW5FNGlRMFJQY2NYeGEtQTFfV1ZpbzZwaHFwRXpCYkM3eUl6ekZzVVlpNXN0S0psVW9GZllvSmpLb3dzZ2pmUldZam9GUVBMUzVYaEoyUHFPNnRLX0xIa25vd3ZPMm1JX3FTRWkzS0FYTEpncmNyN1pkSlV3dEg1VzY2azc3X1A3MkZ30gG6AkFVX3lxTE1Ld2xlU3o2bk9UQzhncXJxUm5meWlhNVFrVVB5T21qV1d5ZTRGcVROZ0g4RHAzVXBuOEdSeWFEWnY1TlNwMmVIT0ItclVUMG84b2RkS1h5UnlsSFRoTVZYanVVRTdQLXNBdXVEenEyX3loWklTN1Y5SmtBblNSOTdEVzAtTl84Uk1md0ZQTXU4eVpCTnpnOUZld21RZ3g5WUdyejJiSlMxbHpESnlzcHF3dkh0OEw5aFhjSUNtOUZfREY2dHI0NjBiT1ZYcG1fOVh6UXdEQnhnNlRNTXpiZVBfckJ6Y0pMMXNBZkJNNFY1alVaMC14eVhjcndHaUFEWDc3TXJfMUx4Ri1JT19MaTdNRFp5TnRFN3lXX2dycnhOSnNnenBDN1JrbmtMbjh4V2ZPRVowWjFyX3F3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - DD News",
+        "source": "DD News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnhWRTRuQk4wdHJkRnJvaExKakN0bTNTd2hRTHplVFJvZmo5TlcxbjE2YWdHTkl5aWZTXzZjREktSXFxX1oxSURkbmhvb3NZVFhsVDFIYnpBRDdnMS0zS0ZlZXhETGhKSlh1a0hQbTVjb29xdVBIdEIwRll2YVN1Q2NzWTJhdk4ybG9LZ0VKZDJiNEl3X0d2bTVUU2cyaTU4c0NoMjBIUExuVG9YdUNpbDVqNUtrbXRxNnlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Modi, Rani, Dharm Aur Vikas’: Tehri Garhwal Wants To Retain Development Momentum Despite Royal Reticence - Swarajyamag",
+        "source": "Swarajyamag",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVE81d1hUZTB3RWpnSkQ5SUhDNHRucldPbnh2YnpRWmNOZ2VmTUVickQwWDdDNzFiUnNGcklONENobHMzeFhYNXBHLVV3Z3ZlTmdsazZRSHE3SVlVeXZhall3OVpPczJ6U0xRaktUdXRrYTliYko4SnY4WWFMeFNNWm13V3FkUjFSenltLUhUMlQzV1FvZW9pSHpfZmEzN05rcU1OUEw3aXBWVDJWT2Z5QW9fTHZoYVpzV2NmRTE1Z2VCRDZ2MGFDZGFlaFDSAdwBQVVfeXFMTUEwXzdUSEJnNmFMakp3eXY3bDVXOVg1OUJORkdVVGoxN3FOTnJMUEtqOXNLU0FmSmpDR3U5LXpfZnNLUk9CdGZrQjBvemtjTzlBWWljZVBYcDgwRFlTZTZGaWtjb3BZM2JWa1RVb2g0WkFaRXByOFJ5WUtISXp4dWVka3RfQXpQSkJVQjZlN0lnckxIeW5MNUlMeEVEYkEyNzZwb2x6QkkwZEh3N3dEekZhbExLYXJTejIwVkVNT01sbnRfWEdheGhOZU1RRURzU09WbllpVEh1VzA5Mg?oc=5",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

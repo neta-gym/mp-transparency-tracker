@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Murasoli S",
+    "constituency": "Thanjavur",
+    "state": "tamil nadu",
+    "party": "Dravida Munnetra Kazhagam",
+    "myneta_candidate_id": null,
+    "slug": "murasoli-s",
+    "house": "lok_sabha",
+    "sansad_member_id": 5798,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Murasoli S",
+      "constituency": "Thanjavur",
+      "state": "tamil nadu",
+      "party": "Dravida Munnetra Kazhagam",
+      "myneta_candidate_id": null,
+      "slug": "murasoli-s",
+      "house": "lok_sabha",
+      "sansad_member_id": 5798,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.228393Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:32:50.741977Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:32:50.739170Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 85.0,
+      "questions_asked": 17,
+      "debates_participated": 3,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:32:50.738054Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:33:55.228536Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243099Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243114Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243123Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243145Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243155Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243162Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:55.243170Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Marathi Bhavan will come up in Thanjavur, if TN govt allots land: Maharashtra Minister - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaG1JVDE1bl85SnZfS3lWUWdienMwZERETGg1NFhzN0hiSUlMWGp4WXpJSm5KWkx1Q3lzZVZiYzBQa2pIY2pZUE55WWU2ME81cFBFOEJHdjZvM2lHdExPaXdjd1huMGVVcUxmQVRiUlhKaXQ4VThfNUcwTml4cHhxclNfOGZDQ09iZGF3TEZWRXdsSElGanNyZ1FnS21iM04ybFh6S1NIa200SXJwWW9RSzZhZGVjY3RGWExxbVB6VGZMMWpZeGZQc0pUUm1ub1ZsMTRkSlRXR1JrbmpmOFRnVNIB7gFBVV95cUxOXzlUbWNKSW1qUnBJTVFrLUg3STJCMjd3VzNMbVR6MnJfdE9rZ20ya1JJN0p1ZGlYd3BwMlNSdTBRYk1JcWVuaXZRVE1ZYUcwMXZIbXZmS2RaTE9NS0dUa2FLVVFEbnlNOWVOZ01KZW0wekZXcDA5SDlaSnZEUzRKYmFybnNVcjBoNnpFejZoNmFjUFBuLUhZNDRjWmk1VjhscVhDX3NYaWNLY1dIMUhubzZ3RGo1VzNNbGZpRFJBczJhTEdkUGlmb3JWZ3JDdGE4Vmpqd3dyR0JoRkc5eXpqTGpxYW9RZXNfbW1iakZB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Thanjavur election results: DMK's Murasoli defeats DMDK's Sivanesan to win Lok Sabha seat - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaU0yRm96SVNTVDJlRGFUdUJwcnVfLXhLZ19SYVNrNHNhalg0aE8wM3RYRWF6V05DXzdMcVQyMjdobWpwSjVSeTV5OC1JMUtqQUtSbU1RdnBZNHJSV29KQ2dPRXRfbTFDR2VwRC1RQjdWXzRxUERZX19aRUV2Wk0wemhCT0o3aFFYZG8zVnkxY3NyaFpnUFp2cXB5dVZzLU1PcDN6ZUFhZk5mLXNvd1k0ejVrZEhTRktXN0FHUjZtTXdLVUdWSkMwVUE4QXV5OHZmaXp0aTc4WDl2dXJLc3JqN1lFdGNZSG45MllEY0pseU5XckNCQzB0aEVaT3RIOVN3eTVhRGhMbDNwQ2MtRm9meXNaLVluRDloSjlmYzJJWUtBV2FHN1pTX3pESWVMcGFSallCSno2UlHSAb4CQVVfeXFMT1o4RDYwMW5TQ2pMeUFPNHhBUmtrWHZEdWNfc19zR25CbUh0SFlPcUozeE0zbGdKVUZLYVVfZDgxZ21BeFpHdXRGek9zamRUa3VRZHdxVUZDUU1sLXRVeW43NUFHR0xsLTVSc0FRa0xZU2pZTF8yVkZDcWF6ZEJjY1B6bUJlZkFJRTZTRWE1YzhFa1A5cG5tMmVaTFB0d2JNa0NNemR5WnVOVFVTZ3RpWURsNTFYOG1ZUjk5dEhBV2xpRm5kVnhyR1hKYm5Ya216SllqZzVTM2Via294QUdrdDE1VmliWEc2YVVNTkJzZ3pfM0h1Y0tyb1VlX2p4R0otS3VHU0pTeGl5QnRYUDBqNXNiOGp3QWl2enNxdVJIYmxpVWhQYnJjZzhNM3M2YW1ELTVrdlRCa19WcDlKY1ln?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "DMK fields a new face in Thanjavur - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmxELUtJMjZOa0tPMUlteDVtWDNaUk1XelFkekxQTzV1akI0YTRPRUlIMVVVMkZ6aDZ3b19NSzJPSFAxYTFlMHJhcER0MHcyRGtWUEJENW5fZUsxTXo4cm8xXzhibW54dWdYR0RJdG1vY20tY3N2UVVCejZRQlZBdzd5d2JJN05oTEdzQU03U3lkNjFaMkRESjNKVHpyc3VJdm1vTkhmd1JFUdIBsAFBVV95cUxNOU9OLXJud283dnVhdmcwaXNzQ1JlMnJ0cWdxNl9UZXRCeGJ4Nlk1TEFfSTE0aVdKT1lYM2REX2M1eWR3QjZpWi1RZGtoNlRuUFM2QkdoWVBkMndDaGFjdXMxc3dUakxtN2RlUjVwb3pZQzlJWGRlY0hFWjJDazVLbFdfTEZxV3c2N05mcWo2TGV5WENxOC03Mkx3cTRzZVBlZ2o3VGY0WkZDQjRKNW1Gcw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Tiruchy-Chennai train via Thanjavur to commence from October 11, says Murasoli - DT Next",
+          "source": "DT Next",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUpEVFcxVHZNbHNsZG14aXhBTjdzR0R4aTZRSV9wS0NzOGNhaVJvNmgzajByR0lLSWNqTGNjV2NVUVMzam9GR1Z2OEhiNmpiZjFBendwNG5QdlY0bng4Wjk4TXkyQ3RaN2lxcWx4S3JrNUdrWGRtTG15NW1tejFNSlRyTDJTNmpYNi01SkpQX295emU4M3o0UjZ3anEyMm9aMkhPRUdKSVlHcXVKQlpLLU91LVlwZUZaNVpLUWVn0gHLAUFVX3lxTE5uLXh2TVAwMndSbXQ0TW5TNTRHRklQTU42OG9EalYzUjltUnVVZlFMQ2ZNTW5BMkZvVHlfOExkNXN3azJlaFFCN2lEQXI4UUhFUTAzRFFzUTVmUWNtQjBtT1dMYXNKVWw0NEpreElCSXNjTWNtcmVoSkhYejlxVlZkdVZua3dRR2ZSRjdoZ0JjcXZvYXFURTg2RFNWeXVySXA1NjI1dXNMMkRBbUFwbUVKeEh0Z0Rubm5ZN2swYnJOVlJlSkpRcVo3ak9F?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "1,040th Sathaya Vizha begins in Thanjavur - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUThKcXhSUHlIM1ZWUjhaakFyTUJhdVdpcVRKeTBWSkdxVkVkc2FkX1lLTXZyZkt4YlR0SmZyZk1VNWF4QTdTX1ZSRzRSaVpEMDdsOFBiVEozMmJDNm5PQmQ2RV9vOThfem9hc3RXb0k2MU5zdVJMQUo5R0JKLU9KUUxzVWpsYS1fT2pLWF9tVHBVNElGYU1fN0JuVExGSC1lQVJObk1B0gGzAUFVX3lxTE5nZzV1YXV3LXNXaU8xVmpsQjdpemdWOFhtNVphYTJ3WkdfOFRidmE1SnNPR3NEd1RvaVM3Z2liU3AyTFdydk5IRFB4YjZEMWd6V2R2Sk1hWExwZGFxVEpxMktuMkxBMkZEZkYxNlRjbXIxZXMtSi02dUg2S3A2a1U3OUVnVkNLYkMxQlVMOWlTNE9zOVZKQmp6X2RZQXJkX1l2STluNXRvbHVQY1JkTFpNNDI0?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Murasoli S\n\n### Overall Assessment\n\nMurasoli S represents Thanjavur constituency in Tamil Nadu as a Lok Sabha member from the Dravida Munnetra Kazhagam (DMK) party. Based on available data, the MP maintains a clean legal record but faces significant data gaps across most transparency indicators, limiting comprehensive assessment. The evidence grades indicate moderate parliamentary data quality (C) but poor accessibility metrics (D).\n\n### Fund Utilization & Development\n\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Murasoli S, including entitlement amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary tool for constituency development.\n\nHowever, broader systemic concerns exist in Tamil Nadu's fund management based on CAG audit findings. The 2010 CAG report (31 of 2010) identified significant issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. These systemic weaknesses raise questions about overall development fund effectiveness in the state.\n\n### Financial Transparency\n\nAsset disclosure data is entirely unavailable for Murasoli S. Neither current total assets nor previous asset values are reported, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are also missing, representing a complete transparency failure in financial disclosure.\n\nThe MP's monthly compensation is reported at Rs 2.45 lakh, consistent with standard parliamentary remuneration structures.\n\n### Legal & Criminal Standing\n\nMurasoli S maintains a clean criminal record with zero cases across all categories: no total cases, serious cases, pending matters, disposed cases, or convictions. This represents a positive transparency indicator, though the automated system flags low confidence in criminal data availability, suggesting potential reporting gaps rather than confirmed clean status.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Attendance stands at 85%, which exceeds the 70% threshold generally considered acceptable for effective representation. However, active participation appears limited with only 17 questions asked, 3 debate participations, and zero private member bills introduced during the tenure.\n\nNo committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability. This represents a significant gap as committee work often constitutes substantial parliamentary contribution beyond floor activities.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals minimal public engagement with only 10 news articles identified. The coverage breakdown shows concerning patterns: zero positive articles, one negative piece, and nine neutral reports. This limited media presence suggests either low public visibility or insufficient proactive communication with constituents.\n\nThe evidence grade for accessibility rates as 'D', indicating poor performance in public outreach and engagement metrics. No social media engagement data or direct constituent interaction metrics are available.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight serious data quality issues:\n\n- **Criminal records**: Low confidence due to potential source unavailability\n- **Assets**: Low confidence in asset disclosure data\n- **MPLADS**: Low confidence in development fund data\n- **Committees**: Complete absence of committee participation data\n- **Legislative effectiveness**: Low confidence ratings\n\nThese caveats significantly limit the reliability of this transparency assessment. The 'C' grade for parliamentary data and 'D' grade for accessibility suggest systemic issues with data collection or reporting rather than necessarily reflecting poor MP performance.\n\n### Key Takeaway\n\nMurasoli S presents as a constituency representative with clean legal standing and adequate parliamentary attendance, but transparency assessment is severely hampered by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and public engagement metrics. The combination of limited available data and concerning systemic issues identified in Tamil Nadu's development fund management suggests constituents may face challenges in properly evaluating their representative's effectiveness and accountability. Improved data disclosure and transparency reporting mechanisms are essential for meaningful democratic oversight.",
+  "validated_at": "2026-05-21T14:34:16.951370Z"
+}

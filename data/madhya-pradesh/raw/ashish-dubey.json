@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Ashish Dubey",
+    "constituency": "Jabalpur",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "ashish-dubey",
+    "house": "lok_sabha",
+    "sansad_member_id": 5699,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.023816Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:25:23.585357Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:25:23.582544Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 95.0,
+    "questions_asked": 5,
+    "debates_participated": 4,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:25:23.581431Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:26:23.024040Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039478Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039497Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039506Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039513Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "madhya pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039520Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039529Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039536Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:26:23.039543Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNKbXVWenBWYUxHRWdIYzJxMUVxdmkxMk5KWmRqMWZINk5zNjRUMFJib3NVT0JlcTdqWW9UOVNCOVhLUnlyWWpOc3BYWmpuUWdCRzJIRGVJa1FCUEhKZ2xaN2h1enlMejlQZHktT0FUdEM5ZXRYRnYwMVdjLUJtVHY2UGdza3hlZFJ4NUE0SUg0REFJNXFhTndKQXLSAaIBQVVfeXFMTXJwSENyaGJMX3lSdXJodV90Y2puZmFxN3RBY2hsSGJJaGEwM1ZCOFU4T0VQc0ZQTzVhRFczM09IUnpWQ3VUSE9UMk1ObnQ1blFzVmRPYkI1SzJrSnlRMm00azA5enZXX2RJbjZNSm5RaXA5eXB6a1BhX3NPYU1DdmF5eTEwclRmbEM2eG9FM2QxS0hHUF85OXB2cTdoS1FhY3BB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Devpt, enhancement of airport facilities discussed in AAI’s first ADC meeting - thehitavada.com",
+        "source": "thehitavada.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEc2dmsxM2lnN2dyT3h0YmViMkhKOUVyRlZIRF8zUkJUODdTaFVnUmpQczA2c1BGX0ZGUnh4bGFtdEZkRnlIUXBvZkIydW4xV2UzenZ4d1JrTWw2R253d0w5WEktVzEwdTk4ZTQ1NDJ1TkdzZ181M3hjVFQ3OW05bGg1aVhSTEZqck9jOTdtbUJrYTRTekJESjBnWk1uVVMzeWZtR0R5VU5BcUpOX3FfbXgxd2R4UzNSMmxxXzNtaTNTTkVj0gHKAUFVX3lxTE9QS1M3eld5Q3cyajBMUDBzNkh2Nl83MXBFN21wMTY2aGJsOTMxUnFyeWJqTF94dmw5ZXliN2RCcE5kM1FYMEIzVlRMLU9ST01CdkVpdjYzTllUOG9HajJRbVUyMUlXWlFOa2ZYdFVSSUR4Zmp6LWtEUEVySkozTjcydFhwT0pGTVhDejNrc3JpclFDT05ZSzRxakpuV1pNSTZiMHV2S0szeEhPVW1LVlZmSnZSRFkyQ3dIRGptb2dMWmtBbWNQM2Z1MHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXNWX2FyQThiWUFFQmhjd0NEQjVxdlUwcEk2OTBfUE9XVTdyZVJlWHVwOE9ITkQwUzlxdTQxT2x2bk5ETkdiSGNhZ3dfVlZMdmVWM1hWZmw2a29oWWdFbjlJMTl3UzVwTU9GUDRwTXRCMkd6VXNBZHdiNEd0allWTFNB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jabalpur election results 2024 live updates: BJP's Ashish Dubey wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWTBYRDBra09iRnlmU042a2tTczJQOTAzWlFPUFM4SFZGbEwzMFFJVXJSUm85N1pNNjhxYVdndExEY0NUcjJ0dkRfcEctRWI2UFdKRjBwQVRTWXpBT05XQUl1ZmFJTUpHVFBzbG5kQndfem9QY2FPVE9yZlRCNURST1lHekJEQzRoTXFpa2xOV2ozdFdfQTBhbEUwZVVlUVZWZ083R1B6S3hTNGIzZEVONnNOOXlSZlI4XzB3aktCbC1Dc3ZWNHRKNmdUSF94SlNoMjA0ODBBQ1B6YTVXZWRCbHR0UEw0ZmhJVjdMQW1HbktQaVJCOWVXRXJXVlRGNzE5bG4tV1BjZlY0Z2ViZzRnek9wOW1IMDFsVDFsdEJlVDE1alNkTm9hRERkYUxXcHNhdWQtczA2eVVkYkhTNElnZzByenF0V0nSAcwCQVVfeXFMTWt4aS16QUdIME54WnFqU2RrN21remlpTWZWQnlJYnRhYTJFZzFRWXZrUlBITW4wRE5TR1Z6YW50WDAyaVN1ZHFlcDlaWW9Uby12a200c0xoMmZGeWtla01fak44VkJvbTVkRUNCUFF1bGpkVDRjaEppb3ZYTkwyV252WHEwcnVEb1F6N0JHM2xia0h4c3ZUcVRUNlYtbVAzMHhISlFmVGd2OUdBS3AxQUZLS2YyenI4T1l5WjQ5M2JYN3oyTm1DSkNzY1YtR1QtWGNKRkd1YjlxVmJKYXlPTkYya0JyM3FUYVRwcGd5enFiMmNRVENzQXhmMkp1dk9fNV9tYlpoZ1RhREQ4MlUteldGU3pfQkg5bjE4M3VLbXBWVlY3Ql9qUlpmRkl0b053c0UxMmVLcVl4NG41aHRkQ2RsOWJETEJyR01SOVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jabalpur Election Result 2024 LIVE Updates Highlights: Ashish Dubey of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdERGODc3TjRBYjZiTW1GOWVMcTIwR3Z2QnJqNVpydzM1bEtKRWlsVGZHNWd4RXNfWWdTVHliYjlVSFZWd0gxUVRMOWNObEhSVG5yU1FfSjk3b3VyZ1lXb1FFZ2lKc1l0eWpLUndjVHY1T0FZUUlYT3hUajlfVGw0RWlnTjVyZV9ubkNza3hWcHRQRnhQWkxiSTQ2ZzNCVkQzd1RVTGgyQVlySkVzenNURUIxeGFrTTRQZk9JTXotTlZ1bVFUczJiVnJyQ2p2V2xwYy1lMWdUMFF4UFEtclpNNF9FVdIB6AFBVV95cUxPZHdQaUZtZWd4ZUJqdUx4dTVaYjg5T2J0WEgwNEw2NXhyckVaZHY0Q0FJdVdmaGNVTDNFU3p3M18xaE5sRmQ2bkRhVFA4VWU1d0N2N1dwQkN0alk4SUdZQWhvaXlYSm1SODRCc2tULUZLT2Y5SkZ5TW81Q0VybjBNcEhHZ0FyN0M3QmhoWjJBSFRVbkxac1NmaFBTNGRLYVRZc0JJdjJTbk1kRTM0R2pQZVk0cVJGUEJodUlpNGljQ3VnMW1TbUNMNkwwaHZkTVgyd3hvd0JVQVAzTmxVN2dBeGRsNl95RkZ0?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

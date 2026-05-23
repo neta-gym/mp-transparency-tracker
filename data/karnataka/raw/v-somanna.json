@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "V Somanna",
+    "constituency": "Tumkur",
+    "state": "karnataka",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "v-somanna",
+    "house": "lok_sabha",
+    "sansad_member_id": 5625,
+    "profile_url": null,
+    "canonical_name": "V Somanna",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "pending_cases": 1,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 607805215.0,
+    "liabilities": 226300461.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 381504754.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.567490Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:30:18.544965Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:30:18.543233Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": null,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": true,
+    "source": "prs",
+    "confidence": 0.3,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:30:18.542531Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:31:21.567622Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583426Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583442Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583450Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583457Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583465Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583471Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:21.583478Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Shri V. Somanna assumes charge as Union Minister of State for Jal Shakti - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zYThoVkdjNXM1bWhoNXVxQ05TNmdQX0t4R2dvcWZBaUR4RzJwSjlCUV9aUGNzSnV0ZkFHNjJ5eUdTMWY2Unl0ZG80RlVwaFpJT0VoaGRUcmJRSXY3ZFZsenpmZndub0NTVGxxRkFNcmc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tumkur election results 2024 live updates: BJP's V Somanna wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcmtpTG1KRDJPMzhRUVFyZm1TV3lRSDAxazJVbjYtVXJzLU54aGMtM3VUYU04WTdkZTVtdTM4UmVwVHQ4UnllRVpHNjdocFFnLVl2SVctNkdjNGdLcnNMd29KdVoyNXZHa1FHSllqRENoQXU1YXotdXJKWThGckZKa25Sc3NYRTdVeVFYM1VlWnBPR01malhYYmNDcEJRR1N5Y09lcXRCc09uaDJ2Q0ZNaVhkanNaSUg4MmhVS3k0ci1ReFlLckdXMjNDSnVySXZKN3pLMVV1RjdmbDltTk1yMzFNNkJRYUJCVEw0VWh5NVZSMlFPNWsxaUpsZlhKRDY3MzBTUUEtVVZuQ3ZWaUZUT2FTall1MnFud2ZHUURn0gGjAkFVX3lxTE9QTG9aVmplUV85TlRFajRPWkx0UTRmMktHelhBYTBqVzF0UUF3OW9YRThJaFpsek9CWXlxOGJSdDhxLWxsVWJSbzItX1h0VUJ4djJGS2tJUGxfS1B6NDBRWmJ6ZUg2N01RRUVHVWRud01YV05EMkxtUTBTN2RGalh3SFJTS3lETVhzenc0azhUYmxGdnM3b0VFZlRFVU12T3FTR0k0NzNQUWdVV0lzWWJtYm5USDJPVVRTTlNxYTl6dW9SWUc0UFdoY2xfM0xlQS10Ri1CcjJNcGFjRjVjb3dzclZQM1ZPNlFuazgzZ3QyVWxCUjlEWmt3OGhjQjU3WGtEZHVGOHctMThVUllRVWRySS1UTlQ1b1doSHYxbjdCNnhKWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Local vs Outsider' Debate Heats Up In Karnataka's Tumkur Ahead Of Lok Sabha Polls - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFVvRVpLS0duelItcEZxY2h6YktnQV9DRjhabXhCejBzOGJfX3A5X25vVno4T3Z1Vmo4VzZSZnZ1bld3UVlaZ25BRTlqdEZzX05TVlQ0YUVTeW1lQWZBWU1TaVlNV3hLdFo2WTFPNzh1a3g4Q1Z2bmJ6S0ZibXJxblRwYzVKYjA1Vm5yaTF5U20zbVdfNzBENE1naDhyUVNkUFZuZUhCNUxKcVN3TDQ3X3h2M1JBSzhGNVI40gHDAUFVX3lxTE1UcElDVDFVLUMySDVvMGhLZ0YzRFRTY0p0bEVIQVB1MmNGbHpZdmRkV0ZCT0ZtVXZSallXLV9WX2VrRFEySGFSWTNrNHA1SUZyak12dVBWWmNvTnhKMGNMR3dwTVVoR2EtQjI0eXBfTVU5VnhYWUlRY0U1bEk5dmpzQnRaT2NuNEtnME5jamZWc3VHTERGUGtleUs4WkJmOGFmdGY4cVJ2ZFgydE1kQmtDbXBnbFVhTU5SQVJDOGdvQUtJUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Political Profile of V. Somanna, Bjp Party, Tumkur, and Net Worth - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1VGWkp5RUZHT1pqOFo0RElOX2RkRWxDbENLc2V2dFpKSDVSVDF0cjhSMXkyd0VIZmFpSjloYWstellIRk1nTHJKbm5ZSFZmWGMxazQ4NjUydW4xendhNlRoakpFRGVqNWYtQXVyMl9FaDItRmNNS2xJOWRZZERTX203VFNmekVnRmM4aFh0VHpNcEQ5V1JZemloWHVKejJydnRwYUI1WmlESzBBTUZSRXJqVW1yOWJWdExCUUtPUTAzQ05fQ08zMnUwVVRJU3BHWm40?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shri V. Somanna, Union Minister of State for Railways and Jal Shakti, assumes office - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubXlfTEFOLWQ1VlRBWHE1TG93Tnk0aVlnN2xhY1B2Rll0aVNOYm91OGlmNGttN3haaDFvenJGVW83akdBMlc0MmVqNnZ5R1dzNGRkZjZqQlJvZW1XV2JDTWFleGJoX0xzM3REaFNiRkQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

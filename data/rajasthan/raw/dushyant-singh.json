@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Dushyant Singh",
+    "constituency": "Jhalawar-Baran",
+    "state": "rajasthan",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "dushyant-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 4005,
+    "profile_url": null,
+    "canonical_name": "Dushyant Singh",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 389308540.0,
+    "liabilities": 86593973.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 302714567.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.267109Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:30:06.872305Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:30:06.869499Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 52,
+    "debates_participated": 9,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:30:06.868409Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:31:13.267245Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282079Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282095Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282104Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282112Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282120Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282135Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:13.282142Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 8,
+    "top_headlines": [
+      {
+        "headline": "Jhalawar-Baran election results 2024 live updates: BJP's Dushyant Singh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZEdvUW5yY01Bd0gzZ29VZjIzaW5fbFRjanBDMUhxbVYtbVNSVkRndVdESExPQU9iVnZHWWNOQnF1VG5jV0lxZVhxaWZTTFBfWDlMeU9tSmxsdmlkRm1TSDZoTWhkaTFsc1lDWXVma1dDSnc5R3hCVVdvLWotYThqeFB5ZGphN0hJWlozLUN1SVBRRFFUYXpSM2EzZ05DRHJUaUxiRU5wNTdpOUxna3ZqYlJxRTJNWUpDb0swOWhmei0wV1h1TTVMVWUtdGlyanBidnhmV2VqUC01akNwWm01TEl6bG9feWhPRUNwQ3VKeWR5RGJnYU5jaldlZmJ1bEMxUl9LOU1TNS1sR3dqUnM5eDdCSC1iUm93c2xZelBGSGg2aXdKVmF1eHNZbDFnaXRLUEZBTkhoeTQtOF9WNEVzaDhVWllCaTA2VVpXRF9vckhHV0dtOFHSAdsCQVVfeXFMUF9faUdtRlBVb3pBRU1uMVNDVjFkakl0ZnhSZXRkZ1A3cHJhSWh3LXNHaFdwUUJjb0RGclJENzFuM0VOTkpXOTJ4ajlFbWpZc3ZRVmhMX0lFV093czc5NndxWWdyd0lkUzNOd0RqbVF5YnRpYWUzU0lBQVFVRXpobzVuOXVEMlJpbGd0aGdKNWFRLVVja1Q0RE9ZazdpV19UcmtCSEJqS19CSnQteTg2UkdRTDlIaEk4ZkxxekpQRm1uN1hkMEh1a043ZzB0bVBXTUpJVnk0c3VhTm1aZzlUZVZ4YUVLZkZTS1dta0dhejlCaGpxMXhTMmhXU3RPbkVGVVRaUXdicDYxVFNJOTBPVm9TYU5TYTYxclRZNWROem0wd19uRU1vY1pLbTI1bS12dloyaTJLZ1BvRElwUXdKa0xEaU1NRWpQQWcyLWVuUjJGTHhwNEZ5SDh4eDQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Was Dushyant Singh a key factor in BJP’s Anta defeat?: Senior MLA Singhvi’s letter to Nadda exposes deep ri... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbjhUaHFaOG5JV0Y3TzI2Zzd1UGZ3TUVDWEt1aVNNeTVZa3JtLUVtNDNXd1RIWUxtR2p4TEs1cy1tWllONkUwd2w5ZlZFcVdfUFdSeENIdE1HOW5KWTA0VDRzN1BKckd5YkY2ZEJZQVo0a0RPM0haSE54RWd5V0pBanF5VlRob0ppclB6Y3RjRXVLcnEtMmtCZS1FS2J0TGFBb3VwZlZXWkQ1enpPM1ZTdkdKdl95eHRDZi1xRDVabTcxQ3RJNTJZNHhJU0ZIVFI4WFIxRmVZRGFxRFE5ck1FUkRxZjI1aGlaT0NkT0Jta200M0VRRExja3BzN0tWWmY0VEc4dGZoZW1OcGtuckZhVFpBclZEd2lMZnBudU9HT3JBWTBVQXfSAasCQVVfeXFMTlprQ05wVnM2aVdxWHh4ZllRQVhBUkhMX0pzb3IzcUZ4MlpyTXlZR01HVURvZ3NSX1BUTmdiOE5oQzlXcnBLazh2LTc3QV9MdV8wbjAyVFZGbzl3UTBkVU9qeDhNbjlOWVRvbHhYT3JqcV9HbWdVMndwOUJiSjA0ODR5Q3BQQzR3TnRtZWMyTkZWM2RLel83MXdwR1UwM1ZhUW1WNjdkRGI4bVkweUNQaUVaU3MtVnZuNEdBQU1ScEw2Z2tTSVF1OUJmYzIyOGlLREFpS0FFVWNwMWRHekVWcVV5YUtGRkZ4SmRFOS1hNF9fMkoyc2JSNjRlLVJrSXJMOEFCU0VBLUJTREJtWEtEd2RlUW4zMHMzUTJsNzIwcV8yVG9hSmZnVUhpUVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jhalawar-Baran Lok Sabha Seat Result 2024: BJP's Dushyant Singh Wins by Over 3.7 Lakh Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGkwdm5zd2lsZEVaTklmU1VXekhFVTlzWnhQeDZPYXlkUTUta3hVbGc0RENfRHpfTllQb2tUMjc0TnBLTEJHRjM0aDdvbzVRRmFrV0EyQVREYzV4dUtRam1UX2M0WVZ2aG4xZEFoVk9WSW1GelBkc2E3bEZFSTVTeEF4bzJiMklya3cyZTNtTVhFREwyLTlEUkdmVk1HSmFaNzliclpxVjV4LWJiRTh2MV9kSkZqMFBKWEFwVXNGTThWY1pma3lCU1pqTDlmNDR2TXREaTZ2WWxfbTJnaU5JMU1DSGx6VlFmQmx4emF3TTktbFN5VVNadjJJelc5LWxGVHpuYVNPQXjSAY4CQVVfeXFMTkc1SndhWFdsYzliSENzZUJrOW5xYTB6VnVqZnB1djN0SXNlMmdtT1BlZW1mNGJKNEttY2RuNzdNb3lCRzlNbjUzdWZ6QUtVdXM3M0J0REtSVngxMF9OTm9KYng5SUZxbjBIZF9HTWozaUV6cEdxYnV0MzhrQzNRZ1diRTB6dVFOWERpZE5ySUw3cXJRWVczWVpxWnlldjN2SlZIX3hwZzlZcTZMd2VSNWhiSlZoMU44bkF6N3p2M1BQZ0ZkY3lqeFhJbXpoTWlYUG5SWnNTWXlWdmlCd0FPaEktVkFrZWFuSzJwODI3SzkwblZlV0xXc0IwYTBKY1YyVTVwV29OWVJzdWo4MTBn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP appoints Vasundhara Raje's son Dushyant Singh as poll incharge for Anta bye-election - The Hans India",
+        "source": "The Hans India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUERYamtsRmk0Z1BEalNSaVZPOVpwVVBLM3g4NG9UQU9ONEh1SjQ2SEVDekFBMnlzZF93ejZoMzZsUy1iX1F5VmU4Z2M5OGd1ZFFFN0wtbndvSk1Nb09QODBkVXVRQzZHeXBRYTE0ckpoTjlSWFdVbURxUkVOSFUyZUVxUWg0SXpqQkxQdk1POEFWYmdRTVRBNlZSQlpuS2JuX1JEZ3NJOFNBTDlQT0ZvaGR3SW9ZNTRseDFwNFlDM1VBS2pJLVY4RUU5Tms0UDgyeXF6ZdIB2gFBVV95cUxQMkhFajdDNEQ3b295LTlHUzRpRlV2UmhRZmFEb1lhMEdmMmlxVTB2UkRnMW1ST3Qyb3M3N2loOW5IOGh3SkM4YmNIczBqbjNYVlJRemV5RWtidnU0TVQtQkVIb3dkLVBZS0dnWWJOTHRsTGh0Wk41aXdINU45TXdvRWRDRDAtb0dmd3hLWS1TenZUWlFaUjdFV2MtdDRRMU41eHNmZ09IaDFIOENFTmJfY0ZDLTZTUHF0ZmZ0Ti1ZT0tUNVF4NzVJM1ZBNHhuckpPNTA1RldWVTd2QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vasundhara Raje's son Dushyant wins Jhalawar-Baran seat in Rajasthan - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRlBSUXFWTWxJN0diZ1FuTzFpR0pydGVyMGVHTTE4Z1M2NzhtNFVXZmpTR0d4RHZ1VEdxQmZJeHk0RW5MdnJHMktOOVdkNU12Q2RLZGdzdlRkTmhVeTN0ME92cGk1ZmFiWDlzcTFjUkQzakRCQ3otd2tWQk9mRExEUGZEZXU3M3BwdVV6TFl1Rm5DSU9VcEtXdHZNTVRVeWk2dFVpWVIyR0Z2ODVnazc3Zzl6SFU4WUJLVUR1MkhCbWpMZ2hFS3RQdV8tSEFPLVFHbzdCTHVwZ01zYU04VXEw0gHkAUFVX3lxTE9MeEdpM014cktXRjZSYlE4OEJOWnEyTXNLTFpjek16amRjaWxMOWZHUTBYdWMzN2xldWxCSGN6RzJyYm1iVi1BNzhhejNvOWJVTEJBUy0xLVhwR2NkbGtjUlNTVENJOTZGSXRqNmd6ak5BeFBoX3RxNjVLbnlkcGJjQy1aYVlCb2F2RnhHdWxlOXBfdWIyZlNtQlZFRUQ1Z3puSkFQelVaSTE1VkFxMVl4aWkwZjRhSmJCY1hsSmo0dUdUVko1cEUxZnpBNzc0UGxUc0JHZVlwUkJHV1oyRXN6R19Pdw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

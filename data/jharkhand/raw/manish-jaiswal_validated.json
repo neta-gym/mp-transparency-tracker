@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Manish Jaiswal",
+    "constituency": "Hazaribagh",
+    "state": "jharkhand",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "manish-jaiswal",
+    "house": "lok_sabha",
+    "sansad_member_id": 5673,
+    "profile_url": null,
+    "canonical_name": "Manish Jaiswal",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Manish Jaiswal",
+      "constituency": "Hazaribagh",
+      "state": "jharkhand",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "manish-jaiswal",
+      "house": "lok_sabha",
+      "sansad_member_id": 5673,
+      "profile_url": null,
+      "canonical_name": "Manish Jaiswal",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.614424Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:21:45.911493Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:21:45.908686Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 63,
+      "debates_participated": 7,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:21:45.907568Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:22:48.614518Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629221Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629247Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629255Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629263Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629270Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629277Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:22:48.629283Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Rs 114-cr road project to transform Hazaribag’s old NH-33 stretch - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWtLSUdhN3NoSE9pa0NrcEJ1WXdlQ21fZ3FDUGM0S2tRcWJiYUZuVEZNTXM0ZENtTE9xWTNzMUdEQWUtQmJyeFY5VTAtLUUtYVR5WjJGTkRBc0d4Z0VTTGNYZmx3OEZfamxodm5EMVVuY1N2RHVLMGFOUVI2bDcxUDVfWmFETlAtZE5vQXMzTEVZd212OGFfU1hSaXloanBSU3o0RHNmSldPSm1FanlzOWR3UVlmZXp0RExfdVBaUGtqeU4yaGxVd2NqTjNId1FfNFpFSdIB2gFBVV95cUxQOEd5ZFU4Y1J3eTl0UFQwQVRvdHFwOC1KbnZQaXlpcnNQZHcwZFZVNDAwWW42bmRVVDRyVjNMZlJ1Nzk5eGMxYjJwVnVaWjJ0Rzc5Z2JyTGtvcllRZDJiUDVBNUY0Qlg5em5qT2J5OERacXlJZU1BYmFPSnBuY1NoUHBwdFYtY2R3ejVMRW0zME8zeXZQQXdoeFUxT3RnU2xtZUp3VWtVdWdvLUpadDRfVjFJQ1RsQmhCVWJEd19XN1VNQmVCREQxUm1zOXBYd0NBR0FqcTNoaU1xZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Hazaribagh Shuts Down, Protests Erupt Over Minor’s Rape-Murder - The Avenue Mail",
+          "source": "The Avenue Mail",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ReV8yRzNXVktIRUx5QzZiZG90b0pESzFuTE90VU82QmVsU1I2ZWJCYkhOelRuQkZmbmNJTlFDQ2RXd2paS0Q5OHRUbWkzczJsSzF1SzRxNUtVN090Ni10cThoTU1SeXlfZDFpYWYyNzl6UXRLVTJ6cUNn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP raps officials over frequent power cuts in Hazaribag - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU1jbzNUNWdBS3c4Zm4zSFZQQmh3RnJoakpwbDBDLVY4QktYc0ZHWVFyYjNuZnNBRHNLQ2VZYnlDUk9RVmZCYk5oLUxnWElwNHlCU3IzZW00ZXFHNWtzUnBRRFRmdUZLZmc5OEVYTkk0NzV4RkVKNFQ2M3lGX1MyM0YwYnlBMVhYWG5BMzhTSjFqb2t5MlZWNzBtSjVXeE03cXpNaXpjUjBnWnpKTGlWMi1pS2tpS2IybTZyU0NiV1dRSUs2ZDlsZNIBzgFBVV95cUxNT0xIZUk4Z25hLXUyaTJrZGU5Nm94VlFrbGpnNGhhTkNNLUpDWm83YTJra1o3VF9HZjduWTNzNm1OaTRYR2VuUVlleTFGMHE3TUJFLUVYOERaajlkbW9XZ1hEVFJBM1Bod2lPN1J6TW1NNVVWbGN0bkFkMmY3VGRTUFo4ODhUTThPclZjSW01cTJGQ1dOdUtvZFFHN2Z4b2FVbGM2SWdwTHlHM2xKQ0VnMXZiZXRDOVpvOXlaWTlGX2JCb04wNkRWaHBYdTZVUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Outrage Over Rape and Murder of 12-Year-Old in Jharkhand - The Avenue Mail",
+          "source": "The Avenue Mail",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzREQ3VYdWQzYzd2Zk1haWxjRTBqVW5YSUM4YXY2ZVVxWTdqVTgxUVpUM0ZnV3g4ay0yRnJYRktNdWFmTXdTSGxoTnVEQU1xOTl6VlBrc0MtWDBwU090SjlSb3p5cVhVNmk5SWU4YmNteDNFZHBSWEJTQ3Z3ejFIYmIxZU4?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Hazaribagh Bandh Called by BJP Over 12-Year-Old Girl's Death: Demand for Justice - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHNXT2d6VUNrRVlETktHa3pwZlJKaTZSUmVCYTRXRlE5bUlEZnpUZGlpU1hJRWxUN0VrM19YVFZkTWV2dk05d29lMXo1YV9tN1JDSC0wbWloOGNZQ0lEdGVwWUJTNnBMaElxZVNMZ0JYNk9MdF8wdllDS3dURVBwdWFvNGRhR1pTQ2NocmRGMXB6d2Q0NGhxMmNUUGRkRDFaUEIzOEh1SzBSOWZQZlVuRnFCZ3RsZWw1MGowY0cxb3dUUHAxTEFBZ3cwcm5jZ2tJTERoNXF3U2RiN19ZUlBoR3N1NDh6d1XSAewBQVVfeXFMTWhyYm1Hc19SbUVKX0VNYUZmYjJ5RDVfREFFYUlZWnVacGhZRVFhWkdxYmtSbkQ2ZUhISGpHTmpjNkcyZkxZWjNsNmdPS3B5VHpabTJPdFZaYmRfYnk4Q3JEYWxXQzFVZE42TVlxeFVXdlBlWG42amhmY0g4Y0xZeWRxOXJEaXY1V1pQM0hvYWljUEd6djJpM19wcXNaZVNWNXhIRzJmeUhUcGFxODFOZGZ5NmNXVEprYVBkdndfZzd3cVdXUGZ2Z041WExiNUhMQ0JBU0ZmcHJoZXNWa2xoc1BRNFJ5SlREb3pzUzY?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Jharkhand: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Manish Jaiswal\n\n### Overall Assessment\nManish Jaiswal, BJP MP from Hazaribagh, Jharkhand, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating exemplary legislative engagement with 100% attendance, critical information regarding assets, MPLADS utilization, and criminal record verification remains unavailable, limiting comprehensive assessment of his overall transparency and effectiveness.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable for MP Jaiswal, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The CAG's 2010 audit revealed Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess whether Jaiswal's constituency development aligns with or diverges from these concerning state-level patterns.\n\n### Financial Transparency\nAsset declaration information is completely missing from available records, with no data on current assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and unexplained wealth accumulation. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, tracking financial changes during tenure is impossible. This lack of financial transparency severely limits public accountability assessment.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), but this comes with a critical data quality warning indicating low confidence due to potentially unavailable sources. While the clean record appears positive, the uncertainty around data reliability means this assessment cannot be considered definitive. The absence of verified criminal case information represents a significant gap in transparency evaluation.\n\n### Parliamentary Performance\nJaiswal demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical MP attendance rates. His legislative activity includes 63 questions raised and participation in 7 debates, indicating active constituency representation and policy engagement. However, he has introduced zero private member's bills, suggesting limited initiative in independent legislative proposals. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics. This performance profile suggests strong institutional participation but limited independent legislative leadership.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely constrained by data limitations. News sentiment analysis covers only 10 articles, all classified as neutral, providing minimal insight into public perception or media coverage patterns. The accessibility evidence grade of 'D' indicates very low confidence in available data. No committee membership information is available, and social media presence data is insufficient for meaningful analysis. This lack of engagement metrics prevents assessment of constituency communication and public accessibility.\n\n### Data Quality & Caveats\nMultiple significant data quality issues compromise this transparency assessment:\n\n- **Criminal Records**: Low confidence warning suggests potential source unavailability\n- **Assets**: Complete absence of financial declaration data\n- **MPLADS**: No fund utilization information despite constituency development being a core MP responsibility\n- **Committees**: Missing committee membership data limits assessment of specialized legislative work\n- **Overall Evidence Grades**: Parliamentary data rated 'C', accessibility rated 'D', indicating moderate to low confidence levels\n\nThe automated flagging system identifies 7 relevant CAG findings for Jharkhand, but absence of specific MPLADS data prevents assessment of how these systemic issues affect Jaiswal's constituency work.\n\n### Key Takeaway\nWhile Manish Jaiswal demonstrates strong parliamentary attendance (100%) and reasonable legislative engagement (63 questions, 7 debates), his transparency profile is severely compromised by missing data across critical accountability areas including assets, MPLADS utilization, and verified criminal records. The combination of excellent attendance with complete data gaps in financial transparency and development fund utilization creates a paradoxical profile where institutional engagement appears strong but public accountability mechanisms remain largely opaque. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of his overall effectiveness and integrity as a public representative.",
+  "validated_at": "2026-05-21T14:23:12.667118Z"
+}

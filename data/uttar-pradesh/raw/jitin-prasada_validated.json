@@ -1,0 +1,454 @@
+{
+  "mp": {
+    "name": "Jitin Prasada",
+    "constituency": "Pilibhit",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "jitin-prasada",
+    "house": "lok_sabha",
+    "sansad_member_id": 4065,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Jitin Prasada",
+      "constituency": "Pilibhit",
+      "state": "uttar pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "jitin-prasada",
+      "house": "lok_sabha",
+      "sansad_member_id": 4065,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 298925408.0,
+      "liabilities": 0.0,
+      "net_worth": 298925408.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:08:30.853388Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:08:27.221458Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:08:27.218551Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:08:27.217434Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:08:46.496367Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478742Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478747Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478751Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478754Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478757Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478760Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478762Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:57.478765Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "5 Facts On Jitin Prasada, BJP Candidate From Pilibhit In Uttar Pradesh - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG5IRENybURXSGlNTVpxTmxhM2tfR3JIZEdyNllPb2ZEZmV5MGw4dmhGcW1lekNtOUdMMFQ5RzFtVWxhTmlCWGJGTHN1M1lsVnlEV2xiQUQxcy1XZU92LUh2Vm03NHJoSGNGbXdMS3dDcFdmMUFzOF9RWm5Rcm9IYWZNTXMzTXBkOVcydXhSamxfYkdDOG1xa3VaRjlTN3BXdUlPMjNRcnlNcHNsSHllZS1KLUYwUUxHdFJ0Y3dsZFFPUGpNV2fSAc4BQVVfeXFMTmdLdTFkbDJmbThHdjJQQ0x1UWFnSFFSaHJFMVlZQXhSZ3JOek1HblUtOG5xUjJiNm1FVUhvbGNNbUJiT0RrSkplTzBqbXpCZW9mZGpyNHJFMlpDZWlrYjZkeVVzeEJienlOUXBIRlpYNU11ZUtVOFZMT3BHZEZDUnZYRUF6S09GMmtZLU9zaWlSenhZbHRBOEZsaXdHdTMtV1ZhbUVUR2t5dG1ZY0pvell5UllGVWhQUDI3MVZ5WE1oOWdLX3NQLUMtcjFRakE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Pilibhit Election Result: पीलीभीत में 1.64 लाख वोट से जीते जितिन प्रसाद, वरुण गांधी की जगह बीजेपी ने दिया था टिकट - AajTak",
+          "source": "AajTak",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPY2pSRW04REhoYVIwRm1fRzFDbHdPUkxCcVNvQXlpTmRXZk1kQWRvc2h6dnNZTm9BelhvU3pWSE5Da19XRzRMSnhyVGhBWm1tS2RmWHBGODUxVDhYeW1lTklmNHRGdFdTQU1pYU1Idmx5bGhIRWowbDhKcGpySWo2d2RvTHVEZ3RLU2g1LUxVWXNiZkw4REJDVDNBNksyazlEQTZMT2NZQmlFVUQtUFM5eFl0SjVURUg5TF9YNHp0M2dVcnFSd2pIRnlrT3U3eDFBcGZ3MEdsU19QMklsU1doems4VHFmeUNtQy15TnRVUVVYcWhLM2FIOTVBdko0OFZqNXRBLTdDUUJfdjNuZS1vTmlzcjlCU3RnRHdhZ3ROZk83dXhl0gGqAkFVX3lxTE1JQmtBb0hMQjFSVHFnX2lCakN6b3E3X2JDNzN3T0I1VE16ZDdTSmFPX3ladjY3ZjVuOUhVcVVHTnNfUVFmOGJSSnR3WTRHelBOTmZpbmdRU0FPOGh1dEV3a2t2RWJzTW1QM1VKdWlBUENHVlJHNGRHZFJZLXpaVjYwQlZlMk5ZeGhCemxaMWhzZzd0UFRScm1EenE1OEFMbUFsQ2tpTnpKMUpBVjBueEpDSURIN3NhTTRZLVVpbG9lbWwxLU1BWG5sR01mcGVrT2toQ3B0WDg0TXJGSFhuZTE0ZEQ1bktRUmREUHNHd2pseGtPTGpKcDB5SFNwOG40OFZJeFgtSV9aZ1ljRUlSbExUaXRBTjRBWEd1SVhVU2FKakhDWHc3MkhvZ2c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP candidate Jitin Prasada files nomination from Pilibhit, MP Varun Gandhi remains absent - The Economic Times",
+          "source": "The Economic Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNlYwSklqTUoxc2wzYzhmVEJMY3hqX0lzbm9wNFdkVTJqUlpxUkxqVzM4S2w3azNTVkluczlVUWlnODB4TldfMVJMc1RXZzNLcE5kaktrNzhkdUhlbFlUVjAybEJJa21TRzQ2eWVQR0cxbnFjWXlIUEVwa0tXNm5Qb3NQc19tOGp3TzB0dTZqTG5tZWpERm5YNnRKYmJCakl6RmEtTUVkb0l1MWFrQmprOTJEUHRKc25yUXhCTFRteTR3UUVzWTZpSWhIT21OeG9xbHM3Q3hWbndsY2VTck1MQnAxTldrRlR5ZXV3N3hpeENMTVdPa1dkTmVaQW5DTk1tM3lyX0tVMjhVOXQ3Z19R0gGUAkFVX3lxTE1mMmpDNGttTTJKNnpGU3Q4dWdhRnVEWm84ZmNiMnU4ajdpTkFUbi1nX01Qckg1ZWNsRldmckJ6S1pRam1RZGNQNkRTVU1NUlQ0NnJpbTg5a1V0VnN3YjVFd2JIWFJYbS1mNVpSQWJLalRXTVhvc0F6S050a1NEeVduV0V2OVQzTTV4VzhwM3NaNzFCNkxtVFEtSnlMLVlqV0xfMkJtWW0zbTU2NHRyel93REZhdW92TXhjdi05Ymh5VXRjdTlrS2ZyLXpWcF9zeVBLOEFiQVJ1VzY5OURyZ1RqYVRicU1SNmRXSUFkY1pUSVBZMkg4cjA2Y0tMbU9HcjZJbHNxLVV2aGx6YmpTeVgtaXp3cA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Fielded in place of Varun, BJP’s Jitin Prasada leads by over 1 lakh votes in Pilibhit - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclF4OGZVZjZwb0lVSVpqZzVtXzh2Tl9Palp0Q0hRQ3Q4SE5tNkdELVZNNW1aYUZsT3lrSk1YbjRES2E3U1E0WmdtY2dQLWlNdU9fLU1yR3pzVkd1M1BZYlhfWnE1bEVCNFFhUVZjQzd6WFdrMUNMNnZUUHZpQWlMWUVtMWxnV0NmRWZYRktYZ0locEZmUjg5WEdHdzZYTFhqUEpIUU9YcEhEYWt3MHRlSjJQTVN2QUYzd3E5SkNR0gHDAUFVX3lxTE1yTmNYOFFaRVFMTV9rdHdPaEQzbS1DaGlhYlJhUlVST3JvaFNBUDZ0cktJaFQwRl9uZ1ROYVNxTkNYN0hzNF9uOFdqbkpSMmpwMjVLZ1hic081TmxZTmxBbWpmdHNMTlVoZGRUeEFIeTFGbE11M0dma0dZMWVFVUpqNVp6ZWhtaHRsWk9DWVpLbS04WnhFRXF2WmRSaDJBMFRIS3NCSThFZ3hUc2d0ZFg2NHMzck9vNnJNRGlmUWRpd05SUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha elections 2024 | BJP's Jitin Prasada seeks to ride the 'Modi wave' to win in Pilibhit - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUndKVm0yQW4tckdiMnVGVGNSbVdkZjhSQ3h4NU5UMEQyOERQbjBiN1BLTXpZb09xSzBxMlVXTFUyLTh3em13S1hBbEFMNm4tc0pOcjljOXFUcVBGZ094Y2l2Y3cyZXlOM21OR1RjWVVGOVVmX3pSc2ZVSG9FREpNelNuajVCWjZlaG8yelJJWmptLWZPbU5Ec0F1di1qTDdOOVNLUEFfWjhzV0h5eDE5SFJJZWhzMDZiaGNvN1dxZGZUUjdvNVdMQ016OE14UWZkNXRTZFBpZTA2Q01DSGtRaktKWlQwWGoyd0dj0gHyAUFVX3lxTE1RVTNFd0xOUzkzVXRnN2tpTHhJeWFPYTY2SXVFeHU3RHpBbDNVa2VpWGJaWkI3QmpENHNwYThuRHoxYndNb21fbjB3d0cwZW9SM1BMRFZoZXBXQmZaR1Q3U0xPZzdVbUpnc19iTzFhT3c1WHFSdHNZSmY0OER6VVNSYWN0RWx4SEZmMTVzWlRvbko2WjZMN2U4cDRUcUpqRDBWTmhZUlJFV3NDVGJ4Sl9pUjlTMjdaSmNqNjI1ZjVoWUVSQ2hDRTRKMVZjenZWUnZHMnd6MmZIdmxpN2c3VGlPdlJfOW1RbHBYZWZ0Wm1rMkRR?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.3,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Jitin Prasada\n\n### Overall Assessment\nJitin Prasada (Bharatiya Janata Party) represents Pilibhit, Uttar Pradesh. The current composite transparency score is 45.5/100 with low overall data confidence. Jitin Prasada has a below-average transparency score of 45.5/100, indicating significant room for improvement. No criminal cases declared.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 29.89 crore; liabilities of Rs 0; net worth of Rs 29.89 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\nNo criminal cases are declared in the available affidavit-derived data. Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at not available, 0 questions, 0 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 10 recent/news-cache article(s) (0 positive, 0 negative, 10 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 2 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads, parliament activity. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nJitin Prasada's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:57.479247Z"
+}

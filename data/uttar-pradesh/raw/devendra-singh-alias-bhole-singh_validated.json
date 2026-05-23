@@ -1,0 +1,448 @@
+{
+  "mp": {
+    "name": "Devendra Singh Alias Bhole Singh",
+    "constituency": "Akbarpur",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "devendra-singh-alias-bhole-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 4664,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Devendra Singh Alias Bhole Singh",
+      "constituency": "Akbarpur",
+      "state": "uttar pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "devendra-singh-alias-bhole-singh",
+      "house": "lok_sabha",
+      "sansad_member_id": 4664,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 13,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 13,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 47828524.0,
+      "liabilities": 9902495.0,
+      "net_worth": 37926029.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T13:51:57.111356Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T13:51:49.254658Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T13:51:51.913661Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 50.0,
+      "questions_asked": 10,
+      "debates_participated": 3,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T13:51:50.534061Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T13:52:14.330137Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849075Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849080Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849083Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849086Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "uttar pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849089Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849092Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849095Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T15:56:56.849097Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "top_headlines": [
+        {
+          "headline": "After consecutive terms from 2014, 102 MPs’ assets up 110%: Report - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUTdJMFNhX0d5REdwczBtaTdwVUxhUVJTeEFxRXBmOWJuZkZwNWZJYWhNQ01zWXRndV9KT3k0bjFnQjdYa2w4dGc3aVpWSmQ4ZGxrczlRbFBaUUpORkJMMndMZVdrY0lHVGFqcFlGd1NGdVVnenRMQjZyclVpTVhiMFF2Qnh0S21rVnUyWnBpSGlkQmdEVnh3QnRaVFQ2YTdMcXZJUmNEZ2dLd0NmU2xRa29qOGczcU1XdjFRTjV5TkZyVDhRamxMZGJR0gHPAUFVX3lxTE9DNFRXYmpDOEhCY0tGNlkyZlNETXUwRUM0cWh4cHQ4QXhMRjFOSzBsZXdodmppSnB6YnJYOEo4c05Jem5CanNDNVlITHp0alluaHdHV2d4T0JMUldyMTdWNDZMemI2cTJNT3JnZHNrTmFYZnhHczBkSlctLWZRM2c4Y1FyLUNzYkI4MmJBeE9BQ2RqT1dQQUJGWGdDUDBvSFJCODZjanpDZEJ0MVFGOFJsRy1HUzNzSWRfNFgwVWF5bjluUW11MjRmMWV5cHhoRQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Re-elected MPs across parties show 110% rise in assets between 2014 and 2024: ADR - The Statesman",
+          "source": "The Statesman",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc3JvLVJjNXM0ZmhUSEJnbnVlME5GXzFhZkluVUk4bUIzaTVFcmVwZjBNa2hQLTY0QU5EeW91MXFiOWt6LXJmUHVET0tQcjVjaUpKbTVibVlON0hja2l4UlhiVjk0RmNweVpBRThtTnZSVmEwdHdiWjRJdkNvRU04TDFka1dSSGIzLVM2VnZyWGcxRlVaRlpiNWRBd05RcnNGYmgtZFlQZS1JZThUdUV3ZFh6di1Cd1l6UGRrb05WU3lwbTVfamtKVHFB0gHPAUFVX3lxTE1vUlgzVVozZlN6OUFNTy1tcVdNSDVMSkhzRjYwY1drQjBiY2tDSXlJQ1FqVFpYYjdGZVNqdGUycElmMzFVT3VaSEU0YzhpYkt1cjJ0a1pPRzlTV3h1a0hUN05WSVRuVWkzdWZBMl9rMm1PeTZRWTBNaVNaNmRqWWMzUkE0NnhfaWZfbzhrZHJIYjV2MkhTVkhzNi1sSWFHeU5xUnJfbmx0b1ZhYVVPaWVkNGI3ZUJIWEQ2MHBuVmFJRGxhV1Blczktd2l4NzhZaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Akbarpur Election Result 2024 LIVE Updates Highlights: Devendra Singh alias Bhole Singh of BJP Wins - News18",
+          "source": "News18",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc29zd3RXTlRFeTBSTHZlVjB0dnNKcE5KSENrTTdHcEV4OERPRXludXVkSUtOekNOVElZeHFaMmdxZGc1aTQ2LXhheTRsWE1hT0pYVE1uTVN1Q3dpY2pkdE1GUV9lRG40RjNvVnItaFVISk5nQURES1lLX21IR3huWWpqYVZYM2Y3SmI1TzlnbUNMSTlxLURwV3F1cVVjVVE3YnZXVDZkZzlMdHRYXzhjYS14c2ZRaDZGdl9zV01WRUtyWDVzc0Q1SENlS1N6eHd3Q1h5OG1TbloySV9EUG5DdVRPVdIB6AFBVV95cUxQZ1BsTjBXRk9xdkppZVVNb3VKVGdUYlVDcEUtTTVpTE5mekZIOHhvQjBhci1PaFhpQjFtUm9zclVzNzVDeFoyQWF3RjAxRm5JRHFCYk5TRDRoejFPenlEUThwbXlZTUpSWjNTNVZaU2g3T1pDQWZZZ043ZnN0YUtkbmFLckxLRkFfcHJsQVYtUHNyaUVUeE9jMXk0S3ZYU2pOM3IyYjBUQ1YxSUxxTnB3VUIwY2VhMmZrdkZReHUxS0lsZV9IaTFHMmctVjhyYmhZQU9JQWt5WkNZNHZWWlpibWlOWVJjcG1a?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha Election 2024 Full Winners List - financialexpress.com",
+          "source": "financialexpress.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmJVcFdYOFU4WmgySmpOTGV3VVpmQzJPYWZCdTlwQXNRLVBaZ3ZSV2ZtTGYxb2hCTHJrdUwxZDF2VEhhMnA5eXpKd3J5UDFjQi1GX1lyV0dLcW1uZDJWWkltSjB2U2RVaHVBZlBoZmFPMHRfT1BaUEd6R1FDOUh6eDQyYmREMzI1b2xPdUR4REpkM3JsWF9xMmZVeGJYZzZWVDNWbVpyRWVrNE5ac1VwUkl2cVk3YVdhQlV5cGhzdmtHcVVEVGdycWlYdXpBQ3ZYOWh1d2Fjcmg2cXhjdlFN0gHmAUFVX3lxTFAzTDlsN1NsQ3FGX3A3YXhRdEJLT0pydElDanlwZm5TcThMVmtzWmJFdFRnSTBwZGJ1Z2RxdmJvMDVnN1BHekxiWXNXOG50Z0U2TnFTcmUwT244bWlkdk9KU3NJSUJIWG1RMFVNWjFLWmV3UURQLWZwaVBFNUpwSkJYU0FJN0FKcWlmYlZITF9VcFdKa1JWd3M4Vy05V1hVYWp4R0JJcXdnZ3JVY2xfWDBxTjQ3YmxZRUtfNW5yaFlJLVhlOHZ2Y3hjMTFaYm1UMm5qUk5KbGRNcXdpcVNXM25lSC1ZYWNR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Midhun Reddy records third-highest asset growth in a decade among re-elected MPs - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0NXZ1V4WHZraGtUNFVqRHNldUtrRTRsM19ycG9MbzFKVlViQjBLbEE1dm9pZVRnT1EwY2FWeDBmQ3lJTkc1YnM1dW9Xd2dva2VneGZBYUVvN1dfdXZKXzNvNzNqdTc1U0V4X3A0LWQ5VmxNUC1WZEVlVkl5Umg1WUZJb2dTdkhkUzhnVk80ODZtNUMtS3ZSNlREMy10Z2NBQVEyOEl0c196d2dZVUJiZ20wM21BcjBYRFZWR0xzQU9VaE9PdFUtdExvWF9lZEpjbUJaQ0F1Y0VPWDJ0eHhMV0VuaDVHaTVYZGtIVzFQd9IB9AFBVV95cUxQNEJQVTRZY0lRR2VqSVJxeDZCVjJKbjhvbmNOVGZaSVVJSlNZVmZ3WnpUXzZhMWwydUFnX3ZYbzJrMnNXaGtnWHpPa2dtSmpWXzdaX21fcFpxQ09qY3NMZmIxZEJaNnVIR0FZdWZXTTFfOTgtd21fRGZYRi1KZ01zUzgycnpQYkFzUW9yYXJqb0NzVGtGMjN2QjJncWFtN19EcHlwSEw1aUp2LVJqVkdtZHJDTkRSeWhnbUhINUxVSW5Vaks0ZW1GSmJDOHJoZlJuMG02MG1VYmNHcHI0S1lxNHBGbjN0YkZ3R0R0N3VfMnc1S1JM?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.37,
+  "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Devendra Singh Alias Bhole Singh\n\n### Overall Assessment\nDevendra Singh Alias Bhole Singh (Bharatiya Janata Party) represents Akbarpur, Uttar Pradesh. The current composite transparency score is 29.5/100 with low overall data confidence. Devendra Singh Alias Bhole Singh has a below-average transparency score of 29.5/100, indicating significant room for improvement. Significant criminal cases are a concern.\n\n### Fund Utilization & Development\nConstituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.\n\n### Financial Transparency\nThe available financial record reports declared assets of Rs 4.78 crore; liabilities of Rs 99.02 lakh; net worth of Rs 3.79 crore. Asset fields are based on available open affidavit/declared data and should be interpreted with the stated source confidence of high.\n\n### Legal & Criminal Standing\n13 declared criminal case(s), including 0 serious case(s), 13 pending and 0 conviction(s). Criminal-record confidence is high.\n\n### Parliamentary Performance\nParliamentary activity currently records attendance at 50.0%, 10 questions, 3 debates and 0 private member bill(s). Committee membership data is not available or shows no committee assignment in the current cache. Legislative record fields show 0 bills introduced, 0 zero-hour mention(s) and 0 special mention(s), with unavailable source confidence.\n\n### Public Engagement & Accessibility\nPublic accessibility data has low confidence: 0 tracked social platform(s), 0 aggregate followers, and 8 recent/news-cache article(s) (0 positive, 0 negative, 8 neutral). Informational compensation data records total monthly compensation/allowances of Rs 2.45 lakh.\n\n### Data Quality & Caveats\nValidation recorded 1 warning(s) and 0 error-level flag(s). Low-confidence dimensions: mplads. State/national CAG context includes 8 MPLADS-related audit finding(s), used as context rather than direct proof against the MP. Missing or unavailable open-data fields are displayed explicitly rather than filled with estimates.\n\n### Key Takeaway\nDevendra Singh Alias Bhole Singh's profile is complete in the sense that every major dashboard section now has either data-backed values or an explicit availability caveat. The most important follow-up for this profile is to verify constituency-level MPLADS releases and expenditure through official RTI/departmental records because the public machine-readable sources are currently incomplete for the 18th Lok Sabha.",
+  "validated_at": "2026-05-21T15:56:56.849599Z"
+}

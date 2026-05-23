@@ -1,0 +1,384 @@
+{
+  "mp": {
+    "name": "E T Mohammed Basheer",
+    "constituency": "Malappuram",
+    "state": "kerala",
+    "party": "Indian Union Muslim League",
+    "myneta_candidate_id": null,
+    "slug": "e-t-mohammed-basheer",
+    "house": "lok_sabha",
+    "sansad_member_id": 4561,
+    "profile_url": null,
+    "canonical_name": "E T Mohammed Basheer",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 20252293.0,
+    "liabilities": 0.0,
+    "net_worth": 20252293.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 20.0,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:20:47.704000Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:20:40.828535Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:20:42.871275Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 36,
+    "debates_participated": 12,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:20:41.866858Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:21:04.845581Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082710Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082722Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082730Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082737Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082744Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082751Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:57:10.082757Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Malappuram election results 2024 live updates: IUML's ET Mohammed Basheer wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOSzBhNDdkbFhoM3ZjQldvckVGYk9HRkttdWpWZnhaRmpRWWVjZ1NxbTduUllZR0tFb3pTQ0xJMWM4Yll1UHliam9zYXNBaFVnbmxTOUR5NFBZTVJYVzFsU1VfTUJxZGw4N2huZXJVdmFtRVlCRVd0WnZPLTU1QkhFOWlUR1BFVUpwSFQtNDE2VUswNEg3bXpTb0F2ZUt2SXlIOUt6a0VRTmxYQmZ4ZGEyMmlLelZzeEJmTk4wczBkUXVDMlFnbzU5X0hXd0VNcE1wMF9RYlhHd0pqV2Q1cU9kZU1qM3VIcm9sOVpac21OdFp1a0tTMGZMemVSS1ZsZjhUX2ZtZWVsUDA0RmNwYUtpNlNIX29MUmk3R0ZCdG91WDc5d2tPMk9FWnVMX2dtYU5tN3hybjZRdVnSAb4CQVVfeXFMTWk5dGpPU28zd1NDVWtmc3ctOUJZbnNBcUF6SEtsRVRTTl9hSTBIX2psaExPMEdqc3ZVY1FEbV9ERG12SjQtXzFjcS0tX1lyb29yMVN2RVk4ajhoQU52cm5zbmd1ZThuMUZlLXJaWFFacGVFa2x0enJ0dG5HUjlIdjJya0I4YkdzU01KZFJQVU1MNHNlQUZ1NVlIMVJ0c2VSajd6ZWJ6QVZrNGFqRGZhTXlWcHdUR25zUG5walJiRGk4b2N0YWNPb2UtdjNwNUJNT04xamNMWURyVE4yZkxqeXRCSnJWY044dXdKaEJVYU5QdTFHV1VfdnlaMGVfV29tbkY5a2EtaFlkYmdBTnF4TE1DSGR4VlNOQ2JjTEdzd3M5bV8tR1R2QTBjazQ5WnQxQXNmWHl5SlJWeHNyZm5R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Does CPI(M) offer a friendly fight to IUML in Malappuram, Ponnani? - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEk1OTd1OXFqX0FyWXJTamMwLWp2blp4WDRrQVdUdFhLTlpmenVQVVF1VmRRWVV4d1NlRmtrYTFZQ3hIVFVsaFUzS3FOb0lvMlNwbVdQRjlZYXpXUkY3WnNSSXpaX3RGZ0V2dUZ4al9VS3djS2k2OU82Sk1KN25CSUhrcUpnOEF2eEdCRHVQcE1vWlk1blFqcnFmWlJoOUc5UTNmMTJSbG9jdmVoVFZubEplekhSY2M5Z3kzaDBxcS1yN3JhcWdXVGw4UDhyTzdsVXRyY25n0gHcAUFVX3lxTFBfb2lKRWJRdFRzQnVlLXRpR3pQRHNfMFdXSUQ3MG9lZ1dmUjVJVC10TXVWY1VfVTB5VENQbF82Mlp6VkdvRlE4cnE4ZFp4aWtVaXVaX2FfYVZ2ZkhPTFFwZlRjYVlVZHo5aDFubHZsemRLZmFUVVFxaDJ0Qk5iajVCNVVYdnlNdXRJQmFTR0RmOC1POXM0YlhIVFBGVnBJSXlvSU1RX1hYWVp1Y2wtV3hfbGUxY1QtOW1xeGJpNGF4eW1vRDBIM29rM3Y1c1haZFlpRi1CU2ZoczM0VVY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "IUML announces LS poll candidates; ET to contest in Malappuram, Samadani from Ponnani - Onmanorama",
+        "source": "Onmanorama",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWhUTXQ3NklOdXNrNUZ6SERrUWV5RWRxZEtWT0RSU3UxVmRYUzhaZkppa0cwLUhJR25CdjZfMmVYMm9xS0tLYnVoOU5Wal9oNkN4X2xiN29CQldGekNBRllLbDg3OWswcEd5WndFc0RLY1gwazRRa3doUEFtUGJlWVIwQlQ1NTJTc29JXzE0bE5pejFxWl9tVVNIMXhQWWMxaGdyWmRzOGlrUEhVY2FxT2RMSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ET, Samadani to swap Ponnani, Malappuram seats - Mathrubhumi English",
+        "source": "Mathrubhumi English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWG8tWUZ4LVllMGhtMTVoUjl5VnNRU3I0RE5yWmF6c2JwanY0RWxMU05hMXpYb2NDSXUyNE5xc0dnTzc4c09NTWNDanpoVFUwcThIOXJqenpvdlR5WmZOVUVLZEgtUUhjQThfaVBUbFFXczNzYjQ3N3loQXh0U2ppWHlFR0MweTRXSUx5b19DSkxwZm9UeTJENjlFUWlKbG5mc1BZbVQ1aDJESmpoeUJ6NHFmZGI5YUNaUGY0NNIBwgFBVV95cUxPTjBZa2ZFd1V1SmZnSUV2QnpmUmNNeFZmdXB2MkF6V1pMSEw5Tm1Ja3Rfd1hnOWFmM2ZMZEN4TjhoMVBvbVhuSVJ6a2hkYWdtWjQ2SmI1eFZsRGh4VTViWldDS2ttLTBqcWNtMjhfMWp4RE10SXZkM1c4ZTlQeklkdnRMVmhvUHBlWDh0VEN3bWZra1pXMkxud3V5M1c0Skozek12bDJVQ2pvWVhOaGlpcS1uelRoX1BzRWZKVUg2S2lZdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Prophet Mohammed insult: Cops stop ET Mohammed Basheer from meeting protesters in Kanpur - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYjhBclFrVVJUdmR4M2NmMzB1ZldCUjVSMTd0YkNKc3BsT0hWN2hlRVl2UG5KdTVTSllKYmJIZFRlUzhxMXgyR1dMSGxRNU56Q1JlWURmZEtoa3IyTERTRlBGNW1rYnFsMm15THM1cG5taGZpU1B6WURPS3ItQUdXa2JVZHAtQkhVcWg1TFI3NGFKQXp0Z0FQX0pGOEJiWkpaSGExZXhsaHJMTDN0WDJZNVRuZzJkRXMwUkRVelFyY0Vjak9IUHhEUVhwcF93aVZoc3VJc3g1MW1IYkw4Q0JrX2VGUDI3YmV4MG4wYllRY9IB_AFBVV95cUxOakpEZkVIa1BPalp2LW9ibWlLczEzMkZoZmU4REJuNjBHM3BkdFJZU1BWelg1MkRiU2h4RUVSaHE2Q2ZvQkpuYi12Wm91akNmTWJuRENyVWVKd00tY2E1ZlhwM2tvN1Z3bDJWSU10RmlCRGpucEprS05hY2VWeUNaTnZha3pnTjZtaXM5TF9Cb3hjWXpxQXpjckl2UzdjeEktVGxuelBZTFFfUVQ3ZkVxaXROYVJaR01KWi0yZHJ5T2JtOU4yaXhCY0txMENXUXhMR2J0QkxIZnVWeDNzSE9kc0VpOVQza3Z4WmVBckxES29pUVkwY21TRVVkckY?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

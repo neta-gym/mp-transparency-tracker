@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Mahua Moitra",
+    "constituency": "Krishnanagar",
+    "state": "west bengal",
+    "party": "All India Trinamool Congress",
+    "myneta_candidate_id": null,
+    "slug": "mahua-moitra",
+    "house": "lok_sabha",
+    "sansad_member_id": 5049,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Mahua Moitra",
+      "constituency": "Krishnanagar",
+      "state": "west bengal",
+      "party": "All India Trinamool Congress",
+      "myneta_candidate_id": null,
+      "slug": "mahua-moitra",
+      "house": "lok_sabha",
+      "sansad_member_id": 5049,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.892897Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:33:07.526759Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:33:07.522991Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 95.0,
+      "questions_asked": 1,
+      "debates_participated": 3,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:33:07.521544Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:33:54.893034Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908238Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908256Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908264Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908271Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908279Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908286Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:54.908292Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 8,
+      "top_headlines": [
+        {
+          "headline": "Trinamool MP Mahua Moitra Booked For Remarks On Operation Sindoor - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZDSkJ0MzlYd3JvVTU2SFlwT3ZrSTFGN3lWSGdiN1VZM1h5WnlsSjk4Rjh5WFJGVjVQSEFVU0JOZ0J5X3FZc2Q4SDNoaS04MUo0ZDBpLUtGaHhPdUl1cWh5Zjlycms2QWE5cjFuZk1ZNzVVcUhkXzBKblFlVzRtVEtrNW05ZVE2VUR0V3Z4RGloeDhOckNwMTUtZWI5SWhFQnJlakZwR2NJcEptVE8wXzU3cW9lQdIBuwFBVV95cUxPSnlKblpXUUQ3MW9wVTFhLTJwd01RMWY2Rjg5SUVHa3FhUi1MS3hrNkRVWnoyMG9rU0xNSnlVOUFKZ1o4bXM1QTEyV1Bfb2RQS0pLM1h6Qmhyd3duM2xnU0hsLVpONHRieWdSYWpoMUYtLVRYZzdsT3hVYWdtQ3lIVWVZZ3dleFRnZ0JjU0FHTWZSWUtTSFZ2YTQ1MFU3Tm1uUVJJTmEzVUFSZ3dxMDZSSzJuaFM2ZVpSNk9V?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "Mahua Moitra faces 'chor TMC chor', 'Jai Shree Ram' chants on IndiGo flight; files complaint - India TV News",
+          "source": "India TV News",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDY3dmJoYjJSZDRQUTVmYXZLQjloQjdDeDFIRlRyZmF0ck9CRUNIS0VkdGtCT3dGOF9lMmprWTJLZ3BwT25iSGdXTXk5T3h3RDBPeXhLbzZ3cmtUSEFJVERHYXI2VU83SnJKSVltbVJNdEx0ZmVsQTFCVXZUbUdqZFVUYjhvSGZnQVJ1djFNb3lpUnBrcld6NlZZZ3lWTE1nOXVmbmc2a1lXbUtyRkRobTNjQjZ4aFpQNWpFX2ZjTzdDSkRSVFJ0LXdoU1Vpdko2aDVKN1BBcEthaFhF0gHiAUFVX3lxTE10dmljNXpsN1VvTmphdi1qdVZTejBhQUZyWEMtTXNxNVBJUDByTTRBSjhzU1VGMkRtaDBBRFNyUHVabTBzRUh6dVktT0lBSDAtVmFleF9FUUpuS0JUbE90UlZqbTNBUG9xRy1SU0gzMWdYOGNDNDVEeXMzSnJqTUlEcmwyWkUyYndzcGpYQ3o1eWhNNXlDampvdGZSMTYzVFk5TVR5NlR0NmNtZnhpeHBEVXhkX0J2NDBNbER4RXJOeDdqc0s4d2l2aWszOUpjbmtwakRWeFVCbWxPMkNFTW80dEE?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "Krishnanagar: Mahua Moitra Introduces TMC Candidate #Gallery - Social News XYZ",
+          "source": "Social News XYZ",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVlhX2EtSU1wNTU2bkhjeDItMUg5SjV4ZHZHNmNaWFVhT2NSVGZ3UE9NclBfT3dVZmw5ajhyWHFLcTFCeWdIS29yYXZGMktDdWsyY0pJcU1BSXpkcHcxN0pjbkYxUkFVaFZSQmpDUGpqbTVlVUhoSHdORFdvcTRyLTJ4V3pXb0NKbWNsRDJPZWRNRHY4REVTWGhUMnZoQdIBngFBVV95cUxQRVlhX2EtSU1wNTU2bkhjeDItMUg5SjV4ZHZHNmNaWFVhT2NSVGZ3UE9NclBfT3dVZmw5ajhyWHFLcTFCeWdIS29yYXZGMktDdWsyY0pJcU1BSXpkcHcxN0pjbkYxUkFVaFZSQmpDUGpqbTVlVUhoSHdORFdvcTRyLTJ4V3pXb0NKbWNsRDJPZWRNRHY4REVTWGhUMnZoQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Calcutta HC Questions Bengal Police’s Action Over Social Media Post Against Trinamool Leader Mahua Moitra - Ommcom News",
+          "source": "Ommcom News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0ZIRzBRbGwyLVk4YjFPcGxDWG5tNEJTMy14djE2ckFQamltaWVWdXpxMzd6WTNxMG9BNVlSZklkNmx1X2wtM0wzUk9nTHhlcElYTE9ZRUpYemdialVGNDRueVF3bFJQNElvLTJSQS1ybkgzN1JmVjRPV0FDY21lNlBMbEowX0RmOVM4UWNJSTRweTlpS1RsYUJKdjVDUFBqS3MtRVQ3ZUlwVGZUUktOaHhOTy1JenRZcXlrV0F4RVlaVG5lVFk3S2o1enJlMlhSc25HRG5B?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "TMC Infighting Peaks Before Mamata's Rally! MLA and Mahua Moitra Opponents Excluded from Krishnanagar Guest List - Dailyhunt",
+          "source": "Dailyhunt",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcHFYOGo2bllNbERNN2pJQVdJcXRiamxXX25HMnBzR2RWbWk1U0JvUzFzVS1WTUh2WkhDUndBZUVpMVVxOHg5Nzhpb3JSbVMwUWhOeWZGMl9FbTRlaUVBZjNNTWxFQURDb2N6RDBJeERLUmNORUN2eDhpSWpRb3NPX2NIaWJNQkJrbDBHZXhNOHJsQlY1LWsyTXdDdEtKQ2FjVVZlbGl4VS1kdkQ4X3NHOXc3WjJwdUdrMTNqd3ZHR18tS2RRSnF5bmk5NW1FMlZpT0JBM3poTUFVVllrZnpPdC1CdkZkNmZ3a3pnclVPX3NNMy1tbS1MWjE2ejRwYWNuNEVDckJrd1JkTWplcFJpWl92WTNEVk40N29MQkx4NmFjdm5YU25CcVBNUnE?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Mahua Moitra\n\n### Overall Assessment\nMahua Moitra, representing Krishnanagar constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (95.0%), critical financial and development-related information remains unavailable, hampering full accountability assessment.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic concerns in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project implementation oversight.\n\n### Financial Transparency\nAsset disclosure presents major transparency challenges with no available data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2.45 lakh, representing standard MP remuneration.\n\n### Legal & Criminal Standing\nThe criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), indicating a clean legal profile. However, data quality warnings suggest low confidence in criminal record information due to potentially unavailable sources, limiting the reliability of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with excellent attendance at 95.0%, demonstrating consistent presence in the House. However, legislative activity appears limited with only 1 question raised, 3 debate participations, and no private member bills introduced. No committee participation data is available due to unavailable Sansad profiles, preventing assessment of detailed legislative work.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 negative, 0 positive), suggesting mixed public perception. The low evidence grade for accessibility (D) indicates limited transparency in public communication channels. Social media presence is noted as a data source but specific metrics are not provided.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment:\n- Criminal record data carries low confidence warnings\n- Asset information is completely unavailable\n- MPLADS data shows low confidence ratings\n- Committee participation data is missing due to unavailable Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n- Parliament activity evidence grade is C, indicating moderate reliability\n- Overall accessibility evidence grade is D, suggesting poor transparency\n\n### Key Takeaway\nMahua Moitra's transparency profile is severely limited by extensive data gaps, particularly in financial disclosures and development fund utilization. While maintaining strong parliamentary attendance and a clean criminal record, the absence of critical financial and MPLADS information, combined with systemic fund management issues highlighted in CAG audits for West Bengal, raises significant transparency concerns. Enhanced data availability and disclosure practices are essential for meaningful accountability assessment.",
+  "validated_at": "2026-05-21T14:34:11.308499Z"
+}

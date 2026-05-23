@@ -1,0 +1,395 @@
+{
+  "mp": {
+    "name": "Pradeep Kumar Singh",
+    "constituency": "Araria",
+    "state": "bihar",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": 8180,
+    "slug": "pradeep-kumar-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 4459,
+    "profile_url": null,
+    "canonical_name": "Pradeep Kumar Singh",
+    "name_aliases": [
+      "Aakash Kumar Singh"
+    ],
+    "education": "12th Pass",
+    "profession": "Social Service",
+    "age": 33,
+    "photo_url": "https://myneta.info/images_candidate/LokSabha2024/7b676558a2f74e665addbaa8f3971f24d2495c4a.jpg"
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "pending_cases": 4,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 16059806.0,
+    "liabilities": 1679230.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 14380576.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.309622Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:31:16.032579Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:31:16.030818Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 45.0,
+    "questions_asked": 21,
+    "debates_participated": 7,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:31:16.030112Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "myneta",
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:32:19.309835Z",
+  "evidence_summary": {
+    "criminal": "B",
+    "assets": "B",
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325813Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325831Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325840Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325847Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "bihar",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325855Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325862Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325869Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:32:19.325876Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "'Become Hindu if you want to live in Araria,' says BJP MP at Giriraj Singh's Swabhiman Yatra - Dailyhunt",
+        "source": "Dailyhunt",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQazluX3NQRF9Nak5pYUt3a1c5N1J0QlRubkJIOFp1djV2U1lwdng2OEU3QW52LUp3OVRaQUYyV2RMbFp1eDVKR0U5T1JHQTBNX0xwOExiWDM1VTBMQmZRaUx5a0dxV0FlZ1k4NkVZbU1fM1MycVoyWmNhQ01PRHBsU0Q2Y3ZidG1VaDRFaUFjMWxSZGRrVEN0dUNkNzhBMUVRQ0xoT1FaS2Z1RUtvODN3YmdFTFVQR2xLOVBjUjZXTUR1N0RXZ211SThRcE1aR3Axc1YtMjBjOHdIdDhxSjByWldXUmdfcTdJRTFmbHBtUEtCTDFLZ2NxVk9qcDQxOFgwRlZja3p4RQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Become a Hindu if you want to stay in Araria, says two-term BJP MP - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcExZZjYzNnQwaUt6Zl95aHFNenNFTWVTMkRybnY1OVlhMHdMQ0xrZFA2eE12MURxX2JmVEY1MGd5YnZzOE15MnlXWUtrTXNRZnQ5X0E4ZjZqaGpYbUNBbDIySFQyWV83bTN1MDRoNGN0cWZnOXlhbUVXRFVTZm1jc3lXcmJPcHRMdEFkeU1rTHljWGRGdERmUjRPbWRSZWI2bXAxZU9WdFJZNVI5TUhVamNja1dPRURRcENKVmVlN1VMRkcwaTA5T0lB0gHQAUFVX3lxTFBwSXJYaFFlWmlGM0ZRQ0E0NDdoWWlrbk1iZF9SeEwzWDhZUXp5NjZzTnhQWUh4b0hUUU5KeWtLZ1dFMU1US1pIbWRBaEZhUjJVcXZBQ0VOYWEyRUN3UFR6TmhRN2hSbW95RjlpQ1FaM3E1d2hpQ05kcU1OSXdycUdHdWZmdDdkMGp4TVhCOXNUYjN3Z0Q2UW1oeUozN0JETUNuZkNOdjQyOF9Ob2l6UnR2WXFMWjZDblp5am1wZXRoRTlpdG5raVE3dW5DeEZWang?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Araria MP stirs controversyover religion comments - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTWhxekw4VllXWFZ1VVRaOTVPUEV3MzlkNmNFNlVVdW5XWU5lLUtOQ2NYN0g3MV9qdmVTMUJLY1lvS2I1MEVQT2JsLU83Nzl0SExVLWIwQUFJUUVZTmtQb1lxNmpaaFVMY2JHWGpOYnJsR0Rfd0NxVVUzZ0EtUXpZWHJLU2dhUVNQdW5jSGtYdHI0Rld5YmxBV3FyMFNLRVBydTZBZEZuYW85UXc5czNzRjY3djAxQUk4U1R3Y1JYZlFXR2FfaG5aM0F2SEoyRVdDTmVwMkJXb3pZY08zdDNXQTNGeFdmSm9OVWxnb0pEVEJFMnRW0gH6AUFVX3lxTE9ONFdDVGotVDVKeGpudFRhcmUzNzN3dk1hVVdUSVNyRHAtMEI2cFpxOFdKNU1MSW16cFBtSERuODQzV2ZHNUdwb285QnFSekc3eHVvMzB4TjRGdnR4cUJnSE84T3hvc0FEMXRnOFNvYi1TY2xmQ0hwZUdVcmRXLXRRZEJGMlpYbDg5VlRsTkRqX0QyZ2d4RlozY0dPdkh1WUwzc08yT05QVVpwN0tSX1BPbzRnZnJNVnoxblE1bmpEaE9qczJiWGE5a3ZpdFhJQUk3SVBNOW9pM3F6NTZVNFc5WUY0dUNrR0FkZk9jVVFxZjk2OHNrNGRaVHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar govt enhances security of six key leaders including Samrat Chaudhary, Tejashwi Yadav - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGtGTS1jRE02c3RpMjdVR19VUXdmYVN5c0RBVDF2R2dfUVpDaHUwOU5oSzFleHlUWXBtXzZCN3haMjBCV2NfYm9zekZBRGctMjVrckIzejJtam5HZ0pyckstTXhxcEowQTl6X2YySy1pVXd2U2pvLUljVHF6LVJyamtlUnJwSDhXWHRCeE9nR2RQY2N0bGVUZ0diZlhTU2k2ZzNPLWlCdmtodTNjWmRqb0Y3M2hITDFFUlpaTy0tVFpEblFGaXUzUk5GR0NtNVJZRzN5VDY1TdIB3AFBVV95cUxNQklYaElnU196X1gtNE5FeWd2ektsZm80aktpZHk3TTFwYUV3eVhEX3phTlY5OHI5UmpKTEFFNVJYQi1IRE00MXU5UXU3cGpsT1UxSTYxRU40R2gycFEtNm5BOWFhNU5EM1ZfdG9wMVBxVVNmbDhDSi1QSXYyaHlEUHpLVXNTX0F1MElZU29GS19xRlBwOXMwVXI0S1JiWWxZZG1qX21wWXVqc2FJTzQwVm4yZjJfNzJVZ1FxWm9USnowXzdpclZTRnBsdUJKTEN2SnIwQkZhS2t1YVpB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar BJP MP gets extortion calls, death threat from Nepal - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1dKRWNOS1JzcGphQjNoMUhzV241RkVwWmhOWXRwczlMdHlfekVsUFlsQjJVVTZITDdGWVBtdkl5dmwyTXlSVDhiYUh5eFBGWm9sakViamxyTld5V0U2d1hIRjkxRzRTSXc0SVhOdC1tMHhvNTdnN0d5bV9uY1JIRHdsN09IR0ZCOXpxT2xkaENjR1pBNDI3SzdUNlBKWmM0Sm15Sm92c0d0WFl6cGfSAbsBQVVfeXFMT2hSZndvX05QVVI0TjJRUExiWWk3WVhOTDNzY3pIWm5vbnhicGpRSFFyaEdCNGF1S2xBZzIzX2tOZUJFRXNrY3RkV1Nrdk85MHR0MXdqTDZYMzI5ZG5RSFhQNjB0akpDcURLNzNKbXJIeVloV092ek9MWHJWOTMxR2lFaUFPWC1yMkRLWV9MZXhOeDJUYmdnWU1RaTVYUXMyS2pUbTZMY0ZXZVVCbGtiZWRya2tZM0dFSE9xOA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

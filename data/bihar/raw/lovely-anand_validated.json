@@ -1,0 +1,460 @@
+{
+  "mp": {
+    "name": "Lovely Anand",
+    "constituency": "Sheohar",
+    "state": "bihar",
+    "party": "Janata Dal (United)",
+    "myneta_candidate_id": null,
+    "slug": "lovely-anand",
+    "house": "lok_sabha",
+    "sansad_member_id": 3464,
+    "profile_url": null,
+    "canonical_name": "Lovely Anand",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Lovely Anand",
+      "constituency": "Sheohar",
+      "state": "bihar",
+      "party": "Janata Dal (United)",
+      "myneta_candidate_id": null,
+      "slug": "lovely-anand",
+      "house": "lok_sabha",
+      "sansad_member_id": 3464,
+      "profile_url": null,
+      "canonical_name": "Lovely Anand",
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:23.416245Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:20:14.681667Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:20:20.154677Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 95.0,
+      "questions_asked": 10,
+      "debates_participated": 11,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:20:19.302273Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:20:47.915537Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929766Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929782Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929790Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929800Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "bihar",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929810Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929817Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929831Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:20:47.929837Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "JD-U's Lovely Anand urges Bihar CM Nitish Kumar to reconsider Rajya Sabha decision - The Hans India",
+          "source": "The Hans India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEdrOXZTWURiTkIwWUcxOGxhUlFEYWFKX3I5eUM3UkhDdXJNQ3prcjUyenIwUFo2a1VCOWFaQldJYTVUbzQwSm14dEdvVE1vVTB5NTNnT2hndHNNMjdJZWtfLVBhRVRkblR0enMybVcwU25kNHRKeTBhS0J1OU04QW5wZkN6ZUVQb1E0a3hPcHo2VzhYcnJNSUthWWxfUzM2akY4Q2ZSVXRqdGhwOFN6ejlleEk5NWVtM3laQ3hFVnhTUkZpVGxjM3lab3k?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "As Rajput candidate, will get support in Sheohar naturally: Lovely Anand - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHVyc1dsbTRYblJqQ0RKTGRDMThCWFNBWkFRMndJTVNYMWdqVFBYWnNRU3FRRHZxbVhXUEd5OVp0emNtRTl1cHFYcG93YXdwNUJaQkFMTUdFS2hWSG13OEZRZnRzY3lSX2VsNThUajN4SDJ0ajFHMmZDRjFRd0NtVUREbHhsSGU3WDNsb05sVzhmLVMwQkNzaGJkU3RLaEtGeExSUmxzQ2dobmtfU1pka25yeFc3TGljVU5MYnpmanRNal9pTkU0QVFQdlhBVktfMWlGV3JuTdIB3gFBVV95cUxPMGpaanBCM1ZCQ0FGbll1azA4SFo0WkM0TUNOMEdnM3BhdW9RZW05QzZTQXJBQjNNdzFkNC1aSEpucnB3THdMT2ttNHE3czJSWUdFMUVmUkVRcG94aFVYUERCWlpOY2hwR3hycUxiRTNRb2xPSm5kb3Z4XzkxNzEwQ0tBOXRLaTUybm5HdkdyMGVuNmxWdVBtTkM0YjRDeFRIZVhxc3dpMjg4cDlaSkpBTzczMjBYTzJubWZ2ZUhhUVZjUkRYamFnVF9ZWi02OWhFMGdHTGtuUW9ZV2xra3c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sheohar election results 2024 live updates: JD(U)'s Lovely Anand wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbkQwSV9wZ2dLeFVTWHdfQmllT2NyTWk5X2p3MXBwNVh5X244dDA3SlQ4OTd5SWRldkhGbFBQOXJ0UGF4dExhSHREMVBFeWFIeEIzTzhvY2FjMG1CcUZsd05pNVlOa2oxdVpBajF6OHcxZ3d0cFdOa2VEOFVmelNjcXBueXgxQlhMQk9wblgwbUFuVm1DTzUxREMwZVNyUWZfWVBGOTQ5N3NTdTRobm8xZGNITkhBTHI3QlltRXY0TmhzQjFrWUVuSzk1MTJZUU9Ya0JJaE1USTR3QWdGV3NxY1RMYnZpcGtxVW9BVlRvWEJmTDRiUy1UbmFxdmowcTdsWU44SWoxYXYxbG1GSGExclcyQdIBmAJBVV95cUxNMVl5djVkMDQ0a1lUUDE0ZENDbVFreENwT0drR01KUFZubW95YU1PYnIwVmZRZDIybGNrTFo0U0ZXMG01cVdocVpsVldnSU05ZlN6SFozb1lhZXJ4LXNDZ2w1LWUxYmtaTUkzekJZamFpbm1FaGZwbGRxNldyWFhFcVRyWUw4MEpkRGNzSGM4VWNEbDhOemJwRmJ3dUZSbWtjSGRpekRUNThMVnY5Zk9uS1lPeDg5RTFhdVpDeFBfYkFNSm9qblNHSXZUMk9lNkJyQ2JLVVhKeElwTm1LQXhoMVZDOHc5ZEY3OFJpUVk1R0JvWENJMG4zXzlIM3UwM0ZOanNQVFhXbWdpNDQ4OVVaNXp4ZXhzM09u?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Modi a dominant factor, but Vaishya anger at ticket distribution puts NDA’s Lovely Anand in tight spot in Sheohar - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmJIbmpiS3dNb1lYaXh1bFREZmdtb05nMXNkejl2d054WTByS2k0eVhkLW9wYk1LZmxKemdNZEgwMGN5NmJwckFEeGdTY3JSZGRsOHpiN1FJd3dDUThOMGdxWEhQVl8tc09jcUJKQ3Y2M1c4VzU0bFZvWThLSHlObEQycHZlOF9Ecm8xTnlLc0p2VE8wNUVYbFI3cGhZR1dsa0RZcmRYaVpkRjh20gGzAUFVX3lxTFBUVGRvY3RhZUI3SWxuLS1ZaExhdmx3NWFud2JpMHlkOUtFSlc4c1E1b014S3FfNG14ZTFMZnB3RmNYVjBYQ051Nko2NlNtRjNwZm5mVHg1TTE2bW91SjYzd04tTzBsZ2kybjUwT2M0VXEybWpTTGxMVWRXUGgtcHVfVXhodWVNLVd0WWpmeGJrRm1zU1lMNjJEU2tGVXJNN0wzbGp0STNpM09Bc1ZzelIyZnZJ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Political Profile of Lovely Anand, Jd(u) Party, Sheohar, and Net Worth - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXUwclVmN1ZBR3BJZ1h6MkhUOFdXM0dMZ2FoQWZwWnA2X3hnYUY3V2pmUFhRYnI2ZGV5RmkzYWZSSE9KQmNZMVhsVVlOREdSaktjVXM5YTF6Tm1TOUJ1QTZCbXg0U0pEbE5Ca3hUTE14ellqdkdQd2tMdXE3VEtMUXpLUzFiT3R2NU5KWnJSNFVocFAyVUdKX1J6b0tKVFpKRE5WaUU4TktmVGgyYm1BVjFlUTNFSklkc2RQNnlCQkUxQ05fdHJUVFc5LWp6VmE1dHFv?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Bihar: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Lovely Anand\n\n### Overall Assessment\nLovely Anand, representing Sheohar constituency in Bihar under the Janata Dal (United) party, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance at 95%, comprehensive assessment is hampered by missing financial data and low-confidence criminal record information. The MP demonstrates basic legislative engagement but faces substantial data quality challenges across multiple transparency metrics.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing the MP's effectiveness in constituency development. The broader context reveals systemic concerns in Bihar's fund management, with CAG audits identifying Rs 1,558 crore in idle funds lying unspent across district authorities' accounts. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of works were abandoned or incomplete, indicating widespread implementation challenges in the state's development programs.\n\n### Financial Transparency\nAsset disclosure presents a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This fundamental gap prevents any assessment of financial transparency or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but the absence of asset declarations raises significant transparency concerns and limits public accountability.\n\n### Legal & Criminal Standing\nThe MP reports zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, this clean record comes with a critical caveat: the source data carries low confidence warnings, suggesting potential unavailability or unreliability of criminal record information. This uncertainty undermines the reliability of the reported clean legal standing.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity with 95% attendance, demonstrating consistent presence in the Lok Sabha. Legislative participation includes 10 questions raised and 11 debates participated in, indicating basic parliamentary engagement. However, the MP has introduced zero private bills, suggesting limited initiative in legislative innovation. The overall parliament evidence grade of 'C' reflects adequate but unremarkable performance levels.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles, all categorized as neutral with zero positive or negative sentiment pieces. This neutral coverage suggests limited public discourse engagement or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee data was found, suggesting either non-participation in parliamentary committees or unavailable profile information, further limiting assessment of specialized legislative contributions.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence ratings, fundamentally limiting financial transparency assessment. MPLADS data is entirely unavailable, preventing fund utilization analysis. Committee information is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These cumulative data quality issues severely constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nLovely Anand's transparency profile is characterized by basic parliamentary compliance with strong attendance but hampered by critical data gaps across financial disclosure, fund utilization, and criminal record verification. While maintaining clean legal standing and moderate legislative engagement, the absence of asset declarations and MPLADS data, combined with low-confidence criminal records, prevents meaningful transparency assessment. The MP requires improved data disclosure practices and enhanced public engagement mechanisms to meet modern accountability standards expected of elected representatives.",
+  "validated_at": "2026-05-21T14:21:08.578447Z"
+}

@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Dileshwar Kamait",
+    "constituency": "Supaul",
+    "state": "bihar",
+    "party": "Janata Dal (United)",
+    "myneta_candidate_id": null,
+    "slug": "dileshwar-kamait",
+    "house": "lok_sabha",
+    "sansad_member_id": 5222,
+    "profile_url": null,
+    "canonical_name": "Dileshwar Kamait",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "pending_cases": 1,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 36191958.0,
+    "liabilities": 0.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 36191958.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.440149Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:23:59.507425Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:23:59.504878Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 95.0,
+    "questions_asked": 41,
+    "debates_participated": 13,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:23:59.503757Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:25:02.440350Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456298Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456317Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456325Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456333Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "bihar",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456350Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456357Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456364Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:25:02.456370Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "JDU elects Supaul MP ​​Dileshwar Kamait as leader of its parliamentary party in Lok Sabha - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnlXNE16NFQ3anhzZk9vejFrZzlSQmVubGtIaXN6VktLaG1JbFJ5Yk4yYTM0TWxHbHliRC1IeGU5OXNvT2dMLUhveHZXUEFMVmU2NE5TZllFcGJBTWg2cVdCa21tNjZyWnB1al9XSnhBZFVVbEpYSnA2a2tfbDYwZ2c1czZkbUhLMXVDbXRHaU1oR1dQVElQQk9yVlhKTktEV0RRaVhCYXlIUzFzU3NMUDVhWGtobWVwbXhTS19mMjJCZjAwZVNGTXhjWXo3YVMyN3J3ZFZRemg4QnJD0gHiAUFVX3lxTE1ialo1a2I2ZFltUm1kVGJpWW5PeG5ja1RLTTJGQ0hRamtoTHk4eXJSeGgxYUgzYzcyZHhUU2F1dTViZV9uRjVEZmxWenhyR1hUckNIUEQ1U1loV1RBWWZnQjB1QmV6MzEzUFgxZG0zcXNVOUltanlhdVNLOVVXajhqWmh6S3cwNTVwWGR1Mk1qSUVRZVc1TmNOdExLZm5fY2tCX0laTXhzR3g5U2prMUFUVldNM05Sb0RfcnBQZXI4NXNtSk5PV3pKb0llUFE5dGxNMFZlS1RvcTVfSnFTVkxtUGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha election 2024: Will RJD make a mark in Bihar's Supaul after 25-years ‘break’? - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1V0NUlkWEhoNGpaZ1NYcldFeDd0d1gzMHRSSVZfbldCai1wUUlrbkw0dTFURDdtdVJfY0J0ZmQyaWVsOTFHYk1VWVBRTlhxOFk4NEotN0ZYQVZMek9KY01QSHJiODhuMjctWVVLakI0THg2OHYtN2lQQ0gyNDR3eHdaZnJwOWdPMlBYZFFJczhpQXVXMnVKaTRxclVNZ3ZuRDlRZXVxX0Zzdnh6V2g5S0lfVHRWZXNSYWJxb1Jn0gHDAUFVX3lxTFA3SzBnZnhkZDg0S1FGWWxnSFc5VFVaVXZQZ0gyUkRfb3hfVHVZNENhS0E5eWxnTjl6Mm9OdG1HNXBwMTZ5eVViOTFjb3hNUjRGdmQwbThLN292MU45d3pweUgweTNMaWNBMXFGMEdkMC1rVThpbVBZTENOaGdYWThZbEc0Z2FOWXVlVzJKb2ZlNE5OSzNrQmpfMGRFMndUVVd6RnBuRkpBZ3VJdGRZN1dLb2lFbFB6QllEblFsNFVrNGxBYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkU3MnZNRXRxYkoyLXY1c0RoSFpPZ1JzYW1abnNnRzVoS0k4OXRjYi05MEx4dlVBWWxPUW42eWZ3eG1rdGt4RVp6VFZpdzVEdElhSC11STlnd2c3U3hxVTIxM0NUNi1Na1Y2UzFDbkUwcEJxTF9DeF9PLW9HQUlicHFUR1hTcWhBMWxr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY1ljSmxWd0xzdEZSbUtKQ01ObXN6cmpGOVM3RXlwYU5HQzFWU2VkblQ4SHh2MGVsbUJwZjNzelh1eHAyUHNPYWozQ2FJSF9DMzZ2dng4VXQyanQ0VHIyODhhbDFOT01vWE40c0hMYXh0eERIbE9VcGRMdXBQZTYxR1VIR1lCX1JJcXRZS3RTbTgteVBzRDluc2hYX0NQa05hYjFtOGdWamhpWTJ1UDl4eExRVVNaU1hKZVJjSE9aSHg5U2c2MDJJOExkOWt4elhacUFEckswSzZ3ZDVPNG93MzBrVmZFb2xUSGZr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFAyZ2hVak5xVjFIeUJheDU4bWVPc18tTVhidW80RE1QTWNVaFVpcllUY0FUeWd6a0hpeG1aLUh1a1pvSDFTNHpuSGFXTEpkZk1CSTQ5RTdhem0zY1djU1dMYzlaOGlyLUtPWGpTMXh2R1pqX1FSUUlkb24wOHBMMTdycm1uXzNZUkNEYjlKVGJ0b1BXa0ZnRFVkb0I2UjhnV0NDT2FfTktjOG81R2U3bkYtWHpkWXRTb3FocEtVY3JqYU0zcnFjQ3ZGSld5T2NXbnRwcGJCMGtBUHBMcms3X9IB5gFBVV95cUxNSFNmOWVqUzVqbElKUnVZX2VTUHFnaWRGZHFxVFhMWDc0cXEzU3VLdkVsaGxHTEFJT0FlM3FvZmthZ0ZSb3BiNG40RjVOcFh2eFpGZ3Z6Nm9qT1EyNjU2T25OU01NTkp5NkxjNXc3TWtWNjRSTnpHSmxibDdiZVp3MUExQ3FXM0pWVW9TOGdZMWdCNTFSUnVYZTlISnVndWRqR2VoeWZlcGplTnJCVHM1UDBNb2Y2MmxtbG9zZmN0MzRlUWhueEpfSlJaaUJOU09UdHFWdWVfQU5JaVMtSDlIdDVsTHp5dw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

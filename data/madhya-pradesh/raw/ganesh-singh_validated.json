@@ -1,0 +1,460 @@
+{
+  "mp": {
+    "name": "Ganesh Singh",
+    "constituency": "Satna",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "ganesh-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 3986,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Ganesh Singh",
+      "constituency": "Satna",
+      "state": "madhya pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "ganesh-singh",
+      "house": "lok_sabha",
+      "sansad_member_id": 3986,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.051599Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:29:47.597534Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:29:47.595683Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 90.0,
+      "questions_asked": 46,
+      "debates_participated": 12,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:29:47.594947Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:30:47.051733Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057869Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057884Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057895Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057905Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "madhya pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057918Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057926Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057932Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:30:47.057939Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Video: BJP MP Rides Crane To Garland Statue, Slaps Operator After It Jolts - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjItTFpzS3BVSE9wSFYxRXJRd0ljR3dEUTh2WTdzRmlhMDZoMWg3eWJJcTRLV3NLaEJvMFdlZ3A0LWF5N2xIQnhQQW8xbTVrN1RsVW9mZHFiNllUSHNuS29pVUQ3SHZJRjdRM1M1X2hIZGhJOGstbUdYYXVweDdRLTFqZy1yZGJ2R25aTFVhUmhKNUExNXBhU29NREJVRkdISjdj0gGrAUFVX3lxTE1sUkRWTFdXeEQ4M1R5bXdjTFF1eGFIRU0yZzgtcnM3N0VZT19qMFB1OEVnVTFJVXVSRy1POFNvMk4yTHREX0NGaVpZYUFUQ1lLNHRZXzRucWpYaUhsZFNvb3lSVEo5d3JFUWhzd0wwUW1BME1Lam9Db1Ayek10LVJCNnVfejltX0hHSThXN3o3QW9QX3BTcVFmTXYwYmVBSG5URl8tM3pnWDZZWQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Watch: Angry over crane snag, BJP MP Ganesh Singh slaps operator in Satna - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1NYNXFadGFpX3lYTFZtdjMxRDdWcGtUdGh4UmlwSGtXX09mZTZyd2lTM2ZqR3FGcjhOQTlOVmpDbFBpam5ORXBNX3ZTSUlEeVhfWkpnR2pwT3haOGJRdEhfd2t4Z2RJYVBWYTFsV1ctd3RIZ0Yxb21UaDg4M2lyakRCNFFPVFlDN2tCcFVIRld3dnVjbVdOdHFsOVJKdmJkQi1DUHlzTjZ4RTdVQnNBTGRXODQ4NktNM19WTlNZTFdQVU9R0gHKAUFVX3lxTFBsQW5xa3llQllYV0ZJdDU4eHNDZUZOTXQySnBUWDJiaTg3dDB2UDZSNVEycHl0cDZjcWh6dnk1cEJOUmdJMWRoTVlfb21rUk5laFB0WjNGbnhZQkYyWmZrczlndXRnbUVlZVBVRWt4NF9oT0Y0YXlqT1Vhd09wN1Y2bURJWHlBZjEwWmtEbml3T0RoYTJteVp4d2laTTJIUFI2azRxOHJHU19WMExVRHdOM2tnYWVaelJNRDZqZDluNW50N2w0aktEblE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP Ganesh Singh slaps crane driver after being struck mid-air at event in Satna, video goes viral - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLW9QTXBndE1hM1lVRTVPM0NnS1FZZlVnSlJVdVBvUXdiZnBOd0FWS3ROcTlBUUlRTmpUTDJWZVRwRjFsbjlkU0VXdmtZc2xWMEROYzBpVWl3ZGhTRFdlREkxeHFoZjJWSHZiWEtiRkgyRlBmbG5NamlXQ1doTnJiTlQ2NWtsV1Yyc3NPVUNZVlliTjhjTWtNaGFHVGgwTTZORHB1cnhuT0RUZmVuV3VYak1zc3pVYVpKaV9ZSnh1amx4Qm1LTUhvTVVMdHFScU1PcUJEOHZiN2ZsY2V6cTR1a3p1cXhyd9IB8wFBVV95cUxQbFdRQXUyN3ZlVG5VLTVEZV9MQkpRVUE2LTluUndnYlZhQ0s3NWczeEliZFJhWTVsLXhXUEowZXctbEk0bWJrN0JQdjdEWGpKeDM4TG1EcXE2UVJvdlJSZDZzQ1hTX0w4OFVORkRhRkNRbXRPMHI5ZnFLRXpkX2RFZmRsMS11OXlNbVRPSzNTNVAxZlZ3N1NYM3d6RE5rY3JVY3VnaWFmcWlLczFxaFN3U3NsMHMxRUFKNHJacmlLNkM5cGV6YVZoOEZScmVDN21YWDNwd1ZFNlJEOVYwNi1nakdBWEJrT01fb3hhclA1MXNXckk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Satna BJP MP Ganesh Singh 'Slaps' Crane Driver During Run For Unity, Faces Congress Flak - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3Q2NkFzdUtDbWNGV1NwUk9qbGJscV9LVVU0SEVEZmlUWTZrcUM4N0NXdlBsbDFLdkt0cDhMMWlHR2E5NWNRVlRNOGx0MU5TRmNDZ0pOQlh4TzVYdW5xbHp3bmJ4VHdadGp1V3dDSVR2TWlZYlV0Q0JTVHNQWXp0LVlJQjJ0VmVab1VscTBZWUhVb3FUVlpZYUlsR1NhTlJETy0tYnZiZXVyMVZKMGc2RnpPTXU1TkhrVEcw0gHAAUFVX3lxTE5CekpTS3BUNzBVbjEzTFBGV1Z1ZjhtTUtVeldrd2RMQjJTRXNUTVBwdTZIbWk5NWljOTVBYkpUbmxOWDlYTmNRS1VRWEdEajh5M2NFc1RSTkQyRjZTSFdWbnlOcVNXcTJCaHh2bzQybFhiSmV3QlptcllFQ2ZjR0dCTmRLclFFYzlyUHVpNk5fUjEzLU1MZ2hZSHhiZlAwQ2x2dUVXS3FyM2pBUi1RYWVsMVdPc3AzMmxsenN0SXJraQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Satna MP slaps operator after crane halts mid-air: Ganesh Singh loses temper during garlanding ceremony; vi... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRk82VWhIc3FSaE8wYnpWaGNuS2NPcXF0QUVkN0U5cXNjVkt3Ny1CNGhQOFByZE1EaExxOFZSSXQxRHhYMUNLY1c5SUhtbW9vQThnOVVxY1kwX1c5a014UHR6REo4TXFEX1BYOVhNUlA0a3NtTW9PWFVSMExRZ29YeHhncUl6WVB2VkFzWjY2V1NPbS0zcTEzalJCQ0lCNTJUVDNSdTBNcWlseHUxYmo1RWJtZjJxV2NaMlU0a3o5WUlYcHNXeDBDMGtuNlFOWm5CRnVNSU84cDJPSV9JcGQ1MFA3OWxKU2xBVU5KSVR1Tmhta0nSAfgBQVVfeXFMTjhkaVhZX1dEcGxtRkNDZnY5QmtvOVFmQndoVldJOVoxcFVyOTFKUmZlelE0dDZJZWdqSjRpY1VNU0hhWXQ4UnB2SG4tVFlyWDBCeW9SZWRjWXR3VWRfbG1CcUVsVlYyeVlkRHA4bEg2c0Z0MWV6MkNqVXY3Yzh6SVBjQzdOUjZkc204ek80RS1sWnJfOEE1MncyQ0lJYU1rWWtiaHFsVEpoT1lETE4waFlpSTZnbFVqM1FaY0R2UVY5MnJoTkRtMzBOb2c4MzNuRUFzRlBmQ285bmpsMkpNSzBseVhwNjd0TjluLTBJUnJ1NEgwaUZ6ZUc?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Ganesh Singh\n\n### Overall Assessment\nMP Ganesh Singh (BJP, Satna, Madhya Pradesh) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across financial and development indicators. While maintaining a clean criminal record and demonstrating consistent legislative engagement, the absence of critical financial data and MPLADS information limits comprehensive assessment of his constituency development work and asset transparency.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic issues in Madhya Pradesh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Singh's constituency, it's impossible to determine if these state-level issues affect Satna's development projects.\n\n### Financial Transparency\nAsset declaration information is completely absent, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is mandatory for MPs and crucial for public accountability. The monthly compensation of Rs 2,45,000 is documented, but without asset context, comprehensive financial transparency cannot be assessed.\n\n### Legal & Criminal Standing\nSingh maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This represents complete legal compliance and suggests no judicial challenges to his public service record.\n\n### Parliamentary Performance\nSingh demonstrates strong legislative engagement with 90% attendance, significantly above typical parliamentary averages. He has raised 46 questions and participated in 12 debates, indicating active constituency representation and policy engagement. However, no private member bills have been introduced, and committee participation data is unavailable, limiting assessment of his broader legislative contribution beyond floor participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative pieces), suggesting limited public visibility or controversial positions. This neutral profile may indicate either effective consensus-building or insufficient public engagement. Social media presence and direct accessibility metrics are not available, hampering assessment of constituent communication channels.\n\n### Data Quality & Caveats\nThe analysis faces significant data quality challenges across multiple domains. Evidence grades of 'C' for parliament and 'D' for accessibility indicate moderate to poor data reliability. Specific warnings include low confidence in criminal record sources, asset data unavailability, and missing MPLADS information. Committee participation data is entirely absent, suggesting Sansad profile limitations. These gaps substantially constrain transparency assessment reliability.\n\n### Key Takeaway\nWhile Singh maintains strong parliamentary attendance (90%) and a clean criminal record, critical data gaps in asset declarations and MPLADS utilization severely limit transparency assessment. The complete absence of financial disclosure information and development fund data represents significant accountability deficits that prevent comprehensive evaluation of his constituency service and financial probity, despite his consistent legislative participation.",
+  "validated_at": "2026-05-21T14:31:04.562918Z"
+}

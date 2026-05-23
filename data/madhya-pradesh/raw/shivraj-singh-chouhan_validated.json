@@ -1,0 +1,466 @@
+{
+  "mp": {
+    "name": "Shivraj Singh Chouhan",
+    "constituency": "Vidisha",
+    "state": "madhya pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "shivraj-singh-chouhan",
+    "house": "lok_sabha",
+    "sansad_member_id": 96,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Shivraj Singh Chouhan",
+      "constituency": "Vidisha",
+      "state": "madhya pradesh",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": null,
+      "slug": "shivraj-singh-chouhan",
+      "house": "lok_sabha",
+      "sansad_member_id": 96,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.607611Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:32:23.177965Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:32:23.175980Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": null,
+      "questions_asked": 0,
+      "debates_participated": 0,
+      "private_bills_introduced": 0,
+      "is_minister": true,
+      "source": "prs",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:32:23.174901Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:33:16.607748Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622282Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622299Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622307Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622315Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Works executed outside MP constituency in multiple states",
+        "category": "irregular_works",
+        "state": "madhya pradesh",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622322Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622330Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622347Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:33:16.622353Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Shivraj Singh Chouhan launches 'Mama Coaching Classes' in Vidisha for free competitive exam prep - MSN",
+          "source": "MSN",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxONDlNaXQzdDZOTTBPYnZCdVNnZmNmYUl5dmhQUTFQVmNUbUFIQTZIemZvcGVUZXZ6VFBSMk5wdjZVRDJpVmh6X0xtVDlHNzEwQUw4SVc0bzRuelN3MTlkOXBVUG1LWVdQektvUEtwMlY5aFdFWGd6M0hzNTREQ21QVW1iRklEZm9WUWVscXZYcHNoQzFtTUNkT0g2NHRndEVlY0JDSWRmXzFsQ18xZmc3dFRra3ZJOWNtM1BZVWFLRldXMGhsQXJHWXRYZFFkRXRwYmFfYk1PQ3BzVHlpUFVfLU9oMFNURW1VT2tWMWxNTDRfbW9jWkI3YVd4UXVNeVgzaFhOMHpiazRHWkZlMkMtVHVXV09JeDlCU1dFVEdqTlBsQXQwT1ZyLVFxRFNTWGNkZTRPMkNBNV9uU214TzZzN2pORDRTQzhJd3hTQVp6dkMtVjNWd1YwODZnRGxWdlJ0YTJtbm45bU9ucDh6eHFOUmZHdzM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Free competitive exam coaching rolled out in MP’s Vidisha by Union Minister Chouhan - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWJHdUlYMjFlM09CMzJ1eHB0YUt5TGlsTDNWSVBIblVidk5QdTNZcDZnRmtCN0ZwVUlILU8ybTU0a2Z6ZlpNQVp6bmllNnQzS2VnaDBXVl9pU2M4d2t5d1UxeDR6UFZycWVadVpMWS1ycWRIVjFhLXlvNmlFTU5Va3QwcFRvdWx0V0k0bnVqZXJPUngxQnAyd1pqWDI4S3ZFR0xOaF83QS1uM29FVC1tck5nYmdvT3ZzeU43VFJ6d3JIU0Q4THFhZ2xrZHM0VjRwUGRsbklsNNIB3gFBVV95cUxPWGdtQ0FGaXZ3N05kOXVKUFo2ZEFaZDZvR3J6bkF4OE1wV3BuMkk5MVVVWEg1cDJhOHY2UkxubUpPTHlRTnJBRWh5R3kxMkR1RXFlTW5wM051MFhlWnctLXZYV1psSE1uNzk2X3ZST0Y5Y3BRaExObTd6MVJVRnZIWXdITGVIYS1JSEVFMk8xSzlpRjFCN3hIODRBQm5XUlJESGdHVVZMSGRHTGd6RHFLMjVkODYyTjFDV0psRnFvc1NqTWUwcXNqRERVZVRmUDI4UHVHNl9SWFJrdi1HQWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivraj Chouhan Launches Free ‘Mama Coaching Classes’ in Vidisha for Underprivileged Students - The Bridge Chronicle",
+          "source": "The Bridge Chronicle",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUZIOUt6Q1lZbm02QjZlT084N19iV3BJSVBvWXFCWFJFME1MMms3SVVVUDY2QTFJOE5kcE5SbkpVSVNyYzR6RDAxb3ZMVjlqZzlyeGFPY3AzN1VJcWo4M2NSdWFwWW5mODJUSmZ0MkpYRE41dl93dW1VcmM4UVEzR3Frb1RNdUcxTlRpeHdGMDFPdm1FNDNpR0NiOUVoMy0tMXfSAa8BQVVfeXFMT1E1dkxHb1VsOWpEREpiazNXS0RPa1ZpcFRxbndOb1pMb2M4dDNNQ1JRZXV0a2hKWUxYSVJOYmtRdjJFcVB4RnpTR0VoVzhfVnl0S0xORG8yVFF1SlpzSVVNaTUzOHdscjZoMVp6UUt2dXVZVE9YaGNRNmIzNEdXVU8wVjA3REphcDhzZFhuOVdubWN1VkhmbENkRlBGbTJqU2w1dnV5dGpnR2lGZE5ZQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Chouhan reviews wheat procurement in Vidisha; assures strict action against lapses - Daily Excelsior",
+          "source": "Daily Excelsior",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2lSOW5yY1ptdHBEeTdzeTBkcmJBZFFsVFV6dHJXTmY2R1I5NTZRQVV4Vkp1TnZKUGdHVXVpT3ZMd2ROejg3cVRfYll6aFRlR2s0ZTNweVdJT2YxZ2xwZVprWjUzSGF1Q3M4RjF0OG8zNUtFdkZrSE44MWkxRkhOZ2NuWEtYMDE3Y0VjeVhwTkRicE1VTjc0QVNrTEtoNHJFaHlGS1BhS1l5VFBCZ0hfYWlEcw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Birthday with a Purpose: Shivraj Singh Chouhan Announces 5 Major Public Welfare Initiatives - PIB",
+          "source": "PIB",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ZDE4N3hqWGcyUTZzR2VyeVRrVE5fVGxsRGdHMktXSkNqbDFUN2JZUGFQMnA4YVVXTjVubEt2UGM0YkVmZS1mTE5mVDgtenhjLWtIQmVxeFQwM21Za292dnlfTldJOWkzRmVjMWJVUFVzWE5xT2NNcEtB?oc=5",
+          "sentiment": "positive"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.07,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "parliament_activity",
+      "issue": "Low confidence in parliament activity data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Shivraj Singh Chouhan\n\n### Overall Assessment\nShivraj Singh Chouhan, BJP MP from Vidisha (Madhya Pradesh), presents a transparency profile hampered by significant data gaps across all key performance indicators. While he maintains a clean criminal record and serves in a ministerial capacity, comprehensive assessment is severely limited by unavailable or low-confidence data across financial, parliamentary, and development metrics. The available evidence suggests neutral public perception but lacks substantive performance data.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This complete data absence is particularly concerning given the systemic issues identified in CAG audits for Madhya Pradesh. The 2010 CAG audit (Report 31) revealed Rs 1,558 crore in idle funds across state district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether Chouhan's constituency development spending addresses these historical inefficiencies.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for public representatives and crucial for assessing potential conflicts of interest. The only available financial information is the standard monthly compensation of Rs 245,000, which provides no insight into the MP's broader financial profile or compliance with disclosure requirements.\n\n### Legal & Criminal Standing\nChouhan maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, the data source confidence is flagged as low, indicating potential gaps in criminal record verification. While the available data suggests no legal issues, the low confidence rating requires cautious interpretation of this apparently clean record.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with attendance percentage unavailable and zero recorded questions, debates, or private bills. While Chouhan's ministerial status may legitimately reduce parliamentary floor participation due to executive responsibilities, the complete absence of quantifiable parliamentary engagement metrics prevents meaningful performance assessment. The parliament evidence grade of 'C' indicates moderate data quality concerns that limit reliable evaluation.\n\n### Public Engagement & Accessibility\nMedia sentiment analysis reveals neutral public perception based on 10 articles (1 positive, 0 negative, 9 neutral), suggesting neither particularly strong public approval nor significant controversy. However, the accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement efforts. No committee participation data is available due to potentially unavailable Sansad profiles, further limiting assessment of his legislative engagement beyond ministerial duties.\n\n### Data Quality & Caveats\nThis profile suffers from extensive data quality issues across all major categories:\n- Criminal record data flagged with low confidence warnings\n- Complete absence of asset declaration information  \n- Unavailable MPLADS utilization data despite constituency development being a core MP responsibility\n- Missing parliamentary activity metrics beyond basic attendance\n- No committee participation data\n- Accessibility grade of 'D' indicating poor public information availability\n\nThese data gaps severely limit the reliability of any comprehensive transparency assessment.\n\n### Key Takeaway\nShivraj Singh Chouhan's transparency profile is characterized by significant information gaps that prevent meaningful performance evaluation across most key metrics. While he maintains an apparently clean criminal record and neutral public perception, the absence of crucial data on assets, MPLADS utilization, and detailed parliamentary activity raises serious questions about transparency compliance and public accountability. The systemic issues identified in Madhya Pradesh's fund utilization through CAG audits underscore the importance of transparent MPLADS reporting, making the complete absence of this data particularly concerning for constituents seeking accountability from their elected representative.",
+  "validated_at": "2026-05-21T14:33:37.171527Z"
+}

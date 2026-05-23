@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Navaskani K",
+    "constituency": "Ramanathapuram",
+    "state": "tamil nadu",
+    "party": "Indian Union Muslim League",
+    "myneta_candidate_id": null,
+    "slug": "navaskani-k",
+    "house": "lok_sabha",
+    "sansad_member_id": 4962,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "pending_cases": 1,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 761430420.0,
+    "liabilities": 63104822.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 698325598.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.522145Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:30:06.413925Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:30:06.411122Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 90.0,
+    "questions_asked": 68,
+    "debates_participated": 171,
+    "private_bills_introduced": 3,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:30:06.410011Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:31:06.522286Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537677Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537693Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537707Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537715Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537724Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537730Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:31:06.537736Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 1,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Investigation against MP Navas Kani has begun, Income Tax Dept. tells Madras High Court - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRG1UT2JYM0VZODJwc1pwWWhIemFkc3J2NG9GemlyRGUwOVZESU1zNXFVM2J0WDlhRm1DZWM3eHlSWXRoQXpuSkVyU0VsZkZiWGdTcHdVS2dUcGlDd2RGM3FvUXBvRVFzdmRBWDg5cXBWMHJEVkxhWHljV2tLTGx3Rnc0cVRoaDhDRGpjSFlQSUxIMGJRNVhSVW96QXZyOTd3cEg3QS1rSHdBRWdZd1k0cEtCMktnYTB0Y2hFYlRyeDJWM01mOV9vZk1MVy0zdko2UjF3RnN6T3BZOFZHOG96T201YWxTd3N6V1ow0gHyAUFVX3lxTE9tMzliU2FZT244VjNHbS1QdzJYLVlSdF9RQWJXWENUM0lLeFQxMUx5WVZVdUtuaHZmRjd0LWtRd09uYUJRclNUUmdvaFY2d2k5dHkxa1hhODlpWndQd3VFd2ZLSFNXREtXTGxncEpuXzB4VkxCdmtTWVh5cm9SR0NNQzVyN2hSdGRoUXlHZHlkNFJhSkgzd2ZqdmdYV0pHMnM3OUg3YTVRaGpPbFBfRkJtT3VWUXJmVFhrc3M5RlRELVdFYWFGNDVSRzlhcnZRdHo3Nm5nUS1ka3FabHF0S1ZPYWpkdWxwcHNLUWtQZWx2Q0RB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CBI files report on asset case on MP Navas Kani - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2lvT3QxNUpyV1M0RENHdjJDbEtYVWhiazRkTWU3TjlkOTZ4aUMzQi1yOEVLc3N4RVJ5d0d4OXVvZUFjSVdqUnFwODI0WjBlLWcyM2V0MFFyUTZNX3ZpcnZkNmlKWFhCemRDenBPMFNnQlh4ZFotbXhsZWQ0NjJEZUFKQ01USERfTFHSAZcBQVVfeXFMUFVmbWpOWVZkWTlPVlRaRFdBYTF3b096bnJrckE3S3BUR2ZmaWt5YnFGVGxXeW9MQWZJU2tvUnZkc3dhSmY4N29YdXFHREhBQzNXbXEwc2lQSWVZLVRTZW82NjhsYzMwVkp1dW1tZTNSSlFxLWtQQlAtcGh4QmtMY1NDVEZpX0d5bWVSOWRSbHhaYkI3Ukl0UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will take legal action against Ramnad MP, I-T dept tells Madras HC - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmJoZC1PRlphZGhDQy14WERBTnFFWXJZY0J5WXFsbktHWFl2UE5SRTBrbXVPT19NYUNsR3psSnE3ZXQtMV9hNDVkT2tuYnZwWlZnZ1NCQzYtZWY3dWVXTGVMNm1OSWVoMjFsTDlIWlZOb1k3eUJlMXVvVG5sZ01YNjZ3R0lQTDh1S191b3ZfeW1OVzl0MlpybnA2UWVXbFZhMHNGYy1yWFJJcHRCVVNVTWx0MVNqYVU3WTdZZVJHNUNQR3VLaVYzZThycnBGb0RpRndyYTFiY9IB3AFBVV95cUxPRU9kVkNvTVBYaHdYaHpxc0VtU3NkRlk4UzVGV2dKcTItT1QycnJKQWRsUW1JT3lsRVl2TkpGZkk5SjZkRDB2NFNsZTU5VEdVTFNwZkM0WmFjQ0Y2OUtOUUhqaEJjc0xuejlFS2xfd0lwOERablphdnBlUjBxX1lqTWFJT0U0dnVHVVJuRzVVOWV1ekJxdHZoeHFoVWd5dHB1blhFNVBCMzhxX3pDSGZUMXZSc3dkV01NdTFkazF1VTVXVk9pcjd6cXpVNEhBQUktQXhDaVBidjVXSU5z?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamil Nadu: Plea in Madras High Court insists I-T dept probe into Navas Kani’s assets - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOblV0dDdZMHBnT0FkSHZSTlhORmJoNHJzY3dRZFhWOWczUDVrMlNheW1nMjNha0I4cnQ5MS1DVHlhNVpMNnF1VHM3X2ZKQWlhRktoLTNHZEFiUWZHQ0owUldFbm1pbG9TcjN1ZktXTFoxRHg2VDB0by1DOXZ2bVlKTlQxZFpYOWlaRkQwOW51NkNQYmNtLThRVHkySl9pSmoxOHJvRXhLTXRCdjVtcW80cnU3VFlJc2drV2VjRkIyUUttU1NNNko5SURZWTFpenptT3d5OFR2RFFOdXNQbWM1dUxTSE9NN3F2b3YwV3NtSEnSAfcBQVVfeXFMTTVJU3JIYUQwT0h0Ymx2cFQ5Q1VCUk1qSmdmaWFKMlJBaExHVkNCTERZcVB1a0RmNEhYZHd6bGVwNG5yOU93R1FxcG9sVUltN3pjNTIzVlpjblY1ZFZXcy0wUy1WNXN6WUZ4UVVYc254YW83bVFSTkp2ZUZmMFAxU056NjkxWG9PS1pXYlplc1BVeW9ZYTNKb3hmOWpCOEFIcGR2TEIzN3k2NG1xT1FRNU5FRU1nMDBQdEluT0hWcE5ualFUNzdZanFLQ0NMcGZNejJJLVoxa1lBZmM4alhmT2JfbUE3eEwyWE1VMnpCTUtmZFZHQ0U0aw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next",
+        "source": "DT Next",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lreU5kSXh1SV9Pdm5xcDl2LWc1OGR2cUFrUGtGX3NBdHo5emQxcHdMOXN0X3hKamVVNjZyQjJKUHBqRGdCV2JEcnlabmZhNHdxR3JTN01HMVhYZE5aY1Jic3ItbndlbV9BNzlRLXZQOTJNZDRrLVQ0OFNyV0o4U1FwSGhKYzDSAZQBQVVfeXFMUEFQQlJwdlZCbm01YnI5STBsdWE0RkZwWVV1aXVNNi1EX2o2NzJFaENWREhsbTEwTHJ2V0ozSkVidWlvREx5MjQ3WV82djluRmR3ZDdHSlFsTDVZd2lHV0pVZGFhRHVjN1FkSWZXVUpYRzVsOTNXQjBqQkxJWUs2QUZYOHgyVzhodVdnVldHbHhJbnpyUw?oc=5",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 3,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

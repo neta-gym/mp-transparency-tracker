@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Miteshbhai Rameshbhai Patel",
+    "constituency": "Anand",
+    "state": "gujarat",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "miteshbhai-rameshbhai-patel",
+    "house": "lok_sabha",
+    "sansad_member_id": 5018,
+    "profile_url": null,
+    "canonical_name": "Miteshbhai Rameshbhai Patel",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "pending_cases": 0,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 110448824.0,
+    "liabilities": 12855662.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 97593162.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.387609Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:27:07.371872Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:27:07.369026Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 100.0,
+    "questions_asked": 35,
+    "debates_participated": 9,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:27:07.367896Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:28:07.387741Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393750Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393773Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393782Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393789Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393797Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393808Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:28:07.393815Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Anand election results 2024 live updates: BJP's Mitesh Patel wins against Congress' Amit Chavda - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNXzIxUmc5bUlGVHFnM1hjNVM0QVQ0MkwyU3FiUjJva0Z6QjVLUVBDNFNXdGk5Z1REeGNFUTNSdHZOZUVlZFk0ekRQbkVOLWVfaEJNcmlmZHpyRlYxbktLTHFqYU5hWEtQMS1qNm1IbHJPZEdRYWpSVnM3ZUdPbkliX292anRkSjhrblJNcG1FSTdrOEFKcExqYTB4ZlF2V0d1NkZodHNsQ0FNNUI5dTR1WVpLbmhwR1FyM1hKOHZ5SENWM2xUZ2F2eUQyX1h4RzVIT3Q5TXEyUnI1TDBDT1hKQlVBTDhZS1hGVnlxNm5Ma2VBWlB4azNSd2ZMYVI5dDFjNWVUV1BPRXdKbjBuMFBvazQ4Z3JLZFI3ZExpVmJsRldsUdIBpwJBVV95cUxOYzhBOHJuaHl6RklIZHphcmk0MV9jTWo1dlRVbHdoM2pHclN1VWEyaWJJLS12NmtPYzJnaWk2MTZLRGJCTUtYc2NyQlBQN0t3NEpKb016V3FJYmtnZmRiRFBpM1pCX1lFYlJrc0ZtOUIzM1V1aHM2bWZaVnoxeWxheWI3NFRIelQtVTl2N2VNXzMtckRzdnpsU09uTms3WWJFeHgweGtpNURSWkhGbHZQTlhlbUt4NU9WMDMxWE1tcDNNMVQ1Q3BkN0s5NC0wbFVzSFQ3eHg3LTZPWEVZTlZvTTZLY2JJWW4wUllpcHl0SmNwaEFCb3FTcWpkZGg1OEo0aXQxaEtKRWJmQURfdUNaOW1JSHNqZnc2TVNOTnB1WHRwRi1HMXVn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Public Money as Political Weapon: BJP MP Mitesh Patel’s Warning Raises Alarm in Gujarat - Vibes Of India",
+        "source": "Vibes Of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlpBRzJrdjN1LXAtTjRTdTdrRXFzbm9NM2NVX1Itc0F1YXNUeVY0RUxhQmlRMnZPeVlpb29MQk5wODFFTjhrVERWa1pGdVAwVmF2ZWFqZjN0MnZTYWZQM0ZLcXRJZVMycnhvM09CMUhIcDVDU0JTUnY0dUZCSHY4VHVKMzJ6b3B2OENMVlk5bTVnc0NscFd0dEx6eU9rbE1odWhZRHkxcG15dUhE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat Assembly election: Congress fails a re-run of 2017 in Anand as BJP lodges win - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmpjVnJZcDdUeGlUUEdCNUVPYW9IV1ZjVVNqcmh0Z3JUWFo2czBxMzFMOF9qRnJaMzhYdE9KVXNteW9ILXQxeUh4ZS1iNXhicU1EcTBTaWlacko5eERqZDktZ1BDaVpfbnVueFMtQ3YwTUZrdWZwRkJwcUg4YVdUUDRuVHc4S05yRFQ3M0oyMnc1VDFxUUFmTTBfemZDNnRRTGs5RktMeUZFTF8zd19kTlkwbXU1UGYyRE10ckQ5RG1Fcl9idzZ5WC14RTdDTjZrbWlLZVBUM2RFcVFBTWdPZjBOdzl3OGMydnVTNE9GONIB9AFBVV95cUxNTjg3RUVYU1BOSkxITWt2MTE2bVpNQUlqdE9EeHZoVXozSFNnMThRNXR5NU9JUlB4LTRDN040aFdwejJRT1JPcWxCOVFIZW93ZkFxNjBNZnBHdU5QbVdqanRhTkxGXzV1WUQ2YU1LVEVpSzRyS244TUtPWWg3WW9FeE9QY1JPSU8yLVFBTzhHc3ZpaWQ2cXNPZnIyVXNKRUZqWlpHNERodlhRVmJUV2lZVm53S210bWQtUWtVdGgwS2p5YlZnU2tLTFppWXE1WTJJbDBkWjFWMG53cFlJbWtHWlQtVk4zZ2V2WHIydW1NdGhGZnlM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mitesh Patel (Bakabhai) - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlNQRVRubnhPZ0xqR0tyY2k3WHBCWkYxNlpTeEd0Y01FUmZKZTJOdklpRDFmRDNjTE1JMzA5NUg3WHhDUlI0UFVFOTJXcXNkVjNmQlVuSG5uamFNWUxiQU1jSXBJOVNmckJLTnJwN0k3Mk1TRzJMQ2tqRTNwZ2w3UHhWUkNwM3I1djUyLWhpc0xBdE5FdnJWMWwxR2g5R0dHTEJRdmdWUlhoWFFYeHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat's Anand to see clash of veterans - The Hans India",
+        "source": "The Hans India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmJCdVh2SUJrdDBfSy00N3lONG1MYlIzUm0yME1sbnB5MngxZGZKYm83akNOQWJiNVEwdjJRaS1EZVZjTUJXV2RBU2ZvYnJvM3NGNUFXZkNPRnRrT1BzNjhJTHBfM3phYno0UmpZenZJOXdlbE40ZkZxVWpOdzhRclpjTG5Jd2xCc2EwYkJ1YzRndTTSAZgBQVVfeXFMUFJqYmViOTVMc1paQ2s2MEQxUHllNkpiWm1MbHJRbjQ1bElpMVpHQ24zQnpRMWVKcExyYUdSTEI2RU56bUhzbVRxMGIyZ3lHNVg2MjJLQTd2d19lSzFVUTVnQzZra0NDM2cyM3k4LWlxbkV0WnN3VFRvUVBkMF9mZU1MTFBiV0dTbjdzUWQ4Rjg1U1ZING9lQU0?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

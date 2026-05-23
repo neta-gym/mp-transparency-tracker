@@ -1,0 +1,444 @@
+{
+  "mp": {
+    "name": "Satabdi Roy",
+    "constituency": "Birbhum",
+    "state": "west bengal",
+    "party": "All India Trinamool Congress",
+    "myneta_candidate_id": null,
+    "slug": "satabdi-roy",
+    "house": "lok_sabha",
+    "sansad_member_id": 4506,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "findings": {
+    "mp": {
+      "name": "Satabdi Roy",
+      "constituency": "Birbhum",
+      "state": "west bengal",
+      "party": "All India Trinamool Congress",
+      "myneta_candidate_id": null,
+      "slug": "satabdi-roy",
+      "house": "lok_sabha",
+      "sansad_member_id": 4506,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": null,
+      "profession": null,
+      "age": null,
+      "photo_url": null
+    },
+    "criminal_record": {
+      "total_cases": 0,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 0,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.0,
+      "sources": [],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": null,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.376265Z",
+          "notes": "eSAKSHI data not available — all fetch strategies failed"
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-05-21T14:24:18.441415Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-05-21T14:24:18.438593Z",
+          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        }
+      ],
+      "works": [],
+      "works_count": 0,
+      "esakshi_coverage_start": null,
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "utilization_rate": null
+    },
+    "parliament_activity": {
+      "attendance_percentage": 50.0,
+      "questions_asked": 0,
+      "debates_participated": 3,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:24:18.437476Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news"
+    ],
+    "collected_at": "2026-05-21T14:25:21.376407Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391469Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391486Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391494Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391502Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391510Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391516Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-05-21T14:25:21.391523Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "top_headlines": [
+        {
+          "headline": "Satabdi Roy News - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SaC0zaWRCa2FqVmJ0MUNxOGpWQmppN2FGcHY2NS1lS0VJWV9GVlUwdGtmY3gybG1rcnd5MHpsTktHbFI2T2E0cnc3elF2M2hCZk5jZVo1TjduTWo0Y1MxWHRfano2UGlsWVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Satabdi Roy campaigns in support of TMC candidate in Suri #Gallery - Social News XYZ",
+          "source": "Social News XYZ",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGwyUmF5WXZCM0MtNUZLZkV1REZTN09laDNKS0hEbnJYOWhyeFNULXRQOWs3UFpNMmFRckNBd2xSN0FiR0RWWTZfZGJEOHVFVFJlTDZVX25TNU80Ym9IY2gxbnRmZzRVejZlZ1ZaS0FaYUwyZGh1aThGcm0ySTU3Nlo1MFlaTkliUXE2S2dmM2pGVTVEX1dRQ1Y3Um04S0tLOEoyVHNnd9IBpwFBVV95cUxPWGwyUmF5WXZCM0MtNUZLZkV1REZTN09laDNKS0hEbnJYOWhyeFNULXRQOWs3UFpNMmFRckNBd2xSN0FiR0RWWTZfZGJEOHVFVFJlTDZVX25TNU80Ym9IY2gxbnRmZzRVejZlZ1ZaS0FaYUwyZGh1aThGcm0ySTU3Nlo1MFlaTkliUXE2S2dmM2pGVTVEX1dRQ1Y3Um04S0tLOEoyVHNndw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Birbhum: Satabdi Roy Campaigns for Nilabati Saha #Gallery - Social News XYZ",
+          "source": "Social News XYZ",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEtneV9zdHNWbUxSSEdBOC1FazRaYjdPelNlNUNvN054WVo5NU5peXh4ZGltdXFULXhWMGJqMEZUUm9mNm40SlU1cmRhaXhTSFBpZzRqZG1Qb0NpcWRtcm1jbng3MnFLTzNyUjdjblIzeld6TzA5OEMxNEJRNWszQWN1Tjd6LW1vc1RiZXRMSTFpbzMyY01ydzVR0gGaAUFVX3lxTFA0S2d5X3N0c1ZtTFJIR0E4LUVrNFpiN096U2U1Q283TnhZWjk1Tml5eHhkaW11cVQteFYwYmowRlRSb2Y2bjRKVTVyZGFpeFNIUGlnNGpkbVBvQ2lxZG1ybWNueDcycUtPM3JSN2NuUjN6V3pPMDk4QzE0QlE1azNBY3VON3otbW9zVGJldExJMWlvMzJjTXJ3NVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "ASI in Birbhum calls senior officer ‘criminal’ over attack on Trinamool MP Shatabdi Roy’s car - tennews.in",
+          "source": "tennews.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXNQa2FSOGxSczVNNzdCSVh2bnUtdjRCeU9uSXczTy1VbG85akpxS2J3NTZVcUloOVh1OHBwLVFMclZOTWRDNGdnQ1VOTEpMMERGZDRodnpXNU5EeTk0NnRkV2lxTHNaSFBIRDYtU18taHBPdHNramZnYVBTWldQTU9IU3l4c3lnQ2Z1MllRa080c0Nla1JzNDdHRTJtMVZGZGNObzdYRWdhRS16OUM0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "TMC MP Satabdi Roy appointed West Bengal unit vice president after brief rebellion - Scroll.in",
+          "source": "Scroll.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaTlRcmVFRnFYbG5WN2luNEVBTnpGcEI2UkVXRmhBTHRYb1BOR3Y0Ull5MWtDVmZlbmo1QTUza2NUWW0tc2htZ2ZQSjBDZ0hkeVMzVmFYeFhtdmhtMC04VFlnZ081SlpRQXpvdlFmX1RwQlFuYUpDQ2ZBNXBvR0p3YkF4VXU5VGpCVnFNR0pfX3BicjlCVGhRQlJEWHZGN0VoTUgxbG5pQ21jamxMNkdxUVBOZzDSAboBQVVfeXFMTXlvV2UweUhXbVc3X0kxQmxTVGhBU29DVGdiVk85aFhPenBkVWpoaGJGMFdaSFhQZUs1WG9NYnhRdDdVLVB1NXBBNkdnekRmLTRWQ1QxUnI0VFZCeUh0d2pBYXpoWHlkN09XbEdHbXNZMjJuckxQMWl3QWtHci12QXFUNlNJd3E0M0x4LWkzY3FBazJnUzFRU21XVldYdGVvaFMyMHZKeDlzR2Yzb2dFLXFNZm90UG1JZEJn?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    }
+  },
+  "overall_confidence": 0.14,
+  "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+    }
+  ],
+  "cross_reference_notes": "## Executive Summary: Satabdi Roy\n\n### Overall Assessment\n\nSatabdi Roy, representing Birbhum constituency in West Bengal for the All India Trinamool Congress, presents a transparency profile with significant data gaps that limit comprehensive assessment. With a monthly compensation of ₹2,45,000, her parliamentary attendance stands at 50%, which is below optimal levels for effective representation. The absence of critical data on assets, MPLADS utilization, and committee participation raises concerns about transparency and accountability.\n\n### Fund Utilization & Development\n\nNo MPLADS data is available for Satabdi Roy, making it impossible to assess her development fund utilization or project implementation effectiveness. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in West Bengal's fund management. The CAG Report 31 of 2010 revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data, her constituency development performance cannot be evaluated.\n\n### Financial Transparency\n\nAsset disclosure information is entirely unavailable, preventing any assessment of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations represents a significant transparency deficit. Her monthly parliamentary compensation of ₹2,45,000 is the only available financial data point.\n\n### Legal & Criminal Standing\n\nSatabdi Roy maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the data quality warning necessitates cautious interpretation.\n\n### Parliamentary Performance\n\nRoy's parliamentary engagement shows mixed results. Her attendance rate of 50% falls short of expectations for effective representation, indicating potential gaps in legislative participation. She has participated in 3 debates, demonstrating some level of parliamentary engagement, but has asked zero questions and introduced no private bills. This pattern suggests limited proactive legislative involvement beyond basic debate participation. No committee membership data is available, further limiting assessment of her parliamentary effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia analysis reveals neutral public perception with 10 articles providing mixed/neutral coverage (0 positive, 0 negative, 10 neutral). This suggests limited public visibility or controversial positioning. The absence of accessibility metrics and social media engagement data prevents comprehensive evaluation of her constituent outreach efforts. Evidence grades show particularly low accessibility (Grade D), indicating significant gaps in public engagement measurement.\n\n### Data Quality & Caveats\n\nThis assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Parliamentary data receives a Grade C evidence rating, while accessibility scores Grade D. The absence of committee participation data suggests unavailable Sansad profiles. These data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in political transparency infrastructure.\n\n### Key Takeaway\n\nSatabdi Roy's transparency profile is characterized by concerning data gaps that prevent comprehensive accountability assessment. While maintaining a clean criminal record and some parliamentary participation, her 50% attendance rate and lack of proactive legislative engagement raise questions about representation effectiveness. The complete absence of asset and MPLADS data, combined with low accessibility metrics, suggests significant transparency deficits. Improved data collection and disclosure mechanisms are essential for meaningful accountability evaluation.",
+  "validated_at": "2026-05-21T14:25:41.465456Z"
+}

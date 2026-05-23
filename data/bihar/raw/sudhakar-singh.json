@@ -1,0 +1,390 @@
+{
+  "mp": {
+    "name": "Sudhakar Singh",
+    "constituency": "Buxar",
+    "state": "bihar",
+    "party": "Rashtriya Janata Dal",
+    "myneta_candidate_id": null,
+    "slug": "sudhakar-singh",
+    "house": "lok_sabha",
+    "sansad_member_id": 5634,
+    "profile_url": null,
+    "canonical_name": "Sudhakar Singh",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "pending_cases": 3,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 67851400.0,
+    "liabilities": 62304347.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 5547053.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.213063Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:32:50.062904Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:32:50.060836Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 85.0,
+    "questions_asked": 26,
+    "debates_participated": 11,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:32:50.060003Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:33:54.213228Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227593Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227608Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227616Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227623Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "bihar",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227630Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227641Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227648Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:33:54.227654Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Buxar MP flags concern over India-US trade deal - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2J2LVNONFFGUkZtRk9sdll3T29NeXExNEw4ampPRFdVeTJYTzJnWExraWdpb29pWEpHcDFSOWdJRGJQMzlzNUVvcDN3Xzd5c21kOXR6WGMwODJXWkRxbThzVnpNb3lhRDhtaGgxbXlRbm1ZekRJMmZBSC0xUHQ5LWxkN3ZDRFp0NmFDQUUzS0ZtZnNWVmdDU3Qwckd5V3RvS2VlTm5PbGtLeW5vT3VHTXBVOEV6QUxrczRYRNIBwgFBVV95cUxPcFZUWVlSR1lyREdtMWNQb0VYUmNfSl80eVJKTHFFZWVGQzEwcDVzSHRKbWZydGp2aTg5RWxMSUVrRkxCNm1QODRzeEc4eE9RVlQ1N1BrdDVuMmo2M3p1NGxPakp3NEZTUFQyQnNpaklvM29WeFgwVU1TUlp4eEpybXNFekhySm0wdkFDTy1yMlFJQXlKWHVPYjNDNlk5WkExaThzWEdUN2t1YnNHQnlMUGJnMzJ3bDNadUVLN1pJOUgzUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RJD MP Sudhakar Singh urges Centre to review ethanol policy - ChiniMandi",
+        "source": "ChiniMandi",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNzVLMU5qbHYzRmJwYnNzTjE3bkI2X2dPWDJTX05HWlVsVDRCeFNYSVRuNU1PUVUwOFZVQnRaa1BULW5hZjlWZ2RoQlltTTZnLWV3clZOS2pvNXJULVhVWW9KdVdjeXRHV1ZQOThIajIwZkFzd3l2VS1CRDlJUTRiazAyV0VncnpValNmN09OTlM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RJD MP Sudhakar urges Bihar CM to end all ties with Gates Foundation following its name surfaces in Epstein files - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWkhJaHAyWnZDS0ZkX2FqRGx2WVlXSkY4aG0wOTBfaWI0bzNvOXNzSFF3MjljQmVsQTRQZmhVNVhoTTRXTTdJa0JnaFZkQzFXa0tRWFZzeGtDX1dyWmV0cmY4T1JOQkd4ZVoyXzFHaFpmVlN0X29WdlJXUHBmS3lSLUY0cEcySkdwWl9LMDl1bXdHZkhhbmJfXzV3cVZjb1draEdFeVNxUy1FYlhJUzVNd0VKcVRrYjFrX3VMOUtSSWQ2UzBtUEFNbWxDbVM3TndLdnlkV3hHYjcwNHhvNTdFekNKeEl1V1JBakZZbVdUM0Z4MTVhdnpEdUdLQUQ5TlU5d2VRSmVYTFFLZ9IBkAJBVV95cUxOZm93SFRqNWxKRUJxSVVLZDlwLUZrR2t2VTFLOEE2SlZEdFZVcFRHQVV5SkVkd2JWZkl2cWMtVnZqR2xlNnR1WmNVam5yYjlMc3Jad1QyejRweENnQk1JZHFQaC1DcF9ac1JUM0t4VkZXQUNPdkp5UjJaQnYtdlJJMDhlZjFTUi1sOExscU51UTZEZG5KSEUyV0U1bVBlLWI5eVVKS3paU3QzWEU5Q3pocDJ5NHR4c0RSdU1xOVhHV2JXbEVlYjhYRzRmSkxXdXppTzZsbEFxRHphS2hscHZNcEdyLUFGVVhiQ3lVb0xEMnBpV01NRVZ1cDdOVURyb0xDc09GUU82NWgtdmZSWUp6aQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RJD MP Sudhakar Singh writes to Amit Shah over CAPF service grievances, slams IPS deputation, NFU delays - India Sentinels",
+        "source": "India Sentinels",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmVJWHQ4dmRxQUZ4TFRmT0dLLUFvQ2J6VmI0bDRGMEtSVnlyOTRJM3ZQMTN6RUZoX041UnRFRklCZFN4bDB0dU44LVJZUnNyY0VHZXJvNHRoaDZra19mNkctYUludWtJVUl1NW82V1FqX0dlOHJiZXZZZEU4dE1ZTG9qWkdyTGE5WjNjV0dDRllNdU9nT2o1NmFsaUI2dmhUS2VvWF8zNEtheVJVb1F4aldIQ0tNY29WbDRsMjV2Unllc2xPUHVjV1EtM1lMRm1iczJCM292VUhkcnA2aDM4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Buxar MP urges CM to aid farmers after crop damage - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnZRWUw4TzBZSjBDc0oycEhpV3pHb1JYTXcydlE0NXFsWFIzckp0NUxTeXRJV0lnVlJ4ak15Rmd4N1lVeXBHLXFJMmJfaU9raHQ1QTBTZ0dSN3hmazdyRnJaQUZKNW5JOXBrSUw2QklsdTdXOEhmMG1xdnhaME5wYVVhb0tKVm11MFZjNW85TkVKSk43RGxaTTlqMW1TOVhvTE0yNzZoUmtuRzRoNzZWSTJjQWNxMEFUQnBERVZtMWzSAcYBQVVfeXFMUC1IYi0zOUJSeUh0SHV5T1FUTjdpaE83MEVyVmdTX3hTdHRCMFF2czZCX0tYdzJFcFJ4cWtZMWdPMG44Rm5YWTVSdVI5ZUhHcXJuRWpqR2hkbERmQXN2MWZRV3FodzRubVl3ZC1ib1ZZczRxTDBYaEI5QktlTlNMVWZkdnd6U1oxcnk2blVlYXdILVQtQlp4Wm83ZXBldmttelAybGJ0Nm5mbG5XeVlRWUtkcG9meGNJdjFrUVNWX2dlcXNiSTR3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "mp": {
+    "name": "Kunduru Raghuveer",
+    "constituency": "Nalgonda",
+    "state": "telangana",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "kunduru-raghuveer",
+    "house": "lok_sabha",
+    "sansad_member_id": 5793,
+    "profile_url": null,
+    "canonical_name": "Kunduru Raghuveer",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "pending_cases": 2,
+    "convictions": 0,
+    "disposed_cases": 0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "assets": {
+    "total_assets": 355731499.0,
+    "liabilities": 176679000.0,
+    "movable_assets": 0,
+    "immovable_assets": 0,
+    "net_worth": 179052499.0,
+    "confidence": 0.8,
+    "source": "myneta"
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.420430Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:23:11.363282Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:23:11.360504Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 60.0,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:23:11.359394Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:24:11.420526Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427399Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427411Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427417Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427423Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427429Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427434Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:24:11.427443Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "top_headlines": [
+      {
+        "headline": "Nalgonda gives Cong ‘uttam’ win with 5L majority - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnNWbUcyYUdJVzFGdjd5d0ZzTy1OV1UwUEZ4cWZvWlRJZExOckdxbWc5LUdrbDFCcl9maGtIbDZIMUxBcmZteFRwTHoxcnB0V2Q4Q0x1SnJad1RUY0JLaXZ6ZldFLXQyZnFYQ1F1TjhzU0lVN0ZOUlNOY050Qm4zbi14bGszTjd5LUY1R3U1UHBMc1JpUFhYakFLLXU4emQ4Z2VicWVjQVJXX3BXeGM0VVZaTVpqYVVZRm85Y0F2U3lTdXVWMWfSAcsBQVVfeXFMTy1ldWdLdzUxYWotQkYwbEVjQnBGYXI0ai03c29laTdPdmg4QnBSbFU5VEg4Qlg0WEE1bEFrUzRHU2M5d2xXQ0gxeGYxdnRmbVdPVjZ0QWNmQ2VOWVdpdHNfWjE0NmJOT0NXUUJaVko3ZWlWQ2lwaDNBUU84MVhjUExtUG43MW9GcWh3ankzeXQ0c0Z5OThqLVQ4ZVNGVHdVbTRLWU52LUl1X1poaVNNZzNIcGZGa2JtVll0TzlEdHV3bHRDdmVqY0xWWG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Raghuveer Sets Fresh Record in Win Margin - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWUxLTBtQ0stNXFJaGtNdlEzVEY4LUFUeVZnQ1VqUnpTRkN3bUVrNGQ3QnZTTlp0d2EyZ2w0QXloc2g0VERTWWJuejNlY1o1SU9fdUd2Ml81dUpDUGxKQkN6cG9nOGpvamFOQ0QxRmxfOC13UnJfcE1UNjdjZV9KNXh0RUszXzlfeTg0YTJ0NlUwQkh4YzJkNmxod3czUHZYTGp6Q0tMdmJ3QdIBrwFBVV95cUxQY1ROT2QtX09LeDNxVWd1cjZ5cHFOSHUxTUpoZ0NKZ2VLTHlxd3RVR2FLUFNnWFUxN1l4MURZeEROSVk1LXljRFowTWhLbjd3U3U3RFQ0VWRTamRSOTg2N1dBYVFNczE1RnNfZTFpM2NsaGFYcUJBM2JtVWtHSmRQdDEzVXgzRE5UVG5KX0JGX2pWVWdtMll0N3Nfa0k5NGNxWE81OUJyTGZSck1keDFJ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Telangana minister Uttam Kumar launches Rs 171.5 crore development works in Miryalaguda - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWlEZ0JseXZOeHZISlg5WTZuZXR6YXhyenhvZFJlb2hwMElvWDNIS2ZRQkFtT2R3MEJpRXN5Zjd3VVBnOEdoeVZfNWFQMXVDVE1wN0dVbVV1dEozd3RSRWNUd0FfUDJUNHFva3dfSlVnVVhIbkt2LTFSRWY1TzEtaFFGVWlrcmFDaHNuWXB4VzRCMmJSSkx0VGs5SUw4N2JTN1ltbGtoTDR3dFdIXzZnX0FWR1Vkc0F5dk1ONEhfQW1vX1AtLUhXZFdNcUZnTTlXLXFaclFMUjYxTlRTVXY5aTNB0gHvAUFVX3lxTE42SFY3WVkwNTFEZHlUZkpKSkFvUmdObW5uQVAzNWVmYV9kUVRTSTBYZHRfdzY3Q3FPLUFWQWhOcjk1YW9qRVJUR0RhYzloQjctMDlYS1d5T3pybElOZW42VU1jNDNRVUZkLVQ5cWRpNzlYTUdRaExPMjhwVTJjcGpzSlJOajZ3MDFHa2hOUV9LVURFZXdtal9WTkEwWjJwVllhbTF3Z3V5WldmRWR2dEl6QldISm1mNHpiQjZTcEZFV21KejgtSVo0OVF2ck43ZE9ia1M2U1NRTkpYcThQM0pvT01nZXF1TkNobGdGTDhv?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Nalgonda Election Result 2024 LIVE Updates Highlights: Kunduru Raghuveer of INC Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZEI5NmlSckQzNWFMck1pTVExM0I3aWtxZThIeTRjT3FUbW1RSk9zSFB2bUw0TkhQZjBfN2ViOUUzZTRTMG9pNlMzRHJmSk9aVzNSTzJKcWc0UlgzQlp6Vm53eFU3Vld5VGpVYXhlQnR6cER3TXBMVzV5QmFhaEVhaEIxa29ON0p4Y1IwbGNSMTFPSDhxajVtMlpXLThzSm1MY0tWZFZBLUlYM2Y5RlNJU3dmRGJCQW11Y3dLdGdrTWkzck1DaFhzM3BJSVAxSWh0THAwVjRmQVZQX3B3dU9MSTU4a9IB6AFBVV95cUxNZEhHRG9SYVM0XzFSRnMteUM1UF8yai1lOWJZa1BDQ1lYbzE2UFZpV3lKT0RoX3RnaWgwZ0ZZUlgtWlEwV3dRcmw3Q0t1S2NfVmlqUk8wUDZFeHoweVlOekc3c0pUZmxOTndzcE1ESktfckREY19DZTI2NVVIQVN3ZzE0bGwyVFZNb2JuSGNuMHk1UktKc2xlNDlDTmFPVzdmS2g0Ym5GQmFSUWFEbjJTVnlqTmE5TnBCUmhUSG02R1lOeERNTTdJUlNtZlZEVUI4VDYxTnRSMVcycDZGbWdKdnJzRjhnbEFr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Suresh Shetkar, Balram Naik among four Congress candidates named from Telangana - The News Minute",
+        "source": "The News Minute",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVFNUVpyWFZFN2REV0hYUDdmdnExbTNjS1FfclZRNTkxU3I2bUQ2N0NybzU2bnhib1JoX1JTRFJidGwyS053SHdWdU16NXcxVXNZRXhKeHp1T0ZXRUMwTTl1S3htaDJxekFwVjVtakdFd1lteGxFWWx4NHpIRTNRckFReGxXamFMSlVNcWs4QUp5QkFaeEh3V3hLeTdqMTRvM2RZUWJnTFowcGFJR1FzS2VaR2h0VXplS3fSAccBQVVfeXFMTXNJRWJzelpWcTRVUW56T3RpY0ZSZ0VZSmRDemhPZkFqZTZ2ZnVXWWpNcEEwSkpQZ3RZS1ZGa0thbDA4bGkyRkJ6Q1RhVFhIajV3dWp1Y21icXhSa05URTA5azFvanhjUWg3V2R4bGF6VGVaWXd4Q2hZbkowSW1sNXlNMlV4Qk5aV0h1LUJVREYwRWJCdTZZeU5JVS13VXUtakhqV2J3alJmcVh1b19xUkxXMUZUX01CT3czN2tYRzlRdFZ4TXc5WQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

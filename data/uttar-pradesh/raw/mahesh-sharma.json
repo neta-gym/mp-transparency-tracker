@@ -1,0 +1,400 @@
+{
+  "mp": {
+    "name": "Mahesh Sharma",
+    "constituency": "Gautam Buddha Nagar",
+    "state": "uttar pradesh",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": null,
+    "slug": "mahesh-sharma",
+    "house": "lok_sabha",
+    "sansad_member_id": 4642,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 838209103.0,
+    "liabilities": 22689478.0,
+    "net_worth": 815519625.0,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": 95.7,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:00:09.579195Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:00:05.981110Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:00:05.977748Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 90.0,
+    "questions_asked": 0,
+    "debates_participated": 0,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:00:05.976565Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:00:24.444165Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152056Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152061Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152064Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152068Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Works executed outside MP constituency in multiple states",
+      "category": "irregular_works",
+      "state": "uttar pradesh",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152071Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152074Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152077Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T15:56:57.152080Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Months before Noida man drowned in ditch, residents wrote to MP Mahesh Sharma about broken, dark roads - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFdrNWlfSjdoWTBUakV0ZnR6a0Fhci1MdnhnUEFLVTBabEVud3N0NU5BQWV2bTF2THVYUUNZaFRqaldLLTRZTkJsR3JuNVBSdW1uZk44bXY2c2owMkNUYlozNTFQdzVaQmR1OUtqaVVOUjlrc2JNWVRlMkZYNm9pMmhpUFZkTzNZUnVyZGtMSnAyN05KMU5tV2xlX0UyWUdfQW1Uc3RqU0Q0VzRFTS1kY2RNUnlFVzdRdkk4OFQydFk0QlNzSFpnNUlleWJPbFpib0p2LVFIcFlVR202VkYxdE93VVVKSmp1d05ReXRR0gH0AUFVX3lxTE80LWEzeWppMDZhSWtEWVBvc1ptNXRzTlFVbkRVd2hvYm5jaUljVzJYYWpCaS1hZlVkMHBYQnc0RkQxc1FkSXhEV0VUS2JxSGRvR2pyTW5hVE1Dd0djWWdUSjVQdU5VZmVQMURRWEowUW9yMkRqSTktSXdOSUtBcTNOU09tQzUxWTZJU0ptVVVJWTVrSmowSFNIdDZYVHBxMEl3eDNEUVNsMklxUnZjX3Vfa1hzNmxHTE5fX2RLNVB6SVhzX3NwV3B1dF9obHdWN1JZbFQ2TElwR2ltaF9EbnlCNFZzODhhVUc4ZUxValFzeS1uTzQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakNlUExLOUFKbUdEOWZ0MVVndnYzZkNvQjhLZlhLSFB4ZkpfOGU2XzdibU8xeGhPYzh2VXkzZTVwbjBhY3pGU3dHbWtGZ0tXQVc3dDVzd0JpOC1WcDVfWmxtUTVCV2M5TkNwRVViU3hQeXlCcTh5Ym1RRW9odmFVbzdfeVBoM19Nb25WV0o3YzA5VHBlMzB0WjVsYm51SjRZaFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "It’s a hat-trick for Mahesh Sharma in Gautam Budh Nagar, victory margin of 5.6L biggest in UP - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLWItTUdRZGZhZXBvYm9aWUJWMm1Pckw4V3FNNUtZVENXcTJuMS1ZcE5RcWZueXduOVhRNy1WYTdRTUhXZ3gxRVpKWTROUExiTWRyMjVVTjFyN1dNTHFSUGNZM2hKUTFoOXV2ajdWN3BvekRhbFoxWXdtN3l4anJwb3ItSFAxSE5TYlV2RGN3Vk1ta1pnV095Zl9TRDBkM3JyS3JMQUtNRm44aS1hdjFiUWlic2F6bzJtV1VMbHctLS1kTHJHb2JHVWVFcHRzWGZseG5rZjNSdE91YmZ6SjltQTV6YU0tTkQyeXRZYU5B0gHzAUFVX3lxTE9ybmF3Y2xleHBOMU1vSkpMcTZTdFlRVEgyVlhCcUNEWW82Yll5WDgwSGs4VW04MzVTRnpRc21fMjVTeXlUS19wbFlpTU9UM3RGc0lwbmZudUVZYmdqZW8tWEZkV3hWMGtFbE9RZHJ4Rzh0TDJCd3J3SmllYjg2enltb2ZqdnRvQmpOeUo4OHNOYkFwWnFwTXRkTnktRFBqNkZLNnFVR3Z4OHJGN25wSEFJb0hLWlB3N2FWOGFWX0diSXhmLUs2LXF2QTJOa0dWZlRFUEZuYVpSMlEtX1QtdU5sakZJaU1mQnM0LTNFU3JJdWpraw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gautam Buddha Nagar seat: SP candidate leaves behind BJP MP Mahesh Sharma in spending duringÂ pollÂ campaign - DNA India",
+        "source": "DNA India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2ZtUnpZODFQc2M2bXpuZGdRYzdqN2J1ZmNGRTNLWFZIcEdWMFlleHdISERfR0NZdEd3NEFsLXlCYmcxd1FFeVZEZzlMQzVSWFpJZlJtT0hNRmoyMnVGVzd2VHFadUM3cFZuV1NfWEU2NUNfOEY1eXY1WWdWcjM5Z2VOMHdiYy1Ha0o5VTNhMFZRRnkyNi1HdzhjTkV5ZVMyZS1nZkFpMWpPSENCeXkyUzVpM0R0NHJqMmRtd0RYaVpCYi15R1VPeWYtOFpERlEwd0x3Mi1BWFNlalVONDU2eHZGUFFWNU9GUlHSAe8BQVVfeXFMTVFoZ3pRbWx2ZUhqUERDdXFzWTdyVS1GS3NHVUUwRXc2ZGxtUHFRdHhKWG84QVVRQ2MwamlCUWhDZ0ZoQ3BmMFhOX20zNUZSWnBVZTlGZHBQME5NcVp3TWNlckRvV0pJXzRGcW1SUTZ1YXhqMVd5aFEyNElxazQ4MVFFcFZTUGZlOU45VlI2bUg3b1lPNG5KTV9POFRhS2I5OHUwaGVZSWJrUVZ0cDNLc3k3dklxUHNMaS1XcVdKWEo2QW5PcUhYY3B3X2dobjFRZkZ0SHBSaVh3QkUwZmVFVk56a2hoaEFQcXI1VHcxN2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'My good fortune': BJP's Mahesh Sharma on getting Gautam Buddh Nagar ticket - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFRSYkZOTXRYdkR2c1huSEdBelY0bG5oZXpNMjdwejJLUnVvYllTTmZIbUowekJFMk80Sk1MNVhoNDFKcWFCLWUyQUtxamdIX0ItbkNvcWpRTmp4LVFFOWtKWGpqYmlpWVJGbDY3NlRCVW9ab3VhS0ZkUmhFT2I5dmlNQXRGMWpwTkZpdWRNbEhPYVgxbG5OMjlYdk0zZjNaSW13eGtBVDJMbUhDbWE4cFowSUJveTZwRU9Dc2pPbHZYVDF1NFhfcG5zeUtsNk0yWUh3MWw0ZUZlOGs3N0HSAeMBQVVfeXFMTjNBMjFrSld4QlRieDZmUDlFY2RkMUdoWU1pUWVSUzQzQ3kyRHpJV2FKUXhVbWpWNWlpRWZWeVlTMnpkSG95OFM0ZmZsYmxTNUpyLVdBZ1pzaE1WRWJhZTFYSVo2bjBXbWI5d2tJbzdydzV2b2hWMUZvU2FhbDVqczF0Z3diMURJSk5TS3V2dmNpOVlrQkRnOF9rWXpyOFhJXzBOcm9MNXhGZmZqZ3o4ZTdwWG1wdURjUzVWMlBWYk1yc0tCcVVWQ1BEMC1UVHVZWXY4dmxrclY1WDB1QlpLNlJ4RzQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "mp": {
+    "name": "Chavan Ravindra Vasantrao",
+    "constituency": "Nanded",
+    "state": "maharashtra",
+    "party": "Indian National Congress",
+    "myneta_candidate_id": null,
+    "slug": "chavan-ravindra-vasantrao",
+    "house": "lok_sabha",
+    "sansad_member_id": 5835,
+    "profile_url": null,
+    "canonical_name": "Chavan Ravindra Vasantrao",
+    "name_aliases": [],
+    "education": null,
+    "profession": null,
+    "age": null,
+    "photo_url": null
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "assets": {
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
+  },
+  "mplads": {
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:37:55.748082Z",
+        "notes": "eSAKSHI data not available — all fetch strategies failed"
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-05-21T14:37:52.822144Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-05-21T14:37:52.819142Z",
+        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": null,
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+    "utilization_rate": null
+  },
+  "parliament_activity": {
+    "attendance_percentage": 80.0,
+    "questions_asked": 0,
+    "debates_participated": 1,
+    "private_bills_introduced": 0,
+    "is_minister": false,
+    "source": "prs",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-05-21T14:37:52.817955Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
+    "focus_topics": [],
+    "notable_questions": [],
+    "voting_record": []
+  },
+  "news_allegations": [],
+  "raw_notes": "",
+  "sources_consulted": [
+    "prs",
+    "social_media",
+    "news"
+  ],
+  "collected_at": "2026-05-21T14:38:11.297248Z",
+  "evidence_summary": {
+    "parliament": "C",
+    "accessibility": "D"
+  },
+  "cag_findings": [
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302762Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+      "category": "bogus_ucs",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302775Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS",
+      "report_number": "31 of 2010",
+      "year": 2010,
+      "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://cag.gov.in/en/audit-report/details/2341",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302782Z",
+        "notes": "CAG Report No. 31 of 2010"
+      }
+    },
+    {
+      "report_title": "Follow-up Audit of MPLADS",
+      "report_number": "9 of 2013",
+      "year": 2013,
+      "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+      "category": "idle_funds",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302788Z",
+        "notes": "CAG Report No. 9 of 2013"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Only 53% of recommended works completed within the audit period",
+      "category": "incomplete_works",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302794Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+      "category": "irregular_works",
+      "state": "national",
+      "severity": "high",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302800Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    },
+    {
+      "report_title": "Performance Audit of MPLADS (2012-17)",
+      "report_number": "CAG Performance Report 2017",
+      "year": 2017,
+      "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+      "category": "poor_records",
+      "state": "national",
+      "severity": "medium",
+      "source": {
+        "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+        "source_name": "cag",
+        "grade": "A",
+        "fetched_at": "2026-05-21T14:38:11.302805Z",
+        "notes": "CAG Report No. CAG Performance Report 2017"
+      }
+    }
+  ],
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+    "memberships": [],
+    "total_committees": 0,
+    "leadership_roles": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "social_media": {
+    "profiles": [],
+    "total_platforms": 0,
+    "total_followers": 0,
+    "confidence": 0.2,
+    "sources": []
+  },
+  "news_sentiment": {
+    "total_articles": 10,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "Congress retains Nanded Lok Sabha seat in bypoll, Ravindra Vasantrao Chavan wins close contest - India TV News",
+        "source": "India TV News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQazM2NlAxY2l2a2lPZS1neWJGSzJiQjduNGJXZ2NQLTRwaXhzTUZBMFpEWndmRHdNNlJzOXFGZnFyWFJ1Qi1McUhGWFhXamZUZHc1VkJrUXlEam9zSWtPQkVpS0xYZnJEb01pOWlRY01OWnJJWnE3S3dybGVMV3BwU3IzcDFUV0xnbnJJTGtYM0VBVUQtYmFqZm0tNnI4QkR0b3BCSWFJRk0yTGt0MFZvOXgyTHJNbVAyRFo2eERDWjI3QUZTTFVVV3V5cTZ1MGs2c0UtN0MzdUJ2N3poaTdUWW45Mi1iYmUwWGJLVHJRMDBCeVVkbkVEdnhzZVBLMkhocHBpeFdYODJVaWs5NDl0TFhNdkpVcW82ak1fM2ZybG5vX2tvdUd3Wm530gGvAkFVX3lxTE43VHJPVGJ3WTF1djBWOGlQdTQ5TkJiRHR0MzdDMXVPcG5ZSjU1ZEtfWDQzSmhxNFBJdW9qTkhyRzRUM2RZT1RtUmpLM0VFOHV2QUlLWG1fOXZNMTFEazkwbW9RQ0U2N0NSTzNIMlJWeEhXbnRaY0hhSTd5SUE1a2RQaExwMWpZR0RjenMxbndBTi1sUnRqWHZJSUUxNUJoUWlUNzBMNlZON1gtU0lHZnRFR1haTlExcUkzQTUzZzBocmduR0VXUXN1LTl1dlFYUDdFTmRiS3gtc3NDdWY5eFQ5N3VuaHpEQ0hoV1dkc3pvX25iYXRRWlBGMEsyYV9QX0pRak1sUTlRNWxoQktEaXV6OGJiSlp6dlhFY3dKazhVTWxqSUJxemRxZ2F4MEU1QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress fields Ravindra Chavan for Nanded bypoll - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VobDBwYmxRbnlZMnJEYVhkTnJoZEdGMF91dHdJYmJVdEJfSE0yVk0wMWtvQUpGSXhoMDVlV2tfajhQOF85MnFPWF8wWjFqaWpwYUdVaXRGU3N0eDR2QmVNc0g1T3pCUEplczA3Uk1RYktyT1g2bHpKYVljY2VlS0JaLVE4X2dhQXhyOWhWbHdLajRHSmcwNmU0dzRvdnlwSGkyYdIBqwFBVV95cUxPNE1nanE5Q0tGT29WTU84UDA3RjhLSGx0aGVXRjM4ZDlocE9GUklQaWI3bnE5UlZrYXBQbzlwUEVjZ19HTlkyVHh0bmZNY3J4UTdwemRjb0FDUGJTZXZQSV9jMTh4VmVVWHFWdW1jY1FjOXZHRTQ0QVNzVkZ0cmZEVER3N3V0X25yU2tSTWVhaWRLQ3pJcnRuMkZoLS1scGVEb2I2cGI4ZFdVZG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "New Delhi: Congress leader Chavan Ravindra Vasantrao takes oath as the Lok Sabha MP from Maharashtra’s Nanded #Gallery - Social News XYZ",
+        "source": "Social News XYZ",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3k0TnVpQ3pHOERscnFqWW4wSVNMMDRwM1NmelduVjNlZ1FydVlCcWctZ3ZSb2g0MzlnV1NsT0NoT1oxZFlYSlVnbDgtZEhwOVpOS0tSZ2NrWDZWUFFGZmZSc1NXZzVISmRQbWF1X2FkUVF4YkN2b2FnTWw2cHlkcTVlUUNiRmR0aWljaUl3T3oxSzVsTERkN195YmpQMHF4VHFIUEhJNGNFd21uMTQxeUlOb0pER0tuMmdqTGdsMG5tdjZqYk1qc0lFcUQ4YXpmNWVqYlpsY1dJVDZ4R1hNcDJuc1QtVGVMcFHSAeoBQVVfeXFMTWN5NE51aUN6RzhEbHJxalluMElTTDA0cDNTZnpXblYzZWdRcnVZQnFnLWd2Um9oNDM5Z1dTbE9DaE9aMWRZWEpVZ2w4LWRIcDlaTktLUmdja1g2VlBRRmZmUnNTV2c1SEpkUG1hdV9hZFFReGJDdm9hZ01sNnB5ZHE1ZVFDYkZkdGlpY2lJd096MUs1bExEZDdfeWJqUDBxeFRxSFBISTRjRXdtbjE0MXlJTm9KREdLbjJnakxnbDBubXY2amJNanNJRXFEOGF6ZjVlamJabGNXSVQ2eEdYTXAybnNULVRlTHBR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-day",
+        "source": "Mid-day",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYy1VRUFnVjNNckZzaHpuU2NyZVFBX2FrVGc2QUlIZFBhWU1oanp5WVV1c2JJbzN0QktKZlB3VFRULWhWcEt2dUpRWDRLc3AwNWRYUGFXSV9QcU55Skg4b3JpV2ZpYy1VRmVYQWdKdVM5Z1doYnBDYTVEV0pHc3laV0RTcHVBS2hQQnRFcUxHdkdHVjhZeFhGem1ROERzbHhkcDBrdXZTempxSzlmajRHemtUWHhZd3ZkNWFCcU51V0JjemVzdjhUNm5ZaUNwcHhyWFNSTW85TUItaHcxQjJxX21fcXRhcVloNjUxSWtsaklST1Vu0gH6AUFVX3lxTE81WktsYVBFQmlSQW1ET1ZOWHI0Z1VjMHZscjNVYWlWb3RPQ1E3dkxSRThQSUtVMVM5R1d5eTBVc3p6ZUctT29rSjFSQU5FTmxURzN3UzhnVHNldmoxSl9KekdfNXZhcXUxVXZBczJOZnJqSUFaMGxXeGlEejcyYUhMRENTaERXdF9iOWd5SjlCQTFHRXRnTUpYS2NwY2paWGRYRWoyaF8zem51Z0lhRHYzeGhXU2xpVy04SHFtTkI2YzBrejdnb3JXVGxzY1pPT2ZVa0dISUV5RU9tR29ZTVJvTUkwakVFRW1HeWxfaEhjSGpJTkkzaFBlZXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONklpb1lOd1NaN2R1MEl3SWtFX2lINmRibVdNV20xRThuYjhpdUZyc0hnYlBoMVQ0RHo0eXo4RjV1RWgzSkdKaV9JNnFtZmFOT1lYVmZVZHlfY25FM0JMZnh5SER3aV9FQWlNS0V0bkgwaWdLMm44UXM5NnBLeGxDcUhsUFM5QXRBdlpjRklKU3p6b09GSlR6R01xcVRlNFdGbU9HVkpqU2dibHRwSFdPRzBadDhvSjhoWVNmVDNrZzJWU3dWZFpqN294TWtEV1dOUTVfS01ZSnIyclZ3V2c?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
+  },
+  "legislative": {
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "private_member_bills": 0,
+    "zero_hour_mentions": 0,
+    "special_mentions": 0,
+    "confidence": 0.0,
+    "sources": []
+  },
+  "constituency_context": {
+    "population": null,
+    "literacy_rate": null,
+    "urban_percentage": null,
+    "district": ""
+  },
+  "voting_analysis": {
+    "total_votes": 0,
+    "votes_with_party": 0,
+    "votes_against_party": 0,
+    "abstentions": 0,
+    "absences": 0,
+    "party_loyalty_pct": null,
+    "cross_party_votes": [],
+    "key_bills_missed": [],
+    "confidence": 0.0
+  },
+  "question_quality": {
+    "total_questions": 0,
+    "starred_questions": 0,
+    "unstarred_questions": 0,
+    "short_notice_questions": 0,
+    "unique_topics": 0,
+    "constituency_relevant": 0,
+    "follow_up_rate": 0.0,
+    "quality_score": 0.0,
+    "confidence": 0.0
+  },
+  "conflict_of_interest": {
+    "mp_businesses": [],
+    "committee_sectors": [],
+    "question_sectors": [],
+    "overlaps": [],
+    "severity": "none",
+    "analysis_notes": "",
+    "confidence": 0.0
+  },
+  "attendance_pattern": {
+    "overall_pct": null,
+    "session_breakdown": {},
+    "consecutive_absences": 0,
+    "attended_key_debates": true,
+    "zero_hour_presence": null,
+    "pattern_label": "",
+    "confidence": 0.0
+  },
+  "mgnrega": {
+    "employment_days_generated": null,
+    "total_expenditure": null,
+    "works_completed": null,
+    "works_in_progress": null,
+    "avg_wage_per_day": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  },
+  "pm_kisan": {
+    "total_beneficiaries": null,
+    "amount_disbursed": null,
+    "installment_number": null,
+    "financial_year": "",
+    "confidence": 0.0,
+    "sources": []
+  }
+}
