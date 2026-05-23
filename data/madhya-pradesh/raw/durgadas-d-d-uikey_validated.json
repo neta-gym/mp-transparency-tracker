@@ -4,16 +4,16 @@
     "constituency": "Betul",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1830,
     "slug": "durgadas-d-d-uikey",
     "house": "lok_sabha",
     "sansad_member_id": 5057,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Durgadas D D Uikey\n\n### Overall Assessment\nDurgadas D D Uikey, BJP MP representing Betul constituency in Madhya Pradesh, presents a transparency profile marked by significant data gaps across most key governance metrics. While criminal records show a clean slate, the absence of critical information regarding assets, parliamentary performance, and MPLADS utilization severely limits assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given systemic issues identified by CAG audits in Madhya Pradesh, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader governance challenges in the state's development fund management.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency severely hampers public accountability and prevents assessment of potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, representing the standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nUikey maintains a clean criminal record with zero cases across all categories—no total cases, serious offenses, pending matters, disposed cases, or convictions. However, the low confidence warning for criminal data suggests potential gaps in source availability or data collection processes.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with 0% attendance recorded, zero questions asked, no participation in debates, and no private member bills introduced. While the MP holds ministerial position (which may legitimately reduce attendance due to executive duties), the complete absence of legislative engagement metrics raises questions about parliamentary effectiveness. The 'C' evidence grade for parliamentary data indicates moderate reliability concerns.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or engagement. The 'D' evidence grade for accessibility indicates poor data availability regarding public interaction metrics. No committee participation data is available, with sources indicating the Sansad profile may be inaccessible.\n\n### Data Quality & Caveats\nMultiple automated warnings flag low confidence levels across critical datasets:\n- Criminal records: Source availability concerns\n- Assets: Low confidence in financial disclosure data\n- MPLADS: Insufficient utilization tracking\n- Parliamentary activity: Incomplete legislative metrics\n- Committee work: No accessible profile data\n\nEvidence grades of 'C' for parliament and 'D' for accessibility reflect significant data quality challenges. Sources include PRS Legislative Research, social media, and news outlets, but comprehensive official data appears limited.\n\n### Key Takeaway\nDurgadas D D Uikey's transparency profile is severely compromised by extensive data gaps across most governance metrics, making meaningful accountability assessment impossible. While maintaining a clean criminal record, the absence of asset disclosures, MPLADS utilization data, and parliamentary performance metrics, combined with neutral media coverage, suggests either poor transparency practices or systemic data collection issues. The documented systemic fund management problems in Madhya Pradesh amplify concerns about development oversight effectiveness.",
-  "validated_at": "2026-05-21T14:21:08.013481Z"
+  "validated_at": "2026-05-21T14:21:08.013481Z",
+  "assets": {
+    "total_assets": 18487232.0,
+    "liabilities": 1182315.0,
+    "net_worth": 17304917.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1830",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1830",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.16,
+    "released": 15.16,
+    "sanctioned": 9.12,
+    "expended": 8.28,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:28.593196Z",
+        "notes": "Official eSAKSHI REST API — Works: 462 recommended, 333 sanctioned, 281 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 462,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 54.6174142480211
+  }
 }

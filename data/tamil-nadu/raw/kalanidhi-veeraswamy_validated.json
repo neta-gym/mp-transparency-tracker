@@ -4,16 +4,16 @@
     "constituency": "Chennai North",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1081,
     "slug": "kalanidhi-veeraswamy",
     "house": "lok_sabha",
     "sansad_member_id": 4959,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kalanidhi Veeraswamy\n\n### Overall Assessment\nKalanidhi Veeraswamy, representing Chennai North constituency for the Dravida Munnetra Kazhagam (DMK), demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple critical areas. While maintaining a clean legal record and high legislative participation, the absence of comprehensive financial and development fund data limits a complete assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, with all metrics (entitlement, release, expenditure, and utilization percentage) showing no recorded information. This data gap is particularly concerning given the CAG audit findings revealing systemic issues in fund management across Tamil Nadu, including Rs 1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation. Without transparent MPLADS reporting, constituents cannot assess how effectively their MP is utilizing allocated development funds for Chennai North's infrastructure and social programs.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, with no data on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a monthly compensation of Rs 2,45,000, but without baseline asset information, tracking financial changes or potential irregularities is impossible.\n\n### Legal & Criminal Standing\nVeeraswamy maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. This clean legal standing provides confidence in his eligibility and character for public office, though data quality warnings suggest these records may not be comprehensively verified.\n\n### Parliamentary Performance\nThe MP demonstrates exceptional parliamentary attendance at 95%, significantly above average legislative participation rates. He has asked 43 questions in Parliament and participated in 7 debates, showing active engagement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in proposing new legislation. The evidence quality for parliamentary data is rated 'C', suggesting moderate reliability in these performance metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests either limited controversial involvement or insufficient media attention to his constituency work. The accessibility evidence grade of 'D' indicates poor transparency in public engagement metrics. No committee membership data is available, limiting assessment of his specialized legislative contributions.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information and MPLADS data both show low confidence ratings, fundamentally limiting transparency assessment. The absence of Sansad profile data prevents committee membership verification. Parliamentary effectiveness data also carries low confidence ratings, though basic attendance and question metrics appear more reliable. These data gaps significantly constrain comprehensive evaluation of the MP's performance and transparency.\n\n### Key Takeaway\nWhile Kalanidhi Veeraswamy demonstrates strong parliamentary attendance (95%) and maintains a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization prevent comprehensive accountability assessment. The systemic data unavailability across financial and development metrics, combined with CAG audit findings highlighting widespread fund management issues in Tamil Nadu, raises concerns about transparency standards. Constituents lack essential information to evaluate their representative's financial integrity and development fund effectiveness, despite his active legislative participation.",
-  "validated_at": "2026-05-21T14:22:29.077056Z"
+  "validated_at": "2026-05-21T14:22:29.077056Z",
+  "assets": {
+    "total_assets": 610614066.0,
+    "liabilities": 383364472.0,
+    "net_worth": 227249594.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1081",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1081",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.15,
+    "released": 17.15,
+    "sanctioned": 9.53,
+    "expended": 5.81,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:18.156665Z",
+        "notes": "Official eSAKSHI REST API — Works: 74 recommended, 57 sanctioned, 7 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 74,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 33.87755102040816
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Araku",
     "state": "andhra pradesh",
     "party": "Yuvajana Sramika Rythu Congress Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5099,
     "slug": "gumma-thanuja-rani",
     "house": "lok_sabha",
     "sansad_member_id": 5679,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 31,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gumma Thanuja Rani\n\n### Overall Assessment\n\nGumma Thanuja Rani, representing the Araku constituency in Andhra Pradesh under the Yuvajana Sramika Rythu Congress Party, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining strong parliamentary attendance (90%) and clean criminal record, critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, raising concerns about public accountability in a constituency that requires substantial development attention.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, showing no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for a tribal constituency like Araku that typically requires significant infrastructure development. CAG audit findings reveal systemic issues in Andhra Pradesh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These audit concerns are particularly relevant given the absence of transparent MPLADS reporting for this constituency.\n\n### Financial Transparency\n\nAsset disclosure data is completely missing, with no information available on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected officials. The monthly compensation is reported at Rs 2,45,000, but without baseline asset information, it's impossible to assess financial transparency or potential conflicts of interest. The lack of asset data undermines public accountability in a constituency where development needs are substantial.\n\n### Legal & Criminal Standing\n\nThe MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability. While the clean record is positive, the reliability concerns prevent definitive assessment of legal standing.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with strong attendance (90%) demonstrating commitment to legislative duties. However, participation in debates remains limited (7 instances) and no private member bills have been introduced. The MP has raised 34 questions, indicating some engagement with constituency and policy issues. Overall parliamentary effectiveness appears moderate, with room for increased substantive participation in legislative processes.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility or engagement, which may indicate reduced accessibility to constituents. The evidence grade for accessibility is rated 'D', confirming significant gaps in public engagement mechanisms. For a tribal constituency requiring active advocacy, this limited media presence may indicate insufficient public outreach.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight serious data quality issues: criminal record data has low confidence due to source unavailability, asset information is unreliable, and MPLADS data confidence is low. No committee membership information is available, and legislative effectiveness data has low confidence ratings. Parliament-related data receives a 'C' grade while accessibility scores 'D'. These widespread data gaps significantly limit the reliability of this transparency assessment and suggest potential systemic issues with information disclosure.\n\n### Key Takeaway\n\nGumma Thanuja Rani's transparency profile is severely compromised by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of financial disclosures and development fund transparency creates significant accountability gaps. For a constituency like Araku with substantial tribal population and development needs, this lack of transparency in fund utilization and asset declarations represents a serious concern for public accountability and effective representation.",
-  "validated_at": "2026-05-21T14:22:53.181776Z"
+  "validated_at": "2026-05-21T14:22:53.181776Z",
+  "assets": {
+    "total_assets": 2354678.0,
+    "liabilities": 0.0,
+    "net_worth": 2354678.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.95,
+    "released": 14.95,
+    "sanctioned": 8.27,
+    "expended": 5.8,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:16:15.519643Z",
+        "notes": "Official eSAKSHI REST API — Works: 116 recommended, 107 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 116,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 38.79598662207358
+  }
 }

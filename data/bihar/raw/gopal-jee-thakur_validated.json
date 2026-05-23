@@ -4,16 +4,16 @@
     "constituency": "Darbhanga",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5055,
     "slug": "gopal-jee-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5176,
     "profile_url": null,
     "canonical_name": "Gopal Jee Thakur",
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gopal Jee Thakur\n\n### Overall Assessment\nGopal Jee Thakur, representing Darbhanga constituency in Bihar as a Bharatiya Janata Party MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating adequate parliamentary attendance (85%), his profile suffers from incomplete financial disclosure and limited public engagement metrics. The analysis reveals concerning systemic issues in Bihar's fund utilization mechanisms that may affect constituency development.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is unavailable for this MP, preventing assessment of his development fund utilization. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Bihar's fund management. Key audit revelations include Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. These findings suggest potential challenges in translating allocated funds into actual development outcomes in the constituency.\n\n### Financial Transparency\nAsset declaration data is entirely unavailable, preventing any assessment of the MP's financial transparency. No information exists regarding total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a critical component of public accountability. The MP receives a monthly compensation of Rs 2,45,000, which represents the standard parliamentary salary structure.\n\n### Legal & Criminal Standing\nGopal Jee Thakur maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the analysis flags low confidence in this criminal data due to potential source unavailability, suggesting the clean record may reflect data gaps rather than comprehensive verification.\n\n### Parliamentary Performance\nThe MP demonstrates moderate parliamentary engagement with 85% attendance, placing him above average compared to typical parliamentary attendance rates. His legislative activity includes asking 37 questions and participating in 8 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in legislative drafting. The evidence grade for parliamentary data is rated 'C', indicating moderate reliability with some data quality concerns.\n\n### Public Engagement & Accessibility\nPublic engagement metrics show limited online presence and accessibility. News sentiment analysis reveals 10 articles with neutral coverage (0 positive, 0 negative), suggesting minimal media attention or public discourse around the MP's activities. The accessibility evidence grade is rated 'D', indicating poor data availability regarding public engagement channels, social media presence, or constituent interaction mechanisms.\n\n### Data Quality & Caveats\nThis analysis faces significant data quality limitations across multiple domains. Automated flags indicate low confidence in criminal records, asset declarations, and MPLADS data. Committee membership information is entirely unavailable, with the Sansad profile potentially inaccessible. Legislative effectiveness data carries low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and suggest systemic issues with public data availability or disclosure compliance.\n\n### Key Takeaway\nGopal Jee Thakur's transparency profile reveals a concerning pattern of data unavailability across critical accountability metrics, particularly in financial disclosure and development fund utilization. While maintaining clean criminal records and adequate parliamentary attendance, the absence of asset declarations and MPLADS data, combined with limited public engagement, suggests either non-compliance with transparency requirements or systemic data collection failures. The CAG audit context highlighting widespread fund management issues in Bihar adds urgency to improving transparency mechanisms for effective constituency representation and development oversight.",
-  "validated_at": "2026-05-21T14:36:53.695950Z"
+  "validated_at": "2026-05-21T14:36:53.695950Z",
+  "assets": {
+    "total_assets": 39078830.0,
+    "liabilities": 6875610.0,
+    "net_worth": 32203220.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5055",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5055",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.37,
+    "expended": 2.87,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:39.140070Z",
+        "notes": "Official eSAKSHI REST API — Works: 88 recommended, 68 sanctioned, 52 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 88,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 19.523809523809526
+  }
 }

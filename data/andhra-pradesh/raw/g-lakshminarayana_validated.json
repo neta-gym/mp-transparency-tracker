@@ -4,16 +4,16 @@
     "constituency": "Anantapur",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5097,
     "slug": "g-lakshminarayana",
     "house": "lok_sabha",
     "sansad_member_id": 5584,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: G Lakshminarayana\n\n### Overall Assessment\nG Lakshminarayana, representing Anantapur constituency in Andhra Pradesh for the Telugu Desam Party, presents a mixed transparency profile with significant data gaps. While maintaining good parliamentary attendance (85%), his overall transparency is hampered by incomplete financial disclosures and limited public engagement metrics. The MP shows consistent legislative participation but faces challenges in comprehensive public accountability due to missing MPLADS and asset data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, making it impossible to assess the MP's development spending effectiveness. This absence of transparency is concerning given CAG audit findings highlighting systemic issues in Andhra Pradesh's fund management. The 2010 CAG audit revealed Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Lakshminarayana, constituents cannot evaluate his development impact.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, preventing any assessment of the MP's financial transparency. No data is available on total assets, previous holdings, growth ratios, or net worth. This lack of financial disclosure significantly undermines public accountability and makes it impossible to track potential conflicts of interest or wealth accumulation patterns during his tenure. The MP's monthly compensation is listed at Rs 2,45,000, but without asset context, comprehensive financial transparency remains compromised.\n\n### Legal & Criminal Standing\nLakshminarayana maintains a clean criminal record with zero cases across all categories - no pending, disposed, or conviction records, and no serious charges. However, the data confidence is marked as low, indicating potential gaps in criminal record verification. While this appears positive for his legal standing, the warning flag suggests the criminal data source may be incomplete or unavailable, limiting confidence in this assessment.\n\n### Parliamentary Performance\nThe MP demonstrates solid parliamentary engagement with 85% attendance, substantially above average performance levels. His legislative activity includes 47 questions raised and participation in 4 debates, indicating active involvement in parliamentary proceedings. However, he has introduced zero private bills, suggesting limited initiative in proposing new legislation. The parliament activity grade of 'C' reflects adequate but not exceptional performance in core legislative functions.\n\n### Public Engagement & Accessibility\nPublic engagement metrics show limited reach with only 10 news articles identified, all categorized as neutral coverage with no positive or negative sentiment recorded. This neutral media presence suggests either low public visibility or unremarkable performance that neither generates praise nor criticism. The accessibility grade of 'D' indicates poor public outreach and transparency measures. Committee participation data is entirely missing, preventing assessment of his specialized legislative contributions.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues. Criminal record confidence is low with potential source unavailability. Asset information is completely absent, severely limiting financial transparency evaluation. MPLADS utilization data is unavailable despite this being a key accountability metric. Committee membership and legislative effectiveness data are missing or have low confidence ratings. The evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these substantial data gaps.\n\n### Key Takeaway\nG Lakshminarayana presents a partially transparent profile hampered by critical data gaps in financial disclosure and development spending. While maintaining good parliamentary attendance and a clean criminal record, the absence of asset declarations and MPLADS utilization data significantly undermines comprehensive accountability assessment. His neutral media coverage and poor accessibility grade suggest limited public engagement, while missing committee data prevents evaluation of specialized contributions. Constituents lack essential information needed to fully evaluate his performance and transparency as their representative.",
-  "validated_at": "2026-05-21T14:21:25.282904Z"
+  "validated_at": "2026-05-21T14:21:25.282904Z",
+  "assets": {
+    "total_assets": 47540056.0,
+    "liabilities": 2119559.0,
+    "net_worth": 45420497.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5097",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 8,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 8,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5097",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.39,
+    "expended": 4.46,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:13:35.447261Z",
+        "notes": "Official eSAKSHI REST API — Works: 139 recommended, 114 sanctioned, 25 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 139,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.34013605442177
+  }
 }

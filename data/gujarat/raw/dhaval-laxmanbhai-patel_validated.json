@@ -4,16 +4,16 @@
     "constituency": "Valsad",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3502,
     "slug": "dhaval-laxmanbhai-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5665,
     "profile_url": null,
     "canonical_name": "Dhaval Laxmanbhai Patel",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 37,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Dhaval Laxmanbhai Patel\n\n### Overall Assessment\nDhaval Laxmanbhai Patel, the Bharatiya Janata Party MP from Valsad, Gujarat, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (90%), substantial information about his assets, MPLADS utilization, and development activities remains unavailable, limiting full assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nCritical gaps exist in MPLADS (Members of Parliament Local Area Development Scheme) data, with no information available on entitled funds, releases, expenditures, or utilization rates. This absence of data is particularly concerning given the CAG's 2010 audit findings for Gujarat, which revealed systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Patel's constituency, it's impossible to assess his development impact or fund management efficiency.\n\n### Financial Transparency\nAsset disclosure presents a complete data void, with no information available on current total assets, previous declarations, growth ratios, or net worth. This lack of financial transparency severely hampers public accountability assessment. The monthly compensation of Rs 245,000 is documented, but without asset context, voters cannot evaluate potential conflicts of interest or wealth accumulation patterns during his tenure.\n\n### Legal & Criminal Standing\nPatel maintains a completely clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the warning about source availability means this assessment should be treated cautiously.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with a commendable 90% attendance rate, demonstrating consistent participation in legislative proceedings. However, his legislative output appears limited with 25 questions raised, only 3 debate participations, and zero private member bills introduced. This suggests minimal proactive legislative initiative beyond basic attendance requirements. The evidence grade of 'C' for parliamentary performance indicates moderate confidence in this assessment.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal concerning limitations. News coverage analysis of 10 articles shows entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or impact. The accessibility evidence grade of 'D' indicates poor data availability regarding constituent interaction, social media presence, or community engagement initiatives. No committee participation data was found, potentially indicating limited specialized legislative involvement.\n\n### Data Quality & Caveats\nMultiple critical data quality issues significantly impact this assessment's reliability. Automated flags highlight low confidence in criminal records, assets, and MPLADS data due to source unavailability. Committee information and legislative effectiveness data are entirely missing. The CAG audit context provides valuable background on Gujarat's fund utilization challenges but cannot substitute for constituency-specific data. Evidence grades range from C to D, indicating substantial data quality concerns across key transparency metrics.\n\n### Key Takeaway\nWhile Dhaval Laxmanbhai Patel maintains basic parliamentary attendance and a clean criminal record, severe data gaps across financial disclosure, fund utilization, and public engagement severely limit transparency assessment. The absence of asset declarations, MPLADS data, and meaningful legislative output raises questions about overall effectiveness and accountability. Voters lack sufficient information to make informed judgments about his development impact or financial integrity, highlighting the need for improved data disclosure and public reporting mechanisms.",
-  "validated_at": "2026-05-21T14:27:03.203399Z"
+  "validated_at": "2026-05-21T14:27:03.203399Z",
+  "assets": {
+    "total_assets": 67850853.0,
+    "liabilities": 0.0,
+    "net_worth": 67850853.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3502",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3502",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.5,
+    "expended": 3.57,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:01.613594Z",
+        "notes": "Official eSAKSHI REST API — Works: 213 recommended, 204 sanctioned, 54 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 213,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 24.285714285714285
+  }
 }

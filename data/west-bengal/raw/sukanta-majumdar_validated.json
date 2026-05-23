@@ -4,16 +4,16 @@
     "constituency": "Balurghat",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2211,
     "slug": "sukanta-majumdar",
     "house": "lok_sabha",
     "sansad_member_id": 5035,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 44,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sukanta Majumdar\n### Overall Assessment\nSukanta Majumdar, BJP MP from Balurghat constituency in West Bengal, presents a transparency profile severely hampered by data unavailability across key metrics. Currently serving as a Minister in the Lok Sabha, his profile shows minimal information across most transparency indicators, making a comprehensive assessment challenging. The evidence grades of 'C' for parliamentary data and 'D' for accessibility reflect significant data gaps that limit accountability evaluation.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that each MP is typically entitled to ₹5 crore annually for local development projects. The absence of this data prevents assessment of his development impact in Balurghat constituency.\n\nCAG audit findings highlight systemic concerns in West Bengal's fund utilization: ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues provide important context for local development challenges, though Majumdar's specific performance remains unmeasurable.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit as asset declarations are mandatory for all MPs and serve as key indicators of potential conflicts of interest. His monthly compensation is listed at ₹2,45,000, which appears consistent with standard MP remuneration packages.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), though this comes with a low confidence warning indicating potential data source issues. While this suggests a clean legal record, the data quality concerns prevent definitive conclusions about his criminal background.\n\n### Parliamentary Performance\nParliamentary activity metrics are entirely absent, with no data on attendance rates, questions raised, debates participated in, or private bills introduced. His ministerial status is noted, which typically results in lower attendance due to executive responsibilities, but specific performance indicators remain unavailable. This complete data absence prevents evaluation of his legislative effectiveness or constituency representation quality.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals limited but generally neutral coverage, with 10 articles identified (9 neutral, 1 negative, 0 positive). This relatively low media presence suggests either limited public engagement activities or insufficient media monitoring coverage. No social media metrics or public accessibility measures are available, contributing to the 'D' grade for accessibility.\n\n### Data Quality & Caveats\nMultiple automated warnings indicate severe data reliability issues:\n- Low confidence across criminal records, assets, MPLADS, and parliamentary activity\n- No committee assignment data found\n- Sansad profile potentially unavailable\n- Legislative effectiveness data unreliable\n\nThese widespread data gaps significantly limit the utility of this transparency assessment. The evidence grades reflect these limitations, with parliamentary performance rated 'C' and accessibility 'D', indicating substantial information deficits across core transparency metrics.\n\n### Key Takeaway\nSukanta Majumdar's transparency profile is characterized by extensive data unavailability rather than poor performance, making accountability assessment nearly impossible. While available indicators suggest no criminal record and neutral public coverage, the absence of crucial information on asset declarations, MPLADS utilization, and parliamentary performance represents a significant transparency failure. This data deficit could indicate either systemic disclosure problems or inadequate monitoring systems, both of which undermine democratic accountability for this ministerial position in West Bengal.",
-  "validated_at": "2026-05-21T14:22:41.269365Z"
+  "validated_at": "2026-05-21T14:22:41.269365Z",
+  "assets": {
+    "total_assets": 12476825.0,
+    "liabilities": 1125114.0,
+    "net_worth": 11351711.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2211",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 16,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 16,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2211",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.71,
+    "released": 15.71,
+    "sanctioned": 7.65,
+    "expended": 1.33,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:54:13.496112Z",
+        "notes": "Official eSAKSHI REST API — Works: 181 recommended, 178 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 181,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 8.465945257797582
+  }
 }

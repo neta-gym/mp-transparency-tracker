@@ -4,16 +4,16 @@
     "constituency": "Ujiarpur",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5152,
     "slug": "nityanand-rai",
     "house": "lok_sabha",
     "sansad_member_id": 4625,
     "profile_url": null,
     "canonical_name": "Nityanand Rai",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 58,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Nityanand Rai\n\n### Overall Assessment\nNityanand Rai, BJP MP from Ujiarpur constituency in Bihar, presents a transparency profile with significant data gaps across most key performance indicators. While maintaining a clean criminal record, the absence of comprehensive data on assets, parliamentary activity, and MPLADS utilization severely limits the ability to assess his overall effectiveness and transparency as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is not available for MP Rai, making it impossible to assess his development track record through this crucial scheme. However, CAG audit findings from Bihar reveal systemic issues that may affect his constituency: Rs 1,558 crore in idle funds across state districts, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings raise concerns about the broader development ecosystem in which the MP operates.\n\n### Financial Transparency\nAsset declaration data is entirely missing from available sources, preventing any assessment of the MP's financial transparency or potential conflicts of interest. The absence of both current and previous asset values means no growth analysis is possible. Monthly compensation stands at Rs 2.45 lakh, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nMP Rai maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low due to potential source unavailability, suggesting this assessment should be treated with caution.\n\n### Parliamentary Performance\nParliamentary activity data shows significant gaps, with attendance percentage and participation metrics (questions raised, debates participated, private bills introduced) all marked as unavailable. The MP holds ministerial position, which typically results in lower house attendance due to executive responsibilities. Without baseline data, it's impossible to evaluate his legislative effectiveness or constituency representation in Parliament.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals 10 articles with neutral sentiment (no positive or negative articles identified), suggesting limited media visibility or engagement with public discourse. The evidence grade for accessibility is rated 'D', indicating poor data availability regarding public outreach efforts, social media presence, or constituency engagement initiatives.\n\n### Data Quality & Caveats\nMultiple automated flags indicate serious data quality issues:\n- **Low confidence warnings** across criminal records, assets, MPLADS, and parliamentary activity\n- **Missing committee data** due to potentially unavailable Sansad profile\n- **Parliament activity evidence grade: C**\n- **Accessibility evidence grade: D**\n\nThese limitations significantly compromise the reliability of this transparency assessment and suggest either poor record-keeping, limited data sharing, or incomplete source compilation.\n\n### Key Takeaway\nWhile MP Nityanand Rai appears to maintain a clean criminal record, the extensive data gaps across asset declarations, parliamentary performance, and development fund utilization prevent a comprehensive transparency evaluation. The systemic issues identified in Bihar's development fund management by CAG audits underscore the need for improved financial oversight in his operational context. Voters and stakeholders should seek more complete disclosure from the MP's office to enable proper accountability assessment.",
-  "validated_at": "2026-05-21T14:29:48.016039Z"
+  "validated_at": "2026-05-21T14:29:48.016039Z",
+  "assets": {
+    "total_assets": 179527017.0,
+    "liabilities": 1400000.0,
+    "net_worth": 178127017.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5152",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5152",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.04,
+    "expended": 0.9,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T18:21:18.709303Z",
+        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 61 sanctioned, 28 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 90,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 6.122448979591837
+  }
 }

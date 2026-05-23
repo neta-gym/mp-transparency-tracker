@@ -4,16 +4,16 @@
     "constituency": "Ratlam",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5066,
     "slug": "anita-nagarsingh-chouhan",
     "house": "lok_sabha",
     "sansad_member_id": 5663,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 39,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Anita Nagarsingh Chouhan\n\n### Overall Assessment\n\nAnita Nagarsingh Chouhan, BJP MP from Ratlam, Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Her parliamentary attendance of 75% meets baseline expectations, but limited legislative activity and substantial missing financial data raise concerns about overall accountability and transparency.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Madhya Pradesh's fund management. The CAG's 2010 audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Chouhan's constituency, it's impossible to determine whether these systemic issues affect Ratlam's development projects.\n\n### Financial Transparency\n\nAsset declaration transparency is severely compromised with no current or previous asset information available. This complete absence of financial data makes it impossible to assess wealth accumulation patterns, potential conflicts of interest, or compliance with mandatory disclosure requirements. The MP's monthly compensation is listed at Rs 2,45,000, but without baseline asset information, growth trajectories cannot be evaluated. This represents a significant transparency deficit that undermines public accountability.\n\n### Legal & Criminal Standing\n\nChouhan maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). While this positive indicator suggests good legal standing, the automated system flags low confidence in criminal data due to potential source unavailability, requiring verification through alternative channels.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity with 75% attendance, indicating regular participation in legislative proceedings. However, legislative effectiveness appears limited with only 1 question raised and 8 debate participations. The absence of private member's bills suggests minimal proactive legislative initiative. No committee membership data is available, preventing assessment of specialized parliamentary contributions. The evidence grade of 'C' for parliamentary performance reflects these mixed indicators.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse engagement or controversy avoidance. This neutral media presence, while avoiding negative publicity, may also indicate insufficient proactive public communication. The accessibility evidence grade of 'D' highlights significant gaps in public engagement metrics, with no social media activity data or public interaction indicators available.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight substantial data reliability issues:\n- Criminal record data flagged for low confidence due to potential source unavailability\n- Asset information completely missing, preventing financial transparency assessment\n- MPLADS utilization data unavailable despite entitlement\n- No committee membership information found, suggesting Sansad profile accessibility issues\n- Legislative effectiveness data carries low confidence ratings\n\nThese data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in MP data availability and reporting.\n\n### Key Takeaway\n\nAnita Nagarsingh Chouhan's transparency profile is severely hampered by extensive missing data across critical accountability metrics. While maintaining a clean legal record and acceptable parliamentary attendance, the complete absence of asset declarations and MPLADS utilization data, combined with limited legislative activity, raises serious transparency concerns. The systematic data gaps suggest either poor record-keeping or limited public disclosure compliance, undermining effective democratic accountability for the Ratlam constituency.",
-  "validated_at": "2026-05-21T14:29:43.845925Z"
+  "validated_at": "2026-05-21T14:29:43.845925Z",
+  "assets": {
+    "total_assets": 52459353.0,
+    "liabilities": 186900.0,
+    "net_worth": 52272453.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5066",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5066",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.72,
+    "expended": 4.45,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:24.226294Z",
+        "notes": "Official eSAKSHI REST API — Works: 203 recommended, 199 sanctioned, 19 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 203,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.272108843537417
+  }
 }

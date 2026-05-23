@@ -4,16 +4,16 @@
     "constituency": "Puducherry",
     "state": "puducherry",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 531,
     "slug": "ve-vaithilingam",
     "house": "lok_sabha",
     "sansad_member_id": 5120,
     "profile_url": null,
     "canonical_name": "Ve Vaithilingam",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 73,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Ve Vaithilingam\n\n### Overall Assessment\nVe Vaithilingam, Congress MP from Puducherry constituency, presents a mixed transparency profile with moderate parliamentary engagement but significant data gaps across financial and developmental metrics. With 75% attendance and active participation in parliamentary proceedings, his legislative engagement appears adequate, though comprehensive assessment remains limited due to incomplete financial and developmental data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable for this MP, preventing assessment of developmental project implementation. This data gap is particularly concerning given CAG audit findings revealing systemic issues in fund management across states, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. The audit also identified that 34% of utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete. Without specific MPLADS data for Vaithilingam, constituents cannot evaluate his effectiveness in directing developmental funds.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, showing no data for total assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap that prevents public assessment of the MP's financial standing and potential conflicts of interest. The only available financial information is his monthly compensation of Rs 245,000, which represents standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nVaithilingam shows a clean criminal record with zero total cases, serious cases, pending cases, disposed cases, and convictions. However, this data comes with a low confidence warning indicating potential source unavailability, which raises questions about the completeness and reliability of the criminal background check.\n\n### Parliamentary Performance\nThe MP demonstrates moderate parliamentary engagement with 75% attendance, which meets reasonable expectations for legislative participation. He has asked 9 questions and participated in 7 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity data receives a 'C' evidence grade, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 news articles showing predominantly neutral coverage (9 neutral, 1 negative, 0 positive). This suggests limited positive media presence or public visibility. Accessibility receives a 'D' evidence grade, indicating poor data availability for assessing public outreach effectiveness. No committee participation data is available, which limits understanding of his specialized legislative work.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information completely missing with low confidence warnings\n- MPLADS data unavailable despite its critical importance for constituency development assessment\n- No committee data found, possibly due to unavailable Sansad profile\n- Legislative effectiveness data has low confidence ratings\n\nThe evidence grades (Parliament: 'C', Accessibility: 'D') indicate moderate to poor data quality across key transparency metrics.\n\n### Key Takeaway\nVe Vaithilingam's transparency profile is severely hampered by incomplete data across critical areas including asset disclosure, MPLADS utilization, and committee participation. While his clean criminal record and moderate parliamentary attendance (75%) provide some positive indicators, the absence of financial transparency data and development fund utilization information prevents comprehensive public accountability assessment. The neutral media coverage and lack of private bill initiatives suggest limited proactive legislative leadership. Improved data disclosure across asset declarations and developmental fund utilization would significantly enhance transparency and public trust.",
-  "validated_at": "2026-05-21T14:22:13.504441Z"
+  "validated_at": "2026-05-21T14:22:13.504441Z",
+  "assets": {
+    "total_assets": 157249699.0,
+    "liabilities": 0.0,
+    "net_worth": 157249699.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=531",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=531",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 20.94,
+    "released": 20.94,
+    "sanctioned": 3.87,
+    "expended": 2.48,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:38.091081Z",
+        "notes": "Official eSAKSHI REST API — Works: 68 recommended, 20 sanctioned, 3 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 68,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 11.843361986628462
+  }
 }

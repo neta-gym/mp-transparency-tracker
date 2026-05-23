@@ -4,16 +4,16 @@
     "constituency": "Shirdi",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5331,
     "slug": "bhausaheb-rajaram-wakchaure",
     "house": "lok_sabha",
     "sansad_member_id": 4385,
     "profile_url": null,
     "canonical_name": "Bhausaheb Rajaram Wakchaure",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 74,
     "photo_url": null
   },
   "criminal_record": {
@@ -24,66 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": []
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": null,
-    "liabilities": null,
-    "net_worth": null,
+    "total_assets": 97519221.0,
+    "liabilities": 2432000.0,
+    "net_worth": 95087221.0,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": [],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ],
     "annual_income": null,
     "election_expenditure": null,
     "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": null,
-    "released": null,
-    "sanctioned": null,
-    "expended": null,
-    "source": "mplads",
-    "confidence": 0.0,
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.64,
+    "expended": 0.71,
+    "source": "esakshi",
+    "confidence": 0.9,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in",
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:38:56.706100Z",
-        "notes": "eSAKSHI data not available — all fetch strategies failed"
-      },
-      {
-        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-        "source_name": "data.gov.in",
-        "grade": "B",
-        "fetched_at": "2026-05-21T14:38:52.702579Z",
-        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-      },
-      {
-        "url": "https://dataful.in/datasets/18540/",
-        "source_name": "mplads_csv",
-        "grade": "E",
-        "fetched_at": "2026-05-21T14:38:52.699689Z",
-        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        "fetched_at": "2026-05-23T17:30:00.242279Z",
+        "notes": "Official eSAKSHI REST API — Works: 136 recommended, 84 sanctioned, 2 completed"
       }
     ],
     "works": [],
-    "works_count": 0,
-    "esakshi_coverage_start": null,
+    "works_count": 136,
+    "esakshi_coverage_start": "2023-04-01",
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-    "utilization_rate": null
+    "data_period_note": "",
+    "utilization_rate": 4.829931972789116
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -111,12 +111,17 @@
   "sources_consulted": [
     "prs",
     "social_media",
-    "news"
+    "news",
+    "myneta",
+    "mplads"
   ],
   "collected_at": "2026-05-21T14:39:11.150848Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D"
+    "accessibility": "D",
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
   },
   "cag_findings": [
     {

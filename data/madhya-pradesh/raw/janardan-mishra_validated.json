@@ -4,16 +4,16 @@
     "constituency": "Rewa",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2094,
     "slug": "janardan-mishra",
     "house": "lok_sabha",
     "sansad_member_id": 4728,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Janardan Mishra\n\n### Overall Assessment\nJanardan Mishra, BJP MP representing Rewa constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and development fund data raises concerns about overall accountability. The MP demonstrates basic legislative engagement but faces challenges in comprehensive transparency reporting.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess Mishra's constituency development performance or fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure data is completely absent, with no information available on total assets, previous declarations, growth ratios, or net worth. This fundamental transparency gap prevents evaluation of potential conflicts of interest or wealth accumulation patterns. Only compensation data is available, showing monthly earnings of Rs 2.45 lakh, which appears consistent with standard MP remuneration. The lack of asset transparency significantly undermines financial accountability assessment.\n\n### Legal & Criminal Standing\nMishra maintains a clean legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. This represents a positive transparency indicator, though data confidence is flagged as low due to potential source unavailability. The absence of legal complications suggests no immediate concerns regarding criminal liability or pending legal challenges.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating commitment to legislative duties. However, substantive participation appears limited with only 51 questions raised, 4 debate contributions, and zero private member's bills introduced. This suggests passive rather than proactive legislative engagement. No committee assignment data is available, preventing assessment of specialized parliamentary work. Overall legislative effectiveness receives low confidence rating.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are severely limited. News coverage analysis reveals 10 articles with entirely neutral sentiment—no positive or negative coverage identified. This suggests either limited media presence or potentially controlled/managed public relations. Social media and direct accessibility data are insufficient, earning a 'D' grade for accessibility. The lack of diverse public engagement channels raises questions about constituent communication effectiveness.\n\n### Data Quality & Caveats\nMultiple critical data gaps significantly limit assessment reliability. Key caveats include:\n- **Asset Data**: Complete absence of financial disclosure information\n- **MPLADS Data**: No development fund utilization data available\n- **Criminal Records**: Low confidence due to potential source unavailability\n- **Committee Work**: No parliamentary committee assignment data\n- **Legislative Effectiveness**: Low confidence in comprehensive activity assessment\n- **Evidence Grades**: Parliament performance rated 'C', accessibility rated 'D'\n\nThese limitations suggest either incomplete disclosure practices or data collection challenges, preventing comprehensive transparency evaluation.\n\n### Key Takeaway\nJanardan Mishra's transparency profile is characterized by perfect parliamentary attendance and a clean legal record, but severely undermined by critical data gaps in financial disclosure and development fund utilization. The complete absence of asset and MPLADS data, combined with limited public engagement indicators, suggests significant transparency challenges. While maintaining basic legislative presence, the MP's accountability profile lacks the comprehensive disclosure expected for effective democratic oversight. Immediate priorities should include complete asset disclosure and MPLADS utilization reporting to enable meaningful transparency assessment.",
-  "validated_at": "2026-05-21T14:30:52.097905Z"
+  "validated_at": "2026-05-21T14:30:52.097905Z",
+  "assets": {
+    "total_assets": 50938896.0,
+    "liabilities": 10536551.0,
+    "net_worth": 40402345.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2094",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2094",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.33,
+    "expended": 8.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:33.285499Z",
+        "notes": "Official eSAKSHI REST API — Works: 89 recommended, 81 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 89,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 57.95918367346938
+  }
 }

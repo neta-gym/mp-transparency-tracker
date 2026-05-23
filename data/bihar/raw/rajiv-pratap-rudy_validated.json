@@ -4,16 +4,16 @@
     "constituency": "Saran",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7279,
     "slug": "rajiv-pratap-rudy",
     "house": "lok_sabha",
     "sansad_member_id": 385,
     "profile_url": null,
     "canonical_name": "Rajiv Pratap Rudy",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 62,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rajiv Pratap Rudy\n\n### Overall Assessment\nRajiv Pratap Rudy, BJP MP representing Saran constituency in Bihar, demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple accountability metrics. While maintaining perfect attendance (100%) and active participation in legislative activities, comprehensive assessment is hindered by missing asset, MPLADS, and financial data.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing constituency development effectiveness. The absence of this data is particularly concerning given Bihar's documented MPLADS implementation challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline data, it's impossible to evaluate Rudy's development fund management against these systemic issues.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on current total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data significantly limits accountability assessment. The MP receives a documented monthly compensation of Rs 2,45,000, but without asset declarations, there's no visibility into overall financial standing or potential conflicts of interest.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), though this comes with a data quality warning indicating low confidence in source reliability. While the reported clean legal standing is positive, the flagged uncertainty in criminal data sources requires cautious interpretation of this metric.\n\n### Parliamentary Performance\nRudy demonstrates strong legislative engagement with 100% attendance, significantly above typical parliamentary averages. His activity includes 36 questions raised, participation in 6 debates, and introduction of 3 private member bills. The legislative record shows 3 private bills but zero participation in zero hour discussions or special mentions, suggesting focused but selective engagement patterns. Evidence quality for parliamentary data is graded 'C', indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse engagement. The accessibility evidence grade of 'D' indicates poor data availability for public interaction metrics. No committee assignment data was found, potentially indicating limited institutional leadership roles or data availability issues. Social media and news sources provide some coverage but limited depth of engagement assessment.\n\n### Data Quality & Caveats\nMultiple critical data gaps significantly impact assessment reliability:\n- Asset information entirely unavailable with low confidence warnings\n- MPLADS data completely missing despite high development relevance\n- Criminal record data flagged with source reliability concerns\n- Committee participation data unavailable\n- Legislative effectiveness metrics carry low confidence ratings\n\nThe evidence grading system shows 'C' for parliamentary data and 'D' for accessibility, indicating substantial room for transparency improvements. Eight CAG audit findings for Bihar highlight systemic MPLADS issues that cannot be evaluated for this constituency due to missing data.\n\n### Key Takeaway\nWhile Rajiv Pratap Rudy maintains exemplary parliamentary attendance and demonstrates active legislative participation, massive data gaps across financial assets, development fund utilization, and public engagement severely limit comprehensive accountability assessment. The absence of MPLADS data is particularly problematic given documented statewide fund management issues. Improved transparency mechanisms are essential for meaningful public oversight and democratic accountability evaluation.",
-  "validated_at": "2026-05-21T14:31:11.275125Z"
+  "validated_at": "2026-05-21T14:31:11.275125Z",
+  "assets": {
+    "total_assets": 83711219.0,
+    "liabilities": 656891.0,
+    "net_worth": 83054328.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7279",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7279",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.28,
+    "expended": null,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:59.013547Z",
+        "notes": "Official eSAKSHI REST API — Works: 10 recommended, 3 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 10,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": null
+  }
 }

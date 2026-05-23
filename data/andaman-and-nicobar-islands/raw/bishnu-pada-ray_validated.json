@@ -4,16 +4,16 @@
     "constituency": "Andaman and Nicobar Islands",
     "state": "andaman and nicobar islands",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 17,
     "slug": "bishnu-pada-ray",
     "house": "lok_sabha",
     "sansad_member_id": 371,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 73,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bishnu Pada Ray\n\n### Overall Assessment\nBishnu Pada Ray, representing Andaman and Nicobar Islands for the Bharatiya Janata Party in Lok Sabha, presents a transparency profile with significant data gaps across multiple dimensions. While maintaining a clean legal record and demonstrating above-average parliamentary attendance at 90%, comprehensive assessment is hampered by missing financial and development fund data. The MP's transparency profile receives limited evidence grades (Parliament: C, Accessibility: D), indicating substantial room for improvement in public accountability measures.\n\n### Fund Utilization & Development\nCritical data gaps exist regarding MPLADS fund utilization, with entitled amount, released funds, expenditure, and utilization percentage all unreported. This absence of data is particularly concerning given the CAG audit context revealing systemic issues in fund management across districts, including Rs 1,558 crore in idle funds and 34% of sampled utilization certificates lacking proper documentation. For Andaman and Nicobar Islands specifically, 7 relevant CAG findings highlight potential vulnerabilities in development fund oversight. Without transparent MPLADS reporting, constituents cannot assess the MP's effectiveness in driving local development initiatives.\n\n### Financial Transparency\nAsset declaration data is entirely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability and conflict-of-interest assessment. The MP's monthly compensation is reported at Rs 2,45,000, but without baseline asset data, tracking potential wealth accumulation during tenure remains impossible. This data gap undermines public trust and prevents meaningful evaluation of financial integrity.\n\n### Legal & Criminal Standing\nRay maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the available data suggests no legal complications, the reliability caveat requires acknowledgment when assessing this positive indicator.\n\n### Parliamentary Performance\nThe MP demonstrates strong attendance with a 90% participation rate, significantly above typical parliamentary standards. Legislative engagement shows 11 questions raised and participation in 4 debates, indicating active parliamentary involvement. However, no private member bills were introduced, and committee participation data is unavailable due to inaccessible Sansad profiles. The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversy. The accessibility grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent communication and transparency. No committee data availability further reduces public insight into the MP's specialized legislative work. Social media presence data is incorporated but specific metrics are not detailed.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns:\n- Criminal record data has low confidence due to source unavailability\n- Asset information shows low confidence levels\n- MPLADS data reliability is questionable\n- Committee information is entirely missing\n- Legislative effectiveness data has low confidence ratings\n\nThese warnings substantially limit the reliability of this transparency assessment and indicate systemic data collection challenges for this constituency.\n\n### Key Takeaway\nWhile Bishnu Pada Ray maintains clean legal standing and demonstrates solid parliamentary attendance, his transparency profile is severely compromised by extensive data gaps across financial disclosure, development fund utilization, and public engagement metrics. The absence of MPLADS and asset data, combined with poor accessibility grades, suggests limited accountability to constituents. The MP's representation effectiveness cannot be fully evaluated without addressing these transparency deficits, particularly given the CAG audit context highlighting systemic fund management issues in the region.",
-  "validated_at": "2026-05-21T14:22:20.102910Z"
+  "validated_at": "2026-05-21T14:22:20.102910Z",
+  "assets": {
+    "total_assets": 27439170.0,
+    "liabilities": 302788.0,
+    "net_worth": 27136382.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=17",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=17",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.52,
+    "expended": 0.94,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:10:49.536237Z",
+        "notes": "Official eSAKSHI REST API — Works: 24 recommended, 12 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 24,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 6.394557823129252
+  }
 }

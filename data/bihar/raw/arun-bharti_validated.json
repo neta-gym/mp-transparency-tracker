@@ -4,16 +4,16 @@
     "constituency": "Jamui",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1681,
     "slug": "arun-bharti",
     "house": "lok_sabha",
     "sansad_member_id": 5740,
     "profile_url": null,
     "canonical_name": "Arun Bharti",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 45,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Arun Bharti\n\n### Overall Assessment\nArun Bharti, Lok Sabha MP from Jamui constituency in Bihar representing Lok Jan Shakti Party (Ram Vilas), presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and moderate parliamentary attendance, substantial information voids in asset disclosure and MPLADS utilization raise transparency concerns.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact in Jamui constituency. This absence is particularly concerning given Bihar's documented fund management issues identified in CAG audits. The state context reveals systemic problems including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine if Bharti's constituency faces similar challenges or has achieved better outcomes.\n\n### Financial Transparency\nAsset declaration information is completely missing, creating a significant transparency gap. No data is available on total assets, previous assets, growth ratios, or net worth, making it impossible to assess financial transparency or potential conflicts of interest. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset disclosure, comprehensive financial assessment remains impossible.\n\n### Legal & Criminal Standing\nBharti maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. Despite this caveat, the absence of any reported criminal matters represents a positive aspect of his profile.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 60% attendance rate, falling below optimal standards for constituency representation. Legislative activity includes 45 questions raised and participation in 4 debates, indicating moderate engagement with parliamentary processes. However, no private member bills were introduced, suggesting limited initiative in legislative proposals. The evidence grade of 'C' for parliament data indicates moderate reliability of these metrics.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely limited by data availability. News coverage analysis reveals 10 articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media presence, while avoiding controversy, may indicate limited public visibility or media engagement. Social media and direct accessibility metrics are insufficient for comprehensive evaluation, earning a 'D' grade for accessibility evidence.\n\n### Data Quality & Caveats\nMultiple critical data quality issues significantly impact this assessment's reliability. Automated flags indicate low confidence in criminal record sources, asset data unavailability, and MPLADS information gaps. Parliamentary data receives only 'C' grade reliability, while accessibility data merits 'D' grade. Committee membership information is entirely absent, suggesting Sansad profile unavailability. These limitations severely constrain meaningful transparency evaluation and constituent accountability assessment.\n\n### Key Takeaway\nArun Bharti's transparency profile suffers from substantial data voids that prevent comprehensive evaluation of his effectiveness as Jamui's representative. While maintaining clean criminal records and moderate parliamentary participation, the complete absence of asset declarations and MPLADS utilization data creates significant transparency deficits. Given Bihar's documented fund management challenges highlighted in CAG audits, the lack of MPLADS information is particularly concerning for assessing developmental impact in his constituency. Enhanced data disclosure and public engagement would be necessary to provide constituents with adequate transparency and accountability measures.",
-  "validated_at": "2026-05-21T14:21:04.469874Z"
+  "validated_at": "2026-05-21T14:21:04.469874Z",
+  "assets": {
+    "total_assets": 64870319.0,
+    "liabilities": 31204393.0,
+    "net_worth": 33665926.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1681",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1681",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 19.49,
+    "released": 19.49,
+    "sanctioned": 12.31,
+    "expended": 11.7,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:33.563190Z",
+        "notes": "Official eSAKSHI REST API — Works: 275 recommended, 267 sanctioned, 196 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 275,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 60.03078501795793
+  }
 }

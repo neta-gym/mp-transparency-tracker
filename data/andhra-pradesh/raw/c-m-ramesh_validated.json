@@ -4,16 +4,16 @@
     "constituency": "Anakapalle",
     "state": "andhra pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5268,
     "slug": "c-m-ramesh",
     "house": "lok_sabha",
     "sansad_member_id": 5544,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 58,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: C M Ramesh\n\n### Overall Assessment\nC M Ramesh, BJP MP from Anakapalle constituency in Andhra Pradesh, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical areas. While maintaining perfect attendance (100%) in parliament, comprehensive assessment is hampered by unavailable or low-confidence data on assets, MPLADS utilization, and criminal records.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development impact in Anakapalle constituency. The CAG audit context reveals systemic concerns in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine if these state-level issues affect Ramesh's fund utilization.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 245,000, but without baseline asset information, wealth trajectory analysis is impossible.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, data quality warnings indicate low confidence in this criminal data due to potentially unavailable sources. This caveat is significant as it raises questions about the completeness and reliability of the criminal background verification.\n\n### Parliamentary Performance\nRamesh demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary averages. He has raised 34 questions and participated in 4 debates during the assessed period, showing active involvement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in legislative drafting. No committee membership data is available, suggesting either non-participation or incomplete record-keeping.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals neutral to positive coverage with 10 articles total (3 positive, 0 negative, 7 neutral). This balanced media profile suggests absence of major controversies while lacking significant positive achievements coverage. The evidence grade for accessibility is 'D', indicating poor performance in public engagement metrics, though specific accessibility measures are not detailed in the available data.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Evidence grades are concerning: parliament performance rated 'C' and accessibility rated 'D'. The absence of committee data and legislative effectiveness metrics further constrains comprehensive evaluation. Sources include PRS, social media, and news, but data completeness varies significantly across categories.\n\n### Key Takeaway\nWhile C M Ramesh maintains excellent parliamentary attendance and clean legal standing, the extensive data gaps across assets, MPLADS utilization, and accessibility metrics prevent comprehensive transparency assessment. The perfect attendance record is commendable, but voters and stakeholders lack critical information about fund utilization effectiveness and financial transparency. Improved data availability and disclosure would be essential for meaningful accountability evaluation of this MP's performance in representing Anakapalle constituency.",
-  "validated_at": "2026-05-21T14:21:30.535685Z"
+  "validated_at": "2026-05-21T14:21:30.535685Z",
+  "assets": {
+    "total_assets": 4976024996.0,
+    "liabilities": 1016183515.0,
+    "net_worth": 3959841481.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 5,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 5,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.8,
+    "released": 17.8,
+    "sanctioned": 5.11,
+    "expended": 2.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:12:31.212926Z",
+        "notes": "Official eSAKSHI REST API — Works: 64 recommended, 62 sanctioned, 12 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 64,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 14.157303370786517
+  }
 }

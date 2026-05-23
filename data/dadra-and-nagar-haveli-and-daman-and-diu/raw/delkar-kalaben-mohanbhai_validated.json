@@ -4,16 +4,16 @@
     "constituency": "Dadra and Nagar Haveli",
     "state": "dadra and nagar haveli and daman and diu",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3666,
     "slug": "delkar-kalaben-mohanbhai",
     "house": "lok_sabha",
     "sansad_member_id": 5536,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Delkar Kalaben Mohanbhai\n\n### Overall Assessment\nDelkar Kalaben Mohanbhai, the Bharatiya Janata Party MP representing Dadra and Nagar Haveli, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across multiple accountability metrics. With a 90% parliamentary attendance rate and no criminal record, the MP demonstrates basic institutional engagement, though comprehensive evaluation is hindered by incomplete asset and development fund data.\n\n### Fund Utilization & Development\nCritical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) transparency, with no available data on entitlements, releases, expenditures, or utilization rates. This absence is particularly concerning given the CAG audit context revealing systemic issues in the union territory, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit identified that 18% of sampled works were abandoned or incomplete, highlighting broader developmental fund management challenges in the constituency.\n\n### Financial Transparency\nAsset disclosure data is entirely unavailable, preventing assessment of the MP's financial holdings, growth patterns, or potential conflicts of interest. This represents a significant transparency deficit, as asset declarations are fundamental to public accountability. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset data, comprehensive financial oversight remains impossible.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, suggesting the information may be incomplete rather than definitively accurate.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with strong attendance (90%) but limited substantive contributions. The MP has asked 58 questions and participated in 9 debates, indicating moderate legislative activity. However, zero private member bills introduced suggests limited initiative in proposing new legislation. The overall parliamentary evidence grade of 'C' reflects adequate but unremarkable performance.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal minimal media presence with only 9 neutral news articles and no positive or negative coverage identified. This low-profile approach may indicate limited public communication or engagement with constituency issues. The accessibility evidence grade of 'D' suggests poor digital presence and limited transparency in public communication channels. No committee participation data is available, which may indicate either non-participation or data collection gaps.\n\n### Data Quality & Caveats\nMultiple significant data quality issues undermine comprehensive assessment. Warning flags include low confidence in criminal record data due to source unavailability, completely missing asset information, and absent MPLADS data. Committee participation and legislative effectiveness data are also unavailable. Evidence grades of 'C' for parliamentary performance and 'D' for accessibility reflect these systematic data limitations. The analysis relies primarily on PRS Legislative Research, social media monitoring, and news coverage, with notable gaps in official transparency portals.\n\n### Key Takeaway\nWhile Delkar Kalaben Mohanbhai maintains good parliamentary attendance and a clean criminal record, substantial transparency gaps in asset disclosure and development fund utilization prevent comprehensive accountability assessment. The absence of MPLADS data is particularly problematic given documented systemic fund management issues in the constituency. Enhanced transparency across financial holdings and development expenditure is essential for effective public oversight and addressing the documented governance challenges identified in CAG audits affecting the region.",
-  "validated_at": "2026-05-21T14:22:32.869304Z"
+  "validated_at": "2026-05-21T14:22:32.869304Z",
+  "assets": {
+    "total_assets": 714454357.0,
+    "liabilities": 15839426.0,
+    "net_worth": 698614931.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3666",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3666",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": null,
+    "expended": null,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:24.075622Z",
+        "notes": "Official eSAKSHI REST API — Works: 39 recommended, 0 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 39,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": null
+  }
 }

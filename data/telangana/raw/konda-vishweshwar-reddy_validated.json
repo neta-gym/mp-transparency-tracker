@@ -4,16 +4,16 @@
     "constituency": "Chevella",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5226,
     "slug": "konda-vishweshwar-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 4800,
     "profile_url": null,
     "canonical_name": "Konda Vishweshwar Reddy",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Konda Vishweshwar Reddy\n\n### Overall Assessment\nKonda Vishweshwar Reddy, representing Chevella constituency in Telangana for the Bharatiya Janata Party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100.0%) and a clean criminal record, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable, hindering thorough assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nNo MPLADS data is available for assessment, including entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given the scheme's importance for constituency development. However, relevant CAG audit findings for Telangana highlight systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These audit findings provide important context for evaluating development fund management in the state, though direct applicability to the MP's performance cannot be established without specific MPLADS data.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, preventing assessment of the MP's financial transparency. No data exists on total assets, previous declarations, growth ratios, or net worth calculations. The MP's monthly compensation is documented at Rs 2,45,000, representing the standard parliamentary remuneration. The absence of asset data significantly undermines the ability to evaluate potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\nKonda Vishweshwar Reddy maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality caveats indicate low confidence in criminal record information due to potential source unavailability, requiring cautious interpretation of this apparently clean profile.\n\n### Parliamentary Performance\nThe MP demonstrates strong attendance with perfect 100.0% participation in parliamentary sessions. Legislative activity shows moderate engagement with 10 questions raised and participation in 5 debates, though no private member bills have been introduced. Committee participation data is unavailable, representing a gap in assessing his contribution to parliamentary committee work. The evidence grade for parliamentary performance is rated 'C', suggesting adequate but not exceptional legislative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with predominantly neutral tone (9 neutral, 1 positive, 0 negative), indicating limited public visibility but absence of negative controversies. The accessibility evidence grade is rated 'D', suggesting poor public engagement or limited transparency in constituency outreach. No social media engagement metrics or public interaction data is available for comprehensive assessment.\n\n### Data Quality & Caveats\nMultiple automated flags indicate significant data quality issues:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence ratings\n- MPLADS data is entirely unavailable\n- Committee participation information is missing due to potential Sansad profile unavailability\n- Legislative effectiveness data has low confidence ratings\n\nThese limitations substantially impact the reliability of this assessment, requiring careful interpretation of available information.\n\n### Key Takeaway\nWhile Konda Vishweshwar Reddy maintains perfect parliamentary attendance and a clean criminal record, the comprehensive evaluation of his performance is severely hampered by extensive data gaps in critical areas including asset disclosure, MPLADS utilization, and committee participation. The limited available evidence suggests adequate but unremarkable parliamentary engagement, with neutral public perception but poor accessibility ratings. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of his effectiveness as a public representative. The systemic issues highlighted by CAG audits in Telangana underscore the importance of transparent fund utilization monitoring at the constituency level.",
-  "validated_at": "2026-05-21T14:27:20.798897Z"
+  "validated_at": "2026-05-21T14:27:20.798897Z",
+  "assets": {
+    "total_assets": 45682222094.0,
+    "liabilities": 138336195.0,
+    "net_worth": 45543885899.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 18.64,
+    "released": 18.64,
+    "sanctioned": 8.75,
+    "expended": 4.66,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T18:23:36.362790Z",
+        "notes": "Official eSAKSHI REST API — Works: 389 recommended, 311 sanctioned, 92 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 389,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 25.0
+  }
 }

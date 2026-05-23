@@ -4,16 +4,16 @@
     "constituency": "Pali",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2574,
     "slug": "p-p-chaudhary",
     "house": "lok_sabha",
     "sansad_member_id": 4597,
     "profile_url": null,
     "canonical_name": "P P Chaudhary",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 70,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: P P Chaudhary\n\n### Overall Assessment\nP P Chaudhary, BJP MP from Pali, Rajasthan, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across financial and development metrics. While maintaining perfect attendance and moderate legislative engagement, the absence of critical asset and MPLADS data limits comprehensive evaluation of his accountability to constituents.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. CAG audit reports from 2010 highlight systemic issues in Rajasthan's fund utilization, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without current MPLADS data, it's impossible to assess whether Chaudhary's constituency has addressed these historical deficiencies.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no information on current holdings, previous declarations, growth ratios, or net worth. This absence severely hampers transparency assessment, particularly given that asset declarations are mandatory for MPs. Monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\nChaudhary maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting potential gaps in source availability or verification.\n\n### Parliamentary Performance\nChaudhary demonstrates exceptional attendance with a perfect 100% record, significantly above typical parliamentary averages. His legislative activity shows moderate engagement with 64 questions raised and participation in 19 debates. He has introduced 3 private member bills, indicating proactive legislative initiative. However, zero hour participation and special mentions are absent, suggesting limited use of these parliamentary tools for constituency advocacy.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversy. The evidence grade of 'D' for accessibility indicates poor public engagement metrics. No social media data or committee participation information is available, further limiting assessment of public outreach and institutional engagement.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability concerns:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is entirely missing with low confidence ratings\n- MPLADS data is unavailable with low confidence\n- No committee participation data found, possibly due to unavailable Sansad profiles\n- Legislative effectiveness data carries low confidence warnings\n\nThe parliament evidence grade of 'C' indicates moderate data quality for parliamentary activities, while the accessibility grade of 'D' suggests poor data availability for public engagement metrics.\n\n### Key Takeaway\nWhile P P Chaudhary demonstrates strong parliamentary attendance and maintains a clean legal record, critical transparency gaps in asset declarations and MPLADS utilization severely limit accountability assessment. The absence of development fund data is particularly concerning given CAG findings of systemic fund management issues in Rajasthan. Improved data disclosure across financial and development metrics is essential for comprehensive transparency evaluation.",
-  "validated_at": "2026-05-21T14:22:47.652537Z"
+  "validated_at": "2026-05-21T14:22:47.652537Z",
+  "assets": {
+    "total_assets": 407176661.0,
+    "liabilities": 19486942.0,
+    "net_worth": 387689719.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2574",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2574",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.47,
+    "expended": 1.21,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:45:01.245462Z",
+        "notes": "Official eSAKSHI REST API — Works: 34 recommended, 32 sanctioned, 5 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 34,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 8.231292517006802
+  }
 }

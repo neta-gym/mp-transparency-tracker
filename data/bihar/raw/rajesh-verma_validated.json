@@ -4,16 +4,16 @@
     "constituency": "Khagaria",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3633,
     "slug": "rajesh-verma",
     "house": "lok_sabha",
     "sansad_member_id": 5605,
     "profile_url": null,
     "canonical_name": "Rajesh Verma",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 31,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rajesh Verma\n\n### Overall Assessment\nRajesh Verma, Lok Jan Shakti Party (Ram Vilas) MP from Khagaria, Bihar, presents a mixed transparency profile with significant data gaps across key metrics. Available evidence suggests moderate parliamentary engagement but raises concerns about financial disclosure and public accessibility. The MP maintains a clean criminal record but faces challenges in financial transparency and development fund utilization documentation.\n\n### Fund Utilization & Development\n**MPLADS Performance:** No data available on MPLADS entitlement, releases, or expenditure, representing a critical transparency gap for development fund accountability.\n\n**Systemic Context:** Bihar faces significant MPLADS implementation challenges based on CAG audit findings, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting systemic issues in development fund management that may affect Verma's constituency.\n\n### Financial Transparency\n**Asset Disclosure:** Complete absence of asset declaration data, including total assets, previous holdings, and growth ratios. This represents a significant transparency deficit.\n\n**Compensation:** Monthly compensation recorded at Rs 2,45,000, consistent with standard MP remuneration structures.\n\n**Financial Growth:** Unable to assess financial trajectory due to missing baseline and current asset data.\n\n### Legal & Criminal Standing\n**Criminal Record:** Clean profile with zero cases across all categories (total, serious, pending, disposed, convictions). However, data confidence is flagged as low, suggesting potential source reliability issues.\n\n**Legal Compliance:** No evidence of pending legal complications, though data quality caveats apply.\n\n### Parliamentary Performance\n**Attendance:** 70% parliamentary attendance, indicating reasonable but not exceptional engagement with legislative duties.\n\n**Legislative Activity:** Moderate participation with 52 questions raised and 9 debate contributions. No private member bills introduced, suggesting limited legislative initiative.\n\n**Committee Work:** No committee assignment data available, preventing assessment of specialized parliamentary contributions.\n\n**Overall Engagement:** Parliamentary activity grade of 'C' indicates average performance relative to peers.\n\n### Public Engagement & Accessibility\n**Media Coverage:** Limited news presence with 10 total articles (90% neutral, 10% negative, 0% positive), suggesting minimal public visibility or engagement.\n\n**Accessibility Rating:** 'D' grade indicates poor public accessibility and communication channels.\n\n**Constituency Outreach:** No available data on public meetings, social media engagement, or constituent services.\n\n### Data Quality & Caveats\n**Significant Limitations:**\n- Low confidence criminal record data due to potential source unavailability\n- Complete absence of asset declaration information\n- Missing MPLADS utilization data despite systemic importance\n- No committee assignment records\n- Limited legislative effectiveness metrics\n\n**Evidence Quality:** Parliamentary data rated 'C' grade, accessibility rated 'D' grade, indicating moderate to poor data reliability across key transparency indicators.\n\n**Source Verification:** Information compiled from PRS, social media, and news sources, with notable gaps in official disclosure documents.\n\n### Key Takeaway\nRajesh Verma's transparency profile reveals concerning gaps in financial disclosure and development fund accountability, despite maintaining a clean legal record and moderate parliamentary participation. The absence of asset declarations and MPLADS data, combined with poor accessibility ratings, suggests significant room for improvement in public accountability. Given Bihar's documented MPLADS implementation challenges, enhanced transparency in fund utilization becomes particularly critical for effective constituency representation.",
-  "validated_at": "2026-05-21T14:37:04.271044Z"
+  "validated_at": "2026-05-21T14:37:04.271044Z",
+  "assets": {
+    "total_assets": 53894412.0,
+    "liabilities": 40745130.0,
+    "net_worth": 13149282.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3633",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 12,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 12,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3633",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.19,
+    "expended": 7.32,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:58.330296Z",
+        "notes": "Official eSAKSHI REST API — Works: 76 recommended, 76 sanctioned, 67 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 76,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 49.79591836734694
+  }
 }

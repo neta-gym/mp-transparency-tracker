@@ -4,16 +4,16 @@
     "constituency": "Baramati",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4316,
     "slug": "supriya-sule",
     "house": "lok_sabha",
     "sansad_member_id": 4392,
     "profile_url": null,
     "canonical_name": "Supriya Sule",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Supriya Sule\n\n### Overall Assessment\nSupriya Sule, representing Baramati constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Her parliamentary performance shows strong attendance (100%) and active participation, while maintaining a clean legal record. However, critical financial and developmental metrics are largely unavailable, constraining full assessment of her effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a significant transparency gap given that MPs typically receive Rs 5 crore annually under this scheme. The absence of this data prevents assessment of her development work in Baramati constituency. CAG audit findings from 2010 reveal systemic issues in fund management across Maharashtra, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, though specific impacts on Sule's constituency remain unclear.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no information available on total assets, previous declarations, growth patterns, or net worth. This represents a critical gap in financial transparency, as asset declarations are mandatory for all MPs. The monthly compensation is recorded at Rs 2,45,000, which appears consistent with standard parliamentary remuneration. Without asset data, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation.\n\n### Legal & Criminal Standing\nSule maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean slate is notable in the Indian political context where criminal cases among MPs are common. However, the data source carries a low confidence warning, suggesting potential gaps in criminal record verification processes.\n\n### Parliamentary Performance\nSule demonstrates exceptional parliamentary attendance at 100%, significantly above typical MP attendance rates. Her legislative participation includes 65 questions raised and 30 debate contributions, indicating active engagement with parliamentary proceedings. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliamentary performance data carries a 'C' grade for evidence quality, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral coverage (0 positive, 0 negative, 10 neutral), suggesting either limited media attention or balanced reporting. The accessibility score receives a 'D' grade, indicating poor data availability for public engagement metrics. No committee membership data is available, representing another gap in understanding her parliamentary role beyond floor participation.\n\n### Data Quality & Caveats\nThe profile suffers from significant data quality issues with multiple automated warnings flagging low confidence across key areas. Criminal record data has low confidence due to potentially unavailable sources. Asset information is completely missing despite being mandatory for MPs. MPLADS data is entirely unavailable, preventing assessment of constituency development work. Committee participation data is absent, possibly due to unavailable Sansad profiles. These gaps severely limit comprehensive transparency assessment.\n\n### Key Takeaway\nWhile Supriya Sule demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial disclosure, development fund utilization, and committee work prevent a complete transparency evaluation. The available evidence suggests active parliamentary participation but raises concerns about data accessibility and public transparency standards. Voters in Baramati constituency lack access to crucial information about their representative's financial status and development fund utilization, highlighting systemic transparency challenges in Indian democratic institutions.",
-  "validated_at": "2026-05-21T14:38:08.670178Z"
+  "validated_at": "2026-05-21T14:38:08.670178Z",
+  "assets": {
+    "total_assets": 1665186348.0,
+    "liabilities": 5500000.0,
+    "net_worth": 1659686348.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4316",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4316",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.23,
+    "expended": 1.01,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:28.500285Z",
+        "notes": "Official eSAKSHI REST API — Works: 85 recommended, 16 sanctioned, 4 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 85,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 6.870748299319729
+  }
 }

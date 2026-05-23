@@ -4,16 +4,16 @@
     "constituency": "Maldaha Uttar",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3375,
     "slug": "khagen-murmu",
     "house": "lok_sabha",
     "sansad_member_id": 5050,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Khagen Murmu\n\n### Overall Assessment\n\nKhagen Murmu, BJP MP from Maldaha Uttar constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While demonstrating strong parliamentary attendance and maintaining a clean criminal record, critical gaps in asset disclosure and MPLADS utilization data severely constrain full assessment of his financial transparency and developmental impact.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, preventing assessment of Murmu's developmental effectiveness in his constituency. This data gap is particularly concerning given the CAG's systemic findings of Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific utilization figures, it's impossible to evaluate whether Murmu's constituency faces similar implementation challenges identified in the broader audit context.\n\nThe absence of entitled, released, and expended amounts under the MPLADS scheme represents a critical transparency gap that limits public accountability regarding local development initiatives.\n\n### Financial Transparency\n\nAsset disclosure presents a complete void, with no data available on current or previous holdings, preventing any assessment of wealth accumulation or growth patterns. The absence of net worth information eliminates the possibility of evaluating financial transparency standards expected of elected representatives.\n\nThis lack of asset data is flagged with low confidence warnings, suggesting potential systemic issues in data availability rather than deliberate non-disclosure. However, the impact on transparency remains the same regardless of the underlying cause.\n\n### Legal & Criminal Standing\n\nMurmu maintains a clean legal record with zero cases across all categories - no pending cases, disposals, or convictions. This represents a positive aspect of his profile, though the data comes with low confidence warnings that suggest potential gaps in criminal record verification systems.\n\nThe absence of any serious criminal allegations provides some assurance regarding his legal standing, though the data quality caveats require acknowledgment.\n\n### Parliamentary Performance\n\nMurmu demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to his legislative duties. His parliamentary engagement shows moderate activity with 59 questions raised and participation in 12 debates, suggesting reasonable involvement in legislative processes.\n\nHowever, he has introduced zero private member bills, indicating limited initiative in proposing new legislation. His monthly compensation of Rs 2.45 lakh aligns with standard parliamentary remuneration.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals limited public engagement, with only 10 news articles identified. The coverage distribution shows 1 positive, 1 negative, and 8 neutral articles, suggesting minimal controversial issues but also limited proactive public communication.\n\nThe low evidence grade for accessibility (D) indicates poor performance in maintaining transparent communication channels with constituents. This limitation in public engagement may impact his ability to effectively represent constituency interests.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight significant data reliability issues:\n- Criminal record data carries low confidence warnings\n- Asset information is flagged as unreliable\n- MPLADS utilization data is entirely missing\n- Committee participation data is unavailable\n- Parliamentary effectiveness receives only a 'C' grade for evidence quality\n\nThese data gaps suggest systemic issues in information availability rather than specific transparency failures by the MP, but nonetheless limit accountability assessment.\n\n### Key Takeaway\n\nWhile Khagen Murmu maintains clean legal standing and demonstrates strong parliamentary attendance, critical gaps in asset disclosure and MPLADS utilization data prevent comprehensive transparency evaluation. The absence of financial and developmental data represents significant accountability limitations that require attention to enable meaningful public oversight of his representative duties.",
-  "validated_at": "2026-05-21T14:35:41.464002Z"
+  "validated_at": "2026-05-21T14:35:41.464002Z",
+  "assets": {
+    "total_assets": 13590846.0,
+    "liabilities": 234412.0,
+    "net_worth": 13356434.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3375",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 7,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 7,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3375",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.0,
+    "expended": 0.6,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:50.996655Z",
+        "notes": "Official eSAKSHI REST API — Works: 30 recommended, 11 sanctioned, 6 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 30,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 4.081632653061225
+  }
 }

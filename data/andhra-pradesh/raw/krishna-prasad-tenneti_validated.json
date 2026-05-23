@@ -4,16 +4,16 @@
     "constituency": "Bapatla",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5102,
     "slug": "krishna-prasad-tenneti",
     "house": "lok_sabha",
     "sansad_member_id": 5680,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Krishna Prasad Tenneti\n\n### Overall Assessment\nKrishna Prasad Tenneti represents Bapatla constituency in Andhra Pradesh as a Telugu Desam Party MP in the Lok Sabha. The available data presents a mixed transparency profile, with reasonable parliamentary attendance but significant gaps in financial and asset disclosure information. The MP demonstrates consistent legislative engagement through questions and debates, though limited data availability restricts a comprehensive assessment of his overall effectiveness.\n\n### Fund Utilization & Development\nComplete MPLADS data is unavailable for this MP, making it impossible to assess development fund utilization. However, CAG audit reports reveal systemic issues in Andhra Pradesh's fund management, including Rs 1,558 crore lying unspent in district authorities' accounts. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled development works were abandoned or incomplete. These state-level findings highlight potential concerns about development fund oversight, though direct attribution to this MP's constituency cannot be established without specific data.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of the MP's financial standing or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 245,000, but the absence of asset declarations raises questions about compliance with disclosure requirements.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, or convictions. However, the data source carries low confidence warnings, suggesting potential gaps in criminal record verification. While the available information indicates no legal issues, the reliability caveat requires cautious interpretation of this assessment.\n\n### Parliamentary Performance\nTenneti demonstrates solid parliamentary engagement with 85% attendance, exceeding the average attendance rates in the Lok Sabha. His legislative activity includes 46 questions raised and participation in 5 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', indicating moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles, all classified as neutral with no positive or negative sentiment detected. This suggests limited public visibility or controversy. The accessibility evidence grade is rated 'D', indicating poor data availability about the MP's public engagement efforts, social media presence, or constituent interaction initiatives. No committee membership data is available, further limiting assessment of his broader parliamentary contributions.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality limitations affecting multiple areas:\n\n- **Criminal records**: Low confidence due to potentially unavailable sources\n- **Asset information**: Complete absence of financial disclosure data\n- **MPLADS data**: No utilization figures available despite entitlement\n- **Committee work**: No information on committee memberships or contributions\n- **Evidence grades**: Parliament data rated 'C' and accessibility rated 'D'\n\nThese limitations substantially impact the comprehensiveness and reliability of this transparency assessment. The automated system flags indicate systematic data collection challenges that may affect accuracy across multiple transparency dimensions.\n\n### Key Takeaway\nKrishna Prasad Tenneti presents a transparency profile with clear strengths in parliamentary attendance and clean criminal record maintenance, but significant data gaps prevent comprehensive evaluation. The absence of asset disclosure and MPLADS utilization data, combined with limited public engagement information, creates substantial transparency blind spots. While his parliamentary participation appears adequate, the overall assessment is constrained by poor data availability across critical transparency metrics, highlighting the need for improved disclosure compliance and data collection mechanisms.",
-  "validated_at": "2026-05-21T14:22:56.345013Z"
+  "validated_at": "2026-05-21T14:22:56.345013Z",
+  "assets": {
+    "total_assets": 155757943.0,
+    "liabilities": 19400000.0,
+    "net_worth": 136357943.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5102",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5102",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 16.78,
+    "released": 16.78,
+    "sanctioned": 8.92,
+    "expended": 0.61,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:16:23.492092Z",
+        "notes": "Official eSAKSHI REST API — Works: 134 recommended, 106 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 134,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.635280095351609
+  }
 }

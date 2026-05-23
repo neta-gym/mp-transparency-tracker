@@ -4,16 +4,16 @@
     "constituency": "Ramtek",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 675,
     "slug": "shyamkumar-daulat-barve",
     "house": "lok_sabha",
     "sansad_member_id": 5736,
     "profile_url": null,
     "canonical_name": "Shyamkumar Daulat Barve",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shyamkumar Daulat Barve\n\n### Overall Assessment\nShyamkumar Daulat Barve, representing Ramtek constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While demonstrating strong parliamentary attendance and a clean criminal record, critical financial and developmental data remains unavailable, limiting assessment of his overall effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given that MPLADS funds are a key mechanism for constituency development. The absence of this data prevents evaluation of Barve's developmental impact in Ramtek constituency.\n\nCAG audit findings for Maharashtra reveal systemic issues in fund management that may affect local implementation: Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Barve, it's unclear how these state-level challenges impact his constituency's development projects.\n\n### Financial Transparency\nAsset disclosure information is entirely missing from available records, preventing any assessment of wealth accumulation or potential conflicts of interest. No baseline or current asset values are documented, nor is there any growth trajectory data available. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives.\n\nBarve's monthly compensation is recorded at Rs 245,000, providing the only available financial reference point in his profile.\n\n### Legal & Criminal Standing\nBarve maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nBarve demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to legislative duties. His parliamentary engagement includes 43 questions raised and participation in 3 debates, showing moderate activity in House proceedings. However, he has introduced no private member bills, suggesting limited initiative in legislative drafting.\n\nThe parliamentary activity grade of 'C' indicates room for improvement in overall legislative effectiveness beyond basic attendance metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 6 news articles with neutral sentiment - no positive or negative coverage detected. This suggests either limited public visibility or balanced media treatment. The accessibility grade of 'D' indicates poor public engagement mechanisms, with no committee data available and limited evidence of constituent outreach initiatives.\n\nSocial media presence appears minimal based on available sources, potentially limiting direct citizen engagement channels.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is unavailable despite being crucial for developmental assessment\n- Committee membership information is absent\n- Legislative effectiveness data has low confidence ratings\n\nEvidence grades of 'C' for parliament and 'D' for accessibility reflect these systemic data gaps. Sources include PRS, social media, and news outlets, but apparent gaps suggest incomplete data aggregation.\n\n### Key Takeaway\nWhile Barve demonstrates strong parliamentary attendance and maintains a clean criminal record, the absence of critical financial and developmental data severely limits transparency assessment. The missing MPLADS and asset information, combined with low public accessibility scores, suggests either poor transparency practices or inadequate data collection systems. For a comprehensive evaluation, improved disclosure mechanisms and data availability are essential, particularly given Maharashtra's documented fund management challenges highlighted in CAG audits.",
-  "validated_at": "2026-05-21T14:22:27.581019Z"
+  "validated_at": "2026-05-21T14:22:27.581019Z",
+  "assets": {
+    "total_assets": 42894953.0,
+    "liabilities": 16152299.0,
+    "net_worth": 26742654.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=675",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=675",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.2,
+    "expended": 0.15,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:27.094164Z",
+        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 3 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 55,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.0204081632653061
+  }
 }

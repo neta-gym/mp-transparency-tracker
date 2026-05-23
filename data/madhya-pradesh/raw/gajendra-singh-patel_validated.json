@@ -4,16 +4,16 @@
     "constituency": "Khargone",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6416,
     "slug": "gajendra-singh-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5643,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gajendra Singh Patel\n\n### Overall Assessment\n\nGajendra Singh Patel, BJP MP from Khargone constituency in Madhya Pradesh, presents a transparency profile with significant data limitations. Available information shows a clean criminal record with zero cases, though most performance metrics remain unavailable due to data quality issues. The MP serves in the Lok Sabha with a monthly compensation of Rs 245,000, but comprehensive assessment is hindered by missing data across multiple transparency indicators.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is completely unavailable, with no information on entitlement, release, expenditure, or utilization percentage. This represents a critical transparency gap, especially given the CAG audit context revealing systemic issues in Madhya Pradesh's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with Madhya Pradesh showing 8 relevant audit findings. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete, raising concerns about effective fund deployment in the state.\n\n### Financial Transparency\n\nAsset disclosure information is entirely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents any assessment of the MP's wealth accumulation or potential conflicts of interest. The lack of asset information represents a significant transparency deficit, particularly for a public representative where financial disclosure is mandated under electoral laws.\n\n### Legal & Criminal Standing\n\nGajendra Singh Patel maintains a clean criminal record with zero total cases, serious cases, pending cases, disposed cases, and convictions. However, data confidence is marked as low, suggesting potential gaps in criminal record verification. While the available information indicates no legal complications, the warning flag regarding data reliability requires cautious interpretation of this apparently clean slate.\n\n### Parliamentary Performance\n\nParliamentary activity data shows concerning gaps across all metrics. Attendance percentage, questions raised, debate participation, and private bills introduced are all listed as unavailable. The MP holds ministerial position, which typically results in lower attendance due to executive duties, but without specific data, performance assessment remains impossible. Zero questions and debates recorded could reflect either data unavailability or genuine inactivity, requiring clarification.\n\n### Public Engagement & Accessibility\n\nPublic engagement metrics show limited media presence with 10 news articles providing neutral coverage (0 positive, 0 negative, 10 neutral). This neutral sentiment suggests absence of significant controversies but also indicates minimal proactive public communication. The evidence grade for accessibility is marked as 'D', indicating poor transparency in public engagement. No committee participation data is available, suggesting either non-participation in parliamentary committees or data collection failures.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight severe data quality issues affecting this transparency assessment:\n- Criminal record data marked with low confidence\n- Asset information completely unavailable with low confidence warnings\n- MPLADS data entirely missing with reliability concerns\n- Parliamentary activity data marked as unreliable\n- Committee participation data unavailable, possibly due to missing Sansad profile\n\nEvidence grades show 'C' for parliament-related data and 'D' for accessibility metrics, indicating below-average data availability. Sources include PRS, social media, and news outlets, but coverage appears incomplete across most transparency indicators.\n\n### Key Takeaway\n\nGajendra Singh Patel's transparency profile suffers from severe data deficiencies that prevent comprehensive evaluation of his performance as an elected representative. While available information suggests a clean criminal record, the absence of asset declarations, MPLADS utilization data, and parliamentary activity metrics creates significant transparency gaps. The systemic fund management issues highlighted in CAG audits for Madhya Pradesh, combined with missing MPLADS data for this MP, raise concerns about accountability in constituency development. Voters and oversight bodies require access to complete, verified data to properly assess elected representatives' performance and ensure democratic accountability.",
-  "validated_at": "2026-05-21T14:28:07.367800Z"
+  "validated_at": "2026-05-21T14:28:07.367800Z",
+  "assets": {
+    "total_assets": 99824946.0,
+    "liabilities": 4497445.0,
+    "net_worth": 95327501.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6416",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6416",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.14,
+    "expended": 6.19,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:30.099430Z",
+        "notes": "Official eSAKSHI REST API — Works: 278 recommended, 245 sanctioned, 81 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 278,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 42.10884353741497
+  }
 }

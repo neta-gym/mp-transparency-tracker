@@ -4,16 +4,16 @@
     "constituency": "Viluppuram",
     "state": "tamil nadu",
     "party": "Viduthalai Chiruthaigal Katchi",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1209,
     "slug": "d-ravi-kumar",
     "house": "lok_sabha",
     "sansad_member_id": 4972,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 26,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: D Ravi Kumar\n\n### Overall Assessment\nD Ravi Kumar, representing Viluppuram constituency in Tamil Nadu for the Viduthalai Chiruthaigal Katchi party, presents a mixed transparency profile with significant data gaps across key performance indicators. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with below-average attendance rates. The lack of comprehensive asset and MPLADS utilization data severely limits the ability to assess his financial transparency and development impact.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Tamil Nadu, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Kumar's MPLADS performance, it's impossible to assess whether his constituency benefits align with or deviate from these concerning state-wide patterns.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any meaningful assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is documented at ₹245,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\nD Ravi Kumar maintains a clean legal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This clean criminal profile is notable and represents a positive aspect of his public service record. However, the automated warning flag indicates low confidence in the criminal data source, suggesting potential data reliability issues.\n\n### Parliamentary Performance\nKumar's parliamentary engagement shows significant weaknesses, particularly in attendance where he achieves only 40% participation—well below expectations for effective representation. His legislative activity includes 45 questions raised and participation in 6 debates, indicating some level of engagement with parliamentary processes. However, he has introduced zero private member bills, suggesting limited initiative in legislative innovation. The evidence grade of 'C' for parliamentary performance reflects these mixed results.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal limited visibility with only 10 news articles covering Kumar's activities, all categorized as neutral coverage with no positive or negative sentiment recorded. This neutral media presence suggests either limited newsworthiness of his activities or minimal proactive public engagement. The accessibility evidence grade of 'D' indicates poor performance in this crucial area of democratic representation, suggesting constituents may face challenges in accessing their representative.\n\n### Data Quality & Caveats\nThe transparency assessment is severely hampered by multiple data quality issues. Automated flags highlight low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS utilization data. Committee membership information is entirely missing, likely due to unavailable Sansad profile data. The legislative effectiveness assessment carries low confidence ratings, and CAG audit context is provided at the state level rather than constituency-specific details. These data gaps significantly limit the reliability of this transparency evaluation.\n\n### Key Takeaway\nD Ravi Kumar's transparency profile is characterized by a clean legal record but concerning data gaps that prevent comprehensive assessment of his effectiveness as a public representative. The 40% parliamentary attendance rate and minimal public visibility suggest limited engagement with core democratic responsibilities. The complete absence of asset disclosure and MPLADS utilization data, combined with systemic fund management issues identified in Tamil Nadu, raises questions about accountability and transparency. Voters and oversight bodies should prioritize obtaining complete disclosure data to enable proper evaluation of Kumar's stewardship of public resources and constituency development responsibilities.",
-  "validated_at": "2026-05-21T14:37:35.793172Z"
+  "validated_at": "2026-05-21T14:37:35.793172Z",
+  "assets": {
+    "total_assets": 180000.0,
+    "liabilities": 0.0,
+    "net_worth": 180000.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1209",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1209",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.35,
+    "released": 17.35,
+    "sanctioned": 12.05,
+    "expended": 9.36,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:11.894075Z",
+        "notes": "Official eSAKSHI REST API — Works: 253 recommended, 252 sanctioned, 214 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 253,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 53.94812680115273
+  }
 }

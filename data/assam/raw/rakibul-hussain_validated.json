@@ -4,16 +4,16 @@
     "constituency": "Dhubri",
     "state": "assam",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4100,
     "slug": "rakibul-hussain",
     "house": "lok_sabha",
     "sansad_member_id": 5724,
     "profile_url": null,
     "canonical_name": "Rakibul Hussain",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 59,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rakibul Hussain\n\n### Overall Assessment\n\nRakibul Hussain, representing Dhubri constituency in Assam for the Indian National Congress, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance and a clean criminal record, substantial missing information regarding assets and MPLADS fund utilization raises concerns about financial transparency. The evidence quality is notably poor, with parliamentary performance graded 'C' and accessibility graded 'D'.\n\n### Fund Utilization & Development\n\nComplete data unavailability regarding MPLADS fund utilization presents a critical transparency gap. No information is available on entitled amounts, funds released, or expenditure patterns, making it impossible to assess developmental impact in Dhubri constituency. This absence of data is particularly concerning given the CAG audit context for Assam, which highlights systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documentation. The audit also revealed that 18% of sampled works were abandoned or incomplete, suggesting potential inefficiencies in fund deployment that cannot be evaluated for this MP due to missing data.\n\n### Financial Transparency\n\nAsset disclosure information is entirely unavailable, preventing assessment of financial standing, growth patterns, or potential conflicts of interest. The absence of current and previous asset declarations, along with missing growth ratio and net worth data, represents a significant transparency deficit. This data gap is flagged with low confidence warnings, indicating potential source unavailability rather than deliberate non-disclosure. Monthly compensation is documented at Rs 245,000, providing the only available financial reference point.\n\n### Legal & Criminal Standing\n\nHussain maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean criminal profile suggests adherence to legal standards expected of public representatives. However, the criminal record data carries a low confidence warning due to potential source unavailability, though the zero-case status appears consistent across all metrics.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Hussain demonstrates exceptional attendance with a perfect 100% record, indicating consistent presence in parliamentary proceedings. However, legislative participation appears limited with only 5 questions raised and 5 debate contributions, suggesting minimal active engagement in parliamentary discourse. No private member bills were introduced, indicating limited legislative initiative. The absence of committee participation data further restricts evaluation of parliamentary effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public sentiment with 10 articles showing no positive or negative bias - all classified as neutral coverage. This suggests limited public visibility or controversial positioning. The lack of accessibility data and committee information indicates poor public engagement mechanisms. No social media or public outreach metrics are available, limiting assessment of constituent communication effectiveness.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data quality issues. Criminal record confidence is low due to potential source unavailability, while asset and MPLADS data carry similar warnings. Committee data is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data shows low confidence levels. Sources include PRS, social media, and news outlets, but coverage appears incomplete. The evidence grading system rates parliamentary performance as 'C' and accessibility as 'D', indicating substantial room for improvement in transparency standards.\n\n### Key Takeaway\n\nRakibul Hussain's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining perfect attendance and a clean criminal record, the absence of financial disclosure and development fund information prevents meaningful assessment of performance and accountability. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Given Assam's documented issues with fund utilization and administrative efficiency highlighted in CAG audits, the lack of MPLADS data is particularly concerning and requires immediate attention to ensure constituent transparency and developmental accountability.",
-  "validated_at": "2026-05-21T14:23:02.728146Z"
+  "validated_at": "2026-05-21T14:23:02.728146Z",
+  "assets": {
+    "total_assets": 252963888.0,
+    "liabilities": 43646481.0,
+    "net_worth": 209317407.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4100",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4100",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.75,
+    "expended": 4.15,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:27.615109Z",
+        "notes": "Official eSAKSHI REST API — Works: 148 recommended, 115 sanctioned, 22 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 148,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 28.231292517006807
+  }
 }

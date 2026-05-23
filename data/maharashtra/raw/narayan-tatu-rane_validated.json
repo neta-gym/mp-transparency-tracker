@@ -4,16 +4,16 @@
     "constituency": "Ratnagiri-Sindhudurg",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4619,
     "slug": "narayan-tatu-rane",
     "house": "lok_sabha",
     "sansad_member_id": 5704,
     "profile_url": null,
     "canonical_name": "Narayan Tatu Rane",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 72,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Narayan Tatu Rane\n\n### Overall Assessment\n\nNarayan Tatu Rane, BJP MP representing Ratnagiri-Sindhudurg constituency in Maharashtra, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with 50% attendance and limited legislative activity. The absence of critical financial data including assets and MPLADS utilization raises transparency concerns.\n\n### Fund Utilization & Development\n\nMPLADS data is completely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG's systemic findings for Maharashtra revealing Rs 1,558 crore in idle funds across district authorities. The audit identified concerning patterns including 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific data on Rane's fund utilization, constituents cannot assess development impact in Ratnagiri-Sindhudurg.\n\n### Financial Transparency\n\nAsset disclosure data is entirely missing, with no information on current assets, previous holdings, growth ratios, or net worth. This complete absence of financial transparency data prevents assessment of potential conflicts of interest or wealth accumulation patterns. MP compensation is documented at Rs 2.45 lakh monthly, but without asset context, overall financial standing remains opaque.\n\n### Legal & Criminal Standing\n\nRane maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the available data indicates no legal issues, the low confidence warning necessitates cautious interpretation.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with evidence grade 'C'. Attendance stands at exactly 50%, meeting the minimum threshold but indicating inconsistent participation. Legislative activity is limited with 14 questions raised, zero debate participations, and no private member bills introduced. This suggests minimal proactive legislative engagement beyond basic questioning functions. The absence of committee participation data further limits assessment of parliamentary contributions.\n\n### Public Engagement & Accessibility\n\nPublic engagement receives the lowest evidence grade 'D', indicating poor accessibility and communication with constituents. News coverage analysis shows 9 articles with neutral sentiment (no positive or negative coverage), suggesting limited media presence or public visibility. Social media activity data is unavailable, preventing assessment of digital engagement strategies. The low accessibility grade indicates constituents may face challenges in engaging with their representative.\n\n### Data Quality & Caveats\n\nMultiple automated warnings significantly limit this assessment's reliability:\n- Criminal record data has low confidence due to source unavailability\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is entirely unavailable\n- Committee participation data is absent due to potential Sansad profile unavailability\n- Legislative effectiveness data has low confidence\n\nEvidence sources include PRS, social media, and news outlets, but substantial gaps exist across multiple transparency dimensions.\n\n### Key Takeaway\n\nNarayan Tatu Rane's transparency profile is severely limited by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and committee participation. While maintaining a clean criminal record and minimal parliamentary attendance, the absence of financial transparency and development fund utilization data prevents meaningful assessment of his effectiveness as a public representative. The systemic issues identified by CAG audits in Maharashtra's fund utilization make the lack of MPLADS data particularly concerning for constituents seeking accountability in development spending.",
-  "validated_at": "2026-05-21T14:35:52.224692Z"
+  "validated_at": "2026-05-21T14:35:52.224692Z",
+  "assets": {
+    "total_assets": 1088739226.0,
+    "liabilities": 293710906.0,
+    "net_worth": 795028320.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4619",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 7,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 7,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4619",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.31,
+    "expended": 1.39,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:10.139582Z",
+        "notes": "Official eSAKSHI REST API — Works: 91 recommended, 55 sanctioned, 11 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 91,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 9.45578231292517
+  }
 }

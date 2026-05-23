@@ -4,16 +4,16 @@
     "constituency": "Barmer",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2547,
     "slug": "ummeda-ram-beniwal",
     "house": "lok_sabha",
     "sansad_member_id": 5762,
     "profile_url": null,
     "canonical_name": "Ummeda Ram Beniwal",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Ummeda Ram Beniwal\n\n### Overall Assessment\n\nUmmeda Ram Beniwal, Indian National Congress MP representing Barmer constituency in Rajasthan, presents a transparency profile with significant data gaps that limit comprehensive evaluation. While demonstrating perfect parliamentary attendance and active questioning behavior, critical information regarding assets, MPLADS utilization, and criminal record verification remains unavailable or unreliable.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This is particularly concerning given the CAG audit findings for Rajasthan, which identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without MPLADS data, it's impossible to determine if Beniwal's fund management aligns with or deviates from these concerning state-wide patterns. The MP's monthly compensation totals Rs 245,000, but transparency regarding discretionary fund deployment remains opaque.\n\n### Financial Transparency\n\nAsset disclosure presents a complete data void, with no information available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data significantly undermines public accountability standards expected from elected representatives. The lack of asset information prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\n\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), but this comes with a critical caveat: the automated system flags low confidence in criminal data due to potentially unavailable sources. This uncertainty means the clean record cannot be definitively verified, raising questions about data reliability rather than providing assurance of legal standing.\n\n### Parliamentary Performance\n\nBeniwal demonstrates exemplary parliamentary attendance at 100%, significantly above typical MP performance standards. Legislative engagement includes 33 questions raised and participation in 11 debates, indicating active constituency representation and policy engagement. However, no private bills were introduced, suggesting limited proactive legislative initiative. The absence of committee assignment data (flagged as unavailable Sansad profile) prevents evaluation of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n\nNews sentiment analysis reveals minimal media engagement, with only 10 articles identified—all categorized as neutral with no positive or negative coverage. This limited media presence suggests either low public profile or insufficient digital footprint tracking. The evidence grade for accessibility rates 'D', indicating poor transparency in public communication channels. No social media engagement metrics are provided, further limiting assessment of constituent outreach efforts.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight severe data reliability issues. Criminal record confidence is rated as low due to source unavailability. Asset data carries similar reliability concerns. MPLADS information is entirely missing despite being crucial for development accountability. Committee participation data is unavailable due to potential Sansad profile gaps. Parliament activity receives a 'C' evidence grade, while accessibility scores 'D', indicating substantial transparency deficits across multiple evaluation dimensions.\n\n### Key Takeaway\n\nUmmeda Ram Beniwal's transparency profile is characterized by exemplary parliamentary attendance but undermined by critical data gaps in financial disclosure, development fund utilization, and verified criminal record status. The perfect attendance and active questioning demonstrate commitment to parliamentary duties, but the absence of asset declaration and MPLADS data—combined with systemic CAG audit concerns in Rajasthan—raises significant transparency red flags. Voters lack essential information to evaluate financial probity and constituency development effectiveness, highlighting the need for improved disclosure compliance and data availability systems.",
-  "validated_at": "2026-05-21T14:21:22.088423Z"
+  "validated_at": "2026-05-21T14:21:22.088423Z",
+  "assets": {
+    "total_assets": 192765969.0,
+    "liabilities": 66244492.0,
+    "net_worth": 126521477.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2547",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2547",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.99,
+    "expended": 5.66,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:07.677459Z",
+        "notes": "Official eSAKSHI REST API — Works: 166 recommended, 161 sanctioned, 71 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 166,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 38.50340136054422
+  }
 }

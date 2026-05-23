@@ -4,16 +4,16 @@
     "constituency": "Tiruchirappalli",
     "state": "tamil nadu",
     "party": "Marumalarchi Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 196,
     "slug": "durai-vaiko",
     "house": "lok_sabha",
     "sansad_member_id": 5828,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 51,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Durai Vaiko\n\n### Overall Assessment\n\nDurai Vaiko, representing Tiruchirappalli constituency for the Marumalarchi Dravida Munnetra Kazhagam party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance and clean criminal record, substantial information unavailability across key transparency indicators raises concerns about overall accountability assessment reliability.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG audit context revealing systemic issues in Tamil Nadu's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Vaiko's constituency, voters cannot assess his development fund stewardship effectiveness.\n\n### Financial Transparency\n\nAsset declaration information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial disclosure significantly hampers transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure. Monthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point.\n\n### Legal & Criminal Standing\n\nVaiko maintains a clean legal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, confidence in this criminal record assessment is flagged as low due to potential source unavailability issues, suggesting this clean slate may reflect data gaps rather than definitive legal standing verification.\n\n### Parliamentary Performance\n\nParliamentary engagement demonstrates strong attendance commitment with 100% participation rate, indicating consistent presence in legislative proceedings. Active questioning behavior is evident with 18 questions raised, showing engagement in oversight functions. Participation in 10 debates reflects reasonable contribution to parliamentary discussions. However, zero private member bills introduced suggests limited legislative initiative beyond party-directed activities. Evidence quality for parliamentary data receives a 'C' grade, indicating moderate reliability with some verification limitations.\n\n### Public Engagement & Accessibility\n\nMedia presence analysis reveals neutral public engagement patterns with 10 news articles covering parliamentary activities, all categorized as neutral rather than positive or negative coverage. This suggests limited public visibility or impact in media discourse. Social media and accessibility data quality receives a 'D' grade, indicating poor information availability about constituent engagement mechanisms, public outreach programs, or digital communication strategies.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data reliability concerns:\n- Criminal record confidence is low due to source availability issues\n- Asset information shows low confidence levels across all categories\n- MPLADS data confidence is compromised, preventing fund utilization assessment\n- Committee membership information is entirely unavailable\n- Legislative effectiveness data shows low confidence levels\n\nEvidence grading reveals 'C' level confidence for parliamentary data and 'D' level for accessibility metrics. These limitations substantially constrain comprehensive transparency evaluation and suggest potential gaps in public information systems or disclosure compliance.\n\n### Key Takeaway\n\nWhile Durai Vaiko demonstrates strong parliamentary attendance and maintains apparent legal compliance, extensive data unavailability across critical transparency indicators - particularly MPLADS utilization, asset declarations, and public engagement metrics - prevents meaningful accountability assessment. The systemic fund management issues identified by CAG audits in Tamil Nadu underscore the importance of transparent MPLADS reporting, making the absence of such data particularly concerning. Voters lack sufficient verified information to evaluate his development fund stewardship, financial transparency, or constituent engagement effectiveness, highlighting broader transparency system weaknesses requiring addressed.",
-  "validated_at": "2026-05-21T14:35:45.194424Z"
+  "validated_at": "2026-05-21T14:35:45.194424Z",
+  "assets": {
+    "total_assets": 359084317.0,
+    "liabilities": 25569046.0,
+    "net_worth": 333515271.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=196",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=196",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.7,
+    "expended": 4.87,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:14.021519Z",
+        "notes": "Official eSAKSHI REST API — Works: 78 recommended, 56 sanctioned, 39 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 78,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 33.12925170068027
+  }
 }

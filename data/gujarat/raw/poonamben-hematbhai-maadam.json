@@ -4,16 +4,16 @@
     "constituency": "Jamnagar",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5028,
     "slug": "poonamben-hematbhai-maadam",
     "house": "lok_sabha",
     "sansad_member_id": 4751,
     "profile_url": null,
     "canonical_name": "Poonamben Hematbhai Maadam",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "criminal_record": {
@@ -32,48 +32,42 @@
     "immovable_assets": 0,
     "net_worth": 947002341.0,
     "confidence": 0.8,
-    "source": "myneta"
-  },
-  "mplads": {
-    "entitled": null,
-    "released": null,
-    "sanctioned": null,
-    "expended": null,
-    "source": "mplads",
-    "confidence": 0.0,
+    "source": "myneta",
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5028",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.7,
+    "expended": 1.54,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:25:20.153862Z",
-        "notes": "eSAKSHI data not available — all fetch strategies failed"
-      },
-      {
-        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-        "source_name": "data.gov.in",
-        "grade": "B",
-        "fetched_at": "2026-05-21T14:24:13.656694Z",
-        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-      },
-      {
-        "url": "https://dataful.in/datasets/18540/",
-        "source_name": "mplads_csv",
-        "grade": "E",
-        "fetched_at": "2026-05-21T14:24:13.653857Z",
-        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        "fetched_at": "2026-05-23T17:22:11.614961Z",
+        "notes": "Official eSAKSHI REST API — Works: 126 recommended, 103 sanctioned, 16 completed"
       }
     ],
     "works": [],
-    "works_count": 0,
-    "esakshi_coverage_start": null,
+    "works_count": 126,
+    "esakshi_coverage_start": "2023-04-01",
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-    "utilization_rate": null
+    "data_period_note": "",
+    "utilization_rate": 10.476190476190476
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -101,12 +95,17 @@
   "sources_consulted": [
     "prs",
     "social_media",
-    "news"
+    "news",
+    "myneta",
+    "mplads"
   ],
   "collected_at": "2026-05-21T14:25:20.153991Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D"
+    "accessibility": "D",
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
   },
   "cag_findings": [
     {

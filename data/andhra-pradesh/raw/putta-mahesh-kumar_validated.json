@@ -4,16 +4,16 @@
     "constituency": "Eluru",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5105,
     "slug": "putta-mahesh-kumar",
     "house": "lok_sabha",
     "sansad_member_id": 5726,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 36,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Putta Mahesh Kumar\n\n### Overall Assessment\nPutta Mahesh Kumar, Telugu Desam Party MP from Eluru, Andhra Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and moderate parliamentary attendance, substantial missing information across financial and developmental metrics raises concerns about transparency and accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on fund entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic issues in Andhra Pradesh, including Rs 1,558 crore in idle funds lying unspent across district authorities and concerning patterns of incomplete project execution (18% of sampled works abandoned or incomplete). Additionally, 34% of sampled utilization certificates lacked proper supporting documentation, suggesting potential mismanagement of public funds at the state level.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no information available on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of the MP's economic interests or potential conflicts. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset declarations, the complete financial picture remains opaque.\n\n### Legal & Criminal Standing\nPutta Mahesh Kumar maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the automated system flags low confidence in this criminal data due to potential source unavailability, suggesting this assessment may be incomplete.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 60% attendance, which meets the minimum threshold but leaves room for improvement. The MP has raised 51 questions in Parliament, demonstrating some engagement with legislative oversight functions. However, debate participation remains limited at just 3 instances, and no private member bills have been introduced, indicating constrained legislative initiative. Committee participation data is unavailable, limiting assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals limited but balanced media attention with 10 articles identified (9 neutral, 1 negative, 0 positive). This neutral coverage pattern suggests minimal controversial incidents but also limited positive publicity around developmental initiatives. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. Social media presence data is included in sources but specific metrics are not provided.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data quality concerns. Criminal record data carries low confidence due to source unavailability. Asset information shows low confidence, and MPLADS data is completely missing. Committee assignment data is unavailable, potentially due to Sansad profile inaccessibility. Legislative effectiveness metrics also show low confidence. The parliament evidence grade is 'C' and accessibility grade is 'D', indicating below-average data quality and transparency compliance. These gaps severely limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile Putta Mahesh Kumar maintains a clean legal record and demonstrates basic parliamentary engagement, the extensive absence of financial, developmental, and committee data creates significant transparency deficits. The lack of MPLADS information is particularly concerning given the scheme's constituency development importance. Combined with systemic fund management issues highlighted in CAG audits across Andhra Pradesh, voters lack essential information to evaluate their representative's effectiveness and financial accountability.",
-  "validated_at": "2026-05-21T14:24:18.583320Z"
+  "validated_at": "2026-05-21T14:24:18.583320Z",
+  "assets": {
+    "total_assets": 720851715.0,
+    "liabilities": 200430056.0,
+    "net_worth": 520421659.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5105",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5105",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.65,
+    "expended": 3.38,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:17:41.132238Z",
+        "notes": "Official eSAKSHI REST API — Works: 107 recommended, 92 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 107,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 22.993197278911566
+  }
 }

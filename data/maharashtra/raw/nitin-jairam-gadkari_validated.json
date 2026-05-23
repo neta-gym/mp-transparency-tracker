@@ -4,16 +4,16 @@
     "constituency": "Nagpur",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 329,
     "slug": "nitin-jairam-gadkari",
     "house": "lok_sabha",
     "sansad_member_id": 4923,
     "profile_url": null,
     "canonical_name": "Nitin Jairam Gadkari",
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Nitin Jairam Gadkari\n\n### Overall Assessment\nNitin Jairam Gadkari, BJP MP from Nagpur, Maharashtra, serves as a Cabinet Minister in the Lok Sabha with a monthly compensation of Rs 2,45,000. However, comprehensive assessment is severely hampered by significant data gaps across all transparency metrics, with evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicating poor data availability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for constituency development assessment. However, CAG audit findings from Maharashtra reveal systemic issues in fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, suggesting broader challenges in the state's development program implementation.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial disclosure data significantly undermines transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), though this comes with a low confidence warning indicating potential data source unavailability. While the clean record appears positive, the data quality concerns require cautious interpretation.\n\n### Parliamentary Performance\nParliamentary activity metrics are largely unavailable, with attendance percentage, questions asked, debates participated, and private bills introduced all showing zero or missing values. As a serving Cabinet Minister, lower parliamentary attendance may be expected due to executive responsibilities, but the complete absence of activity data prevents meaningful performance evaluation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse engagement. The 'D' grade for accessibility indicates poor transparency in public communication and information sharing. No committee participation data is available, further limiting assessment of legislative engagement beyond ministerial duties.\n\n### Data Quality & Caveats\nMultiple automated flags indicate severe data reliability issues:\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information shows low confidence warnings\n- MPLADS data reliability is questionable\n- Parliamentary activity data has low confidence ratings\n- Committee information is entirely absent\n- Legislative effectiveness data shows low confidence\n\nThese widespread data gaps significantly limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile Gadkari maintains a clean criminal record and serves in a senior ministerial position, the comprehensive lack of transparency data across assets, MPLADS utilization, and parliamentary activity creates substantial accountability concerns. The systematic data unavailability, rather than indicating transparency, suggests potential gaps in disclosure mechanisms. Maharashtra's broader development fund management issues, evidenced by CAG findings of idle funds and incomplete works, underscore the importance of improved financial oversight and transparency at both state and constituency levels.",
-  "validated_at": "2026-05-21T14:26:46.552381Z"
+  "validated_at": "2026-05-21T14:26:46.552381Z",
+  "assets": {
+    "total_assets": 280317321.0,
+    "liabilities": 62230174.0,
+    "net_worth": 218087147.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=329",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 10,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 10,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=329",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.62,
+    "expended": 3.1,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:12.401317Z",
+        "notes": "Official eSAKSHI REST API — Works: 53 recommended, 24 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 53,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 21.08843537414966
+  }
 }

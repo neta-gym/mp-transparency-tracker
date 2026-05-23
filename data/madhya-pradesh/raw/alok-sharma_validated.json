@@ -4,16 +4,16 @@
     "constituency": "Bhopal",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3941,
     "slug": "alok-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 5674,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 56,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Alok Sharma\n\n### Overall Assessment\nAlok Sharma, BJP MP representing Bhopal constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, critical information regarding assets and development fund utilization remains unavailable, raising concerns about financial transparency reporting.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, preventing assessment of development project effectiveness. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG report (No. 31) identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Sharma's constituency, development impact cannot be evaluated.\n\n### Financial Transparency\nAsset disclosure presents complete data unavailability, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of financial growth patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2.45 lakh, consistent with standard MP remuneration. The absence of asset data raises questions about compliance with mandatory disclosure requirements.\n\n### Legal & Criminal Standing\nSharma maintains an exemplary legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting this information should be verified through additional channels. This clean record, if accurate, represents a positive aspect of his profile.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 90% attendance rate, demonstrating consistent presence in proceedings. Legislative participation includes 27 questions raised and 7 debate contributions, indicating active engagement in parliamentary discussions. However, no private member bills were introduced, suggesting limited legislative initiative. The evidence grade for parliamentary data is rated 'C', indicating moderate confidence levels. No committee participation data is available due to potential Sansad profile unavailability.\n\n### Public Engagement & Accessibility\nPublic accessibility receives a 'D' evidence grade, indicating poor data quality and limited transparency in public engagement metrics. Media coverage analysis reveals 10 articles with predominantly neutral tone (9 neutral, 1 negative, 0 positive), suggesting limited public discourse around his work. The mixed/neutral coverage pattern indicates neither significant positive achievements nor major controversies have captured media attention, pointing to a relatively low public profile.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns. Criminal record data carries low confidence warnings due to source unavailability. Asset information is flagged with low confidence, representing a critical transparency gap. MPLADS data is entirely missing, preventing development assessment. Committee participation data is unavailable due to potential Sansad profile issues. Legislative effectiveness data also carries low confidence ratings. These limitations substantially constrain comprehensive evaluation capabilities and suggest potential systemic issues with transparency reporting mechanisms.\n\n### Key Takeaway\nAlok Sharma's transparency profile is severely hampered by critical data gaps, particularly in financial disclosure and development fund utilization—key areas for public accountability. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset declarations and MPLADS data raises significant transparency concerns. The CAG audit context highlighting systemic fund management issues in Madhya Pradesh makes the lack of constituency-specific MPLADS data particularly problematic. Enhanced disclosure compliance and data availability would be essential for meaningful public accountability assessment.",
-  "validated_at": "2026-05-21T14:22:31.302851Z"
+  "validated_at": "2026-05-21T14:22:31.302851Z",
+  "assets": {
+    "total_assets": 88625237.0,
+    "liabilities": 13024310.0,
+    "net_worth": 75600927.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3941",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3941",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.29,
+    "expended": 2.56,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:22.852236Z",
+        "notes": "Official eSAKSHI REST API — Works: 62 recommended, 51 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 62,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 17.41496598639456
+  }
 }

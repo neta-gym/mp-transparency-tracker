@@ -4,16 +4,16 @@
     "constituency": "Bardhaman-Durgapur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5195,
     "slug": "azad-kirti-jha",
     "house": "lok_sabha",
     "sansad_member_id": 25,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Azad Kirti Jha\n\n### Overall Assessment\n\nAzad Kirti Jha, representing Bardhaman-Durgapur constituency in West Bengal as an All India Trinamool Congress MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps across most key indicators. While demonstrating perfect parliamentary attendance, substantial information voids in asset disclosure, MPLADS utilization, and criminal record verification limit comprehensive assessment capabilities.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG audit context revealing systemic issues in West Bengal's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MP-specific MPLADS data, it's impossible to assess whether Jha's constituency development aligns with or deviates from these concerning state-wide patterns.\n\n### Financial Transparency\n\nAsset disclosure presents a complete information void, with no data available for current or previous asset declarations, preventing any analysis of financial growth, wealth accumulation patterns, or potential conflicts of interest. The monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration. However, the absence of asset data significantly undermines financial transparency assessment capabilities.\n\n### Legal & Criminal Standing\n\nCriminal record data indicates zero cases across all categories (total, serious, pending, disposed, and convictions). However, this comes with a critical caveat - the source data carries low confidence warnings, suggesting potential data unavailability rather than confirmed clean records. This uncertainty prevents definitive assessment of legal standing and requires verification through alternative sources for accurate evaluation.\n\n### Parliamentary Performance\n\nJha demonstrates exceptional attendance with a perfect 100% record, indicating strong commitment to parliamentary duties. Parliamentary participation includes 28 questions raised and 11 debate contributions, suggesting moderate engagement in legislative discourse. However, no private member bills were introduced, and committee participation data is unavailable due to potential Sansad profile inaccessibility, limiting comprehensive assessment of legislative effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public engagement, with 10 news articles showing no positive or negative sentiment bias. This neutral coverage pattern suggests limited public visibility or controversy. However, the evidence grade for accessibility is rated 'D', indicating poor public engagement metrics. Social media and broader public outreach data quality remains insufficient for thorough evaluation of constituent accessibility.\n\n### Data Quality & Caveats\n\nMultiple automated flags indicate significant data reliability issues:\n- Criminal record data carries low confidence warnings\n- Asset information is completely unavailable\n- MPLADS data is entirely missing\n- Committee participation data is inaccessible\n- Legislative effectiveness data has low confidence ratings\n\nEvidence grades are concerning: parliamentary performance rated 'C' and accessibility rated 'D', suggesting substantial gaps in available information. These limitations severely constrain comprehensive transparency assessment capabilities.\n\n### Key Takeaway\n\nAzad Kirti Jha's transparency profile is characterized by perfect parliamentary attendance and moderate legislative participation, offset by critical information voids in asset disclosure, development fund utilization, and verified criminal record status. The absence of MPLADS data is particularly concerning given documented systemic fund management issues in West Bengal. While neutral media coverage suggests absence of major controversies, poor accessibility ratings and extensive data gaps prevent comprehensive transparency evaluation. Enhanced data collection and verification mechanisms are essential for meaningful public accountability assessment.",
-  "validated_at": "2026-05-21T14:25:33.132284Z"
+  "validated_at": "2026-05-21T14:25:33.132284Z",
+  "assets": {
+    "total_assets": 102014033.0,
+    "liabilities": 5738812.0,
+    "net_worth": 96275221.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5195",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5195",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.97,
+    "released": 17.97,
+    "sanctioned": 7.67,
+    "expended": 3.28,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:41.668567Z",
+        "notes": "Official eSAKSHI REST API — Works: 112 recommended, 82 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 112,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 18.252643294379524
+  }
 }

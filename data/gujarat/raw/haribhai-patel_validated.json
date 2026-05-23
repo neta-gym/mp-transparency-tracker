@@ -4,16 +4,16 @@
     "constituency": "Mahesana",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3774,
     "slug": "haribhai-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5560,
     "profile_url": null,
     "canonical_name": "Haribhai Patel",
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 62,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Haribhai Patel\n\n### Overall Assessment\nHaribhai Patel, BJP MP from Mahesana, Gujarat, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key areas. While maintaining a clean criminal record and demonstrating good legislative engagement, the absence of critical financial information limits comprehensive assessment of his accountability and development work.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing evaluation of constituency development work. This is concerning given that CAG audits have identified systemic issues with fund utilization across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. For Gujarat specifically, 7 relevant CAG findings highlight ongoing challenges with development fund management, making transparent reporting crucial.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected officials and essential for public accountability. The monthly compensation of Rs 2,45,000 is the only available financial figure, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nPatel maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries a low confidence warning due to potential source unavailability, requiring cautious interpretation.\n\n### Parliamentary Performance\nParliamentary engagement shows positive indicators with 90% attendance, significantly above average legislative participation. Patel has asked 42 questions and participated in 4 debates, demonstrating active engagement with legislative processes. However, he has introduced zero private member bills, indicating limited initiative in legislative proposals. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public visibility or polarization. The accessibility evidence grade is poor ('D'), indicating challenges in public outreach or communication transparency. No committee participation data is available, limiting assessment of specialized legislative work.\n\n### Data Quality & Caveats\nThe analysis faces significant data quality limitations with multiple automated warnings:\n- Criminal record data has low confidence due to source availability issues\n- Asset information is completely absent with low confidence ratings\n- MPLADS data is unavailable despite being crucial for constituency development assessment\n- Committee and legislative effectiveness data are missing\n- Sources are limited to PRS (parliamentary data), social media, and news coverage\n\n### Key Takeaway\nWhile Haribhai Patel demonstrates strong parliamentary attendance and maintains a clean criminal record, his transparency profile is severely hampered by missing financial and development data. The absence of asset disclosures and MPLADS information, combined with entirely neutral media coverage, suggests limited public accountability mechanisms. Given systemic fund utilization issues identified by CAG audits in Gujarat, the lack of transparent development fund reporting is particularly concerning for effective constituency representation.",
-  "validated_at": "2026-05-21T14:27:04.491833Z"
+  "validated_at": "2026-05-21T14:27:04.491833Z",
+  "assets": {
+    "total_assets": 39863356.0,
+    "liabilities": 1266000.0,
+    "net_worth": 38597356.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.83,
+    "expended": 3.32,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:03.770720Z",
+        "notes": "Official eSAKSHI REST API — Works: 497 recommended, 386 sanctioned, 142 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 497,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 22.585034013605444
+  }
 }

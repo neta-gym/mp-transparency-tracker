@@ -4,16 +4,16 @@
     "constituency": "Samastipur",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5057,
     "slug": "smt-shambhavi",
     "house": "lok_sabha",
     "sansad_member_id": 5685,
     "profile_url": null,
     "canonical_name": "Smt. Shambhavi",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 25,
     "photo_url": null
   },
   "findings": {
@@ -432,5 +432,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Smt. Shambhavi\n\n### Overall Assessment\nSmt. Shambhavi, representing Samastipur constituency in Bihar under the Lok Jan Shakti Party (Ram Vilas), presents a limited transparency profile due to significant data gaps across key performance indicators. While maintaining strong parliamentary attendance at 90%, comprehensive assessment is hindered by missing financial and developmental fund data. Her clean criminal record and active legislative participation are positive indicators, though broader transparency metrics remain unavailable.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of this data is particularly concerning in Bihar's context, where CAG audits have identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to assess Smt. Shambhavi's developmental impact or fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on current or previous asset values, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is her monthly compensation of Rs 2,45,000. This data gap prevents assessment of potential conflicts of interest or wealth accumulation patterns during her tenure.\n\n### Legal & Criminal Standing\nSmt. Shambhavi maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, the data comes with a warning flag indicating \"low confidence in criminal data\" with potentially unavailable sources. While the clean record is positive, the data quality caveat suggests this assessment may be incomplete.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at a strong 90%, demonstrating consistent presence in the Lok Sabha. Legislative activity includes 36 questions raised and participation in 14 debates, indicating moderate engagement with parliamentary processes. However, she has introduced zero private member bills, suggesting limited proactive legislative initiative. The parliament evidence grade of 'C' and flags about low confidence in legislative effectiveness data indicate these metrics may not capture her complete parliamentary contributions.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are severely limited. News coverage analysis reveals only 2 articles with neutral sentiment (no positive or negative coverage identified). This minimal media presence suggests limited public visibility or engagement initiatives. The accessibility evidence grade of 'D' indicates poor performance in public outreach and transparency measures. No social media data or committee participation information is available, further limiting assessment of public engagement efforts.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- Criminal record data flagged as low confidence with potentially unavailable sources\n- Asset information completely missing with low confidence warnings\n- MPLADS data entirely unavailable despite high importance for constituency development\n- No committee membership data found, suggesting incomplete Sansad profile availability\n- Legislative effectiveness data carries low confidence flags\n- Evidence grades of 'C' for parliament and 'D' for accessibility indicate substantial data limitations\n\nThese gaps severely constrain comprehensive transparency evaluation and suggest systematic data collection or disclosure challenges.\n\n### Key Takeaway\nSmt. Shambhavi's transparency profile is characterized by strong parliamentary attendance (90%) and a clean criminal record, but is significantly undermined by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and public engagement metrics. While her legislative participation appears adequate with 36 questions and 14 debates, the absence of financial transparency and developmental fund data creates substantial accountability concerns. Given Bihar's documented challenges with fund utilization and the systemic issues identified in CAG audits, the lack of MPLADS data is particularly problematic. Improved data disclosure and transparency measures are essential for meaningful public accountability assessment.",
-  "validated_at": "2026-05-21T14:35:30.136471Z"
+  "validated_at": "2026-05-21T14:35:30.136471Z",
+  "assets": {
+    "total_assets": 45406719.0,
+    "liabilities": 17250997.0,
+    "net_worth": 28155722.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5057",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5057",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.48,
+    "expended": 0.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:03.814617Z",
+        "notes": "Official eSAKSHI REST API — Works: 133 recommended, 59 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 133,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.537414965986395
+  }
 }

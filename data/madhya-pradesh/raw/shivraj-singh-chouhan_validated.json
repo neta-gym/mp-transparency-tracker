@@ -4,16 +4,16 @@
     "constituency": "Vidisha",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4448,
     "slug": "shivraj-singh-chouhan",
     "house": "lok_sabha",
     "sansad_member_id": 96,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shivraj Singh Chouhan\n\n### Overall Assessment\nShivraj Singh Chouhan, BJP MP from Vidisha (Madhya Pradesh), presents a transparency profile hampered by significant data gaps across all key performance indicators. While he maintains a clean criminal record and serves in a ministerial capacity, comprehensive assessment is severely limited by unavailable or low-confidence data across financial, parliamentary, and development metrics. The available evidence suggests neutral public perception but lacks substantive performance data.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This complete data absence is particularly concerning given the systemic issues identified in CAG audits for Madhya Pradesh. The 2010 CAG audit (Report 31) revealed Rs 1,558 crore in idle funds across state district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether Chouhan's constituency development spending addresses these historical inefficiencies.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for public representatives and crucial for assessing potential conflicts of interest. The only available financial information is the standard monthly compensation of Rs 245,000, which provides no insight into the MP's broader financial profile or compliance with disclosure requirements.\n\n### Legal & Criminal Standing\nChouhan maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, the data source confidence is flagged as low, indicating potential gaps in criminal record verification. While the available data suggests no legal issues, the low confidence rating requires cautious interpretation of this apparently clean record.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with attendance percentage unavailable and zero recorded questions, debates, or private bills. While Chouhan's ministerial status may legitimately reduce parliamentary floor participation due to executive responsibilities, the complete absence of quantifiable parliamentary engagement metrics prevents meaningful performance assessment. The parliament evidence grade of 'C' indicates moderate data quality concerns that limit reliable evaluation.\n\n### Public Engagement & Accessibility\nMedia sentiment analysis reveals neutral public perception based on 10 articles (1 positive, 0 negative, 9 neutral), suggesting neither particularly strong public approval nor significant controversy. However, the accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement efforts. No committee participation data is available due to potentially unavailable Sansad profiles, further limiting assessment of his legislative engagement beyond ministerial duties.\n\n### Data Quality & Caveats\nThis profile suffers from extensive data quality issues across all major categories:\n- Criminal record data flagged with low confidence warnings\n- Complete absence of asset declaration information  \n- Unavailable MPLADS utilization data despite constituency development being a core MP responsibility\n- Missing parliamentary activity metrics beyond basic attendance\n- No committee participation data\n- Accessibility grade of 'D' indicating poor public information availability\n\nThese data gaps severely limit the reliability of any comprehensive transparency assessment.\n\n### Key Takeaway\nShivraj Singh Chouhan's transparency profile is characterized by significant information gaps that prevent meaningful performance evaluation across most key metrics. While he maintains an apparently clean criminal record and neutral public perception, the absence of crucial data on assets, MPLADS utilization, and detailed parliamentary activity raises serious questions about transparency compliance and public accountability. The systemic issues identified in Madhya Pradesh's fund utilization through CAG audits underscore the importance of transparent MPLADS reporting, making the complete absence of this data particularly concerning for constituents seeking accountability from their elected representative.",
-  "validated_at": "2026-05-21T14:33:37.171527Z"
+  "validated_at": "2026-05-21T14:33:37.171527Z",
+  "assets": {
+    "total_assets": 89852874.0,
+    "liabilities": 6411905.0,
+    "net_worth": 83440969.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4448",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4448",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.78,
+    "expended": 3.57,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:45.647223Z",
+        "notes": "Official eSAKSHI REST API — Works: 79 recommended, 76 sanctioned, 8 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 79,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 24.285714285714285
+  }
 }

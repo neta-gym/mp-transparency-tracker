@@ -4,16 +4,16 @@
     "constituency": "Raver",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6921,
     "slug": "raksha-nikhil-khadse",
     "house": "lok_sabha",
     "sansad_member_id": 4722,
     "profile_url": null,
     "canonical_name": "Raksha Nikhil Khadse",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 36,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Raksha Nikhil Khadse\n\n### Overall Assessment\nRaksha Nikhil Khadse represents the Raver constituency in Maharashtra as a Bharatiya Janata Party MP in the Lok Sabha. Her transparency profile is significantly hampered by widespread data unavailability across critical performance indicators. While she maintains a clean criminal record with zero cases, comprehensive assessment of her effectiveness as a public representative is severely limited due to missing information on parliamentary activity, asset declarations, and development fund utilization.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data for Raksha Nikhil Khadse is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is concerning given Maharashtra's documented challenges with development fund management. CAG audit findings reveal systemic issues statewide, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader governance challenges that may affect her constituency's development outcomes.\n\n### Financial Transparency\nAsset declaration data is entirely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to assess potential conflicts of interest or wealth accumulation patterns during her tenure. The only available financial information is her monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration. The lack of asset data significantly undermines public accountability and transparency expectations for elected representatives.\n\n### Legal & Criminal Standing\nRaksha Nikhil Khadse maintains a completely clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the information may not be comprehensive or up-to-date. While the clean record appears positive, the data quality concerns require cautious interpretation.\n\n### Parliamentary Performance\nParliamentary activity data is entirely unavailable, with no information on attendance rates, questions asked, debates participated in, or private bills introduced. The profile notes that she holds ministerial position, which typically results in lower attendance due to executive duties, but specific performance metrics remain unknown. This complete absence of parliamentary performance data makes it impossible to evaluate her legislative effectiveness or constituency representation quality. The evidence grade of 'C' for parliamentary data reflects these significant limitations.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 10 articles with neutral sentiment - all articles classified as neutral with zero positive or negative coverage. This suggests limited media attention or engagement, which may indicate either effective non-controversial governance or insufficient public visibility. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement mechanisms. No information is available on committee participation, public forums, or constituent interaction initiatives, limiting assessment of her accessibility to the public she serves.\n\n### Data Quality & Caveats\nThe transparency profile suffers from severe data quality issues across multiple domains. Automated flags indicate low confidence in criminal records, assets, MPLADS, and parliamentary activity data. Committee information is completely unavailable, potentially due to inaccessible Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These widespread data gaps significantly limit the reliability of any assessment. The evidence grades of 'C' for parliament and 'D' for accessibility reflect these substantial limitations in available information.\n\n### Key Takeaway\nRaksha Nikhil Khadse's transparency profile is characterized by extensive data unavailability rather than substantive performance indicators. While maintaining a clean criminal record, the absence of crucial information on parliamentary performance, asset declarations, and development fund utilization severely limits public accountability assessment. The systemic data gaps suggest either poor record-keeping, limited digital transparency infrastructure, or restricted information access - all of which undermine democratic oversight. Citizens and stakeholders cannot effectively evaluate her performance based on available information, highlighting the need for improved transparency mechanisms and comprehensive data disclosure by elected representatives.",
-  "validated_at": "2026-05-21T14:29:50.752578Z"
+  "validated_at": "2026-05-21T14:29:50.752578Z",
+  "assets": {
+    "total_assets": 182117790.0,
+    "liabilities": 7736381.0,
+    "net_worth": 174381409.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6921",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6921",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.31,
+    "released": 15.31,
+    "sanctioned": 1.2,
+    "expended": 0.59,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:18.098883Z",
+        "notes": "Official eSAKSHI REST API — Works: 9 recommended, 7 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 9,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.8536903984323967
+  }
 }

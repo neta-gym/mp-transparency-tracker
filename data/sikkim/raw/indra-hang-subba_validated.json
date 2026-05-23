@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Indra Hang Subba\n\n### Overall Assessment\nIndra Hang Subba, a 35-year-old Lok Sabha MP from Sikkim representing the Sikkim Krantikari Morcha party, presents a clean legal profile with moderate parliamentary engagement. His transparency record shows mixed data quality across key performance indicators, with reliable information on criminal background and assets but significant gaps in fund utilization and committee participation data.\n\n### Fund Utilization & Development\nMPLADS data for MP Subba is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings revealing systemic issues in fund management across states. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of works remaining abandoned or incomplete. Without MPLADS transparency data, it's impossible to assess MP Subba's development fund performance against these benchmarks.\n\n### Financial Transparency\nMP Subba declared total assets of Rs 1.48 crore with a net worth of Rs 98.45 lakh. However, no previous asset declaration data is available, preventing analysis of wealth accumulation patterns or growth ratios during his tenure. His monthly compensation totals Rs 2.45 lakh. The asset declaration appears complete but lacks the comparative data necessary for comprehensive financial transparency assessment.\n\n### Legal & Criminal Standing\nMP Subba maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This represents full compliance with legal standards and suggests no integrity concerns from a criminal justice perspective.\n\n### Parliamentary Performance\nMP Subba demonstrates moderate parliamentary engagement with 85% attendance, which exceeds typical benchmarks for active participation. He has raised 15 questions and participated in 3 debates, indicating reasonable engagement in legislative discourse. However, he has not introduced any private member bills, suggesting limited initiative in legislative drafting. No committee membership data is available, indicating either non-participation or data unavailability, which limits assessment of his specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles). This neutral coverage pattern suggests either limited media engagement or absence of controversial positions. The lack of polarized coverage could indicate effective constituency service without major public disputes, though it may also reflect limited visibility in public discourse. No social media engagement metrics or constituency accessibility data are available for comprehensive public engagement assessment.\n\n### Data Quality & Caveats\nThe transparency assessment faces significant limitations due to data quality issues. Evidence grades range from B-level reliability for criminal records and assets to D-level for accessibility metrics. Critical gaps include: complete absence of MPLADS data (flagged as low confidence), missing committee participation records, unavailable previous asset declarations for growth analysis, and limited legislative effectiveness metrics. The Sansad profile appears unavailable, contributing to information gaps. These limitations substantially constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nMP Indra Hang Subba presents a profile of basic compliance with clean legal standing and moderate parliamentary participation, but significant data gaps—particularly regarding fund utilization and committee work—prevent full transparency assessment. While his 85% attendance and question-raising activity demonstrate engagement, the complete absence of MPLADS data and neutral-only media coverage suggest either limited development impact visibility or inadequate transparency mechanisms. Enhanced data disclosure, particularly regarding constituency development funds and specialized parliamentary contributions, would significantly improve his transparency profile.",
-  "validated_at": "2026-05-21T14:22:12.372986Z"
+  "validated_at": "2026-05-21T14:22:12.372986Z",
+  "assets": {
+    "total_assets": 14845772.0,
+    "liabilities": 5000000.0,
+    "net_worth": 9845772.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=484",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=484",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.2,
+    "released": 15.2,
+    "sanctioned": 10.08,
+    "expended": 9.46,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:08.718722Z",
+        "notes": "Official eSAKSHI REST API — Works: 68 recommended, 61 sanctioned, 10 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 68,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 62.236842105263165
+  }
 }

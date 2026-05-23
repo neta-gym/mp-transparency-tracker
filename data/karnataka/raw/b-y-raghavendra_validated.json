@@ -4,16 +4,16 @@
     "constituency": "Shimoga",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4005,
     "slug": "b-y-raghavendra",
     "house": "lok_sabha",
     "sansad_member_id": 4570,
     "profile_url": null,
     "canonical_name": "B Y Raghavendra",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 50,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: B Y Raghavendra\n\n### Overall Assessment\nB Y Raghavendra, BJP MP from Shimoga, Karnataka, presents a limited transparency profile with significant data gaps across most assessment categories. While maintaining clean criminal records and decent parliamentary attendance (80%), the absence of critical financial and developmental data severely constrains comprehensive evaluation of his performance as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given the ₹5 crore annual MPLADS allocation per MP. The absence of utilization metrics prevents assessment of developmental impact in Shimoga constituency.\n\nKarnataka faces systemic MPLADS implementation challenges highlighted in CAG audits, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, raising concerns about effective fund deployment at the state level.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no current or previous asset valuations available. This prevents analysis of wealth accumulation patterns or potential conflicts of interest. The MP receives standard parliamentary compensation of ₹2.45 lakh monthly, but without asset declarations, comprehensive financial transparency assessment is impossible.\n\n### Legal & Criminal Standing\nRaghavendra maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 80% attendance rate, indicating reasonable participation in House proceedings. Legislative activity remains limited with 21 questions raised, 2 debate participations, and no private member bills introduced. No committee assignment data is available, limiting assessment of specialized parliamentary contributions.\n\nThe evidence grade for parliamentary performance is rated 'C', suggesting moderate reliability but potential data gaps in comprehensive activity tracking.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely constrained by data limitations. News coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited media visibility or public discourse engagement. Social media presence and constituent accessibility metrics are not available.\n\nAccessibility evidence grade is rated 'D', indicating poor data availability for meaningful assessment of public engagement effectiveness.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues:\n- Criminal record data has low source confidence\n- Asset information is entirely missing with low confidence ratings\n- MPLADS data is unavailable despite being critical for MP performance assessment\n- Committee participation data is missing due to potential Sansad profile unavailability\n- Legislative effectiveness assessment has low confidence levels\n\nEvidence grades range from 'C' for parliamentary data to 'D' for accessibility metrics, indicating substantial data quality concerns across assessment categories.\n\n### Key Takeaway\nB Y Raghavendra's transparency profile is characterized by clean criminal records and adequate parliamentary attendance but is severely undermined by missing critical financial and developmental data. The absence of asset disclosures and MPLADS utilization information prevents meaningful assessment of fiscal responsibility and constituency development impact. While maintaining basic parliamentary participation, the lack of comprehensive transparency data raises concerns about accountability standards and public access to performance metrics. Enhanced data collection and disclosure mechanisms are essential for enabling informed citizen evaluation of his representation effectiveness in Shimoga constituency.",
-  "validated_at": "2026-05-21T14:31:35.174751Z"
+  "validated_at": "2026-05-21T14:31:35.174751Z",
+  "assets": {
+    "total_assets": 737145310.0,
+    "liabilities": 136106691.0,
+    "net_worth": 601038619.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4005",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4005",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.61,
+    "expended": 6.13,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:07.720008Z",
+        "notes": "Official eSAKSHI REST API — Works: 248 recommended, 191 sanctioned, 40 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 248,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 41.70068027210884
+  }
 }

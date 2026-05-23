@@ -4,16 +4,16 @@
     "constituency": "Rohtak",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8497,
     "slug": "deepender-singh-hooda",
     "house": "lok_sabha",
     "sansad_member_id": 4207,
     "profile_url": null,
     "canonical_name": "Deepender Singh Hooda",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Deepender Singh Hooda\n\n### Overall Assessment\nDeepender Singh Hooda, the Indian National Congress MP from Rohtak, Haryana, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (90.0%), the absence of critical financial and developmental data raises concerns about transparency reporting. The MP's profile shows no criminal concerns but lacks substantive information across multiple accountability metrics.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Rohtak constituency. The absence of such fundamental data makes it impossible to evaluate local development impact or fund management effectiveness.\n\nCAG audit reports highlight systemic issues in Haryana's fund utilization: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings underscore the importance of transparent MPLADS reporting, making the data absence particularly concerning.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information on current holdings, previous assets, growth ratios, or net worth. This represents a fundamental transparency failure, as asset disclosure is mandatory for elected representatives. The MP's monthly compensation stands at Rs 2.45 lakh, but without asset data, comprehensive financial accountability assessment remains impossible.\n\n### Legal & Criminal Standing\nDeepender Singh Hooda maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. Despite this caveat, available information indicates no legal impediments to parliamentary service.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at a commendable 90.0%, demonstrating consistent participation in House proceedings. However, active contribution metrics are limited: only 8 questions raised and 8 debate participations, with zero private bills introduced. This suggests minimal legislative initiative beyond attendance. No committee membership data is available, preventing assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public visibility with 10 news articles showing no positive or negative sentiment bias. This suggests limited media engagement or controversial positions. However, the evidence grade for accessibility is poor (D), indicating insufficient data on citizen outreach, constituency interaction, or digital presence. No social media engagement metrics are available despite being listed as a data source.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to poor data quality across multiple domains. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Evidence grades are concerning: parliamentary performance rated C and accessibility rated D. The absence of committee information suggests potential Sansad profile unavailability, while legislative effectiveness data carries low confidence ratings.\n\nThese data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in MP accountability reporting. The absence of mandatory disclosure information (assets, MPLADS) is particularly problematic for public accountability.\n\n### Key Takeaway\nWhile Deepender Singh Hooda maintains clean legal standing and good parliamentary attendance, severe data gaps across financial disclosures, development funds, and public engagement create a transparency deficit that undermines comprehensive accountability assessment. The MP's profile exemplifies the challenges in evaluating elected representative performance when mandatory disclosure mechanisms fail to provide accessible, reliable information to citizens.",
-  "validated_at": "2026-05-21T14:23:43.760674Z"
+  "validated_at": "2026-05-21T14:23:43.760674Z",
+  "assets": {
+    "total_assets": 692558771.0,
+    "liabilities": 2318344.0,
+    "net_worth": 690240427.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8497",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8497",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.49,
+    "expended": 4.88,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:14.439645Z",
+        "notes": "Official eSAKSHI REST API — Works: 142 recommended, 127 sanctioned, 32 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 142,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 33.197278911564624
+  }
 }

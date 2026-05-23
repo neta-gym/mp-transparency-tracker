@@ -4,16 +4,16 @@
     "constituency": "Karnal",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8552,
     "slug": "manohar-lal",
     "house": "lok_sabha",
     "sansad_member_id": 5792,
     "profile_url": null,
     "canonical_name": "Manohar Lal",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 70,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Manohar Lal\n\n### Overall Assessment\nManohar Lal, BJP MP from Karnal (Haryana) and sitting Lok Sabha member, presents a transparency profile with significant data gaps across most performance metrics. While his criminal record appears clean with zero cases, the lack of substantive data on assets, MPLADS utilization, and parliamentary activity raises concerns about information accessibility. His ministerial status may explain lower parliamentary attendance expectations, but comprehensive performance evaluation remains challenging due to data limitations.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. However, relevant CAG audit findings for Haryana highlight systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential implementation challenges that may affect local development programs, though specific impact on Karnal constituency cannot be determined without MP-specific data.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on total assets, previous declarations, growth patterns, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation or potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration. Without baseline asset information, monitoring financial propriety becomes impossible.\n\n### Legal & Criminal Standing\nManohar Lal maintains a clean legal record with zero total cases, including no serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the reported clean slate is positive, the reliability caveat suggests this assessment should be treated with caution.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with 0 recorded questions, debates, and private bills. Attendance percentage is unavailable. As a sitting minister, lower attendance expectations may apply due to executive duties, but the complete absence of legislative participation metrics raises questions about parliamentary engagement. The 'C' grade for parliament data quality indicates moderate confidence in available information, but the comprehensive lack of activity data suggests either poor record-keeping or minimal parliamentary participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited but balanced public attention. The accessibility grade of 'D' suggests poor public information availability and potentially limited citizen engagement mechanisms. No committee participation data is available, indicating either absence from parliamentary committees or unavailable profile information on the Sansad website.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability issues:\n- Low confidence warnings across criminal records, assets, MPLADS, and parliamentary activity\n- Missing committee information due to potentially unavailable Sansad profiles\n- Evidence grades of 'C' for parliament data and 'D' for accessibility indicate substantial information gaps\n\nThese limitations severely constrain comprehensive transparency assessment and suggest systemic issues with data collection or disclosure practices.\n\n### Key Takeaway\nManohar Lal's transparency profile is characterized by a clean criminal record but substantial information voids across financial, developmental, and parliamentary performance metrics. While his ministerial status may explain some activity patterns, the pervasive data unavailability raises serious transparency concerns. The neutral media coverage and poor accessibility ratings suggest limited public engagement visibility. Without comprehensive asset disclosure, MPLADS utilization data, and detailed parliamentary participation records, stakeholders cannot adequately assess his performance as a public representative. Improved data disclosure and systematic information management are essential for meaningful transparency evaluation.",
-  "validated_at": "2026-05-21T14:25:12.358179Z"
+  "validated_at": "2026-05-21T14:25:12.358179Z",
+  "assets": {
+    "total_assets": 25442914.0,
+    "liabilities": 0.0,
+    "net_worth": 25442914.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8552",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8552",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.9,
+    "expended": 0.36,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:17.758987Z",
+        "notes": "Official eSAKSHI REST API — Works: 19 recommended, 18 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 19,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 2.4489795918367347
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Sidhi",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1,
     "slug": "rajesh-mishra",
     "house": "lok_sabha",
     "sansad_member_id": 5579,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 66,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rajesh Mishra\n\n### Overall Assessment\nRajesh Mishra, BJP MP from Sidhi constituency in Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining a clean criminal record and demonstrating consistent legislative engagement, critical information regarding financial assets and development fund utilization remains unavailable, limiting comprehensive assessment of his overall performance.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for assessment, including entitled amounts, funds released, or expenditure patterns. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG report identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were either abandoned or incomplete, raising questions about effective fund deployment in the state.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and serve as crucial indicators of potential conflicts of interest. The MP's monthly compensation is recorded at Rs 245,000, representing the standard parliamentary salary structure.\n\n### Legal & Criminal Standing\nMishra maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, this data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems or data accessibility issues.\n\n### Parliamentary Performance\nMishra demonstrates exemplary attendance with a perfect 100% parliamentary presence, significantly above average MP attendance rates. His legislative engagement includes 38 questions raised and participation in 8 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, which could suggest limited initiative in independent legislative proposals. The parliament activity data receives a 'C' grade for evidence quality, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral media profile suggests either limited public controversy or insufficient media attention. The accessibility assessment receives a 'D' grade, indicating poor transparency in public communication and engagement mechanisms. No social media data or committee participation information is available, further limiting assessment of public outreach efforts.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, missing asset information, and absent MPLADS utilization details. Committee participation data is entirely missing, attributed to potential Sansad profile unavailability. Legislative effectiveness data also carries low confidence ratings. The evidence grading system rates parliamentary data as 'C' grade and accessibility as 'D' grade, indicating substantial reliability concerns. Data sources include PRS Legislative Research, social media monitoring, and news aggregation, but coverage appears incomplete.\n\n### Key Takeaway\nWhile Rajesh Mishra demonstrates strong parliamentary attendance and maintains a clean legal record, his transparency profile is severely hampered by missing critical data across financial disclosures and development fund utilization. The absence of asset information and MPLADS data, combined with systemic fund management issues identified by CAG audits in Madhya Pradesh, raises concerns about accountability mechanisms. His neutral media profile and poor accessibility grade suggest limited public engagement. Voters and oversight bodies should prioritize obtaining complete financial and development fund data to enable comprehensive performance evaluation.",
-  "validated_at": "2026-05-21T14:32:18.181156Z"
+  "validated_at": "2026-05-21T14:32:18.181156Z",
+  "assets": {
+    "total_assets": 144008066.0,
+    "liabilities": 18427959.0,
+    "net_worth": 125580107.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 26.27,
+    "released": 26.27,
+    "sanctioned": 19.41,
+    "expended": 17.22,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:36.867826Z",
+        "notes": "Official eSAKSHI REST API — Works: 280 recommended, 252 sanctioned, 134 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 280,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 65.55005709935287
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Mandla",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7,
     "slug": "faggan-singh-kulaste",
     "house": "lok_sabha",
     "sansad_member_id": 207,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Faggan Singh Kulaste\n\n### Overall Assessment\nMP Faggan Singh Kulaste (BJP, Mandla, Madhya Pradesh) presents a transparency profile with significant data gaps across most key performance indicators. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (75%), the absence of critical financial and developmental data severely limits comprehensive evaluation of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap, particularly given the CAG's 2010 audit findings highlighting systemic issues in fund management across states. The audit revealed ₹1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess whether Kulaste's constituency has effectively utilized developmental funds or fallen victim to these documented systemic failures.\n\n### Financial Transparency\nAsset declaration data is completely absent, preventing any assessment of financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This lack of financial disclosure data represents a significant transparency deficit, making it impossible to evaluate compliance with asset declaration requirements or track changes in wealth during tenure. The MP's monthly compensation is documented at ₹245,000, providing the only available financial data point.\n\n### Legal & Criminal Standing\nKulaste maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data quality warning indicates low confidence in criminal record information, suggesting potential gaps in source availability or data verification processes.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 75% attendance, which meets reasonable expectations for legislative participation. Legislative contribution remains limited with only 3 questions raised and 3 debate participations recorded, while no private member bills have been introduced. The absence of committee membership data further limits assessment of parliamentary effectiveness, as committee work often represents substantial legislative contributions not captured in basic metrics.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals neutral public coverage across 10 articles, with zero positive or negative pieces, suggesting limited media attention or public engagement. This neutral profile may indicate either effective non-controversial service or insufficient public visibility. The lack of accessibility data (Grade D) suggests limited information about public outreach efforts, constituency interaction, or responsiveness to citizen concerns.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns:\n- Low confidence warnings for criminal records, assets, and MPLADS data\n- Missing committee information due to potentially unavailable Sansad profiles\n- Limited legislative effectiveness data\n- Parliament activity evidence grade of 'C' and accessibility grade of 'D'\n\nThese quality issues substantially impact the reliability of this assessment and suggest systemic data collection or disclosure challenges.\n\n### Key Takeaway\nWhile MP Kulaste maintains a clean legal record and reasonable parliamentary attendance, critical transparency gaps in financial disclosures and developmental fund utilization prevent comprehensive performance evaluation. The absence of MPLADS data is particularly concerning given documented systemic issues in fund management highlighted by CAG audits. Enhanced transparency in asset declarations and developmental fund utilization would significantly improve public accountability and enable more effective constituent oversight of representative performance.",
-  "validated_at": "2026-05-21T14:28:16.991716Z"
+  "validated_at": "2026-05-21T14:28:16.991716Z",
+  "assets": {
+    "total_assets": 53526381.0,
+    "liabilities": 3380099.0,
+    "net_worth": 50146282.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.19,
+    "released": 15.19,
+    "sanctioned": 5.77,
+    "expended": 3.95,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:29.277256Z",
+        "notes": "Official eSAKSHI REST API — Works: 306 recommended, 168 sanctioned, 19 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 306,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.00394996708361
+  }
 }

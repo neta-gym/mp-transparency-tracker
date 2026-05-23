@@ -4,16 +4,16 @@
     "constituency": "Kolar",
     "state": "karnataka",
     "party": "Janata Dal (Secular)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1894,
     "slug": "m-mallesh-babu",
     "house": "lok_sabha",
     "sansad_member_id": 5655,
     "profile_url": null,
     "canonical_name": "M Mallesh Babu",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: M Mallesh Babu\n\n### Overall Assessment\nM Mallesh Babu, representing Kolar constituency in Karnataka under the Janata Dal (Secular) banner, demonstrates strong parliamentary attendance but faces significant transparency challenges due to missing critical data across multiple domains. While maintaining a clean legal record and perfect attendance, the absence of asset declarations and MPLADS utilization data raises concerns about financial accountability.\n\n### Fund Utilization & Development\nComplete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) utilization presents a critical transparency gap. No information is available on entitled amounts, releases, expenditures, or utilization percentages. This opacity is particularly concerning given CAG audit findings revealing systemic issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The state context shows 18% of sampled development works remain abandoned or incomplete, highlighting the importance of transparent fund tracking.\n\n### Financial Transparency\nAsset disclosure information is entirely absent, with no data on total assets, previous holdings, growth ratios, or net worth. This complete lack of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives a standard monthly compensation of Rs 2.45 lakh, but without baseline asset information, monitoring financial growth during tenure remains impossible.\n\n### Legal & Criminal Standing\nM Mallesh Babu maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems that may not capture complete information.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating consistent presence in the Lok Sabha. However, active participation remains limited with only 6 questions raised and 4 debate contributions during the tenure. No private member bills have been introduced, indicating minimal legislative initiative. The absence of committee membership data further limits assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with uniformly neutral sentiment—no positive or negative coverage identified. This neutral media presence suggests limited public visibility or controversial actions. However, the accessibility grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent interaction and feedback channels. No social media engagement metrics are available to assess digital outreach efforts.\n\n### Data Quality & Caveats\nData reliability presents significant concerns across multiple domains:\n- **Criminal records**: Low confidence due to potentially unavailable sources\n- **Assets**: Low confidence in asset verification systems\n- **MPLADS**: Low confidence in development fund tracking\n- **Committees**: Complete absence of committee assignment data\n- **Legislative effectiveness**: Low confidence in comprehensive activity tracking\n\nEvidence grading shows 'C' for parliament data and 'D' for accessibility metrics. These limitations substantially constrain comprehensive performance evaluation and suggest systemic transparency challenges in Karnataka's political accountability infrastructure.\n\n### Key Takeaway\nWhile M Mallesh Babu maintains perfect attendance and a clean legal record, the extensive data gaps in financial disclosure and development fund utilization create significant transparency deficits. The complete absence of asset information and MPLADS data, combined with limited legislative activity beyond attendance, raises questions about overall accountability and effectiveness. The systemic data quality issues highlighted by automated flags suggest broader institutional challenges in political transparency mechanisms that extend beyond individual performance assessment.",
-  "validated_at": "2026-05-21T14:21:14.519952Z"
+  "validated_at": "2026-05-21T14:21:14.519952Z",
+  "assets": {
+    "total_assets": 238631536.0,
+    "liabilities": 34492248.0,
+    "net_worth": 204139288.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1894",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1894",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.71,
+    "released": 14.71,
+    "sanctioned": 4.23,
+    "expended": 3.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:22.005748Z",
+        "notes": "Official eSAKSHI REST API — Works: 83 recommended, 68 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 83,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 23.9292997960571
+  }
 }

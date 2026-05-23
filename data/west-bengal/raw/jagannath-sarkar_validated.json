@@ -4,16 +4,16 @@
     "constituency": "Ranaghat",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5202,
     "slug": "jagannath-sarkar",
     "house": "lok_sabha",
     "sansad_member_id": 5055,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Jagannath Sarkar\n\n### Overall Assessment\nJagannath Sarkar, BJP MP from Ranaghat constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining good parliamentary attendance (90%), several key transparency indicators lack reliable data, including asset declarations, MPLADS utilization, and detailed criminal record verification.\n\n### Fund Utilization & Development\nMPLADS data is unavailable for assessment, marking a critical gap in evaluating developmental fund utilization. The absence of entitled, released, and expended amounts prevents analysis of constituency development effectiveness. This data limitation is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data available for total assets, previous holdings, growth ratios, or net worth calculations. This represents a significant transparency deficit, preventing assessment of financial probity or potential conflicts of interest. Monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration package.\n\n### Legal & Criminal Standing\nCriminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, automated flags indicate \"low confidence in criminal data\" due to potentially unavailable sources, requiring cautious interpretation of this apparently clean record.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 90% attendance, demonstrating consistent presence in proceedings. Legislative participation includes 13 questions raised and 1 debate participation, indicating basic engagement with parliamentary processes. No private member bills were introduced, and no committee participation data is available, suggesting limited legislative initiative beyond standard participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (no positive or negative coverage identified), suggesting limited public visibility or controversial positions. The absence of committee data and low evidence grades for accessibility (Grade D) indicate limited transparency in public engagement mechanisms. Social media presence appears minimal based on available data sources.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability concerns:\n- Criminal record data marked as low confidence due to source unavailability\n- Asset information completely absent with low confidence ratings\n- MPLADS data unavailable despite constituency development importance\n- Committee participation data missing due to potentially unavailable Sansad profiles\n- Evidence grades of C for parliament activity and D for accessibility indicate substantial data gaps\n\nThe overall evidence quality suggests limited digital transparency infrastructure or reporting compliance, making comprehensive performance evaluation challenging.\n\n### Key Takeaway\nJagannath Sarkar maintains basic parliamentary compliance with good attendance but faces significant transparency deficits across multiple indicators. The absence of asset declarations, MPLADS utilization data, and reliable criminal record verification, combined with minimal public engagement visibility, creates substantial accountability gaps. While no negative indicators are clearly documented, the extensive data unavailability prevents confident assessment of overall performance and raises questions about transparency infrastructure in his constituency representation.",
-  "validated_at": "2026-05-21T14:37:35.195517Z"
+  "validated_at": "2026-05-21T14:37:35.195517Z",
+  "assets": {
+    "total_assets": 22328968.0,
+    "liabilities": 0.0,
+    "net_worth": 22328968.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5202",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5202",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.31,
+    "expended": 3.16,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:45.207470Z",
+        "notes": "Official eSAKSHI REST API — Works: 194 recommended, 121 sanctioned, 54 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 194,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 21.496598639455787
+  }
 }

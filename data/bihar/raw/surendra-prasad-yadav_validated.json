@@ -4,16 +4,16 @@
     "constituency": "Jahanabad",
     "state": "bihar",
     "party": "Rashtriya Janata Dal",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9601,
     "slug": "surendra-prasad-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 3955,
     "profile_url": null,
     "canonical_name": "Surendra Prasad Yadav",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Surendra Prasad Yadav\n\n### Overall Assessment\n\nSurendra Prasad Yadav, representing Jahanabad constituency in Bihar under the Rashtriya Janata Dal, presents a transparency profile with significant data limitations. The available evidence suggests concerning parliamentary engagement levels, with critical gaps in financial and development activity reporting that hinder comprehensive assessment of his legislative effectiveness.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This complete absence of fund utilization transparency is particularly concerning given Bihar's documented challenges with development fund management. CAG audit findings reveal systemic issues in the state, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader governance challenges that may impact constituency development.\n\n### Financial Transparency\n\nAsset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency makes it impossible to assess potential conflicts of interest or unusual wealth accumulation patterns. The MP's monthly compensation is recorded at Rs 245,000, representing standard parliamentary remuneration, but without asset declarations, comprehensive financial accountability cannot be evaluated.\n\n### Legal & Criminal Standing\n\nCriminal record data shows zero cases across all categories (total cases, serious cases, pending cases, disposed cases, and convictions), though this comes with a significant caveat regarding data confidence. The system flags indicate low confidence in criminal data availability, suggesting the source may be unavailable rather than confirming a clean record. This uncertainty limits the reliability of the criminal standing assessment.\n\n### Parliamentary Performance\n\nParliamentary engagement shows concerning patterns, with only 30% attendance rate in the Lok Sabha. Legislative activity is minimal, with zero questions asked, zero participation in debates, and zero private member bills introduced. This low engagement level raises questions about constituency representation effectiveness. No committee participation data is available, as the Sansad profile appears inaccessible, further limiting assessment of parliamentary contributions beyond floor activities.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (zero positive, zero negative, 10 neutral), suggesting limited public visibility or engagement. The purely neutral coverage indicates minimal newsworthy activities or public statements. Evidence grading shows poor accessibility (Grade D), reflecting limited public engagement mechanisms and transparency in communications with constituents.\n\n### Data Quality & Caveats\n\nThis assessment faces significant data quality limitations that substantially impact reliability. Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data, with sources potentially unavailable rather than confirming zero values. Committee information and legislative effectiveness data are entirely missing due to inaccessible Sansad profiles. Parliament activity data receives a Grade C confidence rating, while accessibility scores Grade D. These limitations mean the assessment may not reflect actual performance levels, particularly in areas showing zero or minimal activity.\n\n### Key Takeaway\n\nSurendra Prasad Yadav's transparency profile is severely constrained by data unavailability across critical assessment areas, making meaningful evaluation difficult. The 30% parliamentary attendance rate represents the most reliable performance indicator, suggesting limited legislative engagement. Without asset declarations, MPLADS utilization data, or comprehensive criminal background verification, constituents lack essential information for accountability assessment. The neutral media coverage and poor accessibility ratings compound concerns about public engagement. This data gap pattern may reflect either systematic transparency failures or limitations in public information systems, both of which hinder democratic accountability in the Jahanabad constituency.",
-  "validated_at": "2026-05-21T14:39:02.128568Z"
+  "validated_at": "2026-05-21T14:39:02.128568Z",
+  "assets": {
+    "total_assets": 138754448.0,
+    "liabilities": 0.0,
+    "net_worth": 138754448.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9601",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 7,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 7,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9601",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.92,
+    "expended": 4.16,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:06.524780Z",
+        "notes": "Official eSAKSHI REST API — Works: 284 recommended, 241 sanctioned, 118 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 284,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 28.29931972789116
+  }
 }

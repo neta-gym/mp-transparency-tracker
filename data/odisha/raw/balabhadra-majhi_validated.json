@@ -4,16 +4,16 @@
     "constituency": "Nabarangpur",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6335,
     "slug": "balabhadra-majhi",
     "house": "lok_sabha",
     "sansad_member_id": 4796,
     "profile_url": null,
     "canonical_name": "Balabhadra Majhi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Balabhadra Majhi\n\n### Overall Assessment\nBalabhadra Majhi, BJP MP from Nabarangpur, Odisha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and achieving moderate parliamentary attendance (70%), substantial missing information regarding assets, MPLADS utilization, and development activities raises concerns about transparency and accountability.\n\n### Fund Utilization & Development\n**Critical data gaps exist for MPLADS fund utilization.** No information is available on entitled amounts, released funds, expenditure, or utilization percentages. This absence of data is particularly concerning given the CAG's 2010 audit findings for Odisha revealing systemic issues: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether these historical patterns persist in Majhi's constituency.\n\n### Financial Transparency\n**Asset disclosure information is entirely unavailable.** No data exists on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of ₹2,45,000, which provides no insight into personal wealth or potential conflicts of interest.\n\n### Legal & Criminal Standing\n**Clean criminal record with data reliability concerns.** Official records show zero total cases, serious charges, pending matters, disposed cases, and convictions. However, automated flags indicate low confidence in criminal data sources, suggesting potential gaps in information availability rather than confirmed clean standing. This caveat is important for accurate assessment.\n\n### Parliamentary Performance\n**Moderate engagement with room for improvement.** Majhi's 70% attendance rate falls below optimal standards for parliamentary participation. His legislative activity shows 21 questions raised and 5 debate participations, indicating some engagement with parliamentary processes. However, zero private bills introduced suggests limited initiative in legislative innovation. No committee membership data is available, preventing assessment of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n**Limited digital presence and neutral media coverage.** Analysis of 10 news articles reveals predominantly neutral coverage (8 neutral, 2 positive, 0 negative), suggesting minimal public controversy but also limited visibility of achievements or initiatives. The evidence grade of 'D' for accessibility indicates poor public engagement mechanisms, potentially limiting constituent communication and feedback channels.\n\n### Data Quality & Caveats\n**Multiple critical data gaps compromise assessment reliability.** Automated flags highlight low confidence in criminal records, assets, and MPLADS data. Committee information is entirely unavailable, and legislative effectiveness data carries low confidence ratings. Evidence grades show 'C' for parliament data and 'D' for accessibility, indicating suboptimal data quality across key transparency metrics. These limitations significantly impact the comprehensiveness and reliability of this assessment.\n\n### Key Takeaway\nBalabhadra Majhi's transparency profile is severely hampered by critical data gaps, particularly in asset disclosure and MPLADS utilization—two fundamental areas of MP accountability. While maintaining a clean criminal record and moderate parliamentary participation, the absence of financial and development fund information, combined with poor public accessibility, suggests significant transparency deficits that require immediate attention to meet democratic accountability standards.",
-  "validated_at": "2026-05-21T14:22:45.289121Z"
+  "validated_at": "2026-05-21T14:22:45.289121Z",
+  "assets": {
+    "total_assets": 78863561.0,
+    "liabilities": 1124732.0,
+    "net_worth": 77738829.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6335",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6335",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.74,
+    "released": 14.74,
+    "sanctioned": 7.26,
+    "expended": 0.66,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:25.943592Z",
+        "notes": "Official eSAKSHI REST API — Works: 220 recommended, 179 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 220,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 4.477611940298508
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Bardhaman Purba",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6202,
     "slug": "sharmila-sarkar",
     "house": "lok_sabha",
     "sansad_member_id": 5768,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "5th Pass",
     "profession": null,
-    "age": null,
+    "age": 38,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sharmila Sarkar\n\n### Overall Assessment\nSharmila Sarkar, representing Bardhaman Purba constituency for All India Trinamool Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record, her parliamentary engagement shows room for improvement with 50% attendance and limited legislative activity. The absence of critical financial data including assets and MPLADS utilization raises transparency concerns.\n\n### Fund Utilization & Development\nComplete absence of MPLADS data presents a major transparency gap. No information is available regarding her Rs 5 crore annual MPLADS entitlement, release status, or expenditure patterns. This data void is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without verifiable MPLADS data, constituents cannot assess her development work effectiveness.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. No data exists for current assets, previous declarations, growth patterns, or net worth calculations. This represents a critical transparency failure, as asset declarations are mandatory for MPs under the Representation of People Act. Her monthly compensation of Rs 2.45 lakh is the only available financial data point.\n\n### Legal & Criminal Standing\nSarkar maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, the system flags low confidence in criminal data sources, suggesting potential data collection issues rather than confirmed clean status.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with concerning gaps. Attendance stands at 50%, falling short of optimal legislative participation standards. Her contribution to parliamentary discourse is minimal - zero questions raised, only 3 debate participations, and no private member bills introduced. This limited legislative activity suggests reduced advocacy for constituent interests and policy development. No committee membership information is available, indicating either non-participation or data unavailability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral tone - no positive or negative coverage identified. This neutral sentiment, while avoiding controversy, may indicate limited public visibility or impact. The absence of social media engagement data or public interaction metrics further limits assessment of constituent accessibility. Evidence grades rate accessibility at 'D' level, suggesting poor public engagement mechanisms.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence ratings due to source unavailability. Asset information shows similar reliability concerns. MPLADS data is entirely absent, preventing development work evaluation. Committee assignments are missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data carries low confidence ratings. These limitations mean the transparency profile may not reflect actual performance, representing data collection failures rather than MP accountability issues.\n\n### Key Takeaway\nSharmila Sarkar's transparency profile is severely hampered by extensive data gaps rather than confirmed poor performance. While maintaining a clean criminal record, her 50% parliamentary attendance and minimal legislative activity raise engagement concerns. The complete absence of asset declarations and MPLADS utilization data creates significant transparency deficits that prevent meaningful accountability assessment. Given systemic fund management issues highlighted in CAG audits for West Bengal, the missing MPLADS data is particularly problematic. Voters lack essential information to evaluate her financial integrity and development work effectiveness, highlighting urgent need for improved data disclosure and parliamentary engagement.",
-  "validated_at": "2026-05-21T14:24:14.493184Z"
+  "validated_at": "2026-05-21T14:24:14.493184Z",
+  "assets": {
+    "total_assets": 1720080.0,
+    "liabilities": 0.0,
+    "net_worth": 1720080.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6202",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6202",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.65,
+    "expended": 1.75,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:53:08.879067Z",
+        "notes": "Official eSAKSHI REST API — Works: 114 recommended, 54 sanctioned, 5 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 114,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 11.904761904761905
+  }
 }

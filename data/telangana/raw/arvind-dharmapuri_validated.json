@@ -4,16 +4,16 @@
     "constituency": "Nizamabad",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5246,
     "slug": "arvind-dharmapuri",
     "house": "lok_sabha",
     "sansad_member_id": 5082,
     "profile_url": null,
     "canonical_name": "Arvind Dharmapuri",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Arvind Dharmapuri\n\n### Overall Assessment\n\nArvind Dharmapuri, BJP MP from Nizamabad, Telangana, presents a mixed transparency profile characterized by solid parliamentary attendance but significant data gaps across multiple accountability metrics. With 85% attendance and moderate engagement through 34 questions and 2 debates, he demonstrates reasonable legislative participation. However, critical gaps in asset disclosure, MPLADS data, and committee information limit comprehensive assessment of his overall effectiveness and transparency.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is unavailable for Dharmapuri, preventing assessment of his development work effectiveness. This absence is concerning given CAG audit findings highlighting systemic issues in Telangana's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. With 18% of sampled works incomplete or abandoned, these findings underscore the importance of transparent MPLADS reporting, making Dharmapuri's missing data particularly problematic for accountability.\n\n### Financial Transparency\n\nAsset declaration data is completely unavailable, preventing any assessment of Dharmapuri's financial transparency. No information exists on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is fundamental to evaluating potential conflicts of interest and financial accountability. His monthly compensation is documented at Rs 2,45,000, which aligns with standard MP compensation structures.\n\n### Legal & Criminal Standing\n\nDharmapuri shows a clean legal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, indicating potential source unavailability. While the reported clean record is positive, the data quality caveat suggests this assessment should be treated cautiously pending verification from reliable sources.\n\n### Parliamentary Performance\n\nDharmapuri demonstrates solid parliamentary engagement with 85% attendance, significantly above average for many MPs. He has raised 34 questions in Parliament, indicating active constituency representation and policy engagement. His participation in 2 debates shows some involvement in legislative discussions, though this level is relatively modest. Notably, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable, representing a gap in understanding his specialized policy contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals limited public visibility with only 10 articles identified. The coverage breakdown shows neutral sentiment dominance (9 neutral articles) with minimal negative coverage (1 article) and no explicitly positive coverage. This suggests low media engagement and potentially limited public outreach. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. No social media engagement data is available, further limiting assessment of constituent communication efforts.\n\n### Data Quality & Caveats\n\nThis assessment faces significant data quality limitations that substantially impact reliability. Critical warnings include low confidence in criminal record data due to potential source unavailability, and complete absence of asset disclosure information. MPLADS data is entirely missing, preventing evaluation of development fund utilization. Committee membership information is unavailable, with indications that the MP's Sansad profile may be inaccessible. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these data quality concerns. These limitations necessitate cautious interpretation of findings and highlight the need for improved data transparency.\n\n### Key Takeaway\n\nWhile Arvind Dharmapuri maintains good parliamentary attendance and shows reasonable legislative participation through questions and debates, his transparency profile is severely hampered by critical data gaps in asset disclosure, MPLADS utilization, and committee work. The clean criminal record is encouraging but requires verification given data quality warnings. His limited media presence and poor accessibility rating suggest insufficient public engagement. Until comprehensive data becomes available, stakeholders cannot fully assess his effectiveness as a public representative, highlighting systemic transparency challenges that need urgent attention.",
-  "validated_at": "2026-05-21T14:21:39.528132Z"
+  "validated_at": "2026-05-21T14:21:39.528132Z",
+  "assets": {
+    "total_assets": 1099020273.0,
+    "liabilities": 306681918.0,
+    "net_worth": 792338355.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5246",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 22,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 22,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5246",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 28.14,
+    "released": 28.14,
+    "sanctioned": 15.94,
+    "expended": 15.04,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:55.080268Z",
+        "notes": "Official eSAKSHI REST API — Works: 695 recommended, 497 sanctioned, 302 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 695,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 53.447050461975834
+  }
 }

@@ -452,5 +452,73 @@
     }
   ],
   "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 40,824,015. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-05-23T00:01:02.845767Z"
+  "validated_at": "2026-05-23T00:01:02.845767Z",
+  "assets": {
+    "total_assets": 40824015.0,
+    "liabilities": 0.0,
+    "net_worth": 40824015.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7899",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7899",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.71,
+    "released": 14.71,
+    "sanctioned": 7.03,
+    "expended": 2.13,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:26.348410Z",
+        "notes": "Official eSAKSHI REST API — Works: 109 recommended, 104 sanctioned, 5 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 109,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 14.479945615227734
+  }
 }

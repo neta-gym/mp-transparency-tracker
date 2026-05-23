@@ -4,16 +4,16 @@
     "constituency": "Sirsa",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8546,
     "slug": "kumari-selja",
     "house": "lok_sabha",
     "sansad_member_id": 3589,
     "profile_url": null,
     "canonical_name": "Kumari Selja",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kumari Selja\n\n### Overall Assessment\nKumari Selja, Indian National Congress MP from Sirsa, Haryana, presents a mixed transparency profile characterized by adequate parliamentary engagement but significant data gaps across multiple domains. With 85% attendance and active participation through 9 questions and 2 debates, she demonstrates reasonable legislative involvement. However, the absence of critical financial and developmental data severely limits comprehensive assessment of her overall performance and transparency.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given that MPLADS funds are a primary vehicle for MP-driven local development. The CAG audit context for Haryana reveals systemic issues that may affect her constituency: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data on Selja's fund utilization, it's impossible to assess whether these state-level issues impact her constituency's development projects.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected officials and crucial for assessing potential conflicts of interest. The only available financial information is her monthly compensation of ₹2,45,000, which appears standard for Lok Sabha members.\n\n### Legal & Criminal Standing\nSelja maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment should be viewed with appropriate caution.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 85% attendance, placing her above average compared to typical MP attendance rates. Her legislative activity includes 9 questions raised and participation in 2 debates, indicating active engagement with parliamentary processes. However, she has not introduced any private member bills, representing a missed opportunity for legislative initiative. The absence of committee membership data (flagged as unavailable Sansad profile) prevents assessment of her specialized parliamentary work.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals neutral public engagement with 10 articles providing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited public visibility or controversial issues. However, the evidence grade for accessibility is rated 'D', indicating poor performance in public accessibility metrics. No social media engagement data or public outreach initiatives are documented, suggesting limited digital presence or transparent communication with constituents.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality limitations. Multiple automated flags indicate low confidence across critical areas: criminal records, assets, and MPLADS data may be unreliable due to source unavailability. Committee participation data is entirely missing due to an unavailable Sansad profile. Legislative effectiveness data also carries low confidence ratings. Evidence grades are concerning - parliamentary performance rated 'C' and accessibility rated 'D' - suggesting below-average transparency standards. These limitations severely constrain the reliability of this assessment.\n\n### Key Takeaway\nKumari Selja presents a transparency profile marked by significant information gaps rather than clear strengths or weaknesses. While her parliamentary attendance (85%) and basic legislative participation appear satisfactory, the complete absence of financial disclosure, MPLADS utilization data, and committee information raises serious transparency concerns. The neutral news coverage and poor accessibility rating suggest limited public engagement. Most critically, the numerous data quality warnings indicate that even available information may be unreliable, making it impossible to provide a confident assessment of her overall performance or integrity as an elected representative.",
-  "validated_at": "2026-05-21T14:23:49.498720Z"
+  "validated_at": "2026-05-21T14:23:49.498720Z",
+  "assets": {
+    "total_assets": 420655803.0,
+    "liabilities": 0.0,
+    "net_worth": 420655803.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8546",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8546",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.34,
+    "expended": 1.54,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:17.099200Z",
+        "notes": "Official eSAKSHI REST API — Works: 259 recommended, 200 sanctioned, 45 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 259,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.476190476190476
+  }
 }

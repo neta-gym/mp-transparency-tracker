@@ -4,16 +4,16 @@
     "constituency": "Vadodara",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3606,
     "slug": "hemang-joshi",
     "house": "lok_sabha",
     "sansad_member_id": 5570,
     "profile_url": null,
     "canonical_name": "Hemang Joshi",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 33,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Hemang Joshi\n\n### Overall Assessment\nHemang Joshi, the Bharatiya Janata Party MP representing Vadodara, Gujarat in the Lok Sabha, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and strong parliamentary attendance, substantial gaps in asset disclosure and development fund information severely limit comprehensive assessment of his overall performance and accountability.\n\n### Fund Utilization & Development\nMPLADS data for Hemang Joshi is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This creates a critical transparency gap regarding his development work in Vadodara constituency. However, CAG audit findings reveal systemic concerns in Gujarat's fund utilization patterns, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level issues highlight the importance of robust monitoring mechanisms that cannot be evaluated for this MP due to missing data.\n\n### Financial Transparency\nAsset disclosure information is completely absent from available records, with no data on total assets, previous holdings, growth patterns, or net worth. This represents a significant transparency deficit, particularly given the constitutional requirement for asset declarations. The MP receives Rs 245,000 in monthly compensation, but without baseline asset information, financial accountability assessment remains impossible.\n\n### Legal & Criminal Standing\nHemang Joshi maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean criminal profile supports his eligibility and moral standing as a public representative, though data confidence is flagged as low due to potential source limitations.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with notably high attendance at 95%, demonstrating strong commitment to legislative duties. However, active participation appears limited, with only 1 question raised and 2 debate contributions during the assessed period. No private bills were introduced, suggesting minimal legislative initiative. The absence of committee membership data further restricts evaluation of his parliamentary effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement, with 10 total articles comprising 1 positive, 0 negative, and 9 neutral pieces. This neutral-to-positive coverage pattern suggests minimal controversy but also indicates limited public visibility or significant achievements gaining media attention. No social media engagement metrics or constituency interaction data are available to assess broader accessibility efforts.\n\n### Data Quality & Caveats\nMultiple automated warnings indicate substantial data quality issues affecting this assessment. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence ratings, while MPLADS data is entirely missing. Committee participation data is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data also shows low confidence ratings. Evidence grades are concerning, with parliamentary performance rated 'C' and accessibility rated 'D', indicating significant information gaps from primary sources including PRS, social media, and news outlets.\n\n### Key Takeaway\nHemang Joshi's transparency profile is severely compromised by extensive data gaps, particularly in asset disclosure and development fund utilization - two critical areas for public accountability. While his clean criminal record and strong attendance demonstrate positive aspects, the absence of comprehensive financial and developmental performance data prevents meaningful assessment of his overall effectiveness as a public representative. Voters and oversight bodies require substantially more transparent reporting to evaluate his stewardship adequately.",
-  "validated_at": "2026-05-21T14:24:14.595126Z"
+  "validated_at": "2026-05-21T14:24:14.595126Z",
+  "assets": {
+    "total_assets": 10388939.0,
+    "liabilities": 3180318.0,
+    "net_worth": 7208621.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3606",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3606",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.66,
+    "expended": 4.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:05.061414Z",
+        "notes": "Official eSAKSHI REST API — Works: 158 recommended, 158 sanctioned, 51 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 158,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 29.591836734693878
+  }
 }

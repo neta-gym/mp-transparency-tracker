@@ -4,16 +4,16 @@
     "constituency": "Tumkur",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1904,
     "slug": "v-somanna",
     "house": "lok_sabha",
     "sansad_member_id": 5625,
     "profile_url": null,
     "canonical_name": "V Somanna",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 72,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: V Somanna\n\n### Overall Assessment\nV Somanna, BJP MP from Tumkur (Karnataka), presents a mixed transparency profile characterized by clean legal standing but significant data gaps across most key performance indicators. With evidence grades of C for parliament activity and D for accessibility, his profile lacks sufficient data for comprehensive evaluation of effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, making it impossible to assess development fund utilization. This absence of financial accountability data is concerning given the CAG audit findings for Karnataka revealing systematic issues with fund management. The audit identified Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Somanna, constituents cannot evaluate his development performance against these concerning state-wide patterns.\n\n### Financial Transparency\nAsset disclosure information is completely missing, including current and previous asset values, growth ratios, and net worth calculations. This represents a significant transparency gap, as asset declaration monitoring is crucial for public accountability. The MP receives a total monthly compensation of Rs 2.45 lakh, but without baseline asset information, it's impossible to assess financial growth patterns or potential conflicts of interest during his tenure.\n\n### Legal & Criminal Standing\nSomanna maintains a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, the data carries a warning flag indicating \"low confidence in criminal data\" due to potentially unavailable sources. While the clean record is positive, the data quality caveat suggests this assessment may be incomplete.\n\n### Parliamentary Performance\nParliamentary activity data is severely limited with 0 questions asked, 0 debates participated in, and 0 private bills introduced. Attendance percentage is not available. As Somanna holds ministerial position, the lower parliamentary participation metrics may reflect executive duties rather than poor performance, as ministers often have reduced legislative floor time due to administrative responsibilities. However, the complete absence of quantifiable parliamentary engagement data prevents proper performance evaluation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral). The \"mixed/neutral coverage\" suggests neither strong public acclaim nor significant controversy. However, with an accessibility evidence grade of D, there appears to be limited public engagement mechanisms or transparent communication channels. No committee participation data is available, suggesting either non-participation or unavailable records from parliamentary databases.\n\n### Data Quality & Caveats\nThis profile suffers from extensive data quality issues with multiple warning flags:\n- Low confidence warnings across criminal records, assets, MPLADS, and parliamentary activity\n- Missing committee information due to potentially unavailable Sansad profiles\n- Evidence grades of C (parliament) and D (accessibility) indicating poor data availability\n\nThe analysis draws from PRS, social media, and news sources but lacks official parliamentary and financial disclosure databases, significantly limiting assessment reliability.\n\n### Key Takeaway\nV Somanna's transparency profile is characterized by a clean legal record but severely compromised by data unavailability across critical performance metrics. While his ministerial role may explain some parliamentary activity limitations, the complete absence of MPLADS, asset, and detailed parliamentary data creates substantial accountability gaps. The neutral media coverage suggests steady but unremarkable public presence. For Tumkur constituents, this profile highlights the need for improved data disclosure and transparency mechanisms to enable proper evaluation of their representative's effectiveness in utilizing public resources and advancing constituency interests.",
-  "validated_at": "2026-05-21T14:31:46.548719Z"
+  "validated_at": "2026-05-21T14:31:46.548719Z",
+  "assets": {
+    "total_assets": 607805215.0,
+    "liabilities": 226300461.0,
+    "net_worth": 381504754.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1904",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1904",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.4,
+    "expended": 2.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:30.820213Z",
+        "notes": "Official eSAKSHI REST API — Works: 54 recommended, 18 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 54,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 15.306122448979592
+  }
 }

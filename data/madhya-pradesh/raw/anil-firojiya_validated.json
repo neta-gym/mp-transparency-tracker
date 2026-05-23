@@ -4,16 +4,16 @@
     "constituency": "Ujjain",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5170,
     "slug": "anil-firojiya",
     "house": "lok_sabha",
     "sansad_member_id": 5071,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 52,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Anil Firojiya\n\n### Overall Assessment\nAnil Firojiya, BJP MP from Ujjain, Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance (90%), substantial information voids in asset disclosure and MPLADS utilization raise transparency concerns. The available data suggests basic parliamentary engagement but insufficient evidence for robust accountability assessment.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled amount, releases, expenditure, or utilization rates. This represents a critical transparency gap for evaluating constituent development impact. CAG audit findings reveal systemic concerns in Madhya Pradesh's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, indicating broader implementation challenges that may affect Firojiya's constituency development efforts.\n\n### Financial Transparency\nAsset disclosure data is completely absent, with no information available on total assets, previous holdings, growth ratios, or net worth. This prevents any assessment of financial transparency or potential conflicts of interest. Monthly compensation is reported at ₹2.45 lakh, representing standard parliamentary remuneration. The lack of asset data significantly undermines financial accountability evaluation.\n\n### Legal & Criminal Standing\nFirojiya maintains a clean criminal record with zero cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low due to potential source unavailability, requiring cautious interpretation. No evidence of legal complications affecting his parliamentary service has been identified.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels. Attendance stands at 90%, indicating consistent presence in the Lok Sabha. Legislative participation includes 25 questions raised and 5 debates participated, demonstrating basic engagement with parliamentary processes. No private member bills were introduced, suggesting limited legislative initiative. Committee membership data is unavailable due to potential Sansad profile accessibility issues, preventing assessment of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment across all reports, indicating minimal public controversy but also limited positive visibility. No positive or negative articles were identified, suggesting either low media profile or balanced coverage. Social media and accessibility data receive a 'D' grade, indicating poor digital engagement and public accessibility. This represents a significant gap in modern political communication and citizen outreach.\n\n### Data Quality & Caveats\nMultiple automated flags indicate substantial data reliability concerns:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence levels\n- MPLADS data is entirely missing with low confidence ratings\n- Committee assignments are unavailable due to Sansad profile issues\n- Legislative effectiveness data carries low confidence ratings\n\nEvidence grades reflect these limitations: parliamentary data receives 'C' grade while accessibility receives 'D' grade. Only 3 sources (PRS, social media, news) provide available information, limiting comprehensive analysis.\n\n### Key Takeaway\nAnil Firojiya's transparency profile is characterized by significant data voids that prevent thorough accountability assessment. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset disclosure and MPLADS utilization data raises serious transparency concerns. The systemic fund management issues identified by CAG audits in Madhya Pradesh, combined with limited public engagement evidence, suggest need for enhanced transparency measures. Citizens and oversight bodies should seek complete disclosure of financial assets and development fund utilization to enable proper democratic accountability evaluation.",
-  "validated_at": "2026-05-21T14:33:32.710764Z"
+  "validated_at": "2026-05-21T14:33:32.710764Z",
+  "assets": {
+    "total_assets": 88159766.0,
+    "liabilities": 30346543.0,
+    "net_worth": 57813223.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5170",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5170",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.95,
+    "expended": 6.75,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:23.506612Z",
+        "notes": "Official eSAKSHI REST API — Works: 245 recommended, 239 sanctioned, 88 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 245,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 45.91836734693878
+  }
 }

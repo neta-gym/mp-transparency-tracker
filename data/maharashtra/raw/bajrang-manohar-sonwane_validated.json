@@ -4,16 +4,16 @@
     "constituency": "Beed",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5333,
     "slug": "bajrang-manohar-sonwane",
     "house": "lok_sabha",
     "sansad_member_id": 5645,
     "profile_url": null,
     "canonical_name": "Bajrang Manohar Sonwane",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bajrang Manohar Sonwane\n\n### Overall Assessment\nBajrang Manohar Sonwane, representing Beed constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps. While maintaining clean criminal records and adequate parliamentary attendance (85%), substantial information gaps in financial disclosures and development fund utilization limit comprehensive assessment of his performance and accountability.\n\n### Fund Utilization & Development\nComplete MPLADS data is unavailable, with entitled, released, expended amounts, and utilization percentages all unreported. This represents a critical transparency gap for assessing constituency development impact. The Maharashtra context reveals concerning systemic issues, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project execution effectiveness in the region.\n\n### Financial Transparency\nAsset declaration data is entirely missing, including current total assets, previous holdings, growth ratios, and net worth calculations. This complete absence of financial transparency information prevents assessment of wealth accumulation patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2,45,000, representing the only available financial data point.\n\n### Legal & Criminal Standing\nSonwane maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, indicating potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 85% attendance, demonstrating reasonable commitment to legislative duties. Question-asking activity is notably active with 64 questions raised, indicating constituency issue advocacy. Debate participation is limited at 6 interventions, and no private member bills were introduced. Committee participation data is unavailable, representing a gap in understanding specialized legislative contributions.\n\n### Public Engagement & Accessibility\nMedia presence reflects neutral public engagement with 10 news articles identified, all categorized as neutral coverage with no positive or negative sentiment detected. This suggests limited media visibility or controversial positioning. Social media and direct public engagement metrics are not available, limiting assessment of constituent accessibility and communication effectiveness.\n\n### Data Quality & Caveats\nMultiple critical data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence warnings due to source unavailability. Asset information shows low confidence ratings, while MPLADS utilization data is entirely missing with low confidence flags. Committee participation information is unavailable due to potential Sansad profile gaps. Legislative effectiveness data also carries low confidence ratings. Evidence grades are modest: parliament performance rated 'C' and accessibility rated 'D', indicating substantial room for transparency improvements.\n\n### Key Takeaway\nWhile Bajrang Manohar Sonwane maintains clean criminal records and reasonable parliamentary attendance, significant data gaps in financial disclosures and development fund utilization severely limit transparency assessment. The absence of asset declarations and MPLADS data, combined with systemic fund management issues identified in Maharashtra by CAG audits, highlight the need for improved financial accountability and development program transparency to enable meaningful public oversight of his representational effectiveness.",
-  "validated_at": "2026-05-21T14:37:48.983802Z"
+  "validated_at": "2026-05-21T14:37:48.983802Z",
+  "assets": {
+    "total_assets": 289278459.0,
+    "liabilities": 77515217.0,
+    "net_worth": 211763242.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5333",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5333",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.93,
+    "released": 14.93,
+    "sanctioned": 2.71,
+    "expended": 2.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:57.291096Z",
+        "notes": "Official eSAKSHI REST API — Works: 100 recommended, 28 sanctioned, 10 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 100,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 16.945746818486267
+  }
 }

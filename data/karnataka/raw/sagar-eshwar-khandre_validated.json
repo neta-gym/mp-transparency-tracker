@@ -4,16 +4,16 @@
     "constituency": "Bidar",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3793,
     "slug": "sagar-eshwar-khandre",
     "house": "lok_sabha",
     "sansad_member_id": 5791,
     "profile_url": null,
     "canonical_name": "Sagar Eshwar Khandre",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 26,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sagar Eshwar Khandre\n\n### Overall Assessment\n\nSagar Eshwar Khandre, representing Bidar constituency in Karnataka for the Indian National Congress, presents a mixed transparency profile with significant data gaps. With 80% parliamentary attendance and a clean criminal record, he demonstrates basic institutional engagement. However, comprehensive assessment is hindered by missing data across critical areas including asset declarations, MPLADS fund utilization, and committee participation.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable for MP Khandre, with entitled, released, and expended amounts all showing \"None.\" This complete absence of data raises concerns about transparency in constituency development spending. The broader CAG audit context for Karnataka reveals systemic issues including Rs 1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without MP-specific data, it's impossible to assess Khandre's performance against these benchmarks.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, with total assets, previous holdings, growth ratio, and net worth all showing \"None.\" This represents a significant transparency gap, as asset declarations are mandatory for elected officials. His monthly compensation is documented at Rs 245,000, providing the only available financial data point. The absence of asset information prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure.\n\n### Legal & Criminal Standing\n\nMP Khandre maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning flag indicating \"low confidence in criminal data\" due to potentially unavailable sources. While the clean record is positive, the data quality caveat suggests these findings should be interpreted cautiously.\n\n### Parliamentary Performance\n\nKhandre's parliamentary attendance stands at 80%, meeting the basic expectation for MP participation in House proceedings. However, his legislative engagement appears minimal with zero questions raised, zero participation in debates, and zero private member bills introduced. This pattern suggests limited active participation beyond physical attendance, potentially indicating reduced advocacy for constituency issues or policy initiatives.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis shows 10 neutral articles about the MP, with no positive or negative pieces identified. This neutral coverage suggests limited public visibility or controversial actions. The accessibility grade of 'D' indicates poor public accessibility, though specific metrics supporting this assessment are not provided. No social media engagement data or public interface mechanisms are documented.\n\n### Data Quality & Caveats\n\nThe transparency profile suffers from significant data quality issues across multiple domains:\n\n- **Criminal Record**: Low confidence due to potentially unavailable sources\n- **Assets**: Low confidence in asset data with complete absence of information\n- **MPLADS**: Low confidence with no utilization data available\n- **Committees**: No committee participation data found, suggesting unavailable Sansad profile\n- **Legislative Effectiveness**: Low confidence in available data\n- **Parliamentary Performance**: Graded 'C' indicating moderate data reliability\n\nThese warnings substantially limit the reliability of this assessment and highlight systemic data collection or disclosure challenges.\n\n### Key Takeaway\n\nMP Sagar Eshwar Khandre's transparency profile is characterized by concerning data gaps rather than clear performance indicators. While maintaining basic parliamentary attendance (80%) and a clean criminal record, the complete absence of asset declarations and MPLADS utilization data, combined with minimal legislative engagement (zero questions, debates, or bills), suggests either inadequate transparency practices or systemic data collection failures. The numerous data quality warnings across all assessment categories indicate that this profile may not accurately represent the MP's actual performance, necessitating improved data disclosure mechanisms for meaningful public accountability.",
-  "validated_at": "2026-05-21T14:27:05.483496Z"
+  "validated_at": "2026-05-21T14:27:05.483496Z",
+  "assets": {
+    "total_assets": 134373930.0,
+    "liabilities": 15000000.0,
+    "net_worth": 119373930.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3793",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3793",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.46,
+    "expended": 0.87,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:26.438607Z",
+        "notes": "Official eSAKSHI REST API — Works: 137 recommended, 80 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 137,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 5.918367346938775
+  }
 }

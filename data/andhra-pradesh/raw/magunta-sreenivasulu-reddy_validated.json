@@ -4,16 +4,16 @@
     "constituency": "Ongole",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5120,
     "slug": "magunta-sreenivasulu-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 3907,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 70,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Magunta Sreenivasulu Reddy\n\n### Overall Assessment\nMagunta Sreenivasulu Reddy, representing Ongole constituency in Andhra Pradesh as a Telugu Desam Party MP, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and demonstrating solid parliamentary attendance (85%), critical financial information including assets and MPLADS utilization remains unavailable, hampering full assessment of his developmental impact and fiscal accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given CAG audit findings for Andhra Pradesh revealing systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. With 18% of sampled works found abandoned or incomplete, the absence of specific MPLADS data for this constituency raises questions about local fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available for current holdings, previous assets, growth ratios, or net worth calculations. This represents a significant transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives standard compensation of Rs 2,45,000 monthly, but without asset declarations, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\nReddy maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source limitations that may affect the completeness of this assessment. While the available data suggests no legal concerns, the confidence warning requires cautious interpretation.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with strong attendance (85%) demonstrating commitment to legislative duties. Question-asking activity is moderate with 55 questions raised, indicating engagement in parliamentary inquiry processes. However, debate participation is limited (3 debates) and no private member bills were introduced, suggesting minimal proactive legislative initiative. The evidence quality for parliamentary data receives a 'C' grade, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely limited by data availability. News coverage analysis reveals 10 articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting minimal public controversy but also potentially limited public visibility. The accessibility evidence grade of 'D' indicates poor data quality in this domain, making meaningful evaluation of constituent engagement difficult.\n\n### Data Quality & Caveats\nMultiple critical data quality issues affect this assessment:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is completely missing with low confidence flags\n- MPLADS data is entirely unavailable despite high public interest\n- Committee participation data is absent due to potentially unavailable Sansad profiles\n- Legislative effectiveness data carries low confidence ratings\n\nThese limitations significantly constrain comprehensive transparency evaluation and suggest systemic data collection challenges.\n\n### Key Takeaway\nMagunta Sreenivasulu Reddy's transparency profile is characterized by adequate parliamentary attendance and clean criminal records, but is severely hampered by missing critical financial and developmental data. The absence of asset declarations and MPLADS utilization information, combined with concerning CAG audit findings for Andhra Pradesh's fund management, creates significant transparency gaps. While available indicators suggest no immediate red flags, the substantial data limitations prevent conclusive assessment of his overall accountability and effectiveness as a public representative. Improved data collection and disclosure mechanisms are essential for meaningful transparency evaluation.",
-  "validated_at": "2026-05-21T14:28:43.555855Z"
+  "validated_at": "2026-05-21T14:28:43.555855Z",
+  "assets": {
+    "total_assets": 579539820.0,
+    "liabilities": 276323277.0,
+    "net_worth": 303216543.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5120",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5120",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.19,
+    "expended": 0.76,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:17:33.579188Z",
+        "notes": "Official eSAKSHI REST API — Works: 19 recommended, 18 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 19,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 5.170068027210885
+  }
 }

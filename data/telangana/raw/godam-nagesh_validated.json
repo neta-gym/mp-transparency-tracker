@@ -4,16 +4,16 @@
     "constituency": "Adilabad",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5395,
     "slug": "godam-nagesh",
     "house": "lok_sabha",
     "sansad_member_id": 4804,
     "profile_url": null,
     "canonical_name": "Godam Nagesh",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 59,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Godam Nagesh\n\n### Overall Assessment\n\nGodam Nagesh, BJP MP from Adilabad constituency in Telangana, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While maintaining reasonable parliamentary attendance at 85%, his overall transparency profile is hampered by unavailable asset and MPLADS data, limiting assessment of his financial stewardship and development work effectiveness.\n\n### Fund Utilization & Development\n\nCritical MPLADS data is entirely unavailable, preventing assessment of Nagesh's development fund utilization. Given that MPs are entitled to Rs 5 crore annually under MPLADS, this data gap is concerning for transparency evaluation. The absence of information on entitled amounts, releases, expenditure, and utilization percentages makes it impossible to assess his effectiveness in constituency development.\n\nCAG audit findings highlight systemic issues in fund management across states, with Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. These audit contexts suggest potential broader challenges in fund administration that may affect Adilabad constituency.\n\n### Financial Transparency\n\nAsset disclosure transparency is severely compromised with no available data on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial information prevents any meaningful assessment of wealth accumulation patterns or potential conflicts of interest during his tenure.\n\nThe only available financial data is his monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration and provides no insight into personal financial transparency.\n\n### Legal & Criminal Standing\n\nNagesh maintains a clean legal record with zero cases across all categories - no criminal cases (serious or otherwise), no pending matters, no disposed cases, and no convictions. This represents the strongest aspect of his transparency profile, indicating no legal complications that might affect his parliamentary duties or public trust.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity levels with 85% attendance, demonstrating reasonable commitment to legislative duties. However, his participation in parliamentary discourse appears limited with only 15 questions raised and 2 debate participations. No private member bills were introduced, suggesting minimal legislative initiative.\n\nThe absence of committee membership data (flagged due to potentially unavailable Sansad profile) creates another transparency gap, preventing assessment of his specialized legislative contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals minimal public engagement with only 10 news articles tracked. The coverage breakdown shows predominantly neutral reporting (8 articles), with equal positive and negative coverage (1 each), suggesting limited media attention and public discourse around his work.\n\nThis low media presence, combined with a 'D' grade for accessibility, indicates potential challenges in public communication and constituent engagement. The limited news coverage may reflect either low-profile constituency work or insufficient media outreach.\n\n### Data Quality & Caveats\n\nThe transparency assessment is severely limited by multiple data quality issues:\n\n- **Criminal records**: Flagged with low confidence due to potentially unavailable sources\n- **Assets**: Complete absence of financial disclosure data\n- **MPLADS**: No development fund utilization data available\n- **Committees**: Missing committee membership information\n- **Legislative effectiveness**: Low confidence in available data\n\nEvidence quality grades of 'C' for parliamentary data and 'D' for accessibility indicate substantial reliability concerns. These gaps significantly undermine the ability to conduct comprehensive transparency evaluation.\n\n### Key Takeaway\n\nGodam Nagesh's transparency profile is characterized by a clean legal record and reasonable parliamentary attendance, but is severely undermined by critical data gaps in asset disclosure and development fund utilization. The absence of MPLADS and financial data, combined with limited public engagement evidence, raises concerns about accountability and transparency in his representation of Adilabad constituency. While no negative indicators are present, the lack of positive transparency markers due to missing data prevents a favorable assessment. Improved data availability and enhanced public engagement would be necessary for a comprehensive evaluation of his effectiveness as a public representative.",
-  "validated_at": "2026-05-21T14:23:08.140919Z"
+  "validated_at": "2026-05-21T14:23:08.140919Z",
+  "assets": {
+    "total_assets": 30916833.0,
+    "liabilities": 2901575.0,
+    "net_worth": 28015258.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5395",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5395",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.73,
+    "expended": 3.21,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:49:06.671040Z",
+        "notes": "Official eSAKSHI REST API — Works: 236 recommended, 169 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 236,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 21.836734693877553
+  }
 }

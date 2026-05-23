@@ -4,16 +4,16 @@
     "constituency": "Supaul",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3589,
     "slug": "dileshwar-kamait",
     "house": "lok_sabha",
     "sansad_member_id": 5222,
     "profile_url": null,
     "canonical_name": "Dileshwar Kamait",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 78,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Dileshwar Kamait\n\n### Overall Assessment\n\nDileshwar Kamait, representing Supaul constituency in Bihar as a Janata Dal (United) MP, demonstrates strong parliamentary attendance but faces significant transparency gaps across multiple indicators. With 95% attendance in Parliament and active participation through 41 questions and 13 debates, his legislative engagement appears robust. However, critical data limitations prevent a comprehensive assessment of his financial stewardship and development impact.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is completely unavailable, making it impossible to assess Kamait's development project effectiveness. This data gap is concerning given the CAG's systemic findings about MPLADS implementation in Bihar and other states. The 2010 CAG audit (Report 31) identified severe issues including Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Kamait's constituency, his performance against these benchmarks cannot be evaluated.\n\n### Financial Transparency\n\nAsset declaration information is entirely missing, preventing any assessment of Kamait's financial transparency or potential conflicts of interest. No data is available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are fundamental to public accountability. The MP receives Rs 2,45,000 monthly in total compensation, but without baseline asset information, financial oversight remains impossible.\n\n### Legal & Criminal Standing\n\nKamait appears to have a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the data quality warning indicates low confidence in this criminal record information due to potential source unavailability. While this suggests no known legal issues, the reliability caveat means this assessment should be treated with caution.\n\n### Parliamentary Performance\n\nKamait demonstrates strong parliamentary engagement with 95% attendance, significantly above average participation levels. His legislative activity includes 41 questions raised and participation in 13 debates, indicating active constituency representation and policy engagement. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. No committee membership data is available, limiting assessment of his specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 articles with neutral sentiment, suggesting limited public visibility or controversial positioning. The absence of positive or negative coverage may indicate either low media profile or balanced public perception. However, the accessibility evidence grade of 'D' suggests significant deficiencies in public engagement mechanisms. No data on social media presence or constituency outreach programs is available, limiting assessment of direct citizen interaction.\n\n### Data Quality & Caveats\n\nThis assessment faces substantial data quality limitations across multiple domains. Critical warnings include low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS utilization data. Parliament activity data receives a 'C' grade, while accessibility receives the lowest 'D' grade. The absence of committee membership information and legislative effectiveness data further constrains comprehensive evaluation. These gaps significantly limit the reliability of this transparency assessment.\n\n### Key Takeaway\n\nWhile Dileshwar Kamait demonstrates commendable parliamentary attendance and active question-raising, severe data transparency deficits undermine public accountability. The complete absence of asset declarations and MPLADS utilization data, combined with questionable criminal record reliability, creates significant oversight gaps. Against the backdrop of systemic MPLADS implementation issues identified by CAG audits in Bihar, the lack of specific fund utilization data is particularly concerning. Kamait's transparency profile requires substantial improvement in financial disclosure and development project reporting to meet basic accountability standards.",
-  "validated_at": "2026-05-21T14:25:31.084238Z"
+  "validated_at": "2026-05-21T14:25:31.084238Z",
+  "assets": {
+    "total_assets": 36191958.0,
+    "liabilities": 0.0,
+    "net_worth": 36191958.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3589",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3589",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.05,
+    "released": 15.05,
+    "sanctioned": 9.59,
+    "expended": 6.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:36.299241Z",
+        "notes": "Official eSAKSHI REST API — Works: 92 recommended, 82 sanctioned, 46 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 92,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 42.192691029900324
+  }
 }

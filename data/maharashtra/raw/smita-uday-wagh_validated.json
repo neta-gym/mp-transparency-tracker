@@ -4,16 +4,16 @@
     "constituency": "Jalgaon",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5317,
     "slug": "smita-uday-wagh",
     "house": "lok_sabha",
     "sansad_member_id": 5723,
     "profile_url": null,
     "canonical_name": "Smita Uday Wagh",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 56,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Smita Uday Wagh\n\n### Overall Assessment\nSmita Uday Wagh, Bharatiya Janata Party MP from Jalgaon, Maharashtra, demonstrates moderate parliamentary engagement with 85% attendance but faces significant transparency challenges due to incomplete financial disclosure. Her legislative activity includes 79 questions, 12 debates, and 2 private member bills, indicating reasonable parliamentary participation despite limited available data on her development work and asset holdings.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentage. This complete data gap prevents assessment of her development work effectiveness. The broader context reveals systemic issues in Maharashtra's fund management, with CAG audits identifying Rs 1,558 crore lying idle in district authorities' accounts statewide, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.\n\n### Financial Transparency\nAsset disclosure presents a significant transparency deficit. No data is available on current total assets, previous assets, growth ratio, or net worth. This absence of financial information severely limits public accountability assessment. Her monthly compensation totals Rs 245,000, which appears to be the only verifiable financial data point available.\n\n### Legal & Criminal Standing\nWagh maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential unavailability of comprehensive criminal background verification from reliable sources.\n\n### Parliamentary Performance\nHer parliamentary attendance of 85% exceeds the average participation threshold, demonstrating reasonable commitment to legislative duties. She has posed 79 questions in Parliament, participated in 12 debates, and introduced 2 private member bills. However, she shows no recorded activity in zero hour interventions or special mentions, indicating limited use of these parliamentary tools for constituency representation.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal minimal media presence with only 9 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests either limited media coverage or a low public profile. No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability from official sources. The accessibility evidence grade of 'D' suggests poor public information availability.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence flags, while MPLADS data is completely missing. Legislative effectiveness data also carries low confidence ratings. The parliament evidence grade of 'C' and accessibility grade of 'D' indicate substantial information gaps that limit comprehensive transparency assessment.\n\n### Key Takeaway\nWhile Smita Uday Wagh maintains satisfactory parliamentary attendance and shows reasonable legislative engagement through questions and debates, her transparency profile suffers from critical data gaps in financial disclosure and development fund utilization. The absence of asset information and MPLADS data, combined with minimal public engagement, raises concerns about accountability and transparency standards expected from elected representatives.",
-  "validated_at": "2026-05-21T14:38:48.865663Z"
+  "validated_at": "2026-05-21T14:38:48.865663Z",
+  "assets": {
+    "total_assets": 87477424.0,
+    "liabilities": 18576577.0,
+    "net_worth": 68900847.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5317",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5317",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.81,
+    "released": 14.81,
+    "sanctioned": 1.6,
+    "expended": 1.4,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:27.810128Z",
+        "notes": "Official eSAKSHI REST API — Works: 10 recommended, 10 sanctioned, 7 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 10,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 9.453072248480755
+  }
 }

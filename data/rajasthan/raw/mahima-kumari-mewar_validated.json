@@ -4,16 +4,16 @@
     "constituency": "Rajsamand",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2577,
     "slug": "mahima-kumari-mewar",
     "house": "lok_sabha",
     "sansad_member_id": 5683,
     "profile_url": null,
     "canonical_name": "Mahima Kumari Mewar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 52,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mahima Kumari Mewar\n\n### Overall Assessment\nMahima Kumari Mewar, BJP MP from Rajsamand constituency in Rajasthan, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and reasonable parliamentary attendance (75%), substantial missing information regarding assets, MPLADS utilization, and committee participation raises transparency concerns. The evidence grades of 'C' for parliament activity and 'D' for accessibility indicate below-average performance in key transparency metrics.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This complete data absence is particularly concerning given CAG audit findings highlighting systemic issues in fund management across Indian constituencies. The audit context reveals Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works being abandoned or incomplete. Without MPLADS transparency, constituents cannot assess how development funds are being utilized in Rajsamand.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected officials and crucial for assessing potential conflicts of interest. The monthly compensation of Rs 2,45,000 is the only available financial data point. The absence of asset information makes it impossible to evaluate financial transparency or track wealth accumulation during tenure.\n\n### Legal & Criminal Standing\nMahima Kumari Mewar maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, a warning flag indicates low confidence in criminal data due to potentially unavailable sources. While the zero-case record appears positive, the data quality caveat necessitates cautious interpretation of this finding.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 75% attendance - meeting the three-quarters threshold but leaving room for improvement. Legislative activity is minimal, with zero questions asked, only 4 debates participated in, and no private bills introduced. The absence of committee data further limits assessment of parliamentary effectiveness. This low legislative output suggests limited active engagement in parliamentary processes beyond basic attendance requirements.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows neutral sentiment across 10 articles with no positive or negative coverage identified. The 'D' grade for accessibility indicates poor public engagement and limited transparent communication with constituents. No committee participation data is available, suggesting minimal involvement in specialized parliamentary work that could benefit constituency interests.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns:\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information is entirely missing with low confidence ratings\n- MPLADS data is completely unavailable\n- Committee and legislative effectiveness data show low confidence levels\n- Sansad profile appears unavailable, limiting comprehensive assessment\n\nThese data gaps substantially limit the reliability of this transparency assessment and suggest either poor record-keeping or limited data disclosure.\n\n### Key Takeaway\nMahima Kumari Mewar's transparency profile is severely hampered by extensive missing data across critical areas including assets, MPLADS utilization, and committee participation. While maintaining a clean criminal record and adequate parliamentary attendance, the absence of financial transparency and minimal legislative activity, combined with poor accessibility grades, indicate below-average transparency performance. The numerous data quality warnings suggest either systemic issues with record maintenance or insufficient public disclosure, making comprehensive evaluation impossible and raising concerns about overall accountability to constituents.",
-  "validated_at": "2026-05-21T14:28:35.374525Z"
+  "validated_at": "2026-05-21T14:28:35.374525Z",
+  "assets": {
+    "total_assets": 11376000.0,
+    "liabilities": 0.0,
+    "net_worth": 11376000.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2577",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2577",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 18.39,
+    "released": 18.39,
+    "sanctioned": 6.16,
+    "expended": 3.36,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:57.523063Z",
+        "notes": "Official eSAKSHI REST API — Works: 106 recommended, 70 sanctioned, 9 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 106,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 18.27079934747145
+  }
 }

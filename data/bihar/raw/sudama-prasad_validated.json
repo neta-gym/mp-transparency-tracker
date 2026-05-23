@@ -4,16 +4,16 @@
     "constituency": "Arrah",
     "state": "bihar",
     "party": "Communist Party of India (Marxist-Leninist) Liberation",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9539,
     "slug": "sudama-prasad",
     "house": "lok_sabha",
     "sansad_member_id": 5641,
     "profile_url": null,
     "canonical_name": "Sudama Prasad",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 56,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sudama Prasad\n\n### Overall Assessment\nSudama Prasad, representing Arrah constituency in Bihar under the Communist Party of India (Marxist-Leninist) Liberation, demonstrates strong parliamentary attendance but faces significant data transparency gaps. While maintaining a clean criminal record and perfect attendance, limited asset and development fund information restricts comprehensive evaluation of his overall performance as an MP.\n\n### Fund Utilization & Development\nMPLADS data is unavailable, preventing assessment of development fund utilization. This data gap is concerning given Bihar's documented issues with fund management. CAG audits reveal systemic problems in the state including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works remain abandoned or incomplete, highlighting broader infrastructure delivery challenges that may affect constituency development.\n\n### Financial Transparency\nAsset declaration information is not available, creating a significant transparency deficit. Without baseline or current asset data, it's impossible to assess financial growth patterns or potential conflicts of interest. The MP receives the standard monthly compensation of Rs 2.45 lakh, but the absence of declared assets raises questions about comprehensive financial disclosure compliance.\n\n### Legal & Criminal Standing\nSudama Prasad maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, the criminal record data carries a low confidence rating due to potential source unavailability, suggesting this information should be verified through alternative channels for complete accuracy.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating strong commitment to legislative duties. The MP has posed 26 questions and participated in 12 debates, indicating moderate engagement in parliamentary discourse. However, no private member bills have been introduced, and committee participation data is unavailable. The parliament activity receives a 'C' evidence grade, suggesting room for enhanced legislative effectiveness.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are limited. News coverage analysis of 10 articles shows entirely neutral sentiment with no positive or negative coverage, suggesting either limited media attention or balanced reporting. The accessibility score receives a 'D' grade, indicating poor public communication and engagement mechanisms. Social media and other digital outreach data appear minimal, potentially limiting constituent connection opportunities.\n\n### Data Quality & Caveats\nThis assessment faces substantial data limitations affecting reliability. Multiple warning flags indicate low confidence in criminal records, assets, and MPLADS data. Key gaps include:\n- Missing committee assignment information\n- Unavailable legislative effectiveness metrics  \n- Absent constituency development fund details\n- No baseline asset declarations\n\nEvidence quality varies significantly across categories, with parliamentary data (Grade C) being more reliable than accessibility measures (Grade D). Bihar-specific CAG findings provide relevant context but don't directly reflect individual MP performance.\n\n### Key Takeaway\nWhile Sudama Prasad demonstrates commitment through perfect parliamentary attendance and clean legal standing, significant transparency gaps in asset disclosure and development fund utilization prevent comprehensive performance evaluation. Enhanced data disclosure and improved public engagement mechanisms would strengthen accountability and constituent service delivery assessment capabilities.",
-  "validated_at": "2026-05-21T14:29:42.548405Z"
+  "validated_at": "2026-05-21T14:29:42.548405Z",
+  "assets": {
+    "total_assets": 9098946.0,
+    "liabilities": 2921615.0,
+    "net_worth": 6177331.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9539",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9539",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.81,
+    "expended": 4.83,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:04.505398Z",
+        "notes": "Official eSAKSHI REST API — Works: 117 recommended, 94 sanctioned, 63 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 117,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 32.857142857142854
+  }
 }

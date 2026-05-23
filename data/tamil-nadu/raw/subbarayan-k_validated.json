@@ -4,16 +4,16 @@
     "constituency": "Tiruppur",
     "state": "tamil nadu",
     "party": "Communist Party of India",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 204,
     "slug": "subbarayan-k",
     "house": "lok_sabha",
     "sansad_member_id": 4086,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 76,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "# Executive Summary: Subbarayan K\n\n## Executive Summary: Subbarayan K\n\nSubbarayan K represents the Tiruppur constituency in Tamil Nadu as a member of the Communist Party of India in the Lok Sabha. This transparency assessment reveals significant data gaps across most key metrics, with limited information available on financial assets, MPLADS fund utilization, and criminal background. The available data shows moderate parliamentary engagement with concerning attendance patterns.\n\n### Overall Assessment\n\nThe transparency profile for MP Subbarayan K is severely limited by data availability issues across critical areas. With evidence grades of 'C' for parliamentary activity and 'D' for accessibility, this assessment is constrained by missing information on assets, MPLADS funds, and comprehensive criminal records. The monthly compensation of ₹2,45,000 is documented, but most financial transparency indicators remain unavailable.\n\n### Fund Utilization & Development\n\n**MPLADS Performance:** Complete data unavailability prevents assessment of MPLADS fund utilization. No information is available on entitled amounts, releases, expenditure, or utilization percentages.\n\n**Contextual Concerns:** CAG audit findings for Tamil Nadu reveal systemic issues in fund management, including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. These state-level findings highlight potential oversight challenges that may affect constituency development.\n\n### Financial Transparency\n\n**Asset Disclosure:** No asset information is available for current or previous periods, preventing any assessment of financial growth, net worth, or potential conflicts of interest. This represents a significant transparency gap.\n\n**Compensation:** Monthly compensation stands at ₹2,45,000, which is the standard parliamentary remuneration.\n\n### Legal & Criminal Standing\n\n**Criminal Record:** Reports indicate zero criminal cases across all categories (total, serious, pending, disposed, convictions). However, automated flags warn of low confidence in this criminal data due to potential source unavailability, requiring cautious interpretation of this clean record.\n\n### Parliamentary Performance\n\n**Attendance:** 70% attendance rate falls below optimal parliamentary engagement standards, indicating room for improvement in legislative participation.\n\n**Legislative Activity:** Moderate engagement with 41 questions raised and 9 debate participations during the assessed period. No private member bills were introduced, suggesting limited legislative initiative.\n\n**Committee Participation:** No committee data is available, potentially indicating absence from parliamentary committee work or data accessibility issues.\n\n### Public Engagement & Accessibility\n\n**Media Coverage:** Analysis of 10 news articles shows entirely neutral coverage with no positive or negative sentiment detected. This suggests limited public visibility or controversial positions.\n\n**Accessibility Concerns:** The 'D' grade for accessibility indicates significant challenges in public engagement and transparency, potentially limiting constituent communication and accountability.\n\n### Data Quality & Caveats\n\n**Significant Limitations:** Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data. The absence of committee information suggests potential unavailability of the MP's Sansad profile.\n\n**Evidence Quality:** Parliamentary data receives a 'C' grade, indicating moderate reliability, while accessibility data is graded 'D', suggesting poor data quality or limited transparency practices.\n\n**Source Limitations:** Data compilation from PRS, social media, and news sources may not capture complete transparency metrics, particularly for financial disclosures and development fund utilization.\n\n### Key Takeaway\n\nSubbarayan K's transparency profile is severely hampered by widespread data unavailability across critical metrics including assets, MPLADS funds, and comprehensive criminal background checks. While showing clean criminal records and moderate parliamentary activity (70% attendance, 41 questions), the significant data gaps prevent a comprehensive transparency assessment. The 'D' grade for accessibility and missing financial information raise concerns about overall transparency standards. Immediate attention should focus on improving data disclosure and public accessibility to enable proper accountability evaluation.",
-  "validated_at": "2026-05-21T14:36:22.733497Z"
+  "validated_at": "2026-05-21T14:36:22.733497Z",
+  "assets": {
+    "total_assets": 10431271.0,
+    "liabilities": 150462.0,
+    "net_worth": 10280809.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=204",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=204",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.89,
+    "expended": 7.63,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:49.065399Z",
+        "notes": "Official eSAKSHI REST API — Works: 113 recommended, 70 sanctioned, 50 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 113,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 51.90476190476191
+  }
 }

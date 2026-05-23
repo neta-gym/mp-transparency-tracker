@@ -4,16 +4,16 @@
     "constituency": "Bharatpur",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 371,
     "slug": "sanjna-jatav",
     "house": "lok_sabha",
     "sansad_member_id": 5690,
     "profile_url": null,
     "canonical_name": "Sanjna Jatav",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 26,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sanjna Jatav\n\n### Overall Assessment\n\nSanjna Jatav, Congress MP from Bharatpur constituency in Rajasthan, demonstrates strong parliamentary attendance but faces significant transparency challenges due to incomplete data availability across multiple metrics. While maintaining a clean criminal record and active legislative participation, the absence of crucial financial and development fund data limits a comprehensive assessment of her overall effectiveness and accountability as a public representative.\n\n### Fund Utilization & Development\n\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Sanjna Jatav, with no information on entitled amounts, released funds, expenditures, or utilization rates. This data gap is concerning given CAG audit findings highlighting systemic issues in Rajasthan's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper supporting documents. Additionally, 18% of sampled development works remained abandoned or incomplete, indicating broader governance challenges in the state's development fund ecosystem.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of potential conflicts of interest or unusual wealth accumulation. The only available financial information is the standard monthly compensation of Rs 2,45,000, which is consistent across all MPs.\n\n### Legal & Criminal Standing\n\nSanjna Jatav maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability, which raises questions about the completeness of criminal background verification.\n\n### Parliamentary Performance\n\nJatav demonstrates exemplary attendance with a perfect 100% parliamentary attendance record, significantly above national averages. Her legislative engagement includes 16 questions raised and participation in 5 debates, showing active involvement in parliamentary proceedings. However, she has not introduced any private member bills, indicating limited initiative in legislative drafting. The evidence grade for parliamentary data is 'C', suggesting moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversy. This neutral profile may indicate either effective constituency management without major issues or insufficient media attention to gauge public perception accurately. The accessibility evidence grade is 'D', indicating poor data quality for measuring public engagement effectiveness.\n\n### Data Quality & Caveats\n\nThis assessment faces significant limitations due to multiple data quality issues:\n\n- **Criminal record data**: Low confidence warning suggests potential source unavailability\n- **Asset declarations**: Complete absence of financial transparency data\n- **MPLADS information**: No development fund utilization data available\n- **Committee participation**: No committee assignment data found, possibly due to unavailable Sansad profile\n- **Legislative effectiveness**: Low confidence rating for broader legislative impact metrics\n\nThe evidence grades (Parliament: 'C', Accessibility: 'D') indicate moderate to poor data reliability, limiting the robustness of this transparency assessment.\n\n### Key Takeaway\n\nWhile Sanjna Jatav demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial declarations, development fund utilization, and committee participation create a significant transparency deficit. The perfect attendance record and active questioning behavior suggest engagement with parliamentary duties, but the absence of asset declarations and MPLADS data - combined with concerning CAG audit findings about fund mismanagement in Rajasthan - raises questions about comprehensive accountability. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of her effectiveness as their representative.",
-  "validated_at": "2026-05-21T14:25:37.271161Z"
+  "validated_at": "2026-05-21T14:25:37.271161Z",
+  "assets": {
+    "total_assets": 2310193.0,
+    "liabilities": 715340.0,
+    "net_worth": 1594853.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=371",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=371",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.26,
+    "expended": 4.95,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:06.966394Z",
+        "notes": "Official eSAKSHI REST API — Works: 199 recommended, 144 sanctioned, 41 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 199,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 33.673469387755105
+  }
 }

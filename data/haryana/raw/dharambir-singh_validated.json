@@ -4,16 +4,16 @@
     "constituency": "Bhiwani-Mahendragarh",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8558,
     "slug": "dharambir-singh",
     "house": "lok_sabha",
     "sansad_member_id": 4647,
     "profile_url": null,
     "canonical_name": "Dharambir Singh",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 69,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Dharambir Singh\n### Overall Assessment\nMP Dharambir Singh represents the Bhiwani-Mahendragarh constituency in Haryana under the Bharatiya Janata Party banner. While demonstrating strong parliamentary attendance at 95%, his transparency profile reveals significant data gaps across multiple dimensions. The available evidence suggests basic parliamentary engagement but limited visibility into financial and development activities, earning mixed evidence grades (Parliament: C, Accessibility: D).\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable for assessment, with all key metrics (entitled, released, expended amounts) showing as \"None.\" This data gap prevents evaluation of his development project execution. However, CAG audit findings for Haryana highlight systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level concerns underscore the importance of transparent fund tracking.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, with total assets, previous assets, growth ratio, and net worth all showing as \"None.\" This represents a significant transparency gap that prevents assessment of financial growth or potential conflicts of interest. Monthly compensation is listed at Rs 2,45,000, which appears standard for parliamentary positions.\n\n### Legal & Criminal Standing\nSingh maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting this clean record may reflect data gaps rather than verified information.\n\n### Parliamentary Performance\nSingh demonstrates above-average parliamentary engagement with 95% attendance, significantly higher than typical MP attendance rates. He has raised 55 questions and participated in 5 debates, indicating active legislative participation. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. No committee membership data is available, potentially indicating absence from parliamentary committees or data unavailability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 neutral articles with zero positive or negative pieces, suggesting limited public discourse around his activities. The neutral tone may indicate either non-controversial performance or insufficient media attention. Social media and digital engagement metrics are not provided, limiting assessment of direct public interaction capabilities.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability concerns:\n- Criminal record data has low confidence due to source unavailability\n- Asset information completely missing despite mandatory disclosure requirements\n- MPLADS data unavailable across all metrics\n- No committee membership information found\n- Legislative effectiveness data has low confidence ratings\n\nThese gaps severely limit the ability to conduct comprehensive transparency assessment and may indicate either systemic data collection issues or insufficient disclosure compliance.\n\n### Key Takeaway\nWhile Dharambir Singh demonstrates strong parliamentary attendance and basic legislative engagement, his transparency profile is severely compromised by extensive data gaps across financial disclosures, development fund utilization, and committee activities. The available clean criminal record and neutral media coverage are positive indicators, but low data confidence levels raise questions about information accessibility and disclosure compliance. Improved data availability would be essential for meaningful transparency evaluation.",
-  "validated_at": "2026-05-21T14:25:13.929957Z"
+  "validated_at": "2026-05-21T14:25:13.929957Z",
+  "assets": {
+    "total_assets": 115664424.0,
+    "liabilities": 0.0,
+    "net_worth": 115664424.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8558",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8558",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.88,
+    "expended": 5.34,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:15.077696Z",
+        "notes": "Official eSAKSHI REST API — Works: 190 recommended, 156 sanctioned, 97 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 190,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.3265306122449
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Madha",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4929,
     "slug": "mohite-patil-dhairyasheel-rajsinh",
     "house": "lok_sabha",
     "sansad_member_id": 5649,
     "profile_url": null,
     "canonical_name": "Mohite Patil Dhairyasheel Rajsinh",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mohite Patil Dhairyasheel Rajsinh\n\n### Overall Assessment\nMP Mohite Patil Dhairyasheel Rajsinh from Madha constituency (Maharashtra) represents the Nationalist Congress Party - Sharadchandra Pawar in the Lok Sabha. His transparency profile shows strong parliamentary attendance but significant data gaps across multiple critical areas including financial assets, MPLADS utilization, and committee participation. With limited public information available, a comprehensive assessment of his effectiveness remains challenging.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Madha constituency. The CAG audit context reveals systemic issues in Maharashtra's fund utilization, including Rs 1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These findings highlight broader concerns about development fund management that may affect constituency-level implementation.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation or potential conflicts of interest. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset declarations, a complete financial picture cannot be established.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning about low confidence levels, suggesting the source information may be unreliable or unavailable. While the current data indicates no legal issues, the data quality concerns require careful interpretation.\n\n### Parliamentary Performance\nThe MP demonstrates strong attendance with 95% participation in parliamentary sessions, significantly above average attendance rates. He has actively engaged in questioning the government with 66 questions raised, showing commitment to oversight functions. However, his participation in debates remains minimal with only 1 recorded contribution, and he has introduced no private member bills. The absence of committee membership data (flagged as unavailable due to potential Sansad profile issues) limits assessment of his legislative work beyond the main chamber.\n\n### Public Engagement & Accessibility\nMedia coverage remains neutral with 9 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment. The limited media presence suggests either low public visibility or measured public relations approach. However, accessibility receives a 'D' grade, indicating potential challenges in public engagement or information availability. No committee participation data further suggests limited visible engagement in specialized legislative work.\n\n### Data Quality & Caveats\nThis profile contains significant data reliability concerns across multiple domains. Asset information is entirely missing, MPLADS data is unavailable despite being crucial for constituency development assessment, and criminal record data carries low confidence warnings. Committee membership information is absent due to potential Sansad profile unavailability. Parliament performance data receives a 'C' grade while accessibility scores 'D', indicating moderate to poor data quality. These limitations significantly constrain the ability to provide a comprehensive transparency assessment.\n\n### Key Takeaway\nMP Mohite Patil Dhairyasheel Rajsinh shows commitment to parliamentary attendance (95%) and government oversight through questioning (66 questions), but his transparency profile is severely hampered by missing data across critical areas including assets, MPLADS utilization, and committee work. While maintaining a clean criminal record, the absence of financial disclosures and development fund information raises transparency concerns. The systemic fund utilization issues identified in Maharashtra's CAG audits underscore the importance of proper MPLADS monitoring, making the lack of this data particularly concerning for constituency accountability.",
-  "validated_at": "2026-05-21T14:35:42.871780Z"
+  "validated_at": "2026-05-21T14:35:42.871780Z",
+  "assets": {
+    "total_assets": 489434188.0,
+    "liabilities": 205027212.0,
+    "net_worth": 284406976.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4929",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 36,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 36,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4929",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 19.56,
+    "released": 19.56,
+    "sanctioned": 2.17,
+    "expended": 0.88,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:08.688220Z",
+        "notes": "Official eSAKSHI REST API — Works: 171 recommended, 65 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 171,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 4.4989775051124745
+  }
 }

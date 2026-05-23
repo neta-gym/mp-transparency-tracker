@@ -4,16 +4,16 @@
     "constituency": "Raigad",
     "state": "maharashtra",
     "party": "Nationalist Congress Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4319,
     "slug": "tatkare-sunil-dattatrey",
     "house": "lok_sabha",
     "sansad_member_id": 5199,
     "profile_url": null,
     "canonical_name": "Tatkare Sunil Dattatrey",
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 69,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Talkare Sunil Dattatrey\n\n### Overall Assessment\n\nTalkare Sunil Dattatrey, representing Raigad constituency in Maharashtra as a Nationalist Congress Party MP, presents a mixed transparency profile with significant data gaps across multiple accountability dimensions. While maintaining a clean criminal record and demonstrating moderate parliamentary attendance, the absence of critical financial and development fund data severely limits comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\n\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentages. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of this data is particularly concerning in Maharashtra's context, where CAG audit findings from 2010 revealed systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether these historical issues persist in Raigad constituency.\n\n### Financial Transparency\n\nAsset disclosure presents another significant transparency deficit. Both current and previous asset values are listed as \"None,\" preventing any assessment of wealth accumulation, growth ratios, or potential conflicts of interest. This data gap undermines public accountability, as asset declarations serve as a crucial mechanism for monitoring elected representatives' financial integrity. The MP receives a total monthly compensation of Rs 245,000, but without asset data, comprehensive financial transparency remains compromised.\n\n### Legal & Criminal Standing\n\nTalkare maintains an exemplary criminal record with zero cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, the data comes with a low confidence warning, suggesting potential source unavailability. Despite this caveat, the absence of any reported criminal allegations represents a positive aspect of his public service record.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity levels with 70% attendance, indicating reasonable but not exceptional commitment to House proceedings. Legislative participation includes 25 questions raised and 3 debate participations, demonstrating some engagement with parliamentary processes. However, no private member's bills were introduced, suggesting limited initiative in legislative innovation. The evidence grade of 'C' for parliament data indicates moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\n\nPublic engagement metrics reveal limited digital presence and accessibility. News coverage analysis shows 9 articles with neutral sentiment (0 positive, 0 negative), suggesting minimal public discourse around the MP's activities. This neutral coverage pattern may indicate either low-profile governance or insufficient media attention to constituency work. The accessibility evidence grade of 'D' highlights significant gaps in public communication and transparency mechanisms.\n\n### Data Quality & Caveats\n\nMultiple data quality warnings significantly impact this assessment's reliability. Asset and MPLADS data carry low confidence ratings, criminal record data faces source availability issues, and no committee assignment information is available. The absence of legislative effectiveness data and unavailable Sansad profile further limit comprehensive evaluation. These data gaps represent systemic transparency challenges rather than necessarily reflecting poor performance, but they prevent thorough accountability assessment.\n\n### Key Takeaway\n\nTalkare Sunil Dattatrey's transparency profile is characterized by clean legal standing and moderate parliamentary participation, but critical data gaps in financial disclosures and development fund utilization severely limit comprehensive accountability assessment. The absence of MPLADS data is particularly concerning given Maharashtra's documented fund utilization challenges. Improving data availability and transparency mechanisms would significantly enhance public accountability and enable more effective performance evaluation. The neutral news coverage and low accessibility ratings suggest opportunities for enhanced public engagement and communication with constituents.",
-  "validated_at": "2026-05-21T14:24:00.602418Z"
+  "validated_at": "2026-05-21T14:24:00.602418Z",
+  "assets": {
+    "total_assets": 145768773.0,
+    "liabilities": 114520.0,
+    "net_worth": 145654253.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4319",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4319",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.4,
+    "expended": 4.99,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:29.200666Z",
+        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 44 sanctioned, 13 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 55,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 33.94557823129252
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Bargarh",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7148,
     "slug": "pradeep-purohit",
     "house": "lok_sabha",
     "sansad_member_id": 5668,
     "profile_url": null,
     "canonical_name": "Pradeep Purohit",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 58,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Pradeep Purohit\n\n### Overall Assessment\nPradeep Purohit, BJP MP from Bargarh constituency in Odisha, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps in critical areas. While maintaining a clean criminal record and demonstrating consistent legislative participation, the absence of comprehensive asset and MPLADS utilization data limits a full assessment of his financial transparency and development impact.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, preventing assessment of Purohit's development work in Bargarh constituency. This data gap is particularly concerning given CAG audit findings across Odisha revealing systemic issues: Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to determine whether Purohit's constituency faces similar challenges or has achieved better utilization rates.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, eliminating any assessment of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations prevents analysis of financial trajectory during his tenure. Purohit receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset data, overall financial transparency remains opaque.\n\n### Legal & Criminal Standing\nPurohit maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be incomplete or unavailable. While the reported clean record is positive, the reliability caveat requires consideration.\n\n### Parliamentary Performance\nPurohit demonstrates strong parliamentary engagement with 95% attendance, significantly above average legislative participation rates. His legislative activity includes 51 questions raised and participation in 7 debates, indicating active representation of constituency concerns. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public sentiment with 10 articles tracked (1 positive, 0 negative, 9 neutral), suggesting limited controversial engagement but also potentially low public visibility. The 'D' evidence grade for accessibility data indicates poor confidence in public engagement metrics. No committee membership data was found, potentially indicating limited specialized legislative roles or data unavailability from Sansad profile sources.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence levels, asset information is completely unavailable, and MPLADS utilization data is missing. Committee participation and legislative effectiveness data also show low confidence levels. These gaps, flagged by automated systems, suggest either data source limitations or MP profile incompleteness on official platforms. The overall evidence quality ranges from 'C' for parliamentary metrics to 'D' for accessibility measures.\n\n### Key Takeaway\nWhile Pradeep Purohit demonstrates strong parliamentary attendance and maintains a reported clean criminal record, significant transparency gaps in asset disclosure and development fund utilization prevent a comprehensive assessment. The 95% attendance rate and active questioning indicate engaged representation, but without MPLADS and asset data, constituents cannot fully evaluate his development impact or financial transparency. Enhanced data disclosure would substantially improve accountability assessment for this Odisha constituency representative.",
-  "validated_at": "2026-05-21T14:27:13.396309Z"
+  "validated_at": "2026-05-21T14:27:13.396309Z",
+  "assets": {
+    "total_assets": 22595410.0,
+    "liabilities": 676737.0,
+    "net_worth": 21918673.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7148",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 8,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 8,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7148",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.48,
+    "expended": 1.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:31.897567Z",
+        "notes": "Official eSAKSHI REST API — Works: 231 recommended, 187 sanctioned, 29 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 231,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.408163265306124
+  }
 }

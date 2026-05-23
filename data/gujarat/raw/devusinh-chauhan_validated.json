@@ -4,16 +4,16 @@
     "constituency": "Kheda",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3772,
     "slug": "devusinh-chauhan",
     "house": "lok_sabha",
     "sansad_member_id": 4858,
     "profile_url": null,
     "canonical_name": "Devusinh Chauhan",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 59,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "# Executive Summary: Devusinh Chauhan\n\n## Executive Summary: Devusinh Chauhan\n\n### Overall Assessment\nDevusinh Chauhan, BJP MP representing Kheda constituency in Gujarat, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While available data indicates no criminal record and perfect parliamentary attendance, substantial missing information across key areas—particularly assets, MPLADS utilization, and committee work—raises concerns about overall transparency and accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable for this MP, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are entitled to ₹5 crore annually under the scheme. The broader MPLADS context in Gujarat reveals systemic issues identified by CAG audits, including ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without MP-specific data, it's impossible to assess Chauhan's development performance or fund utilization effectiveness.\n\n### Financial Transparency\nAsset declaration data is completely missing, preventing any assessment of the MP's financial transparency or potential conflicts of interest. No information is available regarding total assets, previous holdings, growth patterns, or net worth. This data gap significantly undermines the ability to evaluate financial accountability. The MP receives ₹2,45,000 monthly in compensation, but without asset disclosure, overall financial transparency cannot be assessed.\n\n### Legal & Criminal Standing\nChauhan maintains a clean criminal record with zero total cases, serious charges, pending matters, disposals, or convictions. However, this data carries a warning flag indicating low confidence due to potentially unavailable sources. While the available information suggests no legal issues, the data quality concerns require noting this as preliminary information subject to verification.\n\n### Parliamentary Performance\nParliamentary attendance stands at an exemplary 100%, demonstrating commitment to legislative duties. However, overall parliamentary engagement appears limited with only 8 questions raised and 1 debate participation during the assessed period. No private member bills were introduced. Critically, no committee membership or activity data is available, suggesting the MP's Sansad profile may be inaccessible. This limits assessment of substantive legislative work beyond basic attendance metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment across all pieces—no positive or negative coverage was recorded. This neutral media profile suggests limited public visibility or controversial positions but may also indicate reduced public engagement. The evidence grade for accessibility rates 'D', indicating poor transparency in public communication and constituent engagement channels. No social media engagement metrics or public consultation data is available.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n\n- **Criminal Record**: Low confidence warning due to potentially unavailable sources\n- **Assets**: Complete absence of financial disclosure data\n- **MPLADS**: No utilization data available despite scheme importance\n- **Committee Work**: Missing information suggests inaccessible Sansad profile\n- **Evidence Grades**: Parliament performance rated 'C', accessibility rated 'D'\n\nThese data gaps severely limit the reliability of transparency assessments and suggest systemic issues with information availability or disclosure practices.\n\n### Key Takeaway\nWhile Devusinh Chauhan maintains perfect attendance and a clean criminal record, substantial missing data across critical transparency areas—assets, MPLADS utilization, and committee work—prevents a comprehensive accountability assessment. The combination of neutral media coverage, poor accessibility ratings, and significant data gaps suggests limited transparency and public engagement. Voters and oversight bodies should seek additional information sources and demand improved data disclosure to enable proper evaluation of this MP's performance and accountability.",
-  "validated_at": "2026-05-21T14:22:43.493865Z"
+  "validated_at": "2026-05-21T14:22:43.493865Z",
+  "assets": {
+    "total_assets": 34976572.0,
+    "liabilities": 4996647.0,
+    "net_worth": 29979925.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3772",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3772",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.2,
+    "expended": 4.16,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:00.963517Z",
+        "notes": "Official eSAKSHI REST API — Works: 428 recommended, 373 sanctioned, 182 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 428,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 28.29931972789116
+  }
 }

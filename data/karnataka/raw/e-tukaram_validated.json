@@ -4,16 +4,16 @@
     "constituency": "Bellary",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3386,
     "slug": "e-tukaram",
     "house": "lok_sabha",
     "sansad_member_id": 5823,
     "profile_url": null,
     "canonical_name": "E Tukaram",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 57,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: E Tukaram\n\n### Overall Assessment\nE Tukaram, representing Bellary constituency in Karnataka under the Indian National Congress, presents a mixed transparency profile with significant data gaps. While maintaining a clean legal record with zero criminal cases, his parliamentary engagement appears limited with 50% attendance and minimal legislative participation. The absence of critical financial data including assets and MPLADS utilization raises transparency concerns.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable for E Tukaram, with no information on entitled amounts, releases, expenditure, or utilization percentages. This represents a significant transparency gap given MPLADS funds are a key mechanism for constituency development. The broader CAG audit context for Karnataka reveals systemic issues including ₹1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, highlighting potential delivery challenges in the state.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data available on current total assets, previous declarations, growth ratios, or net worth. This lack of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a standard monthly compensation of ₹245,000, but without asset declarations, comprehensive financial oversight remains impossible.\n\n### Legal & Criminal Standing\nE Tukaram maintains a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unreliable or incomplete. This clean record, while positive, should be viewed cautiously given the data quality concerns.\n\n### Parliamentary Performance\nParliamentary engagement shows concerning patterns with 50% attendance, indicating regular absence from proceedings. Legislative participation is minimal, with only 1 question raised, zero participation in debates, and no private member bills introduced. This limited activity suggests reduced advocacy for constituency concerns and minimal contribution to national policy discussions. The evidence grade of 'C' for parliamentary data indicates moderate reliability of this assessment.\n\n### Public Engagement & Accessibility\nMedia coverage spans 10 articles with predominantly neutral tone (9 neutral, 1 negative, 0 positive), suggesting limited public visibility or controversial engagement. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement mechanisms. No committee membership data is available, potentially indicating limited institutional influence within Parliament's working structure.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record and asset information carry low confidence ratings due to potentially unavailable sources. MPLADS data is entirely missing, while committee and legislative effectiveness data show low confidence levels. The Sansad profile appears unavailable, limiting comprehensive assessment. These data gaps substantially constrain transparency evaluation and may mask important information about the MP's performance and conduct.\n\n### Key Takeaway\nE Tukaram's transparency profile is severely hampered by extensive data unavailability across critical areas including assets, MPLADS utilization, and detailed parliamentary engagement. While maintaining a clean legal record, his 50% attendance and minimal legislative participation raise questions about constituency representation effectiveness. The complete absence of financial disclosure and development fund utilization data represents a significant transparency deficit that prevents comprehensive public accountability assessment.",
-  "validated_at": "2026-05-21T14:33:06.944810Z"
+  "validated_at": "2026-05-21T14:33:06.944810Z",
+  "assets": {
+    "total_assets": 35267209.0,
+    "liabilities": 12325000.0,
+    "net_worth": 22942209.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3386",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3386",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.06,
+    "expended": 0.95,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:10.385397Z",
+        "notes": "Official eSAKSHI REST API — Works: 91 recommended, 20 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 91,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 6.462585034013606
+  }
 }

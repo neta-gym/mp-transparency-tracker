@@ -4,16 +4,16 @@
     "constituency": "Chittoor",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5104,
     "slug": "daggumalla-prasada-rao",
     "house": "lok_sabha",
     "sansad_member_id": 5670,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 62,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Daggumalla Prasada Rao\n\n### Overall Assessment\nDaggumalla Prasada Rao, representing Chittoor constituency in Andhra Pradesh for the Telugu Desam Party, demonstrates a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical accountability metrics. While maintaining excellent legislative attendance at 95%, comprehensive assessment is hampered by missing financial and development fund data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, preventing assessment of the MP's development work effectiveness. This data gap is particularly concerning given CAG audit findings for Andhra Pradesh revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for this constituency, it's impossible to determine if these state-level problems affect Chittoor's development programs.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for assessing potential conflicts of interest. The MP receives Rs 2.45 lakh in monthly compensation, but without asset data, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\nDaggumalla Prasada Rao maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, this data carries a low confidence warning, indicating potential source reliability issues that should be noted when interpreting this clean record.\n\n### Parliamentary Performance\nThe MP shows strong legislative engagement with 95% attendance, significantly above average parliamentary participation rates. Parliamentary activity includes 51 questions raised and participation in 2 debates, demonstrating active involvement in legislative processes. However, no private member's bills were introduced, and committee participation data is unavailable, limiting assessment of broader legislative contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited but balanced public engagement, with 10 articles tracked (1 positive, 0 negative, 9 neutral), suggesting minimal controversy but also limited public visibility. Social media and accessibility data receive a 'D' grade, indicating poor public engagement mechanisms. This low accessibility score suggests constituents may face challenges in reaching or interacting with their representative.\n\n### Data Quality & Caveats\nThis assessment faces substantial data quality limitations affecting reliability:\n- **High Risk Gaps**: Complete absence of MPLADS and asset data prevents evaluation of two critical transparency dimensions\n- **Moderate Risk Issues**: Criminal record data flagged with low confidence warnings\n- **Missing Elements**: No committee participation or legislative effectiveness data available\n- **Evidence Quality**: Parliamentary data receives 'C' grade, accessibility 'D' grade\n\nThese gaps significantly limit the comprehensiveness of this transparency assessment and suggest potential issues with data collection or disclosure compliance.\n\n### Key Takeaway\nWhile Daggumalla Prasada Rao demonstrates commitment to parliamentary duties through excellent attendance and maintains a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization prevent a complete accountability assessment. The missing MPLADS data is particularly concerning given documented state-level fund management issues. Improved data disclosure across financial and development metrics would significantly enhance transparency evaluation for this constituency's representation.",
-  "validated_at": "2026-05-21T14:22:58.512184Z"
+  "validated_at": "2026-05-21T14:22:58.512184Z",
+  "assets": {
+    "total_assets": 384493765.0,
+    "liabilities": 80279565.0,
+    "net_worth": 304214200.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5104",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5104",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.63,
+    "expended": 7.05,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:13:19.861433Z",
+        "notes": "Official eSAKSHI REST API — Works: 144 recommended, 142 sanctioned, 7 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 144,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 47.95918367346939
+  }
 }

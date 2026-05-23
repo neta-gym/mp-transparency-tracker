@@ -4,16 +4,16 @@
     "constituency": "Sivaganga",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 181,
     "slug": "karti-p-chidambaram",
     "house": "lok_sabha",
     "sansad_member_id": 4967,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 52,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Karti P Chidambaram\n\n### Overall Assessment\nKarti P Chidambaram, representing Sivaganga constituency in Tamil Nadu for the Indian National Congress, presents a mixed transparency profile with significant data limitations. While his parliamentary attendance of 75% meets basic expectations and he maintains a clean criminal record, substantial gaps in financial disclosure and MPLADS data severely limit comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\nCritical gaps exist in MPLADS fund utilization data, with no information available on entitled amounts, releases, or expenditure patterns. This absence of transparency is particularly concerning given Tamil Nadu's documented issues with fund management. CAG audits reveal systemic problems including Rs 1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation. Without specific data on Chidambaram's MPLADS performance, constituents cannot evaluate his development impact or fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure presents a complete transparency failure, with no data available on current holdings, previous declarations, growth ratios, or net worth. This represents a significant accountability gap, as asset transparency is fundamental to public trust. The only available financial information is his monthly compensation of Rs 245,000, which provides no insight into wealth accumulation or potential conflicts of interest during his tenure.\n\n### Legal & Criminal Standing\nChidambaram maintains a clean criminal record with zero cases across all categories (serious, pending, disposed, convictions). However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the reported clean record is positive, the data reliability concerns prevent definitive assessment of his legal standing.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 75% attendance, which meets basic participation expectations. His legislative contribution includes 16 questions raised and participation in 4 debates, indicating reasonable engagement with parliamentary processes. However, he has introduced zero private bills, suggesting limited legislative initiative. The absence of committee membership data (flagged as unavailable from Sansad profile) prevents assessment of his specialized parliamentary work and expertise application.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely limited by data availability. News sentiment analysis reveals mixed coverage across 10 articles (0 positive, 2 negative, 8 neutral), suggesting neither particularly strong public approval nor significant controversy. The neutral-leaning coverage indicates moderate public visibility without major positive or negative incidents driving media attention. However, the evidence grade for accessibility is rated 'D', indicating poor transparency in public communication and engagement metrics.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to widespread data quality issues. Automated flags highlight:\n- Low confidence in criminal record data due to potentially unavailable sources\n- Low confidence in asset declarations with complete information absence\n- Low confidence in MPLADS data preventing development impact assessment\n- Missing committee membership information from unavailable Sansad profiles\n- Low confidence in legislative effectiveness metrics\n\nThe evidence grading system rates parliamentary data as 'C' and accessibility as 'D', indicating below-average data quality that significantly constrains analytical reliability.\n\n### Key Takeaway\nKarti P Chidambaram's transparency profile is severely compromised by extensive data gaps across critical areas including asset disclosure and MPLADS utilization. While maintaining a clean criminal record and adequate parliamentary attendance, the absence of financial transparency and development fund accountability represents a significant failure in public disclosure obligations. The poor data availability (rated 'D' for accessibility) suggests either inadequate record-keeping or insufficient transparency mechanisms, both problematic for democratic accountability. Voters lack essential information needed to evaluate his financial integrity and development impact, making informed democratic choice difficult despite his basic parliamentary participation.",
-  "validated_at": "2026-05-21T14:32:55.557367Z"
+  "validated_at": "2026-05-21T14:32:55.557367Z",
+  "assets": {
+    "total_assets": 962744048.0,
+    "liabilities": 234850274.0,
+    "net_worth": 727893774.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=181",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 11,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 11,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=181",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.9,
+    "released": 15.9,
+    "sanctioned": 9.33,
+    "expended": 8.82,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:19.583221Z",
+        "notes": "Official eSAKSHI REST API — Works: 150 recommended, 130 sanctioned, 92 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 150,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 55.471698113207545
+  }
 }

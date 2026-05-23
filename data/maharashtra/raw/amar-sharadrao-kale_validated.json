@@ -4,16 +4,16 @@
     "constituency": "Wardha",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1969,
     "slug": "amar-sharadrao-kale",
     "house": "lok_sabha",
     "sansad_member_id": 5820,
     "profile_url": null,
     "canonical_name": "Amar Sharadrao Kale",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 50,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Amar Sharadrao Kale\n\n### Overall Assessment\nAmar Sharadrao Kale, representing Wardha constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, critical information about assets, MPLADS utilization, and committee participation is unavailable, hindering full assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable for MP Kale, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap, as MPLADS spending is a key indicator of an MP's development work in their constituency. The absence of this data prevents assessment of his contribution to Wardha's infrastructure and development projects.\n\nCAG audit findings reveal systemic issues in Maharashtra's fund management that may affect Wardha district, including Rs 1,558 crore in idle funds across state authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about project implementation quality.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information available on current assets, previous assets, growth ratios, or net worth. This represents a critical transparency deficit, as asset disclosure is fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The monthly compensation is reported as Rs 2.45 lakh, consistent with standard MP remuneration.\n\n### Legal & Criminal Standing\nMP Kale maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the clean record is positive, the data quality concerns require noting.\n\n### Parliamentary Performance\nKale demonstrates moderate parliamentary engagement with 85% attendance, which is above average for many MPs. He has asked 41 questions in Parliament, showing active participation in parliamentary questioning mechanisms. However, his debate participation is limited to only 2 instances, and he has introduced zero private member bills, indicating minimal legislative initiative beyond standard parliamentary duties.\n\nThe absence of committee data is particularly concerning, as committee work represents substantial parliamentary contribution. Without information on committee memberships or participation, a significant portion of his parliamentary effectiveness remains unmeasured.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 9 articles about MP Kale, all classified as neutral with no positive or negative coverage identified. This suggests limited media visibility or controversial positions. The evidence grade for accessibility is 'D', indicating poor transparency in public communication and constituent engagement mechanisms.\n\nThe neutral media sentiment, while avoiding negative coverage, may also indicate limited proactive public engagement or newsworthy developmental initiatives in his constituency.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to poor data availability across multiple domains:\n\n- **Criminal records**: Low confidence warning suggests incomplete verification\n- **Assets**: Complete absence of financial disclosure data\n- **MPLADS**: No utilization data available despite this being public information\n- **Committee work**: No data on parliamentary committee participation\n- **Legislative effectiveness**: Low confidence in available data\n\nEvidence grades of 'C' for parliament and 'D' for accessibility reflect these substantial data gaps. The automated flags indicate systemic issues with data availability rather than intentional non-disclosure.\n\n### Key Takeaway\nAmar Sharadrao Kale presents a transparency profile hampered by significant data unavailability across critical domains including assets, MPLADS utilization, and committee participation. While maintaining clean legal standing and reasonable parliamentary attendance (85%), the absence of key transparency metrics - particularly financial disclosures and development fund utilization - prevents comprehensive evaluation of his effectiveness as Wardha's representative. The neutral media coverage and poor accessibility grade suggest limited public engagement, raising questions about constituent communication and accountability mechanisms.",
-  "validated_at": "2026-05-21T14:29:34.670122Z"
+  "validated_at": "2026-05-21T14:29:34.670122Z",
+  "assets": {
+    "total_assets": 106175044.0,
+    "liabilities": 29504353.0,
+    "net_worth": 76670691.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1969",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1969",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.33,
+    "expended": 2.63,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:50.893799Z",
+        "notes": "Official eSAKSHI REST API — Works: 96 recommended, 40 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 96,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 17.891156462585034
+  }
 }

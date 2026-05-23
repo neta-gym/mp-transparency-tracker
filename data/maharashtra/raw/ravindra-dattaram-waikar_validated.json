@@ -4,16 +4,16 @@
     "constituency": "Mumbai North West",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7481,
     "slug": "ravindra-dattaram-waikar",
     "house": "lok_sabha",
     "sansad_member_id": 5701,
     "profile_url": null,
     "canonical_name": "Ravindra Dattaram Waikar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Ravindra Dattaram Waikar\n\n### Overall Assessment\n\nRavindra Dattaram Waikar (Shiv Sena, Mumbai North West) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating high legislative engagement with 100% attendance and active questioning behavior, the absence of critical financial and developmental data raises transparency concerns for a constituency representing India's financial capital.\n\n### Fund Utilization & Development\n\nMPLADS data is completely unavailable, preventing assessment of Waikar's development fund utilization in Mumbai North West. This is particularly concerning given CAG audit findings highlighting systemic issues in Maharashtra's fund management. The 2010 CAG audit (Report 31) identified ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, voters cannot evaluate Waikar's effectiveness in addressing local infrastructure needs in this critical Mumbai constituency.\n\n### Financial Transparency\n\nAsset disclosure information is entirely missing, preventing any assessment of Waikar's financial background or potential conflicts of interest. With a monthly compensation of ₹2.45 lakh, standard for Lok Sabha MPs, there is no available data on his net worth, asset growth, or business interests. This complete absence of financial transparency data significantly limits public accountability, particularly for an MP representing a constituency with substantial commercial and industrial interests.\n\n### Legal & Criminal Standing\n\nWaikar shows a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, confidence in this criminal record data is flagged as low, indicating potential data source limitations. While the available information suggests no legal issues, the warning about data reliability means this assessment should be treated with appropriate caution.\n\n### Parliamentary Performance\n\nWaikar demonstrates strong legislative engagement with exceptional 100% attendance in the Lok Sabha. His parliamentary activity includes 55 questions raised and participation in 14 debates, indicating active representation of constituency concerns. However, he has introduced zero private member's bills, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable due to potential Sansad profile accessibility issues, limiting assessment of his contribution to parliamentary committee work.\n\n### Public Engagement & Accessibility\n\nPublic engagement assessment is severely constrained by limited data availability. News coverage shows 10 neutral articles with no positive or negative sentiment, suggesting minimal media visibility or impact. Social media and direct public engagement metrics are not available. The evidence grade for accessibility is rated 'D', indicating poor transparency in public communication and engagement mechanisms.\n\n### Data Quality & Caveats\n\nThis assessment faces significant data quality limitations across multiple domains. Key caveats include:\n\n- **Asset Information**: Complete absence of financial disclosure data\n- **MPLADS**: No fund utilization data available despite critical importance for development assessment\n- **Criminal Records**: Low confidence warning suggests potential data source issues\n- **Committee Work**: Unavailable due to Sansad profile accessibility problems\n- **Legislative Effectiveness**: Low confidence rating limits assessment reliability\n\nThe parliament activity evidence grade of 'C' and accessibility grade of 'D' indicate substantial transparency gaps. Data sources include PRS, social media monitoring, and news analysis, but coverage appears incomplete.\n\n### Key Takeaway\n\nWhile Waikar maintains excellent parliamentary attendance and demonstrates basic legislative engagement through questions and debates, his transparency profile suffers from critical data gaps that prevent comprehensive accountability assessment. The complete absence of asset disclosure and MPLADS utilization data, combined with Maharashtra's documented fund management challenges, raises significant transparency concerns. Voters in Mumbai North West lack essential information to evaluate their MP's financial integrity and development fund effectiveness, undermining democratic accountability despite his strong attendance record.",
-  "validated_at": "2026-05-21T14:39:02.065899Z"
+  "validated_at": "2026-05-21T14:39:02.065899Z",
+  "assets": {
+    "total_assets": 545049854.0,
+    "liabilities": 44810574.0,
+    "net_worth": 500239280.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7481",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7481",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.8,
+    "expended": 3.92,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:18.930096Z",
+        "notes": "Official eSAKSHI REST API — Works: 46 recommended, 46 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 46,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.666666666666668
+  }
 }

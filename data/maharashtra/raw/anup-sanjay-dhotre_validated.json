@@ -4,16 +4,16 @@
     "constituency": "Akola",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2367,
     "slug": "anup-sanjay-dhotre",
     "house": "lok_sabha",
     "sansad_member_id": 5562,
     "profile_url": null,
     "canonical_name": "Anup Sanjay Dhotre",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 39,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Anup Sanjay Dhotre\n\n### Overall Assessment\n\nAnup Sanjay Dhotre, BJP MP representing Akola constituency in Maharashtra, presents a mixed transparency profile with excellent parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance and active participation in parliamentary proceedings, the lack of comprehensive asset and development fund data limits full transparency assessment.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap given that Maharashtra faces systemic MPLADS implementation challenges. CAG audits reveal concerning state-wide issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data for Dhotre's constituency, it's impossible to assess his development fund management against these broader state-level concerns.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence prevents any assessment of financial transparency or wealth accumulation during tenure. The MP's monthly compensation stands at Rs 2,45,000, but without baseline asset data, growth patterns cannot be evaluated. This data gap significantly undermines financial accountability assessment.\n\n### Legal & Criminal Standing\n\nDhotre maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, confidence in this criminal data is flagged as low, suggesting potential data quality issues. While the available information indicates no legal concerns, the reliability caveat requires consideration when evaluating this aspect of his profile.\n\n### Parliamentary Performance\n\nParliamentary engagement shows strong commitment with 100% attendance, demonstrating consistent participation in legislative proceedings. Dhotre has raised 26 questions and participated in 5 debates, indicating active involvement in parliamentary discourse. However, he has introduced zero private member bills, suggesting limited legislative initiative. The overall parliament activity evidence grade of 'C' indicates moderate confidence in this performance data.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial engagement. The accessibility evidence grade of 'D' indicates poor data availability regarding public interaction and constituent services. No committee participation data is available, which typically represents an important avenue for policy contribution and public service.\n\n### Data Quality & Caveats\n\nMultiple data quality warnings significantly impact this assessment. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence levels, while MPLADS data reliability is also questionable. The absence of committee membership information suggests incomplete Sansad profile data. Legislative effectiveness data confidence is rated as low. These limitations substantially constrain comprehensive transparency evaluation.\n\nMaharashtra-specific CAG findings provide relevant context with 7 audit observations highlighting systemic fund management issues, though direct application to Dhotre's performance remains impossible without constituency-specific data.\n\n### Key Takeaway\n\nWhile Anup Sanjay Dhotre demonstrates strong parliamentary attendance and maintains a clean legal record, significant data gaps across assets, development funds, and public engagement severely limit transparency assessment. The absence of MPLADS utilization data is particularly concerning given documented state-wide fund management issues. Improved data availability and disclosure practices are essential for meaningful accountability evaluation.",
-  "validated_at": "2026-05-21T14:25:25.772771Z"
+  "validated_at": "2026-05-21T14:25:25.772771Z",
+  "assets": {
+    "total_assets": 109259962.0,
+    "liabilities": 37201641.0,
+    "net_worth": 72058321.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2367",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2367",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.87,
+    "expended": 4.03,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:54.712044Z",
+        "notes": "Official eSAKSHI REST API — Works: 99 recommended, 62 sanctioned, 36 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 99,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 27.414965986394563
+  }
 }

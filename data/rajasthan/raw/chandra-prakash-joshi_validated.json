@@ -4,16 +4,16 @@
     "constituency": "Chittorgarh",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2025,
     "slug": "chandra-prakash-joshi",
     "house": "lok_sabha",
     "sansad_member_id": 4671,
     "profile_url": null,
     "canonical_name": "Chandra Prakash Joshi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 48,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Chandra Prakash Joshi\n\n### Overall Assessment\nChandra Prakash Joshi represents Chittorgarh constituency in Rajasthan as a Bharatiya Janata Party member of the Lok Sabha. His transparency profile presents a mixed picture with reasonable parliamentary attendance (85%) but significant data gaps across multiple transparency indicators. The analysis is hampered by incomplete information on crucial metrics including assets, MPLADS utilization, and committee participation.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG's 2010 audit findings highlighting systemic issues in Rajasthan's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising concerns about the effectiveness of constituency development programs.\n\n### Financial Transparency\nAsset disclosure information is completely missing from available records, with no data on current holdings, previous declarations, growth patterns, or net worth calculations. This absence of financial information significantly undermines transparency assessment capabilities. The MP's monthly compensation is recorded at Rs 2.45 lakh, representing standard parliamentary remuneration. Without asset declarations, it's impossible to evaluate potential conflicts of interest or wealth accumulation patterns.\n\n### Legal & Criminal Standing\nThe available criminal record data shows zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, indicating potential source unavailability or incomplete information. While the clean record appears positive, the data quality concerns prevent definitive assessment of legal standing.\n\n### Parliamentary Performance\nJoshi demonstrates moderate engagement in parliamentary proceedings with 85% attendance, positioning him reasonably well compared to national averages. His legislative activity includes 37 questions raised and participation in 5 debates, showing some initiative in holding the government accountable and contributing to policy discussions. However, he has introduced zero private member bills, indicating limited proactive legislative contribution. No committee membership information is available, suggesting either non-participation or data unavailability from Sansad profiles.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral stance suggests limited media attention or controversy but also potentially reduced public visibility. The absence of positive coverage may indicate missed opportunities for highlighting constituency work or policy achievements. Social media and direct public engagement metrics are not available in the current dataset, limiting assessment of citizen accessibility and communication effectiveness.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues. Evidence grades show parliamentary data at 'C' level and accessibility at 'D' level, indicating substantial reliability concerns. Critical warnings include low confidence in criminal records, assets, and MPLADS data. The absence of committee information and legislative effectiveness data further constrains comprehensive evaluation. Sources include PRS, social media, and news outlets, but data completeness varies significantly across metrics.\n\n### Key Takeaway\nChandra Prakash Joshi's transparency profile is severely constrained by missing data across key indicators, making comprehensive assessment challenging. While his 85% parliamentary attendance and question-raising activity demonstrate some engagement, the complete absence of asset disclosures and MPLADS utilization data raises transparency concerns. The neutral media coverage and systemic fund management issues highlighted in CAG audits suggest need for enhanced accountability measures. Voters and stakeholders should seek more complete disclosure of assets, development fund utilization, and committee participation to make informed assessments of his representational effectiveness.",
-  "validated_at": "2026-05-21T14:25:39.757268Z"
+  "validated_at": "2026-05-21T14:25:39.757268Z",
+  "assets": {
+    "total_assets": 40973304.0,
+    "liabilities": 8627349.0,
+    "net_worth": 32345955.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2025",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2025",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.65,
+    "expended": 0.4,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:49.963669Z",
+        "notes": "Official eSAKSHI REST API — Works: 18 recommended, 15 sanctioned, 8 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 18,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 2.72108843537415
+  }
 }

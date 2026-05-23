@@ -4,16 +4,16 @@
     "constituency": "Mandi",
     "state": "himachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8764,
     "slug": "kangna-ranaut",
     "house": "lok_sabha",
     "sansad_member_id": 5652,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 37,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kangna Ranaut\n\n### Overall Assessment\n\nKangna Ranaut, BJP MP from Mandi (Himachal Pradesh), presents a mixed transparency profile with notable data gaps affecting comprehensive assessment. While maintaining strong parliamentary attendance (90%) and clean criminal record, significant information voids in asset declarations and MPLADS utilization limit full evaluation of her performance as a public representative.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, preventing assessment of development fund utilization. This represents a critical transparency gap given that each MP is entitled to ₹5 crore annually for constituency development. The absence of data on entitled amounts, releases, expenditure, and utilization rates makes it impossible to evaluate her effectiveness in delivering development projects to Mandi constituency.\n\nCAG audit findings for Himachal Pradesh reveal systemic concerns: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues provide important context for evaluating local development work, though specific data for Ranaut's constituency remains unavailable.\n\n### Financial Transparency\n\nAsset information is completely missing, preventing analysis of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations represents a significant transparency deficit. Her monthly compensation totals ₹2.45 lakh, but without asset disclosure, comprehensive financial accountability cannot be assessed.\n\n### Legal & Criminal Standing\n\nRanaut maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues that warrant cautious interpretation of this apparently clean record.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with strong attendance but limited legislative participation. Key metrics include:\n- **Attendance**: 90% - well above average parliamentary attendance rates\n- **Questions raised**: 20 - moderate level of scrutiny and constituency representation\n- **Debate participation**: 6 instances - limited engagement in parliamentary discussions\n- **Private bills**: 0 - no legislative initiatives introduced\n\nThis profile suggests consistent presence but relatively passive participation in parliamentary proceedings.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public engagement with 10 articles tracked (1 positive, 0 negative, 9 neutral). This neutral-to-mixed coverage suggests limited public visibility or controversial positioning. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and constituent engagement mechanisms.\n\nSocial media presence appears limited based on available sources, though comprehensive social media engagement metrics are not provided.\n\n### Data Quality & Caveats\n\nSeveral critical data quality issues significantly impact this assessment:\n\n- **Criminal records**: Low confidence due to potential source unavailability\n- **Asset declarations**: Completely missing with low confidence ratings\n- **MPLADS data**: Entirely unavailable despite being mandatory public information\n- **Committee membership**: No data found, suggesting Sansad profile unavailability\n- **Legislative effectiveness**: Low confidence in available data\n\nEvidence grades of 'C' for parliament and 'D' for accessibility reflect substantial information gaps. The automated flagging system identifies multiple data reliability concerns that limit assessment accuracy.\n\n### Key Takeaway\n\nKangna Ranaut's transparency profile is severely hampered by critical data voids in asset declarations and MPLADS utilization, despite maintaining good parliamentary attendance and a clean criminal record. The absence of mandatory financial disclosures and development fund information represents significant transparency failures that prevent comprehensive public accountability assessment. While her 90% attendance demonstrates commitment to parliamentary duties, limited legislative participation and poor accessibility scores suggest room for improvement in constituent engagement and policy contribution.",
-  "validated_at": "2026-05-21T14:22:34.486646Z"
+  "validated_at": "2026-05-21T14:22:34.486646Z",
+  "assets": {
+    "total_assets": 916631239.0,
+    "liabilities": 173886641.0,
+    "net_worth": 742744598.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8764",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 8,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 8,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8764",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.37,
+    "expended": 3.6,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:26.448549Z",
+        "notes": "Official eSAKSHI REST API — Works: 315 recommended, 286 sanctioned, 10 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 315,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 24.48979591836735
+  }
 }

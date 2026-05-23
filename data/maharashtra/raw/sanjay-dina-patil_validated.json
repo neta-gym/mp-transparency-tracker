@@ -4,16 +4,16 @@
     "constituency": "Mumbai North East",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7840,
     "slug": "sanjay-dina-patil",
     "house": "lok_sabha",
     "sansad_member_id": 4393,
     "profile_url": null,
     "canonical_name": "Sanjay Dina Patil",
     "name_aliases": [],
-    "education": null,
+    "education": "8th Pass",
     "profession": null,
-    "age": null,
+    "age": 43,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sanjay Dina Patil\n\n### Overall Assessment\nSanjay Dina Patil, representing Mumbai North East constituency in Maharashtra under the Shiv Sena (Uddhav Balasaheb Thackrey) party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance stands at a solid 80%, substantial missing information across financial and developmental indicators raises concerns about overall accountability assessment.\n\n### Fund Utilization & Development\nComplete MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given the CAG audit findings for Maharashtra revealing systemic issues with fund management. The 2010 CAG report highlighted that Rs 1,558 crore remained unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Patil's constituency, it's impossible to evaluate his performance against these broader governance challenges.\n\n### Financial Transparency\nAsset disclosure information is entirely missing from available records, creating a significant transparency gap. No data is available regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The only available financial data point is his monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nRecords indicate zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat: the data source confidence is marked as low, suggesting potential gaps in criminal record verification processes. This limitation requires careful interpretation of what appears to be an unblemished legal standing.\n\n### Parliamentary Performance\nPatil demonstrates moderate engagement in parliamentary proceedings with 80% attendance, exceeding the average attendance rates typically seen in the Lok Sabha. His legislative activity shows reasonable participation with 64 questions raised and 8 debate contributions, indicating active engagement in parliamentary discussions. However, he has not introduced any private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available, which limits assessment of his specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement, with only 10 news articles identified over the assessment period. All articles maintain neutral sentiment with no positive or negative coverage detected, suggesting either low media visibility or carefully managed public communications. This neutral profile, while avoiding controversy, may also indicate limited proactive public engagement or policy advocacy. The evidence grade for accessibility is marked as 'D', indicating poor data availability regarding public outreach and constituent services.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to poor data quality across multiple domains. Criminal record data carries low confidence ratings, asset information is completely unavailable, and MPLADS utilization data is missing entirely. Committee membership information is absent, potentially due to unavailable Sansad profile data. The parliamentary performance grade of 'C' and accessibility grade of 'D' reflect these data limitations. These gaps significantly constrain the ability to provide a comprehensive transparency assessment and suggest systemic issues with information disclosure or data collection processes.\n\n### Key Takeaway\nWhile Sanjay Dina Patil maintains reasonable parliamentary attendance and shows no recorded criminal issues, the extensive data gaps across financial disclosures, development fund utilization, and public engagement create substantial transparency concerns. The absence of asset information and MPLADS data, combined with limited media visibility, suggests either inadequate disclosure practices or systemic data collection failures. Without addressing these information gaps, constituents and oversight bodies cannot effectively evaluate his performance as their elected representative, undermining democratic accountability principles.",
-  "validated_at": "2026-05-21T14:34:19.102955Z"
+  "validated_at": "2026-05-21T14:34:19.102955Z",
+  "assets": {
+    "total_assets": 1043603.0,
+    "liabilities": 0.0,
+    "net_worth": 1043603.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7840",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7840",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.86,
+    "expended": 0.16,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:19.675514Z",
+        "notes": "Official eSAKSHI REST API — Works: 40 recommended, 25 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 40,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.08843537414966
+  }
 }

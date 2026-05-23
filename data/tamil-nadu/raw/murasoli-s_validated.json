@@ -4,16 +4,16 @@
     "constituency": "Thanjavur",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1451,
     "slug": "murasoli-s",
     "house": "lok_sabha",
     "sansad_member_id": 5798,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Murasoli S\n\n### Overall Assessment\n\nMurasoli S represents Thanjavur constituency in Tamil Nadu as a Lok Sabha member from the Dravida Munnetra Kazhagam (DMK) party. Based on available data, the MP maintains a clean legal record but faces significant data gaps across most transparency indicators, limiting comprehensive assessment. The evidence grades indicate moderate parliamentary data quality (C) but poor accessibility metrics (D).\n\n### Fund Utilization & Development\n\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Murasoli S, including entitlement amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary tool for constituency development.\n\nHowever, broader systemic concerns exist in Tamil Nadu's fund management based on CAG audit findings. The 2010 CAG report (31 of 2010) identified significant issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. These systemic weaknesses raise questions about overall development fund effectiveness in the state.\n\n### Financial Transparency\n\nAsset disclosure data is entirely unavailable for Murasoli S. Neither current total assets nor previous asset values are reported, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are also missing, representing a complete transparency failure in financial disclosure.\n\nThe MP's monthly compensation is reported at Rs 2.45 lakh, consistent with standard parliamentary remuneration structures.\n\n### Legal & Criminal Standing\n\nMurasoli S maintains a clean criminal record with zero cases across all categories: no total cases, serious cases, pending matters, disposed cases, or convictions. This represents a positive transparency indicator, though the automated system flags low confidence in criminal data availability, suggesting potential reporting gaps rather than confirmed clean status.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Attendance stands at 85%, which exceeds the 70% threshold generally considered acceptable for effective representation. However, active participation appears limited with only 17 questions asked, 3 debate participations, and zero private member bills introduced during the tenure.\n\nNo committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability. This represents a significant gap as committee work often constitutes substantial parliamentary contribution beyond floor activities.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals minimal public engagement with only 10 news articles identified. The coverage breakdown shows concerning patterns: zero positive articles, one negative piece, and nine neutral reports. This limited media presence suggests either low public visibility or insufficient proactive communication with constituents.\n\nThe evidence grade for accessibility rates as 'D', indicating poor performance in public outreach and engagement metrics. No social media engagement data or direct constituent interaction metrics are available.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight serious data quality issues:\n\n- **Criminal records**: Low confidence due to potential source unavailability\n- **Assets**: Low confidence in asset disclosure data\n- **MPLADS**: Low confidence in development fund data\n- **Committees**: Complete absence of committee participation data\n- **Legislative effectiveness**: Low confidence ratings\n\nThese caveats significantly limit the reliability of this transparency assessment. The 'C' grade for parliamentary data and 'D' grade for accessibility suggest systemic issues with data collection or reporting rather than necessarily reflecting poor MP performance.\n\n### Key Takeaway\n\nMurasoli S presents as a constituency representative with clean legal standing and adequate parliamentary attendance, but transparency assessment is severely hampered by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and public engagement metrics. The combination of limited available data and concerning systemic issues identified in Tamil Nadu's development fund management suggests constituents may face challenges in properly evaluating their representative's effectiveness and accountability. Improved data disclosure and transparency reporting mechanisms are essential for meaningful democratic oversight.",
-  "validated_at": "2026-05-21T14:34:16.951370Z"
+  "validated_at": "2026-05-21T14:34:16.951370Z",
+  "assets": {
+    "total_assets": 20734393.0,
+    "liabilities": 1713126.0,
+    "net_worth": 19021267.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1451",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 6,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 6,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1451",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.75,
+    "expended": 6.73,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:35.425511Z",
+        "notes": "Official eSAKSHI REST API — Works: 66 recommended, 66 sanctioned, 27 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 66,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 45.78231292517007
+  }
 }

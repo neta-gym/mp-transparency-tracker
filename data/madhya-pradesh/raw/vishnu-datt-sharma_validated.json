@@ -4,16 +4,16 @@
     "constituency": "Khajuraho",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2455,
     "slug": "vishnu-datt-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 5066,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vishnu Datt Sharma\n\n### Overall Assessment\n\nVishnu Datt Sharma, BJP MP from Khajuraho constituency in Madhya Pradesh, presents a limited transparency profile due to significant data gaps across multiple key metrics. Available evidence suggests moderate parliamentary engagement with 55% attendance, but substantial information deficits prevent comprehensive evaluation of his development work and financial accountability.\n\n### Fund Utilization & Development\n\nComplete data unavailability regarding MPLADS fund utilization presents a critical transparency gap. No information is available on entitled amounts, releases, expenditures, or utilization percentages for the Khajuraho constituency. This absence is particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: ₹1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without MPLADS data, it's impossible to assess whether Khajuraho faces similar implementation challenges.\n\n### Financial Transparency\n\nAsset disclosure information is entirely unavailable, preventing any assessment of financial transparency or wealth accumulation patterns. No data exists on current total assets, previous declarations, growth ratios, or net worth calculations. This complete absence of financial disclosure data significantly hampers transparency evaluation. The MP's monthly compensation is recorded at ₹245,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\n\nCriminal record data shows zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, suggesting potential source unavailability issues. While the clean record appears positive, the reliability caveat means this assessment should be treated cautiously until verified through alternative sources.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with a 55% attendance rate, falling short of optimal participation levels. Legislative activity includes 42 questions raised and participation in 2 debates, indicating moderate engagement with parliamentary proceedings. However, no private member bills were introduced, suggesting limited legislative initiative. No committee assignment data is available, preventing assessment of specialized parliamentary work. The evidence grade of 'C' for parliamentary data indicates moderate reliability with some gaps.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals limited public visibility with only 7 articles identified, all carrying neutral sentiment with no positive or negative coverage detected. This minimal media presence suggests limited public engagement or communication strategy. Social media presence and public interaction data are insufficient for comprehensive evaluation. The accessibility evidence grade of 'D' indicates poor data availability in this crucial transparency dimension.\n\n### Data Quality & Caveats\n\nMultiple significant data quality issues affect this assessment:\n\n- **Criminal records**: Low confidence warning due to potential source unavailability\n- **Assets**: Complete data absence with low confidence rating\n- **MPLADS**: No utilization data available with low confidence assessment\n- **Committees**: No committee information found, suggesting Sansad profile unavailability\n- **Legislative effectiveness**: Low confidence in available data\n\nThe overall evidence quality ranges from C-grade (parliament) to D-grade (accessibility), indicating substantial reliability concerns across most metrics.\n\n### Key Takeaway\n\nVishnu Datt Sharma's transparency profile is severely constrained by extensive data gaps, preventing comprehensive accountability assessment. While available criminal record data appears clean and parliamentary attendance shows moderate engagement (55%), the complete absence of MPLADS fund utilization data and asset declarations creates significant transparency deficits. Given CAG audit findings revealing systemic development fund management issues in Madhya Pradesh, the lack of constituency-specific MPLADS data is particularly problematic. Citizens and oversight bodies should prioritize obtaining complete financial and development fund utilization data to enable proper accountability evaluation. The minimal media coverage and poor accessibility rating suggest limited public engagement, highlighting needs for enhanced transparency mechanisms and public communication strategies.",
-  "validated_at": "2026-05-21T14:26:59.968312Z"
+  "validated_at": "2026-05-21T14:26:59.968312Z",
+  "assets": {
+    "total_assets": 49262858.0,
+    "liabilities": 18438272.0,
+    "net_worth": 30824586.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2455",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2455",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.07,
+    "expended": 0.69,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:48.767153Z",
+        "notes": "Official eSAKSHI REST API — Works: 9 recommended, 6 sanctioned, 3 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 9,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 4.6938775510204085
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Kurukshetra",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8542,
     "slug": "naveen-jindal",
     "house": "lok_sabha",
     "sansad_member_id": 4041,
     "profile_url": null,
     "canonical_name": "Naveen Jindal",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Naveen Jindal\n\n### Overall Assessment\n\nNaveen Jindal, BJP MP from Kurukshetra, Haryana, presents a mixed transparency profile characterized by significant data gaps across multiple accountability metrics. While maintaining a clean criminal record, his parliamentary engagement shows moderate attendance (45%) with limited legislative participation. The assessment is substantially hampered by missing financial and MPLADS data, preventing a comprehensive evaluation of his developmental and fiscal performance.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given that MPLADS is a primary mechanism for constituency development. CAG audit findings for Haryana reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader implementation challenges in the state that may affect constituency-level development projects.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, with no information available on current wealth, previous declarations, or growth patterns. This absence of financial transparency data makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 2,45,000, but without asset baselines, meaningful financial accountability cannot be established. This data gap significantly undermines public oversight capabilities.\n\n### Legal & Criminal Standing\n\nNaveen Jindal maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the criminal record data carries a low confidence warning, indicating potential source reliability issues. Despite this caveat, the available evidence suggests no legal impediments to his parliamentary service.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with 45% attendance, falling below optimal participation levels. Legislative activity is limited with 15 questions raised, 3 debate participations, and zero private member bills introduced. This suggests moderate engagement with parliamentary procedures but limited proactive legislative initiatives. No committee membership data is available, preventing assessment of specialized parliamentary work. The overall parliamentary performance grade of 'C' indicates room for improvement in legislative effectiveness.\n\n### Public Engagement & Accessibility\n\nPublic engagement metrics show limited visibility with 10 news articles providing mixed coverage (1 positive, 0 negative, 9 neutral). This relatively low media presence suggests moderate public engagement or limited newsworthiness of activities. The accessibility grade of 'D' indicates poor public outreach and transparency in communication with constituents. Social media presence appears minimal based on available sources, suggesting limited digital engagement strategies.\n\n### Data Quality & Caveats\n\nMultiple significant data quality issues compromise this assessment:\n- Asset and MPLADS data completely unavailable, preventing financial and developmental accountability evaluation\n- Criminal record data flagged with low confidence warnings\n- Committee participation information missing due to potential Sansad profile unavailability\n- Legislative effectiveness data marked as low confidence\n- Evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate substantial data limitations\n\nThese gaps represent critical transparency deficits that hinder comprehensive public accountability assessment.\n\n### Key Takeaway\n\nNaveen Jindal's transparency profile is severely compromised by extensive missing data across crucial accountability metrics, particularly financial assets and MPLADS utilization. While maintaining a clean legal record and moderate parliamentary presence (45% attendance, 15 questions), the absence of financial transparency and development fund data prevents meaningful public oversight. The 'D' grade for accessibility combined with limited public engagement suggests poor constituent communication. Immediate improvements in data disclosure and public engagement mechanisms are essential for enhanced democratic accountability.",
-  "validated_at": "2026-05-21T14:23:43.060262Z"
+  "validated_at": "2026-05-21T14:23:43.060262Z",
+  "assets": {
+    "total_assets": 12414768000.0,
+    "liabilities": 73706000.0,
+    "net_worth": 12341062000.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8542",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 9,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 9,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8542",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.75,
+    "expended": 5.29,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:18.395337Z",
+        "notes": "Official eSAKSHI REST API — Works: 197 recommended, 192 sanctioned, 92 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 197,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 35.98639455782313
+  }
 }

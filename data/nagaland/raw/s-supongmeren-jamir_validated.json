@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: S Supongmeren Jamir\n\n### Overall Assessment\nS Supongmeren Jamir, a 61-year-old Indian National Congress MP from Nagaland, presents a mixed transparency profile. While maintaining a clean legal record and perfect parliamentary attendance, significant data gaps in fund utilization and legislative effectiveness limit comprehensive assessment. His ₹21 lakh asset portfolio reflects modest personal wealth typical of northeastern politicians, but the absence of baseline comparison data prevents meaningful wealth growth analysis.\n\n### Fund Utilization & Development\nComplete data unavailability marks the most concerning aspect of Jamir's transparency profile. No MPLADS (Member of Parliament Local Area Development Scheme) data exists for entitlements, releases, expenditures, or utilization rates. This opacity is particularly problematic given CAG audit findings revealing systemic MPLADS mismanagement across states, including ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without constituency-specific spending data, voters cannot assess Jamir's developmental impact in Nagaland.\n\n### Financial Transparency\nJamir's financial disclosures show total assets of ₹21,00,868 with a net worth of ₹15,44,340, indicating modest liabilities of approximately ₹5.6 lakh. However, the absence of previous asset data prevents growth analysis—a critical transparency metric. His monthly compensation of ₹2,45,000 appears standard for parliamentary positions. The assets-to-income ratio suggests reasonable financial standing without obvious wealth accumulation concerns, though longitudinal analysis remains impossible.\n\n### Legal & Criminal Standing\nJamir maintains an exemplary legal record with zero criminal cases across all categories—no pending, disposed, or conviction records. This clean slate represents the gold standard for public representatives and distinguishes him positively from many peers facing criminal proceedings. The absence of any legal complications enhances his credibility as a public servant.\n\n### Parliamentary Performance\nJamir demonstrates strong attendance commitment with a perfect 100% parliamentary participation rate. However, his legislative engagement appears limited, contributing only 3 questions and participating in 5 debates with zero private bills introduced. This performance suggests reactive rather than proactive parliamentary engagement. The low question count may indicate either strategic selectivity or insufficient constituency issue advocacy. Committee assignment data remains unavailable, preventing assessment of specialized legislative contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment—no positive or negative coverage detected. This neutral profile suggests either limited public visibility or absence of controversial positions. The lack of polarizing coverage could indicate effective constituency service without major conflicts, though it may also suggest insufficient public engagement or media attention. Social media presence and direct constituent interaction data remain unavailable for comprehensive accessibility assessment.\n\n### Data Quality & Caveats\nSignificant data limitations undermine comprehensive evaluation. Evidence grades range from B-level (criminal and assets) to D-level (accessibility), with parliamentary performance receiving C-grade confidence. Critical gaps include: complete MPLADS absence, missing committee assignments, unavailable previous asset comparisons, and limited legislative effectiveness metrics. The warning flags indicate low confidence in MPLADS data specifically and general unavailability of Sansad profile information. These limitations particularly affect assessment of developmental impact and legislative productivity.\n\n### Key Takeaway\nWhile S Supongmeren Jamir maintains strong legal standing and parliamentary attendance, substantial transparency gaps prevent meaningful evaluation of his effectiveness as Nagaland's representative. The complete absence of development fund utilization data, combined with limited legislative activity and neutral public profile, suggests either systematic data collection failures or minimal public engagement. Voters lack essential information to assess his developmental contributions, making accountability difficult despite his clean personal record and perfect attendance.",
-  "validated_at": "2026-05-21T14:22:12.122804Z"
+  "validated_at": "2026-05-21T14:22:12.122804Z",
+  "assets": {
+    "total_assets": 2100868.0,
+    "liabilities": 556528.0,
+    "net_worth": 1544340.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=356",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=356",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.8,
+    "expended": 9.51,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:21.043828Z",
+        "notes": "Official eSAKSHI REST API — Works: 39 recommended, 39 sanctioned, 37 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 39,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 64.6938775510204
+  }
 }

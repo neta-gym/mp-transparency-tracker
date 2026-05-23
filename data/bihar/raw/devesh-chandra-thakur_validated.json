@@ -4,16 +4,16 @@
     "constituency": "Sitamarhi",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7129,
     "slug": "devesh-chandra-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5662,
     "profile_url": null,
     "canonical_name": "Devesh Chandra Thakur",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 71,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Devesh Chandra Thakur\n\n### Overall Assessment\n\nDevesh Chandra Thakur, representing Sitamarhi constituency in Bihar for Janata Dal (United), presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with 55% attendance and limited legislative activity. The absence of critical financial data severely constrains comprehensive assessment of his developmental impact and fiscal responsibility.\n\n### Fund Utilization & Development\n\n**Critical data gaps exist for MPLADS fund utilization.** No information is available regarding entitlements, releases, expenditures, or utilization percentages. This represents a significant transparency deficit given Bihar's documented challenges with fund management.\n\nThe CAG audit context for Bihar reveals systemic concerns: Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. These findings highlight the critical importance of transparent fund tracking, making the absence of Thakur's MPLADS data particularly concerning for constituency oversight.\n\n### Financial Transparency\n\n**Asset disclosure data is completely unavailable,** preventing assessment of wealth accumulation patterns or potential conflicts of interest. No information exists regarding total assets, previous holdings, growth ratios, or net worth calculations.\n\nMonthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point. The absence of asset data significantly undermines transparency standards expected for public representatives.\n\n### Legal & Criminal Standing\n\n**Clean criminal record with zero cases** across all categories - no pending cases, serious charges, disposed matters, or convictions. However, data confidence is marked as low, suggesting potential gaps in criminal record verification systems.\n\nThis clean slate, while positive, requires cautious interpretation given the flagged data quality concerns.\n\n### Parliamentary Performance\n\n**Below-average parliamentary engagement** characterized by:\n- **55% attendance rate** - falling short of expected participation levels\n- **19 questions raised** - showing some engagement with legislative inquiry processes  \n- **Zero debates participated** - indicating minimal contribution to parliamentary discourse\n- **Zero private bills introduced** - reflecting limited legislative initiative\n\nThe evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics. His performance indicates presence without substantial legislative contribution.\n\n### Public Engagement & Accessibility\n\n**Limited public engagement profile** with minimal digital footprint. News coverage analysis shows:\n- **10 total articles** with predominantly neutral tone (9 neutral, 1 negative, 0 positive)\n- **Mixed/neutral media sentiment** suggesting limited public visibility or controversial positioning\n\nAccessibility receives a 'D' evidence grade, indicating poor data availability regarding public interaction, constituency services, or communication channels. This suggests either limited engagement initiatives or inadequate transparency in reporting such activities.\n\n### Data Quality & Caveats\n\n**Multiple critical data gaps significantly limit assessment reliability:**\n- Criminal record data flagged for low confidence\n- Asset information completely unavailable  \n- MPLADS utilization data missing entirely\n- Committee membership information absent\n- Legislative effectiveness data unreliable\n\nSources include PRS, social media, and news outlets, but coverage appears incomplete. The automated warning flags indicate systematic data collection challenges, particularly for financial and developmental metrics.\n\n### Key Takeaway\n\nDevesh Chandra Thakur maintains a clean legal record but demonstrates concerning transparency gaps, particularly in financial disclosure and development fund utilization. His parliamentary performance shows minimal engagement beyond basic attendance, while the absence of critical MPLADS data prevents assessment of his developmental impact in Sitamarhi. Given Bihar's documented fund management challenges highlighted in CAG audits, the lack of transparent MPLADS reporting represents a significant accountability deficit. Comprehensive transparency improvement is needed across asset disclosure, fund utilization reporting, and parliamentary engagement to meet public accountability standards.",
-  "validated_at": "2026-05-21T14:35:45.181600Z"
+  "validated_at": "2026-05-21T14:35:45.181600Z",
+  "assets": {
+    "total_assets": 88465387.0,
+    "liabilities": 0.0,
+    "net_worth": 88465387.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7129",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7129",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.54,
+    "expended": 3.59,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:35.611581Z",
+        "notes": "Official eSAKSHI REST API — Works: 202 recommended, 130 sanctioned, 96 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 202,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 24.421768707482993
+  }
 }

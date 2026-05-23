@@ -4,16 +4,16 @@
     "constituency": "Nilgiris",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1167,
     "slug": "raja-a",
     "house": "lok_sabha",
     "sansad_member_id": 344,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Raja A\n\n### Overall Assessment\nRaja A, representing Nilgiris constituency in Tamil Nadu as a Dravida Munnetra Kazhagam (DMK) member of Lok Sabha, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating strong parliamentary attendance, significant data gaps limit comprehensive evaluation of his development work and financial management. His parliamentary engagement shows consistent attendance but modest legislative activity.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing assessment of constituency development work. This data gap is concerning given CAG audit findings revealing systemic issues in fund utilization across states, including Rs 1,558 crore lying idle in district authorities' accounts and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Raja A, constituents cannot evaluate his development spending effectiveness or compare his performance against national benchmarks.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, creating a significant transparency gap. No information exists regarding total assets, previous asset values, growth ratios, or net worth. This absence of financial disclosure data prevents assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without asset data, comprehensive financial transparency evaluation remains impossible.\n\n### Legal & Criminal Standing\nRaja A maintains a clean legal record with zero cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. However, a data quality warning indicates low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data suggests no legal issues, the reliability caveat requires careful interpretation of this seemingly positive indicator.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Raja A demonstrates strong attendance at 90%, well above typical parliamentary averages, indicating consistent presence for legislative duties. However, his legislative activity remains modest with 42 questions asked, 3 debate participations, and zero private bills introduced. This suggests regular attendance but limited proactive legislative engagement. No committee membership data is available, preventing evaluation of specialized parliamentary work. The overall evidence grade of 'C' for parliamentary performance reflects adequate but not exceptional engagement.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with predominantly neutral sentiment (8 neutral, 1 positive, 1 negative), suggesting limited public visibility or controversy. The mixed/neutral coverage indicates neither significant achievements nor major scandals have attracted substantial media attention. However, accessibility receives a 'D' evidence grade, indicating poor data availability for evaluating constituent engagement, public communication, or accessibility measures. This low grade suggests limited transparency in public outreach efforts.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information is completely missing with low confidence ratings. MPLADS data is unavailable despite being crucial for development work evaluation. Committee membership information is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. These widespread data gaps, spanning nearly all transparency categories, severely limit comprehensive evaluation and suggest systemic information availability issues.\n\n### Key Takeaway\nRaja A presents a transparency profile characterized by significant information voids rather than clear positive or negative indicators. While available data shows clean criminal records and good parliamentary attendance, the absence of asset declarations, MPLADS utilization data, and limited legislative activity data prevents thorough accountability assessment. The 'D' grade for accessibility and multiple data quality warnings highlight the need for improved transparency mechanisms. Constituents and stakeholders require better access to comprehensive performance data to make informed evaluations of their representative's effectiveness and accountability.",
-  "validated_at": "2026-05-21T14:30:02.494039Z"
+  "validated_at": "2026-05-21T14:30:02.494039Z",
+  "assets": {
+    "total_assets": 69362170.0,
+    "liabilities": 1900484.0,
+    "net_worth": 67461686.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1167",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 7,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 7,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1167",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.15,
+    "expended": 5.78,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:37.293021Z",
+        "notes": "Official eSAKSHI REST API — Works: 115 recommended, 76 sanctioned, 43 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 115,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 39.31972789115646
+  }
 }

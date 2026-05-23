@@ -4,16 +4,16 @@
     "constituency": "Nandurbar",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6007,
     "slug": "gowaal-kagada-padavi",
     "house": "lok_sabha",
     "sansad_member_id": 5760,
     "profile_url": null,
     "canonical_name": "Gowaal Kagada Padavi",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 31,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gowaal Kagada Padavi\n\n### Overall Assessment\nGowaal Kagada Padavi, representing Nandurbar constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data gaps. While maintaining strong parliamentary attendance at 95%, critical financial and asset information remains unavailable, limiting comprehensive assessment of his governance effectiveness.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled, released, or expended amounts. This represents a significant transparency gap given that each MP is typically entitled to ₹5 crore annually under the scheme. The absence of utilization percentages prevents assessment of developmental work efficiency in the Nandurbar constituency.\n\nCAG audit findings for Maharashtra reveal systemic MPLADS implementation issues, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising concerns about project execution standards that may affect Nandurbar's development outcomes.\n\n### Financial Transparency\nAsset declaration information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure severely limits transparency assessment and prevents evaluation of potential conflicts of interest or unexplained wealth accumulation during tenure.\n\nThe MP receives a standard monthly compensation of ₹2,45,000, consistent with parliamentary salary structures. However, without asset declarations, complete financial transparency cannot be established.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions). However, this information carries a low confidence rating due to potential source unavailability, suggesting the clean record may reflect data gaps rather than confirmed absence of legal issues.\n\n### Parliamentary Performance\nPadavi demonstrates strong parliamentary engagement with 95% attendance, significantly above typical parliamentary averages. Legislative activity includes 17 questions raised and participation in 12 debates, indicating active constituency representation and policy engagement. However, no private member bills have been introduced, and no committee participation data is available due to unavailable Sansad profile information.\n\nThe evidence grade for parliamentary performance is rated 'C', suggesting moderate confidence in available participation metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 9 news articles with neutral sentiment across all pieces, indicating steady but unremarkable public visibility. The absence of positive or negative coverage suggests either limited controversial involvement or restricted media engagement in the constituency.\n\nAccessibility evidence receives a 'D' grade, indicating poor data availability for assessing public outreach efforts, social media engagement, or constituency interaction programs. This limits evaluation of how effectively the MP connects with Nandurbar's constituents.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data quality concerns:\n- Criminal record information has low confidence due to potential source unavailability\n- Asset data completely missing, preventing financial transparency assessment\n- MPLADS utilization data entirely absent despite scheme importance\n- No committee assignment information available\n- Legislative effectiveness data has low confidence ratings\n\nEvidence sources include PRS Legislative Research, social media monitoring, and news coverage analysis. However, the overall data quality suggests limited transparency compliance or reporting system gaps.\n\n### Key Takeaway\nWhile Gowaal Kagada Padavi maintains excellent parliamentary attendance and moderate legislative engagement, his transparency profile is severely hampered by missing critical financial and developmental data. The absence of asset declarations and MPLADS utilization information, combined with systemic audit concerns in Maharashtra's fund management, raises significant transparency red flags. Constituents and oversight bodies lack essential information needed to evaluate his financial integrity and developmental effectiveness in serving Nandurbar constituency. Immediate action is needed to address these data gaps and ensure compliance with transparency requirements.",
-  "validated_at": "2026-05-21T14:33:48.173638Z"
+  "validated_at": "2026-05-21T14:33:48.173638Z",
+  "assets": {
+    "total_assets": 70170431.0,
+    "liabilities": 7817614.0,
+    "net_worth": 62352817.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6007",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6007",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.78,
+    "released": 14.78,
+    "sanctioned": 6.12,
+    "expended": null,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:05.327585Z",
+        "notes": "Official eSAKSHI REST API — Works: 279 recommended, 228 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 279,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": null
+  }
 }

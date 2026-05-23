@@ -4,16 +4,16 @@
     "constituency": "Raiganj",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1801,
     "slug": "kartick-chandra-paul",
     "house": "lok_sabha",
     "sansad_member_id": 5691,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kartick Chandra Paul\n\n### Overall Assessment\nKartick Chandra Paul, BJP MP from Raiganj constituency in West Bengal, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and perfect parliamentary attendance, the absence of crucial financial data severely constrains a comprehensive assessment of his public service effectiveness.\n\n### Fund Utilization & Development\nMPLADS data for MP Paul is unavailable, preventing analysis of his development fund utilization. This is particularly concerning given the CAG audit context for West Bengal, which reveals systemic issues in fund management. The CAG's 2010 report (31 of 2010) identified Rs 1,558 crore lying unspent in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Paul, it's impossible to assess whether his constituency development initiatives align with or deviate from these concerning state-level patterns.\n\n### Financial Transparency\nAsset declaration data is completely unavailable for MP Paul, representing a critical transparency gap. The absence of information on total assets, previous holdings, growth ratios, and net worth prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. His monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nMP Paul maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, suggesting the source information may be incomplete or unavailable.\n\n### Parliamentary Performance\nPaul demonstrates strong attendance with a perfect 100% parliamentary participation rate, indicating commitment to his legislative duties. His substantive parliamentary engagement is limited, with only 1 question raised and 1 debate participation recorded, suggesting minimal active contribution to legislative discussions. No private member bills have been introduced, and committee participation data is unavailable, further limiting assessment of his legislative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. The low volume of coverage and neutral sentiment indicate either measured public engagement or insufficient media attention to his activities. The evidence grade for accessibility is 'D', highlighting significant limitations in public engagement data.\n\n### Data Quality & Caveats\nThis assessment faces substantial data quality limitations. Criminal record data has low confidence warnings due to potentially unavailable sources. Asset information is entirely missing, preventing financial transparency evaluation. MPLADS utilization data is unavailable, eliminating assessment of development fund management. Committee participation information is absent, likely due to unavailable Sansad profile data. Parliamentary performance data receives a 'C' evidence grade, while accessibility data receives a 'D' grade, indicating significant analytical constraints.\n\n### Key Takeaway\nKartick Chandra Paul presents a profile with limited transparency due to extensive data unavailability across critical assessment areas. While his perfect parliamentary attendance and clean criminal record are positive indicators, the absence of asset declarations and MPLADS utilization data, combined with minimal legislative activity, prevents a comprehensive evaluation of his effectiveness as a public representative. The systemic fund management issues identified in West Bengal's CAG audits underscore the importance of transparent MPLADS reporting, making the unavailability of this data particularly concerning for constituency accountability.",
-  "validated_at": "2026-05-21T14:37:38.178118Z"
+  "validated_at": "2026-05-21T14:37:38.178118Z",
+  "assets": {
+    "total_assets": 50832860.0,
+    "liabilities": 26816742.0,
+    "net_worth": 24016118.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1801",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1801",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 20.27,
+    "released": 20.27,
+    "sanctioned": 9.48,
+    "expended": 2.62,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:50.293749Z",
+        "notes": "Official eSAKSHI REST API — Works: 403 recommended, 203 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 403,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 12.92550567340898
+  }
 }

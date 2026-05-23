@@ -4,16 +4,16 @@
     "constituency": "Balaghat",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 45,
     "slug": "bharti-pardhi",
     "house": "lok_sabha",
     "sansad_member_id": 5696,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 56,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bharti Pardhi\n\n### Overall Assessment\nBharti Pardhi represents Balaghat constituency in Madhya Pradesh as a Bharatiya Janata Party member of the Lok Sabha. The transparency profile reveals significant data gaps across multiple dimensions, with only parliamentary attendance showing robust data availability. Available evidence suggests adequate parliamentary engagement but raises concerns about transparency in key areas including asset declarations and development fund utilization.\n\n### Fund Utilization & Development\nNo specific MPLADS data is available for MP Pardhi, representing a critical transparency gap. However, CAG audit findings highlight systemic issues in Madhya Pradesh's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, indicating potential challenges in effective fund deployment within the state's development framework.\n\n### Financial Transparency\nAsset declaration data is unavailable, preventing assessment of financial growth patterns or potential conflicts of interest. The MP receives Rs 245,000 monthly compensation as standard parliamentary remuneration. Without baseline asset information or growth metrics, it's impossible to evaluate financial transparency or identify any unusual wealth accumulation patterns during the tenure.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero total cases, serious charges, pending matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the available data indicates no legal complications, the reliability concerns warrant cautious interpretation of this seemingly positive indicator.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 90% attendance, demonstrating consistent presence in legislative proceedings. The MP has raised 44 questions and participated in 10 debates, indicating moderate engagement in parliamentary discourse. However, no private member's bills have been introduced, and committee participation data is unavailable, limiting assessment of legislative initiative and specialized contribution to policy development.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. The accessibility evidence grade of 'D' indicates poor public communication channels or constituent engagement mechanisms. This pattern suggests potential gaps in proactive public outreach or media engagement strategies.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record confidence is low due to potential source unavailability. Asset data shows low confidence levels, preventing meaningful financial transparency assessment. MPLADS utilization data is entirely absent, creating a major oversight gap. Committee participation information is missing, possibly due to Sansad profile unavailability. Legislative effectiveness data confidence remains low. These limitations substantially constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nWhile MP Bharti Pardhi demonstrates adequate parliamentary attendance and maintains a clean criminal record, significant transparency gaps in asset disclosure, development fund utilization, and public accessibility limit comprehensive accountability assessment. The systemic issues identified in Madhya Pradesh's fund management through CAG audits underscore the importance of enhanced transparency mechanisms, particularly given the absence of specific MPLADS data for this constituency.",
-  "validated_at": "2026-05-21T14:21:16.152955Z"
+  "validated_at": "2026-05-21T14:21:16.152955Z",
+  "assets": {
+    "total_assets": 59018167.0,
+    "liabilities": 0.0,
+    "net_worth": 59018167.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=45",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=45",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.44,
+    "released": 15.44,
+    "sanctioned": 9.75,
+    "expended": 6.41,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:26.412479Z",
+        "notes": "Official eSAKSHI REST API — Works: 160 recommended, 157 sanctioned, 74 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 160,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 41.51554404145078
+  }
 }
