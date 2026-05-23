@@ -4,16 +4,16 @@
     "constituency": "Amritsar",
     "state": "punjab",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8734,
     "slug": "gurjeet-singh-aujla",
     "house": "lok_sabha",
     "sansad_member_id": 4940,
     "profile_url": null,
     "canonical_name": "Gurjeet Singh Aujla",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 51,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gurjeet Singh Aujla\n\n### Overall Assessment\nGurjeet Singh Aujla, representing Amritsar constituency for the Indian National Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance, the absence of critical financial data and limited public engagement metrics raise concerns about overall accountability and transparency.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, preventing assessment of the MP's development spending effectiveness. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in fund management across states. The CAG Report 31 of 2010 identified Rs 1,558 crore in idle funds lying unspent in district authorities' accounts nationwide, with 34% of utilization certificates lacking proper supporting documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Aujla's constituency, it's impossible to evaluate his performance against these benchmarks.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap, as asset disclosures are fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The MP receives a monthly compensation of Rs 245,000, but without baseline asset data, tracking financial growth or identifying unusual wealth accumulation is impossible.\n\n### Legal & Criminal Standing\nAujla maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, warranting cautious interpretation of the seemingly pristine legal standing.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 80% attendance, indicating reasonable commitment to legislative duties. The MP has raised 21 questions and participated in 11 debates, demonstrating active engagement with parliamentary processes. However, no private member bills were introduced, suggesting limited legislative initiative. The absence of committee participation data due to unavailable Sansad profile information prevents full evaluation of institutional engagement.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement, with only 10 news articles over the assessment period. The sentiment breakdown shows predominantly neutral coverage (9 articles) with one negative piece and no positive coverage, suggesting minimal proactive public communication or notable achievements generating media attention. This low media presence may indicate limited accessibility or engagement with constituents and broader public discourse.\n\n### Data Quality & Caveats\nThe analysis faces significant limitations due to multiple data quality issues:\n- Criminal record data has low confidence due to source unavailability\n- Asset information is completely missing, preventing financial transparency assessment\n- MPLADS utilization data is unavailable, hampering development performance evaluation\n- Committee participation data is absent due to inaccessible Sansad profile\n- Legislative effectiveness data has low confidence ratings\n- Evidence grades are poor: Parliament (C) and Accessibility (D)\n\nThese limitations severely constrain the ability to provide a comprehensive transparency assessment.\n\n### Key Takeaway\nWhile Gurjeet Singh Aujla maintains basic parliamentary attendance and a clean legal record, critical data gaps in financial disclosures, fund utilization, and committee participation significantly undermine transparency assessment capabilities. The absence of asset declarations and MPLADS data, combined with limited media engagement, suggests potential areas for improved public accountability. Voters and oversight bodies should demand better data availability and transparency from this MP to enable proper evaluation of performance and integrity.",
-  "validated_at": "2026-05-21T14:21:38.809966Z"
+  "validated_at": "2026-05-21T14:21:38.809966Z",
+  "assets": {
+    "total_assets": 53508591.0,
+    "liabilities": 13781750.0,
+    "net_worth": 39726841.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8734",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8734",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.14,
+    "expended": 5.4,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:42:30.117852Z",
+        "notes": "Official eSAKSHI REST API — Works: 225 recommended, 207 sanctioned, 74 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 225,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.734693877551024
+  }
 }

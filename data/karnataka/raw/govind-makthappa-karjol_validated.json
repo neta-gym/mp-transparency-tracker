@@ -4,16 +4,16 @@
     "constituency": "Chitradurga",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1886,
     "slug": "govind-makthappa-karjol",
     "house": "lok_sabha",
     "sansad_member_id": 5559,
     "profile_url": null,
     "canonical_name": "Govind Makthappa Karjol",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 73,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Govind Makthappa Karjol\n\n### Overall Assessment\nGovind Makthappa Karjol, BJP MP representing Chitradurga constituency in Karnataka, presents a mixed transparency profile characterized by clean legal standing but significant data gaps across multiple key indicators. With 70% parliamentary attendance and neutral media coverage, his public accountability remains partially documented, though critical financial and development data are unavailable for comprehensive evaluation.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This creates a complete visibility gap regarding constituency development activities. The absence of this fundamental transparency metric prevents assessment of his developmental impact in Chitradurga. Given Karnataka's CAG audit findings showing ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, this data gap is particularly concerning for accountability oversight.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on total assets, previous declarations, growth ratios, or net worth calculations. This represents a critical transparency deficit, as asset declarations are mandatory for public officials. The MP's monthly compensation is recorded at ₹2,45,000, but without baseline asset information, financial growth patterns or potential conflicts of interest cannot be assessed. This data absence significantly undermines financial accountability evaluation.\n\n### Legal & Criminal Standing\nKarjol maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability. While the clean record is positive, the reliability caveat suggests verification challenges that could affect the accuracy of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 70% attendance, indicating reasonable presence during legislative sessions. His parliamentary contributions include 21 questions raised, demonstrating engagement with policy issues affecting constituents. However, debate participation is minimal with only 1 recorded intervention, and no private member bills introduced, suggesting limited legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate reliability with some gaps in comprehensive activity tracking.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment - zero positive or negative coverage. This neutral profile suggests either limited media engagement or carefully managed public communications. The accessibility evidence grade of 'D' indicates significant challenges in evaluating public engagement effectiveness. No social media activity data or public interaction metrics are available, creating substantial gaps in understanding constituent connectivity and responsiveness.\n\n### Data Quality & Caveats\nMultiple critical data elements carry low confidence ratings or are entirely unavailable. Asset information, MPLADS utilization, and criminal record data all have reliability warnings. No committee membership information is available, suggesting incomplete Sansad profile access. Legislative effectiveness metrics also carry low confidence ratings. The Karnataka-specific CAG audit context reveals systemic issues including idle funds (₹1,558 crore), questionable utilization certificates (34% problematic), and incomplete works (18% abandoned), though direct connection to Karjol's constituency requires verification.\n\n### Key Takeaway\nWhile Karjol maintains clean legal standing and demonstrates moderate parliamentary attendance, his transparency profile is severely compromised by extensive data unavailability across crucial accountability metrics including asset declarations and MPLADS utilization. The neutral media coverage and absence of engagement data further limit public accountability assessment. For comprehensive evaluation, significant improvements in data availability and transparency reporting mechanisms are essential, particularly given Karnataka's documented fund utilization challenges highlighted in CAG audits.",
-  "validated_at": "2026-05-21T14:25:35.699879Z"
+  "validated_at": "2026-05-21T14:25:35.699879Z",
+  "assets": {
+    "total_assets": 43243598.0,
+    "liabilities": 0.0,
+    "net_worth": 43243598.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.92,
+    "expended": 3.42,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:13.135129Z",
+        "notes": "Official eSAKSHI REST API — Works: 184 recommended, 115 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 184,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 23.26530612244898
+  }
 }

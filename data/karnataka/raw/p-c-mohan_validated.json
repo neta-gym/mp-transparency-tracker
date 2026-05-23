@@ -4,16 +4,16 @@
     "constituency": "Bangalore Central",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1866,
     "slug": "p-c-mohan",
     "house": "lok_sabha",
     "sansad_member_id": 4321,
     "profile_url": null,
     "canonical_name": "P C Mohan",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: P C Mohan\n\n### Overall Assessment\nP C Mohan, BJP MP representing Bangalore Central constituency in Karnataka, presents a mixed transparency profile characterized by exemplary parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance and reasonable parliamentary engagement through 24 questions, substantial missing information regarding assets, MPLADS utilization, and development spending limits comprehensive evaluation of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data for P C Mohan is unavailable, preventing assessment of his constituency development performance. This represents a critical transparency gap given the scheme's ₹5 crore annual allocation per MP. The absence of data on entitled amounts, releases, expenditures, and utilization rates makes it impossible to evaluate his effectiveness in addressing Bangalore Central's infrastructure and development needs. CAG audit findings for Karnataka reveal systemic MPLADS implementation challenges, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation, suggesting broader accountability concerns that may affect constituency-level implementation.\n\n### Financial Transparency\nComplete absence of asset declaration data represents a major transparency deficit. No information is available regarding P C Mohan's total assets, previous declarations, growth ratios, or net worth. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration. Without baseline asset data, stakeholders cannot evaluate financial propriety or transparency in his public service.\n\n### Legal & Criminal Standing\nP C Mohan maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data carries low confidence ratings due to potential source unavailability, suggesting this clean record should be interpreted cautiously. While the reported zero criminal cases is positive, the reliability warning indicates this information may not reflect complete legal disclosure.\n\n### Parliamentary Performance\nP C Mohan demonstrates strong parliamentary attendance with a perfect 100% record, indicating consistent presence in House proceedings. His legislative engagement includes 24 questions raised during the session, showing active constituency representation through parliamentary mechanisms. However, he has not participated in debates (0 recorded) or introduced private member bills (0), suggesting limited proactive legislative initiative beyond question-hour participation. The absence of committee assignment data further restricts evaluation of his specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals modest public visibility with 10 articles generating mixed sentiment - 2 negative, 0 positive, and 8 neutral pieces. This neutral-to-negative media profile suggests limited positive public engagement or potentially controversial positions on certain issues. The evidence grade of 'D' for accessibility indicates poor performance in public outreach, digital presence, or constituent communication channels. No social media engagement data is available, limiting assessment of direct citizen interaction capabilities.\n\n### Data Quality & Caveats\nThis profile suffers from significant data quality limitations affecting multiple domains. Criminal record data carries low confidence warnings due to source unavailability. Asset information is completely missing, preventing financial transparency evaluation. MPLADS data is unavailable despite this being a critical accountability metric. Committee assignments are unreported, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and suggest potential systemic data collection issues or disclosure problems.\n\n### Key Takeaway\nP C Mohan's transparency profile reveals a conscientious parliamentarian with perfect attendance and clean criminal record, but significant data gaps undermine comprehensive accountability assessment. While his 100% attendance and 24 questions demonstrate basic parliamentary engagement, missing MPLADS utilization data, complete absence of asset declarations, and poor accessibility ratings raise concerns about broader transparency practices. The 'D' grade for accessibility particularly suggests inadequate constituent engagement for an urban constituency like Bangalore Central. Stakeholders should seek additional transparency measures and data disclosure to enable proper evaluation of his development impact and financial propriety.",
-  "validated_at": "2026-05-21T14:28:39.257002Z"
+  "validated_at": "2026-05-21T14:28:39.257002Z",
+  "assets": {
+    "total_assets": 813065207.0,
+    "liabilities": 158634664.0,
+    "net_worth": 654430543.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1866",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1866",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 16.0,
+    "released": 16.0,
+    "sanctioned": 0.53,
+    "expended": 0.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:22.650369Z",
+        "notes": "Official eSAKSHI REST API — Works: 12 recommended, 2 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 12,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.3125
+  }
 }

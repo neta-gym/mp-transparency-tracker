@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Angomcha Bimol Akoijam\n\n### Overall Assessment\n\nDr. Angomcha Bimol Akoijam, Indian National Congress MP representing Inner Manipur, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps. As a 57-year-old academic with a doctorate and profession as Associate Professor at JNU, New Delhi, he brings substantial educational credentials to his legislative role. However, incomplete MPLADS data and limited accessibility metrics constrain a comprehensive evaluation of his developmental impact.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with all fields (entitled, released, expended, utilization percentage) showing \"None.\" This represents a critical transparency gap for assessing developmental impact. The CAG audit context reveals systemic concerns in Manipur's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data, it's impossible to assess whether Akoijam's constituency faces similar challenges or has achieved better outcomes.\n\n### Financial Transparency\n\nAkoijam's current total assets stand at Rs 97.67 lakh with a net worth of Rs 62.83 lakh. However, asset growth analysis is impossible due to missing previous asset data (\"None\" recorded). This represents a significant transparency limitation, as asset growth comparison is crucial for understanding financial conduct over time. His monthly compensation totals Rs 2.45 lakh, consistent with standard MP remuneration. The assets grade of 'B' suggests reasonable data quality for current holdings but incomplete historical tracking.\n\n### Legal & Criminal Standing\n\nAkoijam maintains a clean legal record with zero cases across all categories: no total cases, serious cases, pending cases, disposed cases, or convictions. This represents exemplary legal standing and suggests no criminal liability concerns. The criminal record receives a 'B' evidence grade, indicating reliable data quality in this crucial transparency dimension.\n\n### Parliamentary Performance\n\nParliamentary engagement shows strong attendance at 100%, demonstrating commitment to legislative duties. However, his active participation metrics are modest: 7 questions raised, 4 debate participations, and zero private bills introduced. The parliament activity grade of 'C' suggests data limitations that may not capture the full scope of his legislative contributions. No committee data was found, possibly indicating unavailability of his Sansad profile, which limits assessment of his specialized parliamentary work.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or potentially balanced reporting. The accessibility grade of 'D' indicates significant limitations in available data about public engagement activities, social media presence, or citizen interaction mechanisms. This represents a notable transparency gap for understanding how effectively he communicates with constituents.\n\n### Data Quality & Caveats\n\nSeveral automated flags highlight data quality concerns: low confidence in MPLADS data, unavailable committee information, and limited legislative effectiveness data. Evidence grades vary significantly across categories (criminal: B, assets: B, parliament: C, accessibility: D), indicating uneven data reliability. The warning about MPLADS data confidence is particularly concerning given the importance of development fund utilization for constituency welfare. Missing previous asset data prevents growth analysis, while absent committee data limits understanding of specialized parliamentary work.\n\n### Key Takeaway\n\nWhile Dr. Akoijam demonstrates strong parliamentary attendance (100%) and maintains a clean legal record, significant data gaps particularly around MPLADS utilization and public engagement limit comprehensive assessment of his effectiveness. His academic background suggests policy expertise, but without development fund data or robust accessibility metrics, constituents and stakeholders cannot fully evaluate his developmental impact. The mixed data quality (ranging from B to D grades) necessitates improved transparency mechanisms to enable proper accountability assessment.",
-  "validated_at": "2026-05-21T14:22:23.244012Z"
+  "validated_at": "2026-05-21T14:22:23.244012Z",
+  "assets": {
+    "total_assets": 9767556.0,
+    "liabilities": 3484121.0,
+    "net_worth": 6283435.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=337",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=337",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.81,
+    "expended": 7.92,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:34.419862Z",
+        "notes": "Official eSAKSHI REST API — Works: 37 recommended, 35 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 37,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 53.87755102040816
+  }
 }

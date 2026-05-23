@@ -4,16 +4,16 @@
     "constituency": "Kadapa",
     "state": "andhra pradesh",
     "party": "Yuvajana Sramika Rythu Congress Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5111,
     "slug": "y-s-avinash-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 4816,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 39,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Y S Avinash Reddy\n\n### Overall Assessment\nY S Avinash Reddy, representing Kadapa constituency in Andhra Pradesh for the Yuvajana Sramika Rythu Congress Party, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and moderate parliamentary participation, the MP's profile is hampered by missing financial and asset information, limiting comprehensive assessment of their public service effectiveness.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, preventing assessment of the MP's development work in Kadapa constituency. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also identified 18% of sampled works as abandoned or incomplete, highlighting broader infrastructure execution challenges that may affect the constituency's development projects.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and crucial for public accountability. The MP receives Rs 2,45,000 in monthly compensation, but without baseline asset information, it's impossible to assess financial propriety or potential conflicts of interest.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the information may be incomplete rather than definitively clean.\n\n### Parliamentary Performance\nParliamentary attendance stands at 55%, falling below the ideal standard for consistent representation. The MP has asked 48 questions in Parliament, demonstrating some engagement with legislative oversight, and participated in 2 debates, showing limited but present involvement in parliamentary discussions. No private bills have been introduced, indicating minimal legislative initiative. The evidence grade of 'C' for parliamentary performance suggests adequate but improvable engagement.\n\n### Public Engagement & Accessibility\nPublic engagement metrics show concerning limitations. News coverage analysis reveals 10 articles with entirely neutral sentiment (0 positive, 0 negative), suggesting limited public visibility or impact. The accessibility evidence grade of 'D' indicates poor public outreach and engagement mechanisms. No committee participation data is available, potentially due to unavailable Sansad profile information, further limiting assessment of the MP's specialized legislative contributions.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment:\n- Criminal record data carries low confidence warnings\n- Asset information is completely unavailable\n- MPLADS utilization data is missing\n- Committee participation information is absent\n- Legislative effectiveness data has low confidence ratings\n\nThese gaps may result from unavailable official sources or incomplete data collection, requiring cautious interpretation of available information.\n\n### Key Takeaway\nY S Avinash Reddy's transparency profile reveals a representative with a clean legal record but significant accountability gaps. The absence of crucial financial and development fund data, combined with below-average parliamentary attendance (55%) and minimal public engagement, raises questions about overall effectiveness. While the clean criminal record is positive, the missing asset declarations and MPLADS utilization data prevent comprehensive evaluation of the MP's stewardship of public resources. The neutral media coverage and poor accessibility ratings suggest limited constituent engagement, requiring improvement in public communication and transparency practices to enhance democratic accountability.",
-  "validated_at": "2026-05-21T14:25:43.221152Z"
+  "validated_at": "2026-05-21T14:25:43.221152Z",
+  "assets": {
+    "total_assets": 404301973.0,
+    "liabilities": 115643913.0,
+    "net_worth": 288658060.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5111",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5111",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.64,
+    "released": 15.64,
+    "sanctioned": 6.84,
+    "expended": 3.13,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:17:54.793113Z",
+        "notes": "Official eSAKSHI REST API — Works: 292 recommended, 161 sanctioned, 29 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 292,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 20.012787723785163
+  }
 }

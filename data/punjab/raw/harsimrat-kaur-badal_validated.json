@@ -4,16 +4,16 @@
     "constituency": "Bathinda",
     "state": "punjab",
     "party": "Shiromani Akali Dal",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8951,
     "slug": "harsimrat-kaur-badal",
     "house": "lok_sabha",
     "sansad_member_id": 4433,
     "profile_url": null,
     "canonical_name": "Harsimrat Kaur Badal",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 57,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Harsimrat Kaur Badal\n\n### Overall Assessment\nHarsimrat Kaur Badal, representing Bathinda constituency in Punjab for Shiromani Akali Dal, presents a mixed transparency profile with significant data gaps across key metrics. While maintaining a clean legal record, her parliamentary attendance of 35% falls well below expectations for effective representation. The absence of critical financial data including assets and MPLADS utilization severely limits comprehensive assessment of her developmental impact and fiscal responsibility.\n\n### Fund Utilization & Development\nComplete MPLADS data is unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given systemic issues identified by CAG audits in Punjab's development fund management. The CAG's 2010 audit (Report 31) revealed significant concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. Without specific MPLADS data for Badal's constituency, it's impossible to determine whether Bathinda faces similar challenges or has achieved better fund utilization rates.\n\n### Financial Transparency\nFinancial transparency is severely compromised due to missing asset declaration data. Both current and previous asset values are unavailable, preventing calculation of wealth growth ratios or assessment of potential conflicts of interest. Her monthly compensation stands at Rs 2,45,000, but without baseline asset information, comprehensive financial profiling remains impossible. This data gap raises concerns about transparency compliance and public accountability regarding personal financial interests.\n\n### Legal & Criminal Standing\nBadal maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal profile provides confidence in her legal standing and suggests absence of integrity concerns from a judicial perspective. However, the automated warning flag indicates low confidence in criminal data sourcing, though the clean record appears consistent across available verification sources.\n\n### Parliamentary Performance\nParliamentary engagement shows concerning patterns with 35% attendance significantly below acceptable standards for effective representation. Her legislative activity includes 24 questions raised and participation in 8 debates, indicating some level of parliamentary engagement despite poor attendance. Notably, she has introduced zero private member bills, suggesting limited initiative in legislative drafting. The evidence grade of 'C' for parliamentary data indicates moderate reliability, but the available metrics suggest suboptimal performance in her primary constitutional duties.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public sentiment with 10 articles tracked (8 neutral, 2 negative, 0 positive), suggesting limited positive public engagement or notable achievements receiving media attention. The accessibility evidence grade of 'D' indicates poor data availability regarding public outreach activities, constituency engagement programs, or digital presence. This suggests either limited accessibility initiatives or insufficient transparency in communicating such activities to constituents.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability concerns. Asset and MPLADS data show low confidence ratings, criminal record verification faces source availability issues, and no committee membership information was found, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and may indicate either poor record-keeping systems or insufficient public disclosure practices.\n\n### Key Takeaway\nWhile Harsimrat Kaur Badal maintains a clean legal record, her overall transparency profile is severely hampered by missing critical data across financial assets, development fund utilization, and detailed parliamentary activities. The 35% attendance rate raises serious questions about constituency representation effectiveness. The absence of asset declarations and MPLADS utilization data, combined with neutral-to-negative media sentiment, suggests significant room for improvement in transparency and public accountability. Enhanced data disclosure and improved parliamentary attendance should be immediate priorities for strengthening democratic representation and constituent trust.",
-  "validated_at": "2026-05-21T14:21:30.435633Z"
+  "validated_at": "2026-05-21T14:21:30.435633Z",
+  "assets": {
+    "total_assets": 1985183903.0,
+    "liabilities": 544775134.0,
+    "net_worth": 1440408769.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8951",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8951",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.98,
+    "released": 15.98,
+    "sanctioned": 10.98,
+    "expended": 7.3,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T18:21:39.228376Z",
+        "notes": "Official eSAKSHI REST API — Works: 315 recommended, 310 sanctioned, 114 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 315,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 45.68210262828536
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Shimla",
     "state": "himachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8766,
     "slug": "suresh-kumar-kashyap",
     "house": "lok_sabha",
     "sansad_member_id": 5113,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Suresh Kumar Kashyap\n\n### Overall Assessment\n\nSuresh Kumar Kashyap, BJP MP from Shimla, Himachal Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. With 70% parliamentary attendance and minimal criminal record concerns, he demonstrates basic parliamentary engagement, though substantial information on asset disclosure and development fund utilization remains unavailable.\n\n### Fund Utilization & Development\n\n**Critical data unavailability**: Complete absence of MPLADS (Member of Parliament Local Area Development Scheme) data severely limits assessment of constituency development activities. No information is available on entitled funds, releases, expenditures, or utilization rates.\n\n**Systemic concerns from CAG audits** highlight broader issues in Himachal Pradesh's fund management:\n- Rs 1,558 crore in idle funds across district authorities (CAG Report 31/2010)\n- 34% of sampled utilization certificates lack proper documentation\n- 18% of development works remain abandoned or incomplete\n\nThese audit findings raise questions about the broader development fund ecosystem in which MP Kashyap operates, though his individual performance cannot be directly assessed due to missing MPLADS data.\n\n### Financial Transparency\n\n**Asset disclosure**: No current or previous asset information is available, preventing assessment of wealth declaration compliance or financial growth patterns. This represents a significant transparency gap, as asset disclosure is mandatory for elected officials.\n\n**Compensation**: Monthly parliamentary compensation recorded at Rs 2,45,000, consistent with standard MP remuneration structures.\n\n### Legal & Criminal Standing\n\n**Clean record**: Zero criminal cases across all categories—no serious offenses, pending cases, disposed matters, or convictions. This indicates a clean legal standing, though the warning flag suggests potential data reliability issues in criminal record verification.\n\n### Parliamentary Performance\n\n**Attendance**: 70% parliamentary attendance falls below optimal engagement levels but remains within acceptable ranges for active participation.\n\n**Legislative activity**: \n- 45 questions raised in Parliament, indicating moderate engagement in oversight functions\n- 8 debate participations show limited involvement in legislative discussions\n- Zero private bills introduced, suggesting minimal legislative initiative\n\n**Committee work**: No committee assignment data available, limiting assessment of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n\n**Media presence**: Analysis of 10 news articles reveals predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited media visibility or controversial activities. This neutral profile may indicate either effective constituency management or insufficient public engagement visibility.\n\n**Digital accessibility**: Evidence grade 'D' for accessibility indicates poor online presence or transparency in constituent communication channels.\n\n### Data Quality & Caveats\n\n**Significant limitations**: Multiple warning flags indicate compromised data reliability:\n- Criminal record data marked as low confidence\n- Asset information completely unavailable\n- MPLADS data entirely missing\n- Committee participation data absent\n- Legislative effectiveness metrics have low confidence ratings\n\n**Source limitations**: Data compiled from PRS Legislative Research, social media, and news sources, with notable gaps in official parliamentary and election commission records.\n\n**Evidence grading**: Parliament performance rated 'C' and accessibility rated 'D', indicating below-average data availability and verification confidence.\n\n### Key Takeaway\n\nMP Suresh Kumar Kashyap's transparency profile is severely constrained by missing critical data across asset disclosure and development fund utilization. While maintaining a clean legal record and moderate parliamentary attendance, the absence of MPLADS information and asset declarations raises significant transparency concerns. The neutral media coverage and poor accessibility rating suggest limited public engagement visibility. Comprehensive assessment requires substantial improvement in data availability and official disclosure compliance. Voters should seek direct engagement for constituency development updates given the absence of official utilization data.",
-  "validated_at": "2026-05-21T14:23:40.509036Z"
+  "validated_at": "2026-05-21T14:23:40.509036Z",
+  "assets": {
+    "total_assets": 44442736.0,
+    "liabilities": 5105342.0,
+    "net_worth": 39337394.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8766",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8766",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.36,
+    "released": 15.36,
+    "sanctioned": 10.28,
+    "expended": 8.68,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:27.779323Z",
+        "notes": "Official eSAKSHI REST API — Works: 505 recommended, 502 sanctioned, 42 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 505,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 56.510416666666664
+  }
 }

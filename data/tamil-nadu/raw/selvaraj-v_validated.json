@@ -4,16 +4,16 @@
     "constituency": "Nagapattinam",
     "state": "tamil nadu",
     "party": "Communist Party of India",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 161,
     "slug": "selvaraj-v",
     "house": "lok_sabha",
     "sansad_member_id": 5800,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 62,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Selvaraj V\n\n### Overall Assessment\nSelvaraj V, representing Nagapattinam constituency in Tamil Nadu for the Communist Party of India, presents a mixed transparency profile with significant data gaps hindering comprehensive evaluation. While maintaining perfect parliamentary attendance (100%) and demonstrating active participation through 42 questions and 6 debates, critical financial and developmental metrics remain unavailable or unreliable, raising concerns about accountability and public disclosure.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Selvaraj V, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly given CAG audit findings highlighting systemic issues in Tamil Nadu's fund management. The CAG Report [31 of 2010] identified Rs 1,558 crore in idle funds lying unspent across district authorities' accounts, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of sampled works being abandoned or incomplete.\n\n### Financial Transparency\nAsset declaration data shows complete absence of information regarding total assets, previous holdings, growth ratios, or net worth calculations. This critical gap in financial transparency makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is documented at Rs 2,45,000, providing the only available financial benchmark. The lack of asset data particularly concerning given the warning flag indicating \"Low confidence in asset data.\"\n\n### Legal & Criminal Standing\nSelvaraj V maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this assessment comes with a significant caveat as the system flags \"Low confidence in criminal data\" with sources potentially unavailable, suggesting the clean record may reflect data gaps rather than verified absence of legal issues.\n\n### Parliamentary Performance\nThe MP demonstrates exemplary attendance with a perfect 100% parliamentary presence, significantly above typical averages. Legislative engagement shows moderate activity with 42 questions raised and participation in 6 debates, indicating consistent involvement in parliamentary proceedings. However, no private member bills were introduced, and no committee assignments are documented, with the system noting \"Sansad profile may be unavailable,\" limiting assessment of broader legislative effectiveness.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal limited media presence with only 10 news articles covering the MP's activities. Notably, all coverage maintains neutral tone with zero positive or negative articles, suggesting either minimal controversial activity or limited media attention. Social media and public accessibility data receive a 'D' grade, indicating poor digital engagement and limited public outreach mechanisms.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to multiple data quality issues. Critical warnings include low confidence in criminal records, asset declarations, and MPLADS utilization data. The absence of committee information and legislative effectiveness metrics, combined with a 'C' grade for parliament data and 'D' grade for accessibility, significantly undermines the reliability of this transparency assessment. Seven relevant CAG findings for Tamil Nadu provide broader context but cannot substitute for MP-specific data.\n\n### Key Takeaway\nWhile Selvaraj V demonstrates commitment through perfect parliamentary attendance and consistent legislative participation, the severe lack of financial and developmental data creates substantial transparency deficits. The complete absence of asset declarations and MPLADS information, coupled with data quality warnings across multiple categories, prevents meaningful accountability assessment and suggests either inadequate disclosure practices or systemic data collection failures requiring immediate attention.",
-  "validated_at": "2026-05-21T14:29:49.836731Z"
+  "validated_at": "2026-05-21T14:29:49.836731Z",
+  "assets": {
+    "total_assets": 11062368.0,
+    "liabilities": 2853957.0,
+    "net_worth": 8208411.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.03,
+    "expended": 3.51,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:48.355756Z",
+        "notes": "Official eSAKSHI REST API — Works: 73 recommended, 55 sanctioned, 24 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 73,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 23.877551020408163
+  }
 }

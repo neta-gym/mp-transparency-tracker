@@ -4,16 +4,16 @@
     "constituency": "Jaynagar",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9628,
     "slug": "pratima-mondal",
     "house": "lok_sabha",
     "sansad_member_id": 4871,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 58,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Pratima Mondal\n\n### Overall Assessment\nPratima Mondal, All India Trinamool Congress MP from Jaynagar, West Bengal, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. Her parliamentary attendance of 55% falls below optimal standards, while a clean criminal record provides a positive foundation. However, missing financial and asset data severely constrains assessment of her fiscal transparency.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, preventing evaluation of development fund utilization. This represents a critical transparency gap, particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about regional development effectiveness that cannot be addressed without MP-specific data.\n\n### Financial Transparency\nAsset disclosure information is completely missing, including total assets, previous declarations, growth ratios, and net worth. This absence of financial data represents a significant transparency deficit, making it impossible to assess potential conflicts of interest or track wealth accumulation patterns. The monthly compensation of Rs 245,000 is documented, but without baseline asset information, comprehensive financial oversight remains compromised.\n\n### Legal & Criminal Standing\nMondal maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this positive assessment comes with a data quality warning indicating low confidence in the criminal record information due to potentially unavailable sources.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with concerning attendance patterns. At 55% attendance, Mondal falls well below ideal participation standards. Her legislative activity includes 23 questions raised and participation in 8 debates, demonstrating some engagement with parliamentary processes. However, she has introduced zero private bills, indicating limited proactive legislative initiative. The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment - zero positive or negative pieces, suggesting limited public discourse around her work. This neutral coverage pattern may indicate either effective non-controversial governance or insufficient public engagement to generate meaningful media attention. Accessibility receives a poor 'D' evidence grade, and no committee participation data is available, suggesting limited transparency in her broader parliamentary engagement activities.\n\n### Data Quality & Caveats\nMultiple significant data quality issues compromise this assessment:\n- Criminal record data carries low confidence warnings due to potentially unavailable sources\n- Asset information is completely missing with low confidence ratings\n- MPLADS utilization data is entirely unavailable\n- Committee participation information is absent\n- Legislative effectiveness data has low confidence ratings\n- Overall evidence grades are poor (Parliament: C, Accessibility: D)\n\nThese gaps represent substantial limitations in transparency evaluation and may indicate either systemic data collection issues or insufficient disclosure practices.\n\n### Key Takeaway\nPratima Mondal's transparency profile is severely hampered by critical data gaps, particularly in financial disclosures and development fund utilization. While her clean criminal record provides a positive foundation and parliamentary participation shows some engagement (23 questions, 8 debates), the 55% attendance rate and complete absence of asset and MPLADS data raise significant transparency concerns. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Without comprehensive financial and development fund data, voters cannot adequately assess her stewardship of public resources, representing a fundamental accountability deficit that undermines democratic oversight.",
-  "validated_at": "2026-05-21T14:33:03.569979Z"
+  "validated_at": "2026-05-21T14:33:03.569979Z",
+  "assets": {
+    "total_assets": 68970051.0,
+    "liabilities": 0.0,
+    "net_worth": 68970051.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9628",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9628",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.47,
+    "expended": 7.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T18:22:40.287751Z",
+        "notes": "Official eSAKSHI REST API — Works: 223 recommended, 218 sanctioned, 61 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 223,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 50.0
+  }
 }

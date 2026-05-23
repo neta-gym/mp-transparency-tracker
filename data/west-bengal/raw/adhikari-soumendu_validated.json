@@ -4,16 +4,16 @@
     "constituency": "Kanthi",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7922,
     "slug": "adhikari-soumendu",
     "house": "lok_sabha",
     "sansad_member_id": 5659,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 41,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Adhikari Soumendu\n\n### Overall Assessment\nAdhikari Soumendu, BJP MP from Kanthi constituency in West Bengal, presents a transparency profile marked by significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance (100%), his profile lacks substantial quantifiable performance metrics across most key transparency indicators. The evidence quality grades of 'C' for parliament and 'D' for accessibility reflect these data limitations.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, preventing assessment of Soumendu's development spending effectiveness. This is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. Without MPLADS data, it's impossible to evaluate whether Soumendu's constituency benefits align with proper fund utilization standards or falls prey to the 18% project abandonment rate identified in CAG audits.\n\n### Financial Transparency\nAsset declaration data is entirely missing, making financial transparency assessment impossible. No information is available regarding current assets, previous declarations, growth ratios, or net worth calculations. This absence of basic financial disclosure information represents a significant transparency gap, preventing evaluation of wealth accumulation patterns or potential conflicts of interest during his tenure.\n\n### Legal & Criminal Standing\nSoumendu maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the automated warning flags indicate low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously rather than as definitive clearances.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with notable gaps in legislative activity. While achieving perfect 100% attendance - demonstrating consistent presence in proceedings - Soumendu has contributed zero questions, participated in zero debates, and introduced zero private member bills. This suggests a passive rather than active parliamentary approach, with physical presence not translating into measurable legislative contributions. The absence of committee participation data further limits assessment of his parliamentary effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 news articles providing balanced reporting (zero positive, zero negative, 10 neutral). This neutral stance suggests neither significant controversy nor notable achievements attracting media attention. However, the 'D' grade for accessibility indicates poor public information availability, likely hampering citizen engagement and accountability mechanisms.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability concerns affecting this assessment's comprehensiveness:\n\n- **Criminal records**: Low confidence due to potential source unavailability\n- **Asset declarations**: Complete data absence prevents financial evaluation\n- **MPLADS funds**: No utilization data available for development assessment\n- **Committee work**: Missing Sansad profile prevents committee evaluation\n- **Legislative effectiveness**: Low confidence in available metrics\n\nEvidence sourcing from PRS, social media, and news provides partial coverage but insufficient depth for robust transparency evaluation.\n\n### Key Takeaway\nAdhikari Soumendu's transparency profile is severely constrained by data unavailability across critical areas including asset declarations, MPLADS utilization, and detailed parliamentary contributions. While maintaining clean criminal records and perfect attendance, the absence of substantive legislative activity and development fund transparency raises questions about active representation effectiveness. The systemic fund management issues identified by CAG audits in West Bengal underscore the importance of robust MPLADS monitoring, making the complete absence of this data particularly problematic for constituency development assessment.",
-  "validated_at": "2026-05-21T14:33:03.493441Z"
+  "validated_at": "2026-05-21T14:33:03.493441Z",
+  "assets": {
+    "total_assets": 26179993.0,
+    "liabilities": 287970.0,
+    "net_worth": 25892023.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7922",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 6,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 6,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7922",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.85,
+    "expended": 3.61,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:39.488354Z",
+        "notes": "Official eSAKSHI REST API — Works: 70 recommended, 41 sanctioned, 29 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 70,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 24.5578231292517
+  }
 }

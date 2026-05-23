@@ -4,16 +4,16 @@
     "constituency": "Gurdaspur",
     "state": "punjab",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8728,
     "slug": "sukhjinder-singh-randhawa",
     "house": "lok_sabha",
     "sansad_member_id": 5752,
     "profile_url": null,
     "canonical_name": "Sukhjinder Singh Randhawa",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sukhjinder Singh Randhawa\n\n### Overall Assessment\nSukhjinder Singh Randhawa, the Indian National Congress MP representing Gurdaspur, Punjab, presents a profile with limited available data but demonstrates strong parliamentary attendance. While his 95% attendance rate indicates active participation in Lok Sabha proceedings, significant data gaps in financial disclosures and development fund utilization prevent a comprehensive assessment of his overall transparency and effectiveness.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Randhawa, including entitlement amounts, funds released, or expenditure figures. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Punjab's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents. Without baseline MPLADS data, it is impossible to assess the MP's development work effectiveness or compliance with fund utilization guidelines.\n\n### Financial Transparency\nAsset declaration data is entirely unavailable for MP Randhawa, with no information on current total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents public scrutiny of potential conflicts of interest or wealth accumulation patterns. His recorded monthly compensation stands at Rs 2,45,000, which appears to be the standard parliamentary salary and allowances.\n\n### Legal & Criminal Standing\nMP Randhawa maintains a clean legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems. While this clean record is positive, the reliability caveat requires careful interpretation.\n\n### Parliamentary Performance\nRandhawa demonstrates strong parliamentary engagement with a 95% attendance rate, significantly above average for many MPs. His legislative activity shows moderate participation with 23 questions raised and 1 debate contribution during the assessed period. However, he has not introduced any private member bills, indicating limited initiative in legislative drafting. The absence of committee membership data prevents assessment of his work in parliamentary committees, which often handle detailed policy development.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 news articles covering the MP - comprising 1 positive, 0 negative, and 9 neutral pieces. This suggests a low-profile media presence without significant controversies but also limited positive visibility for development work or policy initiatives. The accessibility grade of 'D' indicates poor digital presence or public communication channels, potentially limiting constituent engagement.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality warnings. Criminal record data has low confidence levels, asset information is completely unavailable, and MPLADS data is missing entirely. Committee membership information is absent, and legislative effectiveness metrics have low confidence ratings. These gaps substantially limit the reliability of this transparency profile and suggest either data collection challenges or potential disclosure compliance issues.\n\n### Key Takeaway\nWhile MP Randhawa maintains excellent parliamentary attendance and a clean criminal record, the extensive data gaps across financial disclosures, development fund utilization, and committee work prevent a meaningful assessment of his overall transparency and effectiveness. The available evidence suggests adequate parliamentary participation but raises concerns about disclosure compliance and public accountability mechanisms. Improved data availability would be essential for voters to make informed assessments of his representation quality.",
-  "validated_at": "2026-05-21T14:25:56.365485Z"
+  "validated_at": "2026-05-21T14:25:56.365485Z",
+  "assets": {
+    "total_assets": 71253181.0,
+    "liabilities": 16132136.0,
+    "net_worth": 55121045.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8728",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8728",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.42,
+    "expended": 4.54,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:42:39.833825Z",
+        "notes": "Official eSAKSHI REST API — Works: 281 recommended, 257 sanctioned, 56 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 281,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.8843537414966
+  }
 }

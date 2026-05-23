@@ -4,16 +4,16 @@
     "constituency": "Kolkata Dakshin",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9045,
     "slug": "mala-roy",
     "house": "lok_sabha",
     "sansad_member_id": 5048,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 66,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mala Roy\n\n### Overall Assessment\nMala Roy, representing Kolkata Dakshin constituency for the All India Trinamool Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps across multiple accountability metrics. While maintaining a clean criminal record, her parliamentary engagement shows concerning patterns with notably low attendance and limited legislative participation.\n\n### Fund Utilization & Development\nCritical data gaps exist in MPLADS fund utilization tracking, with no available information on entitled amounts, releases, expenditures, or utilization percentages. This absence of transparency is concerning given the CAG audit findings highlighting systemic issues in West Bengal's fund management. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without MPLADS data, constituents cannot assess whether development funds are being effectively utilized in Kolkata Dakshin.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, preventing any assessment of financial transparency or potential conflicts of interest. No information exists on total assets, previous holdings, growth ratios, or net worth changes during her tenure. Her monthly compensation stands at Rs 2,45,000, but without asset disclosures, comprehensive financial accountability cannot be evaluated.\n\n### Legal & Criminal Standing\nMala Roy maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting these figures should be interpreted cautiously.\n\n### Parliamentary Performance\nParliamentary engagement reveals significant deficiencies. Attendance stands at a concerning 20%, well below expectations for effective representation. While she has raised 42 questions, indicating some engagement with legislative scrutiny, her participation in debates is zero, and she has introduced no private member bills. This pattern suggests limited contribution to parliamentary discourse and legislative development, potentially compromising her constituency's voice in national decision-making.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or engagement. The absence of strong media presence, combined with a 'D' grade for accessibility, indicates potential challenges in constituent communication and public outreach. No committee participation data is available, further limiting assessment of her policy engagement beyond basic parliamentary duties.\n\n### Data Quality & Caveats\nThis analysis faces substantial limitations due to widespread data unavailability. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these constraints. Automated warnings flag low confidence in criminal records, complete absence of asset data, and missing MPLADS information. Committee and legislative effectiveness data are unavailable, potentially due to inaccessible Sansad profiles. These gaps significantly limit comprehensive transparency assessment and suggest systematic issues with public information availability.\n\n### Key Takeaway\nMala Roy's transparency profile is severely hampered by extensive data gaps across critical accountability metrics, making comprehensive evaluation impossible. While maintaining a clean criminal record, her 20% parliamentary attendance and zero debate participation raise questions about representational effectiveness. The complete absence of asset declarations and MPLADS utilization data, combined with concerning CAG audit findings about fund management in West Bengal, highlights significant transparency deficits that prevent constituents from making informed assessments of her performance and accountability.",
-  "validated_at": "2026-05-21T14:34:18.818363Z"
+  "validated_at": "2026-05-21T14:34:18.818363Z",
+  "assets": {
+    "total_assets": 15397092.0,
+    "liabilities": 795517.0,
+    "net_worth": 14601575.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9045",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9045",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.16,
+    "expended": 5.88,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:52:54.851488Z",
+        "notes": "Official eSAKSHI REST API — Works: 78 recommended, 71 sanctioned, 23 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 78,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 40.0
+  }
 }

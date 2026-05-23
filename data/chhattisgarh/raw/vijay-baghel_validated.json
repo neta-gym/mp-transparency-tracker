@@ -4,16 +4,16 @@
     "constituency": "Durg",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3442,
     "slug": "vijay-baghel",
     "house": "lok_sabha",
     "sansad_member_id": 5007,
     "profile_url": null,
     "canonical_name": "Vijay Baghel",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vijay Baghel\n\n### Overall Assessment\nVijay Baghel, BJP MP from Durg constituency in Chhattisgarh, presents a mixed transparency profile with notable parliamentary engagement but significant data gaps across multiple domains. His perfect 100% attendance record demonstrates strong legislative participation, though broader transparency metrics remain unclear due to data availability issues.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable for assessment. The constituency operates within Chhattisgarh's broader development context, where CAG audits have identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities' accounts. Audit findings reveal concerning patterns: 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete. These state-level findings raise questions about fund management effectiveness, though constituency-specific performance cannot be evaluated without available data.\n\n### Financial Transparency\nAsset declaration data is unavailable, preventing assessment of wealth accumulation or growth patterns during his tenure. The absence of both current and previous asset valuations, along with missing net worth calculations, represents a significant transparency gap. His monthly compensation stands at Rs 2,45,000, consistent with standard parliamentary remuneration. Without baseline asset data, financial accountability cannot be properly evaluated.\n\n### Legal & Criminal Standing\nAvailable records indicate zero criminal cases (total, serious, pending, disposed, or convictions), suggesting a clean legal profile. However, the automated system flags low confidence in criminal data availability, indicating potential gaps in source verification. While current records appear clear, the data quality caveat requires acknowledgment when assessing legal standing.\n\n### Parliamentary Performance\nBaghel demonstrates strong legislative engagement with perfect 100% attendance, significantly above typical parliamentary averages. His participation includes 75 questions raised and 4 debate contributions, indicating active involvement in legislative processes. However, he has introduced zero private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available, preventing assessment of his specialized parliamentary contributions beyond floor participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment across all coverage, indicating minimal public controversy but also limited positive visibility. The absence of positive media coverage may suggest limited proactive public engagement or communication effectiveness. Social media presence data is included in sources but specific metrics are unavailable. The 'D' grade for accessibility suggests room for improvement in public outreach and communication channels.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to data availability issues. Criminal records carry low confidence warnings, asset information is entirely absent, and MPLADS utilization data is unavailable. Committee membership information is missing, potentially indicating unavailable Sansad profile data. Parliamentary activity receives a 'C' evidence grade, while accessibility scores 'D', both indicating moderate to low data confidence levels. These gaps substantially limit comprehensive transparency evaluation.\n\n### Key Takeaway\nVijay Baghel shows strong parliamentary attendance and moderate legislative participation, but comprehensive transparency assessment is severely hampered by missing financial, developmental, and engagement data. While available indicators suggest no legal issues and consistent legislative presence, the absence of asset declarations, MPLADS utilization data, and limited public engagement metrics prevent a full accountability evaluation. Improved data availability across transparency domains would enable more meaningful assessment of his representative effectiveness.",
-  "validated_at": "2026-05-21T14:22:09.751824Z"
+  "validated_at": "2026-05-21T14:22:09.751824Z",
+  "assets": {
+    "total_assets": 37162950.0,
+    "liabilities": 3854273.0,
+    "net_worth": 33308677.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3442",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3442",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.11,
+    "expended": 4.47,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:23.200130Z",
+        "notes": "Official eSAKSHI REST API — Works: 172 recommended, 145 sanctioned, 60 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 172,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.408163265306122
+  }
 }

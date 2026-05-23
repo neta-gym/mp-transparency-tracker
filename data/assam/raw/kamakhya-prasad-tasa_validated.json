@@ -4,16 +4,16 @@
     "constituency": "Kaziranga",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 732,
     "slug": "kamakhya-prasad-tasa",
     "house": "lok_sabha",
     "sansad_member_id": 4739,
     "profile_url": null,
     "canonical_name": "Kamakhya Prasad Tasa",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kamakhya Prasad Tasa\n\n### Overall Assessment\nKamakhya Prasad Tasa, BJP MP representing Kaziranga constituency in Assam, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance (90%), the assessment is severely limited by missing asset and MPLADS data. Evidence quality is poor across key transparency indicators, with parliament activity graded 'C' and accessibility graded 'D'.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, preventing assessment of development work effectiveness. This data gap is particularly concerning given the CAG audit context for Assam, which reveals systemic issues in fund management. The audit identified Rs 1,558 crore lying idle in district authorities' accounts and found that 34% of sampled utilization certificates lacked proper supporting documents. Additionally, 18% of sampled works were abandoned or incomplete, raising questions about development project oversight in the region.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap. The MP's monthly compensation is documented at Rs 2,45,000, which appears to be the standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nTasa maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the automated warning indicates low confidence in criminal data due to potential source unavailability, suggesting this clean record should be interpreted cautiously.\n\n### Parliamentary Performance\nTasa demonstrates above-average parliamentary engagement with 90% attendance, significantly higher than typical MP attendance rates. Legislative activity shows 24 questions raised and participation in 6 debates, indicating moderate engagement in parliamentary proceedings. However, no private member bills were introduced, and no committee participation data is available due to potentially unavailable Sansad profile information.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are limited, with news coverage analysis showing 10 articles with entirely neutral sentiment (no positive or negative coverage identified). The lack of committee data and poor accessibility grade ('D') suggest limited transparency in public-facing activities. Social media and news sources were consulted, but comprehensive engagement assessment remains incomplete.\n\n### Data Quality & Caveats\nThis assessment faces severe limitations due to multiple data quality issues:\n- **Assets**: Low confidence warning indicates unreliable or missing asset data\n- **MPLADS**: Complete absence of fund utilization data despite CAG audit highlighting regional concerns\n- **Criminal Record**: Low confidence warning suggests potential source unavailability\n- **Committee Work**: No data available, possibly due to unavailable Sansad profile\n- **Legislative Effectiveness**: Low confidence in available data\n\nThe evidence quality grades (Parliament: C, Accessibility: D) reflect these significant limitations.\n\n### Key Takeaway\nWhile Tasa maintains strong parliamentary attendance and a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization prevent comprehensive assessment. The complete absence of financial and development fund data, combined with systemic audit concerns in Assam regarding fund management, raises significant transparency questions. Voters lack essential information to evaluate financial probity and development effectiveness, highlighting the need for improved data disclosure and verification mechanisms.",
-  "validated_at": "2026-05-21T14:25:45.661630Z"
+  "validated_at": "2026-05-21T14:25:45.661630Z",
+  "assets": {
+    "total_assets": 20017297.0,
+    "liabilities": 1586170.0,
+    "net_worth": 18431127.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=732",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=732",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.55,
+    "expended": 0.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:24.350498Z",
+        "notes": "Official eSAKSHI REST API — Works: 87 recommended, 57 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 87,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.7006802721088436
+  }
 }

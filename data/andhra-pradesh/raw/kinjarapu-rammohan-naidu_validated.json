@@ -4,16 +4,16 @@
     "constituency": "Srikakulam",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6620,
     "slug": "kinjarapu-rammohan-naidu",
     "house": "lok_sabha",
     "sansad_member_id": 4771,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 36,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kinjarapu Rammohan Naidu\n\n### Overall Assessment\nKinjarapu Rammohan Naidu, Telugu Desam Party MP from Srikakulam constituency in Andhra Pradesh, currently serves in the Lok Sabha with ministerial responsibilities. The transparency profile reveals significant data gaps across multiple dimensions, with evidence grades of 'C' for parliamentary activities and 'D' for accessibility. While criminal records show a clean profile with zero cases, the absence of asset and MPLADS data severely limits comprehensive assessment.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Andhra Pradesh revealing systemic issues: Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for the constituency, it's impossible to assess local development fund management or effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data on total assets, previous declarations, growth ratios, or net worth. Monthly compensation is recorded at Rs 2,45,000. The lack of asset information prevents any assessment of wealth accumulation patterns or potential conflicts of interest. This represents a critical transparency gap that undermines public accountability.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero total cases, no serious charges, no pending matters, no disposed cases, and no convictions. However, the data source reliability is flagged as low confidence, suggesting potential gaps in criminal background verification processes.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with 0 questions raised, 0 debate participations, and 0 private bills introduced. Attendance percentage is not available. As a serving minister, lower parliamentary participation may be attributable to executive responsibilities, which typically reduce floor time for legislative activities. The 'C' grade for parliamentary evidence suggests moderate data reliability in this domain.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals limited public discourse, with only 10 articles identified (0 positive, 1 negative, 9 neutral), indicating minimal media engagement or coverage. The 'D' grade for accessibility evidence points to significant gaps in public communication channels. No committee participation data is available, and legislative effectiveness metrics are unreliable, further limiting assessment of public engagement initiatives.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight substantial data reliability issues:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence levels\n- MPLADS data reliability is questionable\n- Parliamentary activity data lacks confidence\n- Committee information is entirely absent\n- Legislative effectiveness data is unreliable\n\nThese gaps significantly constrain comprehensive transparency assessment and raise questions about data collection and reporting systems.\n\n### Key Takeaway\nKinjarapu Rammohan Naidu's transparency profile is severely hampered by extensive data gaps across critical domains including assets, MPLADS utilization, and parliamentary engagement metrics. While maintaining a clean criminal record, the absence of financial disclosures and development fund utilization data, combined with minimal parliamentary activity records, prevents meaningful accountability assessment. The broader CAG audit findings for Andhra Pradesh highlighting fund management issues underscore the importance of robust MPLADS monitoring. Immediate improvements in data collection, reporting systems, and public disclosure mechanisms are essential for enhanced transparency and democratic accountability.",
-  "validated_at": "2026-05-21T14:30:11.019954Z"
+  "validated_at": "2026-05-21T14:30:11.019954Z",
+  "assets": {
+    "total_assets": 233073561.0,
+    "liabilities": 29863859.0,
+    "net_worth": 203209702.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6620",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6620",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.12,
+    "released": 17.12,
+    "sanctioned": 12.07,
+    "expended": 3.94,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:16:20.964985Z",
+        "notes": "Official eSAKSHI REST API — Works: 180 recommended, 180 sanctioned, 51 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 180,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 23.014018691588785
+  }
 }

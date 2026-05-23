@@ -359,6 +359,23 @@ class ManagerAgent:
             # Assets specifically failed even though criminal parsed OK — re-fetch
             missing.append("myneta")
 
+        # MPLADS missing — retry because eSAKSHI can provide current 18th Lok Sabha
+        # constituency-level figures even when the legacy CSV/data.gov source is empty.
+        mplads = findings.mplads
+        if mplads and not any(
+            value is not None
+            for value in (
+                mplads.entitled,
+                mplads.released,
+                mplads.sanctioned,
+                mplads.expended,
+                mplads.cumulative_entitled,
+                mplads.cumulative_released,
+                mplads.cumulative_expended,
+            )
+        ):
+            missing.append("mplads")
+
         # PRS data missing
         if (
             findings.parliament_activity.confidence == 0.0
@@ -428,6 +445,30 @@ class ManagerAgent:
                 )
             except Exception as e:
                 log.warning("  MyNeta refresh failed for %s: %s", mp.name, e)
+
+        if "mplads" in missing:
+            try:
+                # Browser-backed eSAKSHI is the authoritative current-term source.
+                await self._ensure_browser()
+                fund = await self.esakshi.fetch_fund_data(mp)
+                if fund.confidence <= 0 and self.mplads_datagov:
+                    fund = await self.mplads_datagov.fetch_fund_data(mp)
+                if fund.confidence <= 0:
+                    fund = await self.mplads.fetch_fund_data(mp)
+                findings.mplads = fund
+                if fund.confidence > 0:
+                    findings.evidence_summary["mplads"] = (
+                        fund.sources[0].grade.value if fund.sources else "A"
+                    )
+                    log.info(
+                        "  [refreshed] mplads for %s — released: %s, expended: %s, conf: %.1f",
+                        mp.name,
+                        fund.released,
+                        fund.expended,
+                        fund.confidence,
+                    )
+            except Exception as e:
+                log.warning("  MPLADS refresh failed for %s: %s", mp.name, e)
 
         if "prs" in missing:
             try:

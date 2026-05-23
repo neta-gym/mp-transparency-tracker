@@ -4,16 +4,16 @@
     "constituency": "Sreerampur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7205,
     "slug": "kalyan-banerjee",
     "house": "lok_sabha",
     "sansad_member_id": 4498,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kalyan Banerjee\n\n### Overall Assessment\n\nKalyan Banerjee, representing Sreerampur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining reasonable parliamentary attendance at 85%, substantial missing information across asset declaration, MPLADS utilization, and criminal background checks raises concerns about data availability and transparency metrics. The evidence quality grades (Parliament: C, Accessibility: D) reflect these limitations in available information.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings for West Bengal highlighting systemic issues in fund management. The CAG's 2010 audit revealed Rs 1,558 crore in idle funds across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Banerjee's constituency, it's impossible to assess his development fund management effectiveness.\n\n### Financial Transparency\n\nAsset declaration information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation or potential conflicts of interest. The monthly compensation is listed at Rs 2,45,000, which appears to be standard parliamentary remuneration. However, without baseline asset information, comprehensive financial transparency evaluation remains impossible.\n\n### Legal & Criminal Standing\n\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, automated flags indicate \"low confidence in criminal data\" due to potentially unavailable sources, necessitating cautious interpretation of this apparently clear record. The warning suggests that absence of reported cases may reflect data collection issues rather than definitively clean legal standing.\n\n### Parliamentary Performance\n\nBanerjee demonstrates adequate parliamentary engagement with 85% attendance, placing him above average compared to typical Lok Sabha attendance rates. His participation includes 11 questions raised and 12 debates participated in, indicating active legislative involvement. However, he has introduced zero private member bills, suggesting limited initiative in independent legislative proposals. No committee participation data is available, limiting assessment of his specialized parliamentary work. The C-grade evidence quality for parliamentary data suggests moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\n\nPublic engagement assessment faces severe limitations due to missing data across multiple indicators. The accessibility evidence grade of D reflects poor data availability for measuring public interaction. News sentiment analysis covers only 10 articles, all classified as neutral, providing limited insight into public perception or media coverage patterns. The small sample size of news coverage suggests either limited media attention or incomplete data collection, hampering assessment of public engagement effectiveness.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data reliability concerns. Asset data carries low confidence warnings, MPLADS information is similarly flagged for reliability issues, and criminal record data faces source availability concerns. Committee participation information is entirely absent due to potentially unavailable Sansad profiles. These data gaps substantially limit the reliability of this transparency assessment and suggest systemic issues in information collection or disclosure processes.\n\nThe West Bengal-specific CAG audit context provides relevant background on state-level fund management challenges, though direct application to individual MP performance requires caution. Evidence quality grades (Parliament: C, Accessibility: D) reflect moderate to poor confidence levels in available data.\n\n### Key Takeaway\n\nKalyan Banerjee's transparency profile remains largely opaque due to extensive data gaps across critical assessment areas. While available information suggests reasonable parliamentary attendance and clean criminal standing, the absence of asset declarations, MPLADS utilization data, and limited public engagement metrics prevents meaningful transparency evaluation. The numerous data quality warnings indicate either significant disclosure gaps or systematic data collection failures, highlighting the need for improved transparency mechanisms and data availability for comprehensive MP assessment.",
-  "validated_at": "2026-05-21T14:37:54.766635Z"
+  "validated_at": "2026-05-21T14:37:54.766635Z",
+  "assets": {
+    "total_assets": 305479471.0,
+    "liabilities": 1360398.0,
+    "net_worth": 304119073.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7205",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7205",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.34,
+    "expended": 7.63,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:49.608774Z",
+        "notes": "Official eSAKSHI REST API — Works: 120 recommended, 118 sanctioned, 50 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 120,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 51.90476190476191
+  }
 }

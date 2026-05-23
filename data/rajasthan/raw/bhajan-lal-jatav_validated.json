@@ -4,16 +4,16 @@
     "constituency": "Karauli-Dholpur",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 451,
     "slug": "bhajan-lal-jatav",
     "house": "lok_sabha",
     "sansad_member_id": 5734,
     "profile_url": null,
     "canonical_name": "Bhajan Lal Jatav",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 55,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bhajan Lal Jatav\n\n### Overall Assessment\nBhajan Lal Jatav, Congress MP from Karauli-Dholpur constituency in Rajasthan, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and adequate parliamentary attendance, critical information regarding assets and development fund utilization remains unavailable, hampering full assessment of his performance and accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable for MP Jatav, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given that MPLADS funds are crucial for constituency development. The absence of this data is particularly concerning in light of CAG audit findings for Rajasthan revealing systemic issues: ₹1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. Without MPLADS transparency, constituents cannot assess whether their MP is effectively utilizing allocated development funds.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency deficit, as asset declarations are mandatory for MPs under the Representation of People Act. The MP receives a monthly compensation of ₹2,45,000, but without baseline asset information, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation. This data gap significantly undermines financial accountability.\n\n### Legal & Criminal Standing\nMP Jatav maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the clean record is positive for public trust, the data quality concerns require acknowledgment.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with an 85% attendance rate, which exceeds the Lok Sabha average and demonstrates reasonable commitment to parliamentary duties. However, legislative participation appears limited with only 5 questions raised, 1 debate participation, and zero private member bills introduced. This suggests minimal proactive engagement in parliamentary proceedings beyond attendance. No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability from Sansad profiles.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 9 news articles, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited media attention or controversial issues but also indicates minimal positive recognition for achievements or initiatives. The absence of social media engagement data and the 'D' grade for accessibility suggest limited digital presence and constituent outreach mechanisms.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues. Critical warnings include low confidence in criminal records, assets, and MPLADS data. The evidence grades are concerning - 'C' for parliamentary data and 'D' for accessibility data. Key missing elements include committee memberships, detailed asset disclosures, complete MPLADS utilization records, and comprehensive social media engagement metrics. These gaps substantially limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile MP Bhajan Lal Jatav maintains basic parliamentary presence with clean criminal records and adequate attendance, severe data gaps in asset disclosure and development fund utilization create significant transparency concerns. The absence of MPLADS data is particularly troubling given CAG findings of systemic fund mismanagement in Rajasthan. Constituents lack essential information to evaluate their representative's financial integrity and development effectiveness, highlighting the need for improved transparency compliance and data availability.",
-  "validated_at": "2026-05-21T14:24:13.869386Z"
+  "validated_at": "2026-05-21T14:24:13.869386Z",
+  "assets": {
+    "total_assets": 33282184.0,
+    "liabilities": 18978157.0,
+    "net_worth": 14304027.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=451",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=451",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.8,
+    "expended": 0.5,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:47.287247Z",
+        "notes": "Official eSAKSHI REST API — Works: 41 recommended, 26 sanctioned, 5 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 41,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.4013605442176873
+  }
 }

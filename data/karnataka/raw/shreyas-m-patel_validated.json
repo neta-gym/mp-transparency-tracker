@@ -4,16 +4,16 @@
     "constituency": "Hassan",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1890,
     "slug": "shreyas-m-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5751,
     "profile_url": null,
     "canonical_name": "Shreyas M Patel",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 32,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shreyas M Patel\n\n### Overall Assessment\nShreyas M Patel, Indian National Congress MP from Hassan, Karnataka, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and achieving moderate parliamentary attendance (70%), substantial missing information regarding assets, MPLADS utilization, and committee participation raises concerns about overall accountability transparency.\n\n### Fund Utilization & Development\n**Critical data unavailability**: Complete absence of MPLADS data (entitled, released, expended amounts all unreported) prevents assessment of constituency development performance. This represents a significant transparency gap for a scheme designed for local infrastructure development.\n\n**Systemic concerns**: CAG audit findings reveal substantial governance issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. An additional 18% of sampled works were found abandoned or incomplete, indicating broader implementation challenges that may affect Hassan constituency.\n\n### Financial Transparency\n**Asset disclosure gaps**: No current or previous asset information available, preventing evaluation of wealth accumulation patterns or potential conflicts of interest. The absence of growth ratio and net worth data represents a fundamental transparency deficit in financial accountability.\n\n**Compensation transparency**: Monthly compensation of Rs 245,000 is disclosed, providing basic remuneration visibility.\n\n### Legal & Criminal Standing\n**Clean record**: Zero criminal cases across all categories (total, serious, pending, disposed, convictions), indicating absence of legal complications. However, data quality warnings suggest potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\n**Moderate engagement**: 70% attendance rate demonstrates reasonable but not exceptional parliamentary participation. Legislative activity includes 11 questions raised and participation in 4 debates, indicating basic constituency representation efforts.\n\n**Limited legislative impact**: Zero private member bills introduced suggests minimal proactive legislative initiative. No committee assignment data available, preventing assessment of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n**Limited media presence**: Analysis of 10 news articles reveals predominantly neutral coverage (9 neutral, 1 negative, 0 positive), suggesting minimal public engagement or newsworthy activities. This pattern may indicate either low-profile governance approach or limited media accessibility.\n\n**Evidence quality concerns**: 'D' grade for accessibility and 'C' grade for parliamentary evidence quality indicate substantial information gaps affecting public accountability assessment.\n\n### Data Quality & Caveats\n**Significant limitations**: Multiple automated warnings highlight low confidence across key transparency metrics:\n- Criminal record verification uncertainty\n- Complete absence of asset and MPLADS data\n- Missing committee participation information\n- Limited legislative effectiveness data\n\n**Source limitations**: Data compiled from PRS, social media, and news sources, but apparent unavailability of official Sansad profiles and other government databases compromises comprehensive evaluation.\n\n**Karnataka context**: Seven relevant CAG findings provide broader governance context but may not directly reflect individual MP performance.\n\n### Key Takeaway\nShreyas M Patel maintains basic parliamentary functionality with clean legal standing and moderate attendance, but critical transparency gaps in asset disclosure, MPLADS utilization, and committee participation prevent comprehensive accountability assessment. The absence of key financial and developmental data, combined with neutral media coverage, suggests either systematic data collection issues or limited proactive transparency practices that warrant immediate attention for enhanced public accountability.",
-  "validated_at": "2026-05-21T14:30:06.015445Z"
+  "validated_at": "2026-05-21T14:30:06.015445Z",
+  "assets": {
+    "total_assets": 426710045.0,
+    "liabilities": 8880873.0,
+    "net_worth": 417829172.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1890",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1890",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.37,
+    "expended": 4.32,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:27.885076Z",
+        "notes": "Official eSAKSHI REST API — Works: 192 recommended, 146 sanctioned, 5 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 192,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 29.38775510204082
+  }
 }

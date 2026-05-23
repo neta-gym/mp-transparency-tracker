@@ -4,16 +4,16 @@
     "constituency": "Rajmahal",
     "state": "jharkhand",
     "party": "Jharkhand Mukti Morcha",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9340,
     "slug": "vijay-kumar-hansdak",
     "house": "lok_sabha",
     "sansad_member_id": 4866,
     "profile_url": null,
     "canonical_name": "Vijay Kumar Hansdak",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 41,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vijay Kumar Hansdak\n\n### Overall Assessment\nVijay Kumar Hansdak, representing Rajmahal constituency in Jharkhand as a Jharkhand Mukti Morcha MP, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While parliamentary attendance records show strong engagement at 95%, substantial missing information across key accountability metrics raises concerns about overall transparency assessment reliability.\n\n### Fund Utilization & Development\nCritical MPLADS fund utilization data is unavailable, preventing assessment of constituency development effectiveness. This absence of information occurs against a concerning backdrop of systemic issues identified by CAG audits in Jharkhand, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The state context reveals 18% of sampled development works were abandoned or incomplete, highlighting the importance of transparent fund tracking that cannot be evaluated for this MP due to missing data.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data available for current holdings, previous declarations, growth patterns, or net worth calculations. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The warning flag indicates low confidence in available asset data sources, suggesting systemic issues in financial disclosure accessibility.\n\n### Legal & Criminal Standing\nAvailable records indicate zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, the automated warning system flags low confidence in criminal record data due to potentially unavailable sources, necessitating cautious interpretation of this apparently clean record.\n\n### Parliamentary Performance\nHansdak demonstrates strong parliamentary engagement with 95% attendance, significantly above average benchmarks. Legislative participation includes 52 questions raised and 9 debate contributions, indicating active involvement in parliamentary proceedings. However, zero private member bills introduced suggests limited legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment across all pieces, suggesting minimal public controversy but also limited positive visibility. The absence of positive or negative coverage may indicate either effective constituency management or insufficient public engagement generating media attention. Committee participation data is unavailable, limiting assessment of policy influence beyond floor activities. The accessibility evidence grade of 'D' indicates poor data quality in this domain.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability concerns:\n- Criminal record data carries low confidence warnings due to source availability issues\n- Asset information shows low confidence ratings with complete data absence\n- MPLADS utilization data is entirely missing despite its critical importance for constituency development assessment\n- Committee membership information is unavailable, potentially due to inaccessible Sansad profiles\n- Legislative effectiveness data shows low confidence ratings\n\nThese caveats substantially limit the reliability of this transparency assessment and suggest systemic issues in public information accessibility.\n\n### Key Takeaway\nWhile Vijay Kumar Hansdak maintains exemplary parliamentary attendance at 95% and shows no apparent criminal record issues, extensive missing data across asset declarations, MPLADS utilization, and committee participation creates significant transparency gaps. The neutral media coverage and absence of critical financial information, combined with concerning state-level CAG audit findings about fund mismanagement, underscore the need for improved disclosure mechanisms. Citizens seeking accountability information face substantial barriers due to incomplete public records, limiting effective democratic oversight of their elected representative.",
-  "validated_at": "2026-05-21T14:23:05.503118Z"
+  "validated_at": "2026-05-21T14:23:05.503118Z",
+  "assets": {
+    "total_assets": 62011168.0,
+    "liabilities": 16981136.0,
+    "net_worth": 45030032.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9340",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9340",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.72,
+    "released": 14.72,
+    "sanctioned": 5.28,
+    "expended": 2.02,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:06.258684Z",
+        "notes": "Official eSAKSHI REST API — Works: 458 recommended, 293 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 458,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 13.722826086956522
+  }
 }

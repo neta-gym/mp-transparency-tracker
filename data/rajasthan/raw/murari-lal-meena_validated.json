@@ -4,16 +4,16 @@
     "constituency": "Dausa",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 401,
     "slug": "murari-lal-meena",
     "house": "lok_sabha",
     "sansad_member_id": 5717,
     "profile_url": null,
     "canonical_name": "Murari Lal Meena",
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Murari Lal Meena\n\n### Overall Assessment\n\nMurari Lal Meena (INC, Dausa, Rajasthan) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical areas. His 95% attendance rate demonstrates consistent engagement with parliamentary duties, though broader transparency metrics remain unclear due to data limitations across financial and development indicators.\n\n### Fund Utilization & Development\n\nMPLADS utilization data is unavailable, preventing assessment of constituency development effectiveness. This data gap is concerning given CAG audit findings revealing systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and widespread irregularities in utilization certificates. Without specific MPLADS data, it's impossible to evaluate Meena's performance against these broader accountability challenges affecting his state.\n\n### Financial Transparency\n\nAsset declaration information is completely unavailable, making financial transparency assessment impossible. No data exists on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to public accountability. Monthly compensation is recorded at Rs 2,45,000, though this appears to be standard parliamentary remuneration rather than constituency-specific financial disclosure.\n\n### Legal & Criminal Standing\n\nMeena shows no criminal record with zero cases across all categories (serious, pending, disposed, convictions). However, confidence in this criminal data is flagged as low, suggesting potential data source limitations. While the clean record appears positive, the data quality caveat requires noting this assessment's reliability constraints.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Attendance at 95% is notably high, indicating strong commitment to parliamentary duties. Legislative activity includes 48 questions and 7 debate participations, demonstrating active engagement in parliamentary processes. However, zero private bills suggests limited legislative initiative. No committee membership data is available, representing another transparency gap in assessing his parliamentary contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversial issues. This neutral coverage pattern may indicate either effective non-controversial representation or insufficient public engagement generating media attention. Accessibility metrics receive a 'D' grade, indicating poor public accessibility or limited available data on constituent engagement efforts.\n\n### Data Quality & Caveats\n\nMultiple data quality warnings significantly limit this assessment's reliability. Criminal record data has low confidence due to potential source unavailability. Asset information completely lacks confidence, with no financial data available. MPLADS data is similarly unreliable, preventing development work assessment. Committee participation data is missing, suggesting Sansad profile unavailability. Overall evidence grades are concerning: parliamentary performance rated 'C' and accessibility rated 'D', indicating substantial data gaps across transparency metrics.\n\n### Key Takeaway\n\nMurari Lal Meena demonstrates strong parliamentary attendance (95%) and clean criminal record, but comprehensive transparency assessment is severely hampered by extensive data gaps across financial declarations, constituency development, and public engagement metrics. The unavailability of MPLADS and asset data, combined with poor accessibility ratings, suggests significant transparency challenges that prevent full accountability evaluation. Voters lack access to crucial information needed to assess his effectiveness as their representative, particularly regarding fund utilization and financial standing.",
-  "validated_at": "2026-05-21T14:27:04.870287Z"
+  "validated_at": "2026-05-21T14:27:04.870287Z",
+  "assets": {
+    "total_assets": 135714010.0,
+    "liabilities": 2166932.0,
+    "net_worth": 133547078.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=401",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=401",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.36,
+    "expended": 1.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:59.836045Z",
+        "notes": "Official eSAKSHI REST API — Works: 75 recommended, 47 sanctioned, 3 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 75,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 8.503401360544217
+  }
 }

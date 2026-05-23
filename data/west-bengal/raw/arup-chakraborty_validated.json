@@ -4,16 +4,16 @@
     "constituency": "Bankura",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7977,
     "slug": "arup-chakraborty",
     "house": "lok_sabha",
     "sansad_member_id": 5778,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 68,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Arup Chakraborty\n\n### Overall Assessment\n\nArup Chakraborty, representing Bankura constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While his criminal record appears clean and he maintains neutral media coverage, substantial gaps exist in asset disclosures, MPLADS utilization data, and parliamentary engagement metrics. His parliamentary attendance of 55% falls below optimal standards for legislative representation.\n\n### Fund Utilization & Development\n\nCritical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) transparency. No data is available for Chakraborty's entitled allocation, funds released, or expenditure patterns, making it impossible to assess his constituency development effectiveness. This absence of utilization data is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. The CAG also identified that 18% of sampled development works were abandoned or incomplete, raising questions about implementation oversight.\n\n### Financial Transparency\n\nAsset disclosure presents a significant transparency deficit. No current or previous asset information is available, preventing assessment of financial growth patterns or potential conflicts of interest. Without baseline asset data, it's impossible to evaluate wealth accumulation during his tenure or compliance with disclosure requirements. His monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\n\nChakraborty maintains a clean legal record with zero criminal cases, including no serious charges, pending matters, or convictions. However, data confidence is low due to potential source unavailability, requiring cautious interpretation of this apparently positive finding.\n\n### Parliamentary Performance\n\nLegislative engagement shows concerning deficiencies. With 55% attendance, Chakraborty falls short of the desirable parliamentary presence for effective representation. More critically, he has contributed zero questions, participated in zero debates, and introduced zero private bills, indicating minimal active legislative participation. No committee membership data is available, suggesting limited engagement in specialized parliamentary functions. This pattern suggests a largely passive approach to legislative duties.\n\n### Public Engagement & Accessibility\n\nMedia analysis reveals neutral public perception based on 10 news articles, with zero positive or negative coverage, indicating limited public visibility or controversial positions. This neutral profile, while avoiding negative publicity, may also suggest insufficient media engagement on constituency issues. The absence of accessible committee data and legislative activity raises questions about public engagement channels and transparency in representative functions.\n\n### Data Quality & Caveats\n\nSignificant data quality limitations affect this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is entirely missing, creating major transparency gaps. MPLADS utilization data is unavailable despite being crucial for development assessment. Committee membership information is absent, possibly due to unavailable Sansad profile data. Legislative effectiveness metrics show low confidence ratings. The parliament performance receives a 'C' grade while accessibility rates 'D', reflecting substantial transparency deficits.\n\n### Key Takeaway\n\nArup Chakraborty's transparency profile reveals a representative with a clean legal record but significant gaps in financial disclosure, development fund utilization, and active parliamentary participation. His 55% attendance and zero contributions to legislative processes raise questions about constituency representation effectiveness. The absence of asset information and MPLADS data, combined with systemic CAG-identified irregularities in West Bengal's fund management, creates substantial transparency concerns. While avoiding criminal complications and negative publicity, Chakraborty's passive legislative approach and data gaps suggest limited accountability mechanisms for his constituents. Improved disclosure compliance and enhanced parliamentary engagement would significantly strengthen his transparency profile.",
-  "validated_at": "2026-05-21T14:24:06.097187Z"
+  "validated_at": "2026-05-21T14:24:06.097187Z",
+  "assets": {
+    "total_assets": 171911710.0,
+    "liabilities": 65685037.0,
+    "net_worth": 106226673.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7977",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7977",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.66,
+    "expended": 5.36,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:40.185978Z",
+        "notes": "Official eSAKSHI REST API — Works: 70 recommended, 69 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 70,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.462585034013614
+  }
 }

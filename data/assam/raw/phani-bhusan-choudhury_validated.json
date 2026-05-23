@@ -4,16 +4,16 @@
     "constituency": "Barpeta",
     "state": "assam",
     "party": "Asom Gana Parishad",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4099,
     "slug": "phani-bhusan-choudhury",
     "house": "lok_sabha",
     "sansad_member_id": 5569,
     "profile_url": null,
     "canonical_name": "Phani Bhusan Choudhury",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 72,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Phani Bhusan Choudhury\n\n### Overall Assessment\nPhani Bhusan Choudhury represents Barpeta constituency in Assam as a member of the Asom Gana Parishad in the Lok Sabha. His transparency profile presents a mixed picture with significant data gaps across multiple dimensions. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (80%), substantial information deficits limit comprehensive assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the Rs 245,000 monthly compensation. CAG audit findings for Assam raise systemic concerns about fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, suggesting potential challenges in the broader development ecosystem within which Choudhury operates.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data available on current assets, previous holdings, growth ratios, or net worth. This lack of financial transparency prevents assessment of wealth accumulation patterns or potential conflicts of interest. The absence of basic asset declarations raises questions about compliance with mandatory disclosure requirements for elected representatives.\n\n### Legal & Criminal Standing\nChoudhury maintains a clean legal record with zero criminal cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unreliable or incomplete. While the clean record is positive, the data quality concerns require cautious interpretation.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 80% attendance—a reasonable but not exemplary level of participation. Legislative activity remains limited with only 8 questions raised, 3 debate participations, and no private member bills introduced. The absence of committee membership data further limits assessment of his parliamentary contributions. Evidence quality for parliamentary performance receives a 'C' grade, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nPublic engagement assessment faces severe limitations due to data unavailability. News sentiment analysis across 10 articles shows entirely neutral coverage with no positive or negative sentiment detected, suggesting limited media visibility or impact. Social media and other accessibility metrics receive a 'D' evidence grade, indicating poor data quality. No committee participation data is available, limiting assessment of institutional engagement beyond basic parliamentary functions.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data quality issues. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information shows similar reliability concerns. MPLADS data is completely missing despite being fundamental to MP accountability. Committee information is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These limitations substantially constrain comprehensive transparency assessment.\n\n### Key Takeaway\nPhani Bhusan Choudhury's transparency profile is characterized more by data absence than substantive concerns. While maintaining a clean criminal record and reasonable parliamentary attendance, critical gaps in asset disclosure, MPLADS utilization, and detailed legislative contributions prevent comprehensive accountability assessment. The neutral media coverage and limited parliamentary activity suggest a low-profile approach to representation. Systemic CAG audit findings for Assam highlight broader governance challenges that may impact local development effectiveness, though direct attribution to Choudhury's performance cannot be established without specific data.",
-  "validated_at": "2026-05-21T14:21:31.475505Z"
+  "validated_at": "2026-05-21T14:21:31.475505Z",
+  "assets": {
+    "total_assets": 32806601.0,
+    "liabilities": 1564895.0,
+    "net_worth": 31241706.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4099",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4099",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.36,
+    "expended": 3.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:26.312450Z",
+        "notes": "Official eSAKSHI REST API — Works: 89 recommended, 52 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 89,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 22.10884353741497
+  }
 }

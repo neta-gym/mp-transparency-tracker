@@ -4,16 +4,16 @@
     "constituency": "Jamshedpur",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8563,
     "slug": "bidyut-baran-mahato",
     "house": "lok_sabha",
     "sansad_member_id": 4705,
     "profile_url": null,
     "canonical_name": "Bidyut Baran Mahato",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bidyut Baran Mahato\n\n### Overall Assessment\nBidyut Baran Mahato, BJP MP from Jamshedpur, Jharkhand, presents a mixed transparency profile marked by excellent parliamentary attendance but significant data gaps in key accountability areas. While maintaining a clean legal record and strong legislative participation, critical information regarding assets, MPLADS utilization, and financial transparency remains unavailable, limiting comprehensive assessment of his performance.\n\n### Fund Utilization & Development\nComplete data on MPLADS fund utilization is unavailable, with all metrics (entitled, released, expended amounts and utilization percentage) showing no recorded information. This absence is particularly concerning given CAG audit findings revealing systemic issues in Jharkhand's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific data on Mahato's constituency development performance, it's impossible to assess his effectiveness in addressing local infrastructure and development needs.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, with no data available on current or previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and financial accountability. The MP receives a standard monthly compensation of Rs 2,45,000, but without baseline asset information, tracking any unusual wealth accumulation or financial patterns is impossible. This data absence undermines public ability to evaluate financial transparency and ethical standards.\n\n### Legal & Criminal Standing\nMahato maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, a warning flag indicates low confidence in this criminal data due to potential source unavailability. While the clean record is positive, the data quality concern suggests this information may not be comprehensively verified or current.\n\n### Parliamentary Performance\nMahato demonstrates exceptional commitment to parliamentary duties with 100% attendance, significantly above national averages. His legislative engagement includes 71 questions raised and participation in 14 debates, indicating active involvement in parliamentary processes. However, he has introduced zero private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available due to unavailable Sansad profiles, preventing assessment of his specialized committee contributions. Evidence grade for parliamentary activity is rated 'C', indicating moderate confidence in available data.\n\n### Public Engagement & Accessibility\nPublic engagement metrics show limited accessibility, with an evidence grade of 'D' for accessibility measures. Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting minimal public visibility or controversial issues. The absence of significant media attention could indicate either effective non-controversial governance or limited public engagement and communication efforts. Social media and other digital engagement metrics are not provided, further limiting assessment of public outreach effectiveness.\n\n### Data Quality & Caveats\nThis assessment faces substantial data quality limitations across multiple domains. Critical warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. Missing information spans asset declarations, development fund utilization, committee memberships, and detailed legislative effectiveness metrics. The parliament evidence grade of 'C' and accessibility grade of 'D' indicate significant reliability concerns. These data gaps severely constrain comprehensive transparency evaluation and suggest systemic issues in information availability or disclosure processes.\n\n### Key Takeaway\nBidyut Baran Mahato presents a paradoxical transparency profile - exemplary in parliamentary attendance and legal standing, yet opaque in critical areas of financial disclosure and development fund utilization. The absence of asset information and MPLADS data, combined with concerning CAG audit findings about fund management irregularities in Jharkhand, raises questions about accountability mechanisms. While his clean criminal record and perfect attendance are commendable, the extensive data gaps prevent full assessment of his effectiveness as a public representative. Enhanced disclosure and data availability are essential for meaningful transparency evaluation.",
-  "validated_at": "2026-05-21T14:24:35.444283Z"
+  "validated_at": "2026-05-21T14:24:35.444283Z",
+  "assets": {
+    "total_assets": 38345063.0,
+    "liabilities": 4849078.0,
+    "net_worth": 33495985.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8563",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8563",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.8,
+    "expended": 7.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:57.105397Z",
+        "notes": "Official eSAKSHI REST API — Works: 173 recommended, 173 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 173,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 50.0
+  }
 }

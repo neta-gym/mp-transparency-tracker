@@ -4,16 +4,16 @@
     "constituency": "Faridabad",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8425,
     "slug": "krishan-pal-gurjar",
     "house": "lok_sabha",
     "sansad_member_id": 4629,
     "profile_url": null,
     "canonical_name": "Krishan Pal Gurjar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Krishan Pal Gurjar\n\n### Overall Assessment\nKrishan Pal Gurjar, BJP MP representing Faridabad constituency in Haryana, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record, comprehensive assessment is hampered by limited availability of key performance metrics including asset disclosures, MPLADS utilization, and parliamentary activity data. The MP serves in a ministerial capacity, which typically affects traditional attendance metrics.\n\n### Fund Utilization & Development\nMPLADS data for MP Gurjar is unavailable, making it impossible to assess development fund utilization patterns. However, CAG audit findings from Haryana highlight systemic concerns that may affect all MPs in the state. Key issues include Rs 1,558 crore in idle funds lying unspent across district authorities, indicating potential inefficiencies in the development fund ecosystem. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were found to be abandoned or incomplete - both high-priority concerns for development effectiveness.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, preventing assessment of the MP's financial transparency. No information exists regarding total assets, asset growth patterns, or net worth declarations. This represents a significant gap in transparency metrics. The MP's monthly compensation is recorded at Rs 2,45,000, which aligns with standard parliamentary remuneration structures.\n\n### Legal & Criminal Standing\nMP Gurjar maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries a low confidence rating due to potential source unavailability, warranting cautious interpretation of these figures.\n\n### Parliamentary Performance\nParliamentary activity metrics are largely unavailable, showing 0% attendance, zero questions raised, zero debate participations, and zero private member bills. However, these figures must be interpreted within the context that MP Gurjar serves as a Minister. Ministerial duties typically involve extensive executive responsibilities that can legitimately impact traditional parliamentary participation metrics, as ministers spend considerable time on administrative and policy implementation activities rather than floor participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited but neutral public engagement, with 10 news articles identified (1 positive, 0 negative, 9 neutral). This suggests minimal controversial coverage but also indicates relatively low media visibility. The accessibility grade of 'D' indicates significant challenges in public information access, while the parliament performance grade of 'C' reflects moderate transparency in legislative activities despite data limitations.\n\n### Data Quality & Caveats\nThis assessment faces substantial data quality limitations across multiple domains. Criminal record data carries low confidence due to source availability issues. Asset information is completely missing, preventing financial transparency evaluation. MPLADS utilization data is unavailable, hindering development performance assessment. Parliamentary activity figures show zero engagement but must be contextualized within ministerial responsibilities. Committee membership information is entirely absent, possibly due to unavailable Sansad profiles. These limitations significantly constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nWhile MP Krishan Pal Gurjar maintains a clean legal record and receives neutral media coverage, the substantial absence of key transparency data - including asset disclosures, MPLADS utilization, and detailed parliamentary metrics - prevents comprehensive assessment of his performance as a public representative. His ministerial role provides context for low traditional parliamentary participation metrics, but the overall data gaps represent significant transparency challenges that limit public accountability evaluation. Improved data availability across asset disclosures and development fund utilization would be essential for meaningful transparency assessment.",
-  "validated_at": "2026-05-21T14:22:13.524806Z"
+  "validated_at": "2026-05-21T14:22:13.524806Z",
+  "assets": {
+    "total_assets": 625815843.0,
+    "liabilities": 39847197.0,
+    "net_worth": 585968646.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8425",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8425",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.31,
+    "expended": 1.31,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:16.381514Z",
+        "notes": "Official eSAKSHI REST API — Works: 72 recommended, 40 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 72,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 8.91156462585034
+  }
 }

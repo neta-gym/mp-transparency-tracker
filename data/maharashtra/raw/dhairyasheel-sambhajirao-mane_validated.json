@@ -4,16 +4,16 @@
     "constituency": "Hatkanangle",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3537,
     "slug": "dhairyasheel-sambhajirao-mane",
     "house": "lok_sabha",
     "sansad_member_id": 5187,
     "profile_url": null,
     "canonical_name": "Dhairyasheel Sambhajirao Mane",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 43,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Dhairyasheel Sambhajirao Mane\n\n### Overall Assessment\n\nDhairyasheel Sambhajirao Mane, representing the Hatkanangle constituency in Maharashtra as a Shiv Sena MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, the absence of critical financial data raises concerns about overall transparency accountability.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable for MP Mane, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given Maharashtra's documented systemic issues with fund management. CAG audits reveal concerning state-wide patterns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Mane's constituency, it's impossible to assess his development impact or fund management effectiveness.\n\n### Financial Transparency\n\nAsset disclosure presents a complete information void. No data is available regarding MP Mane's total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency is particularly concerning for public accountability. The only confirmed financial information is his monthly compensation of Rs 2,45,000, which aligns with standard parliamentary remuneration. The lack of asset declaration data significantly undermines the ability to assess potential conflicts of interest or wealth accumulation during his tenure.\n\n### Legal & Criminal Standing\n\nMP Mane maintains an exemplary legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously. While the clean record is positive, the data quality concerns prevent full confidence in this assessment.\n\n### Parliamentary Performance\n\nMane demonstrates moderate engagement in parliamentary activities with 65% attendance, which falls below optimal participation levels but remains within reasonable bounds. His legislative activity shows 71 questions raised in Parliament, indicating active constituency representation through the questioning mechanism. However, his participation in debates is notably limited at just 3 interventions, and he has introduced zero private member bills, suggesting minimal proactive legislative initiative. This performance pattern indicates reactive rather than proactive parliamentary engagement.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 9 articles about MP Mane, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited public visibility or controversial positions. The absence of committee membership data further indicates potential limitations in specialized policy engagement. Social media and news sources provide minimal insights into his constituency outreach or public communication strategies, earning a 'D' grade for accessibility.\n\n### Data Quality & Caveats\n\nThe assessment faces significant limitations due to multiple data quality issues. The evidence grading system assigns 'C' for parliament data and 'D' for accessibility, indicating moderate to poor data reliability. Specific warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. The absence of Sansad profile data prevents committee membership assessment, while legislative effectiveness data carries low confidence ratings. Maharashtra-specific CAG audit findings provide context but cannot substitute for individual MP performance data.\n\n### Key Takeaway\n\nWhile MP Dhairyasheel Sambhajirao Mane maintains a clean legal record and shows reasonable parliamentary attendance, the extensive data gaps in financial disclosures and development fund utilization create significant transparency concerns. His moderate parliamentary engagement suggests adequate but not exceptional representation, while the complete absence of asset and MPLADS data prevents meaningful accountability assessment. Enhanced data disclosure is essential for comprehensive public oversight of his legislative performance and constituency development impact.",
-  "validated_at": "2026-05-21T14:31:10.518606Z"
+  "validated_at": "2026-05-21T14:31:10.518606Z",
+  "assets": {
+    "total_assets": 45131759.0,
+    "liabilities": 10000000.0,
+    "net_worth": 35131759.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3537",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3537",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.3,
+    "expended": 0.65,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:03.732781Z",
+        "notes": "Official eSAKSHI REST API — Works: 13 recommended, 9 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 13,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 4.421768707482993
+  }
 }

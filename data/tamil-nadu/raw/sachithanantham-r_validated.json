@@ -4,16 +4,16 @@
     "constituency": "Dindigul",
     "state": "tamil nadu",
     "party": "Communist Party of India (Marxist)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 834,
     "slug": "sachithanantham-r",
     "house": "lok_sabha",
     "sansad_member_id": 5628,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "# Executive Summary: Sachithanantham R\n\n## Executive Summary: Sachithanantham R\n\n### Overall Assessment\n\nSachithanantham R, representing Dindigul constituency in Tamil Nadu as a Communist Party of India (Marxist) member, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), significant data gaps exist across key areas including asset declarations and MPLADS utilization. The limited available information suggests moderate parliamentary engagement but raises concerns about overall transparency and accountability.\n\n### Fund Utilization & Development\n\nNo MPLADS data is available for Sachithanantham R, creating a complete information gap regarding development fund allocation and utilization. This absence of data is concerning given that MPLADS funds (₹5 crore annually per MP) are a primary mechanism for constituency development. The CAG audit context reveals systemic issues in Tamil Nadu's fund management, with ₹1,558 crore lying idle across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on the MP's fund utilization, it's impossible to assess developmental impact or financial accountability in the constituency.\n\n### Financial Transparency\n\nAsset information is entirely unavailable, preventing any assessment of the MP's financial transparency or potential conflicts of interest. No data exists on total assets, previous holdings, growth ratios, or net worth. The MP's monthly compensation is reported as ₹245,000, consistent with standard parliamentary remuneration. The absence of asset declarations represents a significant transparency gap, making it impossible to evaluate financial probity or track wealth accumulation during tenure.\n\n### Legal & Criminal Standing\n\nSachithanantham R maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. This represents a positive aspect of the transparency profile, indicating no legal complications or criminal proceedings. However, the data comes with a warning flag indicating \"low confidence in criminal data,\" suggesting the source may be unavailable or incomplete.\n\n### Parliamentary Performance\n\nThe MP demonstrates moderate parliamentary engagement with 85% attendance, which is above average for Indian parliamentarians. Parliamentary activity includes 30 questions raised and participation in 7 debates, indicating active involvement in legislative processes. However, no private member bills were introduced, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is 'C', indicating moderate reliability. No committee information is available, limiting assessment of specialized legislative contributions.\n\n### Public Engagement & Accessibility\n\nPublic engagement assessment is limited due to sparse data availability. News sentiment analysis reveals 10 articles with mixed coverage - 2 positive, 0 negative, and 8 neutral pieces, suggesting generally neutral public perception. The accessibility evidence grade is 'D', indicating poor data availability for assessing public outreach efforts. No information is available on social media presence, public meetings, or constituency interaction mechanisms, creating significant gaps in evaluating democratic accessibility.\n\n### Data Quality & Caveats\n\nThe transparency assessment faces substantial limitations due to widespread data unavailability. Key caveats include:\n- Low confidence warnings for criminal records, assets, and MPLADS data\n- No committee information due to potentially unavailable Sansad profiles\n- Limited legislative effectiveness data\n- Accessibility evidence graded as 'D'\n- Parliament activity evidence graded as 'C'\n\nThese limitations significantly constrain the reliability of the overall assessment and suggest systemic issues with transparency data collection and availability.\n\n### Key Takeaway\n\nSachithanantham R presents a paradox of limited transparency despite representing a party traditionally associated with accountability. While maintaining a clean criminal record and reasonable parliamentary attendance, the absence of critical financial and development data severely undermines transparency assessment. The MP's profile highlights broader systemic issues in Indian political transparency infrastructure, where essential accountability information remains inaccessible. Voters in Dindigul constituency lack sufficient verified information to evaluate their representative's financial probity and development fund utilization effectively.",
-  "validated_at": "2026-05-21T14:25:25.437111Z"
+  "validated_at": "2026-05-21T14:25:25.437111Z",
+  "assets": {
+    "total_assets": 2597479.0,
+    "liabilities": 785694.0,
+    "net_worth": 1811785.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 9,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 9,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.36,
+    "expended": 7.32,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:46.257204Z",
+        "notes": "Official eSAKSHI REST API — Works: 80 recommended, 78 sanctioned, 27 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 80,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 49.79591836734694
+  }
 }

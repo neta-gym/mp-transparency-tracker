@@ -4,16 +4,16 @@
     "constituency": "Medinipur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7950,
     "slug": "june-maliah",
     "house": "lok_sabha",
     "sansad_member_id": 5816,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: June Maliah\n\n### Overall Assessment\nJune Maliah, representing Medinipur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and reasonable parliamentary attendance (55%), the absence of critical financial data and limited legislative engagement raise transparency concerns.\n\n### Fund Utilization & Development\nComplete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) allocation, release, and expenditure creates a major transparency gap. No information is available on entitled amounts, funds released, or utilization percentage, making it impossible to assess the MP's development work effectiveness.\n\nThe CAG audit context reveals systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These findings suggest potential challenges in the broader development funding ecosystem within which Maliah operates.\n\n### Financial Transparency\nAsset disclosure presents significant transparency concerns with no available data on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest during the MP's tenure.\n\nMonthly compensation is reported at Rs 245,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\nMaliah maintains a clean legal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability that could affect the reliability of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 55% attendance, falling below optimal participation levels. Legislative activity appears limited with zero questions asked and zero private member bills introduced, suggesting minimal proactive parliamentary engagement on policy matters.\n\nThe MP participated in 4 debates, indicating some level of floor participation, though this represents relatively modest involvement in parliamentary discussions. No committee membership data is available, potentially due to unavailable Sansad profile information.\n\n### Public Engagement & Accessibility\nMedia presence analysis reveals neutral public engagement with 10 news articles providing mixed/neutral coverage. Notably, none of the articles carried positive sentiment, while also avoiding negative coverage, suggesting a low-profile public presence rather than active engagement or controversy.\n\nThe accessibility evidence grade of 'D' indicates significant challenges in public outreach and transparency, potentially limiting constituent engagement and accountability mechanisms.\n\n### Data Quality & Caveats\nThis analysis faces substantial data quality limitations affecting multiple critical areas:\n\n- **Criminal records**: Low confidence warning due to potential source unavailability\n- **Assets**: Complete data absence with low confidence rating\n- **MPLADS**: No utilization data available with low confidence assessment\n- **Legislative effectiveness**: Low confidence in available data\n- **Committee participation**: No data found due to potential Sansad profile unavailability\n\nEvidence grades of 'C' for parliament activity and 'D' for accessibility reflect moderate to poor data reliability across key transparency metrics.\n\n### Key Takeaway\nJune Maliah's transparency profile is severely hampered by extensive data gaps across financial assets, development fund utilization, and legislative effectiveness. While maintaining a clean criminal record and moderate parliamentary attendance, the absence of critical transparency data, combined with limited legislative engagement (zero questions, zero private bills), raises significant concerns about accountability and public service effectiveness. The systemic fund management issues revealed in CAG audits for West Bengal add context to potential development challenges, though specific assessment of Maliah's performance remains impossible due to missing MPLADS data.",
-  "validated_at": "2026-05-21T14:36:39.762549Z"
+  "validated_at": "2026-05-21T14:36:39.762549Z",
+  "assets": {
+    "total_assets": 66018642.0,
+    "liabilities": 17920738.0,
+    "net_worth": 48097904.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7950",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7950",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.57,
+    "expended": 2.96,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:46.611257Z",
+        "notes": "Official eSAKSHI REST API — Works: 36 recommended, 21 sanctioned, 4 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 36,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 20.13605442176871
+  }
 }

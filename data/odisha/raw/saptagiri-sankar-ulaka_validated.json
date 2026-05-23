@@ -4,16 +4,16 @@
     "constituency": "Koraput",
     "state": "odisha",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5071,
     "slug": "saptagiri-sankar-ulaka",
     "house": "lok_sabha",
     "sansad_member_id": 4996,
     "profile_url": null,
     "canonical_name": "Saptagiri Sankar Ulaka",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 45,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Saptagiri Sankar Ulaka\n\n### Overall Assessment\n\nSaptagiri Sankar Ulaka, Indian National Congress MP from Koraput, Odisha, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. With perfect attendance (100%) and active participation in parliamentary proceedings, he demonstrates commitment to his legislative duties. However, substantial missing data on assets, MPLADS utilization, and development activities limits comprehensive assessment of his overall performance and transparency.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure. This represents a critical transparency gap for assessing the MP's development work in his constituency. The broader context reveals concerning systemic issues in Odisha's fund management, with CAG audits highlighting ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about implementation effectiveness in the state.\n\n### Financial Transparency\n\nAsset disclosure data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data makes it impossible to assess potential conflicts of interest or unexplained wealth accumulation. The MP's monthly compensation is recorded at ₹2,45,000, providing the only available financial reference point. The lack of asset data represents a significant transparency deficit that undermines public accountability.\n\n### Legal & Criminal Standing\n\nThe MP maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, this data comes with a warning flag indicating low confidence due to potentially unavailable sources, suggesting the need for verification through additional channels.\n\n### Parliamentary Performance\n\nUlaka demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical MP averages. His legislative activity includes 48 questions raised and participation in 20 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity data receives a 'C' evidence grade, indicating moderate confidence in the assessment.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals limited public visibility, with only 10 news articles identified. The coverage breakdown shows predominantly neutral coverage (9 articles) with one negative piece and no positive coverage, suggesting minimal media engagement or public profile. This low media presence may indicate limited public accessibility or communication effectiveness. The accessibility component receives a 'D' evidence grade, reflecting poor data quality and limited available information.\n\n### Data Quality & Caveats\n\nThe transparency assessment faces significant limitations due to multiple data quality issues:\n- Asset and MPLADS data marked as low confidence with warnings about source availability\n- Criminal record data flagged with reliability concerns\n- No committee membership information available, suggesting Sansad profile unavailability\n- Legislative effectiveness data marked as low confidence\n- Parliament performance graded 'C' for evidence quality\n- Accessibility component graded 'D' due to limited data\n\nThese data gaps substantially limit the comprehensiveness of the transparency assessment and highlight the need for improved information disclosure mechanisms.\n\n### Key Takeaway\n\nWhile Saptagiri Sankar Ulaka demonstrates strong parliamentary attendance and active participation in legislative proceedings, his transparency profile is severely compromised by missing critical data on asset declarations and MPLADS utilization. The systemic fund management issues identified in Odisha through CAG audits underscore the importance of transparent development fund utilization. The MP's clean criminal record and consistent parliamentary presence are positive indicators, but the substantial data gaps prevent a comprehensive assessment of his overall accountability and effectiveness as a public representative.",
-  "validated_at": "2026-05-21T14:30:09.417556Z"
+  "validated_at": "2026-05-21T14:30:09.417556Z",
+  "assets": {
+    "total_assets": 70956659.0,
+    "liabilities": 16002929.0,
+    "net_worth": 54953730.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5071",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5071",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 26.95,
+    "released": 26.95,
+    "sanctioned": 7.59,
+    "expended": 5.17,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:36.283024Z",
+        "notes": "Official eSAKSHI REST API — Works: 545 recommended, 247 sanctioned, 103 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 545,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 19.183673469387756
+  }
 }

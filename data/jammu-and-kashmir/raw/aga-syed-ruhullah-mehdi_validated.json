@@ -4,16 +4,16 @@
     "constituency": "Srinagar",
     "state": "jammu and kashmir",
     "party": "Jammu and Kashmir National Conference",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 6318,
     "slug": "aga-syed-ruhullah-mehdi",
     "house": "lok_sabha",
     "sansad_member_id": 5761,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Aga Syed Ruhullah Mehdi\n\n### Overall Assessment\n\nAga Syed Ruhullah Mehdi, representing Srinagar constituency for the Jammu and Kashmir National Conference in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance (100%), his overall transparency assessment is hampered by limited financial disclosure and development fund information. The evidence quality is rated 'C' for parliamentary data and 'D' for accessibility metrics.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG's identification of systemic issues in Jammu and Kashmir's fund management. The 2010 CAG audit (Report 31) highlighted severe problems including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about effective fund deployment in the region.\n\n### Financial Transparency\n\nAsset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data significantly undermines public accountability. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, it's impossible to assess financial growth or potential conflicts of interest during the tenure.\n\n### Legal & Criminal Standing\n\nThe MP maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the system flags low confidence in this criminal data, suggesting potential gaps in source availability or verification. While the clean record is positive, the data quality concerns warrant cautious interpretation.\n\n### Parliamentary Performance\n\nMehdi demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. His legislative participation includes 7 questions raised and 7 debate contributions, indicating active involvement in parliamentary proceedings. However, no private member bills were introduced, and no committee membership data is available due to potential Sansad profile unavailability, limiting assessment of his broader legislative effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals minimal public engagement, with only 10 news articles tracked - 9 neutral, 1 negative, and notably zero positive coverage. This limited media presence suggests either restricted press access in the region or minimal proactive public communication. The neutral-to-negative coverage pattern may reflect broader political tensions in Jammu and Kashmir rather than individual performance issues.\n\n### Data Quality & Caveats\n\nMultiple automated flags indicate significant data reliability concerns:\n- **Criminal records**: Low source confidence\n- **Assets**: Low confidence in financial data\n- **MPLADS**: Low confidence in development fund information\n- **Committees**: No data available\n- **Legislative effectiveness**: Low confidence ratings\n\nThese gaps are particularly concerning for a constituency like Srinagar, where transparency and accountability are crucial for maintaining public trust. The evidence grading of 'C' for parliamentary data and 'D' for accessibility metrics reflects these systemic data availability issues.\n\n### Key Takeaway\n\nWhile Aga Syed Ruhullah Mehdi demonstrates excellent parliamentary attendance and maintains a clean legal record, his transparency profile is severely compromised by missing financial and development fund data. The complete absence of MPLADS information, combined with historical CAG findings of fund mismanagement in Jammu and Kashmir, creates significant accountability concerns. The MP's transparency standing would benefit substantially from proactive disclosure of asset information and development fund utilization data, particularly given the region's documented challenges with fund management and the limited positive media coverage.",
-  "validated_at": "2026-05-21T14:23:41.243601Z"
+  "validated_at": "2026-05-21T14:23:41.243601Z",
+  "assets": {
+    "total_assets": 35793000.0,
+    "liabilities": 438000.0,
+    "net_worth": 35355000.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6318",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6318",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.36,
+    "expended": 1.58,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:29.291488Z",
+        "notes": "Official eSAKSHI REST API — Works: 163 recommended, 127 sanctioned, 19 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 163,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.748299319727893
+  }
 }

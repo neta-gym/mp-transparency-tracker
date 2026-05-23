@@ -49,6 +49,7 @@ _REST_BASE = "/rest/PreLoginDashboardData"
 
 # eSAKSHI state name → state_id mapping (discovered from getStateData API)
 _ESAKSHI_STATE_IDS: dict[str, int] = {
+    # Live getStateData mapping verified 2026-05-23.
     "andaman and nicobar islands": 35,
     "andhra pradesh": 2,
     "arunachal pradesh": 3,
@@ -64,26 +65,26 @@ _ESAKSHI_STATE_IDS: dict[str, int] = {
     "jammu and kashmir": 16,
     "jharkhand": 17,
     "karnataka": 18,
-    "kerala": 19,
-    "ladakh": 37,
-    "lakshadweep": 36,
+    "kerala": 36,
+    "ladakh": 130,
+    "lakshadweep": 19,
     "madhya pradesh": 20,
     "maharashtra": 21,
     "manipur": 22,
     "meghalaya": 23,
-    "mizoram": 24,
-    "nagaland": 25,
-    "odisha": 26,
-    "puducherry": 34,
-    "punjab": 28,
-    "rajasthan": 29,
-    "sikkim": 30,
-    "tamil nadu": 31,
-    "telangana": 13,
-    "tripura": 32,
-    "uttar pradesh": 9,
-    "uttarakhand": 33,
-    "west bengal": 4,
+    "mizoram": 13,
+    "nagaland": 24,
+    "odisha": 25,
+    "puducherry": 26,
+    "punjab": 1,
+    "rajasthan": 28,
+    "sikkim": 29,
+    "tamil nadu": 30,
+    "telangana": 129,
+    "tripura": 31,
+    "uttar pradesh": 33,
+    "uttarakhand": 32,
+    "west bengal": 34,
     "dadra and nagar haveli and daman and diu": 10,
 }
 
@@ -96,6 +97,25 @@ _CONSTITUENCY_ALIASES: dict[str, str] = {
     "chandni chowk": "chandini chowk",
     "chandi chowk": "chandini chowk",
     "chandani chowk": "chandini chowk",
+    # eSAKSHI spelling / suffix variants observed in the live constituency API.
+    "narsapuram": "narasapuram",
+    "ujiarpur": "ujjarpur",
+    "purnia": "purnea",
+    "surguja": "sarguja(st)",
+    "sonipat": "sonepat",
+    "kodarma": "koderma",
+    "chikkballapur": "chikballapur",
+    "bathinda": "bhatinda",
+    "dharmapuri": "dharamapuri",
+    "mahbubnagar": "mahabubnagar",
+    "warangal": "warangel(sc)",
+    "chevella": "chelvella",
+    "robertsganj": "robertsganj(sc)",
+    "nainital-udhamsingh nagar": "nainital udham singh nag.",
+    "nainital udhamsingh nagar": "nainital udham singh nag.",
+    "nainital-udham singh nagar": "nainital udham singh nag.",
+    "nainital udham singh nagar": "nainital udham singh nag.",
+    "jaynagar": "joynagar(sc)",
 }
 
 
@@ -339,10 +359,10 @@ class ESAKSHIFetcher:
                             if fund and fund.confidence > 0:
                                 log.info("eSAKSHI REST: Extracted fund data — entitled=%.2f Cr, expended=%s Cr",
                                          fund.entitled or 0, fund.expended)
-                                # Reset rate-limit state on success; pause before
-                                # releasing semaphore to give server breathing room
+                                # Reset rate-limit state on success. Keep a short pause;
+                                # retries still enforce the long cooldown on actual empty/rate-limited responses.
                                 self._rate_limit_until = 0
-                                await asyncio.sleep(15)
+                                await asyncio.sleep(0.2)
                                 return fund
                             else:
                                 log.warning("eSAKSHI REST: getTilesData returned data but parse failed (attempt %d): %s",
@@ -734,8 +754,11 @@ class ESAKSHIFetcher:
         for v in values:
             s = str(v).strip()
             raw = _parse_amount(s)
-            if raw is not None and raw > 1000:  # Likely raw rupees, not a count
-                return round(raw / 1_00_00_000, 2)
+            if raw is not None:
+                if raw == 0:
+                    return 0.0
+                if raw > 1000:  # Likely raw rupees, not a count
+                    return round(raw / 1_00_00_000, 2)
         return None
 
     def _parse_report_data(self, data, mp: MPProfile) -> Optional[MPLADSFund]:

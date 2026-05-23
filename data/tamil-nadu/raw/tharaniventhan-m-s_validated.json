@@ -4,16 +4,16 @@
     "constituency": "Arani",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 703,
     "slug": "tharaniventhan-m-s",
     "house": "lok_sabha",
     "sansad_member_id": 5819,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 59,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Tharaniventhan M S\n\n### Overall Assessment\n\nTharaniventhan M S, representing Arani constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a limited transparency profile due to significant data gaps across multiple evaluation criteria. With evidence grades of 'C' for parliament activity and 'D' for accessibility, comprehensive assessment is constrained by incomplete information on critical areas including assets, MPLADS utilization, and criminal records.\n\n### Fund Utilization & Development\n\nMPLADS data is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly concerning given Tamil Nadu's systemic MPLADS issues identified in CAG audits. The 2010 CAG audit (Report 31) highlighted ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific data on Tharaniventhan's MPLADS performance, constituents cannot assess local development fund effectiveness.\n\n### Financial Transparency\n\nAsset declaration data is entirely missing, preventing any assessment of the MP's financial standing, wealth accumulation, or potential conflicts of interest. No information is available on total assets, previous declarations, growth ratios, or net worth. The MP receives a standard monthly compensation of ₹245,000, but without asset disclosure data, comprehensive financial transparency cannot be evaluated. This data gap significantly undermines accountability standards expected from elected representatives.\n\n### Legal & Criminal Standing\n\nThe MP shows a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this assessment carries low confidence due to potential data source limitations, as indicated by automated system warnings about criminal record data availability. While the available information suggests no legal complications, the data quality caveat necessitates cautious interpretation.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity levels with 75% attendance, indicating reasonable participation in House proceedings. The MP has raised 23 questions, participated in 3 debates, but introduced no private member bills. This performance suggests active constituency representation through questioning mechanisms, though limited legislative initiative through private bills. The attendance rate, while above average for many MPs, leaves room for improvement in House participation.\n\n### Public Engagement & Accessibility\n\nPublic engagement assessment is severely limited by data constraints. News sentiment analysis reveals 10 articles with entirely neutral coverage - no positive or negative sentiment detected. This neutral media presence suggests either limited public visibility or measured, non-controversial public engagement. However, with an accessibility evidence grade of 'D', the MP's public engagement mechanisms, social media presence, and constituent interaction channels remain largely unassessed.\n\n### Data Quality & Caveats\n\nMultiple critical data quality issues significantly impact this assessment:\n- **High-risk gaps**: Asset declarations and MPLADS utilization data completely unavailable\n- **Medium-risk concerns**: Criminal record data flagged for low confidence\n- **System limitations**: No committee membership data found; Sansad profile potentially unavailable\n- **Evidence quality**: Parliament activity rated 'C', accessibility rated 'D'\n\nThese gaps prevent comprehensive transparency evaluation and limit accountability assessment. The absence of key financial and development data particularly undermines the profile's utility for voter decision-making.\n\n### Key Takeaway\n\nTharaniventhan M S demonstrates clean legal standing and moderate parliamentary engagement, but severe data transparency gaps prevent comprehensive accountability assessment. Critical missing information on asset declarations and MPLADS utilization, combined with Tamil Nadu's documented fund management challenges, raises significant transparency concerns. Voters lack essential information to evaluate the MP's financial integrity and development fund effectiveness, highlighting systemic transparency deficits that require immediate attention for meaningful democratic accountability.",
-  "validated_at": "2026-05-21T14:21:01.531863Z"
+  "validated_at": "2026-05-21T14:21:01.531863Z",
+  "assets": {
+    "total_assets": 17161977.0,
+    "liabilities": 3563277.0,
+    "net_worth": 13598700.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=703",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=703",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 16.83,
+    "released": 16.83,
+    "sanctioned": 11.3,
+    "expended": 10.07,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:52.665963Z",
+        "notes": "Official eSAKSHI REST API — Works: 223 recommended, 209 sanctioned, 159 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 223,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 59.83363042186573
+  }
 }

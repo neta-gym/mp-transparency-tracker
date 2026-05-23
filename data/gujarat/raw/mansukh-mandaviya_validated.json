@@ -4,16 +4,16 @@
     "constituency": "Porbandar",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3459,
     "slug": "mansukh-mandaviya",
     "house": "lok_sabha",
     "sansad_member_id": 5555,
     "profile_url": null,
     "canonical_name": "Mansukh Mandaviya",
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 51,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mansukh Mandaviya\n\n### Overall Assessment\nMansukh Mandaviya, BJP MP from Porbandar, Gujarat, presents a transparency profile hampered by significant data gaps across most key metrics. While maintaining a clean criminal record, his parliamentary and financial transparency cannot be adequately assessed due to incomplete information availability. The limited data suggests a low-profile parliamentary approach, though this may be influenced by his ministerial responsibilities.\n\n### Fund Utilization & Development\nMPLADS utilization data is unavailable, preventing assessment of constituency development efforts. This data gap is concerning given the CAG's identification of systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documents. Without specific utilization figures for Mandaviya's constituency, it's impossible to determine whether Porbandar has been affected by these state-wide inefficiencies or if the MP has successfully navigated these challenges.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, representing a significant transparency gap. No information exists regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data makes it impossible to assess potential conflicts of interest or track wealth accumulation during his tenure. The only available financial information is his monthly compensation of Rs 245,000, which represents standard MP remuneration.\n\n### Legal & Criminal Standing\nMandaviya maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potential source unavailability, suggesting this assessment may be incomplete rather than definitively clean.\n\n### Parliamentary Performance\nParliamentary activity data shows significant limitations, with 0 questions asked, 0 debates participated in, and 0 private bills introduced. Attendance percentage is unavailable. However, the profile notes that Mandaviya serves as a Minister, which typically results in lower traditional parliamentary participation metrics due to executive responsibilities taking precedence over legislative floor activities. The 'C' grade for parliamentary evidence suggests moderate confidence in available data.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles, all categorized as neutral, with no positive or negative coverage identified. This neutral media profile suggests limited public controversy but also potentially limited proactive public engagement. The 'D' grade for accessibility evidence indicates poor data availability regarding public outreach efforts, social media engagement, or constituency interaction metrics.\n\n### Data Quality & Caveats\nThis analysis faces substantial limitations due to widespread data unavailability:\n- **High-risk gaps**: Assets, MPLADS utilization, and parliamentary attendance data completely missing\n- **Moderate-risk gaps**: Criminal record data flagged with low confidence warnings\n- **Systematic issues**: No committee participation data available, suggesting Sansad profile inaccessibility\n- **Evidence quality**: Parliamentary data rated 'C' grade, accessibility rated 'D' grade\n\nThe CAG audit context for Gujarat reveals systemic governance issues that may affect constituency development, though Mandaviya's specific performance cannot be isolated from available data.\n\n### Key Takeaway\nMansukh Mandaviya's transparency profile is characterized by extensive data gaps that prevent meaningful assessment of his effectiveness as an MP. While maintaining an apparently clean legal record, the absence of financial disclosures, MPLADS utilization data, and detailed parliamentary metrics raises transparency concerns. His ministerial role may explain limited traditional parliamentary activity, but the overall lack of accessible performance data suggests either poor record-keeping systems or limited public transparency initiatives. Citizens and stakeholders should seek more comprehensive disclosure of his governmental and constituency work to enable proper democratic accountability.",
-  "validated_at": "2026-05-21T14:26:54.757890Z"
+  "validated_at": "2026-05-21T14:26:54.757890Z",
+  "assets": {
+    "total_assets": 79504705.0,
+    "liabilities": 0.0,
+    "net_worth": 79504705.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3459",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3459",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.92,
+    "expended": 2.19,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:07.004613Z",
+        "notes": "Official eSAKSHI REST API — Works: 169 recommended, 158 sanctioned, 54 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 169,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 14.897959183673471
+  }
 }

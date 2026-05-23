@@ -4,16 +4,16 @@
     "constituency": "Hamirpur",
     "state": "himachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8760,
     "slug": "anurag-singh-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 4249,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 50,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Anurag Singh Thakur\n\n### Overall Assessment\n\nAnurag Singh Thakur, BJP MP from Hamirpur, Himachal Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance is exemplary at 95%, critical information regarding assets, MPLADS fund utilization, and committee participation remains unavailable, preventing a complete assessment of his performance as a public representative.\n\n### Fund Utilization & Development\n\nComplete MPLADS data is unavailable for MP Thakur, including entitled amounts, releases, expenditures, and utilization rates. This absence is particularly concerning given the CAG's 2010 audit findings for Himachal Pradesh, which revealed systemic issues including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts across states, and 34% of sampled utilization certificates lacking proper supporting documents. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about development project oversight that cannot be addressed without current data.\n\n### Financial Transparency\n\nAsset disclosure information is entirely unavailable, preventing any assessment of financial transparency or potential conflicts of interest. Without current or previous asset declarations, growth ratios, or net worth data, stakeholders cannot evaluate the MP's financial standing or track wealth accumulation during tenure. This represents a significant transparency gap. Monthly compensation is recorded at Rs 2,45,000, providing the only available financial data point.\n\n### Legal & Criminal Standing\n\nMP Thakur shows a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment should be treated with appropriate caution.\n\n### Parliamentary Performance\n\nThakur demonstrates strong parliamentary engagement with 95% attendance, significantly above average parliamentary participation rates. He has raised 35 questions and participated in 5 debates, showing active involvement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in proposing new legislation. Committee participation data is unavailable, preventing assessment of his contribution to detailed legislative work and policy development.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative coverage identified. This suggests limited media visibility or potentially balanced reporting. The evidence grade for accessibility is rated 'D', indicating poor public accessibility and engagement mechanisms. Social media presence is noted as a data source but specific engagement metrics are not provided.\n\n### Data Quality & Caveats\n\nThis assessment faces significant limitations due to multiple data quality issues:\n- Criminal record data carries low confidence warnings due to potentially unavailable sources\n- Asset information is completely missing, preventing financial transparency evaluation\n- MPLADS data is unavailable despite being crucial for development work assessment\n- Committee participation data is absent, limiting legislative effectiveness evaluation\n- Evidence grades show 'C' for parliament and 'D' for accessibility, indicating moderate to poor data quality\n\nThese limitations substantially impact the reliability of this transparency assessment and suggest systemic issues with data availability or disclosure.\n\n### Key Takeaway\n\nWhile Anurag Singh Thakur maintains excellent parliamentary attendance and a clean criminal record, the absence of critical transparency data—particularly regarding assets, MPLADS utilization, and committee work—severely limits accountability assessment. The neutral media coverage and poor accessibility rating suggest limited public engagement. Given Himachal Pradesh's documented MPLADS implementation challenges identified in CAG audits, the unavailability of current fund utilization data is particularly concerning for constituents seeking development accountability. Improved data disclosure across all transparency parameters is essential for meaningful public oversight.",
-  "validated_at": "2026-05-21T14:22:37.307627Z"
+  "validated_at": "2026-05-21T14:22:37.307627Z",
+  "assets": {
+    "total_assets": 122663406.0,
+    "liabilities": 14374994.0,
+    "net_worth": 108288412.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8760",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8760",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.96,
+    "released": 14.96,
+    "sanctioned": 3.03,
+    "expended": 1.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:25.803704Z",
+        "notes": "Official eSAKSHI REST API — Works: 199 recommended, 189 sanctioned, 21 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 199,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.227272727272727
+  }
 }

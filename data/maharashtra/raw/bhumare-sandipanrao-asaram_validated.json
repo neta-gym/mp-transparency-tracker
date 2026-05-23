@@ -4,16 +4,16 @@
     "constituency": "Aurangabad",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5323,
     "slug": "bhumare-sandipanrao-asaram",
     "house": "lok_sabha",
     "sansad_member_id": 5684,
     "profile_url": null,
     "canonical_name": "Bhumare Sandipanrao Asaram",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 62,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bhumare Sandipanrao Asaram\n\n### Overall Assessment\nBhumare Sandipanrao Asaram, representing Aurangabad constituency in Maharashtra for Shiv Sena, presents a mixed transparency profile with significant data gaps across multiple governance dimensions. While maintaining a clean legal record and moderate parliamentary attendance, the lack of comprehensive asset and MPLADS data severely limits assessment of his overall performance and accountability.\n\n### Fund Utilization & Development\nMPLADS utilization data is completely unavailable, preventing assessment of development fund management. This is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund utilization. The audit identified Rs 1,558 crore lying idle across district authorities and found that 34% of utilization certificates lacked proper documentation. With 18% of sampled works abandoned or incomplete, the absence of specific MPLADS data for this MP raises questions about local development accountability.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, with no data on total assets, previous holdings, or growth patterns. The complete absence of financial transparency metrics represents a significant accountability gap. Monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, data quality warnings indicate low confidence in criminal record information, suggesting potential gaps in source availability that could affect the completeness of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 70% attendance - below the expected standard for consistent legislative participation. Legislative activity is notably limited with only 24 questions raised, one debate participation, and zero private member bills introduced. This suggests minimal proactive legislative engagement beyond basic attendance requirements. The absence of committee membership data further limits assessment of specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals neutral media engagement with 10 articles showing balanced reporting (zero positive or negative articles). This neutral stance may indicate either effective reputation management or limited public visibility. However, accessibility receives a 'D' grade, suggesting poor responsiveness to constituent needs and limited public engagement mechanisms.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment:\n- Criminal record data carries low confidence warnings due to potential source unavailability\n- Asset information is completely missing, preventing financial transparency evaluation\n- MPLADS data is entirely absent, eliminating development fund accountability assessment\n- Committee membership information unavailable due to potential Sansad profile gaps\n- Legislative effectiveness data has low confidence ratings\n- Evidence grades are poor: Parliament performance rated 'C', accessibility rated 'D'\n\nThese data gaps represent substantial limitations in providing comprehensive transparency analysis.\n\n### Key Takeaway\nWhile MP Bhumare maintains a clean legal record and acceptable parliamentary attendance, the extensive data gaps across asset disclosure, MPLADS utilization, and committee participation create significant transparency concerns. The combination of limited legislative activity, poor accessibility ratings, and missing financial information suggests below-average accountability standards. Immediate priority should be ensuring complete asset disclosure and MPLADS utilization reporting to meet basic transparency requirements, particularly given CAG audit findings highlighting systemic fund management issues in Maharashtra.",
-  "validated_at": "2026-05-21T14:21:07.855547Z"
+  "validated_at": "2026-05-21T14:21:07.855547Z",
+  "assets": {
+    "total_assets": 103071866.0,
+    "liabilities": 24587200.0,
+    "net_worth": 78484666.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5323",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5323",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.64,
+    "expended": 4.41,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:02.135978Z",
+        "notes": "Official eSAKSHI REST API — Works: 76 recommended, 33 sanctioned, 18 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 76,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.000000000000004
+  }
 }

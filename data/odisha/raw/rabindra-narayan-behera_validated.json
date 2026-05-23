@@ -4,16 +4,16 @@
     "constituency": "Jajpur",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9604,
     "slug": "rabindra-narayan-behera",
     "house": "lok_sabha",
     "sansad_member_id": 5595,
     "profile_url": null,
     "canonical_name": "Rabindra Narayan Behera",
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rabindra Narayan Behera\n\n### Overall Assessment\nMP Rabindra Narayan Behera (BJP, Jajpur, Odisha) presents a limited transparency profile due to significant data gaps across multiple domains. While his criminal record appears clean and parliamentary attendance is satisfactory at 85%, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable, severely constraining comprehensive evaluation of his performance.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of this data prevents assessment of the MP's effectiveness in delivering local infrastructure and development projects. CAG audit findings from Odisha highlight systemic concerns including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, underscoring the importance of transparent fund tracking.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth. This fundamental gap prevents evaluation of financial transparency and potential conflicts of interest. The MP's monthly compensation is reported as Rs 2,45,000, but without asset context, comprehensive financial assessment remains impossible. The warning flag indicates low confidence in available asset data sources.\n\n### Legal & Criminal Standing\nThe MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings suggest potential limitations in criminal record verification systems, indicating this assessment should be treated with appropriate caution despite the favorable numbers.\n\n### Parliamentary Performance\nBehera demonstrates moderate parliamentary engagement with 85% attendance, which exceeds typical benchmarks. His legislative activity remains limited with only 3 questions raised and 3 debate participations, suggesting minimal active contribution to parliamentary discourse. No private member bills were introduced, and committee participation data is unavailable, preventing full assessment of his legislative effectiveness. The evidence grade of 'C' for parliamentary performance reflects these mixed indicators.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting limited public visibility or controversy. The absence of accessibility data and 'D' evidence grade for this domain indicates poor transparency regarding public engagement mechanisms. No information is available on constituency outreach programs, public meetings, or citizen interaction initiatives, representing a significant accountability gap.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight serious data reliability concerns:\n- Criminal records carry low confidence warnings due to potential source unavailability\n- Asset information shows low confidence across all metrics\n- MPLADS data is entirely missing with low confidence ratings\n- Committee participation data is unavailable, possibly due to missing Sansad profile\n- Legislative effectiveness data carries low confidence indicators\n\nThese limitations significantly constrain the reliability of this assessment and suggest systemic issues with transparency infrastructure.\n\n### Key Takeaway\nWhile MP Behera maintains a clean criminal record and acceptable parliamentary attendance, his transparency profile is severely compromised by missing critical data across assets, MPLADS utilization, and public engagement metrics. The extensive data gaps prevent meaningful evaluation of his development impact and financial transparency, highlighting the need for improved disclosure mechanisms and data availability to enable proper democratic accountability.",
-  "validated_at": "2026-05-21T14:21:21.341321Z"
+  "validated_at": "2026-05-21T14:21:21.341321Z",
+  "assets": {
+    "total_assets": 45567092.0,
+    "liabilities": 0.0,
+    "net_worth": 45567092.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9604",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9604",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.71,
+    "released": 14.71,
+    "sanctioned": 2.09,
+    "expended": 0.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:33.369218Z",
+        "notes": "Official eSAKSHI REST API — Works: 140 recommended, 50 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 140,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.5350101971447994
+  }
 }

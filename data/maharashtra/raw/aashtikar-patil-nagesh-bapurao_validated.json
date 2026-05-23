@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Aashtikar Patil Nagesh Bapurao\n\n### Overall Assessment\nAashtikar Patil Nagesh Bapurao, the 52-year-old Shiv Sena (Uddhav Balasaheb Thackrey) MP from Hingoli, Maharashtra, presents a mixed transparency profile. While maintaining a clean criminal record and moderate parliamentary engagement, significant data gaps limit comprehensive assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is unavailable, preventing evaluation of the MP's development fund utilization. This represents a critical transparency gap, particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The CAG 2010 audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper supporting documents. Additionally, 18% of sampled development works were abandoned or incomplete, highlighting the importance of transparent MPLADS reporting.\n\n### Financial Transparency\nThe MP declares total assets of Rs 8.06 crore with a net worth of Rs 7.17 crore. However, the absence of previous asset declarations prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation stands at Rs 2.45 lakh. The asset disclosure appears complete but lacks comparative context for meaningful analysis.\n\n### Legal & Criminal Standing\nAashtikar Patil maintains an exemplary criminal record with zero cases across all categories - no pending cases, disposed cases, or convictions. This clean legal standing represents a positive aspect of his public service profile and suggests adherence to legal standards expected of elected representatives.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels. The MP maintains 60% attendance in the Lok Sabha, which falls short of optimal participation levels. He has raised 43 questions, indicating some engagement with parliamentary inquiry processes. However, he has not participated in debates (0 recorded) or introduced private member bills (0), suggesting limited legislative initiative. Committee participation data is unavailable, preventing full assessment of his parliamentary contributions.\n\n### Public Engagement & Accessibility\nPublic engagement metrics indicate limited digital presence and accessibility. News coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either limited media engagement or minimal newsworthy activities. The absence of significant positive coverage may indicate missed opportunities for highlighting constituency work or policy positions.\n\n### Data Quality & Caveats\nSeveral critical data quality issues affect this assessment:\n- MPLADS data carries low confidence ratings, with entitled, released, and expended amounts all unavailable\n- Committee membership information is missing, possibly due to unavailable Sansad profile data\n- Legislative effectiveness data has low confidence ratings\n- Previous asset declarations are absent, preventing growth analysis\n- Evidence grades vary: Criminal record (B), Assets (B), Parliament (C), and Accessibility (D)\n\nThe Maharashtra CAG audit context provides 7 relevant findings, emphasizing the importance of transparent fund utilization reporting in the state.\n\n### Key Takeaway\nWhile Aashtikar Patil Nagesh Bapurao maintains a clean legal record and shows moderate parliamentary participation, significant transparency gaps - particularly in MPLADS utilization and committee work - limit public accountability assessment. His 60% attendance and question-raising activity demonstrate basic parliamentary engagement, but the absence of debate participation and legislative initiatives suggests room for enhanced representative effectiveness. The neutral media coverage and missing development fund data highlight the need for improved public communication and transparency in constituency development work.",
-  "validated_at": "2026-05-21T14:20:59.052432Z"
+  "validated_at": "2026-05-21T14:20:59.052432Z",
+  "assets": {
+    "total_assets": 80585824.0,
+    "liabilities": 8867236.0,
+    "net_worth": 71718588.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2408",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2408",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 19.03,
+    "released": 19.03,
+    "sanctioned": 5.4,
+    "expended": 5.07,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:49.798847Z",
+        "notes": "Official eSAKSHI REST API — Works: 94 recommended, 42 sanctioned, 28 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 94,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.642143983184447
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Virudhunagar",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 230,
     "slug": "manickam-tagore-b",
     "house": "lok_sabha",
     "sansad_member_id": 4552,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Manickam Tagore B\n\n### Overall Assessment\nManickam Tagore B, the Indian National Congress MP representing Virudhunagar constituency in Tamil Nadu, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating commendable legislative engagement with 100% attendance, the absence of critical financial and developmental data severely limits comprehensive assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for this MP, including entitled amounts, releases, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Tamil Nadu revealing systemic issues in fund management. The audit identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS transparency data, it is impossible to assess whether Tagore's constituency projects face similar challenges.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents any assessment of potential conflicts of interest or unusual wealth accumulation patterns. The MP receives a total monthly compensation of Rs 2,45,000, which represents the standard parliamentary remuneration package.\n\n### Legal & Criminal Standing\nManickam Tagore B maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating, indicating potential source unavailability issues that may affect accuracy.\n\n### Parliamentary Performance\nThe MP demonstrates exemplary parliamentary engagement with perfect 100% attendance, significantly above national averages. His legislative activity includes asking 56 questions and participating in 18 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversy. This neutral media profile may indicate either effective non-partisan representation or insufficient public engagement. The accessibility evidence grade is rated 'D', the lowest category, highlighting significant gaps in public engagement metrics and transparency indicators.\n\n### Data Quality & Caveats\nMultiple automated flags indicate substantial data quality concerns:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence ratings\n- MPLADS data is entirely missing with low confidence indicators\n- No committee assignment data is available, possibly due to inaccessible Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n\nThe overall evidence grades (Parliament: 'C', Accessibility: 'D') suggest moderate to poor data reliability, significantly limiting the robustness of this transparency assessment.\n\n### Key Takeaway\nWhile Manickam Tagore B maintains exemplary parliamentary attendance and a clean legal record, the transparency assessment is severely hampered by missing critical data across financial disclosures, development fund utilization, and public engagement metrics. The absence of MPLADS data is particularly concerning given documented systemic issues in Tamil Nadu's fund management. Voters in Virudhunagar constituency lack essential information needed to evaluate their representative's financial transparency and developmental effectiveness, highlighting the urgent need for improved data disclosure mechanisms in Indian parliamentary democracy.",
-  "validated_at": "2026-05-21T14:37:48.086900Z"
+  "validated_at": "2026-05-21T14:37:48.086900Z",
+  "assets": {
+    "total_assets": 61719802.0,
+    "liabilities": 8797705.0,
+    "net_worth": 52922097.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=230",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=230",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.66,
+    "expended": 7.2,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:33.848311Z",
+        "notes": "Official eSAKSHI REST API — Works: 86 recommended, 68 sanctioned, 10 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 86,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 48.9795918367347
+  }
 }

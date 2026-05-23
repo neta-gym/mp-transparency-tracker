@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Manish Tewari\n\n### Overall Assessment\nManish Tewari, the 58-year-old Congress MP representing Chandigarh, presents a mixed transparency profile characterized by strong parliamentary attendance and clean criminal record, but limited data availability across key accountability metrics. As an advocate-turned-politician, Tewari demonstrates active legislative participation with 95% attendance, though his broader development impact remains difficult to assess due to incomplete MPLADS and committee data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap for assessing Tewari's constituency development impact. CAG audit findings reveal systemic issues in fund management across districts, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising concerns about project implementation effectiveness in his constituency region.\n\n### Financial Transparency\nTewari declares total assets worth ₹29.68 crore with a net worth of ₹27.11 crore, positioning him among higher-asset MPs. However, the absence of previous asset declaration data prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation totals ₹2.45 lakh. The asset data receives a 'B' evidence grade, indicating reasonable reliability but some limitations in historical comparison capabilities.\n\n### Legal & Criminal Standing\nTewari maintains an exemplary legal record with zero criminal cases—no pending charges, disposed cases, or convictions. This clean criminal profile, graded 'B' for evidence quality, represents a significant positive factor in his transparency assessment and distinguishes him from many peers in Indian politics where criminal cases are common.\n\n### Parliamentary Performance\nTewari demonstrates strong parliamentary engagement with 95% attendance, well above average for Indian MPs. He has raised 37 questions, participated in 10 debates, and introduced 3 private member bills, indicating active legislative participation. However, his record shows zero interventions in zero hour discussions and no special mentions, suggesting limited use of some parliamentary mechanisms for constituency issues. The parliamentary performance data receives a 'C' evidence grade, reflecting moderate confidence levels.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal significant limitations. News sentiment analysis across 10 articles shows entirely neutral coverage with no positive or negative stories, suggesting limited media visibility or public discourse engagement. No committee membership data is available, indicating either non-participation in parliamentary committees or data availability issues. The accessibility assessment receives a 'D' evidence grade, highlighting substantial gaps in public engagement transparency.\n\n### Data Quality & Caveats\nMultiple data quality warnings affect this assessment's comprehensiveness. MPLADS data carries low confidence ratings, preventing evaluation of development fund utilization—a critical accountability metric. Committee participation data is entirely absent, possibly due to unavailable Sansad profile information. Legislative effectiveness data also carries low confidence ratings, limiting assessment of policy impact. These gaps significantly constrain the ability to provide a complete transparency evaluation.\n\n### Key Takeaway\nManish Tewari presents a parliamentarian with strong attendance and clean legal standing but significant transparency gaps in development fund utilization and public engagement. While his 95% parliamentary attendance and zero criminal cases represent positive accountability indicators, the complete absence of MPLADS data and limited committee information prevent comprehensive assessment of his constituency service effectiveness. Voters seeking transparency should note these data limitations when evaluating his overall performance as their representative.",
-  "validated_at": "2026-05-21T14:22:13.345860Z"
+  "validated_at": "2026-05-21T14:22:13.345860Z",
+  "assets": {
+    "total_assets": 296842688.0,
+    "liabilities": 24993400.0,
+    "net_worth": 271849288.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.84,
+    "released": 17.84,
+    "sanctioned": 4.65,
+    "expended": 1.81,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:10.154028Z",
+        "notes": "Official eSAKSHI REST API — Works: 94 recommended, 62 sanctioned, 27 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 94,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.145739910313901
+  }
 }

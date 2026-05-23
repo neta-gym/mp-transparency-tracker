@@ -464,5 +464,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Captain Viriato Fernandes\n### Overall Assessment\nCaptain Viriato Fernandes, Indian National Congress MP from South Goa, presents a mixed transparency profile. The 54-year-old retired Defence Officer demonstrates moderate parliamentary engagement with 60% attendance but faces data limitations across multiple accountability metrics. His profile shows clean legal standing with minimal criminal cases, though asset growth tracking is hindered by lack of historical comparison data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, triggering a low confidence warning. This represents a significant transparency gap for assessing the MP's development work effectiveness. CAG audit findings reveal systemic concerns in Goa's fund management, including Rs 1,558 crore idle in district accounts nationally, with 34% of utilization certificates lacking proper documentation. These broader audit findings suggest potential oversight challenges that may affect local development fund management, though specific data for Captain Fernandes' constituency remains unavailable.\n\n### Financial Transparency\nCaptain Fernandes reports total assets of Rs 5.27 crore with a net worth of Rs 5.23 crore. However, absence of previous asset data prevents growth ratio analysis, limiting assessment of wealth accumulation patterns. His monthly compensation stands at Rs 2.45 lakh. The asset declaration appears complete but lacks temporal comparison for trend analysis, representing a moderate level of financial transparency (Grade B evidence quality).\n\n### Legal & Criminal Standing\nThe MP maintains a relatively clean legal record with only 2 pending cases, both non-serious in nature. No convictions or disposed cases are recorded, and no serious criminal charges are outstanding. The criminal record shows 0 convictions across all categories, indicating minimal legal complications that could impact his parliamentary duties or public trust.\n\n### Parliamentary Performance\nCaptain Fernandes shows moderate parliamentary engagement with 60% attendance, falling short of optimal participation levels. His legislative activity includes 26 questions raised and participation in 12 debates, demonstrating reasonable engagement in parliamentary discourse. However, he has not introduced any private member bills, indicating limited proactive legislative initiative. No committee membership data is available, hampering comprehensive assessment of his parliamentary contribution.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles, all categorized as neutral, suggesting limited public visibility or controversy. The absence of positive or negative coverage may indicate either low media engagement or minimal newsworthy activities. Social media presence and public accessibility metrics show limited data availability, earning a Grade D evidence quality rating for accessibility assessment.\n\n### Data Quality & Caveats\nEvidence quality varies significantly across metrics: Criminal record and assets data receive Grade B ratings, while parliamentary performance merits Grade C, and accessibility receives Grade D. Key limitations include:\n- Missing historical asset data preventing growth analysis\n- Unavailable MPLADS utilization figures despite entitlement data\n- Absent committee membership information\n- Limited social media and public engagement metrics\n- No constituency-specific development project data\n\nThese gaps significantly constrain comprehensive transparency assessment and suggest potential data collection or reporting challenges.\n\n### Key Takeaway\nCaptain Viriato Fernandes presents a moderately transparent profile with clean legal standing and adequate parliamentary participation, but faces significant data gaps in crucial areas including development fund utilization and public engagement. While his criminal record remains clear and asset declarations appear complete, the absence of MPLADS data and limited public visibility indicators suggest room for improvement in accountability mechanisms. The Grade D accessibility rating particularly highlights the need for enhanced public engagement and transparency reporting to enable comprehensive citizen oversight of his parliamentary performance.",
-  "validated_at": "2026-05-21T14:22:20.625162Z"
+  "validated_at": "2026-05-21T14:22:20.625162Z",
+  "assets": {
+    "total_assets": 52728999.0,
+    "liabilities": 379840.0,
+    "net_worth": 52349159.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3876",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3876",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.61,
+    "expended": 3.9,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:30.315046Z",
+        "notes": "Official eSAKSHI REST API — Works: 100 recommended, 48 sanctioned, 16 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 100,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.53061224489796
+  }
 }

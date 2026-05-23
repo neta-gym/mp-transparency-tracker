@@ -4,16 +4,16 @@
     "constituency": "Mysore",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1900,
     "slug": "yaduveer-wadiyar",
     "house": "lok_sabha",
     "sansad_member_id": 5682,
     "profile_url": null,
     "canonical_name": "Yaduveer Wadiyar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 32,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Yaduveer Wadiyar\n\n### Overall Assessment\nYaduveer Wadiyar, BJP MP representing Mysore constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and reasonable parliamentary attendance (80%), critical financial and developmental data remains unavailable, hindering assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable for assessment, with all key metrics (entitled, released, expended, utilization percentage) marked as \"None.\" This represents a significant transparency gap given MPs' Rs 5 crore annual MPLADS entitlement. The absence of this data prevents evaluation of constituency development priorities and fund management efficiency. Karnataka faces systemic MPLADS challenges, with CAG audits revealing Rs 1,558 crore in idle funds across district authorities and 18% of sampled works remaining incomplete or abandoned.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, with both current and previous asset values marked as \"None,\" preventing calculation of wealth growth or net worth assessment. This complete absence of financial transparency data raises concerns about public accountability standards. The MP's monthly compensation totals Rs 2,45,000, but without asset disclosure, stakeholders cannot assess potential conflicts of interest or verify compliance with financial transparency requirements.\n\n### Legal & Criminal Standing\nYaduveer Wadiyar maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data source carries a warning flag indicating \"low confidence in criminal data\" due to potential source unavailability, suggesting this clean record should be interpreted cautiously pending verification from reliable judicial databases.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 80% attendance, demonstrating reasonable commitment to legislative duties. The MP has raised 20 questions in Parliament and participated in 3 debates, indicating active engagement in parliamentary proceedings. However, zero private member bills introduced suggests limited legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics, though the absence of committee membership data (flagged as unavailable from Sansad profile) limits comprehensive evaluation of legislative contributions.\n\n### Public Engagement & Accessibility\nPublic engagement assessment faces significant constraints with an accessibility evidence grade of 'D', indicating poor data quality. News sentiment analysis of 10 articles reveals mixed coverage: 8 neutral articles, 2 negative, and notably zero positive coverage. This neutral-to-negative media sentiment suggests limited positive public visibility or potential public relations challenges. The absence of robust accessibility metrics prevents evaluation of constituent outreach effectiveness.\n\n### Data Quality & Caveats\nMultiple warning flags compromise assessment reliability: criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS data is missing entirely. The absence of committee membership information due to unavailable Sansad profiles further limits legislative effectiveness evaluation. These data gaps are particularly concerning for a sitting MP, as transparency in these areas is fundamental to democratic accountability. Evidence grades range from 'C' for parliament activity to 'D' for accessibility, indicating below-average data reliability across key metrics.\n\n### Key Takeaway\nYaduveer Wadiyar's transparency profile suffers from critical data unavailability across financial disclosures, development fund utilization, and public engagement metrics. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset declarations and MPLADS data represents significant transparency deficits. The MP requires substantial improvement in public data disclosure to meet basic accountability standards expected from elected representatives. Stakeholders should demand comprehensive financial and developmental reporting to enable proper evaluation of his constituency service effectiveness.",
-  "validated_at": "2026-05-21T14:34:01.509073Z"
+  "validated_at": "2026-05-21T14:34:01.509073Z",
+  "assets": {
+    "total_assets": 94688187.0,
+    "liabilities": 0.0,
+    "net_worth": 94688187.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.96,
+    "expended": 4.59,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:33.202977Z",
+        "notes": "Official eSAKSHI REST API — Works: 162 recommended, 97 sanctioned, 14 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 162,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 31.22448979591837
+  }
 }

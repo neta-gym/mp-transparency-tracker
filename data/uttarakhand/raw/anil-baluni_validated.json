@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Anil Baluni\n\n### Overall Assessment\nAnil Baluni, BJP MP from Garhwal constituency in Uttarakhand, presents a mixed transparency profile with strong legal standing and parliamentary attendance but concerning gaps in fund utilization data and public accessibility metrics. At 53, the graduate social worker demonstrates above-average legislative participation while maintaining a clean criminal record, though comprehensive assessment is limited by incomplete data across several key performance indicators.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with entitled, released, and expended amounts all unreported. This represents a significant transparency gap given that MPs are allocated ₹5 crore annually for constituency development. The absence of utilization data is particularly concerning given CAG audit findings revealing systemic issues in fund management across states, including ₹1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents. For Uttarakhand specifically, 7 relevant CAG findings highlight ongoing challenges in fund deployment and monitoring.\n\n### Financial Transparency\nBaluni's declared assets total ₹3.78 crore, though previous asset declarations are unavailable, preventing growth ratio analysis or net worth tracking over time. His monthly compensation stands at ₹2.45 lakh. The asset declaration appears complete for the current term but lacks historical context necessary for comprehensive financial transparency assessment. Without previous declaration data, it's impossible to verify asset growth patterns or identify potential discrepancies.\n\n### Legal & Criminal Standing\nBaluni maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. This clean record represents a significant positive indicator for public trust and governance standards, particularly notable given concerns about criminalization of politics in India.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with notably high attendance at 95%, well above typical parliamentary averages. However, legislative productivity appears limited with only 3 questions raised and 2 debates participated in, alongside zero private bills introduced. This suggests strong physical presence but potentially lower active legislative contribution. Committee participation data is unavailable, limiting assessment of behind-the-scenes parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 news articles providing mixed/neutral coverage - notably, zero positive or negative articles, suggesting limited media visibility or controversial stances. This neutral profile may indicate either low public profile or balanced coverage. Social media presence and direct citizen accessibility metrics are not available, creating gaps in understanding public outreach effectiveness.\n\n### Data Quality & Caveats\nEvidence quality varies significantly across categories, with criminal and asset data rated 'B' grade, parliament data at 'C' grade, and accessibility receiving the lowest 'D' grade. Multiple automated flags highlight data limitations: low confidence in MPLADS data, missing committee information potentially due to unavailable Sansad profiles, and low confidence in legislative effectiveness metrics. These gaps substantially limit comprehensive performance assessment and suggest potential systemic issues in data collection or reporting.\n\n### Key Takeaway\nAnil Baluni presents as a legally clean MP with strong attendance but faces significant transparency challenges due to missing MPLADS utilization data and limited public engagement metrics. While his 95% attendance rate and zero criminal cases represent positive governance indicators, the complete absence of development fund utilization data raises accountability concerns, particularly given broader CAG findings about fund management issues in Uttarakhand. The neutral media profile and data quality limitations prevent conclusive assessment of his overall effectiveness as a public representative, highlighting the need for improved transparency reporting mechanisms.",
-  "validated_at": "2026-05-21T14:22:33.915255Z"
+  "validated_at": "2026-05-21T14:22:33.915255Z",
+  "assets": {
+    "total_assets": 37798791.0,
+    "liabilities": 0.0,
+    "net_worth": 37798791.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=273",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=273",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.18,
+    "expended": 0.11,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:34.265672Z",
+        "notes": "Official eSAKSHI REST API — Works: 11 recommended, 3 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 11,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 0.7482993197278912
+  }
 }

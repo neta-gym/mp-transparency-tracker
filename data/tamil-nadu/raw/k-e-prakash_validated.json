@@ -4,16 +4,16 @@
     "constituency": "Erode",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 127,
     "slug": "k-e-prakash",
     "house": "lok_sabha",
     "sansad_member_id": 5770,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: K E Prakash\n\n### Overall Assessment\n\nK E Prakash, representing Erode constituency in Tamil Nadu as a Dravida Munnetra Kazhagam (DMK) member of the Lok Sabha, presents a mixed transparency profile with significant data limitations. While maintaining a clean legal record and strong parliamentary attendance, critical financial and developmental data remains unavailable, limiting comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\n\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for K E Prakash, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are entitled to ₹5 crore annually for constituency development.\n\nThe absence of MPLADS data is particularly concerning in the context of CAG audit findings for Tamil Nadu, which revealed systemic issues including ₹1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific data on Prakash's fund utilization, it is impossible to assess whether these state-wide issues affect his constituency development efforts.\n\n### Financial Transparency\n\nAsset disclosure presents a complete transparency failure, with no data available on current assets, previous declarations, growth ratios, or net worth. This absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest during his tenure. The system shows monthly compensation of ₹245,000, representing standard parliamentary remuneration, but lacks the crucial asset transparency required for public accountability.\n\n### Legal & Criminal Standing\n\nK E Prakash maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. This represents positive transparency in legal standing, though data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\n\nParliamentary attendance stands at a commendable 90%, demonstrating strong commitment to legislative duties. His legislative engagement includes 18 questions raised and participation in 5 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing independent legislation.\n\nThe absence of committee data represents another transparency gap, as committee work forms a crucial component of parliamentary effectiveness. Without this information, it's difficult to assess his contribution to detailed policy work and specialized legislative areas.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 positive, 0 negative), suggesting limited public controversy but also potentially limited visibility in public discourse. The mixed/neutral coverage pattern may indicate either effective, non-controversial representation or insufficient public engagement.\n\nSocial media and accessibility data receive a 'D' grade, indicating poor digital engagement and public accessibility. In an era where constituent communication increasingly relies on digital platforms, this represents a significant shortcoming in public representation.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight serious data quality issues affecting this assessment:\n\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information shows low confidence, rendering financial transparency assessment impossible\n- MPLADS data is completely unavailable, preventing development work evaluation\n- Committee participation data is missing, limiting parliamentary effectiveness assessment\n- Legislative effectiveness data has low confidence ratings\n\nEvidence grades are concerning, with parliamentary data receiving only a 'C' grade and accessibility receiving a 'D' grade, indicating substantial gaps in transparent governance metrics.\n\n### Key Takeaway\n\nK E Prakash's transparency profile is severely hampered by critical data unavailability across key governance areas. While maintaining clean legal standing and strong parliamentary attendance, the absence of asset declarations, MPLADS utilization data, and committee information creates significant transparency deficits. The 90% attendance rate and active question-raising demonstrate legislative engagement, but poor accessibility ratings and limited development fund transparency raise concerns about overall accountability. Immediate priority should be ensuring comprehensive disclosure across all mandatory transparency parameters to enable proper public assessment of his representation effectiveness.",
-  "validated_at": "2026-05-21T14:25:30.615653Z"
+  "validated_at": "2026-05-21T14:25:30.615653Z",
+  "assets": {
+    "total_assets": 100426890.0,
+    "liabilities": 3953159.0,
+    "net_worth": 96473731.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=127",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=127",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.65,
+    "expended": 7.56,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:16.512611Z",
+        "notes": "Official eSAKSHI REST API — Works: 156 recommended, 149 sanctioned, 125 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 156,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 51.42857142857142
+  }
 }

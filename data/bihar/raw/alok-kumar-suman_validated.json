@@ -4,16 +4,16 @@
     "constituency": "Gopalganj",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8110,
     "slug": "alok-kumar-suman",
     "house": "lok_sabha",
     "sansad_member_id": 5211,
     "profile_url": null,
     "canonical_name": "Alok Kumar Suman",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "# Executive Summary: Alok Kumar Suman\n\n## Executive Summary: Alok Kumar Suman\nAlok Kumar Suman, representing Gopalganj constituency in Bihar as a Janata Dal (United) MP, presents a mixed transparency profile with notable parliamentary engagement but significant data gaps across key accountability metrics. While demonstrating strong legislative participation, critical financial and development data remains largely unavailable.\n\n### Overall Assessment\nThe assessment reveals a parliamentarian with high legislative attendance and moderate engagement in formal proceedings, but substantial information deficits in financial transparency and development fund utilization. Evidence quality is rated 'C' for parliamentary activities and 'D' for accessibility measures.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This data gap is concerning given the CAG audit context revealing systemic issues in Bihar's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about local development effectiveness.\n\n### Financial Transparency\nAsset declaration information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a critical transparency gap. The MP receives a monthly compensation of Rs 2,45,000, but without asset disclosures, financial accountability cannot be properly assessed.\n\n### Legal & Criminal Standing\nAlok Kumar Suman maintains a clean legal record with zero criminal cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in source availability or verification.\n\n### Parliamentary Performance\nThe MP demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above national averages. Legislative activity shows moderate participation with 51 questions raised, 18 debate contributions, and 3 private member bills introduced. Zero hour mentions and special mentions are notably absent, indicating limited use of these parliamentary tools for constituency representation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. Social media presence and direct citizen accessibility metrics are not provided. Committee membership information is unavailable, potentially indicating limited specialized legislative contribution.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly limit assessment reliability:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is entirely missing with low confidence ratings\n- MPLADS utilization data is completely unavailable\n- Committee participation data is absent\n- Legislative effectiveness metrics have low confidence ratings\n\nThe evidence grading system rates parliamentary data as 'C' and accessibility as 'D', indicating substantial information deficits that compromise comprehensive evaluation.\n\n### Key Takeaway\nWhile Alok Kumar Suman demonstrates commendable parliamentary attendance and maintains a clean legal record, critical transparency gaps in financial disclosures, development fund utilization, and public engagement metrics prevent a comprehensive accountability assessment. The lack of MPLADS data is particularly concerning given documented systemic issues in Bihar's development fund management. Improved data availability and financial transparency would significantly enhance public accountability evaluation.",
-  "validated_at": "2026-05-21T14:35:36.943149Z"
+  "validated_at": "2026-05-21T14:35:36.943149Z",
+  "assets": {
+    "total_assets": 26713230.0,
+    "liabilities": 875215.0,
+    "net_worth": 25838015.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8110",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8110",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.07,
+    "expended": 4.37,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:31.230429Z",
+        "notes": "Official eSAKSHI REST API — Works: 85 recommended, 67 sanctioned, 18 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 85,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 29.727891156462587
+  }
 }

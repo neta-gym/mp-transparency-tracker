@@ -4,16 +4,16 @@
     "constituency": "Mayiladuthurai",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1575,
     "slug": "sudha-r",
     "house": "lok_sabha",
     "sansad_member_id": 5650,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sudha R\n\n### Overall Assessment\n\nSudha R, representing Mayiladuthurai constituency in Tamil Nadu for the Indian National Congress, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance (90.0%) and a clean criminal record, comprehensive assessment is hindered by missing critical financial and development data. The MP demonstrates basic parliamentary engagement but faces transparency challenges due to incomplete disclosure patterns.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given Tamil Nadu's documented MPLADS implementation challenges. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data for Sudha R's constituency, her development impact cannot be quantitatively assessed.\n\n### Financial Transparency\n\nAsset disclosure information is completely missing, with no data available on current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap that prevents evaluation of potential conflicts of interest or wealth accumulation patterns. Monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point. The absence of asset data raises questions about compliance with mandatory disclosure requirements.\n\n### Legal & Criminal Standing\n\nSudha R maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the clean record is positive, the reliability caveat requires consideration when assessing this aspect of her profile.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate activity levels with 90.0% attendance, demonstrating consistent presence in proceedings. Legislative participation includes 27 questions raised and 4 debate contributions, indicating basic but not exceptional engagement in parliamentary processes. No private member bills were introduced, suggesting limited initiative in legislative innovation. Committee participation data is unavailable, limiting assessment of specialized parliamentary work. Overall performance reflects standard but unremarkable parliamentary engagement.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversial issues. The consistently neutral coverage may indicate either low-profile activity or balanced reporting. Social media and accessibility data receive a 'D' grade, suggesting minimal digital engagement or public outreach efforts. This limited public engagement profile indicates potential gaps in constituency communication and transparency initiatives.\n\n### Data Quality & Caveats\n\nMultiple significant data quality issues affect this assessment. Criminal record data carries low confidence warnings due to source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is entirely unavailable despite its importance for constituency development assessment. Committee participation information is absent, potentially due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. Evidence grades reflect these limitations with 'C' for parliament data and 'D' for accessibility measures.\n\n### Key Takeaway\n\nSudha R's transparency profile is severely constrained by missing critical data across financial assets, development fund utilization, and public engagement metrics. While maintaining clean criminal records and adequate parliamentary attendance, the absence of asset disclosures and MPLADS data prevents comprehensive transparency assessment. The neutral media coverage and limited public engagement suggest opportunities for enhanced constituency communication. Immediate priorities should include ensuring complete asset disclosure compliance and improving development fund transparency, particularly given Tamil Nadu's documented MPLADS implementation challenges identified in CAG audits.",
-  "validated_at": "2026-05-21T14:28:30.677827Z"
+  "validated_at": "2026-05-21T14:28:30.677827Z",
+  "assets": {
+    "total_assets": 3862830.0,
+    "liabilities": 0.0,
+    "net_worth": 3862830.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1575",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 10,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 10,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1575",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.73,
+    "released": 14.73,
+    "sanctioned": 4.95,
+    "expended": 2.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:49.758142Z",
+        "notes": "Official eSAKSHI REST API — Works: 150 recommended, 71 sanctioned, 7 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 150,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 15.953835709436524
+  }
 }

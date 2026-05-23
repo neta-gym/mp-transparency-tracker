@@ -4,16 +4,16 @@
     "constituency": "Jadavpur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9062,
     "slug": "sayani-ghosh",
     "house": "lok_sabha",
     "sansad_member_id": 5785,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 31,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sayani Ghosh\n\n### Overall Assessment\nSayani Ghosh, representing Jadavpur constituency in West Bengal as an All India Trinamool Congress MP, demonstrates strong parliamentary attendance but faces significant transparency challenges due to missing or incomplete data across most key performance indicators. Her profile shows excellent legislative participation with 100% attendance and active question-raising, though broader transparency metrics remain largely unavailable.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Sayani Ghosh, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical gap in assessing her development work effectiveness. The broader West Bengal context reveals concerning patterns from CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about overall development fund management in the state.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation is reported as Rs 2,45,000, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nSayani Ghosh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings, suggesting potential gaps in information availability rather than confirmed clean standing.\n\n### Parliamentary Performance\nGhosh demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. She has raised 23 questions and participated in 4 debates, indicating active legislative participation. However, she has not introduced any private member bills. No committee membership data is available, limiting assessment of her broader parliamentary contributions beyond floor participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either limited media attention or balanced reporting. The summary indicates \"mixed/neutral coverage,\" which may reflect either effective constituency management or limited public visibility. No data is available on social media engagement or direct constituent accessibility measures.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues:\n- **Criminal records**: Low confidence rating with potential source unavailability\n- **Assets**: Complete absence of financial disclosure data\n- **MPLADS**: No fund utilization data available\n- **Parliamentary data**: Grade 'C' evidence quality\n- **Accessibility metrics**: Grade 'D' evidence quality\n- **Committee participation**: No data found, possibly due to unavailable Sansad profile\n\nThese gaps substantially limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile Sayani Ghosh demonstrates strong parliamentary attendance and participation, her overall transparency profile remains largely opaque due to missing data across critical areas including asset disclosure, development fund utilization, and committee work. The 100% attendance record and active question-raising suggest legislative engagement, but without financial transparency and development fund data, constituents cannot fully assess her effectiveness or accountability. The systemic data gaps, particularly given the concerning CAG findings about fund management in West Bengal, highlight the need for improved transparency mechanisms and data availability for meaningful public oversight.",
-  "validated_at": "2026-05-21T14:31:26.238670Z"
+  "validated_at": "2026-05-21T14:31:26.238670Z",
+  "assets": {
+    "total_assets": 9189462.0,
+    "liabilities": 5985716.0,
+    "net_worth": 3203746.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9062",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9062",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.48,
+    "expended": 4.31,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:53:07.586090Z",
+        "notes": "Official eSAKSHI REST API — Works: 215 recommended, 196 sanctioned, 65 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 215,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 29.31972789115646
+  }
 }

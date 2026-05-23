@@ -447,5 +447,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Alfred Kanngam S Arthur\n\n### Overall Assessment\nAlfred Kanngam S Arthur, the 50-year-old Indian National Congress MP representing Outer Manipur, presents a mixed transparency profile. While maintaining a clean legal record and substantial declared assets, significant data gaps limit comprehensive assessment of his parliamentary effectiveness and development fund utilization. His educational background (12th Pass) and profession as a social worker and agriculturist align with his constituency's demographic profile.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentages. This represents a critical transparency gap for assessing development impact. The CAG audit context reveals systemic issues in Manipur's fund management, including Rs 1,558 crore in idle funds across district authorities and concerning patterns of incomplete works (18% of sampled projects) and questionable utilization certificates (34% lacking proper documentation). Without specific MPLADS data, it's impossible to assess Arthur's performance against these regional benchmarks.\n\n### Financial Transparency\nArthur declares total assets of Rs 55.53 crore with a net worth of Rs 55.09 crore, indicating minimal liabilities. However, the absence of previous asset data prevents growth analysis, limiting assessment of wealth accumulation patterns during his tenure. His monthly compensation stands at Rs 2.45 lakh. The substantial asset base raises questions about wealth sources and growth, which cannot be evaluated without historical data. Asset declaration appears complete with a 'B' evidence grade, suggesting reasonable data quality.\n\n### Legal & Criminal Standing\nArthur maintains an exemplary legal record with zero criminal cases across all categories—no pending cases, serious charges, disposed matters, or convictions. This clean record enhances his credibility and public trust, particularly important for a constituency representative. The 'B' evidence grade for criminal record data suggests reliable information quality.\n\n### Parliamentary Performance\nArthur's parliamentary engagement shows concerning patterns with 55% attendance, falling below optimal standards for constituency representation. His legislative activity is minimal, with zero questions raised, only two debate participations, and no private member bills introduced. This low activity level (evidence grade 'C') suggests limited proactive engagement in parliamentary processes. Committee participation data is unavailable, further limiting assessment of his legislative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public sentiment with 10 articles (1 positive, 0 negative, 9 neutral), indicating limited public discourse around his work. The absence of significant positive or negative coverage suggests either low media engagement or unremarkable performance. Social media and direct public engagement metrics are not available, limiting assessment of grassroots connectivity. The 'D' evidence grade for accessibility indicates substantial data limitations in this area.\n\n### Data Quality & Caveats\nSeveral critical data limitations affect this assessment:\n- MPLADS utilization data completely unavailable (low confidence warning)\n- No historical asset data preventing growth analysis\n- Committee participation information missing\n- Limited parliamentary effectiveness data (low confidence)\n- No previous term comparison data available\n\nEvidence grades vary significantly (B for criminal/assets, C for parliament, D for accessibility), indicating uneven data quality across transparency dimensions. The myneta, PRS, social media, and news sources provide partial coverage but insufficient comprehensive assessment.\n\n### Key Takeaway\nAlfred Kanngam S Arthur maintains basic transparency standards with clean legal records and proper asset declarations, but significant data gaps—particularly in MPLADS utilization and parliamentary effectiveness—prevent comprehensive evaluation of his constituency service. His 55% parliamentary attendance and minimal legislative activity, combined with neutral media coverage, suggest a low-profile approach that may not fully serve his constituents' interests. The systemic fund management issues identified in Manipur's CAG audits underscore the importance of transparent MPLADS reporting, making the absence of this data particularly concerning for development accountability.",
-  "validated_at": "2026-05-21T14:22:20.568432Z"
+  "validated_at": "2026-05-21T14:22:20.568432Z",
+  "assets": {
+    "total_assets": 555326115.0,
+    "liabilities": 4400000.0,
+    "net_worth": 550926115.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=340",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=340",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.92,
+    "expended": 7.76,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:33.652576Z",
+        "notes": "Official eSAKSHI REST API — Works: 33 recommended, 31 sanctioned, 13 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 33,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 52.7891156462585
+  }
 }

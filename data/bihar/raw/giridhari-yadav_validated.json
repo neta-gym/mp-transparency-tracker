@@ -4,16 +4,16 @@
     "constituency": "Banka",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2229,
     "slug": "giridhari-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 3830,
     "profile_url": null,
     "canonical_name": "Giridhari Yadav",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Giridhari Yadav\n\n### Overall Assessment\nGiridhari Yadav, Janata Dal (United) MP from Banka, Bihar, presents a limited transparency profile with significant data gaps across multiple indicators. While maintaining clean criminal records and reasonable parliamentary attendance (80%), the absence of critical financial and developmental data severely constrains comprehensive evaluation of his legislative effectiveness and constituency service delivery.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of this data is particularly concerning in Bihar's context, where CAG audits have identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 18% of sampled developmental works remaining abandoned or incomplete. Without baseline MPLADS data, it's impossible to assess Yadav's developmental impact or fund management efficiency.\n\n### Financial Transparency\nAsset declarations are completely missing, with no data on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency prevents assessment of wealth accumulation patterns or potential conflicts of interest. The only available financial information is the standard monthly compensation of Rs 2,45,000, which provides no insight into personal financial standing or business interests that might influence policy positions.\n\n### Legal & Criminal Standing\nYadav maintains a clean legal record with zero criminal cases across all categories - no pending cases, serious charges, disposals, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the zero-case status is positive, the warning about data reliability means this assessment should be treated cautiously.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance at 80% demonstrates reasonable participation in House proceedings, meeting basic expectations for legislative presence. However, legislative activity appears limited with 30 questions raised, zero debate participations, and no private member bills introduced. The absence of committee membership data further limits assessment of specialized legislative contributions. Evidence quality for parliamentary data is graded 'C', indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative). This neutral coverage suggests limited public visibility or controversial positions, but may also indicate insufficient media attention to assess public engagement effectively. Accessibility is graded 'D' with no social media or direct public engagement metrics available. The lack of measurable public interaction channels raises concerns about constituent communication and feedback mechanisms.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues:\n- Criminal records carry low confidence warnings due to potential source unavailability\n- Asset declarations show low confidence ratings\n- MPLADS data is entirely missing with low confidence ratings\n- Committee membership information is unavailable, suggesting incomplete Sansad profile access\n- Legislative effectiveness data has low confidence ratings\n\nThese warnings indicate systematic gaps in transparency infrastructure rather than deliberate non-disclosure, but nevertheless limit analytical reliability.\n\n### Key Takeaway\nGiridhari Yadav's transparency profile is severely constrained by data unavailability across critical indicators including assets, MPLADS utilization, and detailed parliamentary contributions. While maintaining clean criminal records and adequate attendance, the absence of financial transparency and developmental impact metrics prevents meaningful assessment of his effectiveness as a public representative. The systematic data gaps reflect broader transparency challenges in Bihar's political accountability infrastructure, requiring enhanced disclosure mechanisms for comprehensive MP evaluation.",
-  "validated_at": "2026-05-21T14:38:07.031140Z"
+  "validated_at": "2026-05-21T14:38:07.031140Z",
+  "assets": {
+    "total_assets": 17281101.0,
+    "liabilities": 5695769.0,
+    "net_worth": 11585332.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2229",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2229",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.77,
+    "expended": 9.35,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:37.767312Z",
+        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 88 sanctioned, 80 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 90,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 63.60544217687075
+  }
 }

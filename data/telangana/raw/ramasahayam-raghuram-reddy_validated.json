@@ -4,16 +4,16 @@
     "constituency": "Khammam",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5716,
     "slug": "ramasahayam-raghuram-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 5716,
     "profile_url": null,
     "canonical_name": "Ramasahayam Raghuram Reddy",
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Ramasahayam Raghuram Reddy\n\n### Overall Assessment\nRamasahayam Raghuram Reddy, Indian National Congress MP representing Khammam constituency in Telangana, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining clean criminal records and demonstrating moderate parliamentary engagement, substantial information is unavailable regarding asset declarations and MPLADS fund utilization—critical indicators of financial transparency and development impact.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure rates. This represents a major transparency gap given MPs' ₹5 crore annual development fund allocation. The absence of utilization data is particularly concerning given CAG audit findings revealing systemic MPLADS implementation issues across states, including ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without specific data on Reddy's fund deployment, development impact assessment remains impossible.\n\n### Financial Transparency\nAsset declaration information is completely missing, preventing evaluation of wealth accumulation patterns or potential conflicts of interest. No data exists on total assets, previous declarations, growth ratios, or net worth—all mandatory disclosure requirements under electoral law. This data unavailability significantly undermines financial transparency assessment, making it impossible to track wealth changes during tenure or identify potential undisclosed interests. Monthly compensation is recorded at ₹2,45,000, representing standard MP remuneration.\n\n### Legal & Criminal Standing\nReddy maintains a clean legal record with zero criminal cases across all categories—no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal profile represents a positive transparency indicator, demonstrating absence of legal controversies that might compromise public service integrity or create conflicts of interest.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 75% attendance—meeting the minimum threshold but indicating room for improvement in legislative participation. Reddy has raised 33 questions in Parliament, demonstrating some constituency advocacy effort, and participated in 4 debates, suggesting limited but present contribution to policy discussions. However, zero private bills introduced indicates minimal legislative initiative beyond standard parliamentary duties. No committee membership data is available, preventing assessment of specialized policy work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited but stable public visibility with 10 articles identified—2 positive, 8 neutral, and notably zero negative coverage. This suggests absence of major controversies while indicating relatively low media profile compared to more prominent MPs. The neutral-to-positive coverage pattern suggests competent but unremarkable public performance. However, broader accessibility data including social media presence, public interactions, and constituency outreach metrics are not comprehensively available.\n\n### Data Quality & Caveats\nMultiple significant data quality issues severely limit assessment reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence ratings, making financial transparency evaluation impossible. MPLADS data is entirely missing with low confidence ratings. Committee information is unavailable, suggesting Sansad profile accessibility issues. Legislative effectiveness data has low confidence ratings. Evidence grades reflect these limitations with Parliament activity rated 'C' and accessibility rated 'D'. Sources include PRS, social media, and news coverage, but coverage appears incomplete across multiple transparency dimensions.\n\n### Key Takeaway\nRamasahayam Raghuram Reddy presents a largely unknown transparency profile due to extensive data unavailability across critical assessment areas. While maintaining clean criminal records and moderate parliamentary participation, the absence of asset declarations and MPLADS utilization data creates substantial transparency blind spots. The low confidence ratings across multiple data categories suggest systemic information access challenges that prevent comprehensive evaluation of his performance as an elected representative, highlighting the need for improved transparency mechanisms and data availability.",
-  "validated_at": "2026-05-21T14:28:19.712466Z"
+  "validated_at": "2026-05-21T14:28:19.712466Z",
+  "assets": {
+    "total_assets": 582770537.0,
+    "liabilities": 95482677.0,
+    "net_worth": 487287860.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.2,
+    "expended": 1.17,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:49:20.324667Z",
+        "notes": "Official eSAKSHI REST API — Works: 252 recommended, 54 sanctioned, 3 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 252,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 7.959183673469387
+  }
 }

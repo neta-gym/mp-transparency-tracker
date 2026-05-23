@@ -4,16 +4,16 @@
     "constituency": "Bastar",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 268,
     "slug": "mahesh-kashyap",
     "house": "lok_sabha",
     "sansad_member_id": 5626,
     "profile_url": null,
     "canonical_name": "Mahesh Kashyap",
     "name_aliases": [],
-    "education": null,
+    "education": "8th Pass",
     "profession": null,
-    "age": null,
+    "age": 48,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mahesh Kashyap\n\n### Overall Assessment\nMahesh Kashyap, BJP MP representing Bastar constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance at 90%, substantial information about asset declarations, MPLADS utilization, and development fund expenditure remains unavailable. The MP shows no recorded criminal cases, though data confidence is flagged as low.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap for assessing the MP's development work in Bastar constituency. Given the CAG audit context highlighting systemic issues in Chhattisgarh—including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation—the absence of MPLADS data is particularly concerning for accountability assessment.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on current assets, previous declarations, growth ratios, or net worth calculations. This prevents any evaluation of the MP's financial transparency or potential conflicts of interest. Only compensation data is available, showing a monthly remuneration of Rs 245,000, which aligns with standard parliamentary compensation structures.\n\n### Legal & Criminal Standing\nKashyap shows a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, the system flags low confidence in this criminal data, suggesting potential data source limitations that could affect the reliability of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 90% attendance, demonstrating consistent presence in the Lok Sabha. Legislative participation includes 14 questions raised and 3 debate contributions, indicating basic parliamentary engagement. However, no private member's bills have been introduced, and no committee membership information is available, limiting assessment of policy contribution depth. The evidence grade for parliament performance is rated 'C', suggesting room for improvement in legislative effectiveness.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals neutral public engagement, with 10 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment patterns. The accessibility evidence grade is rated 'D', indicating limited public engagement mechanisms or transparency in constituent communication. No social media engagement metrics or public interaction data are available to assess digital outreach effectiveness.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- **Criminal records**: Low confidence due to potential source unavailability\n- **Assets**: Low confidence in asset declaration data\n- **MPLADS**: Complete absence of fund utilization information\n- **Committees**: No committee participation data found\n- **Legislative effectiveness**: Limited confidence in comprehensive activity assessment\n\nThe CAG audit context for Chhattisgarh reveals 7 relevant systemic findings, including widespread issues with fund utilization and documentation, making the absence of MPLADS data more problematic for transparency evaluation.\n\n### Key Takeaway\nMahesh Kashyap's transparency profile is severely hampered by extensive data gaps across critical areas including asset declarations, development fund utilization, and committee work. While maintaining clean criminal records and adequate parliamentary attendance, the MP's overall accountability cannot be properly assessed due to missing financial and development expenditure information. The 'D' grade for accessibility suggests limited public engagement, while systemic fund utilization issues highlighted in CAG audits for Chhattisgarh make transparent MPLADS reporting particularly crucial—yet entirely absent from available records.",
-  "validated_at": "2026-05-21T14:23:38.264760Z"
+  "validated_at": "2026-05-21T14:23:38.264760Z",
+  "assets": {
+    "total_assets": 3967309.0,
+    "liabilities": 34980.0,
+    "net_worth": 3932329.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=268",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=268",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.48,
+    "expended": 5.4,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:19.966962Z",
+        "notes": "Official eSAKSHI REST API — Works: 172 recommended, 168 sanctioned, 31 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 172,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.734693877551024
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Janjgir-Champa",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3677,
     "slug": "kamlesh-jangde",
     "house": "lok_sabha",
     "sansad_member_id": 5709,
     "profile_url": null,
     "canonical_name": "Kamlesh Jangde",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 46,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kamlesh Jangde\n\n### Overall Assessment\nKamlesh Jangde, BJP MP from Janjgir-Champa constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and demonstrating good parliamentary attendance (90%), critical financial and developmental metrics remain unavailable, raising concerns about overall accountability and transparency.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, expenditure, or utilization percentages. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Chhattisgarh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Jangde's constituency, it's impossible to assess his developmental impact or fund management effectiveness.\n\n### Financial Transparency\nAsset disclosure transparency is severely compromised with no available data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is listed at Rs 2,45,000, but without baseline asset data, wealth growth trends cannot be evaluated. This lack of financial transparency is a significant red flag for accountability.\n\n### Legal & Criminal Standing\nJangde maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability. While the clean record appears positive, the data quality caveat suggests this information may not be comprehensive or current.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance stands at a respectable 90%, demonstrating consistent presence in the Lok Sabha. However, legislative productivity appears limited with only 20 questions raised, 2 debate participations, and zero private member bills introduced. This suggests minimal proactive legislative contribution despite regular attendance. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 8 news articles with neutral sentiment across all pieces - zero positive or negative articles. This uniformly neutral coverage suggests either limited public engagement or minimal controversial activities. However, the accessibility evidence grade of 'D' indicates poor data quality in measuring public interaction. No social media engagement metrics or public outreach data are available, limiting assessment of constituent connectivity.\n\n### Data Quality & Caveats\nMultiple critical data quality issues significantly impact this assessment:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is completely missing with low confidence warnings\n- MPLADS data is entirely unavailable despite its importance for development assessment\n- No committee assignment data found, suggesting incomplete Sansad profile access\n- Legislative effectiveness data has low confidence ratings\n- Evidence grades range from 'C' (parliament) to 'D' (accessibility), indicating substantial reliability concerns\n\nThe CAG audit context provides 7 relevant findings for Chhattisgarh, highlighting systemic fund management issues that may affect the MP's constituency, though specific impacts cannot be determined without MPLADS data.\n\n### Key Takeaway\nKamlesh Jangde's transparency profile is severely hampered by extensive data gaps, particularly in financial disclosure and development fund utilization - two critical areas for MP accountability. While maintaining clean legal standing and adequate parliamentary attendance, the absence of asset information, MPLADS data, and meaningful legislative contributions raises significant transparency concerns. The uniformly neutral media coverage and poor accessibility metrics suggest limited public engagement. Comprehensive evaluation requires substantial improvement in data availability and quality across all transparency parameters.",
-  "validated_at": "2026-05-21T14:23:38.264685Z"
+  "validated_at": "2026-05-21T14:23:38.264685Z",
+  "assets": {
+    "total_assets": 15462143.0,
+    "liabilities": 1380075.0,
+    "net_worth": 14082068.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3677",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3677",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.04,
+    "released": 15.04,
+    "sanctioned": 9.83,
+    "expended": 8.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:19.326739Z",
+        "notes": "Official eSAKSHI REST API — Works: 344 recommended, 278 sanctioned, 159 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 344,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 56.715425531914896
+  }
 }

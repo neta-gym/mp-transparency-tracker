@@ -4,16 +4,16 @@
     "constituency": "Darjeeling",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2218,
     "slug": "raju-bista",
     "house": "lok_sabha",
     "sansad_member_id": 5042,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 38,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Raju Bista\n\n### Overall Assessment\nRaju Bista, BJP MP from Darjeeling constituency in West Bengal, presents a mixed transparency profile characterized by significant data gaps across key accountability metrics. While maintaining reasonable parliamentary attendance at 70%, substantial information is unavailable regarding his financial assets, MPLADS fund utilization, and committee participation. The limited available data suggests moderate parliamentary engagement but raises concerns about overall transparency.\n\n### Fund Utilization & Development\nMPLADS fund data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing developmental impact in the Darjeeling constituency. The absence of this data prevents evaluation of local infrastructure investment or community development initiatives. CAG audit reports from 2010 highlight systemic MPLADS issues in West Bengal, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation, though specific applicability to Bista's tenure cannot be determined.\n\n### Financial Transparency\nAsset declaration information is completely absent, with no data on current assets, previous holdings, growth patterns, or net worth calculations. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability. The monthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point. Without baseline asset data, assessment of potential conflicts of interest or unexplained wealth accumulation is impossible.\n\n### Legal & Criminal Standing\nBista maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, and convictions. This represents full legal compliance and absence of judicial proceedings. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems or source availability limitations.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 70% attendance, positioning Bista slightly below optimal participation standards. Legislative contributions include 46 questions raised and participation in 11 debates, indicating reasonable engagement with parliamentary processes. However, zero private bills introduced suggests limited proactive legislative initiatives. No committee participation data is available, preventing assessment of specialized parliamentary work or sectoral expertise development.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals minimal public discourse, with only 10 articles identified (1 positive, 0 negative, 9 neutral). This limited coverage suggests either restricted media engagement or low visibility in public discourse. The predominantly neutral sentiment indicates absence of significant controversies but may also reflect limited newsworthy achievements or public engagement initiatives. Accessibility metrics receive a 'D' grade, indicating substantial room for improvement in public outreach and transparency.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence flags, while asset and MPLADS information is entirely unavailable. Committee participation and legislative effectiveness data quality is poor, with Sansad profile potentially inaccessible. Evidence grades show 'C' for parliament-related data and 'D' for accessibility metrics, indicating below-average data availability and reliability. These limitations severely constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nRaju Bista's transparency profile is severely compromised by extensive data unavailability across critical accountability metrics, particularly financial assets and MPLADS fund utilization. While maintaining clean legal standing and moderate parliamentary participation, the absence of fundamental transparency data prevents comprehensive public accountability assessment. Immediate attention is required to improve data disclosure and accessibility to enable meaningful democratic oversight of his parliamentary representation.",
-  "validated_at": "2026-05-21T14:28:29.672388Z"
+  "validated_at": "2026-05-21T14:28:29.672388Z",
+  "assets": {
+    "total_assets": 475357268.0,
+    "liabilities": 2794788.0,
+    "net_worth": 472562480.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2218",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2218",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.43,
+    "expended": 3.95,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:53:04.958664Z",
+        "notes": "Official eSAKSHI REST API — Works: 160 recommended, 100 sanctioned, 19 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 160,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.87074829931973
+  }
 }

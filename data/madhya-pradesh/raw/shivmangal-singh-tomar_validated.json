@@ -4,16 +4,16 @@
     "constituency": "Morena",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3618,
     "slug": "shivmangal-singh-tomar",
     "house": "lok_sabha",
     "sansad_member_id": 5604,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 64,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shivmangal Singh Tomar\n\n### Overall Assessment\nShivmangal Singh Tomar, BJP MP from Morena, Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key areas. While maintaining a clean legal record and good attendance, the lack of accessible information on assets, MPLADS utilization, and legislative activities raises transparency concerns.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, preventing assessment of the MP's development work effectiveness. This is particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific data on Tomar's constituency, voters cannot evaluate his development impact.\n\n### Financial Transparency\nAsset declaration information is completely unavailable, representing a significant transparency gap. No data exists on total assets, previous declarations, growth ratios, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or unusual wealth accumulation. The MP's monthly compensation stands at Rs 2,45,000, but without asset context, financial transparency remains severely limited.\n\n### Legal & Criminal Standing\nTomar maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposals, or convictions. However, the data carries a low confidence warning, suggesting potential source unavailability. While the available information indicates no legal issues, the data quality concerns require noting.\n\n### Parliamentary Performance\nTomar demonstrates strong attendance with a 95% participation rate in Lok Sabha proceedings, well above average parliamentary attendance. However, his legislative engagement appears minimal - only 2 questions raised, zero debate participations, and no private member bills introduced. This suggests a passive rather than proactive parliamentary approach, with high physical presence but limited active contribution to legislative processes.\n\n### Public Engagement & Accessibility\nMedia coverage is limited to 10 articles, all classified as neutral with no positive or negative sentiment detected. This minimal media presence suggests either limited public engagement or low media visibility. No committee membership data is available, and the Sansad profile appears inaccessible, further limiting transparency about the MP's parliamentary roles and responsibilities. The evidence grade for accessibility is rated 'D', indicating poor public information access.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment:\n- Criminal record data carries low confidence warnings due to potential source unavailability\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is unavailable, preventing development work evaluation\n- Committee membership information is absent\n- Legislative effectiveness data has low confidence ratings\n- Evidence grades are poor: Parliament performance rated 'C' and accessibility rated 'D'\n\nThese gaps represent substantial transparency deficits that limit comprehensive evaluation.\n\n### Key Takeaway\nWhile Shivmangal Singh Tomar maintains strong parliamentary attendance (95%) and a clean legal record, significant transparency gaps in financial disclosures, development fund utilization, and legislative activities prevent a comprehensive assessment of his performance. The absence of asset declarations and MPLADS data, combined with minimal legislative engagement (only 2 questions, no debates), suggests opportunities for improved transparency and more active representation of Morena constituency interests.",
-  "validated_at": "2026-05-21T14:29:28.228131Z"
+  "validated_at": "2026-05-21T14:29:28.228131Z",
+  "assets": {
+    "total_assets": 22614911.0,
+    "liabilities": 4430205.0,
+    "net_worth": 18184706.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3618",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3618",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.35,
+    "expended": 1.88,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:41.081109Z",
+        "notes": "Official eSAKSHI REST API — Works: 70 recommended, 52 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 70,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 12.789115646258503
+  }
 }

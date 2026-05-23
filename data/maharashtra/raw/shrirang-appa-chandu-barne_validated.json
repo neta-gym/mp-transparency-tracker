@@ -4,16 +4,16 @@
     "constituency": "Maval",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5325,
     "slug": "shrirang-appa-chandu-barne",
     "house": "lok_sabha",
     "sansad_member_id": 4781,
     "profile_url": null,
     "canonical_name": "Shrirang Appa Chandu Barne",
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shrirang Appa Chandu Barne\n\n### Overall Assessment\nShrirang Appa Chandu Barne, representing the Maval constituency in Maharashtra as a Shiv Sena MP in the Lok Sabha, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps in key accountability areas. While maintaining excellent attendance (95%) and active question-raising behavior, the absence of crucial financial and development data limits a comprehensive assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Barne, including entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary vehicle for constituency development. The lack of data prevents assessment of his development priorities or fund management efficiency. CAG audit findings for Maharashtra reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly hampers transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a total monthly compensation of Rs 245,000 as per standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nMP Barne maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in source availability or verification. This clean record, while positive, should be interpreted cautiously given the data quality concerns.\n\n### Parliamentary Performance\nBarne demonstrates strong parliamentary engagement with 95% attendance, well above average MP performance. He has actively participated in legislative processes by raising 87 questions, participating in 12 debates, and introducing 3 private member bills. His legislative record shows 3 private member bills but zero contributions to zero hour discussions or special mentions. This suggests focused but somewhat narrow parliamentary participation patterns.\n\n### Public Engagement & Accessibility\nPublic engagement assessment reveals limited media presence with only 9 news articles identified, all classified as neutral in sentiment with no positive or negative coverage. This minimal media footprint may indicate either low public visibility or limited controversial activities. The absence of social media engagement data and committee participation information further limits assessment of his accessibility to constituents and stakeholder engagement efforts.\n\n### Data Quality & Caveats\nThe transparency assessment faces significant limitations due to widespread data unavailability. Evidence grades are poor (Parliament: C, Accessibility: D), with automated flags indicating low confidence across multiple domains including criminal records, assets, MPLADS, and legislative effectiveness data. Committee participation data is entirely absent, suggesting Sansad profile unavailability. These gaps substantially limit the reliability of this transparency assessment.\n\n### Key Takeaway\nWhile MP Barne demonstrates commitment through excellent parliamentary attendance and active question-raising, the absence of critical transparency data - particularly regarding asset declarations and MPLADS utilization - prevents a comprehensive evaluation of his effectiveness and accountability. The clean criminal record and steady parliamentary participation are positive indicators, but voters and stakeholders lack access to essential information needed to fully assess his performance as their representative. Improved data disclosure would significantly enhance transparency and public trust.",
-  "validated_at": "2026-05-21T14:21:04.940616Z"
+  "validated_at": "2026-05-21T14:21:04.940616Z",
+  "assets": {
+    "total_assets": 1318591631.0,
+    "liabilities": 8528711.0,
+    "net_worth": 1310062920.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5325",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5325",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.48,
+    "expended": 3.0,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:26.391083Z",
+        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 45 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 90,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 20.408163265306122
+  }
 }

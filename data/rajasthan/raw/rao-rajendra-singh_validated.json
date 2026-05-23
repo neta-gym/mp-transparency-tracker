@@ -4,16 +4,16 @@
     "constituency": "Jaipur Rural",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 436,
     "slug": "rao-rajendra-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5632,
     "profile_url": null,
     "canonical_name": "Rao Rajendra Singh",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rao Rajendra Singh\n\n### Overall Assessment\nRao Rajendra Singh, BJP MP from Jaipur Rural constituency in Rajasthan, presents a transparency profile significantly hampered by data availability issues. With incomplete information across most key performance indicators and evidence grades of 'C' for parliament activity and 'D' for accessibility, a comprehensive assessment of his effectiveness as an MP cannot be reliably conducted. The limited available data suggests minimal public visibility but no apparent criminal concerns.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, preventing any assessment of developmental impact in the Jaipur Rural constituency. The CAG audit context for Rajasthan reveals systemic issues that may affect his constituency: Rs 1,558 crore in idle funds across state district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. However, without specific MPLADS data for Rao Rajendra Singh, it cannot be determined whether these state-wide issues affect his fund management.\n\n### Financial Transparency\nAsset declaration data is completely missing, making financial transparency assessment impossible. The absence of current asset values, previous declarations, growth ratios, and net worth information represents a significant transparency gap. His monthly compensation stands at Rs 2.45 lakh, consistent with standard MP remuneration, but without asset disclosures, potential conflicts of interest or wealth accumulation patterns cannot be evaluated.\n\n### Legal & Criminal Standing\nRao Rajendra Singh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability. While this appears positive, the data quality caveat prevents definitive conclusions about his legal standing.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps with zero recorded questions, debates, or private bills. Attendance percentage is not available. The MP holds ministerial position, which typically results in lower traditional parliamentary metrics due to executive duties, potentially explaining the minimal legislative activity. However, the 'C' grade evidence quality suggests these figures may not reflect actual performance due to data collection limitations.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public engagement with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral. This minimal media presence suggests either low public visibility or limited newsworthiness of activities. The 'D' grade for accessibility evidence indicates poor data availability regarding public outreach, constituency interaction, or digital presence. Committee participation data is entirely absent, further limiting assessment of his parliamentary engagement.\n\n### Data Quality & Caveats\nThis profile suffers from significant data quality issues across multiple domains:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information is completely missing\n- MPLADS utilization data is unavailable\n- Parliamentary activity data has low confidence ratings\n- Committee participation data is absent\n- Legislative effectiveness data has low confidence\n\nThese limitations severely constrain the reliability of any performance assessment. The evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these data quality concerns.\n\n### Key Takeaway\nRao Rajendra Singh's transparency profile is characterized by extensive data gaps that prevent meaningful performance evaluation. While no negative indicators are apparent in available data (clean criminal record, no adverse media coverage), the absence of crucial information on fund utilization, assets, and detailed parliamentary activity creates significant transparency deficits. His ministerial role may explain some parliamentary activity limitations, but the overall lack of accessible performance data raises concerns about public accountability. Improved data disclosure and transparency mechanisms are essential for proper assessment of his effectiveness as an MP representing Jaipur Rural constituency.",
-  "validated_at": "2026-05-21T14:31:39.064231Z"
+  "validated_at": "2026-05-21T14:31:39.064231Z",
+  "assets": {
+    "total_assets": 293352992.0,
+    "liabilities": 20889099.0,
+    "net_worth": 272463893.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=436",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=436",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.09,
+    "expended": 1.11,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:06.207889Z",
+        "notes": "Official eSAKSHI REST API — Works: 74 recommended, 23 sanctioned, 8 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 74,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 7.551020408163267
+  }
 }

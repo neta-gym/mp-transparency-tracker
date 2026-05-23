@@ -4,16 +4,16 @@
     "constituency": "Osmanabad",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3849,
     "slug": "omprakash-bhupalsinh-alias-pavan-rajenimbalkar",
     "house": "lok_sabha",
     "sansad_member_id": 5189,
     "profile_url": null,
     "canonical_name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 40,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Omprakash Bhupalsinh Alias Pavan Rajenimbalkar\n\n### Overall Assessment\nOmprakash Bhupalsinh Alias Pavan Rajenimbalkar, representing Osmanabad constituency in Maharashtra for Shiv Sena (Uddhav Balasaheb Thackrey), presents a mixed transparency profile with significant data gaps. While parliamentary attendance appears strong at 95%, substantial missing information across financial and developmental indicators limits comprehensive assessment of his public service effectiveness.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled, released, or expended funds. This represents a critical transparency gap given MPLADS's importance for constituency development. The absence of utilization data prevents assessment of the MP's development impact in Osmanabad. CAG audit findings from Maharashtra highlight systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned, raising concerns about fund management oversight.\n\n### Financial Transparency\nAsset disclosure data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for public representatives. The monthly compensation is reported at Rs 2,45,000, providing the only available financial data point. Without baseline asset information, it's impossible to assess potential conflicts of interest or wealth accumulation patterns.\n\n### Legal & Criminal Standing\nThe MP shows a clean criminal record with zero total cases, serious cases, pending matters, disposed cases, and convictions. However, data quality warnings indicate low confidence in this criminal record information, suggesting the source may be unavailable or incomplete. While the reported clean slate is positive, the reliability caveat requires consideration.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with evidence grade 'C'. Attendance stands at a robust 95%, demonstrating consistent presence in the House. The MP has raised 52 questions and participated in 18 debates, indicating moderate legislative engagement. However, zero private member bills suggests limited initiative in proposing new legislation. No committee membership data is available, limiting assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nPublic accessibility receives a 'D' evidence grade, indicating poor transparency in this area. News coverage analysis shows 9 articles with neutral sentiment (0 positive, 0 negative, 9 neutral), suggesting limited media engagement or public visibility. The mixed/neutral coverage pattern indicates minimal proactive public communication. Social media presence data, while listed as a source, lacks specific metrics for evaluation.\n\n### Data Quality & Caveats\nMultiple significant data quality warnings affect this assessment:\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is entirely unavailable\n- Committee membership information is absent, possibly due to unavailable Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n\nThese gaps substantially limit the comprehensiveness of this transparency evaluation.\n\n### Key Takeaway\nWhile MP Rajenimbalkar demonstrates good parliamentary attendance (95%) and maintains a reported clean criminal record, critical transparency gaps in financial disclosures, MPLADS utilization, and public engagement significantly hinder comprehensive assessment. The absence of asset declarations and development fund data represents major transparency deficits that require urgent attention. Voters in Osmanabad lack essential information needed to evaluate their representative's financial stewardship and developmental impact, undermining democratic accountability standards.",
-  "validated_at": "2026-05-21T14:34:38.164476Z"
+  "validated_at": "2026-05-21T14:34:38.164476Z",
+  "assets": {
+    "total_assets": 75325549.0,
+    "liabilities": 251709.0,
+    "net_worth": 75073840.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3849",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3849",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 18.48,
+    "released": 18.48,
+    "sanctioned": 2.09,
+    "expended": 1.88,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:13.349686Z",
+        "notes": "Official eSAKSHI REST API — Works: 151 recommended, 31 sanctioned, 21 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 151,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.173160173160174
+  }
 }

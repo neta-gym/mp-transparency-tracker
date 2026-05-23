@@ -4,16 +4,16 @@
     "constituency": "Siwan",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8120,
     "slug": "vijaylakshmi-devi",
     "house": "lok_sabha",
     "sansad_member_id": 5577,
     "profile_url": null,
     "canonical_name": "Vijaylakshmi Devi",
     "name_aliases": [],
-    "education": null,
+    "education": "Literate",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vijaylakshmi Devi\n\n### Overall Assessment\n\nVijaylakshmi Devi, representing Siwan constituency in Bihar for Janata Dal (United), presents a mixed transparency profile marked by perfect parliamentary attendance but significant data gaps across key accountability metrics. Her profile shows strong attendance discipline but limited legislative engagement and concerning data unavailability across multiple transparency indicators.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is unavailable for MP Devi, marking a critical transparency gap. This is particularly concerning given the broader Bihar context revealed by CAG audits, which identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. With 18% of sampled works remaining abandoned or incomplete statewide, the absence of specific MPLADS data for Siwan constituency prevents assessment of local development impact.\n\n### Financial Transparency\n\nAsset declaration information is completely unavailable, representing a major transparency deficit. Neither current total assets nor previous holdings are disclosed, making it impossible to assess financial growth, potential conflicts of interest, or compliance with asset declaration requirements. Her monthly compensation stands at Rs 2,45,000, but without baseline asset data, financial trajectory analysis is impossible.\n\n### Legal & Criminal Standing\n\nMP Devi maintains a clean criminal record with zero cases across all categories - no pending, disposed, serious cases, or convictions. However, confidence in this data is flagged as low, suggesting potential source limitations rather than definitively confirming a pristine record.\n\n### Parliamentary Performance\n\nDevi demonstrates exceptional attendance with 100% parliamentary presence, indicating strong commitment to legislative duties. However, her substantive engagement remains limited with only 10 questions raised, zero participation in debates, and no private member bills introduced. This suggests physical presence without corresponding active legislative participation or policy initiation.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative coverage. This pattern suggests limited public visibility or controversial engagement. The evidence grade for accessibility is poor (D), indicating insufficient data on constituent interaction mechanisms, public meetings, or community engagement initiatives.\n\n### Data Quality & Caveats\n\nMultiple critical data quality warnings significantly impact assessment reliability:\n- Criminal record data confidence is low due to potentially unavailable sources\n- Asset information shows low confidence levels\n- MPLADS data reliability is questionable\n- No committee membership data found, suggesting incomplete Sansad profile availability\n- Legislative effectiveness data carries low confidence ratings\n\nThe overall evidence grades are concerning: parliament activities rated C and accessibility rated D, indicating substantial information gaps.\n\n### Key Takeaway\n\nWhile Vijaylakshmi Devi maintains perfect parliamentary attendance and a clean criminal record, her transparency profile is severely hampered by missing critical data across assets, MPLADS utilization, and legislative engagement. The combination of limited substantive parliamentary participation, absent financial disclosures, and poor data availability raises transparency concerns that warrant enhanced disclosure and accountability measures.",
-  "validated_at": "2026-05-21T14:23:56.608449Z"
+  "validated_at": "2026-05-21T14:23:56.608449Z",
+  "assets": {
+    "total_assets": 44130032.0,
+    "liabilities": 360008.0,
+    "net_worth": 43770024.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8120",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8120",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.15,
+    "expended": 9.14,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:08.501130Z",
+        "notes": "Official eSAKSHI REST API — Works: 142 recommended, 96 sanctioned, 95 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 142,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 62.17687074829933
+  }
 }

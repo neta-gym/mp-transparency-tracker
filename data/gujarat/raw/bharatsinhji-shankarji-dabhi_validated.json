@@ -4,16 +4,16 @@
     "constituency": "Patan",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3603,
     "slug": "bharatsinhji-shankarji-dabhi",
     "house": "lok_sabha",
     "sansad_member_id": 5024,
     "profile_url": null,
     "canonical_name": "Bharatsinhji Shankarji Dabhi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 69,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bharatsinhji Shankarji Dabhi\n\n### Overall Assessment\nBharatsinhji Shankarji Dabhi, BJP MP representing Patan constituency in Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While his parliamentary attendance is exemplary at 100%, critical financial and developmental data are largely unavailable, hindering evaluation of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable for this MP, with no information on entitled amounts, releases, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues with MPLADS implementation. The audit revealed that Rs 1,558 crore remains unspent in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific data on Dabhi's fund utilization, his developmental impact cannot be assessed.\n\n### Financial Transparency\nAsset disclosure information is entirely absent from available records. Current total assets, previous assets, growth ratios, and net worth are all listed as \"None,\" representing a complete transparency gap in financial disclosures. This absence of data prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 245,000, providing the only available financial reference point.\n\n### Legal & Criminal Standing\nDabhi maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential source unavailability that could affect accuracy. While the available information suggests no legal complications, the data quality caveat requires careful interpretation.\n\n### Parliamentary Performance\nDabhi demonstrates strong attendance with a perfect 100% participation rate in parliamentary sessions. His legislative engagement shows moderate activity with 8 questions raised and participation in 3 debates. However, he has introduced zero private member bills, indicating limited initiative in proposing legislation. The evidence grade for parliamentary data is rated 'C', suggesting room for improvement in comprehensive legislative tracking. No committee membership information is available, representing another data gap in assessing his parliamentary contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 9 news articles, all categorized as neutral with zero positive or negative pieces. This neutral stance suggests limited public visibility or controversial positioning. The accessibility evidence grade is 'D', indicating poor data availability regarding public engagement mechanisms, constituency outreach, or citizen interaction platforms. Social media presence data is mentioned as a source but specific metrics are not provided.\n\n### Data Quality & Caveats\nMultiple automated warnings significantly impact the reliability of this assessment:\n- Criminal record data carries low confidence warnings due to potential source unavailability\n- Asset information shows low confidence ratings\n- MPLADS data is completely unavailable\n- Committee membership information is missing\n- Legislative effectiveness data has low confidence ratings\n\nThe evidence grades for parliament ('C') and accessibility ('D') indicate substantial data quality issues. Sources include PRS, social media, and news outlets, but the comprehensive data gaps limit the robustness of conclusions.\n\n### Key Takeaway\nBharatsinhji Shankarji Dabhi's transparency profile is severely hampered by extensive data unavailability across critical areas including assets, MPLADS utilization, and committee work. While his perfect parliamentary attendance and clean criminal record (subject to data quality caveats) are positive indicators, the absence of financial transparency and developmental fund utilization data prevents a meaningful assessment of his effectiveness as a public representative. The neutral media coverage and poor accessibility rating suggest limited public engagement visibility. Urgent improvements in data disclosure and transparency mechanisms are needed to enable proper public accountability evaluation.",
-  "validated_at": "2026-05-21T14:22:49.166358Z"
+  "validated_at": "2026-05-21T14:22:49.166358Z",
+  "assets": {
+    "total_assets": 68430049.0,
+    "liabilities": 2957861.0,
+    "net_worth": 65472188.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3603",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3603",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.05,
+    "expended": 5.58,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:58.162154Z",
+        "notes": "Official eSAKSHI REST API — Works: 273 recommended, 196 sanctioned, 115 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 273,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 37.95918367346939
+  }
 }

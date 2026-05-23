@@ -4,16 +4,16 @@
     "constituency": "Kancheepuram",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 134,
     "slug": "selvam-g",
     "house": "lok_sabha",
     "sansad_member_id": 4963,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Selvam G\n\n### Overall Assessment\nSelvam G, representing Kancheepuram constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), demonstrates strong parliamentary attendance but faces significant transparency gaps across multiple governance dimensions. While his criminal record appears clean and parliamentary participation is robust, critical financial and developmental data remain unavailable, limiting comprehensive evaluation of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable for Selvam G, with no information on entitled amounts, releases, expenditure, or utilization percentages. This represents a critical transparency gap given that MPs are allocated ₹5 crore annually for constituency development. The absence of this data is particularly concerning given CAG audit findings highlighting systemic issues in Tamil Nadu, including ₹1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Without MPLADS transparency, constituents cannot assess how effectively their representative is addressing local development needs.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a fundamental transparency failure, as asset declarations are mandatory for all elected representatives under the Representation of People Act. The absence of this information prevents assessment of potential conflicts of interest or unexplained wealth accumulation. Selvam G receives a monthly compensation of ₹245,000, but without asset disclosure data, there is no baseline to evaluate financial propriety or compliance with disclosure requirements.\n\n### Legal & Criminal Standing\nSelvam G maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings due to potential source unavailability, suggesting the clean record may reflect data gaps rather than verified absence of legal issues. While the available information suggests no criminal entanglements, the data quality warning necessitates cautious interpretation of this apparently positive indicator.\n\n### Parliamentary Performance\nSelvam G demonstrates strong parliamentary engagement with 95% attendance, significantly above typical averages. His legislative participation includes 73 questions raised and 5 debate contributions, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliamentary activity evidence grade of 'C' indicates moderate confidence in this data, while the absence of committee membership information due to unavailable Sansad profiles limits assessment of his specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial positions, but may also indicate insufficient media engagement or regional coverage gaps. The accessibility evidence grade of 'D' indicates poor data availability for evaluating public engagement mechanisms, social media presence, or constituent interaction patterns. Without robust accessibility data, it's unclear how effectively Selvam G communicates with constituents or addresses their concerns.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to widespread data unavailability across critical transparency metrics. Warning flags indicate low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS utilization data. The lack of committee membership details and limited legislative effectiveness data further constrains comprehensive evaluation. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality challenges. Sources include PRS data, social media monitoring, and news analysis, but gaps in official disclosure mechanisms limit analytical depth.\n\n### Key Takeaway\nWhile Selvam G demonstrates commendable parliamentary attendance and maintains an apparently clean legal record, critical transparency gaps across asset disclosure, MPLADS utilization, and public engagement severely limit comprehensive assessment of his effectiveness as a public representative. The absence of fundamental financial transparency data, combined with systemic fund utilization challenges highlighted in CAG audits, raises concerns about accountability mechanisms in his constituency. Improved data disclosure and transparency practices are essential for enabling meaningful evaluation of his governance performance.",
-  "validated_at": "2026-05-21T14:26:56.610839Z"
+  "validated_at": "2026-05-21T14:26:56.610839Z",
+  "assets": {
+    "total_assets": 23615126.0,
+    "liabilities": 3112213.0,
+    "net_worth": 20502913.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=134",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=134",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 18.65,
+    "released": 18.65,
+    "sanctioned": 10.11,
+    "expended": 9.13,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:47.672140Z",
+        "notes": "Official eSAKSHI REST API — Works: 302 recommended, 277 sanctioned, 78 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 302,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 48.954423592493306
+  }
 }

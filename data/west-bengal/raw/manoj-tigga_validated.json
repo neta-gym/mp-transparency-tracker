@@ -4,16 +4,16 @@
     "constituency": "Alipurduars",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 13,
     "slug": "manoj-tigga",
     "house": "lok_sabha",
     "sansad_member_id": 5596,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 51,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Manoj Tigga\n\n### Overall Assessment\nMP Manoj Tigga (BJP, Alipurduars, West Bengal) presents a limited transparency profile due to significant data gaps across multiple assessment areas. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and development data severely constrains evaluation of his overall effectiveness as a public representative.\n\n### Fund Utilization & Development\nComplete data unavailability for MPLADS (Member of Parliament Local Area Development Scheme) funding prevents assessment of Tigga's development work in Alipurduars constituency. No information exists regarding entitled amounts, releases, expenditures, or utilization percentages. This data gap is particularly concerning given West Bengal's documented challenges with fund management, as highlighted by CAG audits revealing Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.\n\nThe absence of MPLADS data coincides with broader systemic issues identified in CAG audit findings, including 18% of sampled development works being abandoned or incomplete. Without constituency-specific data, it remains impossible to evaluate whether Tigga's area faces similar challenges or has achieved better outcomes.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, preventing any assessment of Tigga's financial transparency. No data exists for current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations serve as a primary mechanism for public accountability regarding elected officials' financial dealings.\n\nThe monthly compensation of Rs 245,000 represents the only available financial data point, reflecting standard parliamentary remuneration rather than personal wealth disclosure.\n\n### Legal & Criminal Standing\nTigga maintains a clean legal record with zero criminal cases across all categories—no pending cases, disposed cases, serious charges, or convictions. However, data confidence remains low due to potential source unavailability, warranting cautious interpretation of this finding.\n\n### Parliamentary Performance\nTigga demonstrates strong attendance discipline with 100% parliamentary participation, indicating consistent engagement with legislative proceedings. However, his substantive parliamentary contribution appears limited, with only 1 question raised, zero debate participations, and no private member bills introduced. This pattern suggests minimal active legislative engagement beyond attendance requirements.\n\nNo committee membership information is available, likely due to Sansad profile inaccessibility, further limiting assessment of his parliamentary effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals mixed public engagement, with 10 news articles generating neutral to mixed sentiment (8 neutral, 1 positive, 1 negative). This relatively low media presence suggests limited public visibility or newsworthy activities during the assessment period.\n\nSocial media and accessibility data remain insufficient for comprehensive evaluation, contributing to an overall 'D' grade for accessibility metrics.\n\n### Data Quality & Caveats\nThis assessment faces significant methodological limitations due to widespread data unavailability. Evidence grades reflect these constraints, with parliament performance rated 'C' and accessibility rated 'D'. Multiple automated warnings indicate low confidence levels across criminal records, assets, and MPLADS data.\n\nThe absence of committee information, legislative effectiveness metrics, and financial transparency data substantially limits analytical depth. While perfect attendance suggests basic parliamentary engagement, the broader data gaps prevent meaningful evaluation of constituency service, development impact, or overall effectiveness.\n\nCAG audit context for West Bengal provides relevant systemic background but cannot substitute for constituency-specific performance data.\n\n### Key Takeaway\nManoj Tigga maintains perfect parliamentary attendance and a clean legal record but faces severe transparency deficits due to missing financial, development, and engagement data. The absence of MPLADS utilization information, asset declarations, and substantive legislative contributions raises questions about accountability and effectiveness. Voters in Alipurduars constituency lack essential information needed to evaluate their representative's performance, highlighting the critical need for improved data disclosure and transparency mechanisms.",
-  "validated_at": "2026-05-21T14:21:17.688821Z"
+  "validated_at": "2026-05-21T14:21:17.688821Z",
+  "assets": {
+    "total_assets": 5751023.0,
+    "liabilities": 1602698.0,
+    "net_worth": 4148325.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=13",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 6,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 6,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=13",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.19,
+    "expended": 0.0,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:52:55.503006Z",
+        "notes": "Official eSAKSHI REST API — Works: 59 recommended, 50 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 59,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 0.0
+  }
 }

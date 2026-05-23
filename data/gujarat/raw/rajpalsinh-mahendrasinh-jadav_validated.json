@@ -4,16 +4,16 @@
     "constituency": "Panchmahal",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3430,
     "slug": "rajpalsinh-mahendrasinh-jadav",
     "house": "lok_sabha",
     "sansad_member_id": 5571,
     "profile_url": null,
     "canonical_name": "Rajpalsinh Mahendrasinh Jadav",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 43,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rajpalsinh Mahendrasinh Jadav\n\n### Overall Assessment\nRajpalsinh Mahendrasinh Jadav, BJP MP representing Panchmahal constituency in Gujarat, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across multiple accountability measures. The available evidence suggests basic compliance with parliamentary duties while revealing substantial limitations in data availability for critical transparency indicators.\n\n### Fund Utilization & Development\n**Critical data unavailable.** No MPLADS (Member of Parliament Local Area Development Scheme) data is available for entitled amounts, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly concerning given the CAG audit context revealing systemic issues in Gujarat's fund management. The audit findings highlight Rs 1,558 crore in idle funds across district authorities and concerning patterns where 34% of utilization certificates lacked proper documentation and 18% of sampled works remained incomplete or abandoned. Without specific MPLADS data for this MP, constituents cannot assess development fund effectiveness.\n\n### Financial Transparency\n**Asset disclosure data completely unavailable.** No information exists regarding the MP's total assets, previous declarations, growth ratios, or net worth. This represents a fundamental gap in financial transparency that prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The absence of both current and comparative asset data severely limits transparency evaluation in this critical area.\n\n### Legal & Criminal Standing\nThe MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources, suggesting this clean record should be interpreted with appropriate caution regarding data completeness.\n\n### Parliamentary Performance\n**Strong attendance with limited legislative engagement.** The MP demonstrates excellent parliamentary attendance at 95%, significantly above average benchmarks. However, legislative participation appears minimal with zero questions raised, only 3 debates participated in, and no private member bills introduced. This pattern suggests physical presence without active legislative engagement. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\n**Limited digital presence and accessibility.** News coverage analysis reveals 10 articles with neutral sentiment (zero positive or negative articles), suggesting minimal media engagement or public visibility. The 'D' evidence grade for accessibility indicates poor data availability regarding public engagement mechanisms. No committee participation data is available, representing another gap in assessing the MP's broader parliamentary contributions beyond floor activities.\n\n### Data Quality & Caveats\n**Significant data reliability concerns across multiple domains.** The analysis reveals systematic data gaps with low confidence warnings for criminal records, assets, and MPLADS information. Committee data is entirely unavailable, and legislative effectiveness data carries low confidence ratings. These limitations substantially impact the reliability of this transparency assessment. The evidence is primarily sourced from PRS, social media, and news outlets, with notable gaps in official government databases.\n\n### Key Takeaway\nWhile MP Jadav maintains strong parliamentary attendance (95%) and a clean criminal record, his transparency profile is severely compromised by comprehensive data unavailability across critical accountability measures including asset declarations, MPLADS utilization, and legislative effectiveness. The systemic data gaps, combined with minimal legislative engagement despite strong attendance, raise questions about overall parliamentary effectiveness and transparency compliance that cannot be adequately assessed with current available information.",
-  "validated_at": "2026-05-21T14:24:10.676231Z"
+  "validated_at": "2026-05-21T14:24:10.676231Z",
+  "assets": {
+    "total_assets": 22046500.0,
+    "liabilities": 439992.0,
+    "net_worth": 21606508.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3430",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3430",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.47,
+    "expended": 1.77,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:12.916825Z",
+        "notes": "Official eSAKSHI REST API — Works: 459 recommended, 312 sanctioned, 33 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 459,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 12.040816326530612
+  }
 }

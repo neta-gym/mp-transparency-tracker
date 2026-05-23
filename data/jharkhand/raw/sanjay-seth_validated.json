@@ -4,16 +4,16 @@
     "constituency": "Ranchi",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 8561,
     "slug": "sanjay-seth",
     "house": "lok_sabha",
     "sansad_member_id": 5117,
     "profile_url": null,
     "canonical_name": "Sanjay Seth",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sanjay Seth\n\n### Overall Assessment\nSanjay Seth, BJP MP from Ranchi, Jharkhand, presents a limited transparency profile due to significant data gaps across most key performance indicators. With clean criminal record but substantial missing information on assets, MPLADS utilization, and parliamentary activity, a comprehensive assessment of his effectiveness remains challenging. His ministerial status may explain some data limitations, particularly regarding attendance metrics.\n\n### Fund Utilization & Development\nMPLADS data for MP Seth is unavailable, preventing assessment of his constituency development efforts. This data gap is concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about overall development fund effectiveness in the region.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth. This represents a significant transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation patterns. MP Seth receives Rs 245,000 in monthly compensation as per standard parliamentary allowances.\n\n### Legal & Criminal Standing\nMP Seth maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary activity data is largely unavailable, showing zero questions asked, zero debate participations, and zero private member bills introduced. Attendance percentage is not reported. Importantly, MP Seth serves as a Minister, which typically results in lower traditional parliamentary metrics due to executive responsibilities that may limit floor participation. No committee membership information is available, suggesting potential gaps in the Sansad database profile.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals moderate public engagement with 10 news articles identified. The sentiment breakdown shows 3 positive articles, 7 neutral pieces, and zero negative coverage, indicating generally favorable or balanced media treatment. However, the accessibility grade is poor (D), suggesting limited public outreach or transparency initiatives. No social media engagement metrics or public interface data are available.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality challenges with evidence grades of 'C' for parliamentary metrics and 'D' for accessibility measures. Multiple automated flags indicate low confidence across criminal records, assets, MPLADS, and parliamentary activity data. The absence of committee information suggests incomplete Sansad profile availability. Sources include PRS Legislative Research, social media platforms, and news outlets, but comprehensive official data appears limited.\n\n### Key Takeaway\nWhile MP Sanjay Seth maintains a clean criminal record and receives generally positive media coverage, substantial data gaps across financial transparency, development fund utilization, and parliamentary metrics prevent meaningful performance evaluation. His ministerial role may explain some activity limitations, but the absence of basic asset declarations and MPLADS information raises transparency concerns that require attention for comprehensive public accountability.",
-  "validated_at": "2026-05-21T14:26:02.625728Z"
+  "validated_at": "2026-05-21T14:26:02.625728Z",
+  "assets": {
+    "total_assets": 24152085.0,
+    "liabilities": 3244306.0,
+    "net_worth": 20907779.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8561",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8561",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.71,
+    "released": 14.71,
+    "sanctioned": 9.78,
+    "expended": 8.22,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:04.959352Z",
+        "notes": "Official eSAKSHI REST API — Works: 150 recommended, 150 sanctioned, 49 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 150,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 55.88035350101972
+  }
 }

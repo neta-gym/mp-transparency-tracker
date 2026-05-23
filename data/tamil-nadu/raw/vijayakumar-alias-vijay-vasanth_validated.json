@@ -4,16 +4,16 @@
     "constituency": "Kanniyakumari",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 940,
     "slug": "vijayakumar-alias-vijay-vasanth",
     "house": "lok_sabha",
     "sansad_member_id": 5533,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 40,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vijayakumar Alias Vijay Vasanth\n\n### Overall Assessment\nVijayakumar Alias Vijay Vasanth, representing Kanniyakumari constituency in Tamil Nadu for the Indian National Congress, presents a limited transparency profile due to significant data gaps across key performance indicators. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, the absence of critical financial and development data severely constrains comprehensive evaluation of his effectiveness as an elected representative.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic issues in Tamil Nadu's fund utilization, including Rs 1,558 crore lying idle in district accounts, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for this MP, it's impossible to assess whether these state-level issues affect his constituency development efforts.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit as asset declarations are mandatory for all MPs under election rules. The monthly compensation is listed at Rs 2,45,000, consistent with standard MP remuneration. The lack of asset data prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure.\n\n### Legal & Criminal Standing\nVijayakumar maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a warning flag indicating low confidence in the source, suggesting potential data availability issues rather than confirmed clean status. Despite this caveat, the absence of any reported criminal matters is noteworthy in the current political landscape.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 80% attendance rate, indicating reasonable commitment to legislative duties though falling short of full participation. The MP has raised 55 questions in Parliament, demonstrating active engagement in the questioning process, and participated in 10 debates, showing involvement in legislative discussions. However, no private member bills have been introduced, suggesting limited initiative in proposing new legislation. The overall evidence grade for parliamentary performance is rated 'C', indicating moderate effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public visibility with only 10 news articles identified. The sentiment distribution shows predominantly neutral coverage (9 articles) with one negative article and no positive coverage, suggesting minimal media engagement or public relations activity. The accessibility evidence grade is rated 'D', indicating poor public engagement and limited transparency in constituency communication. No committee membership data is available, preventing assessment of specialized parliamentary work.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- Criminal record data flagged as low confidence due to potential source unavailability\n- Asset information completely missing despite being mandatory disclosure\n- MPLADS data entirely absent, preventing development impact assessment\n- Committee membership information unavailable\n- Legislative effectiveness data carries low confidence warnings\n\nThese gaps substantially limit the reliability of this transparency assessment and suggest either incomplete data collection or restricted information access.\n\n### Key Takeaway\nVijayakumar Alias Vijay Vasanth's transparency profile is severely compromised by extensive data gaps, particularly in financial disclosure and development fund utilization. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of asset declarations and MPLADS information prevents meaningful assessment of his effectiveness as a public representative. The systemic fund utilization issues identified in Tamil Nadu's CAG audits underscore the importance of transparent MPLADS reporting, making the data absence particularly concerning. Immediate priority should be placed on ensuring complete financial disclosures and development fund transparency to enable proper public accountability.",
-  "validated_at": "2026-05-21T14:27:02.431631Z"
+  "validated_at": "2026-05-21T14:27:02.431631Z",
+  "assets": {
+    "total_assets": 642730752.0,
+    "liabilities": 30616359.0,
+    "net_worth": 612114393.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=940",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 8,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 8,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=940",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.15,
+    "released": 17.15,
+    "sanctioned": 6.08,
+    "expended": 4.69,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:48:54.025523Z",
+        "notes": "Official eSAKSHI REST API — Works: 103 recommended, 55 sanctioned, 24 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 103,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 27.34693877551021
+  }
 }

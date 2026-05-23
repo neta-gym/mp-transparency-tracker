@@ -4,16 +4,16 @@
     "constituency": "Maldaha Dakshin",
     "state": "west bengal",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3465,
     "slug": "isha-khan-choudhury",
     "house": "lok_sabha",
     "sansad_member_id": 5834,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Isha Khan Choudhury\n\n### Overall Assessment\n\nIsha Khan Choudhury, representing Maldaha Dakshin constituency in West Bengal for the Indian National Congress, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating strong parliamentary attendance (90%), critical information regarding assets, MPLADS utilization, and committee participation remains unavailable. The MP receives a monthly compensation of ₹2,45,000 and has garnered neutral media coverage across 10 articles.\n\n### Fund Utilization & Development\n\nComplete MPLADS data is unavailable for assessment, including entitled amounts, releases, expenditures, and utilization percentages. This represents a significant transparency gap given the scheme's importance for constituency development. CAG audit findings for West Bengal highlight systemic concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Choudhury, constituency-level fund utilization cannot be evaluated.\n\n### Financial Transparency\n\nAsset disclosure information is entirely missing, preventing assessment of the MP's financial standing, wealth accumulation patterns, or potential conflicts of interest. No data is available regarding total assets, previous asset values, growth ratios, or net worth calculations. This complete absence of financial transparency data severely limits accountability assessment and raises concerns about disclosure compliance.\n\n### Legal & Criminal Standing\n\nChoudhury maintains a completely clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the available data indicates no legal issues, the warning about source availability necessitates cautious interpretation of this clean record.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with strong attendance (90%) demonstrating commitment to legislative duties. However, active participation metrics are concerning - only 3 questions raised and 3 debate participations, with zero private member bills introduced. No committee membership data is available, potentially indicating limited involvement in parliamentary committee work. This pattern suggests physical presence without proportional active contribution to legislative processes.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse generation or controversial positions. The absence of varied sentiment patterns may indicate either effective reputation management or insufficient public engagement to generate strong opinions. Social media presence and direct constituency interaction data are not available for comprehensive accessibility assessment.\n\n### Data Quality & Caveats\n\nSignificant data quality issues affect this profile's reliability. Evidence grades are poor - Parliament data rated 'C' and accessibility rated 'D'. Critical warnings include low confidence in criminal record data due to potential source unavailability, low confidence in asset information, and low confidence in MPLADS data. Additionally, no committee participation data is found, possibly due to unavailable Sansad profile information. These gaps substantially limit comprehensive transparency assessment.\n\nThe automated flagging system identifies multiple data reliability concerns, particularly regarding assets and MPLADS utilization - two crucial transparency indicators. While 7 relevant CAG audit findings provide context for West Bengal's fund utilization challenges, the absence of MP-specific data prevents direct accountability assessment.\n\n### Key Takeaway\n\nIsha Khan Choudhury's transparency profile is severely hampered by comprehensive data gaps across critical areas including assets, MPLADS utilization, and committee participation. While maintaining clean criminal records and strong parliamentary attendance, the MP's active legislative engagement appears limited with minimal question-raising and debate participation. The complete absence of financial disclosure data and fund utilization information creates significant transparency deficits that prevent meaningful accountability assessment, highlighting systemic issues in MP data availability and disclosure compliance.",
-  "validated_at": "2026-05-21T14:35:38.029902Z"
+  "validated_at": "2026-05-21T14:35:38.029902Z",
+  "assets": {
+    "total_assets": 14810368.0,
+    "liabilities": 0.0,
+    "net_worth": 14810368.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3465",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3465",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.04,
+    "expended": 0.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:43.806173Z",
+        "notes": "Official eSAKSHI REST API — Works: 133 recommended, 58 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 133,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.605442176870749
+  }
 }

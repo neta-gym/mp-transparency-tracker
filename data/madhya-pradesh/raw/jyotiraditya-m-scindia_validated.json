@@ -4,16 +4,16 @@
     "constituency": "Guna",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3613,
     "slug": "jyotiraditya-m-scindia",
     "house": "lok_sabha",
     "sansad_member_id": 3958,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Jyotiraditya M Scindia\n\n### Overall Assessment\nJyotiraditya M Scindia serves as the BJP MP for Guna, Madhya Pradesh, and currently holds ministerial position. This transparency assessment reveals significant data gaps across most evaluated categories, with evidence grades of 'C' for parliamentary activity and 'D' for accessibility. The limited available data prevents a comprehensive evaluation of his transparency and accountability record.\n\n### Fund Utilization & Development\nNo MPLADS data is available for entitled funds, releases, expenditure, or utilization rates. However, relevant CAG audit findings for Madhya Pradesh highlight systemic concerns: Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of sampled utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. These state-level findings suggest potential oversight challenges in development fund management, though specific data for Scindia's constituency remains unavailable.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a fundamental requirement for public accountability. Monthly compensation is listed at Rs 245,000, which appears to reflect standard parliamentary remuneration including ministerial allowances.\n\n### Legal & Criminal Standing\nScindia shows a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability. While the reported clean record is positive, the data quality caveat limits confidence in this assessment.\n\n### Parliamentary Performance\nParliamentary activity data shows concerning gaps, with no available information on attendance percentage, questions asked, debates participated in, or private bills introduced. The notation indicates Scindia serves as a minister, which typically results in lower recorded attendance due to executive duties taking precedence over parliamentary sessions. The 'C' evidence grade for parliamentary data suggests moderate reliability concerns.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited public discourse engagement. The accessibility evidence grade of 'D' suggests poor data availability for public engagement metrics. No committee data was found, potentially due to unavailable Sansad profiles, further limiting assessment of legislative engagement.\n\n### Data Quality & Caveats\nMultiple automated warnings indicate substantial data quality issues: low confidence ratings for criminal records, assets, MPLADS utilization, and parliamentary activity. Committee and legislative effectiveness data are entirely absent. Sources include PRS Legislative Research, social media, and news outlets, but coverage appears incomplete. The evidence grading system shows moderate confidence only in parliamentary data ('C') and poor confidence in accessibility metrics ('D').\n\n### Key Takeaway\nJyotiraditya M Scindia's transparency profile is severely hampered by extensive data gaps across critical accountability measures. While no negative indicators are present (clean criminal record, neutral media coverage), the absence of asset declarations, MPLADS utilization data, and detailed parliamentary performance metrics prevents meaningful transparency assessment. As a minister representing Guna constituency, comprehensive public disclosure of development fund utilization and asset growth would significantly enhance accountability. Citizens and stakeholders should advocate for improved data availability to enable proper evaluation of their representative's performance and transparency standards.",
-  "validated_at": "2026-05-21T14:24:05.884443Z"
+  "validated_at": "2026-05-21T14:24:05.884443Z",
+  "assets": {
+    "total_assets": 4247494078.0,
+    "liabilities": 4824000.0,
+    "net_worth": 4242670078.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3613",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3613",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.18,
+    "expended": 5.32,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:33.951717Z",
+        "notes": "Official eSAKSHI REST API — Works: 63 recommended, 61 sanctioned, 18 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 63,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.1904761904762
+  }
 }

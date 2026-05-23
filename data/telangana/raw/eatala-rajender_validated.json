@@ -4,16 +4,16 @@
     "constituency": "Malkajgiri",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5238,
     "slug": "eatala-rajender",
     "house": "lok_sabha",
     "sansad_member_id": 5731,
     "profile_url": null,
     "canonical_name": "Eatala Rajender",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Eatala Rajender\n\n### Overall Assessment\nEatala Rajender, BJP MP from Malkajgiri (Telangana), presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across multiple critical areas. With 90% attendance and active question-raising in Parliament, he demonstrates legislative engagement, though broader transparency metrics remain unclear due to incomplete disclosure patterns.\n\n### Fund Utilization & Development\n**No MPLADS data available** - entitled allocation, releases, expenditure, and utilization rates are all unreported, making it impossible to assess development fund performance. This represents a critical transparency gap given MPs' ₹5 crore annual MPLADS entitlement.\n\nCAG audit findings for Telangana highlight systemic concerns that may affect constituency development: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Rajender, his fund management effectiveness cannot be evaluated.\n\n### Financial Transparency\n**Asset disclosure data completely unavailable** - total assets, previous assets, growth ratios, and net worth are all unreported. This represents a significant transparency deficit, as asset declarations are mandatory for all MPs under election commission requirements. The absence of this fundamental financial information severely limits accountability assessment.\n\nMonthly compensation stands at ₹2.45 lakh, consistent with standard MP remuneration, but without asset context, overall financial transparency remains poor.\n\n### Legal & Criminal Standing\n**Clean criminal record reported** - zero total cases, serious charges, pending matters, disposed cases, and convictions. However, this data carries low confidence warnings, suggesting potential gaps in criminal background verification. While the reported clean slate is positive, the data quality concerns require noting.\n\n### Parliamentary Performance\n**Strong legislative engagement demonstrated** - 90% attendance rate significantly exceeds many MPs' participation levels. Rajender has raised 34 questions in Parliament, showing active constituency representation and policy engagement. However, participation in debates (3) and private member bills (0) indicates more limited legislative initiative beyond question-raising.\n\nThe evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics, though the core attendance and question figures appear robust.\n\n### Public Engagement & Accessibility\n**Limited visibility and accessibility** - news coverage spans 10 articles with predominantly neutral tone (9 neutral, 1 positive, 0 negative), suggesting low public profile or media engagement. The 'D' evidence grade for accessibility indicates poor data availability regarding public outreach, social media presence, or constituent services.\n\nNo committee membership data found, potentially indicating limited parliamentary committee participation, which typically enhances policy influence and public engagement opportunities.\n\n### Data Quality & Caveats\n**Significant data reliability concerns across multiple domains:**\n- Criminal record data flagged with low confidence warnings\n- Asset information completely unavailable despite mandatory disclosure requirements  \n- MPLADS utilization data entirely missing\n- Committee participation data absent\n- Legislative effectiveness metrics have low confidence ratings\n- Accessibility information severely limited with 'D' evidence grade\n\nThese gaps substantially limit comprehensive transparency assessment and suggest either incomplete disclosure compliance or data collection challenges.\n\n### Key Takeaway\nEatala Rajender demonstrates solid parliamentary attendance (90%) and question-raising activity (34 questions), indicating basic legislative engagement. However, his transparency profile is severely compromised by complete absence of asset disclosure data and MPLADS utilization information - two critical transparency pillars for MP accountability. While maintaining a clean reported criminal record, the extensive data quality warnings and missing financial information create significant transparency deficits that voters and oversight bodies should note when evaluating his performance and accountability standards.",
-  "validated_at": "2026-05-21T14:25:45.490458Z"
+  "validated_at": "2026-05-21T14:25:45.490458Z",
+  "assets": {
+    "total_assets": 540178712.0,
+    "liabilities": 204157216.0,
+    "net_worth": 336021496.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 45,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 45,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 24.5,
+    "released": 24.5,
+    "sanctioned": 11.79,
+    "expended": 1.9,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:49:05.169267Z",
+        "notes": "Official eSAKSHI REST API — Works: 219 recommended, 138 sanctioned, 12 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 219,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 7.755102040816326
+  }
 }

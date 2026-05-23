@@ -4,16 +4,16 @@
     "constituency": "Purulia",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7961,
     "slug": "jyotirmay-singh-mahato",
     "house": "lok_sabha",
     "sansad_member_id": 5053,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 39,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Jyotirmay Singh Mahato\n\n### Overall Assessment\n\nJyotirmay Singh Mahato, BJP MP representing Purulia constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Available evidence indicates moderate parliamentary engagement (75% attendance) but raises concerns about accessibility and financial transparency due to missing asset and MPLADS utilization data.\n\n### Fund Utilization & Development\n\nComplete absence of MPLADS (Member of Parliament Local Area Development Scheme) data severely hampers assessment of developmental fund utilization. No information is available regarding entitled amounts, funds released, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 18% of sampled works remaining incomplete or abandoned.\n\nThe lack of MPLADS transparency occurs against a backdrop of documented irregularities, with 34% of utilization certificates lacking proper supporting documentation according to CAG audits. Without specific data on Mahato's fund utilization, voters cannot assess his developmental impact in Purulia constituency.\n\n### Financial Transparency\n\nAsset disclosure presents a complete information void. No data is available for current total assets, previous holdings, growth ratios, or net worth calculations. This absence of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation during tenure.\n\nThe MP receives a total monthly compensation of Rs 245,000, but without asset declarations, the complete financial picture remains opaque. This lack of transparency falls short of public accountability standards expected from elected representatives.\n\n### Legal & Criminal Standing\n\nMahato maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. While this presents a positive legal profile, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. The clean record, if accurate, suggests absence of legal complications that might impede parliamentary duties.\n\n### Parliamentary Performance\n\nParliamentary attendance stands at 75%, indicating reasonable but not exemplary engagement with legislative responsibilities. Mahato has raised 13 questions in Parliament, demonstrating some level of constituency representation and issue advocacy. However, participation in debates remains at zero, and no private member bills have been introduced, suggesting limited proactive legislative contribution beyond questioning.\n\nThe absence of committee membership data (likely due to unavailable Sansad profile) prevents assessment of specialized parliamentary work. Overall parliamentary effectiveness appears moderate, with room for enhanced engagement in debates and legislative initiatives.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage detected. This neutral media presence suggests limited public visibility or controversial positioning. The evidence grade for accessibility (D) indicates poor performance in citizen engagement and public communication.\n\nSocial media presence and direct citizen interaction data remain unavailable, limiting assessment of grassroots connectivity. The low accessibility grade suggests potential challenges in constituency outreach and responsive governance.\n\n### Data Quality & Caveats\n\nSignificant data quality concerns pervade this assessment. Automated flags indicate low confidence in criminal record data, asset information, and MPLADS utilization figures. The absence of committee membership data and legislative effectiveness metrics further constrains comprehensive evaluation.\n\nEvidence grades reflect these limitations: parliament performance rated C (average confidence) and accessibility rated D (low confidence). Multiple warning flags highlight unavailable sources and incomplete datasets. These data gaps may result from inadequate disclosure practices or systematic transparency deficiencies rather than necessarily indicating poor performance.\n\n### Key Takeaway\n\nJyotirmay Singh Mahato's transparency profile is severely constrained by missing critical data across asset declarations, development fund utilization, and accessibility metrics. While maintaining a clean legal record and moderate parliamentary attendance, the absence of financial transparency and unclear development impact raises accountability concerns. The neutral media coverage and poor accessibility grade suggest limited public engagement. Voters in Purulia constituency lack essential information to fully evaluate their representative's performance, highlighting the need for improved disclosure practices and enhanced transparency mechanisms. Without comprehensive MPLADS and asset data, assessing Mahato's effectiveness as a public representative remains incomplete.",
-  "validated_at": "2026-05-21T14:37:06.559491Z"
+  "validated_at": "2026-05-21T14:37:06.559491Z",
+  "assets": {
+    "total_assets": 595229.0,
+    "liabilities": 0.0,
+    "net_worth": 595229.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7961",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7961",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 1.54,
+    "expended": 0.0,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:47.307895Z",
+        "notes": "Official eSAKSHI REST API — Works: 65 recommended, 41 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 65,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 0.0
+  }
 }

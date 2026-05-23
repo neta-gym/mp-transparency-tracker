@@ -4,16 +4,16 @@
     "constituency": "Bhadrak",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9413,
     "slug": "avimanyu-sethi",
     "house": "lok_sabha",
     "sansad_member_id": 5610,
     "profile_url": null,
     "canonical_name": "Avimanyu Sethi",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 53,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Avimanyu Sethi\n\n### Overall Assessment\n\nAvimanyu Sethi, BJP MP from Bhadrak, Odisha, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and satisfactory parliamentary attendance (90%), critical financial and developmental data remains unavailable. The profile suggests a parliamentarian with basic engagement but lacks depth in measurable development outcomes.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, preventing assessment of Sethi's development project execution. This data gap is concerning given CAG audit findings revealing systemic issues in fund utilization across Indian districts. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts nationwide, with Odisha reporting 7 relevant audit findings. Additionally, 34% of utilization certificates lacked proper documentation, and 18% of sampled works were incomplete or abandoned - highlighting broader governance challenges in Sethi's operational environment.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, preventing any analysis of wealth accumulation, growth patterns, or potential conflicts of interest. This represents a significant transparency gap, as asset disclosure is fundamental to public accountability. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without baseline or comparative asset data, financial transparency assessment is impossible.\n\n### Legal & Criminal Standing\n\nSethi maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the clean record appears positive, the reliability caveat prevents definitive assessment.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. Sethi demonstrates strong attendance discipline at 90%, indicating consistent presence in legislative proceedings. However, substantive participation remains limited with only 5 questions raised and 2 debate contributions. Zero private member bills suggest minimal legislative initiative. The overall parliamentary activity grade of 'C' reflects adequate but unremarkable engagement levels. No committee assignment data is available, potentially indicating limited specialized parliamentary roles.\n\n### Public Engagement & Accessibility\n\nPublic engagement metrics indicate minimal digital presence and accessibility. News coverage analysis of 10 articles shows entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse generation or media attention. Social media and accessibility grades of 'D' indicate poor public outreach mechanisms. This low-profile approach may limit constituent communication and feedback channels.\n\n### Data Quality & Caveats\n\nMultiple data quality warnings significantly limit assessment reliability:\n- Criminal records: Low confidence due to source unavailability\n- Assets: Low confidence in financial data\n- MPLADS: Complete absence of development fund data\n- Committees: No committee information available\n- Legislative effectiveness: Low confidence ratings\n\nThese limitations stem from potentially unavailable Sansad profiles and incomplete data sources, affecting nearly every transparency metric.\n\n### Key Takeaway\n\nAvimanyu Sethi's transparency profile suffers from extensive data gaps that prevent comprehensive accountability assessment. While maintaining clean criminal records and adequate parliamentary attendance, the absence of critical financial, developmental, and engagement data raises transparency concerns. The systemic fund utilization issues identified in CAG audits for Odisha underscore the importance of accessing MPLADS data for meaningful development assessment. Improved data availability and enhanced public engagement mechanisms are essential for establishing robust transparency credentials.",
-  "validated_at": "2026-05-21T14:28:42.093625Z"
+  "validated_at": "2026-05-21T14:28:42.093625Z",
+  "assets": {
+    "total_assets": 70794290.0,
+    "liabilities": 10659172.0,
+    "net_worth": 60135118.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9413",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9413",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.59,
+    "expended": 1.31,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:24.489208Z",
+        "notes": "Official eSAKSHI REST API — Works: 271 recommended, 203 sanctioned, 12 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 271,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 8.91156462585034
+  }
 }

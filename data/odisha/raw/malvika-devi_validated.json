@@ -4,16 +4,16 @@
     "constituency": "Kalahandi",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5174,
     "slug": "malvika-devi",
     "house": "lok_sabha",
     "sansad_member_id": 5624,
     "profile_url": null,
     "canonical_name": "Malvika Devi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 43,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Malvika Devi\n\n### Overall Assessment\n\nMalvika Devi, BJP MP from Kalahandi, Odisha, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance (90%), the assessment is hampered by missing critical information across multiple transparency indicators. Her representation of Kalahandi, a historically underdeveloped district, makes transparency in fund utilization particularly important for constituents.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is completely unavailable, preventing assessment of her development work effectiveness. This data gap is concerning given CAG audit findings revealing systemic issues in Odisha's fund management. The CAG's 2010 audit identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to evaluate whether these systemic issues affect her constituency's development projects.\n\n### Financial Transparency\n\nAsset disclosure information is entirely missing, creating a significant transparency gap. No data is available regarding her total assets, previous holdings, growth patterns, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation of Rs 2,45,000 represents the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\n\nOfficial records indicate zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat as automated systems flag low confidence in criminal data availability, suggesting the source may be unreliable or incomplete. While the absence of recorded cases is positive, the data quality concern prevents definitive assessment of her legal standing.\n\n### Parliamentary Performance\n\nMalvika Devi demonstrates strong parliamentary engagement with 90% attendance, significantly above average parliamentary attendance rates. Her legislative activity includes 30 questions raised and participation in 15 debates, indicating active constituency representation and policy engagement. However, she has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The evidence grade of 'C' for parliament data indicates moderate confidence in these metrics.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with notably neutral tone - zero positive, zero negative, and 10 neutral articles. This neutral coverage pattern may indicate either balanced reporting or limited media attention to her activities. The accessibility evidence grade of 'D' suggests poor data availability regarding public engagement metrics. No committee assignment data is available, preventing assessment of her specialized parliamentary roles or policy expertise areas.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS utilization data is missing entirely. Committee membership information is absent, suggesting potential unavailability of her Sansad profile. The evidence grading system rates parliament data as 'C' (moderate confidence) and accessibility as 'D' (poor confidence). These limitations severely constrain comprehensive transparency assessment and suggest either data collection challenges or potential lack of proactive disclosure.\n\n### Key Takeaway\n\nWhile Malvika Devi maintains strong parliamentary attendance and shows no recorded criminal issues, her transparency profile is significantly compromised by missing critical data across asset disclosure, fund utilization, and public engagement metrics. The systemic fund management issues identified by CAG audits in Odisha make the absence of MPLADS data particularly concerning for constituents seeking accountability. Voters and oversight bodies should prioritize obtaining complete disclosure information to enable proper evaluation of her performance and transparency standards.",
-  "validated_at": "2026-05-21T14:21:20.871549Z"
+  "validated_at": "2026-05-21T14:21:20.871549Z",
+  "assets": {
+    "total_assets": 418901050.0,
+    "liabilities": 0.0,
+    "net_worth": 418901050.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5174",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5174",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.59,
+    "expended": 3.86,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:29.577249Z",
+        "notes": "Official eSAKSHI REST API — Works: 320 recommended, 214 sanctioned, 93 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 320,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 26.258503401360546
+  }
 }

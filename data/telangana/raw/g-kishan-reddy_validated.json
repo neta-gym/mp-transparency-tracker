@@ -4,16 +4,16 @@
     "constituency": "Secunderabad",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5251,
     "slug": "g-kishan-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 5084,
     "profile_url": null,
     "canonical_name": "G Kishan Reddy",
     "name_aliases": [],
-    "education": null,
+    "education": "Others",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: G Kishan Reddy\n\n### Overall Assessment\nG Kishan Reddy, representing Secunderabad constituency in Telangana for the Bharatiya Janata Party, presents a limited transparency profile due to significant data gaps across multiple key indicators. As a sitting Minister in the Lok Sabha, his executive duties may account for some variations in typical parliamentary metrics, though comprehensive assessment remains challenging given data quality issues.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for constituency development assessment. However, relevant CAG audit findings from Telangana highlight systemic concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings provide important context for development fund management in the region.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data on total assets, previous holdings, growth ratios, or net worth. This creates a significant transparency deficit regarding financial standing and potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\nThe criminal record shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal profile. However, data quality warnings suggest low confidence in this information due to potentially unavailable source data, requiring cautious interpretation of these figures.\n\n### Parliamentary Performance\nParliamentary activity data is severely limited, showing zero questions asked, zero debates participated, and zero private bills introduced, with no attendance percentage recorded. While the MP's ministerial status may legitimately impact traditional parliamentary metrics due to executive responsibilities, the complete absence of activity data raises questions about legislative engagement. Committee participation information is entirely unavailable, further limiting performance assessment.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse or potentially balanced reporting. Social media and public engagement metrics beyond news coverage are not provided. The accessibility grade of 'D' indicates poor public information availability, significantly hampering citizen oversight capabilities.\n\n### Data Quality & Caveats\nMultiple critical data quality warnings affect this assessment:\n- Criminal records, assets, MPLADS, and parliamentary activity all carry low confidence ratings\n- No committee membership data available, potentially indicating Sansad profile unavailability\n- Legislative effectiveness data has low confidence levels\n- Evidence grades show 'C' for parliament data and 'D' for accessibility\n\nThese limitations substantially compromise the reliability of this transparency assessment and highlight systemic issues in public data availability for this MP.\n\n### Key Takeaway\nG Kishan Reddy's transparency profile is severely hampered by extensive data gaps across virtually all key indicators, making meaningful assessment extremely difficult. While his clean criminal record and ministerial position are notable, the absence of financial disclosures, development fund utilization data, and parliamentary activity metrics creates significant transparency deficits. The systemic CAG audit findings in Telangana underscore the importance of robust oversight mechanisms, which cannot be effectively applied without better data availability. Citizens and oversight bodies require substantial improvements in data collection and disclosure to properly evaluate this MP's performance and accountability.",
-  "validated_at": "2026-05-21T14:27:19.994283Z"
+  "validated_at": "2026-05-21T14:27:19.994283Z",
+  "assets": {
+    "total_assets": 192241721.0,
+    "liabilities": 16300000.0,
+    "net_worth": 175941721.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5251",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5251",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.4,
+    "expended": 0.04,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:49:05.924837Z",
+        "notes": "Official eSAKSHI REST API — Works: 35 recommended, 16 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 35,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 0.272108843537415
+  }
 }

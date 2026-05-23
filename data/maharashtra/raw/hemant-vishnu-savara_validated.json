@@ -4,16 +4,16 @@
     "constituency": "Palghar",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7349,
     "slug": "hemant-vishnu-savara",
     "house": "lok_sabha",
     "sansad_member_id": 5669,
     "profile_url": null,
     "canonical_name": "Hemant Vishnu Savara",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Hemant Vishnu Savara\n\n### Overall Assessment\nHemant Vishnu Savara, BJP MP from Palghar, Maharashtra, presents a mixed transparency profile with adequate parliamentary attendance but significant data gaps across key accountability metrics. While maintaining a clean criminal record and reasonable participation in parliamentary proceedings, the absence of crucial financial and developmental data severely limits comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS funds are a primary mechanism for constituency development. The CAG audit context reveals systemic issues in Maharashtra's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Savara's MPLADS performance, constituents cannot assess his effectiveness in securing and utilizing development funds.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, with no information on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents evaluation of wealth accumulation patterns or potential conflicts of interest. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration. The lack of asset data significantly undermines public accountability.\n\n### Legal & Criminal Standing\nSavara maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, suggesting potential source limitations. Despite this caveat, the clean criminal record represents a positive aspect of his public service profile.\n\n### Parliamentary Performance\nSavara demonstrates solid parliamentary engagement with 85% attendance, significantly above average participation levels. He has asked 69 questions and participated in 10 debates, indicating active involvement in legislative proceedings. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The parliament activity grade of 'C' reflects adequate but not exceptional performance in formal parliamentary duties.\n\n### Public Engagement & Accessibility\nMedia coverage analysis shows 10 news articles, all neutral in sentiment with no positive or negative coverage identified. This neutral media presence suggests either limited public visibility or absence of controversial activities. The accessibility grade of 'D' indicates poor public engagement metrics, potentially limiting constituent communication and feedback mechanisms. Committee participation data is unavailable, preventing assessment of his role in specialized legislative work.\n\n### Data Quality & Caveats\nThis analysis faces significant data quality limitations across multiple domains. Criminal record data has low confidence due to potential source unavailability. Asset information is completely missing, severely limiting financial transparency assessment. MPLADS data is unavailable, preventing evaluation of constituency development work. Committee membership information is absent, and legislative effectiveness data has low confidence ratings. These gaps substantially constrain the comprehensiveness of this transparency evaluation.\n\n### Key Takeaway\nWhile Hemant Vishnu Savara maintains a clean criminal record and demonstrates reasonable parliamentary attendance, the extensive absence of financial, developmental, and detailed legislative data creates significant transparency concerns. The complete lack of asset disclosure and MPLADS information, combined with neutral media coverage and poor accessibility metrics, suggests limited public accountability mechanisms. Constituents lack access to crucial information needed to evaluate his effectiveness in fund utilization, wealth management, and constituency development. Improved data disclosure across all transparency metrics is essential for meaningful public oversight.",
-  "validated_at": "2026-05-21T14:35:54.912166Z"
+  "validated_at": "2026-05-21T14:35:54.912166Z",
+  "assets": {
+    "total_assets": 81622050.0,
+    "liabilities": 10776056.0,
+    "net_worth": 70845994.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7349",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7349",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.52,
+    "expended": 0.2,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:06.231789Z",
+        "notes": "Official eSAKSHI REST API — Works: 80 recommended, 7 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 80,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.360544217687075
+  }
 }

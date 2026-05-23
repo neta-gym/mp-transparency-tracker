@@ -4,16 +4,16 @@
     "constituency": "Bangalore Rural",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2597,
     "slug": "c-n-manjunath",
     "house": "lok_sabha",
     "sansad_member_id": 5590,
     "profile_url": null,
     "canonical_name": "C N Manjunath",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: C N Manjunath\n\n### Overall Assessment\nC N Manjunath, BJP MP from Bangalore Rural constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary participation shows reasonable engagement with 70% attendance and active questioning, critical transparency indicators including asset disclosures and MPLADS utilization data are unavailable. The MP demonstrates legislative initiative with 3 private member bills but faces challenges in broader public accessibility metrics.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, preventing assessment of the MP's development fund utilization. This represents a significant transparency gap given that each MP is entitled to ₹5 crore annually under the scheme. The absence of data on entitled amounts, releases, expenditure, and utilization percentages makes it impossible to evaluate developmental impact or fiscal responsibility. Karnataka-specific CAG audit findings reveal systemic concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.\n\n### Financial Transparency\nAsset disclosure data is entirely missing, representing a critical transparency failure. No information is available regarding total assets, previous declarations, growth ratios, or net worth calculations. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP's monthly compensation is documented at ₹245,000, but without asset context, comprehensive financial transparency cannot be evaluated. The complete absence of financial disclosure data significantly undermines public accountability.\n\n### Legal & Criminal Standing\nThe MP reports a clean criminal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the clean record is positive for public trust, the low confidence rating necessitates cautious interpretation of this finding.\n\n### Parliamentary Performance\nManjunath demonstrates solid parliamentary engagement with 70% attendance, surpassing many peers' participation rates. His legislative activity includes 73 questions raised, 17 debate participations, and 3 private member bills introduced, indicating active representation of constituency interests. The introduction of private member bills suggests policy initiative beyond party lines. However, zero hour submissions and special mentions both register zero, indicating limited use of these parliamentary mechanisms for raising urgent constituency issues.\n\n### Public Engagement & Accessibility\nPublic engagement metrics reveal concerning limitations. News coverage analysis of 10 articles shows entirely neutral sentiment with no positive or negative coverage identified, suggesting limited public discourse around the MP's activities. The evidence grade for accessibility rates poorly at 'D', indicating significant challenges in public outreach and communication. No committee participation data is available, potentially limiting cross-party collaboration and specialized policy contribution opportunities.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data quality issues across key transparency indicators. Low confidence warnings apply to criminal records, assets, MPLADS utilization, and legislative effectiveness data. Parliament performance receives only a 'C' grade for evidence quality. The absence of committee information suggests incomplete Sansad profile availability. These data gaps substantially limit the reliability of transparency assessments and indicate systemic issues with information disclosure or collection processes.\n\n### Key Takeaway\nWhile C N Manjunath maintains reasonable parliamentary attendance and legislative activity, his transparency profile is severely compromised by missing critical data across asset declarations, MPLADS utilization, and public engagement metrics. The complete absence of financial transparency information and low-confidence criminal data create significant accountability gaps. Though his clean reported criminal record and active questioning in parliament are positive indicators, the overall assessment is hindered by data unavailability rather than concerning findings, suggesting systemic transparency infrastructure limitations rather than individual misconduct.",
-  "validated_at": "2026-05-21T14:28:36.683828Z"
+  "validated_at": "2026-05-21T14:28:36.683828Z",
+  "assets": {
+    "total_assets": 983883816.0,
+    "liabilities": 148146673.0,
+    "net_worth": 835737143.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2597",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2597",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.33,
+    "expended": 5.15,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:09.089448Z",
+        "notes": "Official eSAKSHI REST API — Works: 200 recommended, 128 sanctioned, 36 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 200,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 35.03401360544218
+  }
 }

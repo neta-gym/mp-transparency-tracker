@@ -4,16 +4,16 @@
     "constituency": "Ahmednagar",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5328,
     "slug": "nilesh-dnyandev-lanke",
     "house": "lok_sabha",
     "sansad_member_id": 5821,
     "profile_url": null,
     "canonical_name": "Nilesh Dnyandev Lanke",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 44,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Nilesh Dnyandev Lanke\n\n### Overall Assessment\nNilesh Dnyandev Lanke, representing Ahmednagar constituency in Maharashtra under the Nationalist Congress Party - Sharadchandra Pawar, presents a transparency profile characterized by limited data availability across most key governance indicators. While maintaining a clean legal record and reasonable parliamentary attendance, significant gaps exist in financial and developmental data that impede comprehensive assessment of his constituency service effectiveness.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, showing no information on entitlement, release, or expenditure figures. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Lanke's constituency, his fund utilization performance remains unverifiable.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap, as asset declarations are mandatory for elected representatives. The MP's monthly compensation is recorded at Rs 2,45,000, providing the only available financial data point. The absence of asset information significantly hampers assessment of financial transparency and potential conflicts of interest.\n\n### Legal & Criminal Standing\nLanke maintains a clean criminal record with zero cases across all categories - no total cases, serious offenses, pending matters, disposed cases, or convictions. This represents a positive indicator for ethical governance standards. However, a warning flag indicates low confidence in criminal data due to potential source unavailability, suggesting this clean record may reflect data gaps rather than verified information.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 85% attendance, demonstrating reasonable commitment to legislative duties. Lanke has raised 64 questions, indicating active constituency representation and policy engagement. However, his participation in debates is limited to 4 instances, and he has introduced zero private bills, suggesting minimal legislative initiative. The evidence grade for parliamentary data is 'C', indicating moderate reliability of these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting limited public visibility or controversial issues. The accessibility evidence grade is 'D', indicating poor data quality regarding public engagement metrics. No committee membership data is available, limiting assessment of his specialized legislative contributions. Social media presence data, while collected, lacks specific metrics for meaningful analysis.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence flags due to source unavailability. Asset information is entirely missing, raising transparency concerns. MPLADS data is unavailable despite being crucial for constituency development assessment. Committee membership information is absent, suggesting Sansad profile unavailability. Legislative effectiveness data confidence is low, limiting performance evaluation accuracy.\n\nThe evidence grading system rates parliamentary data as 'C' (moderate) and accessibility as 'D' (poor), indicating substantial limitations in data comprehensiveness and reliability across key transparency indicators.\n\n### Key Takeaway\nWhile Nilesh Dnyandev Lanke demonstrates basic parliamentary engagement with clean legal standing and reasonable attendance, his transparency profile is severely hampered by missing critical data across financial disclosures, development fund utilization, and detailed legislative contributions. The extensive data gaps, particularly in mandatory asset declarations and MPLADS utilization, prevent comprehensive assessment of his governance effectiveness and raise concerns about transparency compliance. Citizens and oversight bodies should prioritize obtaining complete disclosure information to enable proper accountability evaluation.",
-  "validated_at": "2026-05-21T14:31:07.428196Z"
+  "validated_at": "2026-05-21T14:31:07.428196Z",
+  "assets": {
+    "total_assets": 4554561.0,
+    "liabilities": 3748757.0,
+    "net_worth": 805804.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5328",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5328",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.05,
+    "expended": 1.54,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:11.581621Z",
+        "notes": "Official eSAKSHI REST API — Works: 74 recommended, 21 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 74,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.476190476190476
+  }
 }

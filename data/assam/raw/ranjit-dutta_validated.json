@@ -4,16 +4,16 @@
     "constituency": "Sonitpur",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 741,
     "slug": "ranjit-dutta",
     "house": "lok_sabha",
     "sansad_member_id": 5606,
     "profile_url": null,
     "canonical_name": "Ranjit Dutta",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 67,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Ranjit Dutta\n\n### Overall Assessment\nRanjit Dutta represents the Sonitpur constituency in Assam as a Bharatiya Janata Party (BJP) member of the Lok Sabha. His transparency profile shows limited public disclosure of key financial and developmental data, with significant gaps in asset declaration and MPLADS utilization reporting. While maintaining clean criminal records and reasonable parliamentary attendance, the overall transparency framework suffers from substantial data unavailability across multiple dimensions.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. CAG audit findings for Assam reveal systemic concerns that may impact Sonitpur: Rs 1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level findings suggest potential implementation challenges that warrant attention in Dutta's constituency.\n\n### Financial Transparency\nAsset declaration data is completely absent, with no information available on current total assets, previous assets, growth ratios, or net worth calculations. This represents a significant transparency deficit as asset disclosure is mandatory for elected representatives. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset data, comprehensive financial transparency assessment is impossible.\n\n### Legal & Criminal Standing\nRanjit Dutta maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. This positive indicator suggests adherence to legal standards expected of public representatives. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Dutta maintains 90% attendance, which exceeds typical parliamentary averages and demonstrates commitment to legislative responsibilities. However, his substantive participation appears limited with only 8 questions raised, zero participation in debates, and no private bills introduced. This suggests minimal active contribution to parliamentary discourse and legislative initiatives beyond physical presence.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage, suggesting limited public visibility or controversial positioning. The absence of strong media presence may indicate either effective non-controversial representation or insufficient public engagement. Social media and accessibility data show low confidence ratings (Evidence grade 'D' for accessibility), suggesting limited digital engagement with constituents.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence due to source unavailability. Asset information is entirely missing with low confidence ratings. MPLADS data is unavailable with low confidence. No committee membership information is available, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality concerns. Only 7 relevant CAG audit findings were available for Assam context.\n\n### Key Takeaway\nRanjit Dutta presents a transparency profile characterized by clean criminal records and adequate parliamentary attendance but severely limited by data unavailability across critical areas including asset disclosure and development fund utilization. While maintaining legal compliance and basic parliamentary participation, the substantial gaps in financial and developmental transparency prevent comprehensive assessment of his effectiveness as a public representative. Improved data disclosure would significantly enhance accountability and public trust.",
-  "validated_at": "2026-05-21T14:22:51.975543Z"
+  "validated_at": "2026-05-21T14:22:51.975543Z",
+  "assets": {
+    "total_assets": 89792194.0,
+    "liabilities": 24261374.0,
+    "net_worth": 65530820.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=741",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=741",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.04,
+    "expended": 5.36,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:28.265992Z",
+        "notes": "Official eSAKSHI REST API — Works: 125 recommended, 108 sanctioned, 12 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 125,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 36.462585034013614
+  }
 }

@@ -488,5 +488,73 @@
     }
   ],
   "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 117,039,798. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 1. Low confidence data: MPLADS. 1 warning(s) noted.",
-  "validated_at": "2026-05-23T00:01:02.756818Z"
+  "validated_at": "2026-05-23T00:01:02.756818Z",
+  "assets": {
+    "total_assets": 117039798.0,
+    "liabilities": 60645587.0,
+    "net_worth": 56394211.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7896",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7896",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.75,
+    "released": 14.75,
+    "sanctioned": 4.48,
+    "expended": 1.98,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:28.259811Z",
+        "notes": "Official eSAKSHI REST API — Works: 59 recommended, 52 sanctioned, 7 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 59,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 13.423728813559322
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Tonk-Sawai Madhopur",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2583,
     "slug": "harish-chandra-meena",
     "house": "lok_sabha",
     "sansad_member_id": 4640,
     "profile_url": null,
     "canonical_name": "Harish Chandra Meena",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 69,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Harish Chandra Meena\n\n### Overall Assessment\n\nHarish Chandra Meena, Indian National Congress MP from Tonk-Sawai Madhopur constituency in Rajasthan, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), substantial information is missing across critical areas including asset declarations and MPLADS fund utilization. The available data suggests basic parliamentary engagement but raises concerns about overall transparency due to incomplete disclosure patterns.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap given that MPLADS funds are a primary tool for constituency development. The CAG audit context reveals systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Meena's MPLADS performance, constituents cannot assess his development track record or fund management effectiveness.\n\n### Financial Transparency\n\nAsset disclosure information is completely absent, with no data available on current holdings, previous declarations, or growth patterns. This absence of financial transparency data makes it impossible to evaluate potential conflicts of interest or wealth accumulation patterns during his tenure. The MP's monthly compensation is documented at Rs 2,45,000, representing the only available financial data point. This lack of asset information significantly undermines transparency assessment capabilities.\n\n### Legal & Criminal Standing\n\nHarish Chandra Meena maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, the data carries a low confidence warning, indicating potential source availability issues. While the current record appears clean, the data quality caveat suggests this assessment should be treated with caution until more reliable criminal background verification is available.\n\n### Parliamentary Performance\n\nMeena demonstrates moderate parliamentary engagement with 85% attendance, indicating regular participation in house proceedings. His legislative activity includes 32 questions raised and participation in 4 debates, suggesting active constituency representation through questioning mechanisms. However, he has introduced zero private member bills, indicating limited legislative initiative beyond government business. The absence of committee membership data (flagged as unavailable due to potential Sansad profile issues) prevents full assessment of his specialized parliamentary contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative pieces), suggesting limited public discourse engagement or controversial positions. This neutral media profile, while avoiding negative coverage, may indicate insufficient public visibility for effective constituency representation. The evidence grade for accessibility is particularly poor (Grade D), suggesting limited transparency in public communication or information sharing. No social media engagement metrics are available despite social media being listed as a source.\n\n### Data Quality & Caveats\n\nMultiple automated flags indicate significant data reliability concerns. Criminal record data carries low confidence warnings, asset information is entirely unavailable, and MPLADS data is missing completely. Committee membership information is unavailable due to potential Sansad profile access issues, and legislative effectiveness data has low confidence ratings. Evidence grading shows poor performance in parliament (Grade C) and accessibility (Grade D). These data gaps severely limit comprehensive transparency assessment capabilities.\n\n### Key Takeaway\n\nHarish Chandra Meena's transparency profile is characterized by significant information gaps that prevent comprehensive evaluation of his performance as a public representative. While maintaining a clean criminal record and reasonable parliamentary attendance, the absence of critical data on asset declarations and MPLADS utilization raises serious transparency concerns. The systemic CAG findings regarding fund mismanagement in Rajasthan, combined with missing utilization data, create accountability gaps that constituents cannot properly assess. Improved data disclosure and transparency mechanisms are essential for meaningful democratic oversight of his parliamentary tenure.",
-  "validated_at": "2026-05-21T14:27:09.696897Z"
+  "validated_at": "2026-05-21T14:27:09.696897Z",
+  "assets": {
+    "total_assets": 230794780.0,
+    "liabilities": 0.0,
+    "net_worth": 230794780.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2583",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2583",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.0,
+    "expended": 0.0,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:55.266394Z",
+        "notes": "Official eSAKSHI REST API — Works: 0 recommended, 0 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 0,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 0.0
+  }
 }

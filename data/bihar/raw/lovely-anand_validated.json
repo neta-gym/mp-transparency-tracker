@@ -4,16 +4,16 @@
     "constituency": "Sheohar",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7890,
     "slug": "lovely-anand",
     "house": "lok_sabha",
     "sansad_member_id": 3464,
     "profile_url": null,
     "canonical_name": "Lovely Anand",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 57,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Lovely Anand\n\n### Overall Assessment\nLovely Anand, representing Sheohar constituency in Bihar under the Janata Dal (United) party, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance at 95%, comprehensive assessment is hampered by missing financial data and low-confidence criminal record information. The MP demonstrates basic legislative engagement but faces substantial data quality challenges across multiple transparency metrics.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing the MP's effectiveness in constituency development. The broader context reveals systemic concerns in Bihar's fund management, with CAG audits identifying Rs 1,558 crore in idle funds lying unspent across district authorities' accounts. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of works were abandoned or incomplete, indicating widespread implementation challenges in the state's development programs.\n\n### Financial Transparency\nAsset disclosure presents a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This fundamental gap prevents any assessment of financial transparency or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but the absence of asset declarations raises significant transparency concerns and limits public accountability.\n\n### Legal & Criminal Standing\nThe MP reports zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, this clean record comes with a critical caveat: the source data carries low confidence warnings, suggesting potential unavailability or unreliability of criminal record information. This uncertainty undermines the reliability of the reported clean legal standing.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity with 95% attendance, demonstrating consistent presence in the Lok Sabha. Legislative participation includes 10 questions raised and 11 debates participated in, indicating basic parliamentary engagement. However, the MP has introduced zero private bills, suggesting limited initiative in legislative innovation. The overall parliament evidence grade of 'C' reflects adequate but unremarkable performance levels.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles, all categorized as neutral with zero positive or negative sentiment pieces. This neutral coverage suggests limited public discourse engagement or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee data was found, suggesting either non-participation in parliamentary committees or unavailable profile information, further limiting assessment of specialized legislative contributions.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence ratings, fundamentally limiting financial transparency assessment. MPLADS data is entirely unavailable, preventing fund utilization analysis. Committee information is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These cumulative data quality issues severely constrain comprehensive transparency evaluation.\n\n### Key Takeaway\nLovely Anand's transparency profile is characterized by basic parliamentary compliance with strong attendance but hampered by critical data gaps across financial disclosure, fund utilization, and criminal record verification. While maintaining clean legal standing and moderate legislative engagement, the absence of asset declarations and MPLADS data, combined with low-confidence criminal records, prevents meaningful transparency assessment. The MP requires improved data disclosure practices and enhanced public engagement mechanisms to meet modern accountability standards expected of elected representatives.",
-  "validated_at": "2026-05-21T14:21:08.578447Z"
+  "validated_at": "2026-05-21T14:21:08.578447Z",
+  "assets": {
+    "total_assets": 94553723.0,
+    "liabilities": 3169916.0,
+    "net_worth": 91383807.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7890",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7890",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.12,
+    "expended": 2.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:42.046338Z",
+        "notes": "Official eSAKSHI REST API — Works: 73 recommended, 39 sanctioned, 21 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 73,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 15.306122448979592
+  }
 }

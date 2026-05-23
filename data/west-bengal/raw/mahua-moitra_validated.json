@@ -4,16 +4,16 @@
     "constituency": "Krishnanagar",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5085,
     "slug": "mahua-moitra",
     "house": "lok_sabha",
     "sansad_member_id": 5049,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mahua Moitra\n\n### Overall Assessment\nMahua Moitra, representing Krishnanagar constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (95.0%), critical financial and development-related information remains unavailable, hampering full accountability assessment.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic concerns in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project implementation oversight.\n\n### Financial Transparency\nAsset disclosure presents major transparency challenges with no available data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2.45 lakh, representing standard MP remuneration.\n\n### Legal & Criminal Standing\nThe criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), indicating a clean legal profile. However, data quality warnings suggest low confidence in criminal record information due to potentially unavailable sources, limiting the reliability of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with excellent attendance at 95.0%, demonstrating consistent presence in the House. However, legislative activity appears limited with only 1 question raised, 3 debate participations, and no private member bills introduced. No committee participation data is available due to unavailable Sansad profiles, preventing assessment of detailed legislative work.\n\n### Public Engagement & Accessibility\nNews coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 negative, 0 positive), suggesting mixed public perception. The low evidence grade for accessibility (D) indicates limited transparency in public communication channels. Social media presence is noted as a data source but specific metrics are not provided.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment:\n- Criminal record data carries low confidence warnings\n- Asset information is completely unavailable\n- MPLADS data shows low confidence ratings\n- Committee participation data is missing due to unavailable Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n- Parliament activity evidence grade is C, indicating moderate reliability\n- Overall accessibility evidence grade is D, suggesting poor transparency\n\n### Key Takeaway\nMahua Moitra's transparency profile is severely limited by extensive data gaps, particularly in financial disclosures and development fund utilization. While maintaining strong parliamentary attendance and a clean criminal record, the absence of critical financial and MPLADS information, combined with systemic fund management issues highlighted in CAG audits for West Bengal, raises significant transparency concerns. Enhanced data availability and disclosure practices are essential for meaningful accountability assessment.",
-  "validated_at": "2026-05-21T14:34:11.308499Z"
+  "validated_at": "2026-05-21T14:34:11.308499Z",
+  "assets": {
+    "total_assets": 35067166.0,
+    "liabilities": 0.0,
+    "net_worth": 35067166.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5085",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5085",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.99,
+    "released": 15.99,
+    "sanctioned": 9.92,
+    "expended": 3.72,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:52:54.204598Z",
+        "notes": "Official eSAKSHI REST API — Works: 48 recommended, 47 sanctioned, 16 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 48,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 23.26454033771107
+  }
 }

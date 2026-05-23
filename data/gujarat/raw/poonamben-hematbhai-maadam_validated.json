@@ -4,16 +4,16 @@
     "constituency": "Jamnagar",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5028,
     "slug": "poonamben-hematbhai-maadam",
     "house": "lok_sabha",
     "sansad_member_id": 4751,
     "profile_url": null,
     "canonical_name": "Poonamben Hematbhai Maadam",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 49,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Poonamben Hematbhai Maadam\n\n### Overall Assessment\nPoonamben Hematbhai Maadam, BJP MP from Jamnagar, Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and strong parliamentary attendance, critical financial and asset disclosure information is unavailable, raising concerns about overall transparency assessment capabilities.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a significant transparency gap for evaluating the MP's development initiatives in Jamnagar constituency. The absence of utilization percentage data prevents assessment of fund deployment effectiveness, particularly concerning given CAG audit findings highlighting systemic issues in fund management across Gujarat.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available for current assets, previous holdings, growth ratios, or net worth calculations. This represents a critical transparency deficit, as asset declarations are fundamental for public accountability. The MP's monthly compensation is recorded at ₹245,000, but without asset context, comprehensive financial transparency cannot be assessed.\n\n### Legal & Criminal Standing\nThe MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data confidence is flagged as low due to potential source unavailability, warranting cautious interpretation of this positive indicator. No legal complications or ongoing proceedings are recorded in available sources.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with strong attendance (90.0%) demonstrating commitment to legislative duties. The MP has raised 55 questions, indicating active constituency representation, and participated in 5 debates, showing moderate engagement in policy discussions. However, no private member bills were introduced, suggesting limited legislative initiative beyond party lines. Committee participation data is unavailable due to inaccessible Sansad profiles.\n\n### Public Engagement & Accessibility\nPublic engagement metrics show limited visibility with only 10 news articles identified, all neutral in sentiment with no positive or negative coverage recorded. This suggests either limited media engagement or restricted public communication activities. Social media presence and direct accessibility measures are not adequately captured in available data sources, limiting assessment of constituent interaction channels.\n\n### Data Quality & Caveats\nData quality presents significant limitations with evidence grades of 'C' for parliamentary information and 'D' for accessibility metrics. Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data due to source unavailability. Legislative effectiveness data confidence is also flagged as low. The analysis relies on PRS, social media, and news sources, but critical government transparency portals appear inaccessible for this MP's profile.\n\nCAG audit context reveals systemic concerns in Gujarat's fund management, including ₹1,558 crore lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These findings highlight the importance of robust MPLADS monitoring, making the absence of such data particularly concerning.\n\n### Key Takeaway\nWhile Poonamben Hematbhai Maadam maintains clean criminal records and demonstrates solid parliamentary attendance, the absence of critical financial and development fund data severely limits transparency assessment. The complete lack of asset declarations and MPLADS utilization information, combined with minimal public engagement visibility, suggests significant transparency gaps that warrant attention. Given Gujarat's documented fund management challenges identified in CAG audits, enhanced disclosure and monitoring mechanisms would strengthen public accountability and constituent confidence.",
-  "validated_at": "2026-05-21T14:25:40.010229Z"
+  "validated_at": "2026-05-21T14:25:40.010229Z",
+  "assets": {
+    "total_assets": 1477002341.0,
+    "liabilities": 530000000.0,
+    "net_worth": 947002341.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5028",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5028",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.7,
+    "expended": 1.54,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:22:11.614961Z",
+        "notes": "Official eSAKSHI REST API — Works: 126 recommended, 103 sanctioned, 16 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 126,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.476190476190476
+  }
 }

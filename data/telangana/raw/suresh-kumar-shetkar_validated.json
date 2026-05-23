@@ -4,16 +4,16 @@
     "constituency": "Zahirabad",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5254,
     "slug": "suresh-kumar-shetkar",
     "house": "lok_sabha",
     "sansad_member_id": 4523,
     "profile_url": null,
     "canonical_name": "Suresh Kumar Shetkar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Suresh Kumar Shetkar\n\n### Overall Assessment\nSuresh Kumar Shetkar, representing Zahirabad constituency in Telangana for the Indian National Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and moderate parliamentary attendance, substantial missing information on financial assets and MPLADS utilization raises transparency concerns.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, preventing assessment of constituency development work effectiveness. This represents a critical transparency gap given that MPLADS entitled amounts, releases, and expenditure patterns are typically public information. The absence of this data occurs against a concerning backdrop of systemic MPLADS issues identified by CAG audits, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation in the broader regional context.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for all MPs under election laws. The unavailability of both current and comparative asset data prevents any assessment of wealth accumulation patterns or potential conflicts of interest. Monthly compensation is recorded at ₹2,45,000, representing the standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nShetkar maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting this clean record should be interpreted cautiously pending verification from primary sources.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 70% attendance, positioning Shetkar in the acceptable range for Lok Sabha participation. Legislative contribution includes 45 questions raised and participation in 8 debates, indicating reasonable engagement with parliamentary processes. However, no private member bills were introduced, and no committee membership data is available, limiting assessment of broader legislative effectiveness. The evidence grade of 'C' for parliamentary data suggests moderate reliability of this information.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 news articles providing balanced reporting (0 positive, 0 negative, 10 neutral). This suggests limited media attention but absence of negative publicity. However, the accessibility evidence grade of 'D' indicates poor data availability regarding public outreach mechanisms, social media presence, or constituent interaction platforms. The low accessibility score raises questions about transparency in public communication and constituent services.\n\n### Data Quality & Caveats\nMultiple automated flags highlight significant data reliability issues. Criminal record data carries low confidence warnings due to source unavailability. Asset information shows low confidence ratings, while MPLADS data is entirely absent. Committee participation data is unavailable, potentially indicating missing Sansad profile information. Legislative effectiveness data also carries low confidence ratings. These data gaps substantially limit the reliability of this transparency assessment and suggest systemic issues with information disclosure or data collection processes.\n\n### Key Takeaway\nSuresh Kumar Shetkar presents a transparency profile characterized by selective data availability rather than comprehensive disclosure. While maintaining clean legal standing and moderate parliamentary participation, critical gaps in financial asset declarations and MPLADS utilization data represent significant transparency deficits. The extensive data quality warnings suggest either inadequate disclosure practices or systemic data collection issues that prevent effective public accountability assessment. Constituents and oversight bodies should prioritize obtaining complete asset and development fund utilization information to enable proper evaluation of representative performance and financial transparency.",
-  "validated_at": "2026-05-21T14:28:30.242639Z"
+  "validated_at": "2026-05-21T14:28:30.242639Z",
+  "assets": {
+    "total_assets": 107711726.0,
+    "liabilities": 6447401.0,
+    "net_worth": 101264325.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.93,
+    "expended": 1.64,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:49:21.131864Z",
+        "notes": "Official eSAKSHI REST API — Works: 336 recommended, 122 sanctioned, 27 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 336,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 11.156462585034014
+  }
 }

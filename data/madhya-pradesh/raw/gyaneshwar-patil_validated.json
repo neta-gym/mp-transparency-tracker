@@ -4,16 +4,16 @@
     "constituency": "Khandwa",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5069,
     "slug": "gyaneshwar-patil",
     "house": "lok_sabha",
     "sansad_member_id": 5535,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 55,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Gyaneshwar Patil\n\n### Overall Assessment\nGyaneshwar Patil, BJP MP from Khandwa, Madhya Pradesh, presents a mixed transparency profile with strong criminal record standing but significant data gaps across multiple transparency indicators. While maintaining clean legal status and reasonable parliamentary attendance, comprehensive assessment is hindered by missing financial and development fund data.\n\n### Fund Utilization & Development\n**Critical data unavailable** - MPLADS fund utilization data is completely absent, showing no information on entitled amount, releases, expenditure, or utilization percentage. This represents a significant transparency gap for assessing the MP's development impact in Khandwa constituency. \n\nThe broader state context reveals systemic MPLADS implementation challenges in Madhya Pradesh, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, indicating potential oversight concerns that may affect local development outcomes.\n\n### Financial Transparency\n**Asset disclosure incomplete** - No asset information is available, including total assets, previous declarations, growth ratios, or net worth calculations. This prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, but without asset context, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\n**Clean record maintained** - Patil demonstrates exemplary legal standing with zero criminal cases across all categories: no serious cases, pending cases, disposed cases, or convictions. This clean criminal record represents a positive transparency indicator, suggesting adherence to legal standards expected of public representatives.\n\n### Parliamentary Performance\n**Moderate engagement levels** - Parliamentary attendance stands at 85%, indicating reasonably consistent participation in legislative proceedings. The MP has raised 48 questions during the current term, demonstrating some engagement with parliamentary inquiry mechanisms. However, participation in debates remains minimal with only 2 recorded interventions, and no private bills have been introduced, suggesting limited proactive legislative initiative.\n\nThe absence of committee membership data further limits assessment of the MP's specialized parliamentary contributions and policy expertise development.\n\n### Public Engagement & Accessibility\n**Limited digital presence** - Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting minimal public discourse engagement or controversy. This neutral profile may indicate either effective constituency management or limited media attention to the MP's activities.\n\nSocial media and digital accessibility metrics show room for improvement, with evidence grades indicating 'D' level accessibility performance, suggesting constituents may face challenges in accessing the MP's office or receiving timely responses to queries.\n\n### Data Quality & Caveats\n**Significant transparency gaps identified** - Multiple automated warnings highlight serious data quality issues:\n- Criminal record data marked as low confidence due to source unavailability\n- Asset information completely missing with low confidence ratings\n- MPLADS data entirely absent despite being crucial for development assessment\n- Committee membership information unavailable, limiting parliamentary effectiveness evaluation\n\nEvidence grades show 'C' level parliament data quality and 'D' level accessibility data, indicating substantial room for improvement in transparency reporting systems.\n\n### Key Takeaway\nGyaneshwar Patil maintains a clean legal record and demonstrates basic parliamentary engagement, but faces significant transparency challenges due to missing financial disclosures and development fund utilization data. The absence of asset information and MPLADS details creates substantial accountability gaps that prevent comprehensive public oversight. Improved data disclosure mechanisms and enhanced digital accessibility would significantly strengthen the MP's transparency profile and enable better constituent evaluation of performance and integrity.",
-  "validated_at": "2026-05-21T14:26:59.882315Z"
+  "validated_at": "2026-05-21T14:26:59.882315Z",
+  "assets": {
+    "total_assets": 72237099.0,
+    "liabilities": 5446068.0,
+    "net_worth": 66791031.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5069",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5069",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.3,
+    "released": 15.3,
+    "sanctioned": 9.68,
+    "expended": 8.21,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:31.627490Z",
+        "notes": "Official eSAKSHI REST API — Works: 298 recommended, 288 sanctioned, 147 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 298,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 53.66013071895425
+  }
 }

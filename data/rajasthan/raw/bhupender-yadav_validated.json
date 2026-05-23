@@ -4,16 +4,16 @@
     "constituency": "Alwar",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 360,
     "slug": "bhupender-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 5541,
     "profile_url": null,
     "canonical_name": "Bhupender Yadav",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 55,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Bhupender Yadav\n\n### Overall Assessment\nBhupender Yadav, BJP MP representing Alwar, Rajasthan in the Lok Sabha, presents a profile with significant data transparency gaps. While maintaining a clean criminal record, comprehensive assessment is limited by unavailable information across key performance indicators including assets, MPLADS utilization, and parliamentary activity metrics. His ministerial role may explain reduced parliamentary attendance expectations.\n\n### Fund Utilization & Development\nMPLADS data for Bhupender Yadav is unavailable, preventing assessment of his constituency development fund utilization. However, CAG audits reveal systemic issues in Rajasthan's fund management: Rs 1,558 crore remains idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These findings highlight potential structural challenges affecting development fund effectiveness in his constituency.\n\n### Financial Transparency\nAsset declarations are completely unavailable, showing no data on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap that prevents public assessment of his financial standing and potential conflicts of interest. Monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nBhupender Yadav maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary activity data is largely unavailable, showing 0% attendance, zero questions raised, zero debates participated, and zero private bills introduced. As a Minister, reduced attendance may be expected due to executive responsibilities, but the complete absence of activity metrics raises data quality concerns rather than necessarily indicating poor performance.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse around his work. The evidence grade for accessibility is rated 'D', indicating poor transparency and public engagement metrics. No social media or committee data is available, limiting assessment of his public outreach efforts.\n\n### Data Quality & Caveats\nMultiple automated flags indicate severe data quality issues:\n- **Criminal records**: Low confidence due to potentially unavailable sources\n- **Assets**: Low confidence in financial transparency data\n- **MPLADS**: Low confidence in development fund data\n- **Parliamentary activity**: Low confidence across all metrics\n- **Committees**: No committee data found, suggesting unavailable Sansad profile\n- Overall evidence grades show 'C' for parliament data and 'D' for accessibility\n\n### Key Takeaway\nWhile Bhupender Yadav maintains a clean legal record, his transparency profile suffers from extensive data unavailability across critical performance indicators. The systemic data gaps prevent meaningful assessment of his effectiveness as an MP, highlighting broader transparency challenges in Indian parliamentary data systems. His ministerial status may explain some performance variations, but the complete absence of verifiable metrics across multiple domains suggests either poor data collection or inadequate public disclosure practices.",
-  "validated_at": "2026-05-21T14:32:34.738173Z"
+  "validated_at": "2026-05-21T14:32:34.738173Z",
+  "assets": {
+    "total_assets": 23236037.0,
+    "liabilities": 0.0,
+    "net_worth": 23236037.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=360",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=360",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.39,
+    "expended": 4.82,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:44:48.118472Z",
+        "notes": "Official eSAKSHI REST API — Works: 67 recommended, 60 sanctioned, 15 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 67,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 32.7891156462585
+  }
 }

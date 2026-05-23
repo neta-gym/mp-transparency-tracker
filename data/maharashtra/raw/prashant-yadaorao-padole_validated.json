@@ -4,16 +4,16 @@
     "constituency": "Bhandara-Gondiya",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 313,
     "slug": "prashant-yadaorao-padole",
     "house": "lok_sabha",
     "sansad_member_id": 5729,
     "profile_url": null,
     "canonical_name": "Prashant Yadaorao Padole",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 45,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Prashant Yadaorao Padole\n\n### Overall Assessment\nPrashant Yadaorao Padole, representing Bhandara-Gondiya constituency in Maharashtra as an Indian National Congress member, presents a mixed transparency profile with significant data gaps. While he demonstrates perfect parliamentary attendance (100%), substantial information regarding his financial assets and MPLADS utilization remains unavailable, limiting comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\nCritical information about MPLADS fund utilization is unavailable, with no data on entitlements, releases, expenditures, or utilization percentages. This absence of transparency is concerning given the CAG audit context revealing systemic issues across Maharashtra, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. The audit also highlighted that 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete, suggesting broader accountability challenges in the state's development fund management.\n\n### Financial Transparency\nAsset declaration data is completely absent, with no information available on total assets, previous holdings, growth ratios, or net worth. This lack of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The monthly compensation is recorded at Rs 2,45,000, which appears to be standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nPadole maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential limitations in source availability or verification processes.\n\n### Parliamentary Performance\nPadole demonstrates strong parliamentary engagement with perfect attendance (100%) and active participation in legislative processes. He has asked 12 questions and participated in 12 debates, showing consistent involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in legislative agenda-setting. The parliament activity data receives a 'C' grade for evidence quality, indicating moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment (no positive or negative articles identified), suggesting limited public visibility or controversy. The accessibility score receives a 'D' grade, indicating poor performance in public engagement metrics. No committee participation data is available, as his Sansad profile appears to be inaccessible, further limiting transparency regarding his legislative specializations and committee contributions.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality limitations. Multiple automated flags indicate low confidence in criminal records, assets, and MPLADS data. The absence of committee information due to unavailable Sansad profiles creates gaps in understanding his legislative effectiveness. Legislative effectiveness data also has low confidence ratings. Evidence grades show moderate parliament data quality (C) but poor accessibility data (D), suggesting systemic transparency challenges.\n\n### Key Takeaway\nWhile Padole maintains exemplary parliamentary attendance and a clean criminal record, the substantial gaps in financial disclosures and MPLADS utilization data severely limit transparency assessment. The absence of asset information and development fund utilization details, combined with broader CAG audit concerns about financial irregularities in Maharashtra, raises questions about accountability. His neutral media profile and poor accessibility scores suggest limited public engagement beyond basic parliamentary duties. Improved data disclosure and public accessibility measures are essential for comprehensive transparency evaluation.",
-  "validated_at": "2026-05-21T14:33:49.271312Z"
+  "validated_at": "2026-05-21T14:33:49.271312Z",
+  "assets": {
+    "total_assets": 144668874.0,
+    "liabilities": 22513000.0,
+    "net_worth": 122155874.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=313",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=313",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.97,
+    "released": 15.97,
+    "sanctioned": 2.12,
+    "expended": 0.53,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:15.655387Z",
+        "notes": "Official eSAKSHI REST API — Works: 127 recommended, 28 sanctioned, 6 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 127,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 3.3187226048841576
+  }
 }

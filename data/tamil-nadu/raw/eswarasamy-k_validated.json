@@ -4,16 +4,16 @@
     "constituency": "Pollachi",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 174,
     "slug": "eswarasamy-k",
     "house": "lok_sabha",
     "sansad_member_id": 5806,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Eswarasamy K\n\n### Overall Assessment\nEswarasamy K, representing Pollachi constituency in Tamil Nadu as a member of the Dravida Munnetra Kazhagam (DMK), demonstrates mixed performance indicators with significant data availability challenges. While maintaining strong parliamentary attendance at 95%, comprehensive assessment is hindered by substantial gaps in financial and development data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, preventing assessment of constituency development performance. However, the CAG audit context reveals systemic concerns in Tamil Nadu's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete. These state-level findings raise questions about overall fund utilization effectiveness in the region, though specific performance for Eswarasamy K's constituency cannot be determined.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, making it impossible to assess financial accountability or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset declarations, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\nEswarasamy K maintains a clean criminal record with zero cases across all categories - no pending cases, disposals, or convictions. However, data quality warnings indicate low confidence in the criminal record information, suggesting potential source unavailability that may affect the reliability of this assessment.\n\n### Parliamentary Performance\nParliamentary engagement shows positive indicators with 95% attendance, demonstrating consistent presence in the Lok Sabha. Legislative activity includes 31 questions raised and participation in 10 debates, indicating moderate engagement with parliamentary processes. However, no private member bills have been introduced, and no committee participation data is available due to potentially unavailable Sansad profiles. The evidence grade for parliamentary performance is rated 'C', suggesting moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage consists of 9 articles, all classified as neutral, indicating limited public visibility and engagement. The absence of positive or negative coverage suggests either minimal media attention or non-controversial performance. Social media presence data is included in sources but specific metrics are not provided. Accessibility evidence receives a 'D' grade, indicating poor data availability for assessing public engagement efforts.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- Criminal record data carries low confidence warnings due to potential source unavailability\n- Asset information is entirely missing, preventing financial transparency evaluation\n- MPLADS data is unavailable, eliminating development fund utilization assessment\n- Committee participation data is absent due to potentially unavailable Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n\nThese limitations substantially reduce the comprehensiveness of this transparency profile.\n\n### Key Takeaway\nWhile Eswarasamy K demonstrates strong parliamentary attendance and maintains a clean legal record, the extensive data gaps - particularly in asset disclosure and development fund utilization - severely limit transparency assessment capabilities. The neutral media coverage and moderate legislative activity suggest steady but unremarkable performance, though comprehensive evaluation requires improved data availability across financial and development metrics.",
-  "validated_at": "2026-05-21T14:31:21.927104Z"
+  "validated_at": "2026-05-21T14:31:21.927104Z",
+  "assets": {
+    "total_assets": 345276957.0,
+    "liabilities": 94557521.0,
+    "net_worth": 250719436.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=174",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=174",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.72,
+    "released": 14.72,
+    "sanctioned": 5.17,
+    "expended": 4.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:15.113063Z",
+        "notes": "Official eSAKSHI REST API — Works: 80 recommended, 50 sanctioned, 16 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 80,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 30.706521739130434
+  }
 }

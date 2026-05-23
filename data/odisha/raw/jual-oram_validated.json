@@ -4,16 +4,16 @@
     "constituency": "Sundargarh",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7296,
     "slug": "jual-oram",
     "house": "lok_sabha",
     "sansad_member_id": 279,
     "profile_url": null,
     "canonical_name": "Jual Oram",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 63,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Jual Oram\n\n### Overall Assessment\n\nJual Oram, BJP MP from Sundargarh constituency in Odisha, presents a transparency profile with significant data gaps across multiple key areas. While maintaining a clean criminal record, the lack of available data on critical metrics including assets, MPLADS utilization, and parliamentary performance severely limits assessment of his effectiveness as a public representative. The evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate substantial transparency challenges.\n\n### Fund Utilization & Development\n\nMPLADS data for Jual Oram is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This absence of data prevents evaluation of his development work in Sundargarh constituency. However, CAG audit findings from 2010 reveal systemic issues in Odisha's fund management: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works remaining abandoned or incomplete. These state-level findings suggest potential challenges in development fund management that may affect constituency-level implementation.\n\n### Financial Transparency\n\nAsset disclosure data is completely missing, with no information available on current or previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is mandatory for MPs under election commission guidelines. The only available financial data is the standard monthly compensation of Rs 2,45,000. Without asset information, it's impossible to assess financial transparency or identify potential conflicts of interest.\n\n### Legal & Criminal Standing\n\nJual Oram maintains a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, this data carries a low confidence warning due to potential source unavailability, suggesting the information may not be comprehensive or current.\n\n### Parliamentary Performance\n\nParliamentary activity data is largely unavailable, showing 0% attendance (though noted that ministerial duties may affect attendance), zero questions raised, zero debates participated in, and zero private bills introduced. The MP's ministerial status may partially explain lower attendance figures, as executive responsibilities often conflict with parliamentary presence. However, the complete absence of question-raising or debate participation raises concerns about legislative engagement.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited public visibility or engagement. The 'D' grade for accessibility suggests poor responsiveness to constituent needs or media engagement. No social media activity data is available, limiting assessment of digital outreach efforts.\n\n### Data Quality & Caveats\n\nMultiple automated warnings indicate severe data quality issues:\n- Low confidence warnings for criminal records, assets, MPLADS, and parliamentary activity\n- No committee membership data found, suggesting Sansad profile unavailability\n- Evidence grades of 'C' for parliament and 'D' for accessibility reflect poor data availability\n- Sources limited to PRS, social media, and news outlets\n\nThese data gaps significantly compromise the reliability of this transparency assessment and suggest either poor record-keeping or limited public disclosure practices.\n\n### Key Takeaway\n\nJual Oram's transparency profile is characterized by extensive data unavailability across critical metrics, making meaningful assessment of his performance as an MP extremely difficult. While maintaining a clean criminal record, the absence of asset declarations, MPLADS utilization data, and detailed parliamentary activity records represents a significant transparency deficit. The neutral media coverage and poor accessibility grade suggest limited public engagement. Voters in Sundargarh constituency lack essential information needed to evaluate their representative's effectiveness, highlighting the urgent need for improved data disclosure and transparency practices.",
-  "validated_at": "2026-05-21T14:24:10.552906Z"
+  "validated_at": "2026-05-21T14:24:10.552906Z",
+  "assets": {
+    "total_assets": 86325870.0,
+    "liabilities": 10361616.0,
+    "net_worth": 75964254.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7296",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7296",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 17.31,
+    "released": 17.31,
+    "sanctioned": 9.98,
+    "expended": 5.43,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:28.851945Z",
+        "notes": "Official eSAKSHI REST API — Works: 194 recommended, 176 sanctioned, 8 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 194,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 31.369150779896017
+  }
 }

@@ -4,16 +4,16 @@
     "constituency": "Jhargram",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7941,
     "slug": "kalipada-saren-kherwal",
     "house": "lok_sabha",
     "sansad_member_id": 5825,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 66,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Kalipada Saren Kherwal\n\n### Overall Assessment\n\nMP Kalipada Saren Kherwal represents the Jhargram constituency in West Bengal as a member of the All India Trinamool Congress in the Lok Sabha. The transparency profile reveals a mixed picture with perfect attendance but significant data gaps across critical areas including asset declarations, MPLADS utilization, and development fund management. With evidence grades of 'C' for parliament activity and 'D' for accessibility, the MP's transparency profile is hampered by incomplete information availability.\n\n### Fund Utilization & Development\n\nComplete data on MPLADS fund utilization is unavailable, with all key metrics (entitled amount, released funds, expenditure, and utilization percentage) showing as \"None.\" This represents a critical transparency gap given that MPLADS funds are essential for constituency development. The lack of utilization data is particularly concerning given CAG audit findings highlighting systemic issues in fund management across states, including ₹1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of sampled utilization certificates lacking proper supporting documents.\n\n### Financial Transparency\n\nAsset declaration data is completely absent, with both current and previous asset values listed as \"None,\" making it impossible to assess financial transparency or track wealth accumulation during tenure. The growth ratio and net worth calculations are consequently unavailable. The MP receives a total monthly compensation of ₹245,000, which appears to be the standard parliamentary compensation structure.\n\n### Legal & Criminal Standing\n\nThe MP shows a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, automated flags indicate \"low confidence in criminal data\" as the source may be unavailable, suggesting this clean record should be interpreted with caution due to potential data quality issues.\n\n### Parliamentary Performance\n\nMP Kherwal demonstrates strong attendance with a perfect 100% attendance record in the Lok Sabha. However, active participation appears limited with zero questions asked and zero private bills introduced during the tenure. The MP has participated in 2 debates, showing minimal legislative engagement beyond attendance. No committee membership data is available, as the Sansad profile appears to be inaccessible.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 9 news articles, all classified as neutral with zero positive or negative sentiment articles. This suggests limited public visibility or controversial issues but also indicates minimal proactive engagement with media or public discourse. The summary describes \"mixed/neutral coverage,\" pointing to a low-profile public presence. Social media presence and direct accessibility metrics are not available in the provided data.\n\n### Data Quality & Caveats\n\nThe transparency assessment is significantly compromised by multiple data quality issues. Automated warnings highlight low confidence in criminal record data, asset information, and MPLADS utilization figures. The absence of committee membership data due to inaccessible Sansad profiles further limits the assessment. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these substantial information gaps. The CAG audit context provides relevant systemic concerns about fund utilization in West Bengal, with 7 relevant findings identified, but specific linkage to this MP's performance cannot be established without detailed MPLADS data.\n\n### Key Takeaway\n\nWhile MP Kalipada Saren Kherwal maintains perfect parliamentary attendance and a clean criminal record, the transparency profile is severely undermined by missing critical data on asset declarations, MPLADS fund utilization, and limited legislative engagement beyond attendance. The absence of financial transparency data and development fund information represents significant accountability gaps that prevent a comprehensive assessment of the MP's effectiveness and integrity in serving the Jhargram constituency.",
-  "validated_at": "2026-05-21T14:32:57.799328Z"
+  "validated_at": "2026-05-21T14:32:57.799328Z",
+  "assets": {
+    "total_assets": 13023236.0,
+    "liabilities": 205892.0,
+    "net_worth": 12817344.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7941",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7941",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.16,
+    "expended": 6.26,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:51:48.935538Z",
+        "notes": "Official eSAKSHI REST API — Works: 52 recommended, 44 sanctioned, 1 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 52,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 42.585034013605444
+  }
 }

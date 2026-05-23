@@ -4,16 +4,16 @@
     "constituency": "Sagar",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3547,
     "slug": "lata-wankhede",
     "house": "lok_sabha",
     "sansad_member_id": 5692,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Doctorate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Lata Wankhede\n### Overall Assessment\nLata Wankhede, BJP MP from Sagar constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps across multiple indicators. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance, the absence of crucial financial data and limited public engagement activities raise concerns about overall transparency and accountability.\n\n### Fund Utilization & Development\nNo specific MPLADS utilization data is available for MP Wankhede, representing a critical transparency gap. However, CAG audit findings from 2010 reveal systemic issues in Madhya Pradesh's fund management, with ₹1,558 crore lying idle in district authority accounts and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, suggesting broader challenges in the state's development fund ecosystem that may impact constituency-level projects.\n\n### Financial Transparency\nAsset disclosure information is entirely unavailable, preventing assessment of financial transparency or potential conflicts of interest. Without baseline or current asset declarations, it's impossible to evaluate wealth accumulation patterns or compliance with disclosure norms. The MP receives standard parliamentary compensation of ₹245,000 monthly, but the absence of asset data represents a significant accountability deficit.\n\n### Legal & Criminal Standing\nLata Wankhede maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 85% attendance rate, indicating reasonable commitment to legislative duties. However, substantive participation appears limited with only 5 questions raised and 6 debate contributions recorded. No private member bills were introduced, suggesting minimal legislative initiative. The absence of committee membership data further limits assessment of parliamentary effectiveness.\n\n### Public Engagement & Accessibility\nPublic visibility remains extremely limited based on available metrics. Media coverage consists of 10 neutral articles with no positive or negative sentiment indicators, suggesting minimal public discourse engagement. No accessibility initiatives or public outreach programs are documented, indicating potential gaps in constituent communication and engagement strategies.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS utilization data is missing. Committee membership information appears inaccessible, potentially due to Sansad profile unavailability. Legislative effectiveness metrics also show low confidence ratings. The parliament activity evidence grade of 'C' and accessibility grade of 'D' reflect these systemic data limitations, suggesting either poor record-keeping or limited digital transparency infrastructure.\n\n### Key Takeaway\nWhile Lata Wankhede maintains a clean legal record and demonstrates basic parliamentary attendance, severe data gaps across financial disclosures, development fund utilization, and public engagement metrics significantly hamper transparency assessment. The absence of asset declarations and MPLADS data, combined with limited legislative participation and minimal public visibility, suggests substantial room for improvement in accountability and constituent service transparency.",
-  "validated_at": "2026-05-21T14:30:58.512235Z"
+  "validated_at": "2026-05-21T14:30:58.512235Z",
+  "assets": {
+    "total_assets": 173410882.0,
+    "liabilities": 13800070.0,
+    "net_worth": 159610812.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3547",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3547",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.66,
+    "expended": 9.11,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:34.706593Z",
+        "notes": "Official eSAKSHI REST API — Works: 144 recommended, 135 sanctioned, 74 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 144,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 61.97278911564625
+  }
 }

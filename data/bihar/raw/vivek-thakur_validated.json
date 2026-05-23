@@ -4,16 +4,16 @@
     "constituency": "Nawada",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1695,
     "slug": "vivek-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5712,
     "profile_url": null,
     "canonical_name": "Vivek Thakur",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 54,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Vivek Thakur\n\n### Overall Assessment\nVivek Thakur, BJP MP from Nawada constituency in Bihar, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance and clean criminal record, substantial missing information regarding assets and MPLADS utilization raises concerns about overall transparency. The MP demonstrates basic parliamentary engagement but faces challenges in accessibility and public outreach.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, preventing assessment of constituency development efforts. This data gap is concerning given CAG audit findings revealing systemic issues in Bihar's fund utilization. The audit context shows Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete. Without specific MPLADS data for Thakur's constituency, it's impossible to determine if these systemic issues affect Nawada.\n\n### Financial Transparency\nAsset declaration information is entirely missing, including both current and previous asset values, preventing any assessment of wealth accumulation or financial transparency during tenure. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without baseline asset data, growth patterns cannot be evaluated. This represents a significant transparency gap that undermines public accountability.\n\n### Legal & Criminal Standing\nThakur maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. The absence of any legal complications represents a positive aspect of his profile, though verification challenges remain.\n\n### Parliamentary Performance\nThe MP demonstrates strong attendance with a perfect 100% record in parliamentary sessions, indicating commitment to institutional duties. However, active participation remains limited with only 11 questions asked and 2 debates participated in during the session. No private member bills were introduced, suggesting minimal legislative initiative. Committee participation data is unavailable, preventing full assessment of parliamentary contribution.\n\n### Public Engagement & Accessibility\nMedia coverage shows neutral engagement with 10 articles identified, all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility and media engagement. The accessibility grade of 'D' indicates poor public outreach and constituent communication. No committee data availability further limits assessment of policy engagement and specialization areas.\n\n### Data Quality & Caveats\nMultiple significant data quality issues affect this assessment:\n- Criminal record data marked as low confidence due to potential source unavailability\n- Complete absence of asset information raises transparency concerns\n- MPLADS data entirely missing despite entitlement\n- Committee membership information unavailable\n- Legislative effectiveness data confidence rated as low\n- Parliament performance graded 'C', indicating moderate data reliability\n\nEvidence sources include PRS, social media, and news outlets, but coverage appears incomplete across key transparency metrics.\n\n### Key Takeaway\nVivek Thakur's transparency profile reveals a parliamentarian with perfect attendance and clean legal standing but significant accountability gaps due to missing asset and MPLADS data. While maintaining basic parliamentary duties, limited legislative activity and poor accessibility suggest minimal constituent engagement. The extensive data unavailability, particularly regarding financial transparency and development fund utilization, undermines comprehensive evaluation and raises questions about information disclosure practices. Immediate attention to asset declaration compliance and MPLADS reporting would significantly improve transparency standing.",
-  "validated_at": "2026-05-21T14:36:53.196328Z"
+  "validated_at": "2026-05-21T14:36:53.196328Z",
+  "assets": {
+    "total_assets": 50566297.0,
+    "liabilities": 10444564.0,
+    "net_worth": 40121733.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1695",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1695",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 0.32,
+    "expended": 0.19,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:09.134448Z",
+        "notes": "Official eSAKSHI REST API — Works: 5 recommended, 3 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 5,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.2925170068027212
+  }
 }

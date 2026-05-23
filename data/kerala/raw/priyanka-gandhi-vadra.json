@@ -4,86 +4,136 @@
     "constituency": "Wayanad",
     "state": "kerala",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9673,
     "slug": "priyanka-gandhi-vadra",
     "house": "lok_sabha",
     "sansad_member_id": 5836,
     "profile_url": null,
     "canonical_name": "Priyanka Gandhi Vadra",
     "name_aliases": [],
-    "education": null,
-    "profession": null,
-    "age": null,
-    "photo_url": null
+    "education": "Graduate",
+    "profession": "General Secretary - Indian National Congress",
+    "age": 52,
+    "photo_url": "https://myneta.info/images_candidate/LokSabha2024/e83d0406eef87c2a1313096e259a6641839d5dac.jpg"
   },
   "criminal_record": {
-    "total_cases": 0,
+    "total_cases": 4,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 0,
+    "pending_cases": 4,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Details and present status of appeal",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "unknown",
+        "court": ""
+      },
+      {
+        "description": "",
+        "ipc_sections": [
+          "0384/2023",
+          "PS Sayogitaganj Indore",
+          "Madhya Pradesh",
+          "Dated- 12/08/2023"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "unknown",
+        "court": ""
+      },
+      {
+        "description": "",
+        "ipc_sections": [
+          "155/2020",
+          "PS Gautam Buddha Nagar",
+          "Uttar Pradesh",
+          "Dated- 01/10/2020"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "unknown",
+        "court": ""
+      },
+      {
+        "description": "",
+        "ipc_sections": [
+          "04/RBL/2019-20",
+          "Forest Officer- Raebareli",
+          "Uttar Pradesh",
+          "Dated- 02/05/2019"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "unknown",
+        "court": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": []
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9673",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-05-23T18:17:13.224886Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": null,
-    "immovable_assets": null,
-    "total_assets": null,
-    "liabilities": null,
-    "net_worth": null,
+    "movable_assets": 421626121.0,
+    "immovable_assets": 353851231.0,
+    "total_assets": 775477352.0,
+    "liabilities": 121031711.0,
+    "net_worth": 654445641.0,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": [],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9673",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-05-23T18:17:13.234554Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ],
     "annual_income": null,
     "election_expenditure": null,
     "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": null,
-    "released": null,
-    "sanctioned": null,
-    "expended": null,
-    "source": "mplads",
-    "confidence": 0.0,
+    "entitled": 12.25,
+    "released": 12.25,
+    "sanctioned": 5.16,
+    "expended": 3.05,
+    "source": "esakshi",
+    "confidence": 0.9,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in",
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:29:13.003228Z",
-        "notes": "eSAKSHI data not available — all fetch strategies failed"
-      },
-      {
-        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-        "source_name": "data.gov.in",
-        "grade": "B",
-        "fetched_at": "2026-05-21T14:28:22.166980Z",
-        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-      },
-      {
-        "url": "https://dataful.in/datasets/18540/",
-        "source_name": "mplads_csv",
-        "grade": "E",
-        "fetched_at": "2026-05-21T14:28:22.164106Z",
-        "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+        "fetched_at": "2026-05-23T17:37:12.937718Z",
+        "notes": "Official eSAKSHI REST API — Works: 62 recommended, 37 sanctioned, 2 completed"
       }
     ],
     "works": [],
-    "works_count": 0,
-    "esakshi_coverage_start": null,
+    "works_count": 62,
+    "esakshi_coverage_start": "2023-04-01",
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-    "utilization_rate": null
+    "data_period_note": "",
+    "utilization_rate": 24.897959183673468
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -111,12 +161,17 @@
   "sources_consulted": [
     "prs",
     "social_media",
-    "news"
+    "news",
+    "mplads",
+    "myneta"
   ],
   "collected_at": "2026-05-21T15:57:10.332868Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D"
+    "accessibility": "D",
+    "mplads": "A",
+    "assets": "B",
+    "criminal": "B"
   },
   "cag_findings": [
     {

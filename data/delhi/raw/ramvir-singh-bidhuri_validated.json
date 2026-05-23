@@ -500,5 +500,38 @@
     }
   ],
   "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 526,419,941. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.",
-  "validated_at": "2026-05-23T00:01:02.752665Z"
+  "validated_at": "2026-05-23T00:01:02.752665Z",
+  "mplads": {
+    "entitled": 14.76,
+    "released": 14.76,
+    "sanctioned": 9.42,
+    "expended": 1.87,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:28.899868Z",
+        "notes": "Official eSAKSHI REST API — Works: 100 recommended, 100 sanctioned, 2 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 100,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 12.669376693766937
+  },
+  "evidence_summary": {
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "mplads"
+  ]
 }

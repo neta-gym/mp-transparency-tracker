@@ -4,16 +4,16 @@
     "constituency": "Chamarajanagar",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2193,
     "slug": "sunil-bose",
     "house": "lok_sabha",
     "sansad_member_id": 5758,
     "profile_url": null,
     "canonical_name": "Sunil Bose",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 42,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sunil Bose\n\n### Overall Assessment\nSunil Bose, Indian National Congress MP representing Chamarajanagar constituency in Karnataka, presents a concerning transparency profile marked by significant data gaps and below-average parliamentary performance. The available evidence suggests limited legislative engagement, with only 40% attendance and minimal participation in parliamentary proceedings. Critical financial and asset information is entirely unavailable, raising substantial questions about transparency and accountability.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Bose, including entitlements, releases, expenditures, or utilization rates. This complete absence of fund utilization information prevents assessment of developmental impact in Chamarajanagar constituency. The broader Karnataka context reveals systemic issues with fund management, as highlighted by CAG audits showing Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level irregularities underscore the importance of transparent fund tracking, making the data gap for this MP particularly concerning.\n\n### Financial Transparency\nAsset declaration data is entirely missing, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a complete failure in financial transparency reporting. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset declarations, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during the tenure.\n\n### Legal & Criminal Standing\nMP Bose maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the data quality warning indicates low confidence in this criminal record information, suggesting the source may be unavailable or incomplete. While the reported clean slate is positive, the reliability caveat requires consideration.\n\n### Parliamentary Performance\nParliamentary engagement appears significantly below expectations. With only 40% attendance, MP Bose falls well short of optimal legislative participation. The record shows zero questions raised, only one debate participation, and no private member bills introduced. This minimal legislative activity suggests limited advocacy for constituency issues and reduced contribution to national policy discussions. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these concerning performance metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This neutral media presence, combined with an accessibility evidence grade of 'D', suggests limited public engagement and visibility. The absence of meaningful media interaction may indicate reduced communication with constituents and stakeholders, potentially limiting accountability and feedback mechanisms.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record confidence is low due to potentially unavailable sources. Asset information confidence is similarly compromised. MPLADS data carries low confidence ratings, and committee information is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence levels. These widespread data gaps severely limit the ability to conduct comprehensive transparency assessment and suggest systemic issues with information disclosure or reporting mechanisms.\n\n### Key Takeaway\nSunil Bose's transparency profile is characterized by substantial information voids and concerning parliamentary underperformance. The 40% attendance rate and minimal legislative participation, combined with complete absence of financial and developmental fund data, present significant transparency challenges. While maintaining a clean criminal record is positive, the overall pattern suggests limited accountability and engagement. Immediate improvements in data disclosure, particularly regarding assets and MPLADS utilization, alongside enhanced parliamentary participation, are essential for meaningful constituency representation and democratic accountability.",
-  "validated_at": "2026-05-21T14:21:10.876535Z"
+  "validated_at": "2026-05-21T14:21:10.876535Z",
+  "assets": {
+    "total_assets": 78466251.0,
+    "liabilities": 55678947.0,
+    "net_worth": 22787304.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.07,
+    "expended": 3.26,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:29.363132Z",
+        "notes": "Official eSAKSHI REST API — Works: 114 recommended, 49 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 114,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 22.17687074829932
+  }
 }

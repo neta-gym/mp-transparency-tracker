@@ -4,16 +4,16 @@
     "constituency": "Baharampur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5183,
     "slug": "pathan-yusuf",
     "house": "lok_sabha",
     "sansad_member_id": 5818,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "10th Pass",
     "profession": null,
-    "age": null,
+    "age": 41,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Pathan Yusuf\n\n### Overall Assessment\nPathan Yusuf, representing Baharampur constituency in West Bengal as an All India Trinamool Congress MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with below-average attendance and limited legislative activity. Critical financial and developmental data remains unavailable, hampering comprehensive assessment.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Pathan Yusuf, including entitlement, release, expenditure, or utilization rates. This absence of information prevents evaluation of his constituency development efforts. However, broader CAG audit findings for West Bengal reveal systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential oversight challenges that may affect constituency development programs.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap. The only available financial information is his monthly compensation of Rs 2,45,000. Without asset data, it's impossible to assess financial growth, potential conflicts of interest, or compliance with declaration requirements.\n\n### Legal & Criminal Standing\nPathan Yusuf maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment may be incomplete.\n\n### Parliamentary Performance\nParliamentary engagement shows concerning patterns with 55% attendance, falling below optimal participation levels. Legislative activity is minimal with only 7 questions raised, 2 debate participations, and zero private member bills introduced. No committee assignment data is available, potentially indicating limited involvement in parliamentary committee work. This activity level suggests reduced legislative effectiveness and constituent representation in parliamentary proceedings.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with neutral sentiment - zero positive or negative coverage, indicating limited public visibility. The absence of strong media engagement or controversial coverage suggests either low public profile or effective reputation management. However, accessibility is rated 'D', indicating poor public outreach mechanisms. No social media engagement metrics or public interaction data is available to assess constituent communication effectiveness.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues:\n- **Criminal records**: Low confidence warning due to potentially unavailable sources\n- **Asset declarations**: Complete absence of financial data\n- **MPLADS**: No utilization data available\n- **Committee work**: Sansad profile potentially unavailable\n- **Legislative effectiveness**: Low confidence in available data\n- **Evidence grades**: Parliament performance rated 'C', accessibility rated 'D'\n\nThese gaps substantially limit the reliability of this transparency assessment and suggest systemic data availability issues.\n\n### Key Takeaway\nPathan Yusuf's transparency profile is characterized by significant data voids rather than clear performance indicators. While maintaining a clean criminal record and receiving neutral media coverage, critical gaps in asset declarations, MPLADS utilization, and comprehensive parliamentary activity data prevent meaningful transparency evaluation. His 55% attendance and minimal legislative engagement raise questions about parliamentary effectiveness. The constituency would benefit from improved data disclosure and enhanced parliamentary participation to ensure adequate representation and development oversight.",
-  "validated_at": "2026-05-21T14:22:37.966886Z"
+  "validated_at": "2026-05-21T14:22:37.966886Z",
+  "assets": {
+    "total_assets": 456304016.0,
+    "liabilities": 119670558.0,
+    "net_worth": 336633458.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5183",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5183",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 6.08,
+    "expended": 0.43,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:52:56.789397Z",
+        "notes": "Official eSAKSHI REST API — Works: 178 recommended, 127 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 178,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 2.925170068027211
+  }
 }

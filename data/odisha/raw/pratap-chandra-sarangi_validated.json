@@ -4,16 +4,16 @@
     "constituency": "Balasore",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9397,
     "slug": "pratap-chandra-sarangi",
     "house": "lok_sabha",
     "sansad_member_id": 4985,
     "profile_url": null,
     "canonical_name": "Pratap Chandra Sarangi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 69,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Pratap Chandra Sarangi\n\n### Overall Assessment\nPratap Chandra Sarangi, BJP MP from Balasore, Odisha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (70%), critical financial and development data remains unavailable, creating substantial transparency concerns for public accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, preventing assessment of Sarangi's development fund utilization. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Odisha's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without MPLADS transparency, constituents cannot evaluate their representative's development impact or adherence to proper fund utilization protocols.\n\n### Financial Transparency\nAsset declarations are completely missing from available records, representing a critical transparency failure. No data exists on total assets, previous holdings, growth ratios, or net worth. This absence prevents public scrutiny of potential conflicts of interest or wealth accumulation during tenure. The monthly compensation of Rs 2.45 lakh is the only financial figure available, providing minimal insight into the MP's complete financial profile.\n\n### Legal & Criminal Standing\nSarangi maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the warning indicates the need for more robust data validation to ensure complete accuracy.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 70% attendance, significantly above average for many MPs. Sarangi has raised 46 questions, demonstrating active constituency representation and policy engagement. However, participation in debates remains limited at just 2 instances, and no private member bills have been introduced, indicating minimal legislative initiative beyond questioning. Committee participation data is unavailable, preventing assessment of specialized policy work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 articles showing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited proactive public communication or significant policy initiatives generating media attention. The accessibility grade of 'D' indicates poor public outreach mechanisms, potentially limiting constituent engagement and feedback channels.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence warnings, asset information is entirely missing, and MPLADS utilization data is unavailable. Committee membership and legislative effectiveness data also show low confidence ratings. The parliament performance grade of 'C' reflects moderate reliability, while the accessibility grade of 'D' indicates substantial data gaps in public engagement metrics.\n\n### Key Takeaway\nPratap Chandra Sarangi's transparency profile is severely hampered by critical data unavailability, particularly in financial assets and development fund utilization—two key areas for public accountability. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of MPLADS and asset data, combined with limited legislative initiative and poor accessibility ratings, suggests significant transparency gaps that prevent comprehensive public evaluation of his representative effectiveness and financial integrity.",
-  "validated_at": "2026-05-21T14:28:37.446301Z"
+  "validated_at": "2026-05-21T14:28:37.446301Z",
+  "assets": {
+    "total_assets": 4959072.0,
+    "liabilities": 0.0,
+    "net_worth": 4959072.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9397",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 9,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 9,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9397",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.71,
+    "released": 14.71,
+    "sanctioned": 0.3,
+    "expended": 0.25,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:37:32.542994Z",
+        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 11 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 55,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 1.699524133242692
+  }
 }

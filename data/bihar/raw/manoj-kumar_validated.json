@@ -4,16 +4,16 @@
     "constituency": "Sasaram",
     "state": "bihar",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 9567,
     "slug": "manoj-kumar",
     "house": "lok_sabha",
     "sansad_member_id": 5578,
     "profile_url": null,
     "canonical_name": "Manoj Kumar",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 40,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Manoj Kumar\n\n### Overall Assessment\nManoj Kumar, representing Sasaram constituency in Bihar under the Indian National Congress banner, presents a profile with significant data gaps that limit comprehensive assessment. While maintaining good parliamentary attendance at 95%, the absence of critical financial and development data raises transparency concerns. The MP's profile reflects common challenges in constituency-level data availability for smaller parliamentary seats.\n\n### Fund Utilization & Development\nComplete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) funding presents a major transparency gap. No information exists on entitled amounts, releases, expenditure, or utilization rates. This data void is particularly concerning given CAG audit findings revealing systemic MPLADS issues in Bihar, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, assessing developmental impact in Sasaram constituency remains impossible.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, preventing any analysis of the MP's financial standing or potential conflicts of interest. No data exists on total assets, previous declarations, growth patterns, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory under electoral law. The monthly compensation figure of ₹2.45 lakh appears standard for Lok Sabha members but cannot be contextualized without asset baselines.\n\n### Legal & Criminal Standing\nManoj Kumar maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, data confidence remains low due to source unavailability concerns flagged in the automated review. While this appears positive, the warning about criminal data reliability suggests verification challenges that could affect accuracy.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 95% attendance demonstrating strong commitment to House proceedings. However, legislative activity remains minimal with only 3 questions raised, 3 debate participations, and zero private member bills introduced. This limited parliamentary output suggests potential underutilization of legislative opportunities available to MPs for constituency representation and policy advocacy.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment—no positive or negative coverage identified. This neutral media profile, while avoiding controversy, may indicate limited public visibility or impact. The absence of committee assignments (flagged due to unavailable Sansad profile) further suggests reduced institutional engagement opportunities. Evidence grade 'D' for accessibility indicates significant challenges in public information availability.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight substantial data reliability concerns. Criminal record data carries low confidence due to source unavailability. Asset information shows similar reliability issues. MPLADS data is entirely missing, preventing development impact assessment. The absence of committee information due to Sansad profile unavailability limits understanding of the MP's institutional roles. Evidence grades of 'C' for parliament data and 'D' for accessibility reflect these data quality challenges.\n\n### Key Takeaway\nManoj Kumar's transparency profile suffers from critical data gaps across financial, developmental, and institutional metrics, though maintaining basic parliamentary attendance requirements. The absence of MPLADS and asset data, combined with minimal legislative activity despite clean criminal standing, suggests a low-visibility parliamentary tenure. Improved data availability and increased legislative engagement would enhance both transparency and constituency service effectiveness.",
-  "validated_at": "2026-05-21T14:25:30.038817Z"
+  "validated_at": "2026-05-21T14:25:30.038817Z",
+  "assets": {
+    "total_assets": 32491416.0,
+    "liabilities": 2400000.0,
+    "net_worth": 30091416.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9567",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9567",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.77,
+    "expended": 7.62,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:42.752810Z",
+        "notes": "Official eSAKSHI REST API — Works: 129 recommended, 107 sanctioned, 79 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 129,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 51.83673469387755
+  }
 }

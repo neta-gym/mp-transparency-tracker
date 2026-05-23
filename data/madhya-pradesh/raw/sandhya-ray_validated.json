@@ -4,16 +4,16 @@
     "constituency": "Bhind",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 4175,
     "slug": "sandhya-ray",
     "house": "lok_sabha",
     "sansad_member_id": 5058,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 50,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Sandhya Ray\n\n### Overall Assessment\n\nSandhya Ray, BJP MP from Bhind constituency in Madhya Pradesh, presents a transparency profile with significant data gaps that limit comprehensive assessment. While her parliamentary attendance of 85% demonstrates consistent engagement, the absence of crucial financial and development data raises concerns about accountability. Her clean criminal record provides a positive foundation, but the lack of asset disclosure and MPLADS utilization information hampers full transparency evaluation.\n\n### Fund Utilization & Development\n\nCritical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) data, with no information available on entitled funds, releases, expenditure, or utilization rates. This absence is particularly concerning given the CAG audit findings highlighting systemic issues in fund management across states. The audit revealed Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data for Ray's constituency, it's impossible to assess her development impact or fund stewardship.\n\n### Financial Transparency\n\nAsset disclosure presents a complete data void, with no information on current or previous asset values, making it impossible to track wealth accumulation or assess potential conflicts of interest. The monthly compensation of Rs 2,45,000 is documented, but without asset baselines, growth patterns cannot be evaluated. This transparency gap is significant given the importance of financial accountability in public office.\n\n### Legal & Criminal Standing\n\nRay maintains a clean criminal record with zero cases across all categories - no pending cases, disposals, or convictions. This represents a positive aspect of her profile, though the warning flag indicates low confidence in the criminal data source, suggesting potential data collection limitations rather than confirmed clean status.\n\n### Parliamentary Performance\n\nRay demonstrates solid parliamentary engagement with 85% attendance, positioning her well above average parliamentary participation rates. Her legislative activity includes 22 questions raised and participation in 4 debates, indicating active involvement in parliamentary proceedings. However, she has not introduced any private member bills, suggesting limited initiative in legislative drafting. The absence of committee membership data further limits assessment of her institutional contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles, all categorized as neutral, indicating limited public visibility or controversial positioning. The absence of positive or negative coverage suggests either minimal media engagement or a deliberately low-profile approach. The 'D' grade for accessibility indicates poor public communication channels or limited constituent interaction platforms.\n\n### Data Quality & Caveats\n\nMultiple significant data quality issues affect this assessment:\n- Low confidence warnings for criminal record, assets, and MPLADS data\n- Missing committee information due to potential Sansad profile unavailability  \n- Parliamentary performance data rated 'C' grade, indicating moderate reliability\n- Accessibility data rated 'D', suggesting poor source quality\n\nThese limitations mean the profile may not reflect actual performance but rather data collection challenges. Eight CAG audit findings relevant to Madhya Pradesh provide context but cannot substitute for MP-specific data.\n\n### Key Takeaway\n\nSandhya Ray's transparency profile is severely hampered by data gaps rather than poor performance indicators. While her clean criminal record and decent parliamentary attendance provide positive signals, the absence of asset disclosure and MPLADS utilization data represents critical transparency failures. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Without comprehensive financial and development data, stakeholders cannot adequately assess her effectiveness or accountability, highlighting the need for improved transparency mechanisms and data collection systems for meaningful democratic oversight.",
-  "validated_at": "2026-05-21T14:21:19.895033Z"
+  "validated_at": "2026-05-21T14:21:19.895033Z",
+  "assets": {
+    "total_assets": 96772861.0,
+    "liabilities": 11400000.0,
+    "net_worth": 85372861.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4175",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4175",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.83,
+    "expended": 2.52,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:27:38.565264Z",
+        "notes": "Official eSAKSHI REST API — Works: 127 recommended, 97 sanctioned, 48 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 127,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 17.142857142857142
+  }
 }

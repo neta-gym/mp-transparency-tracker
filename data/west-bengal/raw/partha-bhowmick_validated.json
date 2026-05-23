@@ -4,16 +4,16 @@
     "constituency": "Barrackpur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7118,
     "slug": "partha-bhowmick",
     "house": "lok_sabha",
     "sansad_member_id": 5660,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Partha Bhowmick\n\n### Overall Assessment\nPartha Bhowmick, representing Barrackpur constituency in West Bengal as an All India Trinamool Congress MP, presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean criminal record, his parliamentary engagement appears limited with concerning attendance patterns. The analysis is hampered by substantial missing data across financial and development metrics, raising questions about transparency and accountability.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, releases, expenditure, or utilization rates. This data gap is particularly concerning given West Bengal's documented challenges with fund management. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Bhowmick's constituency, it's impossible to assess his development impact or fund utilization effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for assessing potential conflicts of interest. Only compensation data is available, showing a monthly salary of Rs 2,45,000, which aligns with standard MP compensation structures. The absence of asset data prevents any meaningful assessment of financial transparency or wealth accumulation patterns.\n\n### Legal & Criminal Standing\nBhowmick maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality concerns are flagged, with low confidence in the criminal record information due to potential source unavailability. While the clean record is positive, the data reliability caveat requires consideration when evaluating this aspect of his profile.\n\n### Parliamentary Performance\nParliamentary attendance stands at a concerning 10%, significantly below acceptable standards for elected representatives. Legislative activity is minimal with only 1 question raised and 2 debate participations recorded, alongside zero private member bills. No committee membership data is available, potentially due to unavailable Sansad profile information. This limited engagement pattern suggests reduced effectiveness in representing constituency interests and participating in the legislative process. The overall evidence grade for parliamentary performance is rated 'C', indicating moderate confidence in available data.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with a predominantly neutral tone - 8 neutral articles, 2 negative, and zero positive coverage. This mixed sentiment suggests limited positive public engagement or notable achievements gaining media attention. The accessibility evidence grade is rated 'D', indicating poor data quality in this domain. No social media engagement metrics or public outreach data are available, limiting assessment of constituent communication and accessibility.\n\n### Data Quality & Caveats\nSignificant data quality issues permeate this analysis. Critical warnings include low confidence in criminal record data due to source unavailability, complete absence of asset information, and missing MPLADS utilization data. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These gaps substantially limit the reliability of this transparency assessment and highlight systemic data availability challenges that may affect accountability mechanisms.\n\n### Key Takeaway\nPartha Bhowmick's transparency profile is characterized by substantial data gaps that prevent comprehensive assessment across multiple critical dimensions. While maintaining a clean criminal record, his minimal parliamentary engagement (10% attendance, limited legislative activity) raises concerns about representative effectiveness. The complete absence of financial and MPLADS data, combined with neutral-to-negative media coverage, suggests limited transparency and public accountability. The numerous data quality warnings indicate systemic issues that may compromise oversight mechanisms, requiring urgent attention to ensure proper democratic accountability for this constituency.",
-  "validated_at": "2026-05-21T14:25:43.421735Z"
+  "validated_at": "2026-05-21T14:25:43.421735Z",
+  "assets": {
+    "total_assets": 54235841.0,
+    "liabilities": 11051557.0,
+    "net_worth": 43184284.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7118",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 2,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 2,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7118",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 5.52,
+    "expended": 3.03,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:52:56.142450Z",
+        "notes": "Official eSAKSHI REST API — Works: 33 recommended, 8 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 33,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 20.612244897959183
+  }
 }

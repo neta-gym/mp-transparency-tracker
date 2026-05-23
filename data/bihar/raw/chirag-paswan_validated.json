@@ -4,16 +4,16 @@
     "constituency": "Hajipur",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7281,
     "slug": "chirag-paswan",
     "house": "lok_sabha",
     "sansad_member_id": 4777,
     "profile_url": null,
     "canonical_name": "Chirag Paswan",
     "name_aliases": [],
-    "education": null,
+    "education": "12th Pass",
     "profession": null,
-    "age": null,
+    "age": 42,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Chirag Paswan\n\n### Overall Assessment\nChirag Paswan, representing Hajipur constituency in Bihar under the Lok Jan Shakti Party (Ram Vilas), presents a transparency profile with significant data gaps that limit comprehensive evaluation. As a Lok Sabha member with ministerial duties, his profile shows clean criminal records but lacks substantive data across multiple transparency metrics. The available information suggests minimal documented parliamentary engagement, though this may be influenced by his executive responsibilities.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable for assessment, representing a critical transparency gap. The CAG audit context for Bihar reveals systemic concerns that may affect constituency development: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings highlight potential challenges in development fund management that could impact Hajipur constituency, though specific local data is not available.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, preventing assessment of financial transparency. Previous asset values, growth ratios, and net worth information are all missing from available sources. This represents a significant transparency deficit, as asset declarations are fundamental to evaluating potential conflicts of interest and financial accountability. The monthly compensation of ₹2,45,000 is the only available financial figure.\n\n### Legal & Criminal Standing\nChirag Paswan maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings due to potential source limitations, warranting cautious interpretation despite the favorable indication.\n\n### Parliamentary Performance\nParliamentary activity data shows minimal recorded engagement with zero questions asked, zero debate participations, and zero private member bills introduced. Attendance percentage is unavailable. While these metrics appear concerning, it's important to note that as a minister, Chirag Paswan's lower parliamentary visibility may be attributed to executive duties that often require ministers to focus on administrative responsibilities rather than floor participation. No committee membership data is available due to potentially unavailable Sansad profile information.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 news articles identified, all categorized as neutral with no positive or negative sentiment detected. This suggests limited media visibility or controversy. The evidence grade for accessibility stands at 'D', indicating poor data availability for assessing public engagement mechanisms. Social media presence and citizen interaction data are not comprehensively captured in available sources.\n\n### Data Quality & Caveats\nMultiple automated warnings indicate significant data quality concerns:\n- Low confidence in criminal record data due to potential source unavailability\n- Low confidence in asset declarations and MPLADS utilization data\n- Low confidence in parliamentary activity metrics\n- Absence of committee participation data due to potentially unavailable Sansad profile\n- Limited legislative effectiveness data\n\nEvidence grades of 'C' for parliament data and 'D' for accessibility reflect substantial data gaps. Sources include PRS, social media, and news outlets, but coverage appears incomplete across multiple transparency dimensions.\n\n### Key Takeaway\nChirag Paswan's transparency profile is significantly hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and detailed parliamentary performance. While maintaining a clean criminal record, the absence of comprehensive financial and developmental fund data prevents thorough accountability assessment. His ministerial role may explain limited parliamentary floor activity, but the overall data gaps represent a substantial transparency challenge that requires improved disclosure mechanisms for meaningful public accountability evaluation.",
-  "validated_at": "2026-05-21T14:28:26.645462Z"
+  "validated_at": "2026-05-21T14:28:26.645462Z",
+  "assets": {
+    "total_assets": 26875873.0,
+    "liabilities": 0.0,
+    "net_worth": 26875873.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7281",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7281",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 7.6,
+    "expended": 3.99,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:34.933909Z",
+        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 79 sanctioned, 42 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 90,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 27.142857142857146
+  }
 }

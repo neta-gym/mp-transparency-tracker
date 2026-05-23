@@ -4,16 +4,16 @@
     "constituency": "Korba",
     "state": "chhattisgarh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3647,
     "slug": "jyotsna-charandas-mahant",
     "house": "lok_sabha",
     "sansad_member_id": 5011,
     "profile_url": null,
     "canonical_name": "Jyotsna Charandas Mahant",
     "name_aliases": [],
-    "education": null,
+    "education": "Post Graduate",
     "profession": null,
-    "age": null,
+    "age": 70,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Jyotsna Charandas Mahant\n\n### Overall Assessment\nJyotsna Charandas Mahant, representing Korba constituency in Chhattisgarh for the Indian National Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. Her parliamentary attendance of 85% demonstrates above-average engagement, though broader transparency metrics remain unclear due to missing financial and development fund data.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap, particularly concerning given CAG audit findings revealing systemic issues in Chhattisgarh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities nationally, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for MP Mahant, her constituency's development impact cannot be evaluated.\n\n### Financial Transparency\nAsset disclosure information is completely missing, with no current or previous asset values, growth ratios, or net worth data available. This absence of financial transparency data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. The lack of asset information represents a significant barrier to evaluating her financial accountability to constituents.\n\n### Legal & Criminal Standing\nMP Mahant maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, suggesting the information may be incomplete rather than definitively accurate.\n\n### Parliamentary Performance\nHer parliamentary engagement shows moderate activity levels with 85% attendance, significantly above the typical average for Lok Sabha members. She has raised 21 questions and participated in 3 debates, indicating reasonable legislative engagement. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity evidence grade of 'C' indicates moderate data quality for these metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals limited public visibility, with only 10 total articles identified. The coverage breakdown shows predominantly neutral reporting (9 articles) with minimal positive coverage (0 articles) and only 1 negative article. This low media presence suggests either limited public engagement or restricted media access to her activities. The accessibility evidence grade of 'D' indicates poor data availability for measuring her constituent outreach and public communication efforts.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to widespread missing data. Critical warnings include low confidence in criminal record data due to source unavailability, complete absence of asset information, and unavailable MPLADS utilization data. Committee membership information is entirely missing, suggesting her Sansad profile may be inaccessible. Legislative effectiveness data also carries low confidence ratings. These gaps significantly limit the reliability of this transparency assessment and suggest systemic issues with data collection or disclosure.\n\n### Key Takeaway\nWhile MP Mahant demonstrates reasonable parliamentary attendance and maintains a clean legal record, her overall transparency profile is severely hampered by missing financial and development fund data. The absence of MPLADS utilization information is particularly concerning given documented fund management issues in Chhattisgarh. Her limited media presence and the poor data quality across multiple transparency metrics suggest either inadequate disclosure practices or systematic barriers to accessing her performance information, limiting voters' ability to evaluate her effectiveness as their representative.",
-  "validated_at": "2026-05-21T14:23:43.272180Z"
+  "validated_at": "2026-05-21T14:23:43.272180Z",
+  "assets": {
+    "total_assets": 179626733.0,
+    "liabilities": 500000.0,
+    "net_worth": 179126733.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3647",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3647",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.52,
+    "released": 15.52,
+    "sanctioned": 9.75,
+    "expended": 6.72,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:21:18.570324Z",
+        "notes": "Official eSAKSHI REST API — Works: 288 recommended, 278 sanctioned, 93 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 288,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 43.29896907216495
+  }
 }

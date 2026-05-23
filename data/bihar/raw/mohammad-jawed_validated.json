@@ -4,16 +4,16 @@
     "constituency": "Kishanganj",
     "state": "bihar",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 2240,
     "slug": "mohammad-jawed",
     "house": "lok_sabha",
     "sansad_member_id": 5216,
     "profile_url": null,
     "canonical_name": "Mohammad Jawed",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 60,
     "photo_url": null
   },
   "findings": {
@@ -456,5 +456,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Mohammad Jawed\n\n### Overall Assessment\n\nMohammad Jawed, the Indian National Congress MP representing Kishanganj constituency in Bihar, demonstrates strong parliamentary engagement but operates within a context of limited data transparency. With perfect attendance (100%) and active participation in legislative proceedings, he shows commitment to his parliamentary duties. However, significant data gaps across financial disclosures and development metrics prevent a comprehensive assessment of his overall effectiveness as a public representative.\n\n### Fund Utilization & Development\n\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Mohammad Jawed, including entitlement, release, expenditure, or utilization rates. This absence of information is concerning given that MPLADS represents a crucial mechanism for MPs to drive local development. The lack of data prevents evaluation of his contribution to constituency development projects.\n\nBihar's MPLADS implementation faces systemic challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader implementation concerns that may affect Kishanganj's development trajectory.\n\n### Financial Transparency\n\nAsset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for public accountability. The absence of this fundamental information raises concerns about financial disclosure compliance.\n\nMohammad Jawed's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\n\nMohammad Jawed maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating due to potential source unavailability, necessitating cautious interpretation of these figures.\n\n### Parliamentary Performance\n\nMohammad Jawed demonstrates exemplary parliamentary attendance with a perfect 100% record, significantly above average participation levels. His legislative engagement includes 41 questions raised and participation in 16 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation.\n\nNo committee assignment data is available, which represents a gap in understanding his specialized parliamentary contributions. Committee work often constitutes a significant portion of an MP's legislative effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting minimal public controversy but also limited positive visibility. This neutral coverage pattern may indicate either measured public engagement or insufficient media attention to his constituency work.\n\nThe evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and communication channels. This low rating suggests potential deficiencies in constituent services and public engagement mechanisms.\n\n### Data Quality & Caveats\n\nThis assessment faces significant limitations due to multiple data quality issues:\n\n- Criminal record data carries low confidence due to source unavailability\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is entirely absent\n- Committee assignments are unavailable\n- Legislative effectiveness data has low confidence ratings\n\nThe overall evidence grade for parliament activity is 'C', indicating moderate data reliability. These limitations substantially constrain the ability to provide a comprehensive evaluation of Mohammad Jawed's performance across key metrics.\n\n### Key Takeaway\n\nMohammad Jawed presents a mixed profile characterized by strong parliamentary attendance and active legislative participation, offset by significant transparency deficits in financial disclosures and development fund utilization. While his clean criminal record and perfect attendance demonstrate basic compliance and commitment, the absence of critical data on assets, MPLADS implementation, and constituency development work prevents a complete assessment of his effectiveness as a public representative. Improved data disclosure and transparency would be essential for comprehensive public accountability evaluation.",
-  "validated_at": "2026-05-21T14:24:05.635128Z"
+  "validated_at": "2026-05-21T14:24:05.635128Z",
+  "assets": {
+    "total_assets": 159675943.0,
+    "liabilities": 16562000.0,
+    "net_worth": 143113943.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.87,
+    "released": 14.87,
+    "sanctioned": 11.37,
+    "expended": 8.39,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:44.069294Z",
+        "notes": "Official eSAKSHI REST API — Works: 183 recommended, 176 sanctioned, 116 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 183,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 56.42232683254876
+  }
 }

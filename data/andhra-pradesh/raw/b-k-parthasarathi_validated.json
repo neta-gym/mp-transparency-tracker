@@ -4,16 +4,16 @@
     "constituency": "Hindupur",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5109,
     "slug": "b-k-parthasarathi",
     "house": "lok_sabha",
     "sansad_member_id": 292,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 65,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: B K Parthasarathi\n\n### Overall Assessment\nB K Parthasarathi, Telugu Desam Party MP from Hindupur constituency in Andhra Pradesh, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and moderate parliamentary attendance, substantial information about his financial assets and development fund utilization remains unavailable, limiting comprehensive assessment of his performance and accountability.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This absence is particularly concerning given the CAG audit context for Andhra Pradesh, which identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. The audit also found 18% of sampled works were abandoned or incomplete, highlighting broader governance challenges in the state's development fund management.\n\n### Financial Transparency\nAsset declaration information is completely missing, with no data available on current net worth, previous assets, or growth ratios. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The absence of this fundamental information prevents assessment of potential conflicts of interest or unusual wealth accumulation patterns.\n\n### Legal & Criminal Standing\nParthasarathi maintains a clean legal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the absence of recorded cases may reflect data limitations rather than definitively clean standing.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 70% attendance rate, which meets reasonable expectations for constituency representation. Parthasarathi has asked 42 questions in Parliament, demonstrating some level of legislative engagement. However, he has not participated in debates (0 recorded) or introduced private bills (0), indicating limited proactive legislative contribution beyond basic questioning duties. No committee membership information is available, further limiting assessment of his parliamentary involvement.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative coverage identified. This suggests limited public visibility or controversial positions. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. Social media presence appears minimal based on available data sources.\n\n### Data Quality & Caveats\nMultiple data quality issues significantly impact this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is entirely missing despite being legally required disclosure. MPLADS data is completely unavailable, preventing evaluation of development fund stewardship. Committee participation data is absent, possibly due to unavailable Sansad profiles. The parliament evidence grade is 'C' and accessibility grade is 'D', indicating moderate to poor data quality across key transparency metrics.\n\n### Key Takeaway\nWhile B K Parthasarathi maintains a clean criminal record and adequate parliamentary attendance, critical transparency gaps in asset disclosure and development fund utilization severely limit public accountability assessment. The MP demonstrates basic parliamentary engagement through questioning but lacks evidence of broader legislative leadership or public accessibility, with systemic CAG audit findings in Andhra Pradesh raising additional concerns about development fund governance in his operational context.",
-  "validated_at": "2026-05-21T14:24:27.178969Z"
+  "validated_at": "2026-05-21T14:24:27.178969Z",
+  "assets": {
+    "total_assets": 168959895.0,
+    "liabilities": 17890470.0,
+    "net_worth": 151069425.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5109",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 15,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 15,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5109",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 16.05,
+    "released": 16.05,
+    "sanctioned": 7.94,
+    "expended": 3.49,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:11:26.056649Z",
+        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 88 sanctioned, 34 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 90,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 21.744548286604363
+  }
 }

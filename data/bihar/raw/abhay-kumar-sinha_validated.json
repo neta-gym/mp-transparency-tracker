@@ -646,5 +646,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Abhay Kumar Sinha\n\n### Overall Assessment\nAbhay Kumar Sinha, representing Aurangabad constituency in Bihar for Rashtriya Janata Dal, presents a mixed transparency profile. While maintaining reasonable parliamentary attendance (80%) and demonstrating substantial personal wealth (₹10.77 crores in assets), significant concerns exist regarding his legal standing with 17 pending criminal cases and lack of accessible MPLADS utilization data.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable for assessment, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG audit findings highlighting systemic issues in Bihar's fund management. CAG Report 31 of 2010 identified ₹1,558 crores in idle funds across state district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without accessible MPLADS data, voters cannot evaluate Sinha's developmental impact.\n\n### Financial Transparency\nSinha declares total assets of ₹10.77 crores with a net worth of ₹5.99 crores. However, transparency is limited by the absence of previous asset data, preventing assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation of ₹2.45 lakhs provides clear income documentation. The significant asset base relative to his background as a 12th-pass ex-MLA drawing pension warrants closer scrutiny of income sources and accumulation patterns.\n\n### Legal & Criminal Standing\nSinha faces a concerning legal profile with 17 pending criminal cases and zero disposed cases, indicating potential delays in judicial proceedings. Notably, none are classified as \"serious\" cases, though case descriptions are largely unavailable, limiting assessment of their nature and severity. The cases span multiple FIR numbers (312/15, 318/15, 380/15, 381/15) from Gaya, suggesting a pattern requiring attention. With zero convictions to date, the legal proceedings remain unresolved.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate effectiveness with 80% attendance, exceeding many peers' performance. Sinha has raised 11 questions and participated in 11 debates, demonstrating active legislative participation. However, he has introduced zero private member bills, indicating limited legislative initiative. Committee participation data is unavailable, preventing comprehensive assessment of his institutional engagement beyond floor activities.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are severely limited. News coverage analysis reveals 10 articles with entirely neutral sentiment—no positive or negative coverage identified. This neutral media profile, while avoiding controversy, may indicate limited public visibility or impact. Social media and direct accessibility measures are not documented, creating significant gaps in understanding his constituent engagement and responsiveness.\n\n### Data Quality & Caveats\nData quality varies significantly across categories with evidence grades ranging from B to D. Criminal and assets data receive B-grade confidence, while parliamentary performance data is C-grade and accessibility measures are D-grade. Critical gaps include unavailable MPLADS utilization data, missing committee information, and absent constituent engagement metrics. The warning flags specifically highlight low confidence in MPLADS data and legislative effectiveness measures, significantly limiting transparency assessment.\n\n### Key Takeaway\nAbhay Kumar Sinha's transparency profile reveals a parliamentarian with substantial personal wealth and moderate legislative engagement, but faces significant challenges including 17 pending criminal cases and critical data gaps in fund utilization. The complete absence of MPLADS transparency, combined with concerning legal issues and limited public engagement documentation, undermines accountability. Voters lack essential information to evaluate his developmental impact and fiscal responsibility, highlighting the need for improved transparency mechanisms and resolution of pending legal matters.",
-  "validated_at": "2026-05-21T14:34:18.663634Z"
+  "validated_at": "2026-05-21T14:34:18.663634Z",
+  "assets": {
+    "total_assets": 107718589.0,
+    "liabilities": 47801483.0,
+    "net_worth": 59917106.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1702",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 16,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 16,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1702",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 8.77,
+    "expended": 5.9,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:19:29.779737Z",
+        "notes": "Official eSAKSHI REST API — Works: 232 recommended, 171 sanctioned, 123 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 232,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 40.13605442176871
+  }
 }

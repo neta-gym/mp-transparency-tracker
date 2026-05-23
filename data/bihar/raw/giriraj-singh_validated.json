@@ -4,16 +4,16 @@
     "constituency": "Begusarai",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5058,
     "slug": "giriraj-singh",
     "house": "lok_sabha",
     "sansad_member_id": 4641,
     "profile_url": null,
     "canonical_name": "Giriraj Singh",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 71,
     "photo_url": null
   },
   "findings": {
@@ -462,5 +462,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Giriraj Singh\n\n### Overall Assessment\nGiriraj Singh, BJP MP from Begusarai, Bihar, presents a challenging transparency profile due to significant data gaps across critical metrics. Currently serving as a Minister, which affects some performance expectations, the available information suggests limited transparency in financial disclosures and parliamentary engagement tracking. The analysis is severely hampered by missing data across asset declarations, MPLADS utilization, and parliamentary activity records.\n\n### Fund Utilization & Development\nNo MPLADS data is available for entitled funds, releases, expenditure, or utilization rates, making it impossible to assess Singh's development fund management. This data gap is concerning given Bihar's historical MPLADS implementation challenges. CAG audits from 2010 identified systemic issues in the state, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting the importance of robust monitoring that cannot be evaluated for this constituency due to missing data.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of Rs 2,45,000, which provides no insight into personal wealth or potential conflicts of interest.\n\n### Legal & Criminal Standing\nSingh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential source reliability issues. While the available information indicates no legal complications, the data quality caveat requires careful interpretation.\n\n### Parliamentary Performance\nParliamentary activity data is entirely missing, with no recorded information on attendance rates, questions asked, debates participated in, or private bills introduced. Singh's ministerial status may explain lower attendance expectations due to executive responsibilities, but the complete absence of participation metrics prevents any meaningful assessment of legislative engagement. This data gap significantly limits transparency regarding his representative duties.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This neutral media presence suggests limited public visibility or controversial positions. However, the evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. The absence of committee participation data further limits assessment of his institutional engagement beyond ministerial duties.\n\n### Data Quality & Caveats\nThe analysis faces substantial limitations due to multiple data quality issues:\n- **Criminal records**: Low confidence warning indicates potential source unavailability\n- **Assets**: Low confidence in asset declaration data\n- **MPLADS**: Low confidence in fund utilization data\n- **Parliamentary activity**: Low confidence in participation metrics\n- **Committee work**: No data found, possibly due to unavailable Sansad profile\n- **Overall evidence grades**: Parliament performance rated 'C', accessibility rated 'D'\n\nThese widespread data gaps significantly compromise the reliability of this transparency assessment and suggest systemic issues with information availability or disclosure practices.\n\n### Key Takeaway\nGiriraj Singh's transparency profile is severely compromised by extensive missing data across virtually all key performance indicators, from asset declarations to parliamentary participation and MPLADS utilization. While he maintains a clean legal record and receives neutral media coverage, the absence of critical transparency metrics raises questions about accountability and public access to information. The 'D' grade for accessibility and multiple low-confidence data warnings suggest urgent need for improved disclosure practices and data management systems to enable meaningful public oversight of his representative performance.",
-  "validated_at": "2026-05-21T14:31:18.811232Z"
+  "validated_at": "2026-05-21T14:31:18.811232Z",
+  "assets": {
+    "total_assets": 143169297.0,
+    "liabilities": 9000000.0,
+    "net_worth": 134169297.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5058",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 3,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 3,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5058",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 4.33,
+    "expended": 3.14,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:20:38.450101Z",
+        "notes": "Official eSAKSHI REST API — Works: 33 recommended, 33 sanctioned, 16 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 33,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 21.360544217687078
+  }
 }

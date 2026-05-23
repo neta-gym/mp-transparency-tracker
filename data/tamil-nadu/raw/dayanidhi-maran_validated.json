@@ -4,16 +4,16 @@
     "constituency": "Chennai Central",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 1043,
     "slug": "dayanidhi-maran",
     "house": "lok_sabha",
     "sansad_member_id": 4144,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 57,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Dayanidhi Maran\n\n### Overall Assessment\nDayanidhi Maran, representing Chennai Central constituency for the Dravida Munnetra Kazhagam (DMK), presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While maintaining clean legal standing and moderate parliamentary attendance, substantial missing information on assets and MPLADS utilization limits full assessment of his performance as a public representative.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, showing no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given that MPLADS funds are a key tool for constituency development. The absence of this data prevents assessment of his effectiveness in utilizing allocated development funds for Chennai Central's benefit. CAG audit findings reveal systemic issues across Tamil Nadu, including ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, raising questions about the broader MPLADS implementation framework in the state.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to assess potential conflicts of interest or track wealth accumulation patterns. The MP receives a total monthly compensation of ₹2,45,000, which appears standard for Lok Sabha members, but without asset declarations, comprehensive financial oversight remains impossible.\n\n### Legal & Criminal Standing\nMaran maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the clean slate is positive, the data quality concerns require acknowledgment when evaluating this aspect of his profile.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with 75% attendance, meeting the baseline expectation for legislative participation. However, his legislative activity appears limited with only 30 questions raised, 2 debate participations, and zero private member bills introduced. This suggests a relatively passive approach to parliamentary duties, with minimal proactive legislative engagement. No committee membership data is available due to unavailable Sansad profile information, creating another gap in assessing his parliamentary contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral to mixed public perception, with 10 articles showing balanced coverage (1 positive, 1 negative, 8 neutral). This suggests limited public controversy but also potentially limited public engagement or visibility. The predominantly neutral coverage indicates neither strong advocacy achievements nor significant controversies, pointing to a low-profile parliamentary approach. Accessibility data receives a 'D' grade, suggesting poor public engagement mechanisms.\n\n### Data Quality & Caveats\nThe analysis faces significant data quality challenges across multiple domains. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information is completely missing, creating a major transparency gap. MPLADS data is entirely unavailable despite being crucial for constituency development assessment. Committee participation data is missing due to unavailable Sansad profiles. The parliament performance grade of 'C' and accessibility grade of 'D' reflect these data limitations and moderate performance levels.\n\n### Key Takeaway\nDayanidhi Maran's transparency profile is severely hampered by missing critical data, particularly in financial disclosures and development fund utilization - two key areas for public accountability. While maintaining clean legal standing and reasonable parliamentary attendance, the substantial data gaps and limited legislative activity suggest room for improvement in both transparency practices and proactive representation. The absence of asset declarations and MPLADS information represents a significant concern for public oversight, requiring urgent attention to meet basic transparency standards expected from elected representatives.",
-  "validated_at": "2026-05-21T14:21:06.870495Z"
+  "validated_at": "2026-05-21T14:21:06.870495Z",
+  "assets": {
+    "total_assets": 170770037.0,
+    "liabilities": 0.0,
+    "net_worth": 170770037.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1043",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 4,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 4,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1043",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.6,
+    "expended": 2.56,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:12.610927Z",
+        "notes": "Official eSAKSHI REST API — Works: 11 recommended, 4 sanctioned, 0 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 11,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 17.41496598639456
+  }
 }

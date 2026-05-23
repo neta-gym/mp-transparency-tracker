@@ -4,16 +4,16 @@
     "constituency": "Churu",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 395,
     "slug": "rahul-kaswan",
     "house": "lok_sabha",
     "sansad_member_id": 4654,
     "profile_url": null,
     "canonical_name": "Rahul Kaswan",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 47,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Rahul Kaswan\n\n### Overall Assessment\nRahul Kaswan, Indian National Congress MP representing Churu constituency in Rajasthan, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While demonstrating strong parliamentary attendance (100%) and maintaining a clean legal record, critical information about assets, MPLADS fund utilization, and committee participation remains unavailable, raising concerns about overall transparency accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS is a key mechanism for constituency development. The absence of this data prevents assessment of Kaswan's effectiveness in utilizing allocated development funds for Churu's benefit. CAG audit reports highlight systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation, context that makes transparent MPLADS reporting even more crucial.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information available on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability. The MP receives Rs 245,000 in monthly compensation, but without baseline asset information, it's impossible to assess potential conflicts of interest or track wealth accumulation during tenure. This data gap undermines financial transparency standards expected of elected representatives.\n\n### Legal & Criminal Standing\nKaswan maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, or convictions. However, the criminal record data carries a \"low confidence\" warning, indicating potential source unavailability issues. While the clean record is positive, the data quality concerns prevent full confidence in this assessment.\n\n### Parliamentary Performance\nKaswan demonstrates strong parliamentary attendance at 100%, indicating commitment to legislative duties. He has raised 40 questions and participated in 20 debates, showing active engagement in parliamentary proceedings. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. No committee participation data is available due to potential Sansad profile unavailability, creating a gap in assessing his contribution to detailed legislative work and oversight functions.\n\n### Public Engagement & Accessibility\nMedia coverage shows neutral engagement with 10 articles providing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited media visibility but absence of controversy. However, the transparency profile receives a 'D' grade for accessibility, indicating poor public access to information about the MP's activities and performance. This low accessibility score undermines public accountability and citizen engagement with their elected representative.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues: criminal record data has low confidence due to source unavailability; asset information is completely missing with low confidence ratings; MPLADS data is entirely absent; and no committee information is available. The overall evidence grade is 'C' for parliament activity and 'D' for accessibility. These data gaps severely limit the comprehensiveness of this transparency assessment and suggest systemic issues with information disclosure or data collection processes.\n\n### Key Takeaway\nWhile Rahul Kaswan demonstrates commitment through perfect parliamentary attendance and maintains a clean legal record, his transparency profile suffers from critical data gaps in asset disclosure, MPLADS utilization, and committee participation. The absence of financial transparency information and development fund utilization data, combined with poor accessibility scores, creates significant accountability deficits. Citizens of Churu lack essential information needed to evaluate their representative's performance and financial integrity, undermining democratic accountability standards.",
-  "validated_at": "2026-05-21T14:25:46.311255Z"
+  "validated_at": "2026-05-21T14:25:46.311255Z",
+  "assets": {
+    "total_assets": 53322989.0,
+    "liabilities": 24417448.0,
+    "net_worth": 28905541.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=395",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=395",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 9.15,
+    "expended": 4.8,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:46:04.811992Z",
+        "notes": "Official eSAKSHI REST API — Works: 117 recommended, 109 sanctioned, 14 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 117,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 32.6530612244898
+  }
 }

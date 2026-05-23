@@ -4,16 +4,16 @@
     "constituency": "Kolhapur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3847,
     "slug": "shahu-shahaji-chhatrapati",
     "house": "lok_sabha",
     "sansad_member_id": 5766,
     "profile_url": null,
     "canonical_name": "Shahu Shahaji Chhatrapati",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 76,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Shahu Shahaji Chhatrapati\n\n### Overall Assessment\n\nShahu Shahaji Chhatrapati, Indian National Congress MP from Kolhapur, Maharashtra, presents a limited transparency profile due to significant data gaps across key performance indicators. Available evidence suggests moderate parliamentary engagement with concerning attendance rates, while financial and developmental metrics remain largely unavailable for assessment.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact in the Kolhapur constituency. This data gap is particularly concerning given Maharashtra's documented issues with fund management. CAG audits reveal systemic problems in the state including Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for this MP, it's impossible to determine whether these state-wide issues affect Kolhapur's development funding.\n\n### Financial Transparency\n\nAsset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth. This represents a significant transparency gap that prevents public assessment of financial interests and potential conflicts. The MP's monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration.\n\n### Legal & Criminal Standing\n\nThe MP shows a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, suggesting potential source unavailability that could affect accuracy.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with a concerning 45% attendance rate in the Lok Sabha, falling well below optimal standards for constituent representation. Legislative activity appears minimal with zero questions raised, only 2 debate participations, and no private member bills introduced. This limited parliamentary activity suggests reduced advocacy for constituency interests at the national level. No committee membership data is available, further limiting assessment of the MP's legislative contributions.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage detected. This neutral media profile may indicate limited public visibility or controversial positions, though the small sample size limits conclusive assessment. Social media and direct public engagement metrics are not available. The evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and communication channels.\n\n### Data Quality & Caveats\n\nThis assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, asset information, and MPLADS utilization figures. Parliamentary performance data receives a 'C' grade, while accessibility metrics score 'D'. Legislative effectiveness data also carries low confidence warnings. The absence of committee participation data suggests potential Sansad profile unavailability. These data gaps severely constrain meaningful transparency assessment and suggest either poor record-keeping systems or limited digital disclosure practices.\n\n### Key Takeaway\n\nShahu Shahaji Chhatrapati's transparency profile is hindered by extensive data unavailability across financial, developmental, and engagement metrics. While showing a clean criminal record and standard compensation, the 45% parliamentary attendance rate and minimal legislative activity raise questions about active constituency representation. The complete absence of MPLADS and asset data prevents assessment of developmental impact and financial transparency - critical elements for public accountability. Enhanced data collection and disclosure mechanisms are essential for meaningful transparency evaluation.",
-  "validated_at": "2026-05-21T14:23:54.951376Z"
+  "validated_at": "2026-05-21T14:23:54.951376Z",
+  "assets": {
+    "total_assets": 3428668000.0,
+    "liabilities": 0.0,
+    "net_worth": 3428668000.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3847",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 1,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 1,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3847",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.81,
+    "expended": 2.15,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:31:24.243051Z",
+        "notes": "Official eSAKSHI REST API — Works: 101 recommended, 28 sanctioned, 19 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 101,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 14.625850340136054
+  }
 }

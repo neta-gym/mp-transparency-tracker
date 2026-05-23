@@ -4,16 +4,16 @@
     "constituency": "Shirur",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 5327,
     "slug": "amol-ramsing-kolhe",
     "house": "lok_sabha",
     "sansad_member_id": 5185,
     "profile_url": null,
     "canonical_name": "Amol Ramsing Kolhe",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate Professional",
     "profession": null,
-    "age": null,
+    "age": 43,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Amol Ramsing Kolhe\n\n### Overall Assessment\nAmol Ramsing Kolhe, representing Shirur constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile characterized by moderate parliamentary engagement but significant data gaps across key accountability metrics. While maintaining a clean legal record, the substantial absence of financial and development fund data severely limits comprehensive assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, making it impossible to assess Kolhe's development work effectiveness. This data gap is concerning given CAG audit findings highlighting systemic issues in Maharashtra's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also revealed 18% of sampled works were abandoned or incomplete, raising questions about development project oversight in the state.\n\n### Financial Transparency\nAsset declaration data is completely missing, preventing any analysis of Kolhe's financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing elected representatives' financial accountability and potential corruption risks.\n\n### Legal & Criminal Standing\nKolhe maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, indicating potential source reliability issues that could affect the accuracy of criminal record information.\n\n### Parliamentary Performance\nKolhe demonstrates moderate parliamentary engagement with 70% attendance, meeting the minimum participation threshold. His legislative activity includes asking 65 questions and participating in 5 debates, showing reasonable involvement in parliamentary proceedings. However, he has introduced zero private member bills, indicating limited initiative in proposing independent legislation. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 8 news articles with entirely neutral sentiment - zero positive or negative coverage. This neutral profile suggests limited public visibility or controversial positions. The accessibility evidence grade is rated 'D', indicating poor data availability regarding public engagement metrics. No social media or public outreach data is available to assess constituent interaction levels.\n\n### Data Quality & Caveats\nThis assessment faces significant data quality limitations with multiple warning flags. Criminal record data has low confidence due to potential source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is entirely absent, preventing fund utilization analysis. Committee membership information is unavailable, possibly due to missing Sansad profile data. Legislative effectiveness data also carries low confidence ratings, limiting comprehensive performance assessment.\n\n### Key Takeaway\nWhile Kolhe maintains basic parliamentary participation and a clean legal record, the extensive data gaps across financial transparency and development fund utilization metrics severely compromise accountability assessment. The absence of asset declarations and MPLADS data, combined with concerning CAG audit findings about fund mismanagement in Maharashtra, raises transparency concerns that require immediate attention for comprehensive public accountability.",
-  "validated_at": "2026-05-21T14:30:55.539237Z"
+  "validated_at": "2026-05-21T14:30:55.539237Z",
+  "assets": {
+    "total_assets": 84207251.0,
+    "liabilities": 44971049.0,
+    "net_worth": 39236202.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5327",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5327",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 2.24,
+    "expended": 1.86,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:29:53.004841Z",
+        "notes": "Official eSAKSHI REST API — Works: 102 recommended, 27 sanctioned, 8 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 102,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 12.653061224489798
+  }
 }

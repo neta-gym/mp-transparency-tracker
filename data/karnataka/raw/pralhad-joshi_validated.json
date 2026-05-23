@@ -4,16 +4,16 @@
     "constituency": "Dharwad",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 3567,
     "slug": "pralhad-joshi",
     "house": "lok_sabha",
     "sansad_member_id": 3982,
     "profile_url": null,
     "canonical_name": "Pralhad Joshi",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 61,
     "photo_url": null
   },
   "findings": {
@@ -446,5 +446,73 @@
     }
   ],
   "cross_reference_notes": "## Executive Summary: Pralhad Joshi\n\n### Overall Assessment\nPralhad Joshi, BJP MP from Dharwad constituency in Karnataka, presents a transparency profile severely hampered by data availability issues. With ministerial responsibilities that may affect traditional parliamentary metrics, the available information provides limited insight into his performance across key transparency indicators. The evidence grades of 'C' for parliament and 'D' for accessibility reflect significant data gaps that constrain comprehensive evaluation.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is unavailable, making it impossible to assess Joshi's track record in constituency development. However, CAG audit findings provide concerning context for Karnataka's fund management practices. The 2010 CAG report (Report 31) identified systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings raise questions about the broader developmental fund ecosystem within which Joshi operates.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, preventing any assessment of financial transparency. No data exists on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to public accountability. The monthly compensation of Rs 245,000 is the only available financial data point.\n\n### Legal & Criminal Standing\nJoshi maintains a clean criminal record with zero cases across all categories - no pending cases, disposals, or convictions. However, the data quality warning indicates low confidence in this information due to potential source unavailability. While the clean record is positive, the reliability caveat requires acknowledgment.\n\n### Parliamentary Performance\nParliamentary activity metrics are unavailable, showing 0% attendance, zero questions raised, no debate participation, and no private member bills. However, Joshi's ministerial status provides crucial context - ministers typically have lower traditional parliamentary participation due to executive responsibilities. The 'C' evidence grade for parliamentary data suggests these metrics may not reflect actual performance due to data collection limitations rather than non-participation.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment (positive: 0, negative: 0, neutral: 10). This neutral coverage suggests absence of major controversies but also indicates limited positive visibility in public discourse. The 'D' accessibility grade highlights significant gaps in transparent communication channels and public engagement data.\n\n### Data Quality & Caveats\nMultiple data quality warnings severely limit this assessment's reliability:\n- Criminal records: Low confidence due to source unavailability\n- Asset information: Completely missing with low confidence ratings\n- MPLADS data: Unavailable with low confidence indicators\n- Parliamentary activity: Low confidence, though ministerial duties may explain apparent inactivity\n- Committee participation: No data found, possibly due to unavailable Sansad profiles\n- Legislative effectiveness: Low confidence in available data\n\nThese limitations span virtually all transparency indicators, creating substantial analytical constraints.\n\n### Key Takeaway\nPralhad Joshi's transparency profile is characterized by extensive data unavailability rather than poor performance indicators. While maintaining a clean legal record and neutral media coverage, the absence of critical information on assets, MPLADS utilization, and detailed parliamentary activity prevents meaningful transparency assessment. His ministerial role may explain some data patterns, particularly regarding traditional parliamentary metrics. The broader Karnataka context of developmental fund management issues identified by CAG audits underscores the importance of transparent fund utilization reporting, making the absence of MPLADS data particularly concerning for accountability purposes. Improved data availability across all transparency indicators is essential for proper public oversight.",
-  "validated_at": "2026-05-21T14:24:05.784805Z"
+  "validated_at": "2026-05-21T14:24:05.784805Z",
+  "assets": {
+    "total_assets": 210960953.0,
+    "liabilities": 80123332.0,
+    "net_worth": 130837621.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3567",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3567",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 14.7,
+    "released": 14.7,
+    "sanctioned": 3.4,
+    "expended": 1.61,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:24:24.055894Z",
+        "notes": "Official eSAKSHI REST API — Works: 191 recommended, 78 sanctioned, 18 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 191,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 10.952380952380954
+  }
 }

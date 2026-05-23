@@ -4,16 +4,16 @@
     "constituency": "Nashik",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": null,
+    "myneta_candidate_id": 7124,
     "slug": "rajabhau-parag-prakash-waje",
     "house": "lok_sabha",
     "sansad_member_id": 5790,
     "profile_url": null,
     "canonical_name": "Rajabhau Parag Prakash Waje",
     "name_aliases": [],
-    "education": null,
+    "education": "Graduate",
     "profession": null,
-    "age": null,
+    "age": 59,
     "photo_url": null
   },
   "findings": {
@@ -440,5 +440,73 @@
     }
   ],
   "cross_reference_notes": "# Executive Summary: Rajabhau Parag Prakash Waje\n\n## Executive Summary: Rajabhau Parag Prakash Waje\n\n### Overall Assessment\nRajabhau Parag Prakash Waje, representing Nashik constituency in Maharashtra for Shiv Sena (Uddhav Balasaheb Thackrey), presents a mixed transparency profile with significant data limitations. While maintaining perfect parliamentary attendance and a clean criminal record, critical information regarding assets and development fund utilization remains unavailable, limiting comprehensive assessment of his performance as a public representative.\n\n### Fund Utilization & Development\nComplete data on MPLADS fund utilization is unavailable, with no information on entitled amount, funds released, or expenditure patterns. This represents a significant transparency gap given the constituency's development needs. The absence of utilization data is concerning within the context of CAG audit findings revealing systematic issues in MPLADS implementation across Maharashtra, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 18% of sampled works remaining incomplete or abandoned.\n\n### Financial Transparency\nAsset declaration information is completely missing, with no data available on total assets, previous holdings, or wealth growth patterns. This prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset disclosure, comprehensive financial transparency cannot be evaluated. The absence of this mandatory information raises questions about compliance with disclosure requirements.\n\n### Legal & Criminal Standing\nWaje maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, or convictions. This clean slate indicates no formal legal challenges to his conduct, though data confidence is flagged as low due to potential source limitations. The absence of criminal proceedings suggests compliance with legal standards expected of elected representatives.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results with perfect attendance (100%) demonstrating commitment to legislative duties. However, active participation remains limited with only 7 questions raised and 5 debate contributions, indicating minimal involvement in legislative discourse. No private member bills were introduced, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable, preventing assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public perception with 10 articles providing balanced reporting - notably, zero positive or negative coverage suggests either limited media engagement or non-controversial tenure. The absence of accessibility data and social media engagement metrics limits evaluation of constituent outreach efforts. Evidence grade of 'D' for accessibility indicates poor transparency in public engagement channels.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact assessment reliability:\n- Criminal record data marked as low confidence due to potential source unavailability\n- Asset information completely missing with low confidence warnings\n- MPLADS utilization data absent with low confidence indicators\n- Committee participation information unavailable due to potential Sansad profile issues\n- Legislative effectiveness data flagged as low confidence\n- Overall evidence grades of 'C' for parliament and 'D' for accessibility indicate substantial data limitations\n\nThe Maharashtra CAG audit context reveals 7 relevant findings highlighting systematic issues in fund management and utilization across the state, though specific constituency-level data remains unavailable.\n\n### Key Takeaway\nWhile Rajabhau Parag Prakash Waje maintains perfect parliamentary attendance and a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization prevent comprehensive performance evaluation. The absence of mandatory financial disclosures and MPLADS data, combined with minimal legislative participation beyond attendance, suggests limited transparency and engagement. Improved data availability and more active parliamentary participation would enhance accountability to Nashik constituents. The clean legal standing provides a positive foundation, but substantial transparency improvements are needed across financial and development dimensions.",
-  "validated_at": "2026-05-21T14:39:15.551288Z"
+  "validated_at": "2026-05-21T14:39:15.551288Z",
+  "assets": {
+    "total_assets": 158637378.0,
+    "liabilities": 1918865.0,
+    "net_worth": 156718513.0,
+    "source": "myneta",
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7124",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      }
+    ]
+  },
+  "criminal_record": {
+    "total_cases": 0,
+    "serious_cases": 0,
+    "convictions": 0,
+    "pending_cases": 0,
+    "disposed_cases": 0,
+    "source": "myneta",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7124",
+        "source_name": "myneta",
+        "grade": "B",
+        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+      }
+    ]
+  },
+  "evidence_summary": {
+    "assets": "B",
+    "criminal": "B",
+    "mplads": "A"
+  },
+  "sources_consulted": [
+    "myneta",
+    "mplads"
+  ],
+  "mplads": {
+    "entitled": 15.29,
+    "released": 15.29,
+    "sanctioned": 7.2,
+    "expended": 2.13,
+    "source": "esakshi",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-05-23T17:30:17.270183Z",
+        "notes": "Official eSAKSHI REST API — Works: 95 recommended, 77 sanctioned, 12 completed"
+      }
+    ],
+    "works": [],
+    "works_count": 95,
+    "esakshi_coverage_start": "2023-04-01",
+    "period_data": [],
+    "cumulative_entitled": null,
+    "cumulative_released": null,
+    "cumulative_expended": null,
+    "includes_covid_suspension": false,
+    "data_period_note": "",
+    "utilization_rate": 13.93067364290386
+  }
 }
