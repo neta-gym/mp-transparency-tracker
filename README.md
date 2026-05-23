@@ -8,6 +8,8 @@ Live site: https://neta-gym.github.io/mp-transparency-tracker/
 
 ![Current national leaderboard](docs/assets/national-leaderboard.png)
 
+![Top 5 and lowest 5 MPs by current transparency score](docs/assets/top-bottom-mps.png)
+
 ## What this project is trying to do
 
 Public information about MPs is scattered across Parliament portals, affidavit sites, MPLADS data, PRS-style activity records, and other public datasets. A voter should not need to manually reconcile all of those sources to answer simple questions like:
@@ -307,6 +309,8 @@ Deployment workflow:
 
 ## Contributing
 
+Pull requests are welcome. If you want to add a feature, improve a source connector, refine the dashboard, or make the ranking methodology clearer, please raise a PR.
+
 Useful contribution areas:
 
 - source connector hardening
@@ -316,8 +320,9 @@ Useful contribution areas:
 - parser tests and fixture coverage
 - dashboard usability and performance
 - state/party/MP comparison views
+- new public-data signals that can be reproduced without hidden paid APIs
 
-Please keep changes deterministic, documented, source-attributable, and aligned with open-data principles.
+For larger changes, open an issue or draft PR first so the scoring impact and data-source assumptions can be discussed. Please keep changes deterministic, documented, source-attributable, and aligned with open-data principles.
 
 ## License
 
