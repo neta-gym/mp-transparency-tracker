@@ -9,6 +9,7 @@ import {
   ZoomableGroup,
 } from "react-simple-maps";
 import { getScoreColor, NO_DATA_COLOR } from "@/lib/colors";
+import { publicPath } from "@/lib/paths";
 import { useMapTooltip } from "@/hooks/useMapTooltip";
 import { MapTooltip } from "./MapTooltip";
 import type { LeaderboardEntry } from "@/lib/types";
@@ -120,7 +121,7 @@ export function StateMap({ stateSlug, entries }: StateMapProps) {
   const [geoData, setGeoData] = useState<unknown>(null);
 
   useEffect(() => {
-    fetch(`/geo/pc/${stateSlug}.json`)
+    fetch(publicPath(`/geo/pc/${stateSlug}.json`))
       .then((r) => r.json())
       .then(setGeoData)
       .catch(console.error);

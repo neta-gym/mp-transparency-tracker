@@ -9,6 +9,7 @@ import {
   ZoomableGroup,
 } from "react-simple-maps";
 import { getScoreColor, NO_DATA_COLOR } from "@/lib/colors";
+import { publicPath } from "@/lib/paths";
 import { useMapTooltip } from "@/hooks/useMapTooltip";
 import { MapTooltip } from "./MapTooltip";
 import type { StateManifest } from "@/lib/types";
@@ -79,7 +80,7 @@ export function IndiaMap({ states }: IndiaMapProps) {
   const [geoData, setGeoData] = useState<unknown>(null);
 
   useEffect(() => {
-    fetch("/geo/india-states.json")
+    fetch(publicPath("/geo/india-states.json"))
       .then((r) => r.json())
       .then(setGeoData)
       .catch(console.error);

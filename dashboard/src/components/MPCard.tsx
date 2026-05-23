@@ -3,6 +3,7 @@ import { ScoreBadge } from "./ScoreBadge";
 import { ConfidenceBadge } from "./ConfidenceBadge";
 import { getPartyColor, getPartyTextColor } from "@/lib/colors";
 import { cn } from "@/lib/cn";
+import { publicPath } from "@/lib/paths";
 import type { LeaderboardEntry } from "@/lib/types";
 
 interface MPCardProps {
@@ -35,7 +36,7 @@ export function MPCard({ entry, stateSlug, mpSlug, className }: MPCardProps) {
       {/* Photo */}
       {entry.photo_url ? (
         <img
-          src={entry.photo_url}
+          src={publicPath(entry.photo_url)}
           alt={entry.mp_name}
           className="w-10 h-10 rounded-full border-2 border-ink object-cover flex-shrink-0"
         />

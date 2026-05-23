@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -9,9 +9,9 @@ html {
 }
 
 body {
-  background-color: #FAFAFA;
+  background: radial-gradient(circle at 20% 0%, #eef2ff 0%, #f8fafc 35%, #f8fafc 100%);
   color: #0F172A;
-  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-family: 'Inter', system-ui, sans-serif;
 }
 
 /* Scrollbar styling */
@@ -41,10 +41,9 @@ body {
   );
 }
 
-/* Neo-brutalist utilities */
+/* Interaction utilities */
 .brutal-press:active {
-  transform: translate(2px, 2px);
-  box-shadow: none !important;
+  transform: translateY(1px);
 }
 
 .brutal-sticker {

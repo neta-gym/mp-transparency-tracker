@@ -7,6 +7,7 @@ import { StateSelector } from "@/components/StateSelector";
 import { ClientIndiaMap } from "@/components/ClientIndiaMap";
 import { formatScore } from "@/lib/format";
 import { getScoreColor } from "@/lib/colors";
+import { publicPath } from "@/lib/paths";
 import type { LeaderboardEntry } from "@/lib/types";
 
 function stateToSlug(state: string): string {
@@ -78,7 +79,7 @@ function FlashyMPLink({ mp, rank, variant }: { mp: LeaderboardEntry; rank: numbe
 
 				{mp.photo_url ? (
 					<img
-						src={mp.photo_url}
+						src={publicPath(mp.photo_url)}
 						alt={mp.mp_name}
 						className="h-12 w-12 shrink-0 rounded-full border-3 border-ink object-cover shadow-brutal-sm"
 					/>

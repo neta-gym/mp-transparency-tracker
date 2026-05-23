@@ -6,6 +6,7 @@ import type { LeaderboardEntry } from "@/lib/types";
 import { SCORE_COMPONENTS } from "@/lib/types";
 import { getScoreColor, getPartyColor, getPartyTextColor } from "@/lib/colors";
 import { formatScore } from "@/lib/format";
+import { publicPath } from "@/lib/paths";
 
 /** Derive MP slug from entry name */
 function entryToSlug(entry: LeaderboardEntry): string {
@@ -244,7 +245,7 @@ export function LeaderboardTable({
                       <Link href={href} className="flex-shrink-0">
                         {entry.photo_url ? (
                           <img
-                            src={entry.photo_url}
+                            src={publicPath(entry.photo_url)}
                             alt=""
                             className="w-8 h-8 rounded-full border-2 border-ink object-cover"
                           />

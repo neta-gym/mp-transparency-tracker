@@ -36,6 +36,7 @@ import { getMPScoreHistory } from "@/lib/trends";
 import { SCORE_COMPONENTS } from "@/lib/types";
 import { getPartyColor, getPartyTextColor, getScoreColor } from "@/lib/colors";
 import { formatDate } from "@/lib/format";
+import { publicPath } from "@/lib/paths";
 
 export function generateStaticParams() {
   const params: { stateSlug: string; mpSlug: string }[] = [];
@@ -94,7 +95,7 @@ export default async function MPDetailPage({ params }: PageProps) {
             {/* Photo */}
             {mp.photo_url ? (
               <img
-                src={mp.photo_url}
+                src={publicPath(mp.photo_url)}
                 alt={mp.name}
                 className="w-24 h-24 rounded-full border-3 border-ink object-cover shadow-brutal-sm"
               />

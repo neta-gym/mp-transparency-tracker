@@ -41,6 +41,8 @@ jobs:
         run: npm ci --legacy-peer-deps
 
       - name: Build static export
+        env:
+          NEXT_PUBLIC_BASE_PATH: /mp-transparency-tracker
         run: npm run build
 
       - name: Add .nojekyll (disable Jekyll on GH Pages)
