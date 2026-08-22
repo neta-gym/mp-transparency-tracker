@@ -1,6 +1,7 @@
 /** Server-side search utilities — uses Node.js fs via data.ts */
 
-import { getAllStates, getLeaderboard, entryToSlug } from "./data";
+import { getAllStates, getLeaderboard } from "./data";
+import { entryToSlug } from "./slug";
 
 // Re-export client-safe types and functions
 export type { SearchResult } from "./search-client";

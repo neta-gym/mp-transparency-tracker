@@ -4,8 +4,8 @@ import {
   getAllStates,
   getAllStateSlugs,
   getLeaderboard,
-  entryToSlug,
 } from "@/lib/data";
+import { entryToSlug } from "@/lib/slug";
 import { getStateBySlug } from "@/lib/states";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ColorLegend } from "@/components/ColorLegend";

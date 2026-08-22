@@ -7,14 +7,18 @@ from pydantic import Field, model_validator
 
 
 class ScoreWeights(BaseSettings):
-    """Weights for composite transparency score (must sum to 1.0)."""
+    """Weights for composite transparency score (must sum to 1.0).
 
-    mplads: float = 0.25
+    Rebalanced v3.1: Reduced MPLADS weight (data quality concerns),
+    increased criminal weight (most reliable data), improved accessibility.
+    """
+
+    mplads: float = 0.20
     asset: float = 0.15
-    criminal: float = 0.15
-    attendance: float = 0.10
+    criminal: float = 0.20
+    attendance: float = 0.15
     participation: float = 0.10
-    committee: float = 0.10
+    committee: float = 0.05
     accessibility: float = 0.05
     legislative: float = 0.10
 

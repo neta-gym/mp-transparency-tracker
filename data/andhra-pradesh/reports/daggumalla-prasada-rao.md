@@ -3,23 +3,23 @@
 **Constituency:** Chittoor, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 62.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -71,13 +71,13 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Ensure strict monitoring of welfare schemes: Chittoor MP - The Hans India (The Hans India) [positive]
 - Delimitation and women reservation bills will be inevitable, says Chittoor MP - The Times of India (The Times of India) [neutral]
-- Tirupati honours martyrs as Vijay Amrut Kalash Yatra arrives - Dailyhunt (Dailyhunt) [neutral]
+- Chittoor MLA surrenders his gunmen, later withdraws decision - The Times of India (The Times of India) [neutral]
 - Former IRS officer sees big scope for ‘MSMEs revolution’ in Chittoor - The Hindu (The Hindu) [neutral]
 - Chittoor MP highlights IAF’s role in national security and self-reliance - The Hindu (The Hindu) [neutral]
+- Chittoor Election Result 2024 LIVE Updates Highlights: Daggumalla Prasada Rao of TDP Wins - News18 (News18) [neutral]
 
 ---
 
@@ -88,47 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-MP Daggumalla Prasada Rao shows a mixed transparency profile with notable strengths in attendance (95%) and a clean criminal record (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency. However, the low data confidence (14%) and multiple validation flags indicate these metrics may not fully reflect the MP's actual performance.
+Daggumalla Prasada Rao shows moderate transparency with a score of 62.8/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: Daggumalla Prasada Rao
-
-### Overall Assessment
-Daggumalla Prasada Rao, representing Chittoor constituency in Andhra Pradesh for the Telugu Desam Party, demonstrates a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical accountability metrics. While maintaining excellent legislative attendance at 95%, comprehensive assessment is hampered by missing financial and development fund data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of the MP's development work effectiveness. This data gap is particularly concerning given CAG audit findings for Andhra Pradesh revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for this constituency, it's impossible to determine if these state-level problems affect Chittoor's development programs.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for assessing potential conflicts of interest. The MP receives Rs 2.45 lakh in monthly compensation, but without asset data, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Daggumalla Prasada Rao maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, this data carries a low confidence warning, indicating potential source reliability issues that should be noted when interpreting this clean record.
-
-### Parliamentary Performance
-The MP shows strong legislative engagement with 95% attendance, significantly above average parliamentary participation rates. Parliamentary activity includes 51 questions raised and participation in 2 debates, demonstrating active involvement in legislative processes. However, no private member's bills were introduced, and committee participation data is unavailable, limiting assessment of broader legislative contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited but balanced public engagement, with 10 articles tracked (1 positive, 0 negative, 9 neutral), suggesting minimal controversy but also limited public visibility. Social media and accessibility data receive a 'D' grade, indicating poor public engagement mechanisms. This low accessibility score suggests constituents may face challenges in reaching or interacting with their representative.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations affecting reliability:
-- **High Risk Gaps**: Complete absence of MPLADS and asset data prevents evaluation of two critical transparency dimensions
-- **Moderate Risk Issues**: Criminal record data flagged with low confidence warnings
-- **Missing Elements**: No committee participation or legislative effectiveness data available
-- **Evidence Quality**: Parliamentary data receives 'C' grade, accessibility 'D' grade
-
-These gaps significantly limit the comprehensiveness of this transparency assessment and suggest potential issues with data collection or disclosure compliance.
-
-### Key Takeaway
-While Daggumalla Prasada Rao demonstrates commitment to parliamentary duties through excellent attendance and maintains a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization prevent a complete accountability assessment. The missing MPLADS data is particularly concerning given documented state-level fund management issues. Improved data disclosure across financial and development metrics would significantly enhance transparency evaluation for this constituency's representation.
+No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 51. Debates participated: 2. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -168,7 +139,7 @@ While Daggumalla Prasada Rao demonstrates commitment to parliamentary duties thr
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -264,9 +235,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

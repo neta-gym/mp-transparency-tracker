@@ -31,6 +31,7 @@ import {
 import { RTITemplate } from "@/components/RTITemplate";
 import { CAGSection } from "@/components/CAGSection";
 import { PDFExportButton } from "@/components/PDFExportButton";
+import { MPStatusSummary } from "@/components/MPStatusSummary";
 import { TrendChart } from "@/components/TrendChart";
 import { getMPScoreHistory } from "@/lib/trends";
 import { SCORE_COMPONENTS } from "@/lib/types";
@@ -143,6 +144,9 @@ export default async function MPDetailPage({ params }: PageProps) {
           </div>
         </CardContent>
       </Card>
+
+      {/* Status Summary */}
+      <MPStatusSummary score={score} validated={validated} />
 
       {/* Score Breakdown */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">

@@ -20,6 +20,9 @@ from ..models.schemas import (
     NewsSentiment,
     LegislativeRecord,
     ConstituencyContext,
+    QuestionQuality,
+    AttendancePattern,
+    ConflictOfInterest,
 )
 from ..storage.database import Database
 from ..tools.myneta import MyNetaParser
@@ -31,7 +34,10 @@ from ..tools.sansad import SansadFetcher
 from ..tools.social_media import SocialMediaFetcher
 from ..tools.news import NewsFetcher
 from ..tools.constituency import ConstituencyFetcher
+from ..tools.sagy import SAGYFetcher
+from ..tools.cag import CAGFetcher
 from ..utils.mp_compensation import get_mp_compensation
+from ..utils.question_quality import assess_question_quality
 from ..utils.logger import get_logger
 from .base import BaseAgent
 
@@ -55,6 +61,8 @@ class ResearcherAgent(BaseAgent):
         social_media: Optional[SocialMediaFetcher] = None,
         news: Optional[NewsFetcher] = None,
         constituency: Optional[ConstituencyFetcher] = None,
+        sagy: Optional[SAGYFetcher] = None,
+        cag: Optional[CAGFetcher] = None,
     ) -> None:
         super().__init__(db)
         self.myneta = myneta
@@ -66,6 +74,8 @@ class ResearcherAgent(BaseAgent):
         self.social_media = social_media
         self.news = news
         self.constituency = constituency or ConstituencyFetcher()
+        self.sagy = sagy
+        self.cag = cag
 
     async def research(self, mp: MPProfile) -> ResearchFindings:
         """Research an MP from all available sources concurrently."""
@@ -119,6 +129,10 @@ class ResearcherAgent(BaseAgent):
         if self.news:
             tasks["news_sentiment"] = asyncio.create_task(
                 self.news.fetch_news(mp)
+            )
+        if self.sagy:
+            tasks["sagy"] = asyncio.create_task(
+                self.sagy.fetch_adoptions(mp)
             )
 
         # Gather results
@@ -175,8 +189,11 @@ class ResearcherAgent(BaseAgent):
                 if committees.confidence > 0:
                     sources_consulted.append("sansad_committees")
                     evidence_summary["committees"] = EvidenceGrade.A.value
+                else:
+                    evidence_summary["committees"] = EvidenceGrade.E.value
             except Exception as e:
                 log.warning("Committee fetch failed for %s: %s", mp.name, e)
+                evidence_summary["committees"] = EvidenceGrade.E.value
 
         if "legislative" in tasks:
             try:
@@ -184,8 +201,11 @@ class ResearcherAgent(BaseAgent):
                 if legislative.confidence > 0:
                     sources_consulted.append("sansad_legislative")
                     evidence_summary["legislative"] = EvidenceGrade.A.value
+                else:
+                    evidence_summary["legislative"] = EvidenceGrade.E.value
             except Exception as e:
                 log.warning("Legislative record fetch failed for %s: %s", mp.name, e)
+                evidence_summary["legislative"] = EvidenceGrade.E.value
 
         if "voting" in tasks:
             try:
@@ -201,16 +221,49 @@ class ResearcherAgent(BaseAgent):
                 if social_media.confidence > 0:
                     sources_consulted.append("social_media")
                     evidence_summary["accessibility"] = EvidenceGrade.D.value
+                else:
+                    evidence_summary["accessibility"] = EvidenceGrade.E.value
             except Exception as e:
                 log.warning("Social media fetch failed for %s: %s", mp.name, e)
+                evidence_summary["accessibility"] = EvidenceGrade.E.value
 
         if "news_sentiment" in tasks:
             try:
                 news_sentiment = await tasks["news_sentiment"]
                 if news_sentiment.confidence > 0:
                     sources_consulted.append("news")
+                    # Populate news_allegations from news_sentiment top headlines
+                    news = list(news_sentiment.top_headlines)
             except Exception as e:
                 log.warning("News fetch failed for %s: %s", mp.name, e)
+
+        # SAGY village adoption data (informational)
+        sagy_adoptions: list = []
+        if "sagy" in tasks:
+            try:
+                sagy_adoptions = await tasks["sagy"]
+                if sagy_adoptions:
+                    sources_consulted.append("sagy")
+            except Exception as e:
+                log.warning("SAGY fetch failed for %s: %s", mp.name, e)
+
+        # CAG audit findings (state-level context)
+        cag_findings: list = []
+        if self.cag:
+            try:
+                cag_findings = self.cag.get_state_risk_indicators(mp.state)
+                if cag_findings:
+                    sources_consulted.append("cag")
+            except Exception as e:
+                log.warning("CAG fetch failed for %s: %s", mp.name, e)
+
+        # Set default evidence grades for dimensions not yet set
+        if "committees" not in evidence_summary:
+            evidence_summary["committees"] = EvidenceGrade.E.value
+        if "legislative" not in evidence_summary:
+            evidence_summary["legislative"] = EvidenceGrade.E.value
+        if "accessibility" not in evidence_summary:
+            evidence_summary["accessibility"] = EvidenceGrade.E.value
 
         # Constituency context (sync, static data)
         constituency_context = self.constituency.fetch_context(mp)
@@ -253,7 +306,21 @@ class ResearcherAgent(BaseAgent):
             news_sentiment=news_sentiment,
             legislative=legislative,
             constituency_context=constituency_context,
+            sagy=sagy_adoptions,
+            cag_findings=cag_findings,
         )
+
+        # Add question quality analysis
+        question_quality = self._analyze_question_quality(mp, parliament)
+        findings.question_quality = question_quality
+
+        # Add attendance pattern analysis
+        attendance_pattern = self._analyze_attendance_pattern(mp, parliament)
+        findings.attendance_pattern = attendance_pattern
+
+        # Add conflict of interest analysis
+        conflict_of_interest = self._analyze_conflict_of_interest(mp, committees, parliament)
+        findings.conflict_of_interest = conflict_of_interest
 
         # Persist
         await self.db.save_research_findings(mp.slug, mp.state, findings)
@@ -329,5 +396,99 @@ class ResearcherAgent(BaseAgent):
             primary.works_count = len(esakshi_works)
 
         return primary
+
+    def _analyze_question_quality(self, mp: MPProfile, parliament: ParliamentActivity) -> QuestionQuality:
+        """Analyze question quality based on available data."""
+        if parliament.questions_asked == 0:
+            return QuestionQuality(confidence=0.0)
+
+        # Use PRS data to estimate starred vs unstarred
+        # PRS CSV doesn't break down question types, so we estimate
+        # Assume ~30% starred, ~70% unstarred for typical MPs
+        starred = int(parliament.questions_asked * 0.3)
+        unstarred = parliament.questions_asked - starred
+
+        return assess_question_quality(
+            questions_asked=parliament.questions_asked,
+            starred=starred,
+            unstarred=unstarred,
+            topics=parliament.focus_topics,
+            constituency_name=mp.constituency,
+            notable_questions=parliament.notable_questions,
+        )
+
+    def _analyze_attendance_pattern(self, mp: MPProfile, parliament: ParliamentActivity) -> AttendancePattern:
+        """Analyze attendance patterns based on available data."""
+        if parliament.attendance_percentage is None:
+            return AttendancePattern(confidence=0.0)
+
+        # Determine pattern label based on attendance
+        att = parliament.attendance_percentage
+        if att >= 90:
+            pattern_label = "Consistent"
+        elif att >= 70:
+            pattern_label = "Moderate"
+        elif att >= 50:
+            pattern_label = "Variable"
+        else:
+            pattern_label = "Low attendance"
+
+        return AttendancePattern(
+            overall_pct=att,
+            session_breakdown={},
+            consecutive_absences=0,
+            attended_key_debates=att >= 70,
+            zero_hour_presence=None,
+            pattern_label=pattern_label,
+            confidence=0.7 if att else 0.0,
+        )
+
+    def _analyze_conflict_of_interest(
+        self, mp: MPProfile, committees: CommitteeEngagement, parliament: ParliamentActivity
+    ) -> ConflictOfInterest:
+        """Analyze potential conflict of interest based on available data."""
+        # This is a simplified analysis - full implementation would cross-reference
+        # MP business interests with committee sectors
+        mp_businesses = []
+        committee_sectors = []
+        question_sectors = []
+        overlaps = []
+
+        # Extract committee sectors
+        for membership in committees.memberships:
+            name_lower = membership.committee_name.lower()
+            if "finance" in name_lower or "banking" in name_lower:
+                committee_sectors.append("finance")
+            elif "health" in name_lower:
+                committee_sectors.append("health")
+            elif "education" in name_lower:
+                committee_sectors.append("education")
+            elif "defence" in name_lower or "defense" in name_lower:
+                committee_sectors.append("defence")
+            elif "agriculture" in name_lower or "rural" in name_lower:
+                committee_sectors.append("agriculture")
+            elif "industry" in name_lower or "commerce" in name_lower:
+                committee_sectors.append("industry")
+            elif "energy" in name_lower or "power" in name_lower:
+                committee_sectors.append("energy")
+            elif "transport" in name_lower or "railway" in name_lower:
+                committee_sectors.append("transport")
+
+        # For now, we can't determine overlaps without detailed business data
+        severity = "none"
+        if len(overlaps) > 2:
+            severity = "high"
+        elif len(overlaps) > 0:
+            severity = "medium"
+
+        return ConflictOfInterest(
+            mp_businesses=mp_businesses,
+            committee_sectors=committee_sectors,
+            question_sectors=question_sectors,
+            overlaps=overlaps,
+            severity=severity,
+            analysis_notes="Simplified analysis - full cross-referencing requires detailed business data",
+            confidence=0.3 if committee_sectors else 0.0,
+        )
 
 

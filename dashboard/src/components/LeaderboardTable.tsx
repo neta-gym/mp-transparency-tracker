@@ -7,14 +7,7 @@ import { SCORE_COMPONENTS } from "@/lib/types";
 import { getScoreColor, getPartyColor, getPartyTextColor } from "@/lib/colors";
 import { formatScore } from "@/lib/format";
 import { publicPath } from "@/lib/paths";
-
-/** Derive MP slug from entry name */
-function entryToSlug(entry: LeaderboardEntry): string {
-  return entry.mp_name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
+import { entryToSlug } from "@/lib/slug";
 
 type SortField =
   | "composite_score"

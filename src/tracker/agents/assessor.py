@@ -34,15 +34,21 @@ def evidence_grade_multiplier(grade: str) -> float:
 def calc_mplads_score(
     utilization_rate: float | None,
     works: list | None = None,
+    data_confidence: float = 0.0,
 ) -> float:
-    """MPLADS Fund Utilization scoring (v2.0).
+    """MPLADS Fund Utilization scoring (v3.0).
 
     Base score from utilization rate, with bonus from eSAKSHI work-level data:
     - % works completed boosts score (up to +5)
-    - Data freshness: recent eSAKSHI data gets +3 confidence boost
+    - Sector diversity bonus: +5 for 3+ sectors, +10 for 5+ sectors (up to +10)
+
+    When data is unavailable:
+    - No data (confidence=0): neutral 40 (penalizes missing data)
+    - Data attempted but failed: neutral 35 (lower than no-data)
     """
     if utilization_rate is None:
-        return 50.0  # Neutral when no data
+        return 40.0 if data_confidence == 0 else 35.0
+
     rate = utilization_rate
     if rate >= 90:
         base = min(100, 90 + (rate - 90))
@@ -60,13 +66,47 @@ def calc_mplads_score(
         # Up to +5 for high completion rate
         base += completion_pct * 5
 
+        # Sector diversity bonus: more diverse fund usage = better transparency
+        sectors = set()
+        for w in works:
+            if hasattr(w, 'sector') and w.sector:
+                sectors.add(w.sector.lower())
+        if len(sectors) >= 5:
+            base += 10
+        elif len(sectors) >= 3:
+            base += 5
+
     return min(100.0, base)
 
 
-def calc_asset_score(growth_ratio: float | None) -> float:
-    """Asset Growth scoring — lower growth = better score."""
+def calc_asset_score(
+    growth_ratio: float | None,
+    total_assets: float | None = None,
+    liabilities: float | None = None,
+    data_confidence: float = 0.0,
+) -> float:
+    """Asset Growth scoring — lower growth = better score.
+
+    When data is unavailable:
+    - No data (confidence=0): neutral 45 (slightly penalizes missing data)
+    - Data attempted but failed: neutral 40
+    """
     if growth_ratio is None:
-        return 50.0  # Neutral when no previous data
+        # Partial scoring based on available data
+        if total_assets is not None and total_assets > 0:
+            # Has current assets but no previous data: base score + liability ratio bonus
+            base = 50.0
+            if liabilities is not None and liabilities > 0 and total_assets > 0:
+                ratio = liabilities / total_assets
+                if ratio < 0.1:
+                    base += 10  # Very low liabilities = good transparency
+                elif ratio < 0.3:
+                    base += 5
+                elif ratio > 0.8:
+                    base -= 10  # High liabilities = concern
+            return base
+        return 45.0 if data_confidence == 0 else 40.0
+
     pct = growth_ratio * 100
     if pct <= 0:
         return 85
@@ -120,21 +160,27 @@ def calc_criminal_score(
 
 
 def calc_attendance_score(attendance_pct: float | None, is_minister: bool = False) -> float:
-    """Parliament Attendance scoring — direct 1:1 mapping."""
+    """Parliament Attendance scoring — direct 1:1 mapping.
+
+    Ministers get their actual score if data is available, otherwise neutral 50.
+    When data is unavailable:
+    - No data (confidence=0): neutral 45
+    - Ministers with no data: neutral 50
+    """
+    if attendance_pct is not None:
+        return min(100.0, max(0.0, attendance_pct))
     if is_minister:
-        return 50.0
-    if attendance_pct is None:
-        return 50.0
-    return min(100.0, max(0.0, attendance_pct))
+        return 50.0  # Neutral only when no data available
+    return 45.0  # Slightly penalizes missing attendance data
 
 
 def calc_participation_score(
     questions: int, debates: int, is_minister: bool = False
 ) -> float:
-    """Questions & Debates participation scoring."""
-    if is_minister:
-        return 50.0
+    """Questions & Debates participation scoring.
 
+    Ministers get their actual score if data is available, otherwise neutral 50.
+    """
     # Questions component (50% weight)
     if questions >= 50:
         q_score = 100
@@ -161,22 +207,32 @@ def calc_participation_score(
     else:
         d_score = 0
 
+    # If no data at all and is minister, use neutral default
+    if questions == 0 and debates == 0 and is_minister:
+        return 50.0
+
     return q_score * 0.5 + d_score * 0.5
 
 
 def calc_committee_score(
     total_committees: int,
     leadership_roles: int = 0,
+    data_confidence: float = 0.0,
 ) -> float:
     """Committee Engagement scoring.
 
-    0 committees → 0
-    1 committee → 30
-    2 committees → 50
-    3+ committees → 70
-    Leadership role bonus: +15 per chair, +10 per vice-chair
-    Cap at 100
+    When data is unavailable (confidence=0), returns neutral 40.
+    Otherwise:
+      0 committees → 0
+      1 committee → 30
+      2 committees → 50
+      3+ committees → 70
+      Leadership role bonus: +15 per chair, +10 per vice-chair
+      Cap at 100
     """
+    if total_committees == 0 and data_confidence == 0.0:
+        return 40.0  # Slightly penalizes missing committee data
+
     if total_committees == 0:
         return 0.0
 
@@ -200,23 +256,23 @@ def calc_accessibility_score(
 ) -> float:
     """Public Accessibility scoring via social media presence.
 
-    0 platforms → 10
-    1 platform → 30
-    2 platforms → 50
-    3+ platforms → 70
+    0 platforms → 15 (improved from 10)
+    1 platform → 35
+    2 platforms → 55
+    3+ platforms → 75
     Verified bonus: +10 per verified account
     Active bonus: +10 if posted in last 30 days
     Cap at 100
     """
     if total_platforms == 0:
-        return 10.0
+        return 15.0  # Slightly improved from 10
 
     if total_platforms == 1:
-        base = 30.0
+        base = 35.0
     elif total_platforms == 2:
-        base = 50.0
+        base = 55.0
     else:
-        base = 70.0
+        base = 75.0
 
     base += verified_count * 10
     if active:
@@ -229,14 +285,19 @@ def calc_legislative_score(
     private_member_bills: int = 0,
     zero_hour_mentions: int = 0,
     special_mentions: int = 0,
+    data_confidence: float = 0.0,
 ) -> float:
     """Legislative Effectiveness scoring.
 
-    Private bills: 0→0, 1→30, 2→50, 3+→70
-    Zero hour mentions: 0→0, 1-2→15, 3-5→25, 5+→35
-    Special mentions: 0→0, 1-2→10, 3+→20
-    Combined with cap at 100
+    When data is unavailable (confidence=0), returns neutral 40.
+    Otherwise:
+      Private bills: 0→0, 1→30, 2→50, 3+→70
+      Zero hour mentions: 0→0, 1-2→15, 3-5→25, 5+→35
+      Special mentions: 0→0, 1-2→10, 3+→20
+      Combined with cap at 100
     """
+    if private_member_bills == 0 and zero_hour_mentions == 0 and special_mentions == 0 and data_confidence == 0.0:
+        return 40.0  # Slightly penalizes missing legislative data
     # Private bills component
     if private_member_bills >= 3:
         bill_score = 70.0
@@ -281,8 +342,17 @@ class AssessorAgent(BaseAgent):
 
         # Calculate component scores — use adjusted rate when cumulative data available
         effective_rate = adjusted_utilization_rate(f.mplads)
-        mplads_s = calc_mplads_score(effective_rate, works=f.mplads.works or None)
-        asset_s = calc_asset_score(f.assets.growth_ratio)
+        mplads_s = calc_mplads_score(
+            effective_rate,
+            works=f.mplads.works or None,
+            data_confidence=f.mplads.confidence,
+        )
+        asset_s = calc_asset_score(
+            f.assets.growth_ratio,
+            total_assets=f.assets.total_assets,
+            liabilities=f.assets.liabilities,
+            data_confidence=f.assets.confidence,
+        )
         criminal_s = calc_criminal_score(
             f.criminal_record.total_cases,
             f.criminal_record.serious_cases,
@@ -304,6 +374,7 @@ class AssessorAgent(BaseAgent):
         committee_s = calc_committee_score(
             f.committees.total_committees,
             f.committees.leadership_roles,
+            data_confidence=f.committees.confidence,
         )
         accessibility_s = calc_accessibility_score(
             f.social_media.total_platforms,
@@ -314,6 +385,7 @@ class AssessorAgent(BaseAgent):
             f.legislative.private_member_bills,
             f.legislative.zero_hour_mentions,
             f.legislative.special_mentions,
+            data_confidence=f.legislative.confidence,
         )
 
         breakdown = ScoreBreakdown(
@@ -424,14 +496,15 @@ class AssessorAgent(BaseAgent):
     ) -> str:
         """Generate a rule-based qualitative assessment without LLM."""
         parts = []
+        rounded = round(composite, 1)
 
         # Overall
-        if composite >= 70:
-            parts.append(f"{mp.name} demonstrates strong transparency with an overall score of {composite:.1f}/100.")
-        elif composite >= 50:
-            parts.append(f"{mp.name} shows moderate transparency with a score of {composite:.1f}/100.")
+        if rounded >= 70:
+            parts.append(f"{mp.name} demonstrates strong transparency with an overall score of {rounded}/100.")
+        elif rounded >= 50:
+            parts.append(f"{mp.name} shows moderate transparency with a score of {rounded}/100.")
         else:
-            parts.append(f"{mp.name} has a below-average transparency score of {composite:.1f}/100, indicating significant room for improvement.")
+            parts.append(f"{mp.name} has a below-average transparency score of {rounded}/100, indicating significant room for improvement.")
 
         # Criminal
         if breakdown.criminal_score >= 100:
