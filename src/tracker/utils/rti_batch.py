@@ -5,8 +5,8 @@ from __future__ import annotations
 import os
 
 from ..models.schemas import MPProfile, ResearchFindings
-from ..utils.rti_generator import generate_rti_template
 from ..utils.logger import get_logger
+from ..utils.rti_generator import generate_rti_template
 
 log = get_logger(__name__)
 
@@ -71,7 +71,6 @@ def generate_rti_batch(
                 f.write(asset_rti)
             generated.append(asset_path)
 
-        house_tag = "LS" if mp.house.value == "lok_sabha" else "RS"
         index_lines.append(
             f"| {mp.name} | {mp.constituency} | {mp.party} | "
             f"[{rti_filename}](./{rti_filename}) | District Magistrate, {mp.constituency} |"

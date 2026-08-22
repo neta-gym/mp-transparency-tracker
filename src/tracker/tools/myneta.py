@@ -3,14 +3,16 @@
 from __future__ import annotations
 
 import re
-from typing import Optional
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 from ..config import settings
 from ..models.schemas import (
-    CriminalCase, CriminalRecord, AssetDeclaration,
-    DataSource, EvidenceGrade,
+    AssetDeclaration,
+    CriminalCase,
+    CriminalRecord,
+    DataSource,
+    EvidenceGrade,
 )
 from ..utils.logger import get_logger
 from .scraper import AsyncScraper
@@ -24,7 +26,7 @@ _FIR_NOISE_PATTERN = re.compile(
 )
 
 
-def _parse_amount(text: str) -> Optional[float]:
+def _parse_amount(text: str) -> float | None:
     """Parse Indian number format like '1,23,45,678' or 'Rs 1.5 Crore' to float."""
     if not text:
         return None
@@ -61,10 +63,7 @@ def _is_serious_case(sections: list[str], description: str) -> bool:
         if s in combined:
             return True
     keywords = ["murder", "attempt to murder", "rape", "kidnap", "corruption", "fraud"]
-    for kw in keywords:
-        if kw.lower() in combined.lower():
-            return True
-    return False
+    return any(kw.lower() in combined.lower() for kw in keywords)
 
 
 def _infer_case_status(text: str) -> str:
@@ -401,7 +400,7 @@ class MyNetaParser:
         if not img:
             img = soup.find("img", attrs={"alt": re.compile(r"profile", re.I)})
         if img and img.get("src"):
-            src = img["src"]
+            src = str(img.get("src") or "")
             if not src.startswith("http"):
                 src = f"https://myneta.info/{src.lstrip('/')}"
             extras["photo_url"] = src
@@ -424,7 +423,8 @@ class MyNetaParser:
                             extras["profession"] = value_text
                     elif "age" in label and "age" not in extras:
                         try:
-                            age_val = int(re.search(r"\d+", value_text).group())
+                            m = re.search(r"\d+", value_text)
+                            age_val = int(m.group()) if m else 0
                             if 18 <= age_val <= 120:
                                 extras["age"] = age_val
                         except (AttributeError, ValueError):

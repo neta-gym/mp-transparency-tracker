@@ -11,10 +11,8 @@ This module provides adjusted utilization calculations that account for these fa
 from __future__ import annotations
 
 from datetime import date
-from typing import Optional
 
 from ..models.schemas import MPLADSFund, MPLADSFundPeriod
-
 
 # COVID suspension period: April 2020 - November 2021
 COVID_SUSPENSION_START = date(2020, 4, 1)
@@ -58,7 +56,7 @@ def effective_months(start_date: date, end_date: date) -> int:
     return max(1, total_months - suspended_months)
 
 
-def adjusted_utilization_rate(fund: MPLADSFund) -> Optional[float]:
+def adjusted_utilization_rate(fund: MPLADSFund) -> float | None:
     """Calculate utilization rate with multi-year and COVID adjustments.
 
     When cumulative data is available, uses cumulative_expended / cumulative_released.

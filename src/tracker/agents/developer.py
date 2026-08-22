@@ -6,8 +6,7 @@ import os
 from collections import defaultdict
 from datetime import datetime
 
-from ..models.schemas import ValidatedFindings, ScoreResult, House
-from ..storage.database import Database
+from ..models.schemas import House, ScoreResult, ValidatedFindings
 from ..utils.logger import get_logger
 from ..utils.rti_generator import generate_rti_template
 from .base import BaseAgent
@@ -433,7 +432,7 @@ class DeveloperAgent(BaseAgent):
             "---",
             "",
             f"*Sources consulted: {', '.join(f.sources_consulted)}*",
-            f"*Methodology version: 3.0 (8 scoring dimensions)*",
+            "*Methodology version: 3.0 (8 scoring dimensions)*",
         ])
 
         report = "\n".join(lines)
@@ -511,4 +510,4 @@ class DeveloperAgent(BaseAgent):
             "accessibility": "social_media",
             "legislative": "sansad",
         }
-        return source_map.get(dimension, "unknown")
+        return str(source_map.get(dimension, "unknown"))

@@ -8,9 +8,9 @@ import re
 from urllib.parse import urljoin
 
 from ..config import settings
-from ..models.schemas import MPProfile, MPLADSFund, DataSource, EvidenceGrade
+from ..models.schemas import DataSource, EvidenceGrade, MPLADSFund, MPProfile
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
+from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
@@ -41,7 +41,7 @@ def _extract_csv_link(html: str, base_url: str) -> str | None:
 
     soup = BeautifulSoup(html, "html.parser")
     for a_tag in soup.find_all("a", href=True):
-        href = a_tag["href"]
+        href = str(a_tag.get("href") or "")
         link_text = a_tag.get_text(strip=True).lower()
         if href.endswith(".csv") or "csv" in link_text or "download" in link_text:
             return urljoin(base_url, href)
@@ -175,10 +175,9 @@ class MPLADSFetcher:
                 break
 
             # Constituency-based fallback
-            if mp.constituency and r_constituency:
-                if normalize_state(mp.constituency) == normalize_state(r_constituency):
-                    match = record
-                    break
+            if mp.constituency and r_constituency and normalize_state(mp.constituency) == normalize_state(r_constituency):
+                match = record
+                break
 
         if not match:
             log.warning("MP not found in MPLADS data: %s", mp.name)

@@ -1,23 +1,23 @@
 """Pydantic data models for MP Transparency Tracker."""
 
 from .schemas import (
-    House,
-    EvidenceGrade,
-    DataSource,
-    MPProfile,
+    AssetDeclaration,
     CriminalCase,
     CriminalRecord,
-    AssetDeclaration,
+    DataSource,
+    EvidenceGrade,
+    House,
+    Leaderboard,
+    LeaderboardEntry,
     MPLADSFund,
-    ParliamentActivity,
+    MPProfile,
     NewsAllegation,
+    ParliamentActivity,
     ResearchFindings,
-    ValidationFlag,
-    ValidatedFindings,
     ScoreBreakdown,
     ScoreResult,
-    LeaderboardEntry,
-    Leaderboard,
+    ValidatedFindings,
+    ValidationFlag,
 )
 
 __all__ = [

@@ -3,42 +3,39 @@
 from __future__ import annotations
 
 import asyncio
-from typing import Optional
 
 from ..models.schemas import (
-    MPProfile,
-    ResearchFindings,
-    CriminalRecord,
     AssetDeclaration,
-    MPLADSFund,
-    ParliamentActivity,
-    NewsAllegation,
+    AttendancePattern,
+    CommitteeEngagement,
+    ConflictOfInterest,
+    CriminalRecord,
     EvidenceGrade,
     House,
-    CommitteeEngagement,
-    PublicAccessibility,
-    NewsSentiment,
     LegislativeRecord,
-    ConstituencyContext,
+    MPLADSFund,
+    MPProfile,
+    NewsSentiment,
+    ParliamentActivity,
+    PublicAccessibility,
     QuestionQuality,
-    AttendancePattern,
-    ConflictOfInterest,
+    ResearchFindings,
 )
 from ..storage.database import Database
-from ..tools.myneta import MyNetaParser
-from ..tools.prs import PRSFetcher
-from ..tools.mplads import MPLADSFetcher
+from ..tools.cag import CAGFetcher
+from ..tools.constituency import ConstituencyFetcher
 from ..tools.esakshi import ESAKSHIFetcher
+from ..tools.mplads import MPLADSFetcher
 from ..tools.mplads_datagov import DataGovMPLADSFetcher
+from ..tools.myneta import MyNetaParser
+from ..tools.news import NewsFetcher
+from ..tools.prs import PRSFetcher
+from ..tools.sagy import SAGYFetcher
 from ..tools.sansad import SansadFetcher
 from ..tools.social_media import SocialMediaFetcher
-from ..tools.news import NewsFetcher
-from ..tools.constituency import ConstituencyFetcher
-from ..tools.sagy import SAGYFetcher
-from ..tools.cag import CAGFetcher
+from ..utils.logger import get_logger
 from ..utils.mp_compensation import get_mp_compensation
 from ..utils.question_quality import assess_question_quality
-from ..utils.logger import get_logger
 from .base import BaseAgent
 
 log = get_logger(__name__)
@@ -55,14 +52,14 @@ class ResearcherAgent(BaseAgent):
         myneta: MyNetaParser,
         prs: PRSFetcher,
         mplads: MPLADSFetcher,
-        esakshi: Optional[ESAKSHIFetcher] = None,
-        mplads_datagov: Optional[DataGovMPLADSFetcher] = None,
-        sansad: Optional[SansadFetcher] = None,
-        social_media: Optional[SocialMediaFetcher] = None,
-        news: Optional[NewsFetcher] = None,
-        constituency: Optional[ConstituencyFetcher] = None,
-        sagy: Optional[SAGYFetcher] = None,
-        cag: Optional[CAGFetcher] = None,
+        esakshi: ESAKSHIFetcher | None = None,
+        mplads_datagov: DataGovMPLADSFetcher | None = None,
+        sansad: SansadFetcher | None = None,
+        social_media: SocialMediaFetcher | None = None,
+        news: NewsFetcher | None = None,
+        constituency: ConstituencyFetcher | None = None,
+        sagy: SAGYFetcher | None = None,
+        cag: CAGFetcher | None = None,
     ) -> None:
         super().__init__(db)
         self.myneta = myneta
@@ -84,7 +81,7 @@ class ResearcherAgent(BaseAgent):
         evidence_summary: dict[str, str] = {}
 
         # Fetch from all sources concurrently
-        tasks = {}
+        tasks: dict[str, asyncio.Task] = {}
 
         if mp.myneta_candidate_id:
             tasks["myneta"] = asyncio.create_task(
@@ -449,10 +446,10 @@ class ResearcherAgent(BaseAgent):
         """Analyze potential conflict of interest based on available data."""
         # This is a simplified analysis - full implementation would cross-reference
         # MP business interests with committee sectors
-        mp_businesses = []
-        committee_sectors = []
-        question_sectors = []
-        overlaps = []
+        mp_businesses: list[str] = []
+        committee_sectors: list[str] = []
+        question_sectors: list[str] = []
+        overlaps: list[str] = []
 
         # Extract committee sectors
         for membership in committees.memberships:

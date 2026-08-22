@@ -60,3 +60,7 @@ warn_return_any = true
 warn_unused_configs = true
 disallow_untyped_defs = false
 ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "tracker.models.schemas"
+disable_error_code = ["prop-decorator"]

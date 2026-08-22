@@ -2,13 +2,13 @@
 
 from datetime import date
 
+from tracker.models.schemas import MPLADSFund, MPLADSFundPeriod
 from tracker.utils.mplads_calc import (
-    is_covid_period,
-    effective_months,
     adjusted_utilization_rate,
+    effective_months,
+    is_covid_period,
     multi_year_utilization_summary,
 )
-from tracker.models.schemas import MPLADSFund, MPLADSFundPeriod
 
 
 class TestIsCOVIDPeriod:

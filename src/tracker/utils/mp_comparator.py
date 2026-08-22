@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from ..models.schemas import ScoreResult, ScoreBreakdown
+from ..models.schemas import ScoreResult
 from ..utils.logger import get_logger
 
 log = get_logger(__name__)

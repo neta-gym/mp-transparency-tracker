@@ -9,22 +9,19 @@ from __future__ import annotations
 import pytest
 
 from tracker.models.schemas import (
-    LeaderboardEntry,
-    ScoreBreakdown,
-    ScoreResult,
-    MPProfile,
-    ResearchFindings,
-    CriminalRecord,
     AssetDeclaration,
-    MPLADSFund,
-    ParliamentActivity,
     CommitteeEngagement,
-    LegislativeRecord,
-    PublicAccessibility,
+    CriminalRecord,
     DataSource,
     EvidenceGrade,
+    LeaderboardEntry,
+    MPLADSFund,
+    MPProfile,
+    ParliamentActivity,
+    ResearchFindings,
+    ScoreBreakdown,
+    ScoreResult,
 )
-
 
 # --- Fixtures ---
 
@@ -256,7 +253,6 @@ class TestPRSNameMatching:
 
     def test_csv_delimiter_detection(self):
         """CSV with semicolons should be detected as semicolon-delimited."""
-        from tracker.tools.prs import PRSFetcher
         # Semicolons in first 500 chars → use semicolons
         text = 'Name;Constituency;State\n"Test";"Test";"Test"'
         assert ";" in text[:500]

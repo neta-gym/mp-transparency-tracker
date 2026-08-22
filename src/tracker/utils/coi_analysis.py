@@ -2,11 +2,9 @@
 
 from __future__ import annotations
 
-import re
-
 from ..models.schemas import (
-    ConflictOfInterest,
     CommitteeEngagement,
+    ConflictOfInterest,
 )
 from ..utils.logger import get_logger
 
@@ -70,7 +68,7 @@ def detect_conflicts(
     rather than conflicts. A nuanced assessment can be applied later.
     """
     # Classify MP's business sectors
-    business_text = " ".join(filter(None, [profession] + (businesses or [])))
+    business_text = " ".join(filter(None, [profession, *(businesses or [])]))
     if not business_text.strip():
         return ConflictOfInterest(confidence=0.0)
 

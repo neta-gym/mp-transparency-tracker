@@ -1,6 +1,6 @@
 """Tests for shared name matching utilities."""
 
-from tracker.utils.name_match import normalize_name, normalize_state, name_matches
+from tracker.utils.name_match import name_matches, normalize_name, normalize_state
 
 
 class TestNormalizeName:

@@ -2,12 +2,13 @@
 
 import json
 import os
-import pytest
 from unittest.mock import AsyncMock
 
+import pytest
+
+from tracker.models.schemas import House
 from tracker.tools.sansad import SansadFetcher
 from tracker.tools.scraper import AsyncScraper
-from tracker.models.schemas import House
 
 FIXTURES_DIR = os.path.join(os.path.dirname(__file__), "fixtures")
 

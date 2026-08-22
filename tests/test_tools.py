@@ -1,13 +1,13 @@
 """Tests for scraper and parser tools using HTML/JSON fixtures."""
 
 import os
-import json
+
 import pytest
 
-from tracker.tools.myneta import MyNetaParser, _parse_amount, _is_serious_case, _clean_ipc_sections, _infer_case_status
+from tracker.models.schemas import MPProfile
+from tracker.tools.mplads import MPLADSFetcher, _extract_csv_link, _is_html
+from tracker.tools.myneta import MyNetaParser, _clean_ipc_sections, _infer_case_status, _is_serious_case, _parse_amount
 from tracker.tools.prs import PRSFetcher
-from tracker.tools.mplads import MPLADSFetcher, _is_html, _extract_csv_link
-from tracker.models.schemas import MPProfile, House
 
 FIXTURES_DIR = os.path.join(os.path.dirname(__file__), "fixtures")
 
@@ -317,7 +317,7 @@ class TestPRSTwoTierLookup:
     @pytest.mark.asyncio
     async def test_csv_hit_skips_scrape(self):
         """When CSV has the MP, website scrape should not be attempted."""
-        from unittest.mock import AsyncMock, patch
+        from unittest.mock import AsyncMock
 
         mock_scraper = AsyncMock()
         # Return CSV data with the MP
@@ -480,6 +480,7 @@ class TestSocialMediaFetcher:
     @pytest.mark.asyncio
     async def test_known_mp_returns_profiles(self):
         from unittest.mock import AsyncMock
+
         from tracker.tools.social_media import SocialMediaFetcher
 
         mock_scraper = AsyncMock()
@@ -494,6 +495,7 @@ class TestSocialMediaFetcher:
     @pytest.mark.asyncio
     async def test_unknown_mp_low_confidence(self):
         from unittest.mock import AsyncMock
+
         from tracker.tools.social_media import SocialMediaFetcher
 
         mock_scraper = AsyncMock()

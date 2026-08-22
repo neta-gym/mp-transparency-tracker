@@ -6,12 +6,12 @@ import re
 
 from bs4 import BeautifulSoup
 
-from ..config import settings, MYNETA_STATE_IDS
-from ..models.schemas import MPProfile, House
+from ..config import MYNETA_STATE_IDS, settings
+from ..models.schemas import House, MPProfile
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
-from .scraper import AsyncScraper
+from ..utils.name_match import name_matches, normalize_state
 from .sansad import SansadFetcher
+from .scraper import AsyncScraper
 
 log = get_logger(__name__)
 
@@ -81,7 +81,7 @@ class MPDiscovery:
             # Build map of candidate links from MyNeta
             myneta_candidates: list[dict] = []
             for link in soup.find_all("a", href=re.compile(r"candidate\.php\?candidate_id=\d+")):
-                href = link.get("href", "")
+                href = str(link.get("href") or "")
                 cid_match = re.search(r"candidate_id=(\d+)", href)
                 if cid_match:
                     candidate_name = link.get_text(strip=True)
@@ -155,7 +155,7 @@ class MPDiscovery:
 
                 link = row.find("a", href=re.compile(r"candidate\.php\?candidate_id=\d+"))
                 if link:
-                    href = link.get("href", "")
+                    href = str(link.get("href") or "")
                     cid_match = re.search(r"candidate_id=(\d+)", href)
                     candidate_id = int(cid_match.group(1)) if cid_match else None
                     candidate_name = link.get_text(strip=True)

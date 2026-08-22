@@ -4,12 +4,11 @@ from __future__ import annotations
 
 from ..config import settings
 from ..models.schemas import (
-    ValidatedFindings,
+    EvidenceGrade,
     ScoreBreakdown,
     ScoreResult,
-    EvidenceGrade,
+    ValidatedFindings,
 )
-from ..storage.database import Database
 from ..utils.logger import get_logger
 from ..utils.mplads_calc import adjusted_utilization_rate
 from .base import BaseAgent

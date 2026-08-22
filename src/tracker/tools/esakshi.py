@@ -19,21 +19,21 @@ Fallbacks: Direct REST API probe, HTML scraping.
 from __future__ import annotations
 
 import asyncio
+import contextlib
 import json
 import re
 import time
-from typing import Optional
 
 from ..config import settings
 from ..models.schemas import (
-    MPProfile,
-    MPLADSFund,
-    MPLADSWork,
     DataSource,
     EvidenceGrade,
+    MPLADSFund,
+    MPLADSWork,
+    MPProfile,
 )
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
+from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
@@ -119,7 +119,7 @@ _CONSTITUENCY_ALIASES: dict[str, str] = {
 }
 
 
-def _parse_amount(val: str | None) -> Optional[float]:
+def _parse_amount(val: str | None) -> float | None:
     """Parse a monetary amount string from eSAKSHI (may include ₹, commas, nbsp)."""
     if not val:
         return None
@@ -130,7 +130,7 @@ def _parse_amount(val: str | None) -> Optional[float]:
         return None
 
 
-def _parse_crore_amount(val: str | None) -> Optional[float]:
+def _parse_crore_amount(val: str | None) -> float | None:
     """Parse an amount like '5,512.56 Cr' or '55,12,55,78,307.11' into crores."""
     if not val:
         return None
@@ -299,7 +299,7 @@ class ESAKSHIFetcher:
 
             log.info("eSAKSHI: Session established")
 
-    async def _fetch_via_playwright_rest(self, mp: MPProfile) -> Optional[MPLADSFund]:
+    async def _fetch_via_playwright_rest(self, mp: MPProfile) -> MPLADSFund | None:
         """Call eSAKSHI REST APIs from within the browser page context."""
         async with self._page_semaphore:
             try:
@@ -355,7 +355,7 @@ class ESAKSHIFetcher:
                         tiles_data = await self._call_rest_api(page, "getTilesData", {"uname": uname})
 
                         if tiles_data:
-                            fund = self._parse_tiles_data(tiles_data)
+                            fund = self._parse_tiles_data(tiles_data if isinstance(tiles_data, dict) else {})
                             if fund and fund.confidence > 0:
                                 log.info("eSAKSHI REST: Extracted fund data — entitled=%.2f Cr, expended=%s Cr",
                                          fund.entitled or 0, fund.expended)
@@ -393,14 +393,12 @@ class ESAKSHIFetcher:
             except Exception as e:
                 log.warning("eSAKSHI Playwright REST failed for %s: %s", mp.name, e)
                 if self._session_page:
-                    try:
+                    with contextlib.suppress(Exception):
                         await self._session_page.close()
-                    except Exception:
-                        pass
                     self._session_page = None
                 return None
 
-    async def _call_rest_api(self, page, endpoint: str, payload: dict) -> Optional[dict | list]:
+    async def _call_rest_api(self, page, endpoint: str, payload: dict) -> dict | list | None:
         """Call an eSAKSHI REST API endpoint from within the page context."""
         try:
             result = await page.evaluate("""async (args) => {
@@ -426,13 +424,14 @@ class ESAKSHIFetcher:
             if isinstance(result, dict) and "_error" in result:
                 log.debug("eSAKSHI REST %s error: %s", endpoint, result["_error"])
                 return None
-            return result
+            typed_result: dict | list | None = result
+            return typed_result
 
         except Exception as e:
             log.debug("eSAKSHI REST %s evaluate failed: %s", endpoint, e)
             return None
 
-    async def _resolve_state_id(self, page, state_norm: str) -> Optional[int]:
+    async def _resolve_state_id(self, page, state_norm: str) -> int | None:
         """Look up state ID from the eSAKSHI state list."""
         states = await self._call_rest_api(page, "getStateData", {})
         if not states or not isinstance(states, list):
@@ -448,7 +447,7 @@ class ESAKSHIFetcher:
 
     async def _resolve_constituency_id(
         self, page, state_id: str, constituency: str
-    ) -> Optional[int]:
+    ) -> int | None:
         """Look up constituency ID from the eSAKSHI constituency list."""
         if state_id in self._constituency_ids:
             const_map = self._constituency_ids[state_id]
@@ -519,7 +518,7 @@ class ESAKSHIFetcher:
         )
         return None
 
-    async def _search_datatable(self, page, mp: MPProfile) -> Optional[MPLADSFund]:
+    async def _search_datatable(self, page, mp: MPProfile) -> MPLADSFund | None:
         """Search the DataTable (#tablepag) for this MP's Allocated Amount.
 
         The page loads a jQuery DataTable with columns:
@@ -529,7 +528,7 @@ class ESAKSHIFetcher:
         the MP across all pages, not just the visible rows.
         """
         try:
-            result = await page.evaluate("""(args) => {
+            result = await page.evaluate(r"""(args) => {
                 const [mpName, constituency] = args;
                 const mpLower = mpName.toLowerCase();
                 const constLower = constituency.toLowerCase();
@@ -645,7 +644,7 @@ class ESAKSHIFetcher:
             log.debug("eSAKSHI DataTable search failed: %s", e)
             return None
 
-    def _parse_tiles_data(self, data: dict) -> Optional[MPLADSFund]:
+    def _parse_tiles_data(self, data: dict) -> MPLADSFund | None:
         """Parse the getTilesData response into MPLADSFund.
 
         Response format (from inspection):
@@ -664,11 +663,9 @@ class ESAKSHIFetcher:
         # Extract values — tiles data uses specific key names
         entitled = None
         expended = None
-        sanctioned = None
         works_recommended_count = 0
         works_sanctioned_count = 0
         works_completed_count = 0
-        works_recommended_amt = None
         works_sanctioned_amt = None
 
         for key, values in data.items():
@@ -686,26 +683,19 @@ class ESAKSHIFetcher:
 
             elif "recommended" in k:
                 if len(values) >= 1:
-                    try:
+                    with contextlib.suppress(ValueError, TypeError):
                         works_recommended_count = int(re.sub(r"[^\d]", "", str(values[0])))
-                    except (ValueError, TypeError):
-                        pass
-                works_recommended_amt = self._extract_crore_value(values)
+                self._extract_crore_value(values)
 
             elif "sanctioned" in k:
                 if len(values) >= 1:
-                    try:
+                    with contextlib.suppress(ValueError, TypeError):
                         works_sanctioned_count = int(re.sub(r"[^\d]", "", str(values[0])))
-                    except (ValueError, TypeError):
-                        pass
                 works_sanctioned_amt = self._extract_crore_value(values)
 
-            elif "completed" in k:
-                if len(values) >= 1:
-                    try:
-                        works_completed_count = int(re.sub(r"[^\d]", "", str(values[0])))
-                    except (ValueError, TypeError):
-                        pass
+            elif "completed" in k and len(values) >= 1:
+                with contextlib.suppress(ValueError, TypeError):
+                    works_completed_count = int(re.sub(r"[^\d]", "", str(values[0])))
 
         # Map eSAKSHI fields to our model:
         # entitled = Allocated Limit
@@ -743,7 +733,7 @@ class ESAKSHIFetcher:
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
-    def _extract_crore_value(self, values: list) -> Optional[float]:
+    def _extract_crore_value(self, values: list) -> float | None:
         """Extract a crore value from a tiles data array like ['80604', '43,28,...', '4,328.69 Cr']."""
         # Prefer the Cr-labelled value (last element usually)
         for v in reversed(values):
@@ -761,7 +751,7 @@ class ESAKSHIFetcher:
                     return round(raw / 1_00_00_000, 2)
         return None
 
-    def _parse_report_data(self, data, mp: MPProfile) -> Optional[MPLADSFund]:
+    def _parse_report_data(self, data, mp: MPProfile) -> MPLADSFund | None:
         """Parse getTilesReportData (per-MP table data)."""
         if not data:
             return None
@@ -773,13 +763,11 @@ class ESAKSHIFetcher:
                     continue
                 # Match by constituency or MP name
                 for field in ["CONSTITUENCY", "Constituency", "constituency"]:
-                    if field in record:
-                        if name_matches(mp.constituency, str(record[field])):
-                            return self._parse_report_record(record)
+                    if field in record and name_matches(mp.constituency, str(record[field])):
+                        return self._parse_report_record(record)
                 for field in ["MP_NAME", "Hon'ble Member Of Parliament", "mp_name"]:
-                    if field in record:
-                        if name_matches(mp.name, str(record[field])):
-                            return self._parse_report_record(record)
+                    if field in record and name_matches(mp.name, str(record[field])):
+                        return self._parse_report_record(record)
 
         # Single record dict
         if isinstance(data, dict) and not data.get("_error"):
@@ -787,7 +775,7 @@ class ESAKSHIFetcher:
 
         return None
 
-    def _parse_report_record(self, record: dict) -> Optional[MPLADSFund]:
+    def _parse_report_record(self, record: dict) -> MPLADSFund | None:
         """Parse a single MP record from the report data."""
         allocated = None
         for k in ["Allocated Amount ( ₹ )", "ALLOCATED_AMOUNT", "allocated", "Allocated Amount"]:
@@ -812,7 +800,7 @@ class ESAKSHIFetcher:
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
-    async def _extract_from_dom(self, page) -> Optional[MPLADSFund]:
+    async def _extract_from_dom(self, page) -> MPLADSFund | None:
         """Extract fund data from the rendered DOM of the eSAKSHI dashboard."""
         try:
             fund_data = await page.evaluate("""() => {
@@ -869,10 +857,8 @@ class ESAKSHIFetcher:
             works_count = 0
             wc = fund_data.get("works_count")
             if wc:
-                try:
+                with contextlib.suppress(ValueError, TypeError):
                     works_count = int(re.sub(r"[^\d]", "", str(wc)))
-                except (ValueError, TypeError):
-                    pass
 
             has_data = entitled is not None or expended is not None
             if not has_data:
@@ -914,7 +900,7 @@ class ESAKSHIFetcher:
     # Strategy 2: REST API via aiohttp (fallback — usually 403)
     # ------------------------------------------------------------------
 
-    async def _fetch_via_api(self, mp: MPProfile) -> Optional[MPLADSFund]:
+    async def _fetch_via_api(self, mp: MPProfile) -> MPLADSFund | None:
         """Try fetching from eSAKSHI's underlying REST API directly."""
         state = normalize_state(mp.state)
 
@@ -947,7 +933,7 @@ class ESAKSHIFetcher:
     # Strategy 3: HTML scraping (fallback)
     # ------------------------------------------------------------------
 
-    async def _fetch_via_html(self, mp: MPProfile) -> Optional[MPLADSFund]:
+    async def _fetch_via_html(self, mp: MPProfile) -> MPLADSFund | None:
         """Fallback: scrape eSAKSHI dashboard HTML for fund data."""
         try:
             url = f"{self._dashboard_url}/constituency/{mp.constituency.lower().replace(' ', '-')}"
@@ -1022,7 +1008,7 @@ class ESAKSHIFetcher:
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
-    def _parse_dashboard_html(self, html: str, mp: MPProfile) -> Optional[MPLADSFund]:
+    def _parse_dashboard_html(self, html: str, mp: MPProfile) -> MPLADSFund | None:
         """Parse eSAKSHI dashboard HTML for fund utilization data."""
         try:
             from bs4 import BeautifulSoup
@@ -1051,8 +1037,8 @@ class ESAKSHIFetcher:
                 elif "expended" in label or "expenditure" in label:
                     expended = _parse_amount(value)
 
-        for elem in soup.find_all(attrs={"data-field": True}):
-            field = elem.get("data-field", "").lower()
+        for elem in soup.find_all(attrs={"data-field": True}):  # type: ignore[call-overload]
+            field = str(elem.get("data-field") or "").lower()
             value = elem.get_text(strip=True)
             if "entitled" in field:
                 entitled = _parse_amount(value)

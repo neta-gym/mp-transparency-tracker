@@ -8,10 +8,10 @@ from __future__ import annotations
 
 from ..config import settings
 from ..models.schemas import (
-    MPProfile,
-    SAGYAdoption,
     DataSource,
     EvidenceGrade,
+    MPProfile,
+    SAGYAdoption,
 )
 from ..utils.logger import get_logger
 from ..utils.name_match import name_matches

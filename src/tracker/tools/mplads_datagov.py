@@ -3,23 +3,22 @@
 from __future__ import annotations
 
 import re
-from typing import Optional
 
 from ..config import settings
 from ..models.schemas import (
-    MPProfile,
-    MPLADSFund,
     DataSource,
     EvidenceGrade,
+    MPLADSFund,
+    MPProfile,
 )
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
+from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
 
 
-def _parse_float(val: str | None) -> Optional[float]:
+def _parse_float(val: str | None) -> float | None:
     if not val:
         return None
     cleaned = re.sub(r"[^\d.]", "", str(val).strip())
@@ -120,7 +119,7 @@ class DataGovMPLADSFetcher:
             text = await self.scraper.fetch(url)
             data = json.loads(text)
 
-            records = data.get("records", [])
+            records: list[dict] = list(data.get("records", []))
             log.info("data.gov.in: Loaded %d records for %s", len(records), state)
 
             # Cache
@@ -134,7 +133,7 @@ class DataGovMPLADSFetcher:
             log.warning("data.gov.in: Failed to fetch for state %s: %s", state, e)
             return []
 
-    def _find_mp_record(self, mp: MPProfile, records: list[dict]) -> Optional[dict]:
+    def _find_mp_record(self, mp: MPProfile, records: list[dict]) -> dict | None:
         """Find the matching record for an MP in data.gov.in results."""
         name_variants = [mp.name]
         if mp.canonical_name and mp.canonical_name != mp.name:
@@ -161,9 +160,8 @@ class DataGovMPLADSFetcher:
                     r_const = str(record[key])
                     break
 
-            if mp.constituency and r_const:
-                if normalize_state(mp.constituency) == normalize_state(r_const):
-                    return record
+            if mp.constituency and r_const and normalize_state(mp.constituency) == normalize_state(r_const):
+                return record
 
         return None
 

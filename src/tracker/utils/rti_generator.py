@@ -8,9 +8,8 @@ This lowers the barrier for citizens to independently verify MPLADS data.
 from __future__ import annotations
 
 from datetime import date
-from typing import Optional
 
-from ..models.schemas import MPProfile, MPLADSFund
+from ..models.schemas import MPLADSFund, MPProfile
 
 
 def generate_rti_template(

@@ -3,9 +3,13 @@
 from __future__ import annotations
 
 import asyncio
-from typing import Optional
+import contextlib
+from typing import TYPE_CHECKING
 
 from ..utils.logger import get_logger
+
+if TYPE_CHECKING:
+    from playwright.async_api import Browser, BrowserContext, Playwright
 
 log = get_logger(__name__)
 
@@ -26,9 +30,9 @@ class PlaywrightBrowser:
 
     def __init__(self, headless: bool = True) -> None:
         self._headless = headless
-        self._playwright: Optional[object] = None
-        self._browser: Optional[object] = None
-        self._context: Optional[object] = None
+        self._playwright: Playwright | None = None
+        self._browser: Browser | None = None
+        self._context: BrowserContext | None = None
         self._lock = asyncio.Lock()
         self._started = False
 
@@ -75,24 +79,18 @@ class PlaywrightBrowser:
     async def _cleanup_partial(self) -> None:
         """Close resources that were successfully created."""
         if self._context:
-            try:
+            with contextlib.suppress(Exception):
                 await self._context.close()
-            except Exception:
-                pass
             self._context = None
 
         if self._browser:
-            try:
+            with contextlib.suppress(Exception):
                 await self._browser.close()
-            except Exception:
-                pass
             self._browser = None
 
         if self._playwright:
-            try:
+            with contextlib.suppress(Exception):
                 await self._playwright.stop()
-            except Exception:
-                pass
             self._playwright = None
 
     @property

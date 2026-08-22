@@ -2,17 +2,14 @@
 
 from __future__ import annotations
 
-from typing import Optional
-
 from ..models.schemas import (
     ResearchFindings,
     ValidatedFindings,
     ValidationFlag,
-    EvidenceGrade,
 )
 from ..storage.database import Database
-from ..tools.cag import CAGFetcher
 from ..tools.budget import BudgetFetcher
+from ..tools.cag import CAGFetcher
 from ..tools.sansad_qa import SansadQAParser
 from ..utils.logger import get_logger
 from .base import BaseAgent
@@ -28,9 +25,9 @@ class ValidatorAgent(BaseAgent):
     def __init__(
         self,
         db: Database,
-        cag: Optional[CAGFetcher] = None,
-        budget: Optional[BudgetFetcher] = None,
-        sansad_qa: Optional[SansadQAParser] = None,
+        cag: CAGFetcher | None = None,
+        budget: BudgetFetcher | None = None,
+        sansad_qa: SansadQAParser | None = None,
     ) -> None:
         super().__init__(db)
         self.cag = cag or CAGFetcher()
@@ -143,13 +140,12 @@ class ValidatorAgent(BaseAgent):
                 issue="Negative total assets — likely a parsing error",
                 severity="error",
             ))
-        if a.liabilities is not None and a.total_assets is not None:
-            if a.liabilities > a.total_assets * 5:
-                flags.append(ValidationFlag(
-                    field="assets",
-                    issue="Liabilities exceed 5x total assets — unusual, verify",
-                    severity="warning",
-                ))
+        if a.liabilities is not None and a.total_assets is not None and a.liabilities > a.total_assets * 5:
+            flags.append(ValidationFlag(
+                field="assets",
+                issue="Liabilities exceed 5x total assets — unusual, verify",
+                severity="warning",
+            ))
         if a.growth_ratio is not None and a.growth_ratio > 10:
             flags.append(ValidationFlag(
                 field="assets",
@@ -203,13 +199,12 @@ class ValidatorAgent(BaseAgent):
 
     def _check_parliament(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         p = f.parliament_activity
-        if p.attendance_percentage is not None:
-            if p.attendance_percentage > 100:
-                flags.append(ValidationFlag(
-                    field="parliament_activity",
-                    issue="Attendance > 100% — data error",
-                    severity="error",
-                ))
+        if p.attendance_percentage is not None and p.attendance_percentage > 100:
+            flags.append(ValidationFlag(
+                field="parliament_activity",
+                issue="Attendance > 100% — data error",
+                severity="error",
+            ))
         if p.confidence < 0.5:
             flags.append(ValidationFlag(
                 field="parliament_activity",
@@ -277,17 +272,20 @@ class ValidatorAgent(BaseAgent):
     async def _cross_check_sansad_qa(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         """Cross-check MPLADS data against Sansad Q&A annexure data."""
         try:
-            questions = await self.sansad_qa.search_mplads_questions()
+            parser = self.sansad_qa
+            if parser is None:
+                return
+            questions = await parser.search_mplads_questions()
             for q in questions[:3]:  # Check up to 3 recent questions
                 annexure_url = q.get("annexure_url", "")
                 if not annexure_url:
                     continue
 
-                text = await self.sansad_qa.fetch_annexure(annexure_url)
+                text = await parser.fetch_annexure(annexure_url)
                 if not text:
                     continue
 
-                qa_data = self.sansad_qa.parse_mplads_table(text, f.mp.state)
+                qa_data = parser.parse_mplads_table(text, f.mp.state)
                 if not qa_data:
                     continue
 
@@ -315,7 +313,6 @@ class ValidatorAgent(BaseAgent):
     def _rule_based_cross_check(self, f: ResearchFindings, flags: list[ValidationFlag]) -> str:
         """Produce a rule-based cross-reference summary without LLM."""
         lines = []
-        mp = f.mp
 
         # Criminal record summary
         cr = f.criminal_record

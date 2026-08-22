@@ -5,43 +5,42 @@ from __future__ import annotations
 import asyncio
 import json
 import os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta, timezone
 
-from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TaskProgressColumn
+from rich.progress import BarColumn, Progress, SpinnerColumn, TaskProgressColumn, TextColumn
 from rich.table import Table
 
 from ..config import settings
 from ..models.schemas import (
-    MPProfile,
     House,
+    Leaderboard,
+    LeaderboardEntry,
+    MPProfile,
     ResearchFindings,
     ScoreResult,
-    LeaderboardEntry,
-    Leaderboard,
 )
 from ..storage.database import Database
-from ..tools.scraper import AsyncScraper
 from ..tools.browser import PlaywrightBrowser
-from ..tools.sansad import SansadFetcher
-from ..tools.mp_discovery import MPDiscovery
-from ..tools.myneta import MyNetaParser
-from ..tools.prs import PRSFetcher
-from ..tools.mplads import MPLADSFetcher
-from ..tools.esakshi import ESAKSHIFetcher
-from ..tools.mplads_datagov import DataGovMPLADSFetcher
-from ..tools.cag import CAGFetcher
 from ..tools.budget import BudgetFetcher
-from ..tools.sansad_qa import SansadQAParser
-from ..tools.social_media import SocialMediaFetcher
-from ..tools.news import NewsFetcher
+from ..tools.cag import CAGFetcher
 from ..tools.constituency import ConstituencyFetcher
+from ..tools.esakshi import ESAKSHIFetcher
+from ..tools.mp_discovery import MPDiscovery
+from ..tools.mplads import MPLADSFetcher
+from ..tools.mplads_datagov import DataGovMPLADSFetcher
+from ..tools.myneta import MyNetaParser
+from ..tools.news import NewsFetcher
+from ..tools.prs import PRSFetcher
 from ..tools.sagy import SAGYFetcher
-from ..utils.logger import get_logger, console
-from ..utils.name_match import name_matches
+from ..tools.sansad import SansadFetcher
+from ..tools.sansad_qa import SansadQAParser
+from ..tools.scraper import AsyncScraper
+from ..tools.social_media import SocialMediaFetcher
+from ..utils.logger import console, get_logger
+from .assessor import AssessorAgent
+from .developer import DeveloperAgent
 from .researcher import ResearcherAgent
 from .validator import ValidatorAgent
-from .developer import DeveloperAgent
-from .assessor import AssessorAgent
 
 log = get_logger(__name__)
 
@@ -244,7 +243,7 @@ class ManagerAgent:
         if failed:
             console.print(f"\n[bold red]Failed MPs:[/bold red] {', '.join(failed)}")
 
-        console.print(f"\n[dim]Pipeline complete — no API tokens used (open data only)[/dim]")
+        console.print("\n[dim]Pipeline complete — no API tokens used (open data only)[/dim]")
 
         return leaderboard
 
@@ -277,10 +276,12 @@ class ManagerAgent:
                 if not seed_mp:
                     # Fuzzy match: find best match from seed using name + constituency
                     for smp in seed_mps:
-                        if name_matches(mp.name, smp.name, min_confidence=0.7):
-                            if mp.constituency.lower() == smp.constituency.lower():
-                                seed_mp = smp
-                                break
+                        if (
+                            name_matches(mp.name, smp.name, min_confidence=0.7)
+                            and mp.constituency.lower() == smp.constituency.lower()
+                        ):
+                            seed_mp = smp
+                            break
                 if seed_mp:
                     mp.myneta_candidate_id = seed_mp.myneta_candidate_id
 
@@ -400,10 +401,9 @@ class ManagerAgent:
             mp.name, ", ".join(missing),
         )
 
-        if "committees" in missing or "legislative" in missing:
+        if ("committees" in missing or "legislative" in missing) and not mp.sansad_member_id:
             # Need Sansad member ID — ensure it's looked up
-            if not mp.sansad_member_id:
-                await self.sansad.lookup_member(mp)
+            await self.sansad.lookup_member(mp)
 
         if "committees" in missing and self.sansad:
             try:
@@ -760,7 +760,6 @@ class ManagerAgent:
 
         for e in lb.entries:
             house_tag = "LS" if e.house == "lok_sabha" else "RS"
-            score_style = "bold green" if e.composite_score >= 70 else "bold yellow" if e.composite_score >= 50 else "bold red"
             table.add_row(
                 str(e.rank),
                 house_tag,
