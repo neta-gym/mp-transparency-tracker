@@ -1037,7 +1037,7 @@ class ESAKSHIFetcher:
                 elif "expended" in label or "expenditure" in label:
                     expended = _parse_amount(value)
 
-        for elem in soup.find_all(attrs={"data-field": True}):
+        for elem in soup.find_all(attrs={"data-field": True}):  # type: ignore[call-overload]
             field = str(elem.get("data-field") or "").lower()
             value = elem.get_text(strip=True)
             if "entitled" in field:
