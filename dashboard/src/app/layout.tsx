@@ -52,7 +52,7 @@ export default function RootLayout({
                   Compare
                 </Link>
                 <span className="font-mono border-2 border-ink bg-accent px-2 py-0.5 text-xs font-bold">
-                  v3.0
+                  v3.1
                 </span>
               </div>
             </div>
@@ -72,8 +72,8 @@ export default function RootLayout({
                 MP Transparency Tracker — Data sourced from eSAKSHI, data.gov.in, MyNeta, PRS India, MPLADS, Sansad, CAG
               </p>
               <p className="font-mono">
-                Methodology v3.0 · MPLADS 25%, Assets 15%, Criminal 15%,
-                Attendance 10%, Participation 10%, Committees 10%, Legislative
+                Methodology v3.1 · MPLADS 20%, Assets 15%, Criminal 20%,
+                Attendance 15%, Participation 10%, Committees 5%, Legislative
                 10%, Accessibility 5%
               </p>
             </div>

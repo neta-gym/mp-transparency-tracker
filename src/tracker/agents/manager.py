@@ -35,6 +35,7 @@ from ..tools.sansad_qa import SansadQAParser
 from ..tools.social_media import SocialMediaFetcher
 from ..tools.news import NewsFetcher
 from ..tools.constituency import ConstituencyFetcher
+from ..tools.sagy import SAGYFetcher
 from ..utils.logger import get_logger, console
 from ..utils.name_match import name_matches
 from .researcher import ResearcherAgent
@@ -106,6 +107,7 @@ class ManagerAgent:
         self.social_media = SocialMediaFetcher(self.scraper)
         self.news = NewsFetcher(self.scraper)
         self.constituency = ConstituencyFetcher()
+        self.sagy = SAGYFetcher(self.scraper)
 
         # Agents
         self.researcher = ResearcherAgent(
@@ -116,6 +118,8 @@ class ManagerAgent:
             social_media=self.social_media,
             news=self.news,
             constituency=self.constituency,
+            sagy=self.sagy,
+            cag=self.cag,
         )
         self.validator = ValidatorAgent(
             db, cag=self.cag, budget=self.budget, sansad_qa=self.sansad_qa,
@@ -142,6 +146,8 @@ class ManagerAgent:
                 social_media=self.social_media,
                 news=self.news,
                 constituency=self.constituency,
+                sagy=self.sagy,
+                cag=self.cag,
             )
             log.info("Playwright browser ready — eSAKSHI will use JS rendering")
         except Exception as e:

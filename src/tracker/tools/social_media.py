@@ -41,9 +41,14 @@ class SocialMediaFetcher:
         self.scraper = scraper
 
     async def fetch_social_media(self, mp: MPProfile) -> PublicAccessibility:
-        """Fetch social media profiles for an MP."""
+        """Fetch social media profiles for an MP.
+
+        Priority:
+        1. Known handles from social_handles.json
+        2. Sansad API member data (facebook, twitter, instagram fields)
+        3. Profile page discovery (regex scraping)
+        """
         profiles: list[SocialMediaProfile] = []
-        total_followers = 0
 
         # Check known handles first
         known = _KNOWN_HANDLES.get(mp.name.lower(), {})
@@ -58,7 +63,22 @@ class SocialMediaFetcher:
             )
             profiles.append(profile)
 
-        # If no known handles, try to discover from MP profile page
+        # Always try Sansad API member data (has social media fields)
+        if mp.sansad_member_id:
+            sansad_profiles = await self._fetch_from_sansad_api(mp)
+            if sansad_profiles:
+                # Merge with known handles (known handles take precedence)
+                existing_platforms = {p.platform for p in profiles}
+                for sp in sansad_profiles:
+                    if sp.platform not in existing_platforms:
+                        profiles.append(sp)
+                        existing_platforms.add(sp.platform)
+
+        # If still no profiles, try to discover from MyNeta candidate page
+        if not profiles and mp.myneta_candidate_id:
+            profiles = await self._discover_from_myneta(mp)
+
+        # Last resort: try to discover from MP profile page
         if not profiles and mp.profile_url:
             profiles = await self._discover_from_profile(mp)
 
@@ -78,6 +98,34 @@ class SocialMediaFetcher:
             confidence=confidence,
             sources=[source] if profiles else [],
         )
+
+    async def _fetch_from_sansad_api(self, mp: MPProfile) -> list[SocialMediaProfile]:
+        """Fetch social media handles from the Sansad API member record."""
+        if not mp.sansad_member_id:
+            return []
+
+        profiles: list[SocialMediaProfile] = []
+        try:
+            url = f"https://sansad.in/api_ls/member/{mp.sansad_member_id}"
+            data = await self.scraper.fetch_json(url)
+            if not isinstance(data, dict):
+                return []
+
+            for platform in ("twitter", "facebook", "instagram"):
+                handle = data.get(platform, "")
+                if handle and handle.strip() and handle.strip() not in ("", "NA", "N/A", "None"):
+                    handle = handle.strip()
+                    profiles.append(SocialMediaProfile(
+                        platform=platform,
+                        handle=handle,
+                        url=self._build_url(platform, handle),
+                        verified=False,
+                        active=True,
+                    ))
+        except Exception as e:
+            log.debug("Sansad API social media fetch failed for %s: %s", mp.name, e)
+
+        return profiles
 
     async def _discover_from_profile(self, mp: MPProfile) -> list[SocialMediaProfile]:
         """Try to discover social media links from the MP's official profile page."""
@@ -107,6 +155,42 @@ class SocialMediaFetcher:
                     url=match.group(0),
                     active=True,
                 ))
+
+        return profiles
+
+    async def _discover_from_myneta(self, mp: MPProfile) -> list[SocialMediaProfile]:
+        """Try to discover social media links from the MyNeta candidate page."""
+        if not mp.myneta_candidate_id:
+            return []
+
+        try:
+            from ..config import settings
+            url = settings.urls.myneta_candidate.format(candidate_id=mp.myneta_candidate_id)
+            html = await self.scraper.fetch(url)
+        except Exception:
+            return []
+
+        profiles: list[SocialMediaProfile] = []
+        platform_patterns = {
+            "twitter": re.compile(r"https?://(?:www\.)?(?:twitter\.com|x\.com)/([A-Za-z0-9_]+)", re.IGNORECASE),
+            "facebook": re.compile(r"https?://(?:www\.)?facebook\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
+            "instagram": re.compile(r"https?://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
+            "youtube": re.compile(r"https?://(?:www\.)?youtube\.com/(?:@|channel/|user/)([A-Za-z0-9_-]+)", re.IGNORECASE),
+        }
+
+        seen_platforms: set[str] = set()
+        for platform, pattern in platform_patterns.items():
+            match = pattern.search(html)
+            if match and platform not in seen_platforms:
+                handle = match.group(1)
+                profiles.append(SocialMediaProfile(
+                    platform=platform,
+                    handle=handle,
+                    url=match.group(0),
+                    verified=False,
+                    active=True,
+                ))
+                seen_platforms.add(platform)
 
         return profiles
 

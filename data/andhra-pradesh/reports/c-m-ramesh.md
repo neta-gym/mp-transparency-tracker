@@ -3,23 +3,23 @@
 **Constituency:** Anakapalle, Andhra Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -73,11 +73,11 @@
 - **Total Articles:** 10
 - **Positive:** 3 | **Negative:** 0 | **Neutral:** 7
 
-- BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express (The New Indian Express) [neutral]
-- BRS-BJP Merger Deal Sought by KTR With Probe Shield: CM Ramesh - Deccan Herald (Deccan Herald) [neutral]
+- Payyavula attacks Jagan over alleged criminal and factional politics legacy - The New Indian Express (The New Indian Express) [neutral]
 - Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu (The Hindu) [positive]
-- KTR proposed BRS-BJP merger at my home: Andhra BJP MP Ramesh claims, offers CCTV proof - The New Indian Express (The New Indian Express) [neutral]
 - Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India (The Times of India) [neutral]
+- Andhra Pradesh BJP MP Ramesh’s entry makes Anakapalle contest intense - The New Indian Express (The New Indian Express) [neutral]
+- GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle (Deccan Chronicle) [positive]
 
 ---
 
@@ -88,41 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-C M Ramesh demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant gaps in committee participation, legislative initiatives, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information may be affecting the overall assessment.
+C M Ramesh shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: C M Ramesh
-
-### Overall Assessment
-C M Ramesh, BJP MP from Anakapalle constituency in Andhra Pradesh, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical areas. While maintaining perfect attendance (100%) in parliament, comprehensive assessment is hampered by unavailable or low-confidence data on assets, MPLADS utilization, and criminal records.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development impact in Anakapalle constituency. The CAG audit context reveals systemic concerns in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine if these state-level issues affect Ramesh's fund utilization.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 245,000, but without baseline asset information, wealth trajectory analysis is impossible.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, data quality warnings indicate low confidence in this criminal data due to potentially unavailable sources. This caveat is significant as it raises questions about the completeness and reliability of the criminal background verification.
-
-### Parliamentary Performance
-Ramesh demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary averages. He has raised 34 questions and participated in 4 debates during the assessed period, showing active involvement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in legislative drafting. No committee membership data is available, suggesting either non-participation or incomplete record-keeping.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals neutral to positive coverage with 10 articles total (3 positive, 0 negative, 7 neutral). This balanced media profile suggests absence of major controversies while lacking significant positive achievements coverage. The evidence grade for accessibility is 'D', indicating poor performance in public engagement metrics, though specific accessibility measures are not detailed in the available data.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Evidence grades are concerning: parliament performance rated 'C' and accessibility rated 'D'. The absence of committee data and legislative effectiveness metrics further constrains comprehensive evaluation. Sources include PRS, social media, and news, but data completeness varies significantly across categories.
-
-### Key Takeaway
-While C M Ramesh maintains excellent parliamentary attendance and clean legal standing, the extensive data gaps across assets, MPLADS utilization, and accessibility metrics prevent comprehensive transparency assessment. The perfect attendance record is commendable, but voters and stakeholders lack critical information about fund utilization effectiveness and financial transparency. Improved data availability and disclosure would be essential for meaningful accountability evaluation of this MP's performance in representing Anakapalle constituency.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While C M Ramesh maintains excellent parliamentary attendance and clean legal st
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +235,8 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---

@@ -518,7 +518,7 @@ class DebuggerAgent:
         from .config import Settings
 
         # --- MPLADS ---
-        suite.checks.append(_check("MPLADS: None → 50.0", calc_mplads_score(None) == 50.0))
+        suite.checks.append(_check("MPLADS: None → 40.0", calc_mplads_score(None) == 40.0))
         suite.checks.append(_check("MPLADS: 0 → 0", calc_mplads_score(0) == 0.0))
         suite.checks.append(_check("MPLADS: capped at 100", calc_mplads_score(200) <= 100.0))
 
@@ -540,7 +540,7 @@ class DebuggerAgent:
             suite.checks.append(CheckResult("MPLADS: monotonically increasing", CheckStatus.PASS))
 
         # --- Asset ---
-        suite.checks.append(_check("Asset: None → 50.0", calc_asset_score(None) == 50.0))
+        suite.checks.append(_check("Asset: None → 45.0", calc_asset_score(None) == 45.0))
         suite.checks.append(_check("Asset: 0.0 → 85", calc_asset_score(0.0) == 85))
 
         # Monotonically decreasing as growth increases
@@ -572,8 +572,9 @@ class DebuggerAgent:
         ))
 
         # --- Attendance ---
-        suite.checks.append(_check("Attendance: None → 50.0", calc_attendance_score(None) == 50.0))
-        suite.checks.append(_check("Attendance: minister → 50.0", calc_attendance_score(80, is_minister=True) == 50.0))
+        suite.checks.append(_check("Attendance: None → 45.0", calc_attendance_score(None) == 45.0))
+        suite.checks.append(_check("Attendance: minister with data → actual", calc_attendance_score(80, is_minister=True) == 80.0))
+        suite.checks.append(_check("Attendance: minister no data → 50.0", calc_attendance_score(None, is_minister=True) == 50.0))
         suite.checks.append(_check(
             "Attendance: clamped [0, 100]",
             calc_attendance_score(-10) == 0.0 and calc_attendance_score(150) == 100.0,
@@ -583,23 +584,29 @@ class DebuggerAgent:
         suite.checks.append(_check("Participation: (0,0) → 0", calc_participation_score(0, 0) == 0.0))
         suite.checks.append(_check("Participation: (50,30) → 100", calc_participation_score(50, 30) == 100.0))
         suite.checks.append(_check(
-            "Participation: minister → 50.0",
-            calc_participation_score(50, 30, is_minister=True) == 50.0,
+            "Participation: minister with data → actual",
+            calc_participation_score(50, 30, is_minister=True) == 100.0,
+        ))
+        suite.checks.append(_check(
+            "Participation: minister no data → 50.0",
+            calc_participation_score(0, 0, is_minister=True) == 50.0,
         ))
 
         # --- Committee ---
-        suite.checks.append(_check("Committee: 0 → 0", calc_committee_score(0) == 0.0))
-        suite.checks.append(_check("Committee: 1 → 30", calc_committee_score(1) == 30.0))
-        suite.checks.append(_check("Committee: 3 → 70", calc_committee_score(3) == 70.0))
-        suite.checks.append(_check("Committee: capped at 100", calc_committee_score(5, 3) <= 100.0))
+        suite.checks.append(_check("Committee: 0 no data → 40.0 (neutral)", calc_committee_score(0) == 40.0))
+        suite.checks.append(_check("Committee: 0 with data → 0", calc_committee_score(0, data_confidence=0.5) == 0.0))
+        suite.checks.append(_check("Committee: 1 → 30", calc_committee_score(1, data_confidence=0.7) == 30.0))
+        suite.checks.append(_check("Committee: 3 → 70", calc_committee_score(3, data_confidence=0.7) == 70.0))
+        suite.checks.append(_check("Committee: capped at 100", calc_committee_score(5, 3, data_confidence=0.7) <= 100.0))
 
         # --- Accessibility ---
-        suite.checks.append(_check("Accessibility: 0 → 10", calc_accessibility_score(0) == 10.0))
-        suite.checks.append(_check("Accessibility: 3 → 70", calc_accessibility_score(3) == 70.0))
+        suite.checks.append(_check("Accessibility: 0 → 15", calc_accessibility_score(0) == 15.0))
+        suite.checks.append(_check("Accessibility: 3 → 75", calc_accessibility_score(3) == 75.0))
         suite.checks.append(_check("Accessibility: capped at 100", calc_accessibility_score(5, 3, True) <= 100.0))
 
         # --- Legislative ---
-        suite.checks.append(_check("Legislative: (0,0,0) → 0", calc_legislative_score(0, 0, 0) == 0.0))
+        suite.checks.append(_check("Legislative: (0,0,0) no data → 40.0 (neutral)", calc_legislative_score(0, 0, 0) == 40.0))
+        suite.checks.append(_check("Legislative: (0,0,0) with data → 0", calc_legislative_score(0, 0, 0, data_confidence=0.5) == 0.0))
         suite.checks.append(_check("Legislative: 1 bill → 30", calc_legislative_score(1, 0, 0) == 30.0))
         suite.checks.append(_check("Legislative: capped at 100", calc_legislative_score(5, 10, 10) <= 100.0))
 

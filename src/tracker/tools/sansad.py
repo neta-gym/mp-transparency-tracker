@@ -301,6 +301,8 @@ class SansadFetcher:
             re.compile(r"((?:Standing|Joint|Select|Consultative)\s+Committee\s+on\s+[^<\n]+)", re.IGNORECASE),
             # "Committee on X"
             re.compile(r"(Committee\s+on\s+[^<\n]{5,80})", re.IGNORECASE),
+            # "Committee on X" with HTML tags
+            re.compile(r"committee[^<]*?on[^<]*?<[^>]*>([^<]{5,80})", re.IGNORECASE),
         ]
 
         seen_names: set[str] = set()
@@ -429,22 +431,42 @@ class SansadFetcher:
         special_mentions = 0
         bills_introduced = 0
 
-        # Zero Hour mentions
-        zh_match = re.search(r"Zero\s+Hour.*?(\d+)", html, re.IGNORECASE | re.DOTALL)
-        if zh_match:
-            zero_hour = int(zh_match.group(1))
+        # Zero Hour mentions - multiple patterns
+        zh_patterns = [
+            r"Zero\s+Hour.*?(\d+)",
+            r"zero\s+hour.*?(\d+)",
+            r"Zero Hour.*?(\d+)",
+        ]
+        for pattern in zh_patterns:
+            zh_match = re.search(pattern, html, re.IGNORECASE | re.DOTALL)
+            if zh_match:
+                zero_hour = int(zh_match.group(1))
+                break
 
-        # Special Mentions / Rule 377
-        sm_match = re.search(r"Special\s+Mention.*?(\d+)", html, re.IGNORECASE | re.DOTALL)
-        if not sm_match:
-            sm_match = re.search(r"Rule\s+377.*?(\d+)", html, re.IGNORECASE | re.DOTALL)
-        if sm_match:
-            special_mentions = int(sm_match.group(1))
+        # Special Mentions / Rule 377 - multiple patterns
+        sm_patterns = [
+            r"Special\s+Mention.*?(\d+)",
+            r"Rule\s+377.*?(\d+)",
+            r"special mention.*?(\d+)",
+            r"rule 377.*?(\d+)",
+        ]
+        for pattern in sm_patterns:
+            sm_match = re.search(pattern, html, re.IGNORECASE | re.DOTALL)
+            if sm_match:
+                special_mentions = int(sm_match.group(1))
+                break
 
-        # Bills introduced
-        bill_match = re.search(r"(?:Private\s+Member\s+)?Bills?\s+Introduced.*?(\d+)", html, re.IGNORECASE | re.DOTALL)
-        if bill_match:
-            bills_introduced = int(bill_match.group(1))
+        # Bills introduced - multiple patterns
+        bill_patterns = [
+            r"(?:Private\s+Member\s+)?Bills?\s+Introduced.*?(\d+)",
+            r"bills?\s+introduced.*?(\d+)",
+            r"Private Member.*?(\d+)",
+        ]
+        for pattern in bill_patterns:
+            bill_match = re.search(pattern, html, re.IGNORECASE | re.DOTALL)
+            if bill_match:
+                bills_introduced = int(bill_match.group(1))
+                break
 
         has_data = zero_hour > 0 or special_mentions > 0 or bills_introduced > 0
         return LegislativeRecord(

@@ -4,16 +4,16 @@
     "constituency": "Araku",
     "state": "andhra pradesh",
     "party": "Yuvajana Sramika Rythu Congress Party",
-    "myneta_candidate_id": 5099,
+    "myneta_candidate_id": null,
     "slug": "gumma-thanuja-rani",
     "house": "lok_sabha",
     "sansad_member_id": 5679,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 31,
+    "age": null,
     "photo_url": null
   },
   "findings": {
@@ -71,25 +71,11 @@
       "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
-          "source_name": "esakshi",
-          "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.186516Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:21:29.589403Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
-          "fetched_at": "2026-05-21T14:21:29.586490Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-08-20T15:30:42.136098Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
@@ -100,7 +86,7 @@
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "data_period_note": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -116,7 +102,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:29.585378Z",
+          "fetched_at": "2026-08-18T20:07:45.088244Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -131,9 +117,11 @@
       "social_media",
       "news"
     ],
-    "collected_at": "2026-05-21T14:22:33.186663Z",
+    "collected_at": "2026-08-20T15:30:42.136136Z",
     "evidence_summary": {
       "parliament": "C",
+      "committees": "E",
+      "legislative": "E",
       "accessibility": "D"
     },
     "cag_findings": [
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202822Z",
+          "fetched_at": "2026-08-20T15:30:42.137303Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202837Z",
+          "fetched_at": "2026-08-20T15:30:42.137318Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202843Z",
+          "fetched_at": "2026-08-20T15:30:42.137326Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202849Z",
+          "fetched_at": "2026-08-20T15:30:42.137333Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202856Z",
+          "fetched_at": "2026-08-20T15:30:42.137341Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202861Z",
+          "fetched_at": "2026-08-20T15:30:42.137347Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:22:33.202866Z",
+          "fetched_at": "2026-08-20T15:30:42.137353Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -283,6 +271,14 @@
       "neutral": 10,
       "top_headlines": [
         {
+          "headline": "YSRCP to raise Panchadarla mining issue in Parliament - Telangana Today",
+          "source": "Telangana Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0RZcF9Pd1p2bUhWWDM0SHlyd0hvdGNrY3NxcEtZUEZZdGlFb0JJT1BGcXdXWVRvenBDTG1zM0RfeThfU0RhM0ZlUmdHSHlrVjdnMzdvVzdITnRvOXcxZV9XZjlwM2UxTXVSWmhqeG9pd0xMOGVINnBIZERRX3NWS1QyTENONDg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam - The Hindu",
           "source": "The Hindu",
           "severity": "low",
@@ -299,27 +295,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Araku MP flags off 10 new ambulances in Paderu - The Hindu",
-          "source": "The Hindu",
+          "headline": "YSRC changes Araku MP candidate for second time - Deccan Chronicle",
+          "source": "Deccan Chronicle",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkYwYWVHQVpNNnQ3YURnNjhPM0huNHhVeXV6RDZnNG5FanBteTNrUFN3WHNKOUtlbzAyU1RETDMxN0tBLU91MU55ZU9KNWF6M09oVG1MNVF4dnlJU1V5Z3NGTk13RDg4TkdRM29xNFU4elMzOHB3Ujl1Vjk0dk1YNGxQZGJPekdEc2thaHRjWjZTcnQwaTE5eWhkMkFzNjRzT056RWlMcUZQWWJtTTU1ZUM4aVVlQnV40gG_AUFVX3lxTE5XblhsX2cxa1NvbFduQUJjSVQxOWxvcnpmLWpFOW5WUVJvYmxXUzBCN3g4RU1HMmZuWUU3akFSb3pNMWtFMzZIYmtnNWpxZXdWZkoxaVItU1dONkN0R2Z4SGNFb3lCeHFLVVk3YXB0X2t6TUI3QTBwVVZfNEFLS1NrU3I1TzFPOFcxWlBGTWVCYnZ5TWFBMklNUWZ5cExFSjh1ZXZhS2pjRUFVNzZObElVTkdWY1lKQ1ZHajZDTXow?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1Z3b1piRXBzblZBMGdybzljcndsVERDUEpHc3RYTzVtaHNra2c3R3hMRGVaODZYWTlROFBXUE1WT2gzR2tHckFOR3ROT1AzTk1Gak5XVzlfRHA3aG5QQU1BR3k5VVhBVGlYaHY0eTl4WlFrZi1nZGhLVElFeG55SElDYmxlTDZHazhYanFsOGo3SW5qaUlhaGdMdFpYS0M4dkhad9IBqgFBVV95cUxPbWdEb240b1JoSUJwZ0h6cWJUY2ZxQzBUdkU4dFowdE4yMHRFUWJLYWsxSlNxOE5rRlJqdFhCdDNONjFHNzc0dTZoRTVDdHloZ0M3ZnNPOXRYeGE1WDVSTHpUa1A4UHpNdDFkQ09sZkVFT1NwM0NoM1lkcjVEaVFHMHNyYWxTN0NhSWM0bUhibjBFZ2JoTHZPRWFMMmRkR2xnVlNJRlEtd1hldw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India",
+          "headline": "Aruku (ST) election results 2024: YSRCP's Gumma Thanuja Rani triumphs in Aruku (ST) election, defeating B - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOc2lKRFdRQTRpX2JMM0JFWWVxRlc1VEo2WlFDblRCM245Q19jUHd5MjMwTFpNcHJQYmMtWFQ3ejBMdUJvRnpUQlBoTUlYRW0yMVlLMnBpUFB4UldodlY5ZVdLSnozazlKdzhncWlTU3E0dDNXN3RIelNkLWJLVzd0X25RTTc2YzlRWjBVTVJUelFsdHVEQkh2ZWhqR25faXZaWU50cGFJU0dPOWZ2OXB4dDJLa3RrQkhXajY2RHhBY0N1VU5sOGdYb2VTWE9vUUtyZnRtTGRfYk5ILVp1eF9zb2FnRnB2akQ5UUM5TDZ5bm5uSF9qVmIwa05jUGNwTXJSc25ucTNTYnZIOHc0X052WVhWYXF2WEN1bFNGcl9SeVV5VVkyS0ViZE11QdIBsAJBVV95cUxPUm1ZMndUUEZ0M3FYWUtJRUMwWTA1ZldMMHBTY0dfek40ZS1UQzkzNC0yTi1pY3M2RWQ3VWdiUFgwdDVRYzc5TllQYUd4QS1qYkIwNHktTGotRl9Cb0xKSGNrV1VIYUlsamt4clNHZXBTazh6a2duWkEyeWNDbmk5WlBMb1JvYVFVQlBmcHdsQWZYdXhIc2N0YjZwTVl2X3l1YzJYX1VjaGd5cXB6TkdzeHpKb0kxY18weFV1YWlHa252d0NQYldWbk5oNzUzc2hIeUFuNjl3bmlLT0kzVERMU0RBVXVtYzdYQTFzd1pUU3F2RVY4WTh3TkRYcEVKWVV0WEJfMzdXaS1HSXNHWEpVUThyUFNNbW1uTmhhdXE5ZWRiTFkzTkswUlFoT0I4SEVr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Araku (ST) lok sabha election results 2024: Araku (ST) Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVVOQ1dWc3pweHZENXdpa1BVT0FBeW9HOTBhUlVSc0tDQndveTM1UTlhR0pYUkJyVU05LXZSUUNObWlhaGl2b3ZSZkxjdFQ5YTJ2RHNUdlExb1RxODkwcG9ZS1pxalczREllT3VCeFRrOGJ5cUEtcGVsamtXLXZFYlB5U1lBMzlVM1ExV0ZKTE1tY2NaNzJxQU1R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQaG5QeXBIZ291bTJlOTdwby1GdTRFZ0haTzRWRzJibHRubVE2N3p6SUhmQXM3VWdhVlJKZmVkYURWblEyaEI1VktHYWZwZXJHcWxwdUVMbEpNT2YzQXM2TnQ1TkU1Y1ZLZWJ1QmJpRlR0Rml2cnlZUzEySmowWjBXVHhrb0hMeUFOa3hCVGdPM2pJQ0MzclBwa0loMnNRYnlSZ1pjc05qN0lNNmx2bnNIMUlacmxfUk03dHhDVTJ0cG5jbVVSU0poREQ5TWR4U0FIaXk5cmVtdUJDenc0NHFBYmF5ZjY2YXB1RnlJOEZ1R05ocUVjOEFLTWhwMDlmYzlKMnIxTXNzWXBJSFl3QUx0T09peGh5bkdDUzRVbmowRVlaTzM4UUNDTWhiNWlnLUwwamN6UzkwWGxiT1g3bGU0ZGxyNlbSAcoCQVVfeXFMTzM2WVNBNlJQU1AteUtKN2wwcUFqNWl2R1NWS3Q3THNVcXNqa3dONHNsUDhRaWVHandTaUFoUmZoNG1YOEpsZ0VjUHhfWndOc0lzaW1HLTR3WGNYY2JNeUE1WWtrNGZaWldkMVNPcUc5cXF1LU5TQkNWNVJ2T3JkZ29YVFN0bC1HNzA3dkFKV2NFaWFjZEFxM2YtOHowZkpRcEV6T1kySmVYRGdaZHcxSDltT1h6SndyZ1NpSU40Q0pDOUxIeW5zeEVtVEQ3cFNweERQMGxUZzE2T3IxTjFNOHVfU1RoVU8wVHgtTFg4emNESlNvNG8xNmdwRmJCSFp2WnRvMTNCNW41SlNVUVo5c2xRaG45THNpMjExakd0Y1R3amMyMVJwLXVJYUxwRWM0cklYLTRCdE80WHIxTHJVWmdINVc1bzFWMUhn?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -353,15 +341,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 34,
+      "starred_questions": 10,
+      "unstarred_questions": 24,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 66.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -369,17 +357,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -433,80 +421,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Andhra Pradesh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Gumma Thanuja Rani\n\n### Overall Assessment\n\nGumma Thanuja Rani, representing the Araku constituency in Andhra Pradesh under the Yuvajana Sramika Rythu Congress Party, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining strong parliamentary attendance (90%) and clean criminal record, critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, raising concerns about public accountability in a constituency that requires substantial development attention.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, showing no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for a tribal constituency like Araku that typically requires significant infrastructure development. CAG audit findings reveal systemic issues in Andhra Pradesh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These audit concerns are particularly relevant given the absence of transparent MPLADS reporting for this constituency.\n\n### Financial Transparency\n\nAsset disclosure data is completely missing, with no information available on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected officials. The monthly compensation is reported at Rs 2,45,000, but without baseline asset information, it's impossible to assess financial transparency or potential conflicts of interest. The lack of asset data undermines public accountability in a constituency where development needs are substantial.\n\n### Legal & Criminal Standing\n\nThe MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability. While the clean record is positive, the reliability concerns prevent definitive assessment of legal standing.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results with strong attendance (90%) demonstrating commitment to legislative duties. However, participation in debates remains limited (7 instances) and no private member bills have been introduced. The MP has raised 34 questions, indicating some engagement with constituency and policy issues. Overall parliamentary effectiveness appears moderate, with room for increased substantive participation in legislative processes.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility or engagement, which may indicate reduced accessibility to constituents. The evidence grade for accessibility is rated 'D', confirming significant gaps in public engagement mechanisms. For a tribal constituency requiring active advocacy, this limited media presence may indicate insufficient public outreach.\n\n### Data Quality & Caveats\n\nMultiple automated flags highlight serious data quality issues: criminal record data has low confidence due to source unavailability, asset information is unreliable, and MPLADS data confidence is low. No committee membership information is available, and legislative effectiveness data has low confidence ratings. Parliament-related data receives a 'C' grade while accessibility scores 'D'. These widespread data gaps significantly limit the reliability of this transparency assessment and suggest potential systemic issues with information disclosure.\n\n### Key Takeaway\n\nGumma Thanuja Rani's transparency profile is severely compromised by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of financial disclosures and development fund transparency creates significant accountability gaps. For a constituency like Araku with substantial tribal population and development needs, this lack of transparency in fund utilization and asset declarations represents a serious concern for public accountability and effective representation.",
-  "validated_at": "2026-05-21T14:22:53.181776Z",
-  "assets": {
-    "total_assets": 2354678.0,
-    "liabilities": 0.0,
-    "net_worth": 2354678.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.95,
-    "released": 14.95,
-    "sanctioned": 8.27,
-    "expended": 5.8,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:16:15.519643Z",
-        "notes": "Official eSAKSHI REST API — Works: 116 recommended, 107 sanctioned, 1 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 116,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 38.79598662207358
-  }
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-08-20T15:30:42.138508Z"
 }

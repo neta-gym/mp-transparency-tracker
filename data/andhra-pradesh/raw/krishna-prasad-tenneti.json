@@ -4,70 +4,86 @@
     "constituency": "Bapatla",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": 5102,
+    "myneta_candidate_id": null,
     "slug": "krishna-prasad-tenneti",
     "house": "lok_sabha",
     "sansad_member_id": 5680,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": null
   },
   "criminal_record": {
     "total_cases": 0,
     "serious_cases": 0,
-    "pending_cases": 0,
     "convictions": 0,
+    "pending_cases": 0,
     "disposed_cases": 0,
-    "confidence": 0.8,
-    "source": "myneta"
+    "cases": [],
+    "source": "myneta",
+    "confidence": 0.0,
+    "sources": []
   },
   "assets": {
-    "total_assets": 155757943.0,
-    "liabilities": 19400000.0,
-    "movable_assets": 0,
-    "immovable_assets": 0,
-    "net_worth": 136357943.0,
-    "confidence": 0.8,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": null,
+    "asset_year": null,
+    "previous_asset_year": null,
     "source": "myneta",
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5102",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
+    "confidence": 0.0,
+    "sources": [],
+    "annual_income": null,
+    "election_expenditure": null,
+    "wealth_percentile": null,
+    "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.78,
-    "released": 16.78,
-    "sanctioned": 8.92,
-    "expended": 0.61,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:16:23.492092Z",
-        "notes": "Official eSAKSHI REST API — Works: 134 recommended, 106 sanctioned, 1 completed"
+        "fetched_at": "2026-08-20T15:32:12.272652Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-08-20T15:30:42.174088Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-08-20T15:30:42.170322Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 134,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 3.635280095351609
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -82,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:32.559683Z",
+        "fetched_at": "2026-08-20T15:30:43.679674Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -96,16 +112,14 @@
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:36.341247Z",
+  "collected_at": "2026-08-20T15:35:02.994254Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -120,7 +134,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345937Z",
+        "fetched_at": "2026-08-20T15:35:03.011903Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -136,7 +150,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345949Z",
+        "fetched_at": "2026-08-20T15:35:03.011912Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -152,7 +166,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345955Z",
+        "fetched_at": "2026-08-20T15:35:03.011917Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -168,7 +182,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345961Z",
+        "fetched_at": "2026-08-20T15:35:03.011921Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -184,7 +198,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345967Z",
+        "fetched_at": "2026-08-20T15:35:03.011926Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -200,7 +214,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345975Z",
+        "fetched_at": "2026-08-20T15:35:03.011930Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -216,7 +230,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-05-21T14:22:36.345985Z",
+        "fetched_at": "2026-08-20T15:35:03.011933Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -254,27 +268,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTllpcXRtX3VwYmVOLXFLZWo4d3V3bGYwR0JrTkNlbUxTZ2x3RnZyWTZmTUMtOVRacHRzb2JhYWM5VTJyQlFtS3NwU1l3RTFnX2lpT1RWV2hRc1ZCeW9rWW53RWN1QzZwWFRTcjN1bUJxTkx0ano0SHBUZHdsZkl0TkJtSEMxMVRSbmZRb2k4MTlpbzdmOGl0VTZUdHN2N20zS1MtbzRnZmxrcjZXMWl0WS1lM3RIb2g5UU9lZzBxQzhzQ0pZeWlFYnlxRmFNY0s5aHBRVUY0eHhxTEFrWTdYWG5lcGFzRnFfVHljQUNIY9IB9gFBVV95cUxPenV1X2d3aGdJVGEza1B1VFBBMkREWkdDdVY5SFUwVVhqU1h0Y3Vld2gzZnNnWldNRjR1RHl1Qk1PZU5BU19uNndnVTN5dG85R1RiVUlXdkdWa3lnNXdwejZnMzNxMy1EaEE0bUJDT0E0SmhpVVpSdm1Odl90dncxYzIxWl9PYmhWdUd5cGl4VUQ3LVhjaWYxaGdWa3Y4eUhNMDVVN2dtMWlUeHpzQnR2RWlwbzJDV3hUZzZxRWI5cWVRc01zbUJUOV9UamZQUjBoZWdyT1pady1maV9tYWo3Rk4yeUFfRFFGcmhXRUZQd3cxeWw2blE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Babu Jagjivan Ram remembered as leader of all sections - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0lWZkNjeHlaZjI4aUZmaGJZYzBUSkRtY0J4WGFHRU9RTktoSkxtVnVRMHh5YmRZbmJWU2U4ZXBNellxYlFQeDA4SkFXNTN3azM0cWNVcTV1LUFzTjM2dGNTc2NIdkpmaXB2bVZCeHhzQmxfQ2lhNlJQODRCZVR4cDVUVGdUUUNBcHZBMV8zTVBuU19EZmlrRlVURDNlb0syclBsb3BiSmlhejFGdXV2bjdSUkR5Ymo1b2RBa1FR0gHLAUFVX3lxTE1ZSVhYRWtSSVR1WWZfQWJFQWlzUEt0NFI4VVpHaW04ejhEQXcycFlBMkpCcGUxYlNZazRWX1dtVUV2TzZNMWpFSHdkLTJLQi1pZWh4Z1VFVFd5THRtaThkcVh3RDlZcmx4bmlxb0FJNHZQdUlQaUMza3I0VnF5OGtZeEtlU3FlY0dEMGx2c0hWeXB1OFYzcjhzczg5d2pHV0xVZW1vSkxxdTcydHdCX3RGWi1ueWMwWFFzWHMyWlpSRHNHeG5uWmFqNWZB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Viral Video: TDP MP Shakes Parliament - Gulte",
-        "source": "Gulte",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEhrdUllR0FIYzUxZ1ctclZqaGZ1MGt4NmFMbklYNHJKVDZTTzdaWlFwOXZUWmtUb2ZKWHFOUEZfRU9UbXRKT0tvNm56Y19IV2dUN09lX25lQlpGMlZhR1ZXNUNqdUNBUlBhZEpfTUJMOHlEeV9FVzF6QlFXZGdFT0RjRkVNY2_SAYwBQVVfeXFMTUV5ZmlWc1BFcWpjWVEwUGY3aVRFTnVneFlzaWRleVB4UElyZEgtdGhiM0xRbTl6dXlGQnhEbHpKampFdk5HdmlDYW96bmtOdHJSX0VVbno0Qlc2UldxcGh4WVNzUWJiYXA0NFo1eUFGYmJmbFMyMVFYdUV5S2Y2RW5YR01RNlprT1FzSEo?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -286,11 +284,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "CM Naidu aims to turn Andhra Pradesh into plastic-free State, says Revenue Minister - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSTlRU0xxRkRSYTBhd0NERHZYUkNNWmxwUEpEX2xpUU5xcWhMUjIzOG5Md0RmcXFKZVNwR190XzdLWXJBSHJYYzhOcENsREZxYTdvWklFWklqN2FIZnd3YUYyOEx6dW5qTlI5YkVUZlBRUG1UakZ4WklGUDdTdnpSWmVaSHUwQ2Frb003bk5mdzJ3ZU55Z2dnWmtXZFFScXhxbm4wX0lYUnFScW4yb2Fmck11RUtBVUNobWtDVDhmLXdoVjMxUFg5VUotbm52TnA1MkoxdDhMbDJ3R19ELTdab2ZDUdIB8AFBVV95cUxOd01wZ2xSMFE5RjI3c0s5OVlCUjZmeXBTTUJLM0ZwQzVPTG9EVmg0SGY2bmdxS1RqLVh1dGd3T3Joc2tQMlljNDhnX1htaHFzY0tXal91WkNNa0EzYXRhNXdGUnV3N09FRWJZaFpGSk9JU0ZkRUFnNXQ3eGlsZWFwQUVIS3lFRTA4UGNqa3A0LW1rMlMzMmNxZ2k1YnU3cVRhN1VhUHI4dWJxYXhBNGhwaEQybWJKOWhZXzFSSUxtTThoNXlwekxDZzFUOEpJR0JaZW5lMmFTWDdsbzIzNzZoLS1SWnVPZ0x2X3VQYUpFY0k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTllpcXRtX3VwYmVOLXFLZWo4d3V3bGYwR0JrTkNlbUxTZ2x3RnZyWTZmTUMtOVRacHRzb2JhYWM5VTJyQlFtS3NwU1l3RTFnX2lpT1RWV2hRc1ZCeW9rWW53RWN1QzZwWFRTcjN1bUJxTkx0ano0SHBUZHdsZkl0TkJtSEMxMVRSbmZRb2k4MTlpbzdmOGl0VTZUdHN2N20zS1MtbzRnZmxrcjZXMWl0WS1lM3RIb2g5UU9lZzBxQzhzQ0pZeWlFYnlxRmFNY0s5aHBRVUY0eHhxTEFrWTdYWG5lcGFzRnFfVHljQUNIY9IB9gFBVV95cUxPenV1X2d3aGdJVGEza1B1VFBBMkREWkdDdVY5SFUwVVhqU1h0Y3Vld2gzZnNnWldNRjR1RHl1Qk1PZU5BU19uNndnVTN5dG85R1RiVUlXdkdWa3lnNXdwejZnMzNxMy1EaEE0bUJDT0E0SmhpVVpSdm1Odl90dncxYzIxWl9PYmhWdUd5cGl4VUQ3LVhjaWYxaGdWa3Y4eUhNMDVVN2dtMWlUeHpzQnR2RWlwbzJDV3hUZzZxRWI5cWVRc01zbUJUOV9UamZQUjBoZWdyT1pady1maV9tYWo3Rk4yeUFfRFFGcmhXRUZQd3cxeWw2blE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bapatla (SC) Election Results 2024: Krishna Prasad Tenneti of TDP triumphs in Bapatla Loksabha constituen - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcXJtRHNkRWFEWm5mVkpfRWZfa0pPdU9kS1VwVzBSS1FJRGNIWXpjRUVLY3RpUlVrTlBBemVmX0drSld6V040S2VMcXJ6MGlTc013cUVnSlVQaUJwLUJNN3NaQ0NScV9rcW41Wi1sMFplZzcySlNvamtVWktNWWZKOU4xeWhNTjZPRWl2N0ZGNkdfcGZSMXZYSHd3N1c1c2lFNnR0YS01WWt0UTAwYlhpdjR3ZG5YaFJpbDF4MWdQWGQ3RUpoN3RNTDRqaWU5RFBkWW5WdWJRbDFOMHNndVY2eEpyVXZCcFFoRlp4Yk9HNmpVaFRhTlV2UUl3cDNWQUk2c2hLSUJBMzZzaGxDMnZVRWY2WHYtZkFPNHVKTXhnTDd5Y3FLd3lLQVYxS25jdXZFUmE3VmpjNm9xcnMzLXY2eGktZGNJejc5T2RCZWFXU1V1NlNYQnhVN1ZzdEpURGt5bDh6bEIyZGzSAe4CQVVfeXFMTlFmMFFocGdiV1VFN09ZdnZlcXpCWjdRUno0SXNUZUpnN1F5SHpBUHE4bjlpaFJYOGQzamJjTll6ekFTNzVYdXdhZjktZjVQM1ZlME1SbHdrTm1qMlFNYzdSRFFNSU9tRGJCeko1MlJBX3VkeGRMN3ExSmh3THMxTjJvMGVDZFZ5TnA5dGJDNmVlT3NNV3Z6TEdWTk1VbzNhcUZ0SlV6cUg0S05KRVRYc241OEFmZ28wcWIyWlF1Vzg4TUJfcHloZTRyeEEzYy1hNlZwWGRZNmZ2V0RpRXVlb0o1Q2V6Zk9FM01XUlNGZDhGeGtvbTRSaG1GQ2hGSUc0bWpKNXJvUTROWUZuREMwMnhualdhVHpXOWJuMFdiRXhXZm1XTWNzWHV1YW9ZbFRXZTBHS2hTOVJfN2RtTFF2dURXWDluN0JkTjVXQkhKVTF4LTJBQ0ZQVWJUeG1SY3UyTE1sN2dZVXczSDJGMWhB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bapatla Election Result 2024 LIVE Updates Highlights: Krishna Prasad Tenneti of TDP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOejZaRDRqMTZyUFZTbktZX2VfY0wwU0tRSm50UnNabEVYcnk3LWNvUEFFZW1jaDNZU2YtUHJfb1lNc19LUTdDTndyR21QWE95SHJLcmYxdXhzU0Jmdk5vREhnaEh1VnFFMnJVaGd1Y0RBU3dwNXgyZkpLUmc1WC1xMjlmcnhzY3BSWnYyNjdlbzVGMkI3NzZueEFTcGJUUkFEWmpnS3NCX3BaUGRmbjNrTVBaY2NkYmdQVW9yaG9uNk9vTzEwZ1hoakwzQUg0Zk9EYTRjWDhYWkplaHBFUFl1bUxR0gHnAUFVX3lxTFB6UEdlVGQtRHFlWnVVNnNiejZkNDB1YTA5ZFpTQVZZcEljQjlzVW9qeVdzZzlXcW1RWkNLbW9GRXlhUC02aDlNM1JTeGlJYXpPVjBtQmNaaGRManFVM2pzb25Gd0xQYnJFemNMaGhmbHIzMWFRYW5WQ1pLRGdTUVl4NkJSRUJQVmw3VERoRGxlZGRjZEZmUzNPVHZJak1oRUYwekhEeC13Z2VqUGNSelo4UW1PNDVzeERGTVpoRXg4UXZCZ1JlNDFETUFCbEcxYzVYTmtlckNfUnoxMkRDOUtzU2R6cmtCTQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -324,15 +338,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 46,
+    "starred_questions": 13,
+    "unstarred_questions": 33,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 88.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -340,17 +354,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

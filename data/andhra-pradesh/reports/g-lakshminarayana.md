@@ -3,23 +3,23 @@
 **Constituency:** Anantapur, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 60.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -73,11 +73,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori - The Times of India (The Times of India) [neutral]
 - Anantapur Member of Parliament appointed member of panel on labour - The Hindu (The Hindu) [neutral]
-- Political Profile of Ambica G Lakshminarayana Valmiki, Tdp Party, Anantapur, and Net Worth - India TV News (India TV News) [neutral]
-- TDP MP’s sister among six killed in Uttarakhand helicopter crash - The New Indian Express (The New Indian Express) [neutral]
-- Start new courses in mining, geology & drought studies, MP tells CUAP - The Hans India (The Hans India) [neutral]
+- Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori - The Times of India (The Times of India) [neutral]
+- Payyavula pushes for an airport in Anantapur - The Hindu (The Hindu) [neutral]
+- Centre allocates ₹736 crore for drinking water, sewage projects in Anantapur - The Hindu (The Hindu) [neutral]
+- Train from Anantapur to Bengaluru to start from June 4 - The Hindu (The Hindu) [neutral]
 
 ---
 
@@ -88,41 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-G Lakshminarayana demonstrates a mixed transparency profile with significant areas of concern. While maintaining perfect criminal record transparency and good attendance (85%), the MP shows poor performance in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores, combined with very low data confidence (14%) and multiple validation flags, suggest limited overall transparency in parliamentary duties.
+G Lakshminarayana shows moderate transparency with a score of 60.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: G Lakshminarayana
-
-### Overall Assessment
-G Lakshminarayana, representing Anantapur constituency in Andhra Pradesh for the Telugu Desam Party, presents a mixed transparency profile with significant data gaps. While maintaining good parliamentary attendance (85%), his overall transparency is hampered by incomplete financial disclosures and limited public engagement metrics. The MP shows consistent legislative participation but faces challenges in comprehensive public accountability due to missing MPLADS and asset data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, making it impossible to assess the MP's development spending effectiveness. This absence of transparency is concerning given CAG audit findings highlighting systemic issues in Andhra Pradesh's fund management. The 2010 CAG audit revealed Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Lakshminarayana, constituents cannot evaluate his development impact.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, preventing any assessment of the MP's financial transparency. No data is available on total assets, previous holdings, growth ratios, or net worth. This lack of financial disclosure significantly undermines public accountability and makes it impossible to track potential conflicts of interest or wealth accumulation patterns during his tenure. The MP's monthly compensation is listed at Rs 2,45,000, but without asset context, comprehensive financial transparency remains compromised.
-
-### Legal & Criminal Standing
-Lakshminarayana maintains a clean criminal record with zero cases across all categories - no pending, disposed, or conviction records, and no serious charges. However, the data confidence is marked as low, indicating potential gaps in criminal record verification. While this appears positive for his legal standing, the warning flag suggests the criminal data source may be incomplete or unavailable, limiting confidence in this assessment.
-
-### Parliamentary Performance
-The MP demonstrates solid parliamentary engagement with 85% attendance, substantially above average performance levels. His legislative activity includes 47 questions raised and participation in 4 debates, indicating active involvement in parliamentary proceedings. However, he has introduced zero private bills, suggesting limited initiative in proposing new legislation. The parliament activity grade of 'C' reflects adequate but not exceptional performance in core legislative functions.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited reach with only 10 news articles identified, all categorized as neutral coverage with no positive or negative sentiment recorded. This neutral media presence suggests either low public visibility or unremarkable performance that neither generates praise nor criticism. The accessibility grade of 'D' indicates poor public outreach and transparency measures. Committee participation data is entirely missing, preventing assessment of his specialized legislative contributions.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Criminal record confidence is low with potential source unavailability. Asset information is completely absent, severely limiting financial transparency evaluation. MPLADS utilization data is unavailable despite this being a key accountability metric. Committee membership and legislative effectiveness data are missing or have low confidence ratings. The evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these substantial data gaps.
-
-### Key Takeaway
-G Lakshminarayana presents a partially transparent profile hampered by critical data gaps in financial disclosure and development spending. While maintaining good parliamentary attendance and a clean criminal record, the absence of asset declarations and MPLADS utilization data significantly undermines comprehensive accountability assessment. His neutral media coverage and poor accessibility grade suggest limited public engagement, while missing committee data prevents evaluation of specialized contributions. Constituents lack essential information needed to fully evaluate his performance and transparency as their representative.
+No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 47. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ G Lakshminarayana presents a partially transparent profile hampered by critical 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +235,8 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---

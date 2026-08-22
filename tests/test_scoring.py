@@ -36,7 +36,7 @@ class TestMPLADSScore:
         assert calc_mplads_score(0) == pytest.approx(0, abs=0.1)
 
     def test_none_returns_neutral(self):
-        assert calc_mplads_score(None) == 50.0
+        assert calc_mplads_score(None) == 40.0
 
     def test_hundred_percent(self):
         assert calc_mplads_score(100) == pytest.approx(100, abs=0.1)
@@ -65,7 +65,7 @@ class TestAssetScore:
         assert calc_asset_score(3.0) == 10
 
     def test_none_returns_neutral(self):
-        assert calc_asset_score(None) == 50.0
+        assert calc_asset_score(None) == 45.0
 
 
 class TestCriminalScore:
@@ -126,11 +126,14 @@ class TestAttendanceScore:
     def test_zero_attendance(self):
         assert calc_attendance_score(0.0) == 0.0
 
-    def test_minister_gets_neutral(self):
-        assert calc_attendance_score(30.0, is_minister=True) == 50.0
+    def test_minister_with_data_gets_actual_score(self):
+        assert calc_attendance_score(30.0, is_minister=True) == 30.0
+
+    def test_minister_no_data_gets_neutral(self):
+        assert calc_attendance_score(None, is_minister=True) == 50.0
 
     def test_none_returns_neutral(self):
-        assert calc_attendance_score(None) == 50.0
+        assert calc_attendance_score(None) == 45.0
 
 
 class TestParticipationScore:
@@ -143,6 +146,7 @@ class TestParticipationScore:
         assert score == pytest.approx(60.0, abs=0.1)
 
     def test_zero_participation(self):
+        # When we know participation is 0 (data was fetched), score should be 0
         assert calc_participation_score(0, 0) == 0.0
 
     def test_minister_gets_neutral(self):
@@ -158,11 +162,14 @@ class TestParticipationScore:
 
 
 class TestCommitteeScore:
-    def test_no_committees(self):
-        assert calc_committee_score(0) == 0.0
+    def test_no_data_returns_neutral(self):
+        assert calc_committee_score(0) == 40.0
+
+    def test_known_zero(self):
+        assert calc_committee_score(0, data_confidence=0.5) == 0.0
 
     def test_one_committee(self):
-        assert calc_committee_score(1) == 30.0
+        assert calc_committee_score(1, data_confidence=0.7) == 30.0
 
     def test_two_committees(self):
         assert calc_committee_score(2) == 50.0
@@ -184,33 +191,36 @@ class TestCommitteeScore:
 
 class TestAccessibilityScore:
     def test_no_platforms(self):
-        assert calc_accessibility_score(0) == 10.0
+        assert calc_accessibility_score(0) == 15.0
 
     def test_one_platform(self):
-        assert calc_accessibility_score(1) == 30.0
+        assert calc_accessibility_score(1) == 35.0
 
     def test_two_platforms(self):
-        assert calc_accessibility_score(2) == 50.0
+        assert calc_accessibility_score(2) == 55.0
 
     def test_three_platforms(self):
-        assert calc_accessibility_score(3) == 70.0
+        assert calc_accessibility_score(3) == 75.0
 
     def test_verified_bonus(self):
-        # 2 platforms (50) + 2 verified (20) = 70
-        assert calc_accessibility_score(2, verified_count=2) == 70.0
+        # 2 platforms (55) + 2 verified (20) = 75
+        assert calc_accessibility_score(2, verified_count=2) == 75.0
 
     def test_active_bonus(self):
-        # 2 platforms (50) + active (10) = 60
-        assert calc_accessibility_score(2, active=True) == 60.0
+        # 2 platforms (55) + active (10) = 65
+        assert calc_accessibility_score(2, active=True) == 65.0
 
     def test_all_bonuses(self):
-        # 3 platforms (70) + 2 verified (20) + active (10) = capped at 100
+        # 3 platforms (75) + 2 verified (20) + active (10) = capped at 100
         assert calc_accessibility_score(3, verified_count=2, active=True) == 100.0
 
 
 class TestLegislativeScore:
-    def test_no_activity(self):
-        assert calc_legislative_score(0, 0, 0) == 0.0
+    def test_no_data_returns_neutral(self):
+        assert calc_legislative_score(0, 0, 0) == 40.0
+
+    def test_known_zero(self):
+        assert calc_legislative_score(0, 0, 0, data_confidence=0.5) == 0.0
 
     def test_one_bill(self):
         assert calc_legislative_score(private_member_bills=1) == 30.0
@@ -269,28 +279,31 @@ class TestCompositeFormula:
     """Test that the full composite formula works correctly with 8 dimensions."""
 
     def test_perfect_scores(self):
-        # Weights: mplads=0.25, asset=0.15, criminal=0.15, attendance=0.10,
-        # participation=0.10, committee=0.10, accessibility=0.05, legislative=0.10
+        # Weights: mplads=0.20, asset=0.15, criminal=0.20, attendance=0.15,
+        # participation=0.10, committee=0.05, accessibility=0.05, legislative=0.10
         composite = (
-            100 * 0.25 + 85 * 0.15 + 100 * 0.15 + 100 * 0.10
-            + 100 * 0.10 + 100 * 0.10 + 100 * 0.05 + 100 * 0.10
+            100 * 0.20 + 85 * 0.15 + 100 * 0.20 + 100 * 0.15
+            + 100 * 0.10 + 100 * 0.05 + 100 * 0.05 + 100 * 0.10
         )
         assert composite == pytest.approx(97.75, abs=0.1)
 
     def test_worst_scores(self):
         composite = (
-            0 * 0.25 + 10 * 0.15 + 0 * 0.15 + 0 * 0.10
-            + 0 * 0.10 + 0 * 0.10 + 10 * 0.05 + 0 * 0.10
+            0 * 0.20 + 10 * 0.15 + 0 * 0.20 + 0 * 0.15
+            + 0 * 0.10 + 0 * 0.05 + 15 * 0.05 + 0 * 0.10
         )
-        assert composite == pytest.approx(2.0, abs=0.1)
+        assert composite == pytest.approx(2.25, abs=0.1)
 
     def test_neutral_scores(self):
+        # New defaults: mplads=40, asset=45, criminal=100, attendance=45,
+        # participation=0, committee=40, accessibility=15, legislative=40
         composite = (
-            50 * 0.25 + 50 * 0.15 + 50 * 0.15 + 50 * 0.10
-            + 50 * 0.10 + 50 * 0.10 + 50 * 0.05 + 50 * 0.10
+            40 * 0.20 + 45 * 0.15 + 100 * 0.20 + 45 * 0.15
+            + 0 * 0.10 + 40 * 0.05 + 15 * 0.05 + 40 * 0.10
         )
-        assert composite == pytest.approx(50, abs=0.1)
+        # Expected: 8 + 6.75 + 20 + 6.75 + 0 + 2 + 0.75 + 4 = 48.25
+        assert composite == pytest.approx(48.25, abs=0.1)
 
     def test_weights_sum_to_one(self):
-        total = 0.25 + 0.15 + 0.15 + 0.10 + 0.10 + 0.10 + 0.05 + 0.10
+        total = 0.20 + 0.15 + 0.20 + 0.15 + 0.10 + 0.05 + 0.05 + 0.10
         assert total == pytest.approx(1.0, abs=0.001)

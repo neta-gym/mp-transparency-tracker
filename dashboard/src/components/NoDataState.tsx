@@ -24,7 +24,7 @@ export function NoDataState({
       <h3 className="text-lg font-bold uppercase text-ink mb-2">{title}</h3>
       <p className="text-sm text-text-secondary max-w-md">{message}</p>
       <code className="mt-4 px-4 py-2 bg-ink text-background border-3 shadow-brutal text-xs font-mono">
-        python -m tracker --state &lt;state-name&gt;
+        python -m tracker.main --state &lt;state-name&gt;
       </code>
     </div>
   );

@@ -3,23 +3,23 @@
 **Constituency:** Guntur, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (7%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -71,13 +71,13 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- TDP Guntur MP Candidate Pemmasani Chandrasekhar Interview With Murthy | TV5 News (TtpBzQs6rZ) - fathomjournal.org (fathomjournal.org) [neutral]
-- How a First Time MP Ranked at the Top Among All AP MPs - Gulte (Gulte) [neutral]
-- AP govt pushes for Bill in Parliament to give legal capital status to Amaravati - The News Minute (The News Minute) [neutral]
-- Guntur Lok Sabha election results 2024: TDP's Dr Chandra sekhar Pemmasani defeats YSRCP's Kilari Venkata - The Times of India (The Times of India) [neutral]
+- ₹10.20 Crore Sanctioned For Tadikonda Gurukulam, GGH Development - Deccan Chronicle (Deccan Chronicle) [positive]
+- Mangalagiri will emerge as a model constituency in Andhra Pradesh: Minister Nara Lokesh - The New Indian Express (The New Indian Express) [neutral]
 - Chandra Sekhar Pemmasani: The Richest Lok Sabha MP Named In Modi 3.0 - NDTV (NDTV) [neutral]
+- Guntur Lok Sabha election results 2024: TDP's Dr Chandra sekhar Pemmasani defeats YSRCP's Kilari Venkata - The Times of India (The Times of India) [neutral]
+- Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - livemint.com (livemint.com) [neutral]
 
 ---
 
@@ -89,41 +89,18 @@
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-MP Chandra Sekhar Pemmasani shows a mixed transparency profile with significant room for improvement. While maintaining a clean criminal record, the MP demonstrates poor committee participation and minimal accessibility to constituents. The moderate scores across MPLADS, assets, and parliamentary engagement suggest inconsistent transparency practices.
+Chandra Sekhar Pemmasani shows moderate transparency with a score of 54.0/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: Chandra Sekhar Pemmasani
-
-### Overall Assessment
-Chandra Sekhar Pemmasani, representing Guntur constituency in Andhra Pradesh as a Telugu Desam Party MP, presents a transparency profile severely hampered by data limitations. With evidence grades of 'C' for parliament activities and 'D' for accessibility, the available information is insufficient to provide a comprehensive assessment of his performance as a public representative. The profile shows concerning data gaps across all major transparency indicators.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This complete data absence prevents any assessment of the MP's development work in Guntur constituency. The lack of utilization percentage data is particularly concerning given that MPLADS is a primary mechanism for MPs to address local development needs. CAG audit findings for Andhra Pradesh reveal systemic issues including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives under Indian electoral law. The absence of both current and comparative asset data prevents any analysis of wealth accumulation patterns or potential conflicts of interest. Monthly compensation is recorded at Rs 2,45,000, representing standard MP remuneration.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal standing. However, this data comes with a low confidence warning, suggesting the source may be unavailable or unreliable. While the reported clean record is positive, the data quality concerns require cautious interpretation of this finding.
-
-### Parliamentary Performance
-Parliamentary activity data is completely unavailable, with no information on attendance percentage, questions raised, debate participation, or private member bills introduced. The MP holds ministerial position, which typically results in lower attendance due to executive duties, but even this contextual information cannot be properly evaluated without baseline data. The complete absence of legislative effectiveness metrics prevents assessment of the MP's contribution to parliamentary proceedings.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment across all pieces, indicating limited public visibility or controversial positions. The absence of positive or negative coverage suggests either minimal media attention or carefully managed public relations. No social media engagement data or public accessibility metrics are available, limiting assessment of constituent interaction and transparency initiatives.
-
-### Data Quality & Caveats
-The transparency profile suffers from significant data quality issues across all major indicators. Automated flags indicate low confidence in criminal records, assets, MPLADS, and parliamentary activity data. Committee membership information is entirely absent, suggesting Sansad profile unavailability. These widespread data gaps severely limit the reliability of any assessment and indicate potential systemic issues with transparency reporting or data collection mechanisms. The evidence grades of 'C' and 'D' reflect these substantial limitations.
-
-### Key Takeaway
-Chandra Sekhar Pemmasani's transparency profile is characterized by extensive data unavailability rather than demonstrable performance metrics. While no negative indicators are present, the absence of crucial information on fund utilization, asset declarations, and parliamentary activities prevents meaningful evaluation of his effectiveness as a public representative. The systemic data gaps suggest either inadequate transparency mechanisms or poor data management, highlighting the need for improved reporting standards. Constituents and stakeholders should seek direct engagement to obtain performance information not available through standard transparency channels.
+No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ Chandra Sekhar Pemmasani's transparency profile is characterized by extensive da
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,9 +236,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

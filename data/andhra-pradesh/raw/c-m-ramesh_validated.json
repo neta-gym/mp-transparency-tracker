@@ -4,16 +4,16 @@
     "constituency": "Anakapalle",
     "state": "andhra pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5268,
+    "myneta_candidate_id": null,
     "slug": "c-m-ramesh",
     "house": "lok_sabha",
     "sansad_member_id": 5544,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 58,
+    "age": null,
     "photo_url": null
   },
   "findings": {
@@ -71,25 +71,11 @@
       "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
-          "source_name": "esakshi",
-          "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.471517Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:20:31.979308Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
-          "fetched_at": "2026-05-21T14:20:34.312138Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-08-20T15:31:01.990727Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
@@ -100,7 +86,7 @@
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
+      "data_period_note": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -116,7 +102,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:33.062502Z",
+          "fetched_at": "2026-08-18T20:05:03.565514Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -131,9 +117,11 @@
       "social_media",
       "news"
     ],
-    "collected_at": "2026-05-21T14:21:12.471618Z",
+    "collected_at": "2026-08-20T15:31:01.990765Z",
     "evidence_summary": {
       "parliament": "C",
+      "committees": "E",
+      "legislative": "E",
       "accessibility": "D"
     },
     "cag_findings": [
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484188Z",
+          "fetched_at": "2026-08-20T15:31:01.991851Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484196Z",
+          "fetched_at": "2026-08-20T15:31:01.991865Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484201Z",
+          "fetched_at": "2026-08-20T15:31:01.991873Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484206Z",
+          "fetched_at": "2026-08-20T15:31:01.991880Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484213Z",
+          "fetched_at": "2026-08-20T15:31:01.991887Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484218Z",
+          "fetched_at": "2026-08-20T15:31:01.991893Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:12.484222Z",
+          "fetched_at": "2026-08-20T15:31:01.991899Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -283,19 +271,11 @@
       "neutral": 7,
       "top_headlines": [
         {
-          "headline": "BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express",
+          "headline": "Payyavula attacks Jagan over alleged criminal and factional politics legacy - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWJPMjZweGtmcUFjWThockJtNVFCQXJrSGZxR3ptaC1EbWxJZDB6cG52WmFwX0hLaEcxUVFFSXN1TGVKN292dUtVWXROMUtsandBRTRNQTh1czJoX00tWEIzQzMxSWZlcGhnQVJUZlpxTzdGWG5aUDI1Z0lVTWVUQXB2R1BUVS05ZU9ScUViWkptUWVHcWRFVTZobVVBZGFfZzFlOGxBb3lQZU5LMjAtMnV6RmVKNndWN3BGWFlOQzZubUx0aGwxb3piakFOZlZqSUMtakMxbHNyd9IB5wFBVV95cUxPYUNfOUVTaGFPRFR6R0U2OURpMjM1MVd5cS1aaTFTdWV3WVJxZHM1STRPc25uc2FaR2tFZDFkUHhMZndHTmV3UFZjYmhPVkV1cWJueW5zQUdhYmJsSWFrRjlSUUktRzFPVUJ0NEd1M0JfOGVKNU53cy04UzhXZnEtZlpYN216SkNMNFlZRmQ1V0M0YWZGd054UnYzMUNrbU1hX3RtX2FCMUdwSkg3T084SHdGcXNaZFNOc3pvMEhPbzE1UVNRVFM2VFh0TlBkT1Jhb0duNjFLTUNsSk9aVzVVelZwRGc3cDQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BRS-BJP Merger Deal Sought by KTR With Probe Shield: CM Ramesh - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmRKTHE3R0xTUUs5d3lRTzdlT2R5aUZORDBaU1BMbzMtRmp2RVNuOGxmSUJuX0luSGlEUGZhN3A1TWI2Q2NTM3hVOGRLSWtUUDJBOGJuVDJBQ3hFZnVlR1BVV21zcTFuVHB3WVZETjdEVC13bFVEMG9MZExjTnZMeG5GMDlvSWxYdGEzTFg1bERHZm9HS1hwdzZqcC1sQ0o5cDhzY1hWOW9JM29pY0p6cXdObi1BV3FYd2xCRzlGei05ZlJFZnJQaDN0TWhtZW1SOHltTTA3VFEzWEtoOHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaVRFZzlBaU1yZFczbk9rZ0tHbFpPdEc3TXVFSXNFeHZ1bnZBMkE2UTBiZ1BHRFRKbmpzT1NrbExUbkJzaUNFeTltbnA3cThORGVsOVdJWjlteV8xQjQ3MWVjX2FTcEhDMENMOWhrZ2pPX2hoQm9MTllXSTA0UE10anJqeTg0TXRCTWY3WHh5aVVIWnF0ZXVrdE1VX3lqUEw3OXJmMFdoTXpENVY5WERIU21jRE5rRWM4SzV2TW5CNzEwTTRfTGpyVUprVFRmbDFMZlZIX2ZNOGtBd9IB5wFBVV95cUxOSzRJUXEtQUJ4Y2xQcGJNYTVfcUxfd2RHOHd5WDJQTDU0RlpqcTQzcVFUQUFHQmJmSWw3TUQzRFd1WW5QeFJzV3JSTHRFLVByeVlUX3QxZkc3Y3ZvNEF6c1UxWTlWQWlTZkRDdXZ2cEdGMFh0TzgtbW9zZURIei1EdnlkZDlNdTUyYmdZRHVhbWN5QWVkNnN3TUlvTGREaFlnTVV1UVRFTEhGcnBNRldFS0tDaGFlUElUSzZXV0Vfb19fZ0NsZlhSZmZfSVZXQlFqT3JSN282RXRmNG5ZbU0yamExVXpaa1E?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -307,20 +287,28 @@
           "sentiment": "positive"
         },
         {
-          "headline": "KTR proposed BRS-BJP merger at my home: Andhra BJP MP Ramesh claims, offers CCTV proof - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVi1fQ0F4ZDFDenpkZ015SUFtYl9Sd3NvVHEzREFzaEVPN1JTNElMQ0JVTG54aGNScFo1MHpCazc1aHpUenl3VHRDNEJobGszUDdxNWdfdFlOd3pSU3RJLXlUUWlobllTMVR3LWpUcjhtVDJ2STJOdmVQTUxoTGZ4M0V2OFVHdHNudzBFNWNfSVlySXZ5Nm8wRFNzVlhjZExsQkxFcGY4Umh6bG9NTDkxOERDcDlqYU1uZUU2VDRjM0praGRuc0VOa3BJdUpvVzU1WG8tSmpLV1RVZ2JBbGtodlpKZ3doQdIB8wFBVV95cUxPcGNOdk1mSm9EcVdveWxJaF9XazU3dkpIb1VTMVlPZzRTazVfazJzZFQyV05CUUJjYXZlR3NFVWh5RE94RHFiZGVWcEx4NE1Jc0V5YWlpRUdJUVNVZzNkLVBEc3o0cl9DNXF2NDd3TmloNWI2TXR4Q0dWSlVOUnc0X213dWJ1VmlONmlZeGdfTllsQUgwOTV4WFlBY3ZfcFNNTmpoNm81RFY3UkdKSDlQR2JuYlZ2U01CcEFJdEIxSFZBaGFGaWV5UWh2ekk1SjlZX1NmWXpZLW1vSEN5WlNhRG1HVXRwZzBET1J6bVJnTlEzbDA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNc3dmMVFYWTRPUHhaM3BaQVZPNzVvUmlJbEVsSzB2a2NiNWl2YmNGNjZ5cFd5ZUlHRjFPVmJ3ZW5jYkdoY1Bfa1piazZQcm1DSktUQ2gtWTNWOTM5a0RRSzJ4TmlNZ1prbVdqLTdxZVVZa25TaURxRU9EeHFYYUlzRzNSSFBvbVRCdGdoa0ZZY3FxQTNDS0V0VTBLN19POUpsdGMtdDBsY29KanR5cm1FQlBOWlpVeE94dnVMeEY4cGxzS2lESVFNSUx2VWpHbUhyRjlWWmRheTZpNnlRX245Mzc4ZnlMT2pCa0ZlNjRRdlNZNUZjUmhxYVBCSWppTHZBMUc0VUVsdG9DRGpVSmZjY09n0gGXAkFVX3lxTE00eVl0OXNhWGtmNnZNS0U4Nkc4RVFCUTZGbjFwOThIMkxSZXU3Sy1DbDBJNU9SeldkLTViLWRnTWV3Q01wT3U4YlluZkFTWFFPLWNMWFU2cC1YUG9TSDBNYV9XTGV4NVgtMERlS1o3S01Kb19iTm1zYk1nUTdJX3VVM2JKdEUwY25BMWJMRXZCMTJyWlJxRnE5S0JvZl9uVXczLWZfaTc4RTg4REc1bzFZUUlxa1NGNmRxejRRdDNuN19KbTVldnU1SXBxZzhWZk9ieTg4OEVZTGQzWVE3MG5jbElHS0JMdFVFRmp0cjROWEZ4MVN5MzZMUUQ5bV8za183WF9sZ1IzZlNGNFdIQXJxVUZycXJOaw?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Andhra Pradesh BJP MP Ramesh’s entry makes Anakapalle contest intense - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGRoYnRXNm1zc0NKc3dLaVU0cVNVQnVXWDlfQ3FielFwUlJBUHVlVEJNeDE5NDZ2bmZ5bGlJRk1OekJYRnF4SUhhNmhTTzhfVjJRUGwtZUR0UGRrQVhtbWczcmNjODZmZVJwN1I3eVB2NE16cWNibE1sYlJlY1NXN2dKc3M4aHRKamJhOHc1d2RJVU9fMFplbXRTejF1c0paa0JQc3dPQWdFLUo3anVhb25WQ1VjN3BXU3JfTDlrcW81X0RmdUpGWEtCeWRDU2kz0gHeAUFVX3lxTFA4Sm9lMTBpZ0lERkdCU3FybWtMMTVJLUVXMVVuaUNEQkl6RlYzeEF5WHgwejA3RkF2ejJOeFAtcXYzTmVKb2l1YUIzU18yNnRUZGFwUTV0R2R4U2lpTzFpd21WV2JpeUVUb1B6X0VZQnI4Y0QzVzJBWDVja0NXRkZRSWtZU2M5WVFKY3gwZ09pam9lRlhHaWtMcWQtbW9lYlF2RjhoNGhHMzBtVjlyTVJ3UlZ1c2RVUlBOZ2JPSmRtVDR0UXNuVkUzbWp1YTZrdDMxQlh2bGx3Z3gwQ29pZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle",
+          "source": "Deccan Chronicle",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelhYVTZZNnVfSDlfaFdYdE5TQ2xuNjZZVWpUU0pHZHIxQnZGUG9jTU56ZUpsSUI0elFTd1U1dU5Vb0EySTRvaUl2X2J0bzFGV3hKakVHZkE3OXcyajhudVBDenYwR1dUa2pQT3VwaTctNXdCLW9HSC1tb0NibF9NMGxTLW1YRXIyS243LXdTSG81MzB4MkhySDIta2ZCdERfRXdzZXBtS0dRYm9aYlVwS3dZdTlUYV9rMFpzb3drNVd6d0JHSTBEX3MtMNIB0AFBVV95cUxONnRScjB5QlBLd0hvNXA2NTZXZGlQdVJ4WnI3OHo1aDhENHI0MXVYWWVFcjBXUkRmd2M3NGdlVWVGMW92YzVqVEptRWxvSkhLWElRUVBsaTY2Y0prUXJRU2RGM05vcTFmOE5Gckh6N0JhbGxiVVYyTm5xV1JWWXljR3h1X3JaekkzTHdRMjIwbFhNXy1fNWZHdTJyZWdiYUZKeFc5UGx3WlM1S1hfNlY5dTZ1Q05XU1gtN1RYbktZSEhvc2lWVU8zcldodTZQSzN2?oc=5",
+          "sentiment": "positive"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -353,15 +341,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 34,
+      "starred_questions": 10,
+      "unstarred_questions": 24,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 66.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -369,17 +357,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -433,80 +421,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Andhra Pradesh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: C M Ramesh\n\n### Overall Assessment\nC M Ramesh, BJP MP from Anakapalle constituency in Andhra Pradesh, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical areas. While maintaining perfect attendance (100%) in parliament, comprehensive assessment is hampered by unavailable or low-confidence data on assets, MPLADS utilization, and criminal records.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development impact in Anakapalle constituency. The CAG audit context reveals systemic concerns in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine if these state-level issues affect Ramesh's fund utilization.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 245,000, but without baseline asset information, wealth trajectory analysis is impossible.\n\n### Legal & Criminal Standing\nCriminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, data quality warnings indicate low confidence in this criminal data due to potentially unavailable sources. This caveat is significant as it raises questions about the completeness and reliability of the criminal background verification.\n\n### Parliamentary Performance\nRamesh demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary averages. He has raised 34 questions and participated in 4 debates during the assessed period, showing active involvement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in legislative drafting. No committee membership data is available, suggesting either non-participation or incomplete record-keeping.\n\n### Public Engagement & Accessibility\nNews sentiment analysis reveals neutral to positive coverage with 10 articles total (3 positive, 0 negative, 7 neutral). This balanced media profile suggests absence of major controversies while lacking significant positive achievements coverage. The evidence grade for accessibility is 'D', indicating poor performance in public engagement metrics, though specific accessibility measures are not detailed in the available data.\n\n### Data Quality & Caveats\nThis assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Evidence grades are concerning: parliament performance rated 'C' and accessibility rated 'D'. The absence of committee data and legislative effectiveness metrics further constrains comprehensive evaluation. Sources include PRS, social media, and news, but data completeness varies significantly across categories.\n\n### Key Takeaway\nWhile C M Ramesh maintains excellent parliamentary attendance and clean legal standing, the extensive data gaps across assets, MPLADS utilization, and accessibility metrics prevent comprehensive transparency assessment. The perfect attendance record is commendable, but voters and stakeholders lack critical information about fund utilization effectiveness and financial transparency. Improved data availability and disclosure would be essential for meaningful accountability evaluation of this MP's performance in representing Anakapalle constituency.",
-  "validated_at": "2026-05-21T14:21:30.535685Z",
-  "assets": {
-    "total_assets": 4976024996.0,
-    "liabilities": 1016183515.0,
-    "net_worth": 3959841481.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 5,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 5,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 17.8,
-    "released": 17.8,
-    "sanctioned": 5.11,
-    "expended": 2.52,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:12:31.212926Z",
-        "notes": "Official eSAKSHI REST API — Works: 64 recommended, 62 sanctioned, 12 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 64,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 14.157303370786517
-  }
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-08-20T15:31:01.992977Z"
 }

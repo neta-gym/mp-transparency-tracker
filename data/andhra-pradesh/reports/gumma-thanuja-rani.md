@@ -3,23 +3,23 @@
 **Constituency:** Araku, Andhra Pradesh
 **Party:** Yuvajana Sramika Rythu Congress Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 62.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -73,11 +73,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- YSRCP to raise Panchadarla mining issue in Parliament - Telangana Today (Telangana Today) [neutral]
 - Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam - The Hindu (The Hindu) [neutral]
 - Tribal patients will face more ordeals with privatisation of medical colleges in Andhra: Araku MP - The Hindu (The Hindu) [neutral]
-- Araku MP flags off 10 new ambulances in Paderu - The Hindu (The Hindu) [neutral]
-- Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India (The Times of India) [neutral]
-- Araku (ST) lok sabha election results 2024: Araku (ST) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- YSRC changes Araku MP candidate for second time - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Aruku (ST) election results 2024: YSRCP's Gumma Thanuja Rani triumphs in Aruku (ST) election, defeating B - The Times of India (The Times of India) [neutral]
 
 ---
 
@@ -88,49 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-MP Gumma Thanuja Rani shows a mixed transparency profile with notable strengths in criminal record disclosure and attendance, but significant weaknesses in committee participation, accessibility, and legislative transparency. The moderate MPLADS and assets disclosure scores, combined with zero performance in key legislative areas, indicate substantial room for improvement in overall transparency practices.
+Gumma Thanuja Rani shows moderate transparency with a score of 62.0/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: Gumma Thanuja Rani
-
-### Overall Assessment
-
-Gumma Thanuja Rani, representing the Araku constituency in Andhra Pradesh under the Yuvajana Sramika Rythu Congress Party, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining strong parliamentary attendance (90%) and clean criminal record, critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, raising concerns about public accountability in a constituency that requires substantial development attention.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, showing no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for a tribal constituency like Araku that typically requires significant infrastructure development. CAG audit findings reveal systemic issues in Andhra Pradesh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These audit concerns are particularly relevant given the absence of transparent MPLADS reporting for this constituency.
-
-### Financial Transparency
-
-Asset disclosure data is completely missing, with no information available on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected officials. The monthly compensation is reported at Rs 2,45,000, but without baseline asset information, it's impossible to assess financial transparency or potential conflicts of interest. The lack of asset data undermines public accountability in a constituency where development needs are substantial.
-
-### Legal & Criminal Standing
-
-The MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability. While the clean record is positive, the reliability concerns prevent definitive assessment of legal standing.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with strong attendance (90%) demonstrating commitment to legislative duties. However, participation in debates remains limited (7 instances) and no private member bills have been introduced. The MP has raised 34 questions, indicating some engagement with constituency and policy issues. Overall parliamentary effectiveness appears moderate, with room for increased substantive participation in legislative processes.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility or engagement, which may indicate reduced accessibility to constituents. The evidence grade for accessibility is rated 'D', confirming significant gaps in public engagement mechanisms. For a tribal constituency requiring active advocacy, this limited media presence may indicate insufficient public outreach.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight serious data quality issues: criminal record data has low confidence due to source unavailability, asset information is unreliable, and MPLADS data confidence is low. No committee membership information is available, and legislative effectiveness data has low confidence ratings. Parliament-related data receives a 'C' grade while accessibility scores 'D'. These widespread data gaps significantly limit the reliability of this transparency assessment and suggest potential systemic issues with information disclosure.
-
-### Key Takeaway
-
-Gumma Thanuja Rani's transparency profile is severely compromised by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of financial disclosures and development fund transparency creates significant accountability gaps. For a constituency like Araku with substantial tribal population and development needs, this lack of transparency in fund utilization and asset declarations represents a serious concern for public accountability and effective representation.
+No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Gumma Thanuja Rani's transparency profile is severely compromised by extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -266,6 +235,8 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---

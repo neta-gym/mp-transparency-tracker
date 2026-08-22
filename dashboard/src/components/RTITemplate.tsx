@@ -11,9 +11,12 @@ interface RTITemplateProps {
 }
 
 function generateRTIText(mp: MPProfile, mplads: MPLADSFund): string {
-  const today = new Date().toLocaleDateString("en-IN");
+  const today = new Date();
+  const todayStr = today.toLocaleDateString("en-IN");
   const house = mp.house === "lok_sabha" ? "Lok Sabha" : "Rajya Sabha";
-  const fiscalYear = "2024-25";
+  // Indian fiscal year: Apr-Mar. FY 2024-25 means Apr 2024 to Mar 2025.
+  const fyYear = today.getMonth() >= 3 ? today.getFullYear() : today.getFullYear() - 1;
+  const fiscalYear = `${fyYear}-${String(fyYear + 1).slice(2)}`;
 
   let contextNote = "";
   if (mplads.released != null || mplads.expended != null) {
@@ -27,7 +30,7 @@ function generateRTIText(mp: MPProfile, mplads: MPLADSFund): string {
   return `RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: ${today}
+Date: ${todayStr}
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

@@ -8,6 +8,7 @@ import type {
   ValidatedFindings,
 } from "./types";
 import { STATES } from "./states";
+import { entryToSlug, displayStateFromSlug } from "./slug";
 
 // Path to the backend data directory (relative to dashboard root)
 const DATA_DIR = path.join(process.cwd(), "..", "data");
@@ -91,13 +92,7 @@ export function getAllMPSlugs(stateSlug: string): string[] {
   }
 }
 
-/** Leaderboard entry → slug (derived from mp_name) */
-export function entryToSlug(entry: LeaderboardEntry): string {
-  return entry.mp_name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
+
 
 /** Get national stats from all available leaderboards */
 export function getNationalStats() {
@@ -112,20 +107,87 @@ export function getNationalStats() {
 
   allEntries.sort((a, b) => b.composite_score - a.composite_score);
 
+  const total = allEntries.length;
+  const avg = (fn: (e: LeaderboardEntry) => number) =>
+    total > 0
+      ? Math.round((allEntries.reduce((s, e) => s + fn(e), 0) / total) * 10) / 10
+      : 0;
+
+  const avgScore = avg((e) => e.composite_score);
+
+  // Score distribution
+  const distribution = {
+    critical: allEntries.filter((e) => e.composite_score < 20).length,
+    poor: allEntries.filter((e) => e.composite_score >= 20 && e.composite_score < 40).length,
+    average: allEntries.filter((e) => e.composite_score >= 40 && e.composite_score < 60).length,
+    good: allEntries.filter((e) => e.composite_score >= 60 && e.composite_score < 80).length,
+    excellent: allEntries.filter((e) => e.composite_score >= 80).length,
+  };
+
+  // Systemic red flags
+  const mpsWithLowAttendance = allEntries.filter((e) => e.attendance_score < 50).length;
+  const mpsWithLowParticipation = allEntries.filter((e) => e.participation_score < 30).length;
+  const mpsWithCriminalFlags = allEntries.filter((e) => e.criminal_score < 70).length;
+  const mpsWithNoCommittee = allEntries.filter((e) => e.committee_score === 0).length;
+  const mpsWithLowMplads = allEntries.filter((e) => e.mplads_score < 30).length;
+  const mpsWithInaccessible = allEntries.filter((e) => e.accessibility_score <= 10).length;
+
+  // Dimension averages
+  const dimensions = {
+    mplads: avg((e) => e.mplads_score),
+    assets: avg((e) => e.asset_score),
+    criminal: avg((e) => e.criminal_score),
+    attendance: avg((e) => e.attendance_score),
+    participation: avg((e) => e.participation_score),
+    committee: avg((e) => e.committee_score),
+    accessibility: avg((e) => e.accessibility_score),
+    legislative: avg((e) => e.legislative_score),
+  };
+
+  // Party averages (for parties with 2+ MPs)
+  const partyMap = new Map<string, { total: number; count: number }>();
+  for (const e of allEntries) {
+    const existing = partyMap.get(e.party) ?? { total: 0, count: 0 };
+    existing.total += e.composite_score;
+    existing.count += 1;
+    partyMap.set(e.party, existing);
+  }
+  const partyAverages = Array.from(partyMap.entries())
+    .filter(([, d]) => d.count >= 2)
+    .map(([name, d]) => ({ name, avgScore: Math.round((d.total / d.count) * 10) / 10, mpCount: d.count }))
+    .sort((a, b) => b.avgScore - a.avgScore);
+
+  // State averages
+  const stateEntries = statesWithData
+    .map((s) => {
+      const lb = getLeaderboard(s.slug);
+      const entries = lb?.entries ?? [];
+      if (entries.length === 0) return null;
+      const stateAvg = entries.reduce((sum, e) => sum + e.composite_score, 0) / entries.length;
+      return { slug: s.slug, displayName: s.displayName, avgScore: Math.round(stateAvg * 10) / 10, mpCount: entries.length };
+    })
+    .filter(Boolean) as { slug: string; displayName: string; avgScore: number; mpCount: number }[];
+
+  stateEntries.sort((a, b) => b.avgScore - a.avgScore);
+
   return {
-    totalMPs: allEntries.length,
+    totalMPs: total,
     statesProcessed: statesWithData.length,
     totalStates: states.length,
-    avgScore:
-      allEntries.length > 0
-        ? Math.round(
-            (allEntries.reduce((s, e) => s + e.composite_score, 0) /
-              allEntries.length) *
-              10
-          ) / 10
-        : 0,
+    avgScore,
     topMPs: allEntries.slice(0, 5),
     bottomMPs: allEntries.slice(-5).reverse(),
+    distribution,
+    mpsWithLowAttendance,
+    mpsWithLowParticipation,
+    mpsWithCriminalFlags,
+    mpsWithNoCommittee,
+    mpsWithLowMplads,
+    mpsWithInaccessible,
+    dimensions,
+    partyAverages,
+    bestStates: stateEntries.slice(0, 3),
+    worstStates: stateEntries.slice(-3).reverse(),
   };
 }
 
@@ -192,150 +254,9 @@ export function getPartyStats() {
     .sort((a, b) => b.mpCount - a.mpCount);
 }
 
-function dashboardRiskScore(entry: LeaderboardEntry): number {
-  return Math.round(
-    (100 - entry.composite_score) * 0.35 +
-      (100 - entry.criminal_score) * 0.25 +
-      (100 - entry.attendance_score) * 0.15 +
-      (100 - entry.participation_score) * 0.15 +
-      (100 - entry.committee_score) * 0.1
-  );
-}
-
 function slugify(value: string): string {
   return value
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
-}
-
-function displayStateFromSlug(slug: string): string {
-  return slug
-    .split("-")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
-}
-
-/** Front-page dashboard aggregates for state, party, and criminal-risk charts. */
-export function getHomeDashboardStats() {
-  const stateStats = getAllStateSlugs()
-    .map((stateSlug) => {
-      const leaderboard = getLeaderboard(stateSlug);
-      const entries = leaderboard?.entries ?? [];
-      const criminalTotals = entries.reduce(
-        (acc, entry) => {
-          const validated = getValidatedFindings(stateSlug, entryToSlug(entry));
-          const criminal = validated?.findings?.criminal_record;
-          acc.totalCases += criminal?.total_cases ?? 0;
-          acc.seriousCases += criminal?.serious_cases ?? 0;
-          acc.pendingCases += criminal?.pending_cases ?? 0;
-          acc.mpsWithCases += (criminal?.total_cases ?? 0) > 0 ? 1 : 0;
-          return acc;
-        },
-        { totalCases: 0, seriousCases: 0, pendingCases: 0, mpsWithCases: 0 }
-      );
-
-      const avg = (selector: (entry: LeaderboardEntry) => number) =>
-        entries.length > 0
-          ? Math.round((entries.reduce((sum, entry) => sum + selector(entry), 0) / entries.length) * 10) / 10
-          : 0;
-
-      const avgScore = avg((entry) => entry.composite_score);
-      const avgRisk = avg(dashboardRiskScore);
-
-      return {
-        stateSlug,
-        state: leaderboard?.state ?? displayStateFromSlug(stateSlug),
-        displayState: displayStateFromSlug(stateSlug),
-        mpCount: entries.length,
-        avgScore,
-        corruptionIndex: Math.round((100 - avgScore) * 0.55 + avgRisk * 0.45),
-        avgCriminalRisk: Math.round((100 - avg((entry) => entry.criminal_score)) * 10) / 10,
-        avgAttendanceRisk: Math.round((100 - avg((entry) => entry.attendance_score)) * 10) / 10,
-        totalCases: criminalTotals.totalCases,
-        seriousCases: criminalTotals.seriousCases,
-        pendingCases: criminalTotals.pendingCases,
-        mpsWithCases: criminalTotals.mpsWithCases,
-      };
-    })
-    .filter((state) => state.mpCount > 0);
-
-  const allEntries = getAllEntries();
-  const partyMap = new Map<
-    string,
-    {
-      entries: LeaderboardEntry[];
-      totalCases: number;
-      seriousCases: number;
-      mpsWithCases: number;
-    }
-  >();
-
-  for (const entry of allEntries) {
-    const party = partyMap.get(entry.party) ?? {
-      entries: [],
-      totalCases: 0,
-      seriousCases: 0,
-      mpsWithCases: 0,
-    };
-    const stateSlug = slugify(entry.state);
-    const validated = getValidatedFindings(stateSlug, entryToSlug(entry));
-    const criminal = validated?.findings?.criminal_record;
-    party.entries.push(entry);
-    party.totalCases += criminal?.total_cases ?? 0;
-    party.seriousCases += criminal?.serious_cases ?? 0;
-    party.mpsWithCases += (criminal?.total_cases ?? 0) > 0 ? 1 : 0;
-    partyMap.set(entry.party, party);
-  }
-
-  const partyStats = Array.from(partyMap.entries())
-    .map(([party, data]) => {
-      const avg = (selector: (entry: LeaderboardEntry) => number) =>
-        Math.round((data.entries.reduce((sum, entry) => sum + selector(entry), 0) / data.entries.length) * 10) / 10;
-      const avgScore = avg((entry) => entry.composite_score);
-      return {
-        party,
-        mpCount: data.entries.length,
-        avgScore,
-        corruptionIndex: Math.round((100 - avgScore) * 0.55 + avg(dashboardRiskScore) * 0.45),
-        avgCriminalRisk: Math.round((100 - avg((entry) => entry.criminal_score)) * 10) / 10,
-        avgAttendanceRisk: Math.round((100 - avg((entry) => entry.attendance_score)) * 10) / 10,
-        avgParticipationRisk: Math.round((100 - avg((entry) => entry.participation_score)) * 10) / 10,
-        avgCommitteeRisk: Math.round((100 - avg((entry) => entry.committee_score)) * 10) / 10,
-        totalCases: data.totalCases,
-        seriousCases: data.seriousCases,
-        mpsWithCases: data.mpsWithCases,
-        caseRate: Math.round((data.mpsWithCases / data.entries.length) * 100),
-      };
-    })
-    .sort((a, b) => b.mpCount - a.mpCount);
-
-  const criminalCaseLeaders = allEntries
-    .map((entry) => {
-      const stateSlug = slugify(entry.state);
-      const validated = getValidatedFindings(stateSlug, entryToSlug(entry));
-      const criminal = validated?.findings?.criminal_record;
-      return {
-        mpName: entry.mp_name,
-        party: entry.party,
-        constituency: entry.constituency,
-        state: displayStateFromSlug(stateSlug),
-        stateSlug,
-        href: `/state/${stateSlug}/mp/${entryToSlug(entry)}`,
-        totalCases: criminal?.total_cases ?? 0,
-        seriousCases: criminal?.serious_cases ?? 0,
-        pendingCases: criminal?.pending_cases ?? 0,
-        risk: dashboardRiskScore(entry),
-      };
-    })
-    .filter((entry) => entry.totalCases > 0)
-    .sort((a, b) => b.totalCases - a.totalCases || b.seriousCases - a.seriousCases)
-    .slice(0, 10);
-
-  return {
-    stateRisk: [...stateStats].sort((a, b) => b.corruptionIndex - a.corruptionIndex).slice(0, 12),
-    stateCriminalCases: [...stateStats].sort((a, b) => b.totalCases - a.totalCases).slice(0, 12),
-    partyStats: partyStats.filter((party) => party.mpCount >= 2).slice(0, 14),
-    criminalCaseLeaders,
-  };
 }

@@ -3,23 +3,23 @@
 **Constituency:** Amalapuram, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 62.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -77,7 +77,7 @@
 - Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare - The Indian Express (The Indian Express) [positive]
 - Amalapuram (SC) election results 2024: G M Harish (Balayogi) of TDP triumphs in Amalapura constituency, d - The Times of India (The Times of India) [neutral]
 - Three-time MP and Balayogi's son among TDP favourites for Speaker's post - The New Indian Express (The New Indian Express) [neutral]
-- Amalapuram (SC) lok sabha election results 2024: Amalapuram (SC) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Amalapuram (SC) lok sabha election results 2024: Amalapuram (SC) Winning Candidates List and Vote Share - indiatoday.in (indiatoday.in) [neutral]
 
 ---
 
@@ -88,41 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-G M Harish Balayogi demonstrates a mixed transparency profile with notable strengths in parliamentary attendance (95%) and a clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). While his attendance shows commitment to parliamentary duties, the complete absence of committee and legislative contributions raises concerns about his overall effectiveness as a representative.
+G M Harish Balayogi shows moderate transparency with a score of 62.8/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: G M Harish Balayogi
-
-### Overall Assessment
-G M Harish Balayogi, Telugu Desam Party MP from Amalapuram, Andhra Pradesh, presents a mixed transparency profile with significant data gaps. While maintaining strong parliamentary attendance (95%) and a clean criminal record, critical financial information including assets and MPLADS utilization remains unavailable. The evidence quality is rated C for parliamentary activities and D for accessibility metrics, indicating substantial limitations in data availability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentages. This represents a critical transparency gap for assessing development impact in the Amalapuram constituency. The absence of this data prevents evaluation of the MP's effectiveness in local infrastructure development and public welfare initiatives. CAG audit findings reveal systemic issues in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 18% of sampled works being abandoned or incomplete, raising concerns about broader fund utilization efficiency.
-
-### Financial Transparency
-Asset declaration transparency is completely absent, with no data available for current assets, previous holdings, growth ratios, or net worth calculations. This lack of financial disclosure represents a significant transparency deficit, preventing assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is reported at Rs 2,45,000, providing the only available financial reference point. Without asset data, stakeholders cannot evaluate financial accountability or track wealth changes during the parliamentary term.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the reported clean slate is positive for public trust, the warning about data reliability requires cautious interpretation of this finding.
-
-### Parliamentary Performance
-Balayogi demonstrates strong parliamentary engagement with 95% attendance, significantly above average legislative participation rates. Legislative activity includes 45 questions raised and 8 debate participations, indicating moderate involvement in parliamentary proceedings. However, no private member bills were introduced, suggesting limited legislative initiative. The absence of committee membership data due to unavailable Sansad profile information prevents full assessment of institutional contributions beyond floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 positive, 0 negative), suggesting limited public visibility or controversial issues. The low article count indicates either minimal media attention or restricted coverage in monitored sources. Accessibility metrics receive a D grade, highlighting significant gaps in public engagement measurement. No social media presence data or public interaction metrics are available, limiting assessment of constituent communication effectiveness.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations across multiple domains. Critical warnings include low confidence in criminal records, assets, and MPLADS data availability. Committee participation cannot be evaluated due to missing Sansad profile information. Legislative effectiveness data carries low confidence ratings, and CAG audit context provides only systemic rather than MP-specific insights. The evidence grading system rates parliament data as C and accessibility as D, indicating significant analytical constraints.
-
-### Key Takeaway
-G M Harish Balayogi's transparency profile is severely hampered by extensive data unavailability across financial and developmental metrics. While maintaining excellent parliamentary attendance and a reported clean criminal record, the absence of asset declarations and MPLADS utilization data creates significant accountability gaps. The MP's legislative participation appears moderate, but comprehensive performance assessment requires improved data disclosure. Enhanced transparency in financial holdings and development fund utilization would substantially improve public accountability and stakeholder confidence in the Amalapuram constituency representation.
+No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 45. Debates participated: 8. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ G M Harish Balayogi's transparency profile is severely hampered by extensive dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +235,8 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---

@@ -339,12 +339,12 @@ export interface ScoreComponent {
 }
 
 export const SCORE_COMPONENTS: ScoreComponent[] = [
-  { key: "mplads_score", label: "MPLADS", weight: 0.25 },
+  { key: "mplads_score", label: "MPLADS", weight: 0.20 },
   { key: "asset_score", label: "Assets", weight: 0.15 },
-  { key: "criminal_score", label: "Criminal", weight: 0.15 },
-  { key: "attendance_score", label: "Attendance", weight: 0.10 },
+  { key: "criminal_score", label: "Criminal", weight: 0.20 },
+  { key: "attendance_score", label: "Attendance", weight: 0.15 },
   { key: "participation_score", label: "Participation", weight: 0.10 },
-  { key: "committee_score", label: "Committees", weight: 0.10 },
+  { key: "committee_score", label: "Committees", weight: 0.05 },
   { key: "accessibility_score", label: "Accessibility", weight: 0.05 },
   { key: "legislative_score", label: "Legislative", weight: 0.10 },
 ];

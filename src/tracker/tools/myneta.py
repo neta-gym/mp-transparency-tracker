@@ -334,6 +334,27 @@ class MyNetaParser:
                         if "total" in label and "asset" in label and previous_total is None:
                             previous_total = _parse_amount(prev_text)
 
+        # Strategy 6: Parse "Other Elections" table (MyNeta specific format)
+        # Structure: <th colspan=3>Other Elections</th> header, then rows with
+        # Declaration in | Declared Assets | Declared Cases
+        if previous_total is None:
+            for table in soup.find_all("table"):
+                header_row = table.find("tr")
+                if header_row:
+                    header_text = header_row.get_text(strip=True).lower()
+                    if "other elections" in header_text or "declaration in" in header_text:
+                        rows = table.find_all("tr")
+                        # Find the most recent election row (skip header rows)
+                        for row in rows[2:]:  # Skip title row and column header row
+                            cells = row.find_all("td")
+                            if len(cells) >= 2:
+                                assets_cell = cells[1]
+                                assets_text = assets_cell.get_text(strip=True).replace("\xa0", " ")
+                                val = _parse_amount(assets_text)
+                                if val is not None and val > 0:
+                                    previous_total = val
+                                    break  # Take the first (most recent) entry
+
         # Fallback: look for explicit "previous election" asset text
         if previous_total is None:
             prev_match = re.search(

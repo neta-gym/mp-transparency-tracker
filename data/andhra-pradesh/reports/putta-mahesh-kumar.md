@@ -3,23 +3,23 @@
 **Constituency:** Eluru, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -73,11 +73,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Drug bust in Hyderabad farmhouse: TDP’s Eluru MP Putta Mahesh Kumar tests positive for meth - MSN (MSN) [neutral]
+- TDP MP Putta Mahesh Yadav Urges Police Leniency for Drunk Drivers - The Times of India (The Times of India) [neutral]
 - Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu (The Hindu) [neutral]
-- Hyderabad drug bust: Naidu directs Eluru MP Putta Mahesh Kumar Yadav to stay away from TDP activities - The South First (The South First) [neutral]
-- Cocaine bust at farmhouse party in Hyderabad: After BRS ex-MLA Pilot Rohith Reddy now TDP MP Putta Mahesh - The Times of India (The Times of India) [neutral]
 - Eluru MP Putta opts for trial over de-addiction - The New Indian Express (The New Indian Express) [neutral]
+- Hyderabad drug bust: Naidu directs Eluru MP Putta Mahesh Kumar Yadav to stay away from TDP activities - The South First (The South First) [neutral]
+- TDP’s Eluru MP, who tested positive for meth after Hyderabad farmhouse drug bust, put on notice - ThePrint (ThePrint) [neutral]
 
 ---
 
@@ -88,41 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-MP Putta Mahesh Kumar shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) but significant weaknesses in committee participation, accessibility, and legislative initiatives (all 0%). While maintaining decent attendance and participation levels, the extremely low data confidence of 14% and 6 validation flags raise concerns about the reliability of available information.
+Putta Mahesh Kumar shows moderate transparency with a score of 57.5/100. No criminal cases declared. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: Putta Mahesh Kumar
-
-### Overall Assessment
-Putta Mahesh Kumar, Telugu Desam Party MP from Eluru, Andhra Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and moderate parliamentary attendance, substantial missing information across financial and developmental metrics raises concerns about transparency and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on fund entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic issues in Andhra Pradesh, including Rs 1,558 crore in idle funds lying unspent across district authorities and concerning patterns of incomplete project execution (18% of sampled works abandoned or incomplete). Additionally, 34% of sampled utilization certificates lacked proper supporting documentation, suggesting potential mismanagement of public funds at the state level.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no information available on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of the MP's economic interests or potential conflicts. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset declarations, the complete financial picture remains opaque.
-
-### Legal & Criminal Standing
-Putta Mahesh Kumar maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the automated system flags low confidence in this criminal data due to potential source unavailability, suggesting this assessment may be incomplete.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 60% attendance, which meets the minimum threshold but leaves room for improvement. The MP has raised 51 questions in Parliament, demonstrating some engagement with legislative oversight functions. However, debate participation remains limited at just 3 instances, and no private member bills have been introduced, indicating constrained legislative initiative. Committee participation data is unavailable, limiting assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals limited but balanced media attention with 10 articles identified (9 neutral, 1 negative, 0 positive). This neutral coverage pattern suggests minimal controversial incidents but also limited positive publicity around developmental initiatives. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. Social media presence data is included in sources but specific metrics are not provided.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data quality concerns. Criminal record data carries low confidence due to source unavailability. Asset information shows low confidence, and MPLADS data is completely missing. Committee assignment data is unavailable, potentially due to Sansad profile inaccessibility. Legislative effectiveness metrics also show low confidence. The parliament evidence grade is 'C' and accessibility grade is 'D', indicating below-average data quality and transparency compliance. These gaps severely limit the reliability of this transparency assessment.
-
-### Key Takeaway
-While Putta Mahesh Kumar maintains a clean legal record and demonstrates basic parliamentary engagement, the extensive absence of financial, developmental, and committee data creates significant transparency deficits. The lack of MPLADS information is particularly concerning given the scheme's constituency development importance. Combined with systemic fund management issues highlighted in CAG audits across Andhra Pradesh, voters lack essential information to evaluate their representative's effectiveness and financial accountability.
+No criminal cases declared. Parliament attendance: 60.0%. Questions asked: 51. Debates participated: 3. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Putta Mahesh Kumar maintains a clean legal record and demonstrates basic p
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,9 +235,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

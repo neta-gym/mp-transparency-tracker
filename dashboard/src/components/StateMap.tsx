@@ -13,6 +13,7 @@ import { publicPath } from "@/lib/paths";
 import { useMapTooltip } from "@/hooks/useMapTooltip";
 import { MapTooltip } from "./MapTooltip";
 import type { LeaderboardEntry } from "@/lib/types";
+import { entryToSlug } from "@/lib/slug";
 
 type GeoJSONLike = {
   features?: Array<{
@@ -62,13 +63,6 @@ function findEntryForConstituency(
       entryTokens.every((t) => tokens.includes(t))
     );
   });
-}
-
-function entryToSlug(entry: LeaderboardEntry): string {
-  return entry.mp_name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
 }
 
 function collectCoordinatePairs(coords: unknown, out: [number, number][]) {

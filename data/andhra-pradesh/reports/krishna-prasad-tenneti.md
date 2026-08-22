@@ -3,23 +3,23 @@
 **Constituency:** Bapatla, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-20
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 61.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -73,11 +73,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express (The Indian Express) [neutral]
 - Babu Jagjivan Ram remembered as leader of all sections - The New Indian Express (The New Indian Express) [neutral]
-- Viral Video: TDP MP Shakes Parliament - Gulte (Gulte) [neutral]
 - TDP MP Presides as Lok Sabha Clears Amaravati Capital Bill - Gulte (Gulte) [neutral]
-- CM Naidu aims to turn Andhra Pradesh into plastic-free State, says Revenue Minister - The New Indian Express (The New Indian Express) [neutral]
+- TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express (The Indian Express) [neutral]
+- Bapatla (SC) Election Results 2024: Krishna Prasad Tenneti of TDP triumphs in Bapatla Loksabha constituen - The Times of India (The Times of India) [neutral]
+- Bapatla Election Result 2024 LIVE Updates Highlights: Krishna Prasad Tenneti of TDP Wins - News18 (News18) [neutral]
 
 ---
 
@@ -88,49 +88,18 @@
 - [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Krishna Prasad Tenneti demonstrates a mixed transparency profile with moderate overall performance. While he shows strong criminal record transparency and good parliamentary attendance, significant weaknesses exist in committee participation, legislative initiatives, and public accessibility that substantially impact his overall score.
+Krishna Prasad Tenneti shows moderate transparency with a score of 61.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-## Executive Summary: Krishna Prasad Tenneti
-
-### Overall Assessment
-Krishna Prasad Tenneti represents Bapatla constituency in Andhra Pradesh as a Telugu Desam Party MP in the Lok Sabha. The available data presents a mixed transparency profile, with reasonable parliamentary attendance but significant gaps in financial and asset disclosure information. The MP demonstrates consistent legislative engagement through questions and debates, though limited data availability restricts a comprehensive assessment of his overall effectiveness.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable for this MP, making it impossible to assess development fund utilization. However, CAG audit reports reveal systemic issues in Andhra Pradesh's fund management, including Rs 1,558 crore lying unspent in district authorities' accounts. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled development works were abandoned or incomplete. These state-level findings highlight potential concerns about development fund oversight, though direct attribution to this MP's constituency cannot be established without specific data.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of the MP's financial standing or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 245,000, but the absence of asset declarations raises questions about compliance with disclosure requirements.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, or convictions. However, the data source carries low confidence warnings, suggesting potential gaps in criminal record verification. While the available information indicates no legal issues, the reliability caveat requires cautious interpretation of this assessment.
-
-### Parliamentary Performance
-Tenneti demonstrates solid parliamentary engagement with 85% attendance, exceeding the average attendance rates in the Lok Sabha. His legislative activity includes 46 questions raised and participation in 5 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', indicating moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all classified as neutral with no positive or negative sentiment detected. This suggests limited public visibility or controversy. The accessibility evidence grade is rated 'D', indicating poor data availability about the MP's public engagement efforts, social media presence, or constituent interaction initiatives. No committee membership data is available, further limiting assessment of his broader parliamentary contributions.
-
-### Data Quality & Caveats
-This assessment faces significant data quality limitations affecting multiple areas:
-
-- **Criminal records**: Low confidence due to potentially unavailable sources
-- **Asset information**: Complete absence of financial disclosure data
-- **MPLADS data**: No utilization figures available despite entitlement
-- **Committee work**: No information on committee memberships or contributions
-- **Evidence grades**: Parliament data rated 'C' and accessibility rated 'D'
-
-These limitations substantially impact the comprehensiveness and reliability of this transparency assessment. The automated system flags indicate systematic data collection challenges that may affect accuracy across multiple transparency dimensions.
-
-### Key Takeaway
-Krishna Prasad Tenneti presents a transparency profile with clear strengths in parliamentary attendance and clean criminal record maintenance, but significant data gaps prevent comprehensive evaluation. The absence of asset disclosure and MPLADS utilization data, combined with limited public engagement information, creates substantial transparency blind spots. While his parliamentary participation appears adequate, the overall assessment is constrained by poor data availability across critical transparency metrics, highlighting the need for improved disclosure compliance and data collection mechanisms.
+No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 46. Debates participated: 5. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Krishna Prasad Tenneti presents a transparency profile with clear strengths in p
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 20/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -266,9 +235,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*
