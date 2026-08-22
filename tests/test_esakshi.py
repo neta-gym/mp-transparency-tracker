@@ -1,11 +1,12 @@
 """Tests for eSAKSHI fetcher."""
 
 import json
-import pytest
 from unittest.mock import AsyncMock
 
-from tracker.tools.esakshi import ESAKSHIFetcher, _classify_sector, _parse_amount
+import pytest
+
 from tracker.models.schemas import MPProfile
+from tracker.tools.esakshi import ESAKSHIFetcher, _classify_sector, _parse_amount
 
 
 class TestParseAmount:

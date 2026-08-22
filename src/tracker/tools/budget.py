@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import re
-from typing import Optional
 
 from ..config import settings
 from ..models.schemas import DataSource, EvidenceGrade
@@ -40,10 +39,10 @@ class BudgetFetcher:
 
     def __init__(self, scraper: AsyncScraper) -> None:
         self.scraper = scraper
-        self._cached_allocation: Optional[float] = None
+        self._cached_allocation: float | None = None
         self._fiscal_year: str = ""
 
-    async def get_national_allocation(self, fiscal_year: str = "2024-25") -> Optional[float]:
+    async def get_national_allocation(self, fiscal_year: str = "2024-25") -> float | None:
         """Get the national MPLADS allocation for a fiscal year (in crore).
 
         First checks known allocations, then tries to fetch from indiabudget.gov.in.
@@ -114,7 +113,7 @@ class BudgetFetcher:
             ),
         }
 
-    async def _fetch_from_website(self, fiscal_year: str) -> Optional[float]:
+    async def _fetch_from_website(self, fiscal_year: str) -> float | None:
         """Try to fetch MPLADS allocation from indiabudget.gov.in."""
         try:
             # This is a best-effort attempt — budget website structure varies

@@ -2,11 +2,9 @@
 
 from __future__ import annotations
 
-import re
-
 from ..models.schemas import (
-    ConflictOfInterest,
     CommitteeEngagement,
+    ConflictOfInterest,
 )
 from ..utils.logger import get_logger
 

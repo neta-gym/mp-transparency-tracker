@@ -3,10 +3,8 @@
 from __future__ import annotations
 
 import asyncio
-import pytest
 
-from tracker.debugger import CheckStatus, CheckResult, SuiteResult, DebuggerAgent
-
+from tracker.debugger import CheckResult, CheckStatus, DebuggerAgent, SuiteResult
 
 # ---------------------------------------------------------------------------
 # CheckResult tests
@@ -85,7 +83,7 @@ class TestScoringInvariants:
         result = asyncio.run(agent.check_scoring_invariants())
         assert result.suite_name == "Scoring Algorithm Invariants"
         assert result.failed == 0, (
-            f"Scoring invariant failures: "
+            "Scoring invariant failures: "
             + ", ".join(c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL)
         )
 
@@ -128,7 +126,7 @@ class TestModelRoundTrip:
         result = asyncio.run(agent.check_model_roundtrip())
         assert result.suite_name == "Pydantic Model Round-Trip"
         assert result.failed == 0, (
-            f"Model round-trip failures: "
+            "Model round-trip failures: "
             + ", ".join(c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL)
         )
 

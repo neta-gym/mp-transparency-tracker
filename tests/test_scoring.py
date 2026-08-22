@@ -3,14 +3,14 @@
 import pytest
 
 from tracker.agents.assessor import (
-    calc_mplads_score,
-    calc_asset_score,
-    calc_criminal_score,
-    calc_attendance_score,
-    calc_participation_score,
-    calc_committee_score,
     calc_accessibility_score,
+    calc_asset_score,
+    calc_attendance_score,
+    calc_committee_score,
+    calc_criminal_score,
     calc_legislative_score,
+    calc_mplads_score,
+    calc_participation_score,
     evidence_grade_multiplier,
 )
 

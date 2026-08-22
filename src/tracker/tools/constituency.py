@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from ..models.schemas import MPProfile, ConstituencyContext
+from ..models.schemas import ConstituencyContext, MPProfile
 from ..utils.logger import get_logger
 
 log = get_logger(__name__)

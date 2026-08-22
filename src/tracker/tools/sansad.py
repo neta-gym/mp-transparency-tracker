@@ -6,12 +6,17 @@ import re
 
 from ..config import settings
 from ..models.schemas import (
-    MPProfile, House, EvidenceGrade, DataSource,
-    CommitteeMembership, CommitteeEngagement,
-    VoteRecord, LegislativeRecord,
+    CommitteeEngagement,
+    CommitteeMembership,
+    DataSource,
+    EvidenceGrade,
+    House,
+    LegislativeRecord,
+    MPProfile,
+    VoteRecord,
 )
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
+from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
@@ -361,7 +366,7 @@ class SansadFetcher:
             return []
 
         # Try the division votes page
-        url = f"https://sansad.in/ls/division-votes"
+        url = "https://sansad.in/ls/division-votes"
         try:
             html = await self.scraper.fetch(url)
         except Exception as e:
@@ -381,7 +386,7 @@ class SansadFetcher:
         )
 
         # Look for division vote entries mentioning the MP
-        mp_name_lower = mp.name.lower()
+        mp.name.lower()
         # Pattern: bill name, date, and vote status in table rows
         bill_pattern = re.compile(
             r"<tr[^>]*>.*?<td[^>]*>(.*?)</td>.*?<td[^>]*>([\d/\-]+)</td>.*?</tr>",

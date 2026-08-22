@@ -1,12 +1,13 @@
 """Tests for MP discovery module."""
 
-import pytest
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock
 
+import pytest
+
+from tracker.models.schemas import House, MPProfile
 from tracker.tools.mp_discovery import MPDiscovery
 from tracker.tools.sansad import SansadFetcher
 from tracker.tools.scraper import AsyncScraper
-from tracker.models.schemas import MPProfile, House
 from tracker.utils.name_match import normalize_state
 
 

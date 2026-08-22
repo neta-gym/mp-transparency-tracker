@@ -7,7 +7,6 @@ from __future__ import annotations
 
 import re
 
-
 # State alias map — maps variant spellings to canonical lowercase form
 _STATE_ALIASES: dict[str, str] = {
     "nct of delhi": "delhi",

@@ -2,14 +2,15 @@
 
 from __future__ import annotations
 
+import contextlib
 import csv
 import io
 import re
 
 from ..config import settings
-from ..models.schemas import MPProfile, ParliamentActivity, DataSource, EvidenceGrade
+from ..models.schemas import DataSource, EvidenceGrade, MPProfile, ParliamentActivity
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
+from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
@@ -149,7 +150,7 @@ class PRSFetcher:
             common = sum(1 for c in shorter if c in longer)
             return common >= len(shorter) - 1
         else:
-            diffs = sum(1 for ca, cb in zip(a, b) if ca != cb)
+            diffs = sum(1 for ca, cb in zip(a, b, strict=False) if ca != cb)
             return diffs <= 2
 
     def _parse_csv_row(self, row: dict) -> ParliamentActivity:
@@ -157,31 +158,23 @@ class PRSFetcher:
         attendance = None
         att_val = row.get("Attendance", "")
         if att_val and att_val.strip().lower() != "minister":
-            try:
+            with contextlib.suppress(ValueError, TypeError):
                 attendance = float(str(att_val).replace("%", "").strip())
-            except (ValueError, TypeError):
-                pass
 
         is_minister = (row.get("Minister", "").strip().lower() == "yes"
                        or row.get("Attendance", "").strip().lower() == "minister")
 
         questions = 0
-        try:
+        with contextlib.suppress(ValueError, TypeError):
             questions = int(row.get("Questions", 0))
-        except (ValueError, TypeError):
-            pass
 
         debates = 0
-        try:
+        with contextlib.suppress(ValueError, TypeError):
             debates = int(row.get("Debates", 0))
-        except (ValueError, TypeError):
-            pass
 
         bills = 0
-        try:
+        with contextlib.suppress(ValueError, TypeError):
             bills = int(row.get("Private Member Bills", 0))
-        except (ValueError, TypeError):
-            pass
 
         return ParliamentActivity(
             attendance_percentage=attendance,

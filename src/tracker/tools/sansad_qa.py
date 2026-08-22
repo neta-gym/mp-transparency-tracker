@@ -7,7 +7,6 @@ year-wise). These are Grade A data for cross-verifying eSAKSHI/data.gov.in figur
 from __future__ import annotations
 
 import re
-from typing import Optional
 
 from ..config import settings
 from ..models.schemas import DataSource, EvidenceGrade
@@ -65,7 +64,7 @@ class SansadQAParser:
         log.info("Sansad Q&A: Found %d MPLADS questions", len(results))
         return results
 
-    async def fetch_annexure(self, url: str) -> Optional[str]:
+    async def fetch_annexure(self, url: str) -> str | None:
         """Download a Q&A annexure and extract text.
 
         Supports PDF (via pdfplumber) and HTML annexures.
@@ -83,7 +82,7 @@ class SansadQAParser:
             log.warning("Sansad Q&A: Failed to fetch annexure %s: %s", url, e)
             return None
 
-    def parse_mplads_table(self, text: str, state: str) -> Optional[dict]:
+    def parse_mplads_table(self, text: str, state: str) -> dict | None:
         """Extract MPLADS fund figures for a state from annexure text.
 
         Tries regex patterns first, then heuristic fallback for complex tables.
@@ -102,7 +101,7 @@ class SansadQAParser:
 
         return None
 
-    def _regex_parse(self, text: str, state: str) -> Optional[dict]:
+    def _regex_parse(self, text: str, state: str) -> dict | None:
         """Try to extract state-level MPLADS figures using regex patterns."""
         # Pattern 1: "State | Entitled | Released | Expended" table
         # Looking for the state name followed by numeric columns
@@ -137,11 +136,12 @@ class SansadQAParser:
 
         return None
 
-    async def _extract_pdf_text(self, url: str) -> Optional[str]:
+    async def _extract_pdf_text(self, url: str) -> str | None:
         """Download PDF and extract text using pdfplumber."""
         try:
-            import pdfplumber
             import io
+
+            import pdfplumber
 
             # Download PDF bytes
             content = await self.scraper.fetch(url)

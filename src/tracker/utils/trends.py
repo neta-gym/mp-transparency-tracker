@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from ..models.schemas import Leaderboard, LeaderboardEntry, ScoreDelta
+from ..models.schemas import Leaderboard, ScoreDelta
 from ..utils.logger import get_logger
 
 log = get_logger(__name__)

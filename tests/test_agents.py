@@ -1,22 +1,18 @@
 """Agent logic tests with mocked dependencies."""
 
-import pytest
-from unittest.mock import AsyncMock, MagicMock
 
 from tracker.models.schemas import (
-    MPProfile,
-    House,
-    ResearchFindings,
-    CriminalRecord,
     AssetDeclaration,
-    MPLADSFund,
-    ParliamentActivity,
-    ValidatedFindings,
-    ValidationFlag,
-    ScoreBreakdown,
-    ScoreResult,
-    EvidenceGrade,
+    CriminalRecord,
     DataSource,
+    EvidenceGrade,
+    House,
+    MPLADSFund,
+    MPProfile,
+    ParliamentActivity,
+    ResearchFindings,
+    ScoreBreakdown,
+    ValidationFlag,
 )
 
 

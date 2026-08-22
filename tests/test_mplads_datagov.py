@@ -1,11 +1,12 @@
 """Tests for data.gov.in MPLADS API fetcher."""
 
 import json
-import pytest
 from unittest.mock import AsyncMock
 
-from tracker.tools.mplads_datagov import DataGovMPLADSFetcher
+import pytest
+
 from tracker.models.schemas import MPProfile
+from tracker.tools.mplads_datagov import DataGovMPLADSFetcher
 
 
 class TestDataGovFetcher:

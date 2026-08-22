@@ -6,12 +6,12 @@ import re
 
 from bs4 import BeautifulSoup
 
-from ..config import settings, MYNETA_STATE_IDS
-from ..models.schemas import MPProfile, House
+from ..config import MYNETA_STATE_IDS, settings
+from ..models.schemas import House, MPProfile
 from ..utils.logger import get_logger
-from ..utils.name_match import normalize_state, name_matches
-from .scraper import AsyncScraper
+from ..utils.name_match import name_matches, normalize_state
 from .sansad import SansadFetcher
+from .scraper import AsyncScraper
 
 log = get_logger(__name__)
 

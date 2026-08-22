@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
-from pydantic_settings import BaseSettings
 from pydantic import Field, model_validator
+from pydantic_settings import BaseSettings
 
 
 class ScoreWeights(BaseSettings):
@@ -23,7 +23,7 @@ class ScoreWeights(BaseSettings):
     legislative: float = 0.10
 
     @model_validator(mode="after")
-    def _weights_must_sum_to_one(self) -> "ScoreWeights":
+    def _weights_must_sum_to_one(self) -> ScoreWeights:
         total = (
             self.mplads + self.asset + self.criminal + self.attendance
             + self.participation + self.committee + self.accessibility

@@ -6,18 +6,15 @@ Invoked via ``python -m tracker.main --debug``.
 
 from __future__ import annotations
 
-import asyncio
 import importlib
 import json
-import os
 import subprocess
 import sys
-import time
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 import aiosqlite
 from rich.console import Console
@@ -308,7 +305,7 @@ class DebuggerAgent:
     async def check_output_files(self) -> SuiteResult:
         suite = SuiteResult(suite_name="Output File Compliance")
 
-        from .models.schemas import ResearchFindings, ValidatedFindings, ScoreResult, Leaderboard
+        from .models.schemas import Leaderboard, ResearchFindings, ScoreResult, ValidatedFindings
 
         state_dirs = self._get_state_dirs()
         if not state_dirs:
@@ -410,10 +407,20 @@ class DebuggerAgent:
         suite = SuiteResult(suite_name="Pydantic Model Round-Trip")
 
         from .models.schemas import (
-            MPProfile, ResearchFindings, ValidatedFindings, ScoreResult,
-            Leaderboard, LeaderboardEntry, ScoreBreakdown,
-            CriminalRecord, AssetDeclaration, MPLADSFund,
-            ParliamentActivity, House, EvidenceGrade, DataSource,
+            AssetDeclaration,
+            CriminalRecord,
+            DataSource,
+            EvidenceGrade,
+            House,
+            Leaderboard,
+            LeaderboardEntry,
+            MPLADSFund,
+            MPProfile,
+            ParliamentActivity,
+            ResearchFindings,
+            ScoreBreakdown,
+            ScoreResult,
+            ValidatedFindings,
         )
 
         # MPProfile
@@ -511,9 +518,14 @@ class DebuggerAgent:
         suite = SuiteResult(suite_name="Scoring Algorithm Invariants")
 
         from .agents.assessor import (
-            calc_mplads_score, calc_asset_score, calc_criminal_score,
-            calc_attendance_score, calc_participation_score,
-            calc_committee_score, calc_accessibility_score, calc_legislative_score,
+            calc_accessibility_score,
+            calc_asset_score,
+            calc_attendance_score,
+            calc_committee_score,
+            calc_criminal_score,
+            calc_legislative_score,
+            calc_mplads_score,
+            calc_participation_score,
         )
         from .config import Settings
 
@@ -674,7 +686,7 @@ class DebuggerAgent:
             suite.checks.append(_check(
                 f"[{state_name}] no duplicate entries",
                 len(slugs_in_lb) == len(set(slugs_in_lb)),
-                f"Duplicates found" if len(slugs_in_lb) != len(set(slugs_in_lb)) else "",
+                "Duplicates found" if len(slugs_in_lb) != len(set(slugs_in_lb)) else "",
             ))
 
             # data_confidence in [0, 1] and house valid
@@ -759,7 +771,7 @@ class DebuggerAgent:
     async def check_cross_artifact_consistency(self) -> SuiteResult:
         suite = SuiteResult(suite_name="Cross-Artifact Consistency")
 
-        from .models.schemas import ResearchFindings, ValidatedFindings, ScoreResult
+        from .models.schemas import ResearchFindings, ScoreResult, ValidatedFindings
 
         state_dirs = self._get_state_dirs()
         if not state_dirs:

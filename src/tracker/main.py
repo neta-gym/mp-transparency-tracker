@@ -9,10 +9,10 @@ import sys
 
 from dotenv import load_dotenv
 
+from .agents.manager import ManagerAgent
 from .config import settings
 from .storage.database import Database
-from .agents.manager import ManagerAgent
-from .utils.logger import get_logger, console
+from .utils.logger import console, get_logger
 
 log = get_logger(__name__)
 
@@ -104,7 +104,7 @@ async def run_single_mp(mp_name: str, state: str | None, update: bool = False) -
             # Search across all states in DB
             rows = await db.find_mp_by_name(mp_name)
             if rows:
-                from .models.schemas import MPProfile, House
+                from .models.schemas import House, MPProfile
                 matches = []
                 for r in rows:
                     matches.append(MPProfile(
@@ -153,7 +153,7 @@ async def run_national() -> None:
     await db.connect()
 
     try:
-        from .models.schemas import NationalLeaderboard, Leaderboard
+        from .models.schemas import Leaderboard, NationalLeaderboard
 
         rows = await db.get_all_latest_leaderboards()
         if not rows:
@@ -180,7 +180,6 @@ async def run_national() -> None:
         )
 
         # Save
-        import json
         lb_dir = os.path.join(settings.data_dir, "national", "leaderboard")
         os.makedirs(lb_dir, exist_ok=True)
 
@@ -280,6 +279,7 @@ def _save_exports(leaderboard, state: str, output_format: str) -> None:
 def _show_freshness(state: str) -> None:
     """Display data freshness report."""
     from rich.table import Table
+
     from .utils.freshness import freshness_report
 
     rows = freshness_report(state, settings.data_dir)
@@ -342,8 +342,9 @@ def cli_entry() -> None:
 
     # Load .env
     load_dotenv()
-    from .config import Settings
     import tracker.config
+
+    from .config import Settings
     tracker.config.settings = Settings()
 
     # Apply --max-age override

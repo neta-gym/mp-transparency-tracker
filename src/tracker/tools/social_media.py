@@ -7,11 +7,11 @@ import re
 from pathlib import Path
 
 from ..models.schemas import (
-    MPProfile,
-    SocialMediaProfile,
-    PublicAccessibility,
     DataSource,
     EvidenceGrade,
+    MPProfile,
+    PublicAccessibility,
+    SocialMediaProfile,
 )
 from ..utils.logger import get_logger
 from .scraper import AsyncScraper

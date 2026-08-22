@@ -11,8 +11,6 @@ from ..models.schemas import (
     MPProfile,
     NewsAllegation,
     NewsSentiment,
-    DataSource,
-    EvidenceGrade,
 )
 from ..utils.logger import get_logger
 from .scraper import AsyncScraper

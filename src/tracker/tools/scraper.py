@@ -3,9 +3,12 @@
 from __future__ import annotations
 
 import asyncio
-from typing import Optional
+from typing import TYPE_CHECKING
 
 import aiohttp
+
+if TYPE_CHECKING:
+    from bs4 import BeautifulSoup
 
 from ..config import settings
 from ..utils.logger import get_logger
@@ -17,7 +20,7 @@ class AsyncScraper:
     """Rate-limited async HTTP client with exponential backoff retry."""
 
     def __init__(self) -> None:
-        self._session: Optional[aiohttp.ClientSession] = None
+        self._session: aiohttp.ClientSession | None = None
         self._session_lock = asyncio.Lock()
         self._semaphore = asyncio.Semaphore(5)
         self._delay = settings.scrape_delay
@@ -101,7 +104,7 @@ class AsyncScraper:
 
         raise last_error or RuntimeError(f"Failed to fetch JSON from {url}")
 
-    async def fetch_html(self, url: str, parser: str = "lxml") -> "BeautifulSoup":
+    async def fetch_html(self, url: str, parser: str = "lxml") -> BeautifulSoup:
         """Fetch URL and parse as HTML with BeautifulSoup."""
         from bs4 import BeautifulSoup
         text = await self.fetch(url)
@@ -111,7 +114,7 @@ class AsyncScraper:
         if self._session and not self._session.closed:
             await self._session.close()
 
-    async def __aenter__(self) -> "AsyncScraper":
+    async def __aenter__(self) -> AsyncScraper:
         return self
 
     async def __aexit__(self, *exc: object) -> None:

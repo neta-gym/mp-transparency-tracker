@@ -2,22 +2,22 @@
 
 from __future__ import annotations
 
+import contextlib
 import json
 import os
 import sqlite3
-from pathlib import Path
 
 import aiosqlite
 
 from ..models.schemas import (
+    Leaderboard,
     MPProfile,
     ResearchFindings,
-    ValidatedFindings,
     ScoreResult,
-    Leaderboard,
+    ValidatedFindings,
 )
 from ..utils.logger import get_logger
-from .migrations import TABLES, ALTER_STATEMENTS, MIGRATIONS, CURRENT_SCHEMA_VERSION
+from .migrations import ALTER_STATEMENTS, MIGRATIONS, TABLES
 
 log = get_logger(__name__)
 
@@ -42,7 +42,7 @@ class Database:
             await self._conn.close()
             self._conn = None
 
-    async def __aenter__(self) -> "Database":
+    async def __aenter__(self) -> Database:
         await self.connect()
         return self
 
@@ -172,13 +172,12 @@ class Database:
             ),
         )
         # Also append to score_history (never deleted — tracks trends over time)
-        try:
+        with contextlib.suppress(sqlite3.OperationalError):
+            # score_history table may not exist yet in old DBs
             await self._conn.execute(
                 "INSERT INTO score_history (mp_slug, state, composite_score, score_json) VALUES (?, ?, ?, ?)",
                 (mp_slug, state, result.composite_score, result.model_dump_json()),
             )
-        except sqlite3.OperationalError:
-            pass  # score_history table may not exist yet in old DBs
         await self._conn.commit()
 
     # --- Leaderboard ---

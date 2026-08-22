@@ -5,14 +5,13 @@ from __future__ import annotations
 import csv
 import io
 import json
-from typing import Union
 
 from ..models.schemas import Leaderboard, NationalLeaderboard
 from ..utils.logger import get_logger
 
 log = get_logger(__name__)
 
-AnyLeaderboard = Union[Leaderboard, NationalLeaderboard]
+AnyLeaderboard = Leaderboard | NationalLeaderboard
 
 
 class LeaderboardExporter:

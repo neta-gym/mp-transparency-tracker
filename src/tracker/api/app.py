@@ -8,27 +8,20 @@ from __future__ import annotations
 
 import json
 import os
-import sqlite3
 from contextlib import asynccontextmanager
-from typing import Optional
 
 import aiosqlite
 
 from ..config import settings
-from ..models.schemas import (
-    Leaderboard,
-    ScoreResult,
-    ResearchFindings,
-)
 
 try:
     from fastapi import FastAPI, HTTPException, Query
     from fastapi.middleware.cors import CORSMiddleware
-    from fastapi.responses import JSONResponse, PlainTextResponse
+    from fastapi.responses import PlainTextResponse
 except ImportError:
     raise ImportError(
         "FastAPI is required for the API server. Install with: pip install 'mp-transparency-tracker[api]'"
-    )
+    ) from None
 
 
 _db_conn: aiosqlite.Connection | None = None
@@ -117,7 +110,7 @@ async def get_state_mps(state: str):
 
 
 @app.get("/api/v1/mps/{slug}")
-async def get_mp_profile(slug: str, state: Optional[str] = Query(None)):
+async def get_mp_profile(slug: str, state: str | None = Query(None)):
     """Get full score breakdown for a specific MP."""
     if state:
         cursor = await _conn().execute(
@@ -136,7 +129,7 @@ async def get_mp_profile(slug: str, state: Optional[str] = Query(None)):
 
 
 @app.get("/api/v1/mps/{slug}/report")
-async def get_mp_report(slug: str, state: Optional[str] = Query(None)):
+async def get_mp_report(slug: str, state: str | None = Query(None)):
     """Get the Markdown report for an MP."""
     # Find the state from DB if not provided
     if not state:
@@ -156,7 +149,7 @@ async def get_mp_report(slug: str, state: Optional[str] = Query(None)):
 
 
 @app.get("/api/v1/mps/{slug}/history")
-async def get_mp_history(slug: str, state: Optional[str] = Query(None)):
+async def get_mp_history(slug: str, state: str | None = Query(None)):
     """Get score history over time for an MP."""
     if state:
         cursor = await _conn().execute(
@@ -231,6 +224,7 @@ async def compare_mps(
 # Allow running as: python -m tracker.api
 def main():
     import argparse
+
     import uvicorn
 
     parser = argparse.ArgumentParser(description="MP Transparency Tracker API Server")

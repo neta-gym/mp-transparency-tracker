@@ -13,7 +13,6 @@ from __future__ import annotations
 
 from ..models.schemas import MPCompensation
 
-
 # Current compensation structure (effective from Apr 2018 / latest notification)
 # All amounts in INR per month unless noted
 _CURRENT_RATES = {

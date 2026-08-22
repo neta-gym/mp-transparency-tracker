@@ -5,10 +5,8 @@ from __future__ import annotations
 import re
 from datetime import datetime, timezone
 from enum import Enum
-from typing import Optional
 
 from pydantic import BaseModel, Field, computed_field
-
 
 # --- Enums ---
 
@@ -46,19 +44,19 @@ class MPProfile(BaseModel):
     constituency: str
     state: str
     party: str
-    myneta_candidate_id: Optional[int] = None
+    myneta_candidate_id: int | None = None
     slug: str = ""
     house: House = House.LOK_SABHA
-    sansad_member_id: Optional[int] = None
-    profile_url: Optional[str] = None
-    canonical_name: Optional[str] = None
+    sansad_member_id: int | None = None
+    profile_url: str | None = None
+    canonical_name: str | None = None
     name_aliases: list[str] = Field(default_factory=list)
 
     # Phase 1: MyNeta enrichment
-    education: Optional[str] = None
-    profession: Optional[str] = None
-    age: Optional[int] = None
-    photo_url: Optional[str] = None
+    education: str | None = None
+    profession: str | None = None
+    age: int | None = None
+    photo_url: str | None = None
 
     def model_post_init(self, __context: object) -> None:
         if not self.slug:
@@ -97,28 +95,28 @@ class CriminalRecord(BaseModel):
 class AssetDeclaration(BaseModel):
     """Asset and liability data from MyNeta affidavit."""
 
-    movable_assets: Optional[float] = None
-    immovable_assets: Optional[float] = None
-    total_assets: Optional[float] = None
-    liabilities: Optional[float] = None
-    net_worth: Optional[float] = None
-    previous_total_assets: Optional[float] = None
-    asset_year: Optional[int] = None
-    previous_asset_year: Optional[int] = None
+    movable_assets: float | None = None
+    immovable_assets: float | None = None
+    total_assets: float | None = None
+    liabilities: float | None = None
+    net_worth: float | None = None
+    previous_total_assets: float | None = None
+    asset_year: int | None = None
+    previous_asset_year: int | None = None
     source: str = "myneta"
     confidence: float = 0.0
     sources: list[DataSource] = Field(default_factory=list)
 
     # Phase 1: MyNeta enrichment
-    annual_income: Optional[float] = None
-    election_expenditure: Optional[float] = None
+    annual_income: float | None = None
+    election_expenditure: float | None = None
 
     # Phase 5: Wealth percentile
-    wealth_percentile: Optional[float] = None  # 0-100, among all MPs
+    wealth_percentile: float | None = None  # 0-100, among all MPs
 
     @computed_field
     @property
-    def growth_ratio(self) -> Optional[float]:
+    def growth_ratio(self) -> float | None:
         if self.total_assets is not None and self.previous_total_assets and self.previous_total_assets > 0:
             return (self.total_assets - self.previous_total_assets) / self.previous_total_assets
         return None
@@ -132,12 +130,12 @@ class MPLADSWork(BaseModel):
     work_id: str = ""
     description: str = ""
     sector: str = ""  # education, health, infrastructure, etc.
-    recommended_amount: Optional[float] = None
-    sanctioned_amount: Optional[float] = None
-    expended_amount: Optional[float] = None
+    recommended_amount: float | None = None
+    sanctioned_amount: float | None = None
+    expended_amount: float | None = None
     status: str = ""  # recommended, sanctioned, in_progress, completed
     district: str = ""
-    completion_date: Optional[str] = None
+    completion_date: str | None = None
     source: DataSource = Field(default_factory=DataSource)
 
 
@@ -145,20 +143,20 @@ class MPLADSFundPeriod(BaseModel):
     """MPLADS fund data for a specific fiscal year."""
 
     fiscal_year: str = ""  # e.g. "2024-25"
-    entitled: Optional[float] = None
-    released: Optional[float] = None
-    expended: Optional[float] = None
-    opening_balance: Optional[float] = None
-    interest_earned: Optional[float] = None
+    entitled: float | None = None
+    released: float | None = None
+    expended: float | None = None
+    opening_balance: float | None = None
+    interest_earned: float | None = None
 
 
 class MPLADSFund(BaseModel):
     """MPLADS fund utilization data."""
 
-    entitled: Optional[float] = None
-    released: Optional[float] = None
-    sanctioned: Optional[float] = None
-    expended: Optional[float] = None
+    entitled: float | None = None
+    released: float | None = None
+    sanctioned: float | None = None
+    expended: float | None = None
     source: str = "mplads"
     confidence: float = 0.0
     sources: list[DataSource] = Field(default_factory=list)
@@ -166,19 +164,19 @@ class MPLADSFund(BaseModel):
     # eSAKSHI work-level detail
     works: list[MPLADSWork] = Field(default_factory=list)
     works_count: int = 0
-    esakshi_coverage_start: Optional[str] = None  # e.g. "2023-04-01"
+    esakshi_coverage_start: str | None = None  # e.g. "2023-04-01"
 
     # Multi-year / cumulative fields
     period_data: list[MPLADSFundPeriod] = Field(default_factory=list)
-    cumulative_entitled: Optional[float] = None
-    cumulative_released: Optional[float] = None
-    cumulative_expended: Optional[float] = None
+    cumulative_entitled: float | None = None
+    cumulative_released: float | None = None
+    cumulative_expended: float | None = None
     includes_covid_suspension: bool = False
     data_period_note: str = ""
 
     @computed_field
     @property
-    def utilization_rate(self) -> Optional[float]:
+    def utilization_rate(self) -> float | None:
         if self.released and self.released > 0 and self.expended is not None:
             return (self.expended / self.released) * 100
         return None
@@ -199,7 +197,7 @@ class VoteRecord(BaseModel):
 class ParliamentActivity(BaseModel):
     """Parliament participation data from PRS India."""
 
-    attendance_percentage: Optional[float] = None
+    attendance_percentage: float | None = None
     questions_asked: int = 0
     debates_participated: int = 0
     private_bills_introduced: int = 0
@@ -245,7 +243,7 @@ class SocialMediaProfile(BaseModel):
     platform: str  # twitter, facebook, instagram, youtube
     handle: str = ""
     url: str = ""
-    followers: Optional[int] = None
+    followers: int | None = None
     verified: bool = False
     active: bool = False  # posted in last 30 days
 
@@ -306,9 +304,9 @@ class LegislativeRecord(BaseModel):
 class ConstituencyContext(BaseModel):
     """Constituency-level development indicators."""
 
-    population: Optional[int] = None
-    literacy_rate: Optional[float] = None
-    urban_percentage: Optional[float] = None
+    population: int | None = None
+    literacy_rate: float | None = None
+    urban_percentage: float | None = None
     district: str = ""
 
 
@@ -351,7 +349,7 @@ class SAGYAdoption(BaseModel):
     village_name: str = ""
     district: str = ""
     state: str = ""
-    adopted_year: Optional[int] = None
+    adopted_year: int | None = None
     phase: str = ""  # Phase-I, Phase-II, Phase-III
     source: DataSource = Field(default_factory=DataSource)
 
@@ -366,7 +364,7 @@ class VotingAnalysis(BaseModel):
     votes_against_party: int = 0
     abstentions: int = 0
     absences: int = 0
-    party_loyalty_pct: Optional[float] = None
+    party_loyalty_pct: float | None = None
     cross_party_votes: list[VoteRecord] = Field(default_factory=list)
     key_bills_missed: list[str] = Field(default_factory=list)
     confidence: float = 0.0
@@ -407,11 +405,11 @@ class ConflictOfInterest(BaseModel):
 class AttendancePattern(BaseModel):
     """Detailed attendance pattern analysis beyond a single percentage."""
 
-    overall_pct: Optional[float] = None
+    overall_pct: float | None = None
     session_breakdown: dict[str, float] = Field(default_factory=dict)  # {"Budget 2024": 85.0}
     consecutive_absences: int = 0
     attended_key_debates: bool = True
-    zero_hour_presence: Optional[float] = None
+    zero_hour_presence: float | None = None
     pattern_label: str = ""  # "Consistent", "Monsoon slumper", "Key debate skipper"
     confidence: float = 0.0
 
@@ -421,11 +419,11 @@ class AttendancePattern(BaseModel):
 class MGNREGAData(BaseModel):
     """MGNREGA constituency-level data (informational, not scored)."""
 
-    employment_days_generated: Optional[int] = None
-    total_expenditure: Optional[float] = None
-    works_completed: Optional[int] = None
-    works_in_progress: Optional[int] = None
-    avg_wage_per_day: Optional[float] = None
+    employment_days_generated: int | None = None
+    total_expenditure: float | None = None
+    works_completed: int | None = None
+    works_in_progress: int | None = None
+    avg_wage_per_day: float | None = None
     financial_year: str = ""
     confidence: float = 0.0
     sources: list[DataSource] = Field(default_factory=list)
@@ -436,9 +434,9 @@ class MGNREGAData(BaseModel):
 class PMKisanData(BaseModel):
     """PM-KISAN constituency-level data (informational, not scored)."""
 
-    total_beneficiaries: Optional[int] = None
-    amount_disbursed: Optional[float] = None
-    installment_number: Optional[int] = None
+    total_beneficiaries: int | None = None
+    amount_disbursed: float | None = None
+    installment_number: int | None = None
     financial_year: str = ""
     confidence: float = 0.0
     sources: list[DataSource] = Field(default_factory=list)
@@ -462,7 +460,7 @@ class ResearchFindings(BaseModel):
 
     # Existing enrichment
     cag_findings: list[CAGFinding] = Field(default_factory=list)
-    compensation: Optional[MPCompensation] = None
+    compensation: MPCompensation | None = None
     sagy: list[SAGYAdoption] = Field(default_factory=list)
 
     # Phase 2: Committee engagement
@@ -569,10 +567,10 @@ class LeaderboardEntry(BaseModel):
     key_finding: str = ""
     house: str = "lok_sabha"
     avg_evidence_grade: str = "E"
-    photo_url: Optional[str] = None
+    photo_url: str | None = None
     # Trend tracking (Phase 4.1)
-    delta: Optional[float] = None  # change from previous run
-    previous_score: Optional[float] = None
+    delta: float | None = None  # change from previous run
+    previous_score: float | None = None
 
 
 class Leaderboard(BaseModel):
