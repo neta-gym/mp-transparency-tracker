@@ -272,17 +272,20 @@ class ValidatorAgent(BaseAgent):
     async def _cross_check_sansad_qa(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         """Cross-check MPLADS data against Sansad Q&A annexure data."""
         try:
-            questions = await self.sansad_qa.search_mplads_questions()
+            parser = self.sansad_qa
+            if parser is None:
+                return
+            questions = await parser.search_mplads_questions()
             for q in questions[:3]:  # Check up to 3 recent questions
                 annexure_url = q.get("annexure_url", "")
                 if not annexure_url:
                     continue
 
-                text = await self.sansad_qa.fetch_annexure(annexure_url)
+                text = await parser.fetch_annexure(annexure_url)
                 if not text:
                     continue
 
-                qa_data = self.sansad_qa.parse_mplads_table(text, f.mp.state)
+                qa_data = parser.parse_mplads_table(text, f.mp.state)
                 if not qa_data:
                     continue
 

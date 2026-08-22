@@ -24,7 +24,7 @@ def freshness_report(state: str, data_dir: str) -> list[dict]:
         return []
 
     now = datetime.now(timezone.utc)
-    rows = []
+    rows: list[dict] = []
 
     for filename in sorted(os.listdir(raw_dir)):
         if not filename.endswith(".json") or "_validated" in filename:

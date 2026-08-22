@@ -144,11 +144,12 @@ class SansadQAParser:
             import pdfplumber
 
             # Download PDF bytes
-            content = await self.scraper.fetch(url)
+            content: bytes | str = await self.scraper.fetch(url)
             if isinstance(content, str):
                 content = content.encode("utf-8", errors="replace")
+            pdf_bytes = content.encode("utf-8", errors="replace") if isinstance(content, str) else content
 
-            with pdfplumber.open(io.BytesIO(content)) as pdf:
+            with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
                 text_parts = []
                 for page in pdf.pages:
                     page_text = page.extract_text()

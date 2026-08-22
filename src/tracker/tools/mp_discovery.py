@@ -81,7 +81,7 @@ class MPDiscovery:
             # Build map of candidate links from MyNeta
             myneta_candidates: list[dict] = []
             for link in soup.find_all("a", href=re.compile(r"candidate\.php\?candidate_id=\d+")):
-                href = link.get("href", "")
+                href = str(link.get("href") or "")
                 cid_match = re.search(r"candidate_id=(\d+)", href)
                 if cid_match:
                     candidate_name = link.get_text(strip=True)
@@ -155,7 +155,7 @@ class MPDiscovery:
 
                 link = row.find("a", href=re.compile(r"candidate\.php\?candidate_id=\d+"))
                 if link:
-                    href = link.get("href", "")
+                    href = str(link.get("href") or "")
                     cid_match = re.search(r"candidate_id=(\d+)", href)
                     candidate_id = int(cid_match.group(1)) if cid_match else None
                     candidate_name = link.get_text(strip=True)

@@ -94,7 +94,8 @@ class AsyncScraper:
                     session = await self._get_session()
                     async with session.get(url) as resp:
                         if resp.status == 200:
-                            return await resp.json(content_type=None)
+                            data: dict | list = await resp.json(content_type=None)
+                            return data
                         last_error = aiohttp.ClientResponseError(
                             resp.request_info, resp.history, status=resp.status
                         )

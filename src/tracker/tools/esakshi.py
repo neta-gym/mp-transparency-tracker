@@ -355,7 +355,7 @@ class ESAKSHIFetcher:
                         tiles_data = await self._call_rest_api(page, "getTilesData", {"uname": uname})
 
                         if tiles_data:
-                            fund = self._parse_tiles_data(tiles_data)
+                            fund = self._parse_tiles_data(tiles_data if isinstance(tiles_data, dict) else {})
                             if fund and fund.confidence > 0:
                                 log.info("eSAKSHI REST: Extracted fund data — entitled=%.2f Cr, expended=%s Cr",
                                          fund.entitled or 0, fund.expended)
@@ -424,7 +424,8 @@ class ESAKSHIFetcher:
             if isinstance(result, dict) and "_error" in result:
                 log.debug("eSAKSHI REST %s error: %s", endpoint, result["_error"])
                 return None
-            return result
+            typed_result: dict | list | None = result
+            return typed_result
 
         except Exception as e:
             log.debug("eSAKSHI REST %s evaluate failed: %s", endpoint, e)
@@ -1037,7 +1038,7 @@ class ESAKSHIFetcher:
                     expended = _parse_amount(value)
 
         for elem in soup.find_all(attrs={"data-field": True}):
-            field = elem.get("data-field", "").lower()
+            field = str(elem.get("data-field") or "").lower()
             value = elem.get_text(strip=True)
             if "entitled" in field:
                 entitled = _parse_amount(value)

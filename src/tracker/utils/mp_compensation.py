@@ -15,7 +15,7 @@ from ..models.schemas import MPCompensation
 
 # Current compensation structure (effective from Apr 2018 / latest notification)
 # All amounts in INR per month unless noted
-_CURRENT_RATES = {
+_CURRENT_RATES: dict[str, float | str] = {
     "salary_per_month": 100_000,  # Rs 1,00,000/month (MPA 2018)
     "constituency_allowance_per_month": 70_000,  # Rs 70,000/month
     "office_expense_allowance_per_month": 60_000,  # Rs 60,000/month
@@ -61,10 +61,10 @@ def get_mp_compensation(is_rajya_sabha: bool = False) -> MPCompensation:
     Returns:
         MPCompensation with all fields populated from latest notification.
     """
-    salary = _CURRENT_RATES["salary_per_month"]
-    constituency = _CURRENT_RATES["constituency_allowance_per_month"]
-    office = _CURRENT_RATES["office_expense_allowance_per_month"]
-    sumptuary = _CURRENT_RATES.get("sumptuary_allowance_per_month", 15_000)
+    salary = float(_CURRENT_RATES["salary_per_month"])
+    constituency = float(_CURRENT_RATES["constituency_allowance_per_month"])
+    office = float(_CURRENT_RATES["office_expense_allowance_per_month"])
+    sumptuary = float(_CURRENT_RATES.get("sumptuary_allowance_per_month", 15_000))
 
     total_monthly = salary + constituency + office + sumptuary
     total_annual = total_monthly * 12
@@ -76,7 +76,7 @@ def get_mp_compensation(is_rajya_sabha: bool = False) -> MPCompensation:
         sumptuary_allowance_per_month=sumptuary,
         total_monthly=total_monthly,
         total_annual=total_annual,
-        effective_from=_CURRENT_RATES["effective_from"],
-        source_notification=_CURRENT_RATES["source_notification"],
+        effective_from=str(_CURRENT_RATES["effective_from"]),
+        source_notification=str(_CURRENT_RATES["source_notification"]),
         notes=_NOTES,
     )

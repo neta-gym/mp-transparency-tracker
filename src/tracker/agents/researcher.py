@@ -81,7 +81,7 @@ class ResearcherAgent(BaseAgent):
         evidence_summary: dict[str, str] = {}
 
         # Fetch from all sources concurrently
-        tasks = {}
+        tasks: dict[str, asyncio.Task] = {}
 
         if mp.myneta_candidate_id:
             tasks["myneta"] = asyncio.create_task(
@@ -446,10 +446,10 @@ class ResearcherAgent(BaseAgent):
         """Analyze potential conflict of interest based on available data."""
         # This is a simplified analysis - full implementation would cross-reference
         # MP business interests with committee sectors
-        mp_businesses = []
-        committee_sectors = []
-        question_sectors = []
-        overlaps = []
+        mp_businesses: list[str] = []
+        committee_sectors: list[str] = []
+        question_sectors: list[str] = []
+        overlaps: list[str] = []
 
         # Extract committee sectors
         for membership in committees.memberships:

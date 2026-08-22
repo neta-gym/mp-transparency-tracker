@@ -213,7 +213,7 @@ class DebuggerAgent:
                 required_fields = ["slug", "state", "name", "constituency", "party"]
                 for col in required_fields:
                     cursor = await db.execute(f"SELECT COUNT(*) FROM mps WHERE {col} IS NULL OR {col} = ''")
-                    count = (await cursor.fetchone())[0]
+                    count = (await cursor.fetchone() or [0])[0]
                     suite.checks.append(_check(f"No NULL/empty '{col}' in mps", count == 0, f"{count} invalid rows"))
 
                 # composite_score in [0, 100]
@@ -221,7 +221,7 @@ class DebuggerAgent:
                     cursor = await db.execute(
                         "SELECT COUNT(*) FROM scores WHERE composite_score < 0 OR composite_score > 100"
                     )
-                    count = (await cursor.fetchone())[0]
+                    count = (await cursor.fetchone() or [0])[0]
                     suite.checks.append(_check("composite_score in [0, 100]", count == 0, f"{count} out-of-range"))
 
                     # All component scores in [0, 100]
@@ -229,7 +229,7 @@ class DebuggerAgent:
                         cursor = await db.execute(
                             f"SELECT COUNT(*) FROM scores WHERE {col} IS NOT NULL AND ({col} < 0 OR {col} > 100)"
                         )
-                        count = (await cursor.fetchone())[0]
+                        count = (await cursor.fetchone() or [0])[0]
                         suite.checks.append(_check(f"{col} in [0, 100]", count == 0, f"{count} out-of-range"))
 
                 # Confidence values in [0, 1]
@@ -237,14 +237,14 @@ class DebuggerAgent:
                     cursor = await db.execute(
                         "SELECT COUNT(*) FROM validated_findings WHERE overall_confidence < 0 OR overall_confidence > 1"
                     )
-                    count = (await cursor.fetchone())[0]
+                    count = (await cursor.fetchone() or [0])[0]
                     suite.checks.append(_check("overall_confidence in [0, 1]", count == 0, f"{count} out-of-range"))
 
                 if "scores" in existing:
                     cursor = await db.execute(
                         "SELECT COUNT(*) FROM scores WHERE data_confidence IS NOT NULL AND (data_confidence < 0 OR data_confidence > 1)"
                     )
-                    count = (await cursor.fetchone())[0]
+                    count = (await cursor.fetchone() or [0])[0]
                     suite.checks.append(_check("data_confidence in [0, 1]", count == 0, f"{count} out-of-range"))
 
                 # JSON columns deserializable
@@ -258,7 +258,7 @@ class DebuggerAgent:
                             f"SELECT COUNT(*) FROM {child_table} cf "
                             f"WHERE NOT EXISTS (SELECT 1 FROM mps m WHERE m.slug = cf.mp_slug AND m.state = cf.state)"
                         )
-                        count = (await cursor.fetchone())[0]
+                        count = (await cursor.fetchone() or [0])[0]
                         suite.checks.append(_check(
                             f"FK: {child_table}.mp_slug → mps",
                             count == 0,
@@ -285,11 +285,11 @@ class DebuggerAgent:
             return
 
         cursor = await db.execute(f"SELECT {column} FROM {table} LIMIT 10")
-        rows = await cursor.fetchall()
+        rows: list[Any] = list(await cursor.fetchall())
         failures = 0
         for row in rows:
             try:
-                model_cls.model_validate_json(row[0])
+                model_cls.model_validate_json(row[0])  # type: ignore[attr-defined]
             except Exception:
                 failures += 1
         suite.checks.append(_check(
@@ -957,7 +957,7 @@ class DebuggerAgent:
 
     def _check_file_model(self, path: Path, model_cls: type, model_name: str) -> CheckResult:
         try:
-            model_cls.model_validate_json(path.read_text())
+            model_cls.model_validate_json(path.read_text())  # type: ignore[attr-defined]
             return CheckResult(f"{path.name} → {model_name}", CheckStatus.PASS)
         except Exception as exc:
             return CheckResult(f"{path.name} → {model_name}", CheckStatus.FAIL, str(exc))
@@ -1073,4 +1073,5 @@ def _check(name: str, condition: bool, message: str = "") -> CheckResult:
 
 def _slug_from_entry(entry: Any) -> str:
     """Derive a slug from a LeaderboardEntry (name → lowercase, spaces → hyphens)."""
-    return entry.mp_name.lower().replace(" ", "-").replace(".", "")
+    name: str = entry.mp_name
+    return name.lower().replace(" ", "-").replace(".", "")

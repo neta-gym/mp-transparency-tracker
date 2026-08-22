@@ -25,7 +25,8 @@ def _load_known_handles() -> dict[str, dict[str, str]]:
     if handles_path.exists():
         try:
             with open(handles_path) as f:
-                return json.load(f)
+                loaded = json.load(f)
+                return loaded if isinstance(loaded, dict) else {}
         except Exception as e:
             log.warning("Failed to load social_handles.json: %s", e)
     return {}

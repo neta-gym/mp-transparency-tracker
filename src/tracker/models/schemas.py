@@ -115,7 +115,7 @@ class AssetDeclaration(BaseModel):
     wealth_percentile: float | None = None  # 0-100, among all MPs
 
     @computed_field
-    @property
+    @property  # type: ignore[prop-decorator]
     def growth_ratio(self) -> float | None:
         if self.total_assets is not None and self.previous_total_assets and self.previous_total_assets > 0:
             return (self.total_assets - self.previous_total_assets) / self.previous_total_assets
@@ -175,7 +175,7 @@ class MPLADSFund(BaseModel):
     data_period_note: str = ""
 
     @computed_field
-    @property
+    @property  # type: ignore[prop-decorator]
     def utilization_rate(self) -> float | None:
         if self.released and self.released > 0 and self.expended is not None:
             return (self.expended / self.released) * 100

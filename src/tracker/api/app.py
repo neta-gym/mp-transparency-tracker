@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import os
 from contextlib import asynccontextmanager
+from typing import Any
 
 import aiosqlite
 
@@ -174,7 +175,7 @@ async def get_national_leaderboard(top_n: int = Query(50, le=200)):
         """SELECT state, leaderboard_json FROM leaderboards
            WHERE id IN (SELECT MAX(id) FROM leaderboards GROUP BY state)"""
     )
-    rows = await cursor.fetchall()
+    rows: list[Any] = list(await cursor.fetchall())
     if not rows:
         raise HTTPException(404, "No leaderboard data available")
 

@@ -4,8 +4,12 @@ from __future__ import annotations
 
 import asyncio
 import contextlib
+from typing import TYPE_CHECKING
 
 from ..utils.logger import get_logger
+
+if TYPE_CHECKING:
+    from playwright.async_api import Browser, BrowserContext, Playwright
 
 log = get_logger(__name__)
 
@@ -26,9 +30,9 @@ class PlaywrightBrowser:
 
     def __init__(self, headless: bool = True) -> None:
         self._headless = headless
-        self._playwright: object | None = None
-        self._browser: object | None = None
-        self._context: object | None = None
+        self._playwright: Playwright | None = None
+        self._browser: Browser | None = None
+        self._context: BrowserContext | None = None
         self._lock = asyncio.Lock()
         self._started = False
 

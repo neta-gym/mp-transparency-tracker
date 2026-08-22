@@ -400,7 +400,7 @@ class MyNetaParser:
         if not img:
             img = soup.find("img", attrs={"alt": re.compile(r"profile", re.I)})
         if img and img.get("src"):
-            src = img["src"]
+            src = str(img.get("src") or "")
             if not src.startswith("http"):
                 src = f"https://myneta.info/{src.lstrip('/')}"
             extras["photo_url"] = src
@@ -423,7 +423,8 @@ class MyNetaParser:
                             extras["profession"] = value_text
                     elif "age" in label and "age" not in extras:
                         try:
-                            age_val = int(re.search(r"\d+", value_text).group())
+                            m = re.search(r"\d+", value_text)
+                            age_val = int(m.group()) if m else 0
                             if 18 <= age_val <= 120:
                                 extras["age"] = age_val
                         except (AttributeError, ValueError):

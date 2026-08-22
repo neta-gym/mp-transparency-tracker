@@ -44,6 +44,7 @@ def get_logger(name: str, level: str = "INFO") -> logging.Logger:
     """Create a logger — Rich-formatted (default) or JSON structured."""
     logger = logging.getLogger(name)
     if not logger.handlers:
+        handler: logging.Handler
         if _LOG_FORMAT == "json":
             handler = logging.StreamHandler()
             handler.setFormatter(JsonFormatter())

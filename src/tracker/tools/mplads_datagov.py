@@ -119,7 +119,7 @@ class DataGovMPLADSFetcher:
             text = await self.scraper.fetch(url)
             data = json.loads(text)
 
-            records = data.get("records", [])
+            records: list[dict] = list(data.get("records", []))
             log.info("data.gov.in: Loaded %d records for %s", len(records), state)
 
             # Cache

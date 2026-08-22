@@ -41,7 +41,7 @@ def _extract_csv_link(html: str, base_url: str) -> str | None:
 
     soup = BeautifulSoup(html, "html.parser")
     for a_tag in soup.find_all("a", href=True):
-        href = a_tag["href"]
+        href = str(a_tag.get("href") or "")
         link_text = a_tag.get_text(strip=True).lower()
         if href.endswith(".csv") or "csv" in link_text or "download" in link_text:
             return urljoin(base_url, href)
