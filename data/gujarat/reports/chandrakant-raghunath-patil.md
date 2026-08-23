@@ -3,23 +3,23 @@
 **Constituency:** Navsari, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 53.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 27.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 39.49 Crore
+- **Liabilities:** Rs 2.76 Crore
+- **Net Worth:** Rs 36.73 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.8%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +93,11 @@
 
 ## Qualitative Assessment
 
-Chandrakant Raghunath Patil demonstrates a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record, his performance shows notable deficiencies in committee participation, legislative contributions, and public accessibility, resulting in a below-average overall score.
+Chandrakant Raghunath Patil shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Chandrakant Raghunath Patil
-
-### Overall Assessment
-Chandrakant Raghunath Patil, BJP MP from Navsari, Gujarat, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While showing clean legal standing with zero criminal cases, the absence of critical financial and parliamentary data raises concerns about transparency and accountability. With evidence grades of 'C' for parliamentary activity and 'D' for accessibility, there are substantial areas requiring improvement in public disclosure.
-
-### Fund Utilization & Development
-No MPLADS data is available regarding entitlements, releases, expenditures, or utilization rates, making it impossible to assess the MP's effectiveness in constituency development. This data gap is particularly concerning given CAG audit findings for Gujarat revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. The lack of transparent MPLADS reporting prevents evaluation of whether these systemic issues affect Navsari constituency.
-
-### Financial Transparency
-Complete absence of asset declaration data represents a critical transparency failure. No information is available on total assets, previous declarations, growth ratios, or net worth. This prevents any assessment of potential conflicts of interest or unexplained wealth accumulation. The MP receives Rs 245,000 monthly compensation, but without asset disclosure, there's no baseline for evaluating financial integrity or potential corruption indicators.
-
-### Legal & Criminal Standing
-Patil maintains a clean criminal record with zero total cases, serious cases, pending cases, disposed cases, and convictions. This represents the strongest aspect of his transparency profile and indicates absence of legal complications that might affect his ability to serve constituents effectively.
-
-### Parliamentary Performance
-Parliamentary activity data is severely limited, showing zero questions raised, zero debates participated, and zero private bills introduced. While the MP holds ministerial position (which may legitimately reduce some parliamentary activities due to executive duties), the complete absence of measurable legislative engagement raises questions about representation effectiveness. No attendance percentage data is available, and no committee participation information could be found, suggesting either non-participation or poor data disclosure practices.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows neutral engagement with 10 articles providing mixed/neutral coverage (0 positive, 0 negative, 10 neutral). This suggests limited public visibility and potentially passive media relations. The 'D' grade for accessibility indicates poor public communication and constituent engagement mechanisms. No social media activity data or public interaction metrics are available to assess digital age constituency service.
-
-### Data Quality & Caveats
-Multiple automated warnings indicate significant data reliability issues:
-- Low confidence in criminal record data due to potential source unavailability
-- Low confidence in asset declarations
-- Low confidence in MPLADS utilization data
-- Low confidence in parliamentary activity metrics
-- Complete absence of committee participation data
-- Limited legislative effectiveness information
-
-These data gaps may result from poor disclosure practices, inadequate source availability, or systematic transparency failures at institutional level.
-
-### Key Takeaway
-While Chandrakant Raghunath Patil maintains clean legal standing, his transparency profile is severely compromised by extensive data gaps across financial declarations, parliamentary activity, and development fund utilization. The absence of asset disclosure and MPLADS data, combined with zero measurable parliamentary engagement metrics, raises serious questions about accountability and effective representation. The systemic CAG audit findings for Gujarat's fund utilization, coupled with this MP's data opacity, suggest urgent need for improved transparency mechanisms and public disclosure practices. Citizens of Navsari constituency lack essential information to evaluate their representative's performance, financial integrity, and development impact.
+No criminal cases declared. Declared assets: Rs 394,930,044. MPLADS utilization: 33.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +137,7 @@ While Chandrakant Raghunath Patil maintains clean legal standing, his transparen
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chandrakant Raghunath Patil's MPLADS account: Released: Rs 16, Expended: Rs 5, Utilization: 33.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

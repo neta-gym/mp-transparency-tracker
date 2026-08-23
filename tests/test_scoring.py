@@ -72,6 +72,17 @@ class TestCriminalScore:
     def test_clean_record(self):
         assert calc_criminal_score(0, 0, 0) == 100.0
 
+    def test_unparseable_source_scores_neutral(self):
+        """Zero cases with very low source confidence = unknown, not clean."""
+        assert calc_criminal_score(0, 0, 0, confidence=0.3) == 45.0
+
+    def test_low_confidence_with_cases_still_scored(self):
+        """Cases found on a low-confidence page still incur penalties."""
+        assert calc_criminal_score(1, 0, 0, confidence=0.3) == 85.0
+
+    def test_default_confidence_is_full(self):
+        assert calc_criminal_score(0, 0, 0, confidence=1.0) == 100.0
+
     def test_legacy_one_non_serious(self):
         """Legacy path: no pending/disposed breakdown."""
         assert calc_criminal_score(1, 0, 0) == 85.0

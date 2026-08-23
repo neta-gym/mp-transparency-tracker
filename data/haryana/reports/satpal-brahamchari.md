@@ -3,23 +3,25 @@
 **Constituency:** Sonipat, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 57.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 11.3 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.61 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.61 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Satpal Brahamchari shows a mixed transparency profile with significant weaknesses in key areas. While maintaining perfect criminal record disclosure and excellent attendance (95%), he demonstrates concerning gaps in committee participation (0%), legislative activity (0%), and constituent accessibility (10%). His moderate MPLADS utilization and asset disclosure suggest basic compliance but limited proactive transparency.
+Satpal Brahamchari shows moderate transparency with a score of 57.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Satpal Brahamchari
-
-### Overall Assessment
-Satpal Brahamchari, Indian National Congress MP representing Sonipat constituency in Haryana, presents a mixed transparency profile with significant data gaps across multiple accountability metrics. While demonstrating strong parliamentary attendance (95.0%), the assessment is severely limited by incomplete asset disclosures, missing MPLADS data, and low evidence grades for parliamentary performance (C) and public accessibility (D).
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Haryana's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about effective project implementation in the constituency.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap that prevents assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is recorded at Rs 2.45 lakh, consistent with standard parliamentary remuneration, but the absence of asset data significantly undermines financial accountability.
-
-### Legal & Criminal Standing
-Brahamchari maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning flag indicating low confidence due to potentially unavailable sources, suggesting the need for verification through additional channels.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at an impressive 95.0%, well above average parliamentary attendance rates. However, legislative activity appears limited with 52 questions raised, 4 debate participations, and zero private member bills introduced. The absence of committee membership data further limits assessment of the MP's legislative effectiveness. The 'C' grade for parliamentary performance suggests moderate engagement levels.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This neutral media profile, combined with a 'D' grade for accessibility, suggests limited public engagement or minimal media attention. The lack of social media presence data and committee participation information further indicates potential gaps in constituent outreach and public communication.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data availability issues:
-- Criminal record data flagged as low confidence
-- Complete absence of asset and MPLADS information
-- Missing committee membership details
-- No legislative effectiveness metrics
-- Limited accessibility and engagement data
-
-The evidence quality grades (Parliament: C, Accessibility: D) indicate substantial gaps in available information, potentially due to unavailable Sansad profiles or incomplete data sources.
-
-### Key Takeaway
-While Satpal Brahamchari demonstrates strong parliamentary attendance, the assessment reveals critical transparency gaps across financial disclosures, fund utilization, and public engagement metrics. The complete absence of asset and MPLADS data, combined with systemic fund management issues identified in CAG audits for Haryana, raises concerns about accountability and transparency. Voters and oversight bodies should seek complete disclosure of missing information to enable proper evaluation of the MP's performance and financial integrity.
+No criminal cases declared. Declared assets: Rs 16,073,608. MPLADS utilization: 14.1%. Parliament attendance: 95.0%. Questions asked: 52. Debates participated: 4.
 
 ---
 
@@ -169,7 +138,7 @@ While Satpal Brahamchari demonstrates strong parliamentary attendance, the asses
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Satpal Brahamchari's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

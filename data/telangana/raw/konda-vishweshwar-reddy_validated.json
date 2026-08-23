@@ -14,7 +14,7 @@
     "education": "Graduate Professional",
     "profession": null,
     "age": 64,
-    "photo_url": null
+    "photo_url": "/mp-photos/4800.jpg"
   },
   "findings": {
     "mp": {
@@ -22,86 +22,80 @@
       "constituency": "Chevella",
       "state": "telangana",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 5226,
       "slug": "konda-vishweshwar-reddy",
       "house": "lok_sabha",
       "sansad_member_id": 4800,
       "profile_url": null,
       "canonical_name": "Konda Vishweshwar Reddy",
       "name_aliases": [],
-      "education": null,
+      "education": "Graduate Professional",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 64,
+      "photo_url": "/mp-photos/4800.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 4,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 4,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 45682222094.0,
+      "liabilities": 138336195.0,
+      "net_worth": 45543885899.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:53.236682Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 100.0,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 18.64,
+      "released": 18.64,
+      "sanctioned": 8.75,
+      "expended": 4.66,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.734610Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:26:00.080735Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:26:00.078471Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T18:23:36.362790Z",
+          "notes": "Official eSAKSHI REST API — Works: 389 recommended, 311 sanctioned, 92 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 389,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 25.0
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:27:00.734743Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749585Z",
+          "fetched_at": "2026-08-23T16:44:22.105084Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749601Z",
+          "fetched_at": "2026-08-23T16:44:22.105097Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749610Z",
+          "fetched_at": "2026-08-23T16:44:22.105103Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749617Z",
+          "fetched_at": "2026-08-23T16:44:22.105109Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749631Z",
+          "fetched_at": "2026-08-23T16:44:22.105115Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749638Z",
+          "fetched_at": "2026-08-23T16:44:22.105120Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:00.749644Z",
+          "fetched_at": "2026-08-23T16:44:22.105125Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +399,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,74 +420,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Konda Vishweshwar Reddy\n\n### Overall Assessment\nKonda Vishweshwar Reddy, representing Chevella constituency in Telangana for the Bharatiya Janata Party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100.0%) and a clean criminal record, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable, hindering thorough assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nNo MPLADS data is available for assessment, including entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given the scheme's importance for constituency development. However, relevant CAG audit findings for Telangana highlight systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These audit findings provide important context for evaluating development fund management in the state, though direct applicability to the MP's performance cannot be established without specific MPLADS data.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, preventing assessment of the MP's financial transparency. No data exists on total assets, previous declarations, growth ratios, or net worth calculations. The MP's monthly compensation is documented at Rs 2,45,000, representing the standard parliamentary remuneration. The absence of asset data significantly undermines the ability to evaluate potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\nKonda Vishweshwar Reddy maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality caveats indicate low confidence in criminal record information due to potential source unavailability, requiring cautious interpretation of this apparently clean profile.\n\n### Parliamentary Performance\nThe MP demonstrates strong attendance with perfect 100.0% participation in parliamentary sessions. Legislative activity shows moderate engagement with 10 questions raised and participation in 5 debates, though no private member bills have been introduced. Committee participation data is unavailable, representing a gap in assessing his contribution to parliamentary committee work. The evidence grade for parliamentary performance is rated 'C', suggesting adequate but not exceptional legislative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with predominantly neutral tone (9 neutral, 1 positive, 0 negative), indicating limited public visibility but absence of negative controversies. The accessibility evidence grade is rated 'D', suggesting poor public engagement or limited transparency in constituency outreach. No social media engagement metrics or public interaction data is available for comprehensive assessment.\n\n### Data Quality & Caveats\nMultiple automated flags indicate significant data quality issues:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence ratings\n- MPLADS data is entirely unavailable\n- Committee participation information is missing due to potential Sansad profile unavailability\n- Legislative effectiveness data has low confidence ratings\n\nThese limitations substantially impact the reliability of this assessment, requiring careful interpretation of available information.\n\n### Key Takeaway\nWhile Konda Vishweshwar Reddy maintains perfect parliamentary attendance and a clean criminal record, the comprehensive evaluation of his performance is severely hampered by extensive data gaps in critical areas including asset disclosure, MPLADS utilization, and committee participation. The limited available evidence suggests adequate but unremarkable parliamentary engagement, with neutral public perception but poor accessibility ratings. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of his effectiveness as a public representative. The systemic issues highlighted by CAG audits in Telangana underscore the importance of transparent fund utilization monitoring at the constituency level.",
-  "validated_at": "2026-05-21T14:27:20.798897Z",
-  "assets": {
-    "total_assets": 45682222094.0,
-    "liabilities": 138336195.0,
-    "net_worth": 45543885899.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 4,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 4,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 18.64,
-    "released": 18.64,
-    "sanctioned": 8.75,
-    "expended": 4.66,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T18:23:36.362790Z",
-        "notes": "Official eSAKSHI REST API — Works: 389 recommended, 311 sanctioned, 92 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 389,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 25.0
-  }
+  "cross_reference_notes": "Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 45,682,222,094. MPLADS utilization: 25.0%. Parliament attendance: 100.0%. Questions asked: 10. Debates participated: 5.",
+  "validated_at": "2026-08-23T16:44:22.106049Z"
 }

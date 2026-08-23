@@ -3,32 +3,34 @@
 **Constituency:** Bishnupur, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 37.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.6 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 15
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 15
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.09 Crore
+- **Liabilities:** Rs 46.73 Lakh
+- **Net Worth:** Rs 2.62 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Saumitra Khan shows a mixed transparency profile with moderate performance in MPLADS utilization and assets disclosure, coupled with excellent attendance and a clean criminal record. However, significant weaknesses exist in committee participation, legislative activity, and public accessibility, which substantially limit overall transparency effectiveness.
+Saumitra Khan has a below-average transparency score of 37.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Saumitra Khan
-
-### Overall Assessment
-Saumitra Khan, representing Bishnupur constituency in West Bengal for the Bharatiya Janata Party, presents a mixed transparency profile with significant data gaps. While maintaining strong parliamentary attendance at 90%, the assessment is severely limited by missing critical information across asset declarations, MPLADS fund utilization, and development initiatives. The available data suggests basic parliamentary compliance but raises concerns about comprehensive transparency reporting.
-
-### Fund Utilization & Development
-No MPLADS fund utilization data is available for assessment, representing a critical transparency gap. Given the CAG audit findings revealing systemic issues in West Bengal's fund management—including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation—the absence of Khan's MPLADS data is particularly concerning. Without baseline fund allocation, release, or expenditure figures, it is impossible to evaluate development impact in Bishnupur constituency or assess compliance with central fund utilization guidelines.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, preventing any assessment of wealth accumulation patterns or potential conflicts of interest. No current asset values, previous declarations, or growth ratios can be evaluated. This represents a fundamental transparency failure, as asset declarations are mandatory requirements for elected representatives. Khan's monthly compensation is recorded at Rs 2,45,000, but without asset context, comprehensive financial transparency cannot be assessed.
-
-### Legal & Criminal Standing
-Khan maintains a clean legal record with zero criminal cases across all categories—no pending cases, convictions, or serious charges. However, this assessment carries a warning flag due to low confidence in criminal data sourcing, suggesting potential data collection limitations rather than definitively clean legal standing.
-
-### Parliamentary Performance
-Khan demonstrates above-average parliamentary engagement with 90% attendance, significantly exceeding typical parliamentary attendance rates. Legislative activity shows moderate participation with 18 questions raised and 2 debate contributions during the assessment period. However, no private member bills were introduced, and no committee assignments are recorded, suggesting limited legislative initiative beyond basic parliamentary duties. The parliamentary performance grade of 'C' indicates room for improvement in overall legislative effectiveness.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited by data constraints, earning a 'D' grade for accessibility. News coverage analysis reveals 10 articles with neutral sentiment—no positive or negative coverage detected, suggesting limited media attention or engagement. This neutral coverage pattern may indicate either limited public visibility or absence of controversial issues, but provides insufficient data for comprehensive public engagement evaluation. No committee participation data further limits assessment of public-facing legislative work.
-
-### Data Quality & Caveats
-This assessment faces significant limitations with multiple warning flags indicating low confidence across critical data categories. Criminal record verification carries uncertainty due to source limitations. Asset declarations are completely unavailable despite being mandatory requirements. MPLADS fund data is entirely missing, preventing development impact assessment. Committee assignments and legislative effectiveness data show substantial gaps. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these systematic data quality issues. The assessment relies primarily on PRS, social media, and news sources, with apparent gaps in official government data access.
-
-### Key Takeaway
-While Saumitra Khan maintains basic parliamentary compliance with strong attendance and clean legal standing, the transparency profile is severely compromised by missing critical data across asset declarations and development fund utilization. In the context of West Bengal's documented fund management issues identified by CAG audits, the absence of MPLADS transparency data raises particular concerns. Voters and oversight bodies cannot make informed assessments about Khan's financial transparency or development impact without comprehensive data disclosure. Immediate priority should be placed on ensuring complete asset declaration compliance and MPLADS fund utilization reporting to meet basic transparency standards expected of elected representatives.
+Has 15 criminal case(s) (0 serious), 15 pending, 0 conviction(s). Declared assets: Rs 30,855,712. MPLADS utilization: 24.5%. Parliament attendance: 90.0%. Questions asked: 18. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ While Saumitra Khan maintains basic parliamentary compliance with strong attenda
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Saumitra Khan's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

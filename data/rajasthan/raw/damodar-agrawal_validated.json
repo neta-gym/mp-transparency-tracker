@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": null,
-    "photo_url": null
+    "photo_url": "/mp-photos/5620.jpg"
   },
   "findings": {
     "mp": {
@@ -32,76 +32,62 @@
       "education": null,
       "profession": null,
       "age": null,
-      "photo_url": null
+      "photo_url": "/mp-photos/5620.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 1,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 1,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 71392415.0,
+      "liabilities": 3320600.0,
+      "net_worth": 68071815.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 49.9,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 8.26,
+      "expended": 4.59,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:41.020978Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:20:31.757995Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:20:37.667141Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:44:50.706286Z",
+          "notes": "Official eSAKSHI REST API — Works: 222 recommended, 199 sanctioned, 44 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 222,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 31.22448979591837
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -129,12 +115,14 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:21:05.571753Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576240Z",
+          "fetched_at": "2026-08-23T16:44:20.559658Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576251Z",
+          "fetched_at": "2026-08-23T16:44:20.559669Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576258Z",
+          "fetched_at": "2026-08-23T16:44:20.559676Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576263Z",
+          "fetched_at": "2026-08-23T16:44:20.559682Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576268Z",
+          "fetched_at": "2026-08-23T16:44:20.559693Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576275Z",
+          "fetched_at": "2026-08-23T16:44:20.559699Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:05.576281Z",
+          "fetched_at": "2026-08-23T16:44:20.559712Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +388,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,39 +409,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Damodar Agrawal\n\n### Overall Assessment\nDamodar Agrawal, BJP MP from Bhilwara, Rajasthan, presents a limited transparency profile due to significant data gaps across key accountability metrics. While demonstrating strong parliamentary attendance (100%), comprehensive assessment is hindered by unavailable information on assets, MPLADS utilization, and criminal record verification. The evidence quality is rated 'C' for parliamentary activities and 'D' for accessibility measures.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, or expenditure figures. This represents a critical transparency gap given MPs' annual ₹5 crore allocation for constituency development. CAG audit findings reveal systemic concerns in Rajasthan's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about effective oversight of public funds.\n\n### Financial Transparency\nAsset declaration data is completely missing, with no information available on current holdings, previous declarations, growth patterns, or net worth. This absence of financial disclosure significantly undermines transparency assessment. The MP's monthly compensation is listed at ₹2,45,000, consistent with standard parliamentary remuneration. Without asset data, it's impossible to evaluate potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\nCriminal record shows zero cases across all categories (total, serious, pending, disposed, convictions). However, automated flags indicate low confidence in this data due to potentially unavailable sources. While the clean record is positive, the data quality warning suggests these figures should be interpreted cautiously until verification through reliable judicial databases.\n\n### Parliamentary Performance\nAgrawal demonstrates excellent attendance with a perfect 100% record, significantly above typical parliamentary averages. Legislative engagement shows moderate activity with 28 questions raised and participation in 6 debates, indicating reasonable constituency representation. However, no private member bills were introduced, and committee participation data is unavailable due to inaccessible Sansad profiles. The absence of committee information limits assessment of specialized policy contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 articles tracked (1 positive, 0 negative, 9 neutral). This suggests limited media visibility and public discourse around the MP's activities. Social media presence and direct citizen engagement metrics are not available, hampering evaluation of constituency communication and responsiveness to public concerns.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence due to source unavailability. Asset declarations are entirely missing, preventing financial transparency assessment. MPLADS utilization data is unavailable despite being crucial for development accountability. Committee participation cannot be evaluated due to inaccessible parliamentary profiles. Legislative effectiveness data has low confidence ratings. These gaps substantially limit comprehensive transparency evaluation.\n\n### Key Takeaway\nWhile Damodar Agrawal maintains perfect parliamentary attendance and shows no recorded criminal cases, his transparency profile is severely compromised by missing critical data on assets, MPLADS utilization, and committee work. The absence of financial disclosures and development fund information prevents meaningful accountability assessment. Systemic CAG audit findings in Rajasthan highlight broader governance concerns that require enhanced oversight and transparency mechanisms for effective public fund management.",
-  "validated_at": "2026-05-21T14:21:24.464090Z",
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.26,
-    "expended": 4.59,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:44:50.706286Z",
-        "notes": "Official eSAKSHI REST API — Works: 222 recommended, 199 sanctioned, 44 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 222,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.22448979591837
-  },
-  "evidence_summary": {
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "mplads"
-  ]
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 71,392,415. MPLADS utilization: 31.2%. Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 6.",
+  "validated_at": "2026-08-23T16:44:20.560634Z"
 }

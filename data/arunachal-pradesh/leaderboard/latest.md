@@ -1,15 +1,15 @@
 # MP Transparency Leaderboard — Arunachal-Pradesh
 
-*Generated: 2026-05-21 14:22 UTC | Methodology v3.0 | 2 MPs*
+*Generated: 2026-08-23 16:44 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Tapir Gao | Arunachal East | Bharatiya Janata Party | 51.5 | 24% | Strong attendance & clean record, but poor committee work & public access |
-| 2 | LS | Kiren Rijiju | Arunachal West | Bharatiya Janata Party | 45.5 | 11% | Mixed transparency with clean record but poor committee and legislative disclosure |
+| 1 | LS | Tapir Gao | Arunachal East | Bharatiya Janata Party | 68.1 | 65% | Clean record, High attendance |
+| 2 | LS | Kiren Rijiju | Arunachal West | Bharatiya Janata Party | 57.5 | 58% | Clean record |
 
 ### Score Breakdown
 
 | Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |
 |------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|
-| 1 | Tapir Gao | LS | 50 | 50 | 100 | 100 | 60 | 0 | 10 | 0 |
-| 2 | Kiren Rijiju | LS | 50 | 50 | 100 | 50 | 50 | 0 | 10 | 0 |
+| 1 | Tapir Gao | LS | 64 | 50 | 100 | 100 | 60 | 40 | 15 | 40 |
+| 2 | Kiren Rijiju | LS | 54 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |

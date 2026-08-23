@@ -6,63 +6,57 @@
 **Age:** 46
 **Education:** Post Graduate
 **Profession:** Agriculture & Social Service
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 44.5 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| MPLADS Fund Utilization | 8.3 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 4
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 4
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 11822004220561/2022) 
-3. No description (Sections: 11822004220560/2022) 
-4. No description (Sections: 11822004220566/2022) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 52.00 Lakh
-- **Immovable Assets:** Rs 1.40 Crore
-- **Total Assets:** Rs 1.92 Crore
-- **Liabilities:** Rs 12.75 Lakh
-- **Net Worth:** Rs 1.79 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.65 Crore
+- **Liabilities:** Rs 1.35 Crore
+- **Net Worth:** Rs 7.30 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.4%
 
 ---
 
@@ -93,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -102,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Hasmukhbhai Somabhai Patel shows a mixed transparency record with perfect attendance but significant gaps in key areas. While maintaining excellent parliamentary attendance and moderate performance in MPLADS utilization and asset disclosure, the MP demonstrates poor accessibility to constituents and zero participation in legislative initiatives and committee work.
+Hasmukhbhai Somabhai Patel shows moderate transparency with a score of 56.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Hasmukhbhai Somabhai Patel
-
-### Overall Assessment
-Hasmukhbhai Somabhai Patel, a 46-year-old BJP MP representing Ahmedabad East constituency in Gujarat, presents a mixed transparency profile. While he demonstrates excellent parliamentary attendance and maintains a clean criminal record with no convictions, significant data gaps limit comprehensive assessment of his legislative effectiveness and development fund utilization.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is completely unavailable for MP Patel, with all fields showing "None" for entitlement, release, expenditure, and utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The automated system flags low confidence in MPLADS data, making it impossible to assess his development fund management. CAG audit context reveals systemic issues in Gujarat including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper documentation.
-
-### Financial Transparency
-MP Patel's current declared assets total Rs 1.92 crore with a net worth of Rs 1.79 crore. However, previous asset data is unavailable, preventing analysis of wealth growth patterns over his tenure. His monthly compensation is Rs 2.45 lakh. The absence of comparative asset data limits assessment of potential conflicts of interest or unexplained wealth accumulation, earning a 'B' grade for asset transparency.
-
-### Legal & Criminal Standing
-Patel faces 4 pending criminal cases with no serious charges, convictions, or disposed cases. Notably, three cases (11822004220561/2022, 11822004220560/2022, 11822004220566/2022) lack detailed descriptions, and no section information is provided for any case. While the absence of convictions is positive, the pending cases require monitoring. The criminal record assessment receives a 'B' grade.
-
-### Parliamentary Performance
-MP Patel demonstrates strong parliamentary attendance at 100%, significantly above average. He has asked 26 questions and participated in 3 debates, showing moderate engagement with legislative processes. However, he has introduced 0 private bills, indicating limited initiative in proposing new legislation. Committee participation data is unavailable, preventing full assessment of his legislative contribution. Parliamentary performance receives a 'C' grade due to mixed engagement levels.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows neutral sentiment across 10 articles with no positive or negative coverage identified. This suggests limited public visibility or impact. No committee data is available, which typically indicates reduced accessibility for stakeholder engagement. Social media presence and public accessibility mechanisms are not documented, resulting in a 'D' grade for accessibility.
-
-### Data Quality & Caveats
-Multiple significant data limitations affect this assessment:
-- Complete absence of MPLADS data raises transparency concerns
-- No committee membership information available
-- Missing previous asset declarations prevent growth analysis
-- Criminal case details lack descriptive information
-- Legislative effectiveness data has low confidence ratings
-- No social media or public engagement metrics available
-
-The evidence grading system flags these limitations with warning levels for MPLADS data and information notices for committee and legislative data gaps.
-
-### Key Takeaway
-While MP Patel maintains perfect parliamentary attendance and a clean conviction record, substantial data gaps—particularly in development fund utilization and committee participation—significantly limit transparency assessment. The absence of MPLADS data and previous asset information represents critical transparency deficits that prevent comprehensive evaluation of his constituency development work and financial integrity. Voters and stakeholders require access to complete fund utilization data and detailed criminal case information to make informed judgments about his performance and accountability.
+No criminal cases declared. Declared assets: Rs 86,470,298. MPLADS utilization: 10.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
 
 ---
 
@@ -178,7 +139,7 @@ While MP Patel maintains perfect parliamentary attendance and a clean conviction
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Hasmukhbhai Somabhai Patel's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -276,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

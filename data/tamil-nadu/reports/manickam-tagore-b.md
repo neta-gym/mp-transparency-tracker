@@ -3,32 +3,34 @@
 **Constituency:** Virudhunagar, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 64.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 39.2 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.17 Crore
+- **Liabilities:** Rs 87.98 Lakh
+- **Net Worth:** Rs 5.29 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 7
+- **Utilization Rate:** 49.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Manickam Tagore B shows strong performance in parliamentary attendance and participation, demonstrating commitment to his legislative duties. However, significant transparency gaps exist in committee engagement, accessibility to constituents, and legislative contributions, while MPLADS and asset disclosure performance remains moderate.
+Manickam Tagore B shows moderate transparency with a score of 64.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Manickam Tagore B
-
-### Overall Assessment
-Manickam Tagore B, the Indian National Congress MP representing Virudhunagar constituency in Tamil Nadu, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating commendable legislative engagement with 100% attendance, the absence of critical financial and developmental data severely limits comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for this MP, including entitled amounts, releases, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Tamil Nadu revealing systemic issues in fund management. The audit identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS transparency data, it is impossible to assess whether Tagore's constituency projects face similar challenges.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents any assessment of potential conflicts of interest or unusual wealth accumulation patterns. The MP receives a total monthly compensation of Rs 2,45,000, which represents the standard parliamentary remuneration package.
-
-### Legal & Criminal Standing
-Manickam Tagore B maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating, indicating potential source unavailability issues that may affect accuracy.
-
-### Parliamentary Performance
-The MP demonstrates exemplary parliamentary engagement with perfect 100% attendance, significantly above national averages. His legislative activity includes asking 56 questions and participating in 18 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversy. This neutral media profile may indicate either effective non-partisan representation or insufficient public engagement. The accessibility evidence grade is rated 'D', the lowest category, highlighting significant gaps in public engagement metrics and transparency indicators.
-
-### Data Quality & Caveats
-Multiple automated flags indicate substantial data quality concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data is entirely missing with low confidence indicators
-- No committee assignment data is available, possibly due to inaccessible Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-The overall evidence grades (Parliament: 'C', Accessibility: 'D') suggest moderate to poor data reliability, significantly limiting the robustness of this transparency assessment.
-
-### Key Takeaway
-While Manickam Tagore B maintains exemplary parliamentary attendance and a clean legal record, the transparency assessment is severely hampered by missing critical data across financial disclosures, development fund utilization, and public engagement metrics. The absence of MPLADS data is particularly concerning given documented systemic issues in Tamil Nadu's fund management. Voters in Virudhunagar constituency lack essential information needed to evaluate their representative's financial transparency and developmental effectiveness, highlighting the urgent need for improved data disclosure mechanisms in Indian parliamentary democracy.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 61,719,802. MPLADS utilization: 49.0%. Parliament attendance: 100.0%. Questions asked: 56. Debates participated: 18.
 
 ---
 
@@ -169,7 +138,7 @@ While Manickam Tagore B maintains exemplary parliamentary attendance and a clean
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manickam Tagore B's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 49.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

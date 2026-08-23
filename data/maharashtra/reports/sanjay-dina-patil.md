@@ -3,23 +3,25 @@
 **Constituency:** Mumbai North East, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** 8th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 54.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.44 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 10.44 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Sanjay Dina Patil demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in legislative participation and committee involvement. His complete absence from committee work and legislative activities, combined with very poor accessibility scores, substantially undermines his overall transparency despite maintaining clean criminal records.
+Sanjay Dina Patil shows moderate transparency with a score of 54.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sanjay Dina Patil
-
-### Overall Assessment
-Sanjay Dina Patil, representing Mumbai North East constituency in Maharashtra under the Shiv Sena (Uddhav Balasaheb Thackrey) party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance stands at a solid 80%, substantial missing information across financial and developmental indicators raises concerns about overall accountability assessment.
-
-### Fund Utilization & Development
-Complete MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given the CAG audit findings for Maharashtra revealing systemic issues with fund management. The 2010 CAG report highlighted that Rs 1,558 crore remained unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Patil's constituency, it's impossible to evaluate his performance against these broader governance challenges.
-
-### Financial Transparency
-Asset disclosure information is entirely missing from available records, creating a significant transparency gap. No data is available regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The only available financial data point is his monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Records indicate zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat: the data source confidence is marked as low, suggesting potential gaps in criminal record verification processes. This limitation requires careful interpretation of what appears to be an unblemished legal standing.
-
-### Parliamentary Performance
-Patil demonstrates moderate engagement in parliamentary proceedings with 80% attendance, exceeding the average attendance rates typically seen in the Lok Sabha. His legislative activity shows reasonable participation with 64 questions raised and 8 debate contributions, indicating active engagement in parliamentary discussions. However, he has not introduced any private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available, which limits assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified over the assessment period. All articles maintain neutral sentiment with no positive or negative coverage detected, suggesting either low media visibility or carefully managed public communications. This neutral profile, while avoiding controversy, may also indicate limited proactive public engagement or policy advocacy. The evidence grade for accessibility is marked as 'D', indicating poor data availability regarding public outreach and constituent services.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to poor data quality across multiple domains. Criminal record data carries low confidence ratings, asset information is completely unavailable, and MPLADS utilization data is missing entirely. Committee membership information is absent, potentially due to unavailable Sansad profile data. The parliamentary performance grade of 'C' and accessibility grade of 'D' reflect these data limitations. These gaps significantly constrain the ability to provide a comprehensive transparency assessment and suggest systemic issues with information disclosure or data collection processes.
-
-### Key Takeaway
-While Sanjay Dina Patil maintains reasonable parliamentary attendance and shows no recorded criminal issues, the extensive data gaps across financial disclosures, development fund utilization, and public engagement create substantial transparency concerns. The absence of asset information and MPLADS data, combined with limited media visibility, suggests either inadequate disclosure practices or systemic data collection failures. Without addressing these information gaps, constituents and oversight bodies cannot effectively evaluate his performance as their elected representative, undermining democratic accountability principles.
+No criminal cases declared. Declared assets: Rs 1,043,603. MPLADS utilization: 1.1%. Parliament attendance: 80.0%. Questions asked: 64. Debates participated: 8. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Sanjay Dina Patil maintains reasonable parliamentary attendance and shows 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjay Dina Patil's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

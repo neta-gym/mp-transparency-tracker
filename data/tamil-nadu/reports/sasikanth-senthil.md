@@ -3,23 +3,25 @@
 **Constituency:** Tiruvallur, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 59.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 28.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.21 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.21 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 35.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,34 +94,11 @@
 
 ## Qualitative Assessment
 
-Sasikanth Senthil demonstrates mixed transparency with strong performance in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and multiple validation flags suggest incomplete information, making this assessment preliminary.
+Sasikanth Senthil shows moderate transparency with a score of 59.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sasikanth Senthil
-### Overall Assessment
-Sasikanth Senthil, Congress MP from Tiruvallur, Tamil Nadu, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While his legislative participation shows commitment with 95% attendance, the absence of critical financial and asset information severely limits comprehensive evaluation of his performance and transparency.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given CAG audit findings revealing systemic issues in Tamil Nadu's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without Senthil's specific MPLADS data, it's impossible to assess his constituency development performance against these broader systemic concerns.
-
-### Financial Transparency
-Asset declarations show complete data unavailability, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, preventing any assessment of financial growth patterns or potential conflicts of interest. The monthly compensation of Rs 2,45,000 is documented, but without baseline asset information, comprehensive financial transparency evaluation is impossible.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), presenting a clean legal profile. However, data quality warnings indicate "low confidence in criminal data" with potentially unavailable sources, suggesting this clean record should be interpreted cautiously pending verification from more reliable sources.
-
-### Parliamentary Performance
-Senthil demonstrates strong legislative engagement with 95% attendance, well above typical parliamentary averages. His active participation includes 19 questions raised and 3 debate contributions, indicating consistent engagement with parliamentary proceedings. However, he has introduced zero private member bills, suggesting limited proactive legislative initiative. The absence of committee assignment data prevents assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative pieces), suggesting limited public visibility or controversy. This neutral profile may indicate either effective non-partisan representation or insufficient public engagement to generate substantive coverage. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and constituent engagement mechanisms.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability issues. Criminal record confidence is low due to potentially unavailable sources. Asset data shows low confidence ratings, while MPLADS information is entirely absent. Committee data is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These gaps substantially limit the reliability of this assessment and highlight systemic transparency challenges in Indian parliamentary data systems.
-
-### Key Takeaway
-While Senthil maintains excellent parliamentary attendance and a clean legal record, critical data gaps in financial assets and MPLADS utilization prevent comprehensive transparency evaluation. His neutral media profile and strong legislative participation suggest steady, non-controversial representation, but the absence of key accountability metrics raises concerns about overall transparency standards. The data quality issues reflect broader systemic challenges in Indian political transparency infrastructure rather than necessarily indicating deliberate opacity by the MP.
+No criminal cases declared. Declared assets: Rs 22,107,297. MPLADS utilization: 35.0%. Parliament attendance: 95.0%. Questions asked: 19. Debates participated: 3.
 
 ---
 
@@ -161,7 +138,7 @@ While Senthil maintains excellent parliamentary attendance and a clean legal rec
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -240,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sasikanth Senthil's MPLADS account: Released: Rs 17, Expended: Rs 6, Utilization: 35.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -257,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

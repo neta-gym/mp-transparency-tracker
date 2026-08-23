@@ -14,7 +14,7 @@
     "education": "Graduate",
     "profession": null,
     "age": 62,
-    "photo_url": null
+    "photo_url": "/mp-photos/4944.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Uluberia",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 7200,
       "slug": "sajda-ahmed",
       "house": "lok_sabha",
       "sansad_member_id": 4944,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": null,
+      "education": "Graduate",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 62,
+      "photo_url": "/mp-photos/4944.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,68 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": []
+      "confidence": 0.75,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:56.175940Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        }
+      ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "total_assets": 44042025.0,
+      "liabilities": 0.0,
+      "net_worth": 44042025.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:56.175951Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 36.0,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 6.95,
+      "expended": 3.57,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:37:56.253443Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:37:41.768985Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:37:41.766253Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:53:05.610046Z",
+          "notes": "Official eSAKSHI REST API — Works: 180 recommended, 129 sanctioned, 52 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 180,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 24.285714285714285
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -129,12 +131,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:38:09.448084Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +156,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463948Z",
+          "fetched_at": "2026-08-23T16:44:25.021681Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +172,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463966Z",
+          "fetched_at": "2026-08-23T16:44:25.021693Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +188,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463974Z",
+          "fetched_at": "2026-08-23T16:44:25.021699Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +204,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463982Z",
+          "fetched_at": "2026-08-23T16:44:25.021706Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +220,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463990Z",
+          "fetched_at": "2026-08-23T16:44:25.021723Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +236,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.463997Z",
+          "fetched_at": "2026-08-23T16:44:25.021728Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +252,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:38:09.464004Z",
+          "fetched_at": "2026-08-23T16:44:25.021733Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +407,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.49,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,74 +428,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Sajda Ahmed\n\n### Overall Assessment\n\nSajda Ahmed, representing Uluberia constituency in West Bengal as an All India Trinamool Congress MP, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and demonstrating moderate parliamentary engagement, critical information regarding assets, MPLADS fund utilization, and committee participation remains unavailable, hindering full assessment of her effectiveness as a public representative.\n\n### Fund Utilization & Development\n\nMPLADS fund utilization data for Sajda Ahmed is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit findings for West Bengal highlighting systemic issues in fund management. The CAG identified Rs 1,558 crore in idle funds across district authorities and found that 34% of sampled utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, suggesting broader challenges in the state's development fund ecosystem that may impact her constituency's progress.\n\n### Financial Transparency\n\nFinancial transparency is severely compromised due to complete absence of asset declaration data. No information is available regarding Sajda Ahmed's current total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are fundamental to assessing potential conflicts of interest and ensuring public accountability. Her monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point.\n\n### Legal & Criminal Standing\n\nSajda Ahmed maintains an exemplary criminal record with zero cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. This clean legal standing enhances her credibility as a public representative, though data confidence is flagged as low, suggesting potential source reliability issues that warrant cautious interpretation.\n\n### Parliamentary Performance\n\nParliamentary engagement shows moderate levels with 55% attendance, which falls below ideal standards for consistent representation. Her legislative activity includes 25 questions raised and participation in 2 debates, demonstrating some engagement with parliamentary processes. However, she has not introduced any private bills, indicating limited initiative in legislative innovation. The absence of committee participation data further limits assessment of her broader parliamentary contributions beyond floor activities.\n\n### Public Engagement & Accessibility\n\nPublic engagement analysis reveals neutral media coverage across 10 articles with no positive or negative sentiment detected, suggesting either limited public visibility or balanced coverage. The accessibility grade of 'D' indicates significant challenges in public outreach and communication. Social media presence and direct constituent engagement metrics are not available, limiting evaluation of her grassroots connectivity and responsiveness to public concerns.\n\n### Data Quality & Caveats\n\nMultiple data quality issues significantly impact this assessment. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence levels, while MPLADS data reliability is questioned. No committee participation data was found, possibly indicating unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. Evidence grades reflect these limitations with 'C' for parliament data and 'D' for accessibility information. These gaps suggest either incomplete data collection systems or limited digital transparency infrastructure.\n\n### Key Takeaway\n\nSajda Ahmed's transparency profile is characterized by significant information gaps that prevent comprehensive evaluation of her effectiveness as a public representative. While her clean criminal record and moderate parliamentary participation are positive indicators, the absence of crucial data on assets, MPLADS utilization, and committee work raises transparency concerns. The 55% attendance rate and limited legislative initiatives suggest room for improvement in parliamentary engagement. Given West Bengal's documented challenges with fund utilization and the lack of her MPLADS data, constituents may face difficulties in assessing developmental progress in Uluberia constituency. Enhanced data disclosure and improved parliamentary participation would strengthen both transparency and representative effectiveness.",
-  "validated_at": "2026-05-21T14:38:30.839485Z",
-  "assets": {
-    "total_assets": 44042025.0,
-    "liabilities": 0.0,
-    "net_worth": 44042025.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.95,
-    "expended": 3.57,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:53:05.610046Z",
-        "notes": "Official eSAKSHI REST API — Works: 180 recommended, 129 sanctioned, 52 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 180,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 24.285714285714285
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 44,042,025. MPLADS utilization: 24.3%. Parliament attendance: 55.0%. Questions asked: 25. Debates participated: 2.",
+  "validated_at": "2026-08-23T16:44:25.022654Z"
 }

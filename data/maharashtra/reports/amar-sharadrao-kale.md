@@ -3,23 +3,25 @@
 **Constituency:** Wardha, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 56.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 14.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.62 Crore
+- **Liabilities:** Rs 2.95 Crore
+- **Net Worth:** Rs 7.67 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 61% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,49 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Amar Sharadrao Kale demonstrates mixed transparency performance with notable strengths in criminal record disclosure and attendance, but significant weaknesses in committee participation, accessibility, and legislative transparency. The moderate MPLADS and assets disclosure scores, combined with zero committee and legislative scores, suggest inconsistent engagement with transparency mechanisms.
+Amar Sharadrao Kale shows moderate transparency with a score of 56.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Amar Sharadrao Kale
-
-### Overall Assessment
-Amar Sharadrao Kale, representing Wardha constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, critical information about assets, MPLADS utilization, and committee participation is unavailable, hindering full assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable for MP Kale, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap, as MPLADS spending is a key indicator of an MP's development work in their constituency. The absence of this data prevents assessment of his contribution to Wardha's infrastructure and development projects.
-
-CAG audit findings reveal systemic issues in Maharashtra's fund management that may affect Wardha district, including Rs 1,558 crore in idle funds across state authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about project implementation quality.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on current assets, previous assets, growth ratios, or net worth. This represents a critical transparency deficit, as asset disclosure is fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The monthly compensation is reported as Rs 2.45 lakh, consistent with standard MP remuneration.
-
-### Legal & Criminal Standing
-MP Kale maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the clean record is positive, the data quality concerns require noting.
-
-### Parliamentary Performance
-Kale demonstrates moderate parliamentary engagement with 85% attendance, which is above average for many MPs. He has asked 41 questions in Parliament, showing active participation in parliamentary questioning mechanisms. However, his debate participation is limited to only 2 instances, and he has introduced zero private member bills, indicating minimal legislative initiative beyond standard parliamentary duties.
-
-The absence of committee data is particularly concerning, as committee work represents substantial parliamentary contribution. Without information on committee memberships or participation, a significant portion of his parliamentary effectiveness remains unmeasured.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 9 articles about MP Kale, all classified as neutral with no positive or negative coverage identified. This suggests limited media visibility or controversial positions. The evidence grade for accessibility is 'D', indicating poor transparency in public communication and constituent engagement mechanisms.
-
-The neutral media sentiment, while avoiding negative coverage, may also indicate limited proactive public engagement or newsworthy developmental initiatives in his constituency.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to poor data availability across multiple domains:
-
-- **Criminal records**: Low confidence warning suggests incomplete verification
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No utilization data available despite this being public information
-- **Committee work**: No data on parliamentary committee participation
-- **Legislative effectiveness**: Low confidence in available data
-
-Evidence grades of 'C' for parliament and 'D' for accessibility reflect these substantial data gaps. The automated flags indicate systemic issues with data availability rather than intentional non-disclosure.
-
-### Key Takeaway
-Amar Sharadrao Kale presents a transparency profile hampered by significant data unavailability across critical domains including assets, MPLADS utilization, and committee participation. While maintaining clean legal standing and reasonable parliamentary attendance (85%), the absence of key transparency metrics - particularly financial disclosures and development fund utilization - prevents comprehensive evaluation of his effectiveness as Wardha's representative. The neutral media coverage and poor accessibility grade suggest limited public engagement, raising questions about constituent communication and accountability mechanisms.
+No criminal cases declared. Declared assets: Rs 106,175,044. MPLADS utilization: 17.9%. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 2.
 
 ---
 
@@ -176,7 +138,7 @@ Amar Sharadrao Kale presents a transparency profile hampered by significant data
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -255,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amar Sharadrao Kale's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -272,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Sambalpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 39.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 3.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.92 Crore
+- **Liabilities:** Rs 53.38 Lakh
+- **Net Worth:** Rs 6.39 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.4%
 
 ---
 
@@ -84,9 +87,7 @@ victory in the Assembly elections - The New Indian Express (The New Indian Expre
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,42 +97,11 @@ victory in the Assembly elections - The New Indian Express (The New Indian Expre
 
 ## Qualitative Assessment
 
-Dharmendra Pradhan shows a mixed transparency profile with moderate performance in basic disclosure areas like MPLADS utilization and asset declaration, and excellent criminal record transparency. However, significant concerns exist in committee participation, legislative activity, and public accessibility, indicating limited engagement in parliamentary processes and constituent communication.
+Dharmendra Pradhan has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Dharmendra Pradhan
-
-### Overall Assessment
-Dharmendra Pradhan, BJP MP from Sambalpur, Odisha, presents a transparency profile with significant data gaps that limit comprehensive evaluation. As a Minister, his role encompasses both legislative and executive responsibilities, which affects traditional parliamentary metrics. The available data shows a clean legal record but lacks critical information on assets, MPLADS utilization, and detailed parliamentary activity.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of constituency development fund management. This represents a critical transparency gap given the scheme's Rs 5 crore annual allocation per MP. CAG audit findings for Odisha reveal systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues raise questions about fund management oversight in Pradhan's constituency.
-
-### Financial Transparency
-Asset declaration data is completely missing, eliminating the possibility to assess financial transparency or wealth accumulation patterns during tenure. Monthly compensation is reported at Rs 2.45 lakh, consistent with standard MP remuneration. Without baseline or current asset information, no evaluation of financial probity can be conducted.
-
-### Legal & Criminal Standing
-Pradhan maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, convictions). However, data confidence is flagged as low, suggesting potential source reliability issues. The absence of criminal cases is positive but should be viewed cautiously given the data quality warnings.
-
-### Parliamentary Performance
-Parliamentary activity data is severely limited, showing zero recorded questions, debates, and private bills. Attendance percentage is unavailable. As a Minister, Pradhan's lower legislative metrics may reflect executive duties taking precedence over traditional parliamentary functions. The 'C' grade for parliamentary evidence and absence of committee information further limits performance assessment. His ministerial status suggests engagement through executive channels rather than legislative participation.
-
-### Public Engagement & Accessibility
-Public engagement assessment is constrained by a 'D' grade for accessibility evidence. News sentiment analysis covers 10 articles with neutral tone (0 positive, 0 negative, 10 neutral), suggesting minimal media controversies but also limited positive coverage of initiatives. Social media presence is noted as a data source but specific metrics are unavailable. The neutral media coverage indicates steady public profile without significant scandals or achievements generating strong reactions.
-
-### Data Quality & Caveats
-Multiple critical data quality warnings significantly impact this assessment:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information is entirely missing with low confidence ratings
-- MPLADS utilization data is completely absent
-- Parliamentary activity shows low confidence levels
-- Committee membership information is unavailable, suggesting Sansad profile accessibility issues
-
-The evidence grading system gives parliament activity a 'C' and accessibility a 'D', indicating substantial data collection challenges. These limitations prevent comprehensive transparency evaluation and suggest systemic issues with information availability or disclosure.
-
-### Key Takeaway
-Dharmendra Pradhan's transparency profile suffers from extensive data gaps that prevent meaningful assessment across most critical areas. While maintaining a clean legal record, the absence of asset declarations, MPLADS utilization data, and limited parliamentary activity information raises transparency concerns. His ministerial role may explain some legislative activity gaps, but doesn't excuse missing financial and development fund data. The systemic data quality issues highlight broader transparency challenges in Indian parliamentary oversight systems, making evidence-based evaluation of his constituency service and financial probity impossible with current information availability.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 69,219,190. MPLADS utilization: 4.4%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -171,7 +141,7 @@ Dharmendra Pradhan's transparency profile suffers from extensive data gaps that 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +220,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dharmendra Pradhan's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +239,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -61,7 +61,14 @@ export function getMPScoreHistory(
       }
     }
 
-    return snapshots;
+    // Multiple snapshots are often generated on the same day (pipeline
+    // reruns); keep only the latest snapshot per calendar date so trend
+    // charts show one point per day instead of duplicate ticks.
+    const byDate = new Map<string, ScoreSnapshot>();
+    for (const snap of snapshots) {
+      byDate.set(snap.date, snap);
+    }
+    return Array.from(byDate.values());
   } catch {
     return [];
   }

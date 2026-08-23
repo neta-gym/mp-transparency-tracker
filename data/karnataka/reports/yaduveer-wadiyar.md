@@ -3,23 +3,25 @@
 **Constituency:** Mysore, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 32
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 56.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 25.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.47 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 9.47 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Yaduveer Wadiyar demonstrates a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (80%), but significant weaknesses in committee participation (0%), legislative work (0%), and public accessibility (10%). The below-average overall score of 48.5/100 is primarily driven by poor performance in key governance areas including MPLADS utilization and citizen engagement.
+Yaduveer Wadiyar shows moderate transparency with a score of 56.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Yaduveer Wadiyar
-
-### Overall Assessment
-Yaduveer Wadiyar, BJP MP representing Mysore constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and reasonable parliamentary attendance (80%), critical financial and developmental data remains unavailable, hindering assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable for assessment, with all key metrics (entitled, released, expended, utilization percentage) marked as "None." This represents a significant transparency gap given MPs' Rs 5 crore annual MPLADS entitlement. The absence of this data prevents evaluation of constituency development priorities and fund management efficiency. Karnataka faces systemic MPLADS challenges, with CAG audits revealing Rs 1,558 crore in idle funds across district authorities and 18% of sampled works remaining incomplete or abandoned.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, with both current and previous asset values marked as "None," preventing calculation of wealth growth or net worth assessment. This complete absence of financial transparency data raises concerns about public accountability standards. The MP's monthly compensation totals Rs 2,45,000, but without asset disclosure, stakeholders cannot assess potential conflicts of interest or verify compliance with financial transparency requirements.
-
-### Legal & Criminal Standing
-Yaduveer Wadiyar maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data source carries a warning flag indicating "low confidence in criminal data" due to potential source unavailability, suggesting this clean record should be interpreted cautiously pending verification from reliable judicial databases.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 80% attendance, demonstrating reasonable commitment to legislative duties. The MP has raised 20 questions in Parliament and participated in 3 debates, indicating active engagement in parliamentary proceedings. However, zero private member bills introduced suggests limited legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics, though the absence of committee membership data (flagged as unavailable from Sansad profile) limits comprehensive evaluation of legislative contributions.
-
-### Public Engagement & Accessibility
-Public engagement assessment faces significant constraints with an accessibility evidence grade of 'D', indicating poor data quality. News sentiment analysis of 10 articles reveals mixed coverage: 8 neutral articles, 2 negative, and notably zero positive coverage. This neutral-to-negative media sentiment suggests limited positive public visibility or potential public relations challenges. The absence of robust accessibility metrics prevents evaluation of constituent outreach effectiveness.
-
-### Data Quality & Caveats
-Multiple warning flags compromise assessment reliability: criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS data is missing entirely. The absence of committee membership information due to unavailable Sansad profiles further limits legislative effectiveness evaluation. These data gaps are particularly concerning for a sitting MP, as transparency in these areas is fundamental to democratic accountability. Evidence grades range from 'C' for parliament activity to 'D' for accessibility, indicating below-average data reliability across key metrics.
-
-### Key Takeaway
-Yaduveer Wadiyar's transparency profile suffers from critical data unavailability across financial disclosures, development fund utilization, and public engagement metrics. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset declarations and MPLADS data represents significant transparency deficits. The MP requires substantial improvement in public data disclosure to meet basic accountability standards expected from elected representatives. Stakeholders should demand comprehensive financial and developmental reporting to enable proper evaluation of his constituency service effectiveness.
+No criminal cases declared. Declared assets: Rs 94,688,187. MPLADS utilization: 31.2%. Parliament attendance: 80.0%. Questions asked: 20. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Yaduveer Wadiyar's transparency profile suffers from critical data unavailabilit
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Yaduveer Wadiyar's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

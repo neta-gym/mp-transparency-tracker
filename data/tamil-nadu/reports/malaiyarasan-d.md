@@ -3,32 +3,34 @@
 **Constituency:** Kallakurichi, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 48
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 59.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 65.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 87.17 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 87.17 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 18
+- **Released:** Rs 18
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 12
+- **Utilization Rate:** 66.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Malaiyarasan D shows a mixed transparency profile with excellent attendance and clean criminal record, but significant gaps in legislative participation and committee involvement. The low data confidence (14%) and multiple validation flags suggest incomplete information availability, which limits the reliability of this assessment.
+Malaiyarasan D shows moderate transparency with a score of 59.3/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-## Executive Summary: Malaiyarasan D
-
-### Overall Assessment
-Malaiyarasan D, representing Kallakurichi constituency in Tamil Nadu as a Dravida Munnetra Kazhagam member, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While demonstrating strong parliamentary attendance (100%), the MP's profile suffers from unavailable or low-confidence data across multiple critical transparency indicators, limiting the ability to assess overall effectiveness and accountability.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is completely unavailable for Malaiyarasan D, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a significant transparency gap, particularly concerning given the CAG audit findings highlighting systemic issues in fund management across states. The audit identified Rs 1,558 crore lying idle in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess the MP's development impact in Kallakurichi constituency.
-
-### Financial Transparency
-Asset declaration data is entirely missing for both current and previous periods, making it impossible to evaluate financial transparency or track wealth accumulation patterns. The absence of asset information prevents assessment of potential conflicts of interest or compliance with disclosure requirements. This data gap significantly undermines transparency evaluation, as asset declarations are fundamental accountability measures for elected representatives.
-
-### Legal & Criminal Standing
-Malaiyarasan D maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, confidence in this criminal data is flagged as low due to potential source unavailability, suggesting these figures may not reflect complete information. While the reported clean record is positive, the data quality concerns limit the reliability of this assessment.
-
-### Parliamentary Performance
-The MP demonstrates exemplary attendance with a perfect 100% parliamentary participation rate, indicating strong commitment to legislative duties. Parliamentary engagement shows moderate activity with 26 questions raised and participation in 3 debates, though no private member bills were introduced. This performance suggests active constituency representation through questioning mechanisms, though limited legislative initiative beyond party lines. The MP receives a 'C' grade for parliamentary evidence quality.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited activity, with news coverage consisting of 10 neutral articles and no positive or negative coverage identified. The absence of varied media sentiment suggests either limited public visibility or minimal controversial positioning. Accessibility receives a 'D' evidence grade, indicating poor data availability for assessing constituent interaction and communication effectiveness. No committee memberships are recorded, potentially limiting policy influence beyond general parliamentary participation.
-
-### Data Quality & Caveats
-This assessment is significantly constrained by multiple data quality issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS data is missing entirely. Committee membership information is absent, possibly due to unavailable Sansad profiles, and legislative effectiveness data has low confidence ratings. These systematic data gaps prevent comprehensive transparency evaluation and suggest either incomplete record-keeping or limited public disclosure compliance.
-
-### Key Takeaway
-Malaiyarasan D presents a paradox of strong parliamentary attendance coupled with significant transparency data gaps. While the perfect attendance record demonstrates commitment to legislative responsibilities, the absence of asset declarations, MPLADS utilization data, and reliable criminal record information severely limits accountability assessment. The MP's profile highlights broader systemic issues in transparency data availability, making it difficult for constituents to evaluate their representative's overall effectiveness and integrity. Improved data disclosure and documentation would be essential for meaningful transparency evaluation.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 8,716,980. MPLADS utilization: 66.8%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Malaiyarasan D presents a paradox of strong parliamentary attendance coupled wit
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Malaiyarasan D's MPLADS account: Released: Rs 18, Expended: Rs 12, Utilization: 66.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

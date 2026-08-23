@@ -3,23 +3,25 @@
 **Constituency:** Erode, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 63.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 42.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.04 Crore
+- **Liabilities:** Rs 39.53 Lakh
+- **Net Worth:** Rs 9.65 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 51.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,57 +94,11 @@
 
 ## Qualitative Assessment
 
-K E Prakash demonstrates a mixed transparency profile with moderate scores in core areas but significant deficiencies in legislative engagement and public accessibility. While maintaining perfect criminal record transparency and strong attendance, the MP shows concerning gaps in committee participation and legislative activity that limit overall accountability.
+K E Prakash shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: K E Prakash
-
-### Overall Assessment
-
-K E Prakash, representing Erode constituency in Tamil Nadu as a Dravida Munnetra Kazhagam (DMK) member of the Lok Sabha, presents a mixed transparency profile with significant data limitations. While maintaining a clean legal record and strong parliamentary attendance, critical financial and developmental data remains unavailable, limiting comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for K E Prakash, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are entitled to ₹5 crore annually for constituency development.
-
-The absence of MPLADS data is particularly concerning in the context of CAG audit findings for Tamil Nadu, which revealed systemic issues including ₹1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific data on Prakash's fund utilization, it is impossible to assess whether these state-wide issues affect his constituency development efforts.
-
-### Financial Transparency
-
-Asset disclosure presents a complete transparency failure, with no data available on current assets, previous declarations, growth ratios, or net worth. This absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest during his tenure. The system shows monthly compensation of ₹245,000, representing standard parliamentary remuneration, but lacks the crucial asset transparency required for public accountability.
-
-### Legal & Criminal Standing
-
-K E Prakash maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. This represents positive transparency in legal standing, though data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-
-Parliamentary attendance stands at a commendable 90%, demonstrating strong commitment to legislative duties. His legislative engagement includes 18 questions raised and participation in 5 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing independent legislation.
-
-The absence of committee data represents another transparency gap, as committee work forms a crucial component of parliamentary effectiveness. Without this information, it's difficult to assess his contribution to detailed policy work and specialized legislative areas.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 positive, 0 negative), suggesting limited public controversy but also potentially limited visibility in public discourse. The mixed/neutral coverage pattern may indicate either effective, non-controversial representation or insufficient public engagement.
-
-Social media and accessibility data receive a 'D' grade, indicating poor digital engagement and public accessibility. In an era where constituent communication increasingly relies on digital platforms, this represents a significant shortcoming in public representation.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight serious data quality issues affecting this assessment:
-
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information shows low confidence, rendering financial transparency assessment impossible
-- MPLADS data is completely unavailable, preventing development work evaluation
-- Committee participation data is missing, limiting parliamentary effectiveness assessment
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades are concerning, with parliamentary data receiving only a 'C' grade and accessibility receiving a 'D' grade, indicating substantial gaps in transparent governance metrics.
-
-### Key Takeaway
-
-K E Prakash's transparency profile is severely hampered by critical data unavailability across key governance areas. While maintaining clean legal standing and strong parliamentary attendance, the absence of asset declarations, MPLADS utilization data, and committee information creates significant transparency deficits. The 90% attendance rate and active question-raising demonstrate legislative engagement, but poor accessibility ratings and limited development fund transparency raise concerns about overall accountability. Immediate priority should be ensuring comprehensive disclosure across all mandatory transparency parameters to enable proper public assessment of his representation effectiveness.
+No criminal cases declared. Declared assets: Rs 100,426,890. MPLADS utilization: 51.4%. Parliament attendance: 90.0%. Questions asked: 18. Debates participated: 5.
 
 ---
 
@@ -184,7 +138,7 @@ K E Prakash's transparency profile is severely hampered by critical data unavail
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -263,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for K E Prakash's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -280,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Beed, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 13.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 28.93 Crore
+- **Liabilities:** Rs 7.75 Crore
+- **Net Worth:** Rs 21.18 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 16.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Bajrang Manohar Sonwane shows a mixed transparency profile with concerning gaps in key areas. While he maintains clean criminal records and good parliamentary attendance/participation, he scores poorly in committee involvement, accessibility to constituents, and legislative contributions. The low data confidence of 14% with multiple validation flags suggests significant information gaps that limit a comprehensive assessment.
+Bajrang Manohar Sonwane shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bajrang Manohar Sonwane
-
-### Overall Assessment
-Bajrang Manohar Sonwane, representing Beed constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps. While maintaining clean criminal records and adequate parliamentary attendance (85%), substantial information gaps in financial disclosures and development fund utilization limit comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable, with entitled, released, expended amounts, and utilization percentages all unreported. This represents a critical transparency gap for assessing constituency development impact. The Maharashtra context reveals concerning systemic issues, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project execution effectiveness in the region.
-
-### Financial Transparency
-Asset declaration data is entirely missing, including current total assets, previous holdings, growth ratios, and net worth calculations. This complete absence of financial transparency information prevents assessment of wealth accumulation patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2,45,000, representing the only available financial data point.
-
-### Legal & Criminal Standing
-Sonwane maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, indicating potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 85% attendance, demonstrating reasonable commitment to legislative duties. Question-asking activity is notably active with 64 questions raised, indicating constituency issue advocacy. Debate participation is limited at 6 interventions, and no private member bills were introduced. Committee participation data is unavailable, representing a gap in understanding specialized legislative contributions.
-
-### Public Engagement & Accessibility
-Media presence reflects neutral public engagement with 10 news articles identified, all categorized as neutral coverage with no positive or negative sentiment detected. This suggests limited media visibility or controversial positioning. Social media and direct public engagement metrics are not available, limiting assessment of constituent accessibility and communication effectiveness.
-
-### Data Quality & Caveats
-Multiple critical data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence warnings due to source unavailability. Asset information shows low confidence ratings, while MPLADS utilization data is entirely missing with low confidence flags. Committee participation information is unavailable due to potential Sansad profile gaps. Legislative effectiveness data also carries low confidence ratings. Evidence grades are modest: parliament performance rated 'C' and accessibility rated 'D', indicating substantial room for transparency improvements.
-
-### Key Takeaway
-While Bajrang Manohar Sonwane maintains clean criminal records and reasonable parliamentary attendance, significant data gaps in financial disclosures and development fund utilization severely limit transparency assessment. The absence of asset declarations and MPLADS data, combined with systemic fund management issues identified in Maharashtra by CAG audits, highlight the need for improved financial accountability and development program transparency to enable meaningful public oversight of his representational effectiveness.
+No criminal cases declared. Declared assets: Rs 289,278,459. MPLADS utilization: 16.9%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 6.
 
 ---
 
@@ -162,7 +138,7 @@ While Bajrang Manohar Sonwane maintains clean criminal records and reasonable pa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bajrang Manohar Sonwane's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 16.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

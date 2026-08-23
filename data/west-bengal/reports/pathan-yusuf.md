@@ -3,23 +3,25 @@
 **Constituency:** Baharampur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 47.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 2.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 45.63 Crore
+- **Liabilities:** Rs 11.97 Crore
+- **Net Worth:** Rs 33.66 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Pathan Yusuf shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, the MP demonstrates poor engagement in parliamentary processes with zero committee participation and legislative activity, along with very limited public accessibility.
+Pathan Yusuf has a below-average transparency score of 47.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Pathan Yusuf
-
-### Overall Assessment
-Pathan Yusuf, representing Baharampur constituency in West Bengal as an All India Trinamool Congress MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with below-average attendance and limited legislative activity. Critical financial and developmental data remains unavailable, hampering comprehensive assessment.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Pathan Yusuf, including entitlement, release, expenditure, or utilization rates. This absence of information prevents evaluation of his constituency development efforts. However, broader CAG audit findings for West Bengal reveal systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential oversight challenges that may affect constituency development programs.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap. The only available financial information is his monthly compensation of Rs 2,45,000. Without asset data, it's impossible to assess financial growth, potential conflicts of interest, or compliance with declaration requirements.
-
-### Legal & Criminal Standing
-Pathan Yusuf maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment may be incomplete.
-
-### Parliamentary Performance
-Parliamentary engagement shows concerning patterns with 55% attendance, falling below optimal participation levels. Legislative activity is minimal with only 7 questions raised, 2 debate participations, and zero private member bills introduced. No committee assignment data is available, potentially indicating limited involvement in parliamentary committee work. This activity level suggests reduced legislative effectiveness and constituent representation in parliamentary proceedings.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - zero positive or negative coverage, indicating limited public visibility. The absence of strong media engagement or controversial coverage suggests either low public profile or effective reputation management. However, accessibility is rated 'D', indicating poor public outreach mechanisms. No social media engagement metrics or public interaction data is available to assess constituent communication effectiveness.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues:
-- **Criminal records**: Low confidence warning due to potentially unavailable sources
-- **Asset declarations**: Complete absence of financial data
-- **MPLADS**: No utilization data available
-- **Committee work**: Sansad profile potentially unavailable
-- **Legislative effectiveness**: Low confidence in available data
-- **Evidence grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-These gaps substantially limit the reliability of this transparency assessment and suggest systemic data availability issues.
-
-### Key Takeaway
-Pathan Yusuf's transparency profile is characterized by significant data voids rather than clear performance indicators. While maintaining a clean criminal record and receiving neutral media coverage, critical gaps in asset declarations, MPLADS utilization, and comprehensive parliamentary activity data prevent meaningful transparency evaluation. His 55% attendance and minimal legislative engagement raise questions about parliamentary effectiveness. The constituency would benefit from improved data disclosure and enhanced parliamentary participation to ensure adequate representation and development oversight.
+No criminal cases declared. Declared assets: Rs 456,304,016. MPLADS utilization: 2.9%. Parliament attendance: 55.0%. Questions asked: 7. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Pathan Yusuf's transparency profile is characterized by significant data voids r
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pathan Yusuf's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

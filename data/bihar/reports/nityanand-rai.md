@@ -3,32 +3,34 @@
 **Constituency:** Ujiarpur, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 43.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 4.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 17.95 Crore
+- **Liabilities:** Rs 14.00 Lakh
+- **Net Worth:** Rs 17.81 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 6.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,41 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Nityanand Rai shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record (100%), he performs poorly in legislative work (0%) and committee participation (0%), and has very low accessibility scores (10%). The overall score of 45.5% reflects below-average transparency with particular weaknesses in parliamentary engagement and public accessibility.
+Nityanand Rai has a below-average transparency score of 43.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Nityanand Rai
-
-### Overall Assessment
-Nityanand Rai, BJP MP from Ujiarpur constituency in Bihar, presents a transparency profile with significant data gaps across most key performance indicators. While maintaining a clean criminal record, the absence of comprehensive data on assets, parliamentary activity, and MPLADS utilization severely limits the ability to assess his overall effectiveness and transparency as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is not available for MP Rai, making it impossible to assess his development track record through this crucial scheme. However, CAG audit findings from Bihar reveal systemic issues that may affect his constituency: Rs 1,558 crore in idle funds across state districts, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings raise concerns about the broader development ecosystem in which the MP operates.
-
-### Financial Transparency
-Asset declaration data is entirely missing from available sources, preventing any assessment of the MP's financial transparency or potential conflicts of interest. The absence of both current and previous asset values means no growth analysis is possible. Monthly compensation stands at Rs 2.45 lakh, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-MP Rai maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low due to potential source unavailability, suggesting this assessment should be treated with caution.
-
-### Parliamentary Performance
-Parliamentary activity data shows significant gaps, with attendance percentage and participation metrics (questions raised, debates participated, private bills introduced) all marked as unavailable. The MP holds ministerial position, which typically results in lower house attendance due to executive responsibilities. Without baseline data, it's impossible to evaluate his legislative effectiveness or constituency representation in Parliament.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals 10 articles with neutral sentiment (no positive or negative articles identified), suggesting limited media visibility or engagement with public discourse. The evidence grade for accessibility is rated 'D', indicating poor data availability regarding public outreach efforts, social media presence, or constituency engagement initiatives.
-
-### Data Quality & Caveats
-Multiple automated flags indicate serious data quality issues:
-- **Low confidence warnings** across criminal records, assets, MPLADS, and parliamentary activity
-- **Missing committee data** due to potentially unavailable Sansad profile
-- **Parliament activity evidence grade: C**
-- **Accessibility evidence grade: D**
-
-These limitations significantly compromise the reliability of this transparency assessment and suggest either poor record-keeping, limited data sharing, or incomplete source compilation.
-
-### Key Takeaway
-While MP Nityanand Rai appears to maintain a clean criminal record, the extensive data gaps across asset declarations, parliamentary performance, and development fund utilization prevent a comprehensive transparency evaluation. The systemic issues identified in Bihar's development fund management by CAG audits underscore the need for improved financial oversight in his operational context. Voters and stakeholders should seek more complete disclosure from the MP's office to enable proper accountability assessment.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 179,527,017. MPLADS utilization: 6.1%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -169,7 +140,7 @@ While MP Nityanand Rai appears to maintain a clean criminal record, the extensiv
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Nityanand Rai's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 6.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

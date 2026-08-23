@@ -3,23 +3,25 @@
 **Constituency:** Hajipur, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 42
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 51.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 21.7 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.69 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.69 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 27.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Chirag Paswan's transparency profile shows a mixed performance with significant areas for improvement. While he maintains a clean criminal record, his transparency is severely hampered by poor accessibility to constituents, zero committee participation, and lack of legislative contributions. The moderate MPLADS and assets disclosure scores are offset by concerning gaps in parliamentary engagement.
+Chirag Paswan shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Chirag Paswan
-
-### Overall Assessment
-Chirag Paswan, representing Hajipur constituency in Bihar under the Lok Jan Shakti Party (Ram Vilas), presents a transparency profile with significant data gaps that limit comprehensive evaluation. As a Lok Sabha member with ministerial duties, his profile shows clean criminal records but lacks substantive data across multiple transparency metrics. The available information suggests minimal documented parliamentary engagement, though this may be influenced by his executive responsibilities.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for assessment, representing a critical transparency gap. The CAG audit context for Bihar reveals systemic concerns that may affect constituency development: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings highlight potential challenges in development fund management that could impact Hajipur constituency, though specific local data is not available.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, preventing assessment of financial transparency. Previous asset values, growth ratios, and net worth information are all missing from available sources. This represents a significant transparency deficit, as asset declarations are fundamental to evaluating potential conflicts of interest and financial accountability. The monthly compensation of ₹2,45,000 is the only available financial figure.
-
-### Legal & Criminal Standing
-Chirag Paswan maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings due to potential source limitations, warranting cautious interpretation despite the favorable indication.
-
-### Parliamentary Performance
-Parliamentary activity data shows minimal recorded engagement with zero questions asked, zero debate participations, and zero private member bills introduced. Attendance percentage is unavailable. While these metrics appear concerning, it's important to note that as a minister, Chirag Paswan's lower parliamentary visibility may be attributed to executive duties that often require ministers to focus on administrative responsibilities rather than floor participation. No committee membership data is available due to potentially unavailable Sansad profile information.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles identified, all categorized as neutral with no positive or negative sentiment detected. This suggests limited media visibility or controversy. The evidence grade for accessibility stands at 'D', indicating poor data availability for assessing public engagement mechanisms. Social media presence and citizen interaction data are not comprehensively captured in available sources.
-
-### Data Quality & Caveats
-Multiple automated warnings indicate significant data quality concerns:
-- Low confidence in criminal record data due to potential source unavailability
-- Low confidence in asset declarations and MPLADS utilization data
-- Low confidence in parliamentary activity metrics
-- Absence of committee participation data due to potentially unavailable Sansad profile
-- Limited legislative effectiveness data
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility reflect substantial data gaps. Sources include PRS, social media, and news outlets, but coverage appears incomplete across multiple transparency dimensions.
-
-### Key Takeaway
-Chirag Paswan's transparency profile is significantly hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and detailed parliamentary performance. While maintaining a clean criminal record, the absence of comprehensive financial and developmental fund data prevents thorough accountability assessment. His ministerial role may explain limited parliamentary floor activity, but the overall data gaps represent a substantial transparency challenge that requires improved disclosure mechanisms for meaningful public accountability evaluation.
+No criminal cases declared. Declared assets: Rs 26,875,873. MPLADS utilization: 27.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Chirag Paswan's transparency profile is significantly hampered by extensive data
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chirag Paswan's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 27.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

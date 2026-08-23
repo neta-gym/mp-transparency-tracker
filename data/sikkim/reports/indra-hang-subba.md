@@ -6,23 +6,23 @@
 **Age:** 35
 **Education:** Doctorate
 **Profession:** Politician
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 63.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 58.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 47.09 Lakh
-- **Immovable Assets:** Rs 1.01 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 1.48 Crore
 - **Liabilities:** Rs 50.00 Lakh
 - **Net Worth:** Rs 98.46 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 12% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 62.2%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Sikkim: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Indra Hang Subba shows a mixed transparency profile with significant gaps in key areas. While maintaining perfect criminal record transparency and good attendance (85%), critical weaknesses exist in committee participation (0%), legislative activity (0%), and accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with low data confidence (36%), suggest limited public engagement and transparency mechanisms.
+Indra Hang Subba shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Indra Hang Subba
-
-### Overall Assessment
-Indra Hang Subba, a 35-year-old Lok Sabha MP from Sikkim representing the Sikkim Krantikari Morcha party, presents a clean legal profile with moderate parliamentary engagement. His transparency record shows mixed data quality across key performance indicators, with reliable information on criminal background and assets but significant gaps in fund utilization and committee participation data.
-
-### Fund Utilization & Development
-MPLADS data for MP Subba is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings revealing systemic issues in fund management across states. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of works remaining abandoned or incomplete. Without MPLADS transparency data, it's impossible to assess MP Subba's development fund performance against these benchmarks.
-
-### Financial Transparency
-MP Subba declared total assets of Rs 1.48 crore with a net worth of Rs 98.45 lakh. However, no previous asset declaration data is available, preventing analysis of wealth accumulation patterns or growth ratios during his tenure. His monthly compensation totals Rs 2.45 lakh. The asset declaration appears complete but lacks the comparative data necessary for comprehensive financial transparency assessment.
-
-### Legal & Criminal Standing
-MP Subba maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This represents full compliance with legal standards and suggests no integrity concerns from a criminal justice perspective.
-
-### Parliamentary Performance
-MP Subba demonstrates moderate parliamentary engagement with 85% attendance, which exceeds typical benchmarks for active participation. He has raised 15 questions and participated in 3 debates, indicating reasonable engagement in legislative discourse. However, he has not introduced any private member bills, suggesting limited initiative in legislative drafting. No committee membership data is available, indicating either non-participation or data unavailability, which limits assessment of his specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles). This neutral coverage pattern suggests either limited media engagement or absence of controversial positions. The lack of polarized coverage could indicate effective constituency service without major public disputes, though it may also reflect limited visibility in public discourse. No social media engagement metrics or constituency accessibility data are available for comprehensive public engagement assessment.
-
-### Data Quality & Caveats
-The transparency assessment faces significant limitations due to data quality issues. Evidence grades range from B-level reliability for criminal records and assets to D-level for accessibility metrics. Critical gaps include: complete absence of MPLADS data (flagged as low confidence), missing committee participation records, unavailable previous asset declarations for growth analysis, and limited legislative effectiveness metrics. The Sansad profile appears unavailable, contributing to information gaps. These limitations substantially constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-MP Indra Hang Subba presents a profile of basic compliance with clean legal standing and moderate parliamentary participation, but significant data gaps—particularly regarding fund utilization and committee work—prevent full transparency assessment. While his 85% attendance and question-raising activity demonstrate engagement, the complete absence of MPLADS data and neutral-only media coverage suggest either limited development impact visibility or inadequate transparency mechanisms. Enhanced data disclosure, particularly regarding constituency development funds and specialized parliamentary contributions, would significantly improve his transparency profile.
+No criminal cases declared. Declared assets: Rs 14,845,772. MPLADS utilization: 62.2%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3.
 
 ---
 
@@ -163,7 +139,7 @@ MP Indra Hang Subba presents a profile of basic compliance with clean legal stan
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Indra Hang Subba's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 62.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

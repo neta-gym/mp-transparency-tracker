@@ -3,23 +3,25 @@
 **Constituency:** Jabalpur, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 56.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 35.19 Crore
+- **Liabilities:** Rs 1.35 Crore
+- **Net Worth:** Rs 33.83 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,34 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Ashish Dubey demonstrates mixed transparency performance with strong attendance (95%) and clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency.
+Ashish Dubey shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Ashish Dubey
-### Overall Assessment
-Ashish Dubey, the Bharatiya Janata Party MP representing Jabalpur constituency in Madhya Pradesh, presents a limited transparency profile due to significant data gaps across multiple accountability metrics. While maintaining strong parliamentary attendance at 95%, the absence of crucial financial and developmental data severely constrains comprehensive evaluation of his performance and transparency standards.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap, particularly concerning given the CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The audit identified Rs 1,558 crore lying idle across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific data on Dubey's MPLADS performance, constituents cannot assess his effectiveness in driving local development initiatives.
-
-### Financial Transparency
-Asset disclosure information is entirely absent, with no data available on current holdings, previous declarations, growth ratios, or net worth. This complete lack of financial transparency severely hampers public scrutiny of potential conflicts of interest or wealth accumulation patterns. The only available financial information is his monthly parliamentary compensation of Rs 2,45,000, which represents standard statutory remuneration rather than personal asset disclosure.
-
-### Legal & Criminal Standing
-Dubey maintains a clean legal record with zero criminal cases across all categories - no serious offenses, pending cases, disposed matters, or convictions. However, this data carries a low confidence rating due to potential source availability issues, warranting cautious interpretation of the criminal background assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Dubey demonstrates strong attendance discipline with 95% presence, significantly above average parliamentary attendance rates. However, his legislative contribution appears limited with only 5 questions raised and 4 debate participations recorded. No private member bills have been introduced, suggesting minimal proactive legislative initiative. The absence of committee membership data further limits assessment of his substantive parliamentary work beyond floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse engagement or controversial positions. The absence of significant media attention could indicate either low public profile or ineffective communication strategy. No accessibility data is available regarding public interaction mechanisms or constituency engagement initiatives, earning a 'D' grade for accessibility metrics.
-
-### Data Quality & Caveats
-This assessment is significantly constrained by substantial data limitations across multiple domains. Asset information, MPLADS utilization, and committee membership data are completely unavailable. Criminal record data carries low confidence ratings due to source accessibility issues. Evidence grades are concerning - 'C' for parliamentary data and 'D' for accessibility metrics. The analysis relies primarily on PRS Legislative Research, social media, and news sources, with notable gaps in official government disclosures. These limitations prevent comprehensive transparency evaluation and may not reflect the MP's actual performance or financial standing.
-
-### Key Takeaway
-Ashish Dubey's transparency profile is severely undermined by critical data gaps, particularly in financial disclosure and development fund utilization - two fundamental pillars of public accountability. While maintaining clean legal standing and strong parliamentary attendance, the absence of asset declarations and MPLADS data raises significant transparency concerns. Given the systemic fund management issues identified by CAG audits in Madhya Pradesh, the lack of specific MPLADS utilization data is particularly problematic for constituency accountability. Improved disclosure mechanisms and data availability are essential for meaningful public oversight of his representative performance.
+No criminal cases declared. Declared assets: Rs 351,856,860. MPLADS utilization: 12.5%. Parliament attendance: 95.0%. Questions asked: 5. Debates participated: 4.
 
 ---
 
@@ -161,7 +138,7 @@ Ashish Dubey's transparency profile is severely undermined by critical data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -240,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ashish Dubey's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -257,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

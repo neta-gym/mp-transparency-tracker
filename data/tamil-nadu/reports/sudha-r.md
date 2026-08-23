@@ -3,32 +3,34 @@
 **Constituency:** Mayiladuthurai, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 35.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 12.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 10
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 10
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 38.63 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 38.63 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 3% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 16.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Sudha R demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity reporting. The low data confidence of 14% and multiple validation flags suggest incomplete or unreliable information, making comprehensive evaluation challenging.
+Sudha R has a below-average transparency score of 35.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sudha R
-
-### Overall Assessment
-
-Sudha R, representing Mayiladuthurai constituency in Tamil Nadu for the Indian National Congress, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance (90.0%) and a clean criminal record, comprehensive assessment is hindered by missing critical financial and development data. The MP demonstrates basic parliamentary engagement but faces transparency challenges due to incomplete disclosure patterns.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given Tamil Nadu's documented MPLADS implementation challenges. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data for Sudha R's constituency, her development impact cannot be quantitatively assessed.
-
-### Financial Transparency
-
-Asset disclosure information is completely missing, with no data available on current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap that prevents evaluation of potential conflicts of interest or wealth accumulation patterns. Monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point. The absence of asset data raises questions about compliance with mandatory disclosure requirements.
-
-### Legal & Criminal Standing
-
-Sudha R maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the clean record is positive, the reliability caveat requires consideration when assessing this aspect of her profile.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity levels with 90.0% attendance, demonstrating consistent presence in proceedings. Legislative participation includes 27 questions raised and 4 debate contributions, indicating basic but not exceptional engagement in parliamentary processes. No private member bills were introduced, suggesting limited initiative in legislative innovation. Committee participation data is unavailable, limiting assessment of specialized parliamentary work. Overall performance reflects standard but unremarkable parliamentary engagement.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversial issues. The consistently neutral coverage may indicate either low-profile activity or balanced reporting. Social media and accessibility data receive a 'D' grade, suggesting minimal digital engagement or public outreach efforts. This limited public engagement profile indicates potential gaps in constituency communication and transparency initiatives.
-
-### Data Quality & Caveats
-
-Multiple significant data quality issues affect this assessment. Criminal record data carries low confidence warnings due to source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is entirely unavailable despite its importance for constituency development assessment. Committee participation information is absent, potentially due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. Evidence grades reflect these limitations with 'C' for parliament data and 'D' for accessibility measures.
-
-### Key Takeaway
-
-Sudha R's transparency profile is severely constrained by missing critical data across financial assets, development fund utilization, and public engagement metrics. While maintaining clean criminal records and adequate parliamentary attendance, the absence of asset disclosures and MPLADS data prevents comprehensive transparency assessment. The neutral media coverage and limited public engagement suggest opportunities for enhanced constituency communication. Immediate priorities should include ensuring complete asset disclosure compliance and improving development fund transparency, particularly given Tamil Nadu's documented MPLADS implementation challenges identified in CAG audits.
+Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared assets: Rs 3,862,830. MPLADS utilization: 16.0%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 4.
 
 ---
 
@@ -170,7 +138,7 @@ Sudha R's transparency profile is severely constrained by missing critical data 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sudha R's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

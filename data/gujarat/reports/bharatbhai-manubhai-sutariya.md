@@ -3,23 +3,25 @@
 **Constituency:** Amreli, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 27.7 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 83.79 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 83.79 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 34.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Sutariya shows a mixed transparency profile with moderate performance in fund utilization and asset disclosure, but significant gaps in legislative participation and public engagement. While maintaining perfect criminal record transparency and good attendance, the complete absence of participation in debates, committee work, and legislative initiatives raises concerns about active representation.
+Bharatbhai Manubhai Sutariya shows moderate transparency with a score of 52.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Bharatbhai Manubhai Sutariya
-
-### Overall Assessment
-Bharatbhai Manubhai Sutariya, BJP MP representing Amreli constituency in Gujarat, demonstrates a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, substantial missing information across key transparency metrics prevents a complete assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS funds are a primary mechanism for constituency development. CAG audit findings for Gujarat reveal systemic issues in fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. These state-level concerns underscore the importance of transparent fund tracking, making the absence of MP-specific MPLADS data particularly concerning.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data available on current total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for accountability. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset disclosure data, comprehensive financial transparency cannot be assessed.
-
-### Legal & Criminal Standing
-MP Sutariya maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability, suggesting this clean slate should be interpreted cautiously given possible data collection limitations.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 85% attendance, which is reasonably strong and above average attendance levels. However, legislative participation appears minimal with zero questions asked, zero debates participated in, and zero private bills introduced. This suggests a passive approach to parliamentary duties despite regular attendance. The evidence grade of 'C' for parliament activity indicates moderate confidence in this assessment.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 6 news articles identified - all neutral in sentiment with no positive or negative coverage detected. This minimal media presence suggests either low public visibility or limited proactive communication efforts. The accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement mechanisms. No committee participation data is available, representing another gap in understanding the MP's parliamentary engagement beyond basic attendance.
-
-### Data Quality & Caveats
-Multiple automated flags indicate significant data quality concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence across all financial metrics
-- MPLADS data is entirely unavailable despite being crucial for constituency development assessment
-- Committee participation data is missing, potentially due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect moderate to poor data reliability across key transparency indicators.
-
-### Key Takeaway
-While MP Sutariya maintains clean legal standing and reasonable parliamentary attendance (85%), significant data gaps across asset declarations, MPLADS utilization, and legislative participation severely limit transparency assessment. The absence of crucial financial and development fund data, combined with minimal legislative activity and public engagement, raises questions about overall effectiveness and accountability. Improved data disclosure and more active parliamentary participation would substantially enhance transparency and public trust.
+No criminal cases declared. Declared assets: Rs 8,378,748. MPLADS utilization: 34.6%. Parliament attendance: 85.0%.
 
 ---
 
@@ -169,7 +138,7 @@ While MP Sutariya maintains clean legal standing and reasonable parliamentary at
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bharatbhai Manubhai Sutariya's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 34.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

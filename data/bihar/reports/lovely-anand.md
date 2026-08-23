@@ -3,23 +3,25 @@
 **Constituency:** Sheohar, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 12.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.46 Crore
+- **Liabilities:** Rs 31.70 Lakh
+- **Net Worth:** Rs 9.14 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 15.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Lovely Anand shows a mixed transparency profile with strong attendance (95%) and clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS, assets, and participation scores suggest basic compliance but limited proactive engagement in parliamentary duties.
+Lovely Anand shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Lovely Anand
-
-### Overall Assessment
-Lovely Anand, representing Sheohar constituency in Bihar under the Janata Dal (United) party, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance at 95%, comprehensive assessment is hampered by missing financial data and low-confidence criminal record information. The MP demonstrates basic legislative engagement but faces substantial data quality challenges across multiple transparency metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing the MP's effectiveness in constituency development. The broader context reveals systemic concerns in Bihar's fund management, with CAG audits identifying Rs 1,558 crore in idle funds lying unspent across district authorities' accounts. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of works were abandoned or incomplete, indicating widespread implementation challenges in the state's development programs.
-
-### Financial Transparency
-Asset disclosure presents a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This fundamental gap prevents any assessment of financial transparency or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but the absence of asset declarations raises significant transparency concerns and limits public accountability.
-
-### Legal & Criminal Standing
-The MP reports zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, this clean record comes with a critical caveat: the source data carries low confidence warnings, suggesting potential unavailability or unreliability of criminal record information. This uncertainty undermines the reliability of the reported clean legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity with 95% attendance, demonstrating consistent presence in the Lok Sabha. Legislative participation includes 10 questions raised and 11 debates participated in, indicating basic parliamentary engagement. However, the MP has introduced zero private bills, suggesting limited initiative in legislative innovation. The overall parliament evidence grade of 'C' reflects adequate but unremarkable performance levels.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral with zero positive or negative sentiment pieces. This neutral coverage suggests limited public discourse engagement or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee data was found, suggesting either non-participation in parliamentary committees or unavailable profile information, further limiting assessment of specialized legislative contributions.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence ratings, fundamentally limiting financial transparency assessment. MPLADS data is entirely unavailable, preventing fund utilization analysis. Committee information is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These cumulative data quality issues severely constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-Lovely Anand's transparency profile is characterized by basic parliamentary compliance with strong attendance but hampered by critical data gaps across financial disclosure, fund utilization, and criminal record verification. While maintaining clean legal standing and moderate legislative engagement, the absence of asset declarations and MPLADS data, combined with low-confidence criminal records, prevents meaningful transparency assessment. The MP requires improved data disclosure practices and enhanced public engagement mechanisms to meet modern accountability standards expected of elected representatives.
+No criminal cases declared. Declared assets: Rs 94,553,723. MPLADS utilization: 15.3%. Parliament attendance: 95.0%. Questions asked: 10. Debates participated: 11.
 
 ---
 
@@ -162,7 +138,7 @@ Lovely Anand's transparency profile is characterized by basic parliamentary comp
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Lovely Anand's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 15.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

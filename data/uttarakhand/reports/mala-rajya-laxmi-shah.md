@@ -3,23 +3,23 @@
 **Constituency:** Tehri Garhwal, Uttarakhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 23.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 206.87 Crore
+- **Liabilities:** Rs 17.90 Crore
+- **Net Worth:** Rs 188.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.8%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Mala Rajya Laxmi Shah demonstrates mixed transparency with a below-average score of 47.5/100. While she shows excellent criminal record transparency and good attendance, significant concerns exist in legislative participation, committee engagement, and public accessibility. The low data confidence of 14% and multiple validation flags suggest incomplete information availability.
+Mala Rajya Laxmi Shah shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mala Rajya Laxmi Shah
-
-### Overall Assessment
-
-Mala Rajya Laxmi Shah, BJP MP from Tehri Garhwal, Uttarakhand, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and high parliamentary attendance (90%), critical financial and developmental information remains unavailable, hindering full assessment of her performance as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS data is completely unavailable, with no information on fund entitlement, release, expenditure, or utilization rates. This represents a significant transparency gap for constituency development assessment. The broader context reveals concerning systemic issues in Uttarakhand's fund management, with CAG audits identifying Rs 1,558 crore in idle funds lying unspent across district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled developmental works remaining abandoned or incomplete.
-
-### Financial Transparency
-
-Asset disclosure information is entirely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 2,45,000, but without baseline asset information, meaningful financial accountability assessment cannot be conducted.
-
-### Legal & Criminal Standing
-
-The MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with low confidence ratings due to potential source unavailability, suggesting the information may be incomplete rather than definitively clean.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with high attendance (90%) demonstrating commitment to legislative duties. However, substantive participation remains limited with only 1 question raised and 1 debate participation recorded, alongside zero private member bills introduced. This suggests a passive rather than proactive approach to parliamentary representation, with minimal legislative initiative or policy advocacy.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement with 10 total articles (1 positive, 0 negative, 9 neutral), indicating limited public visibility or controversy. The predominantly neutral coverage suggests either low-profile constituency work or insufficient media attention to assess public impact effectively. No committee membership data is available due to potential Sansad profile unavailability, further limiting assessment of specialized parliamentary contributions.
-
-### Data Quality & Caveats
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility indicate significant reliability concerns. Multiple automated warnings highlight low confidence in criminal records, assets, and MPLADS data due to source unavailability. The absence of committee information and legislative effectiveness data further compounds assessment challenges. These data quality issues substantially limit the reliability of this transparency evaluation.
-
-### Key Takeaway
-
-Mala Rajya Laxmi Shah's transparency profile is severely hampered by extensive data unavailability across critical areas including financial assets, development fund utilization, and committee work. While maintaining clean legal standing and reasonable parliamentary attendance, the lack of substantive legislative participation and complete absence of financial transparency raise accountability concerns. The systemic fund management issues identified by CAG audits in Uttarakhand underscore the importance of transparent MPLADS reporting, making the unavailability of such data particularly concerning for constituency development oversight.
+No criminal cases declared. Declared assets: Rs 2,068,739,424. MPLADS utilization: 28.8%. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 1.
 
 ---
 
@@ -170,7 +136,7 @@ Mala Rajya Laxmi Shah's transparency profile is severely hampered by extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mala Rajya Laxmi Shah's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

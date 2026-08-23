@@ -3,23 +3,25 @@
 **Constituency:** Churu, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 26.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.33 Crore
+- **Liabilities:** Rs 2.44 Crore
+- **Net Worth:** Rs 2.89 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 43% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Rahul Kaswan demonstrates a mixed transparency profile with perfect scores in criminal record disclosure and parliamentary attendance, but significant deficiencies in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and presence of 6 validation flags suggest substantial gaps in available information, making this assessment preliminary.
+Rahul Kaswan shows moderate transparency with a score of 62.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rahul Kaswan
-
-### Overall Assessment
-Rahul Kaswan, Indian National Congress MP representing Churu constituency in Rajasthan, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While demonstrating strong parliamentary attendance (100%) and maintaining a clean legal record, critical information about assets, MPLADS fund utilization, and committee participation remains unavailable, raising concerns about overall transparency accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS is a key mechanism for constituency development. The absence of this data prevents assessment of Kaswan's effectiveness in utilizing allocated development funds for Churu's benefit. CAG audit reports highlight systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation, context that makes transparent MPLADS reporting even more crucial.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability. The MP receives Rs 245,000 in monthly compensation, but without baseline asset information, it's impossible to assess potential conflicts of interest or track wealth accumulation during tenure. This data gap undermines financial transparency standards expected of elected representatives.
-
-### Legal & Criminal Standing
-Kaswan maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, or convictions. However, the criminal record data carries a "low confidence" warning, indicating potential source unavailability issues. While the clean record is positive, the data quality concerns prevent full confidence in this assessment.
-
-### Parliamentary Performance
-Kaswan demonstrates strong parliamentary attendance at 100%, indicating commitment to legislative duties. He has raised 40 questions and participated in 20 debates, showing active engagement in parliamentary proceedings. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. No committee participation data is available due to potential Sansad profile unavailability, creating a gap in assessing his contribution to detailed legislative work and oversight functions.
-
-### Public Engagement & Accessibility
-Media coverage shows neutral engagement with 10 articles providing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited media visibility but absence of controversy. However, the transparency profile receives a 'D' grade for accessibility, indicating poor public access to information about the MP's activities and performance. This low accessibility score undermines public accountability and citizen engagement with their elected representative.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues: criminal record data has low confidence due to source unavailability; asset information is completely missing with low confidence ratings; MPLADS data is entirely absent; and no committee information is available. The overall evidence grade is 'C' for parliament activity and 'D' for accessibility. These data gaps severely limit the comprehensiveness of this transparency assessment and suggest systemic issues with information disclosure or data collection processes.
-
-### Key Takeaway
-While Rahul Kaswan demonstrates commitment through perfect parliamentary attendance and maintains a clean legal record, his transparency profile suffers from critical data gaps in asset disclosure, MPLADS utilization, and committee participation. The absence of financial transparency information and development fund utilization data, combined with poor accessibility scores, creates significant accountability deficits. Citizens of Churu lack essential information needed to evaluate their representative's performance and financial integrity, undermining democratic accountability standards.
+No criminal cases declared. Declared assets: Rs 53,322,989. MPLADS utilization: 32.7%. Parliament attendance: 100.0%. Questions asked: 40. Debates participated: 20.
 
 ---
 
@@ -162,7 +138,7 @@ While Rahul Kaswan demonstrates commitment through perfect parliamentary attenda
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rahul Kaswan's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

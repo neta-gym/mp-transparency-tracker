@@ -3,23 +3,25 @@
 **Constituency:** Mumbai South Central, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 56.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 22.94 Crore
+- **Liabilities:** Rs 2.30 Crore
+- **Net Worth:** Rs 20.64 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Anil Yeshwant Desai demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative activities, and public accessibility. The moderate MPLADS and asset disclosure scores, combined with zero committee engagement and minimal accessibility efforts, suggest limited overall transparency despite good attendance.
+Anil Yeshwant Desai shows moderate transparency with a score of 56.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Anil Yeshwant Desai
-
-### Overall Assessment
-Anil Yeshwant Desai represents Mumbai South Central constituency in Maharashtra for the Shiv Sena (Uddhav Balasaheb Thackeray). While his parliamentary attendance is strong at 90%, significant data gaps across financial transparency and development metrics limit a comprehensive evaluation of his effectiveness as an MP. The available information suggests neutral public reception but raises concerns about transparency reporting.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings for Maharashtra highlighting systemic issues including ₹1,558 crore in unspent funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, it's impossible to assess Desai's development impact or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure presents a complete information void. No data exists on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation patterns or compliance with disclosure requirements. The MP receives a total monthly compensation of ₹2,45,000, but without asset benchmarks, financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-Desai maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting this assessment may be incomplete. While the available data indicates no legal issues, the warning about data reliability requires cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance at 90% demonstrates strong commitment to legislative duties. Desai has asked 30 questions and participated in 9 debates, indicating moderate engagement in parliamentary discourse. However, he has introduced zero private bills, suggesting limited legislative initiative. The overall parliamentary activity grade of 'C' reflects adequate but not exceptional performance in formal legislative functions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - zero positive or negative articles, suggesting limited public visibility or controversy. This neutral profile may indicate either effective non-partisan representation or insufficient media engagement. The accessibility grade of 'D' points to poor public outreach mechanisms. No committee data was found, indicating either non-participation in parliamentary committees or data unavailability, both concerning for constituent representation.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence due to source availability issues. Asset information shows low confidence ratings, while MPLADS utilization data is completely absent. Committee participation data is missing, potentially due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence levels. These limitations mean substantial aspects of MP performance remain unverifiable, undermining comprehensive evaluation.
-
-### Key Takeaway
-Anil Yeshwant Desai presents a profile of adequate parliamentary attendance but concerning transparency gaps. While maintaining a clean legal record and demonstrating reasonable legislative participation, the absence of critical financial and development data prevents meaningful accountability assessment. The neutral media coverage and poor accessibility ratings suggest limited public engagement, while systemic Maharashtra MPLADS issues highlighted by CAG audits raise questions about development fund management that cannot be answered due to missing data. Improved transparency reporting is essential for proper evaluation of his constituency service effectiveness.
+No criminal cases declared. Declared assets: Rs 229,443,731. MPLADS utilization: 4.0%. Parliament attendance: 90.0%. Questions asked: 30. Debates participated: 9. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ Anil Yeshwant Desai presents a profile of adequate parliamentary attendance but 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Anil Yeshwant Desai's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

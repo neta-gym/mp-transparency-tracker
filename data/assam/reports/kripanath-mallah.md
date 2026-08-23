@@ -3,23 +3,25 @@
 **Constituency:** Karimganj, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 61.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 29.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.89 Crore
+- **Liabilities:** Rs 63.15 Lakh
+- **Net Worth:** Rs 1.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kripanath Mallah demonstrates a mixed transparency profile with notable strengths in attendance and criminal record disclosure, but significant weaknesses in committee participation, legislative engagement, and public accessibility. The moderate MPLADS and assets transparency scores, combined with zero performance in committee work and legislative activities, suggest limited overall engagement with parliamentary processes despite good attendance.
+Kripanath Mallah shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kripanath Mallah
-
-### Overall Assessment
-Kripanath Mallah, BJP MP from Karimganj (Assam), presents a mixed transparency profile with limited available data across key governance metrics. While demonstrating perfect parliamentary attendance, significant data gaps exist regarding assets, MPLADS utilization, and criminal record verification. The evidence quality is generally poor, with grades of 'C' for parliamentary data and 'D' for accessibility measures.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for MP Mallah, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The broader context reveals systemic issues in Assam's fund management, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about effective fund deployment in the state.
-
-### Financial Transparency
-Asset disclosure data is completely absent, with no information available on current holdings, previous declarations, growth ratios, or net worth. This lack of financial transparency severely limits public accountability assessment. The MP's monthly compensation is recorded at Rs 2.45 lakh, which represents the standard parliamentary remuneration package.
-
-### Legal & Criminal Standing
-Official records indicate zero criminal cases across all categories—no total cases, serious offenses, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat: automated flags indicate "low confidence in criminal data" due to potentially unavailable sources, suggesting the absence of data may not definitively confirm a clean record.
-
-### Parliamentary Performance
-MP Mallah demonstrates strong attendance with a perfect 100% parliamentary participation rate. His legislative engagement shows moderate activity with 27 questions raised and participation in 5 debates, indicating reasonable constituency representation efforts. However, he has not introduced any private member bills, suggesting limited initiative in legislative innovation. The overall parliamentary evidence grade of 'C' indicates adequate but not exceptional performance data quality.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited public visibility but also absence of controversy. However, the accessibility evidence grade of 'D' indicates poor data availability regarding public engagement mechanisms, citizen interaction platforms, or community outreach initiatives.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record data has low confidence due to source unavailability
-- Asset information shows low confidence levels
-- MPLADS data is entirely missing with low confidence ratings
-- No committee membership data found, possibly due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence indicators
-
-These limitations severely constrain comprehensive transparency assessment and suggest potential gaps in mandatory disclosure compliance.
-
-### Key Takeaway
-While MP Mallah maintains perfect parliamentary attendance and a clean criminal record, his transparency profile suffers from extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and public engagement metrics. The neutral media coverage and absence of controversy are positive indicators, but the overall assessment is hampered by poor data quality and availability. Improved disclosure compliance and data accessibility are essential for meaningful public accountability evaluation of his parliamentary tenure.
+No criminal cases declared. Declared assets: Rs 18,862,404. MPLADS utilization: 36.7%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 5.
 
 ---
 
@@ -169,7 +138,7 @@ While MP Mallah maintains perfect parliamentary attendance and a clean criminal 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kripanath Mallah's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

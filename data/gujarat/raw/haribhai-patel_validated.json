@@ -14,7 +14,7 @@
     "education": "Others",
     "profession": null,
     "age": 62,
-    "photo_url": null
+    "photo_url": "/mp-photos/5560.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Mahesana",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 3774,
       "slug": "haribhai-patel",
       "house": "lok_sabha",
       "sansad_member_id": 5560,
       "profile_url": null,
       "canonical_name": "Haribhai Patel",
       "name_aliases": [],
-      "education": null,
+      "education": "Others",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 62,
+      "photo_url": "/mp-photos/5560.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,60 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 39863356.0,
+      "liabilities": 1266000.0,
+      "net_worth": 38597356.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:46.371223Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 33.1,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 7.83,
+      "expended": 3.32,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.560870Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:25:45.860673Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:25:45.858164Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:22:03.770720Z",
+          "notes": "Official eSAKSHI REST API — Works: 497 recommended, 386 sanctioned, 142 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 497,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 22.585034013605444
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:26:46.560963Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566567Z",
+          "fetched_at": "2026-08-23T16:44:15.487730Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566582Z",
+          "fetched_at": "2026-08-23T16:44:15.487742Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566590Z",
+          "fetched_at": "2026-08-23T16:44:15.487749Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566598Z",
+          "fetched_at": "2026-08-23T16:44:15.487756Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566605Z",
+          "fetched_at": "2026-08-23T16:44:15.487764Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566611Z",
+          "fetched_at": "2026-08-23T16:44:15.487769Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:46.566617Z",
+          "fetched_at": "2026-08-23T16:44:15.487774Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +399,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,74 +420,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Haribhai Patel\n\n### Overall Assessment\nHaribhai Patel, BJP MP from Mahesana, Gujarat, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key areas. While maintaining a clean criminal record and demonstrating good legislative engagement, the absence of critical financial information limits comprehensive assessment of his accountability and development work.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing evaluation of constituency development work. This is concerning given that CAG audits have identified systemic issues with fund utilization across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. For Gujarat specifically, 7 relevant CAG findings highlight ongoing challenges with development fund management, making transparent reporting crucial.\n\n### Financial Transparency\nAsset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected officials and essential for public accountability. The monthly compensation of Rs 2,45,000 is the only available financial figure, representing standard parliamentary remuneration.\n\n### Legal & Criminal Standing\nPatel maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries a low confidence warning due to potential source unavailability, requiring cautious interpretation.\n\n### Parliamentary Performance\nParliamentary engagement shows positive indicators with 90% attendance, significantly above average legislative participation. Patel has asked 42 questions and participated in 4 debates, demonstrating active engagement with legislative processes. However, he has introduced zero private member bills, indicating limited initiative in legislative proposals. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public visibility or polarization. The accessibility evidence grade is poor ('D'), indicating challenges in public outreach or communication transparency. No committee participation data is available, limiting assessment of specialized legislative work.\n\n### Data Quality & Caveats\nThe analysis faces significant data quality limitations with multiple automated warnings:\n- Criminal record data has low confidence due to source availability issues\n- Asset information is completely absent with low confidence ratings\n- MPLADS data is unavailable despite being crucial for constituency development assessment\n- Committee and legislative effectiveness data are missing\n- Sources are limited to PRS (parliamentary data), social media, and news coverage\n\n### Key Takeaway\nWhile Haribhai Patel demonstrates strong parliamentary attendance and maintains a clean criminal record, his transparency profile is severely hampered by missing financial and development data. The absence of asset disclosures and MPLADS information, combined with entirely neutral media coverage, suggests limited public accountability mechanisms. Given systemic fund utilization issues identified by CAG audits in Gujarat, the lack of transparent development fund reporting is particularly concerning for effective constituency representation.",
-  "validated_at": "2026-05-21T14:27:04.491833Z",
-  "assets": {
-    "total_assets": 39863356.0,
-    "liabilities": 1266000.0,
-    "net_worth": 38597356.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.83,
-    "expended": 3.32,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:22:03.770720Z",
-        "notes": "Official eSAKSHI REST API — Works: 497 recommended, 386 sanctioned, 142 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 497,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 22.585034013605444
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 39,863,356. MPLADS utilization: 22.6%. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 4.",
+  "validated_at": "2026-08-23T16:44:15.488671Z"
 }

@@ -3,23 +3,25 @@
 **Constituency:** Arunachal East, Arunachal Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 68.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 64.5 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 15.05 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 15.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 10
+- **Utilization Rate:** 66.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Arunachal Pradesh: 7 relevant findings
@@ -94,58 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Tapir Gao demonstrates a mixed transparency profile with perfect scores in criminal record disclosure and attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. While maintaining clean criminal records and consistent parliamentary attendance, the MP shows concerning gaps in public engagement and legislative contributions, resulting in a below-average overall transparency score.
+Tapir Gao shows moderate transparency with a score of 68.1/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Tapir Gao
-
-### Overall Assessment
-
-Tapir Gao, representing Arunachal East constituency for the Bharatiya Janata Party, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While demonstrating perfect parliamentary attendance (100%), critical financial and developmental metrics remain unavailable, limiting assessment of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This complete absence of fund utilization data makes it impossible to assess Gao's developmental impact in his constituency.
-
-The CAG audit context for Arunachal Pradesh reveals systemic concerns: Rs 1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-wide issues provide important context for evaluating any MP's developmental work in the region.
-
-### Financial Transparency
-
-Asset disclosure data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, preventing any assessment of Gao's financial standing or potential conflicts of interest.
-
-Monthly compensation is recorded at Rs 2,45,000, providing the only available financial data point in his profile.
-
-### Legal & Criminal Standing
-
-Gao maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with low confidence warnings, suggesting potential source unavailability issues.
-
-### Parliamentary Performance
-
-Gao demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. His legislative activity includes 24 questions raised and participation in 5 debates, indicating active involvement in parliamentary proceedings. However, he has introduced zero private member's bills, suggesting limited initiative in legislative drafting.
-
-The evidence grade for parliamentary data is rated 'C', indicating moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis shows 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversial positions. This neutral stance, while avoiding negative publicity, may indicate reduced public engagement or media attention.
-
-Accessibility receives a 'D' evidence grade, pointing to significant gaps in public outreach data. No committee membership information is available, which could indicate either unavailable Sansad profile data or limited committee participation.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight serious data reliability concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information lacks reliability due to low confidence ratings
-- MPLADS data is entirely missing with low confidence indicators
-- Committee participation data is unavailable
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades show 'C' for parliamentary data and 'D' for accessibility metrics, indicating substantial limitations in data quality and availability.
-
-### Key Takeaway
-
-While Tapir Gao demonstrates exemplary parliamentary attendance and maintains a clean legal record, his transparency profile is severely hampered by missing critical data on assets, MPLADS utilization, and committee work. The absence of financial and developmental metrics, combined with neutral media coverage, suggests either limited transparency practices or significant data collection challenges in his constituency. His perfect attendance record stands as the most reliable positive indicator, but comprehensive evaluation requires substantial improvement in data availability across financial and developmental domains.
+No criminal cases declared. Declared assets: Rs 150,537,706. MPLADS utilization: 66.3%. Parliament attendance: 100.0%. Questions asked: 24. Debates participated: 5.
 
 ---
 
@@ -185,7 +138,7 @@ While Tapir Gao demonstrates exemplary parliamentary attendance and maintains a 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -264,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tapir Gao's MPLADS account: Released: Rs 15, Expended: Rs 10, Utilization: 66.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -281,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

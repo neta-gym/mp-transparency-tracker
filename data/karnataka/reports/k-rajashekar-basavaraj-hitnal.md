@@ -3,32 +3,34 @@
 **Constituency:** Koppal, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 48.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 32.1 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 29.04 Crore
+- **Liabilities:** Rs 12.63 Crore
+- **Net Worth:** Rs 16.42 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 40.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-K Rajashekar Basavaraj Hitnal demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and attendance but significant weaknesses in legislative participation and committee involvement. While maintaining a clean criminal record and reasonable attendance, the MP shows minimal engagement in parliamentary debates, committee work, and constituent accessibility. The low data confidence (14%) and multiple validation flags suggest limited available information may be affecting the overall assessment.
+K Rajashekar Basavaraj Hitnal has a below-average transparency score of 48.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: K Rajashekar Basavaraj Hitnal
-
-### Overall Assessment
-K Rajashekar Basavaraj Hitnal represents Koppal constituency in Karnataka as a member of the Indian National Congress in the Lok Sabha. Based on available data, the MP maintains a clean legal record with no criminal cases, though significant gaps exist in financial and development fund utilization data. Parliamentary engagement shows moderate attendance but limited active participation in legislative processes.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for this MP, raising concerns about transparency in constituency development spending. This data gap is particularly significant given the CAG audit findings highlighting systemic issues in Karnataka's fund management. The audit revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Koppal constituency, it's impossible to assess how effectively the MP has utilized development funds.
-
-### Financial Transparency
-Asset declaration information is completely unavailable, presenting a major transparency gap. No data exists on total assets, previous declarations, growth ratios, or net worth. This absence of financial disclosure information makes it impossible to evaluate potential conflicts of interest or track wealth accumulation during the MP's tenure. The MP receives standard parliamentary compensation of ₹2,45,000 monthly.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary attendance stands at 80%, which is reasonable but below exemplary standards. Legislative participation is notably limited, with zero questions asked, only one debate participation, and no private member bills introduced. This suggests passive rather than proactive parliamentary engagement. No committee membership data is available, indicating either non-participation in parliamentary committees or data accessibility issues.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows limited public visibility with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral, suggesting minimal controversy but also limited public engagement or newsworthy initiatives. The neutral tone of most coverage indicates routine parliamentary activities without significant achievements or controversies drawing media attention.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence warnings
-- Complete absence of asset declaration information
-- No MPLADS utilization data available
-- Missing committee membership details
-- Parliamentary data graded 'C' for parliament and 'D' for accessibility
-- Legislative effectiveness data has low confidence ratings
-
-These gaps suggest either inadequate data collection systems or limited public disclosure by the MP's office.
-
-### Key Takeaway
-While K Rajashekar Basavaraj Hitnal maintains a clean legal record and reasonable parliamentary attendance, significant transparency gaps in financial disclosures and development fund utilization prevent a comprehensive evaluation of his performance. The absence of MPLADS data is particularly concerning given Karnataka's documented fund management issues. Improved data disclosure and more active parliamentary participation would enhance accountability and constituent service delivery.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 290,429,579. MPLADS utilization: 40.1%. Parliament attendance: 80.0%. Debates participated: 1.
 
 ---
 
@@ -170,7 +138,7 @@ While K Rajashekar Basavaraj Hitnal maintains a clean legal record and reasonabl
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for K Rajashekar Basavaraj Hitnal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 40.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

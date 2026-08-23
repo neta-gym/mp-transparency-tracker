@@ -14,7 +14,7 @@
     "education": "Graduate",
     "profession": null,
     "age": 78,
-    "photo_url": null
+    "photo_url": "/mp-photos/5558.jpg"
   },
   "findings": {
     "mp": {
@@ -22,86 +22,80 @@
       "constituency": "Gaya",
       "state": "bihar",
       "party": "Hindustani Awam Morcha (Secular)",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 1678,
       "slug": "jitan-ram-manjhi",
       "house": "lok_sabha",
       "sansad_member_id": 5558,
       "profile_url": null,
       "canonical_name": "Jitan Ram Manjhi",
       "name_aliases": [],
-      "education": null,
+      "education": "Graduate",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 78,
+      "photo_url": "/mp-photos/5558.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 6,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 6,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 3020578.0,
+      "liabilities": 0.0,
+      "net_worth": 3020578.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1678",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:44.997537Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 2.8,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 7.78,
+      "expended": 3.46,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.579468Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:26:58.015772Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:26:58.013778Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:20:40.569460Z",
+          "notes": "Official eSAKSHI REST API — Works: 260 recommended, 231 sanctioned, 113 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 260,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 23.537414965986393
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:27:56.579661Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586112Z",
+          "fetched_at": "2026-08-23T16:44:14.111321Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586130Z",
+          "fetched_at": "2026-08-23T16:44:14.111332Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586138Z",
+          "fetched_at": "2026-08-23T16:44:14.111339Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586146Z",
+          "fetched_at": "2026-08-23T16:44:14.111348Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586152Z",
+          "fetched_at": "2026-08-23T16:44:14.111355Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586159Z",
+          "fetched_at": "2026-08-23T16:44:14.111360Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586165Z",
+          "fetched_at": "2026-08-23T16:44:14.111365Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -261,7 +260,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:27:56.586171Z",
+          "fetched_at": "2026-08-23T16:44:14.111370Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -416,26 +415,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.07,
+  "overall_confidence": 0.43,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -461,74 +442,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Jitan Ram Manjhi\n\n### Overall Assessment\nJitan Ram Manjhi, representing Gaya constituency in Bihar under the Hindustani Awam Morcha (Secular), presents a transparency profile with significant data gaps that limit comprehensive evaluation. While available information suggests a clean criminal record, the absence of critical data on assets, parliamentary performance, and fund utilization raises concerns about transparency and accountability. The MP currently serves in a ministerial capacity, which may explain some performance metrics.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Mr. Manjhi, including entitlement, release, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Bihar highlighting systemic issues in fund management. The audit identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess how effectively Mr. Manjhi has utilized his development funds for Gaya constituency.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of Rs 2,45,000. The absence of asset data prevents any assessment of potential conflicts of interest or unexplained wealth accumulation during the MP's tenure.\n\n### Legal & Criminal Standing\nMr. Manjhi maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious cases, or convictions. This represents a positive aspect of his profile, though data quality warnings suggest low confidence in the criminal record information. The clean record indicates no immediate legal impediments to his parliamentary duties.\n\n### Parliamentary Performance\nParliamentary activity data is entirely unavailable, including attendance rates, questions asked, debates participated in, and private bills introduced. While Mr. Manjhi serves as a Minister, which typically involves executive duties that may affect parliamentary attendance, the complete absence of performance metrics prevents any meaningful assessment of his legislative effectiveness or constituency representation in Parliament.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage detected. This suggests limited public visibility or engagement, which could indicate either effective non-controversial governance or insufficient public outreach. The evidence grade for accessibility is rated 'D', indicating poor performance in this area. No social media or direct public engagement metrics are available to supplement this assessment.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment:\n- Criminal record data has low confidence due to potentially unavailable sources\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is unavailable with low confidence\n- Parliamentary activity data lacks reliability\n- No committee assignment data available due to potentially unavailable Sansad profiles\n- Parliament performance graded 'C' and accessibility graded 'D' based on available evidence\n\nThese data gaps may stem from incomplete reporting, system limitations, or deliberate non-disclosure, but their extent raises transparency concerns.\n\n### Key Takeaway\nJitan Ram Manjhi's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, fund utilization, and parliamentary performance. While his clean criminal record is positive, the absence of financial declarations and development fund utilization data represents a significant accountability gap. The neutral media coverage and poor accessibility rating suggest limited public engagement. Citizens of Gaya constituency lack sufficient transparent information to evaluate their MP's financial standing, fund utilization effectiveness, and legislative performance, highlighting the need for improved disclosure and data management systems.",
-  "validated_at": "2026-05-21T14:28:16.801009Z",
-  "assets": {
-    "total_assets": 3020578.0,
-    "liabilities": 0.0,
-    "net_worth": 3020578.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1678",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 6,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 6,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1678",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.78,
-    "expended": 3.46,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:20:40.569460Z",
-        "notes": "Official eSAKSHI REST API — Works: 260 recommended, 231 sanctioned, 113 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 260,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.537414965986393
-  }
+  "cross_reference_notes": "Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 3,020,578. MPLADS utilization: 23.5%. Low confidence data: Parliament activity. 1 warning(s) noted.",
+  "validated_at": "2026-08-23T16:44:14.112288Z"
 }

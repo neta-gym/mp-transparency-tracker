@@ -3,56 +3,68 @@
 **Constituency:** Satara, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** 12th Pass
+**Profession:** Luxury
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.0 / 100
+## Composite Transparency Score: 32.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 5.1 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 37.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
-- **Serious Cases:** 0
+- **Total Cases:** 5
+- **Serious Cases:** 2
 - **Convictions:** 0
-- **Pending Cases:** 0
-- **Disposed Cases:** 0
+- **Pending Cases:** 4
+- **Disposed Cases:** 1
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Details and present status of appeal (Sections: N/A) 
+2. No description (Sections: N/A) 
+3. No description (Sections: 397/2017, Satara) **SERIOUS**
+4. No description (Sections: 396/2017, Satara) **SERIOUS**
+5. No description (Sections: 363/1999) [acquitted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 20.56 Crore
+- **Immovable Assets:** Rs 202.57 Crore
+- **Total Assets:** Rs 223.12 Crore
+- **Liabilities:** Rs 2.45 Crore
+- **Net Worth:** Rs 220.68 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 1
+- **Utilization Rate:** 6.3%
 
 ---
 
@@ -83,9 +95,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +104,11 @@
 
 ## Qualitative Assessment
 
-MP Udayanraje Bhonsle shows a mixed transparency profile with moderate performance in MPLADS utilization and asset disclosure, but significant gaps in parliamentary engagement. While maintaining a clean criminal record, the MP demonstrates very poor participation in debates, committee work, and legislative activities, suggesting limited active involvement in parliamentary proceedings.
+Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 32.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Udayanraje Pratapsinha Maharaj Bhonsle
-
-### Overall Assessment
-Udayanraje Pratapsinha Maharaj Bhonsle, representing Satara constituency in Maharashtra for the Bharatiya Janata Party, presents a transparency profile with significant data limitations. While he maintains a clean criminal record, his parliamentary performance shows room for improvement with 55% attendance and minimal legislative activity. The absence of crucial financial and developmental data severely limits a comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, making it impossible to assess the MP's performance in constituency development. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The CAG's 2010 audit identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for this constituency, constituents cannot evaluate whether development funds are being effectively utilized.
-
-### Financial Transparency
-Asset declaration information is completely unavailable, representing a significant transparency deficit. No data exists on current assets, previous declarations, growth patterns, or net worth. This absence of financial disclosure data prevents assessment of potential conflicts of interest or unusual wealth accumulation. The MP receives a total monthly compensation of Rs 2,45,000, but without asset declarations, there is no baseline to evaluate financial transparency or accountability.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the criminal record data carries low confidence ratings, indicating potential source reliability issues. While this clean record is positive, the data quality concerns require cautious interpretation of these findings.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance at 55% falls below optimal standards for constituent representation. More concerning is the complete absence of legislative activity - zero questions raised, zero participation in debates, and zero private member bills introduced. This suggests minimal active engagement in the legislative process and limited advocacy for constituency-specific issues. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles with neutral sentiment (no positive or negative coverage), suggesting limited public visibility or impact. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement initiatives. No committee participation data is available, further limiting assessment of the MP's engagement in specialized parliamentary functions. This low visibility may indicate insufficient communication with constituents or limited media-worthy activities.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability issues. Criminal record data has low confidence due to potential source unavailability. Asset information shows low confidence ratings, while MPLADS data is similarly unreliable. Committee participation data is completely missing, possibly due to unavailable Sansad profiles. These limitations severely constrain the reliability of this transparency assessment. The Maharashtra-specific CAG audit context provides relevant systemic issues but cannot substitute for constituency-specific performance data.
-
-### Key Takeaway
-While MP Bhonsle maintains a clean legal record, significant data gaps in asset declarations, MPLADS utilization, and committee participation severely limit transparency assessment. His parliamentary performance shows concerning patterns with below-average attendance and zero legislative engagement. The absence of crucial transparency data, combined with minimal legislative activity, suggests limited effectiveness in representing Satara constituency interests. Improved data disclosure and enhanced parliamentary participation are essential for meaningful public accountability.
+Has 5 criminal case(s) (2 serious), 4 pending, 0 conviction(s). Declared assets: Rs 2,231,233,939. MPLADS utilization: 6.3%. Parliament attendance: 55.0%. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +148,7 @@ While MP Bhonsle maintains a clean legal record, significant data gaps in asset 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +227,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Udayanraje Pratapsinha Maharaj Bhonsle's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 6.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +246,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads, myneta*
 *Methodology version: 3.0 (8 scoring dimensions)*

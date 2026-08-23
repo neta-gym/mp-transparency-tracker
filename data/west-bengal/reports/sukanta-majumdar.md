@@ -3,32 +3,34 @@
 **Constituency:** Balurghat, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 29.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 6.8 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 16
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 16
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.25 Crore
+- **Liabilities:** Rs 11.25 Lakh
+- **Net Worth:** Rs 1.14 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 11% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,42 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Sukanta Majumdar shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record, he demonstrates poor performance in committee work, accessibility to constituents, and legislative contributions. His moderate scores in MPLADS utilization and basic participation are offset by concerning zeros in committee engagement and legislative activity.
+Sukanta Majumdar has a below-average transparency score of 29.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Sukanta Majumdar
-### Overall Assessment
-Sukanta Majumdar, BJP MP from Balurghat constituency in West Bengal, presents a transparency profile severely hampered by data unavailability across key metrics. Currently serving as a Minister in the Lok Sabha, his profile shows minimal information across most transparency indicators, making a comprehensive assessment challenging. The evidence grades of 'C' for parliamentary data and 'D' for accessibility reflect significant data gaps that limit accountability evaluation.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that each MP is typically entitled to ₹5 crore annually for local development projects. The absence of this data prevents assessment of his development impact in Balurghat constituency.
-
-CAG audit findings highlight systemic concerns in West Bengal's fund utilization: ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues provide important context for local development challenges, though Majumdar's specific performance remains unmeasurable.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit as asset declarations are mandatory for all MPs and serve as key indicators of potential conflicts of interest. His monthly compensation is listed at ₹2,45,000, which appears consistent with standard MP remuneration packages.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), though this comes with a low confidence warning indicating potential data source issues. While this suggests a clean legal record, the data quality concerns prevent definitive conclusions about his criminal background.
-
-### Parliamentary Performance
-Parliamentary activity metrics are entirely absent, with no data on attendance rates, questions raised, debates participated in, or private bills introduced. His ministerial status is noted, which typically results in lower attendance due to executive responsibilities, but specific performance indicators remain unavailable. This complete data absence prevents evaluation of his legislative effectiveness or constituency representation quality.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals limited but generally neutral coverage, with 10 articles identified (9 neutral, 1 negative, 0 positive). This relatively low media presence suggests either limited public engagement activities or insufficient media monitoring coverage. No social media metrics or public accessibility measures are available, contributing to the 'D' grade for accessibility.
-
-### Data Quality & Caveats
-Multiple automated warnings indicate severe data reliability issues:
-- Low confidence across criminal records, assets, MPLADS, and parliamentary activity
-- No committee assignment data found
-- Sansad profile potentially unavailable
-- Legislative effectiveness data unreliable
-
-These widespread data gaps significantly limit the utility of this transparency assessment. The evidence grades reflect these limitations, with parliamentary performance rated 'C' and accessibility 'D', indicating substantial information deficits across core transparency metrics.
-
-### Key Takeaway
-Sukanta Majumdar's transparency profile is characterized by extensive data unavailability rather than poor performance, making accountability assessment nearly impossible. While available indicators suggest no criminal record and neutral public coverage, the absence of crucial information on asset declarations, MPLADS utilization, and parliamentary performance represents a significant transparency failure. This data deficit could indicate either systemic disclosure problems or inadequate monitoring systems, both of which undermine democratic accountability for this ministerial position in West Bengal.
+Has 16 criminal case(s) (0 serious), 16 pending, 0 conviction(s). Declared assets: Rs 12,476,825. MPLADS utilization: 8.5%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -170,7 +140,7 @@ Sukanta Majumdar's transparency profile is characterized by extensive data unava
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sukanta Majumdar's MPLADS account: Released: Rs 16, Expended: Rs 1, Utilization: 8.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

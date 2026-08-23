@@ -3,23 +3,25 @@
 **Constituency:** Betul, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 57.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 46.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.85 Crore
+- **Liabilities:** Rs 11.82 Lakh
+- **Net Worth:** Rs 1.73 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 54.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Durgadas D D Uikey shows a mixed transparency profile with moderate performance in basic areas like MPLADS utilization and asset disclosure, but significant deficiencies in committee participation, legislative activity, and public accessibility. While maintaining a clean criminal record, the MP's overall engagement appears limited with particularly poor scores in committee work and constituent outreach.
+Durgadas D D Uikey shows moderate transparency with a score of 57.6/100. No criminal cases declared.
 
 ---
 
-## Executive Summary: Durgadas D D Uikey
-
-### Overall Assessment
-Durgadas D D Uikey, BJP MP representing Betul constituency in Madhya Pradesh, presents a transparency profile marked by significant data gaps across most key governance metrics. While criminal records show a clean slate, the absence of critical information regarding assets, parliamentary performance, and MPLADS utilization severely limits assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given systemic issues identified by CAG audits in Madhya Pradesh, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader governance challenges in the state's development fund management.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency severely hampers public accountability and prevents assessment of potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, representing the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Uikey maintains a clean criminal record with zero cases across all categories—no total cases, serious offenses, pending matters, disposed cases, or convictions. However, the low confidence warning for criminal data suggests potential gaps in source availability or data collection processes.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with 0% attendance recorded, zero questions asked, no participation in debates, and no private member bills introduced. While the MP holds ministerial position (which may legitimately reduce attendance due to executive duties), the complete absence of legislative engagement metrics raises questions about parliamentary effectiveness. The 'C' evidence grade for parliamentary data indicates moderate reliability concerns.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or engagement. The 'D' evidence grade for accessibility indicates poor data availability regarding public interaction metrics. No committee participation data is available, with sources indicating the Sansad profile may be inaccessible.
-
-### Data Quality & Caveats
-Multiple automated warnings flag low confidence levels across critical datasets:
-- Criminal records: Source availability concerns
-- Assets: Low confidence in financial disclosure data
-- MPLADS: Insufficient utilization tracking
-- Parliamentary activity: Incomplete legislative metrics
-- Committee work: No accessible profile data
-
-Evidence grades of 'C' for parliament and 'D' for accessibility reflect significant data quality challenges. Sources include PRS Legislative Research, social media, and news outlets, but comprehensive official data appears limited.
-
-### Key Takeaway
-Durgadas D D Uikey's transparency profile is severely compromised by extensive data gaps across most governance metrics, making meaningful accountability assessment impossible. While maintaining a clean criminal record, the absence of asset disclosures, MPLADS utilization data, and parliamentary performance metrics, combined with neutral media coverage, suggests either poor transparency practices or systemic data collection issues. The documented systemic fund management problems in Madhya Pradesh amplify concerns about development oversight effectiveness.
+No criminal cases declared. Declared assets: Rs 18,487,232. MPLADS utilization: 54.6%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Durgadas D D Uikey's transparency profile is severely compromised by extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Durgadas D D Uikey's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 54.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

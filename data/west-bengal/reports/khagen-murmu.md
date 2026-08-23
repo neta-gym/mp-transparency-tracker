@@ -3,32 +3,34 @@
 **Constituency:** Maldaha Uttar, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 45.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 3.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 7
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.36 Crore
+- **Liabilities:** Rs 2.34 Lakh
+- **Net Worth:** Rs 1.34 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 12% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,60 +95,11 @@
 
 ## Qualitative Assessment
 
-Khagen Murmu demonstrates mixed transparency performance with notable strengths in attendance (100%) and criminal record disclosure (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets scores suggest room for improvement in financial transparency and constituency development reporting.
+Khagen Murmu has a below-average transparency score of 45.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Khagen Murmu
-
-### Overall Assessment
-
-Khagen Murmu, BJP MP from Maldaha Uttar constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While demonstrating strong parliamentary attendance and maintaining a clean criminal record, critical gaps in asset disclosure and MPLADS utilization data severely constrain full assessment of his financial transparency and developmental impact.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, preventing assessment of Murmu's developmental effectiveness in his constituency. This data gap is particularly concerning given the CAG's systemic findings of Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific utilization figures, it's impossible to evaluate whether Murmu's constituency faces similar implementation challenges identified in the broader audit context.
-
-The absence of entitled, released, and expended amounts under the MPLADS scheme represents a critical transparency gap that limits public accountability regarding local development initiatives.
-
-### Financial Transparency
-
-Asset disclosure presents a complete void, with no data available on current or previous holdings, preventing any assessment of wealth accumulation or growth patterns. The absence of net worth information eliminates the possibility of evaluating financial transparency standards expected of elected representatives.
-
-This lack of asset data is flagged with low confidence warnings, suggesting potential systemic issues in data availability rather than deliberate non-disclosure. However, the impact on transparency remains the same regardless of the underlying cause.
-
-### Legal & Criminal Standing
-
-Murmu maintains a clean legal record with zero cases across all categories - no pending cases, disposals, or convictions. This represents a positive aspect of his profile, though the data comes with low confidence warnings that suggest potential gaps in criminal record verification systems.
-
-The absence of any serious criminal allegations provides some assurance regarding his legal standing, though the data quality caveats require acknowledgment.
-
-### Parliamentary Performance
-
-Murmu demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to his legislative duties. His parliamentary engagement shows moderate activity with 59 questions raised and participation in 12 debates, suggesting reasonable involvement in legislative processes.
-
-However, he has introduced zero private member bills, indicating limited initiative in proposing new legislation. His monthly compensation of Rs 2.45 lakh aligns with standard parliamentary remuneration.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified. The coverage distribution shows 1 positive, 1 negative, and 8 neutral articles, suggesting minimal controversial issues but also limited proactive public communication.
-
-The low evidence grade for accessibility (D) indicates poor performance in maintaining transparent communication channels with constituents. This limitation in public engagement may impact his ability to effectively represent constituency interests.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight significant data reliability issues:
-- Criminal record data carries low confidence warnings
-- Asset information is flagged as unreliable
-- MPLADS utilization data is entirely missing
-- Committee participation data is unavailable
-- Parliamentary effectiveness receives only a 'C' grade for evidence quality
-
-These data gaps suggest systemic issues in information availability rather than specific transparency failures by the MP, but nonetheless limit accountability assessment.
-
-### Key Takeaway
-
-While Khagen Murmu maintains clean legal standing and demonstrates strong parliamentary attendance, critical gaps in asset disclosure and MPLADS utilization data prevent comprehensive transparency evaluation. The absence of financial and developmental data represents significant accountability limitations that require attention to enable meaningful public oversight of his representative duties.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 13,590,846. MPLADS utilization: 4.1%. Parliament attendance: 100.0%. Questions asked: 59. Debates participated: 12. 1 warning(s) noted.
 
 ---
 
@@ -187,7 +139,7 @@ While Khagen Murmu maintains clean legal standing and demonstrates strong parlia
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -266,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Khagen Murmu's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -283,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

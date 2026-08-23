@@ -3,23 +3,25 @@
 **Constituency:** Banswara, Rajasthan
 **Party:** Bharat Adivasi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 31
+**Education:** 8th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 31.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.77 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.77 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,37 +94,11 @@
 
 ## Qualitative Assessment
 
-Rajkumar Roat demonstrates a mixed transparency profile with significant areas for improvement. While he maintains a clean criminal record and good parliamentary attendance (85%), his transparency is severely hampered by zero committee participation, minimal accessibility to constituents, and lack of legislative contributions. The moderate MPLADS and asset disclosure scores, combined with very low data confidence (14%), suggest inconsistent public accountability practices.
+Rajkumar Roat shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-# Executive Summary: Rajkumar Roat
-
-## Executive Summary: Rajkumar Roat
-
-### Overall Assessment
-Rajkumar Roat, representing Banswara constituency in Rajasthan as a member of the Bharat Adivasi Party, demonstrates a mixed transparency profile characterized by significant data gaps across multiple domains. While showing reasonable parliamentary engagement with 85% attendance, comprehensive assessment is hampered by missing or low-confidence data across financial, asset, and development fund metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given the CAG audit findings highlighting systemic issues in fund management across Rajasthan. The CAG reports reveal concerning patterns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. Without specific MPLADS data for Roat's constituency, it is impossible to assess his development fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on current total assets, previous asset values, growth ratios, or net worth calculations. This absence of financial transparency metrics prevents any meaningful assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 2,45,000, but the lack of asset data represents a significant transparency deficit.
-
-### Legal & Criminal Standing
-Roat maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data suggests no legal issues, the reliability caveat requires acknowledgment.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 85% attendance rate, demonstrating reasonable commitment to legislative proceedings. Roat has raised 43 questions and participated in 14 debates, indicating active engagement in parliamentary discourse. However, he has introduced zero private member bills, suggesting limited legislative initiative. The parliament activity data carries a 'C' grade for evidence quality, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal limited visibility with only 10 news articles identified, all categorized as neutral in sentiment with no positive or negative coverage. This suggests either limited media attention or minimal public discourse around his activities. The accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement effectiveness. No committee participation data is available, further limiting assessment of his broader parliamentary contribution.
-
-### Data Quality & Caveats
-The transparency profile suffers from significant data quality issues across multiple domains. Critical warnings include low confidence in criminal record data, asset information, and MPLADS utilization metrics. Committee participation data is entirely missing, and legislative effectiveness data carries low confidence ratings. The evidence grading system assigns 'C' for parliamentary data and 'D' for accessibility, indicating substantial reliability concerns. These data gaps severely limit the ability to provide comprehensive transparency assessment.
-
-### Key Takeaway
-Rajkumar Roat's transparency profile is characterized by concerning data unavailability rather than documented misconduct. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of crucial financial, asset, and development fund data creates significant transparency gaps. The systemic fund management issues highlighted by CAG audits in Rajasthan underscore the importance of obtaining reliable MPLADS utilization data for meaningful accountability assessment. Improved data collection and disclosure mechanisms are essential for proper transparency evaluation.
+No criminal cases declared. Declared assets: Rs 277,300. MPLADS utilization: 39.3%. Parliament attendance: 85.0%. Questions asked: 43. Debates participated: 14.
 
 ---
 
@@ -164,7 +138,7 @@ Rajkumar Roat's transparency profile is characterized by concerning data unavail
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajkumar Roat's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

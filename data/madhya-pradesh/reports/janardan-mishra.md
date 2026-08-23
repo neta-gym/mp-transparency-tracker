@@ -3,23 +3,25 @@
 **Constituency:** Rewa, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 67.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 51.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.09 Crore
+- **Liabilities:** Rs 1.05 Crore
+- **Net Worth:** Rs 4.04 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 58.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Janardan Mishra shows a mixed transparency profile with strong performance in attendance (100%) and criminal record disclosure (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets scores, combined with very low data confidence (14%) and multiple validation flags, suggest incomplete transparency reporting across key governance areas.
+Janardan Mishra shows moderate transparency with a score of 67.4/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Janardan Mishra
-
-### Overall Assessment
-Janardan Mishra, BJP MP representing Rewa constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and development fund data raises concerns about overall accountability. The MP demonstrates basic legislative engagement but faces challenges in comprehensive transparency reporting.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess Mishra's constituency development performance or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure data is completely absent, with no information available on total assets, previous declarations, growth ratios, or net worth. This fundamental transparency gap prevents evaluation of potential conflicts of interest or wealth accumulation patterns. Only compensation data is available, showing monthly earnings of Rs 2.45 lakh, which appears consistent with standard MP remuneration. The lack of asset transparency significantly undermines financial accountability assessment.
-
-### Legal & Criminal Standing
-Mishra maintains a clean legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. This represents a positive transparency indicator, though data confidence is flagged as low due to potential source unavailability. The absence of legal complications suggests no immediate concerns regarding criminal liability or pending legal challenges.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating commitment to legislative duties. However, substantive participation appears limited with only 51 questions raised, 4 debate contributions, and zero private member's bills introduced. This suggests passive rather than proactive legislative engagement. No committee assignment data is available, preventing assessment of specialized parliamentary work. Overall legislative effectiveness receives low confidence rating.
-
-### Public Engagement & Accessibility
-Public engagement metrics are severely limited. News coverage analysis reveals 10 articles with entirely neutral sentiment—no positive or negative coverage identified. This suggests either limited media presence or potentially controlled/managed public relations. Social media and direct accessibility data are insufficient, earning a 'D' grade for accessibility. The lack of diverse public engagement channels raises questions about constituent communication effectiveness.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly limit assessment reliability. Key caveats include:
-- **Asset Data**: Complete absence of financial disclosure information
-- **MPLADS Data**: No development fund utilization data available
-- **Criminal Records**: Low confidence due to potential source unavailability
-- **Committee Work**: No parliamentary committee assignment data
-- **Legislative Effectiveness**: Low confidence in comprehensive activity assessment
-- **Evidence Grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-These limitations suggest either incomplete disclosure practices or data collection challenges, preventing comprehensive transparency evaluation.
-
-### Key Takeaway
-Janardan Mishra's transparency profile is characterized by perfect parliamentary attendance and a clean legal record, but severely undermined by critical data gaps in financial disclosure and development fund utilization. The complete absence of asset and MPLADS data, combined with limited public engagement indicators, suggests significant transparency challenges. While maintaining basic legislative presence, the MP's accountability profile lacks the comprehensive disclosure expected for effective democratic oversight. Immediate priorities should include complete asset disclosure and MPLADS utilization reporting to enable meaningful transparency assessment.
+No criminal cases declared. Declared assets: Rs 50,938,896. MPLADS utilization: 58.0%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 4.
 
 ---
 
@@ -170,7 +138,7 @@ Janardan Mishra's transparency profile is characterized by perfect parliamentary
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Janardan Mishra's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 58.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

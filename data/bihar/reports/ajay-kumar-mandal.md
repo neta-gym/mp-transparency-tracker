@@ -6,23 +6,23 @@
 **Age:** 40
 **Education:** Graduate Professional
 **Profession:** Agriculture
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.0 / 100
+## Composite Transparency Score: 46.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 22.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.63 Lakh
-- **Immovable Assets:** N/A
-- **Total Assets:** Rs 2.63 Lakh
-- **Liabilities:** Rs 1.00 Lakh
-- **Net Worth:** Rs 1.63 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.22 Crore
+- **Liabilities:** Rs 49.80 Lakh
+- **Net Worth:** Rs 72.52 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.5%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Ajay Kumar Mandal shows a mixed transparency profile with moderate MPLADS and asset disclosure but significant weaknesses in legislative participation and public accessibility. His clean criminal record is noteworthy, but poor attendance and zero committee participation raise concerns about engagement. The low data confidence and multiple validation flags suggest limited available information.
+Ajay Kumar Mandal has a below-average transparency score of 46.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-## Executive Summary: Ajay Kumar Mandal
-
-### Overall Assessment
-Ajay Kumar Mandal, a 40-year-old Janata Dal (United) MP representing Bhagalpur constituency in Bihar, presents a mixed transparency profile. While maintaining a clean legal record and demonstrating modest parliamentary engagement through question submissions, his overall effectiveness is constrained by poor attendance rates and limited data availability across key performance indicators.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, raising transparency concerns given the scheme's importance for constituency development. This data gap is particularly significant considering Bihar's documented issues with fund management. CAG audits reveal systemic problems in the state, including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for Mandal's constituency, his developmental impact remains unmeasurable.
-
-### Financial Transparency
-Mandal reports total assets worth Rs 2.63 lakh with a net worth of Rs 1.63 lakh, indicating modest personal wealth. No previous asset declarations are available, preventing assessment of wealth accumulation patterns during his tenure. His monthly compensation totals Rs 2.45 lakh. The relatively low asset base compared to many parliamentarians suggests limited personal financial complexity, though the absence of growth trend data limits comprehensive evaluation.
-
-### Legal & Criminal Standing
-Mandal maintains an exemplary legal record with zero criminal cases—no serious charges, pending cases, disposed matters, or convictions. This clean record represents a significant positive factor in his transparency profile, particularly given concerns about criminalization in Indian politics.
-
-### Parliamentary Performance
-Mandal's parliamentary engagement shows concerning patterns. His attendance rate of 25% falls well below acceptable standards for effective representation. However, he has submitted 32 questions during his tenure, indicating some level of engagement with parliamentary oversight functions. Notably, he has not participated in debates or introduced private member bills, suggesting limited legislative initiative. No committee membership data is available, preventing assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 articles tracked—9 neutral pieces, 1 negative, and no positive coverage. This subdued media presence suggests limited public visibility or controversial positioning. The absence of positive coverage may indicate missed opportunities for highlighting constituency work or policy initiatives. Social media and direct public accessibility data are not available in the current assessment.
-
-### Data Quality & Caveats
-Several data quality issues significantly impact this assessment's comprehensiveness. MPLADS data carries low confidence ratings, preventing evaluation of the most direct measure of constituency service. Legislative effectiveness data also has low confidence scores, limiting assessment of parliamentary impact. Committee participation data is entirely unavailable, potentially due to incomplete Sansad profile information. Evidence grades vary from B-level for criminal records and assets to D-level for accessibility metrics, indicating substantial data gaps.
-
-### Key Takeaway
-Ajay Kumar Mandal presents as a legally clean representative with modest financial standing but concerning performance gaps, particularly in parliamentary attendance (25%) and measurable developmental work. While his question-raising activity shows some engagement, the absence of critical MPLADS data and poor attendance rates raise questions about effective constituency representation. His transparency profile would benefit significantly from improved data availability and enhanced parliamentary participation.
+No criminal cases declared. Declared assets: Rs 12,232,756. MPLADS utilization: 28.5%. Parliament attendance: 25.0%. Questions asked: 32.
 
 ---
 
@@ -163,7 +139,7 @@ Ajay Kumar Mandal presents as a legally clean representative with modest financi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ajay Kumar Mandal's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

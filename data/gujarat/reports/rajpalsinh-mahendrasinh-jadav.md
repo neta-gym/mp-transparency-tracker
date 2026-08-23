@@ -3,23 +3,25 @@
 **Constituency:** Panchmahal, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 53.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 9.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.20 Crore
+- **Liabilities:** Rs 4.40 Lakh
+- **Net Worth:** Rs 2.16 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Rajpalsinh Mahendrasinh Jadav shows a mixed transparency profile with strong attendance (95%) and clean criminal record, but significant gaps in legislative participation, committee involvement, and public accessibility. The low participation score (20%) and zero committee activity indicate limited engagement in parliamentary processes beyond basic attendance.
+Rajpalsinh Mahendrasinh Jadav shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Rajpalsinh Mahendrasinh Jadav
-
-### Overall Assessment
-Rajpalsinh Mahendrasinh Jadav, BJP MP representing Panchmahal constituency in Gujarat, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across multiple accountability measures. The available evidence suggests basic compliance with parliamentary duties while revealing substantial limitations in data availability for critical transparency indicators.
-
-### Fund Utilization & Development
-**Critical data unavailable.** No MPLADS (Member of Parliament Local Area Development Scheme) data is available for entitled amounts, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly concerning given the CAG audit context revealing systemic issues in Gujarat's fund management. The audit findings highlight Rs 1,558 crore in idle funds across district authorities and concerning patterns where 34% of utilization certificates lacked proper documentation and 18% of sampled works remained incomplete or abandoned. Without specific MPLADS data for this MP, constituents cannot assess development fund effectiveness.
-
-### Financial Transparency
-**Asset disclosure data completely unavailable.** No information exists regarding the MP's total assets, previous declarations, growth ratios, or net worth. This represents a fundamental gap in financial transparency that prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The absence of both current and comparative asset data severely limits transparency evaluation in this critical area.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources, suggesting this clean record should be interpreted with appropriate caution regarding data completeness.
-
-### Parliamentary Performance
-**Strong attendance with limited legislative engagement.** The MP demonstrates excellent parliamentary attendance at 95%, significantly above average benchmarks. However, legislative participation appears minimal with zero questions raised, only 3 debates participated in, and no private member bills introduced. This pattern suggests physical presence without active legislative engagement. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-**Limited digital presence and accessibility.** News coverage analysis reveals 10 articles with neutral sentiment (zero positive or negative articles), suggesting minimal media engagement or public visibility. The 'D' evidence grade for accessibility indicates poor data availability regarding public engagement mechanisms. No committee participation data is available, representing another gap in assessing the MP's broader parliamentary contributions beyond floor activities.
-
-### Data Quality & Caveats
-**Significant data reliability concerns across multiple domains.** The analysis reveals systematic data gaps with low confidence warnings for criminal records, assets, and MPLADS information. Committee data is entirely unavailable, and legislative effectiveness data carries low confidence ratings. These limitations substantially impact the reliability of this transparency assessment. The evidence is primarily sourced from PRS, social media, and news outlets, with notable gaps in official government databases.
-
-### Key Takeaway
-While MP Jadav maintains strong parliamentary attendance (95%) and a clean criminal record, his transparency profile is severely compromised by comprehensive data unavailability across critical accountability measures including asset declarations, MPLADS utilization, and legislative effectiveness. The systemic data gaps, combined with minimal legislative engagement despite strong attendance, raise questions about overall parliamentary effectiveness and transparency compliance that cannot be adequately assessed with current available information.
+No criminal cases declared. Declared assets: Rs 22,046,500. MPLADS utilization: 12.0%. Parliament attendance: 95.0%. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Jadav maintains strong parliamentary attendance (95%) and a clean crimi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajpalsinh Mahendrasinh Jadav's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

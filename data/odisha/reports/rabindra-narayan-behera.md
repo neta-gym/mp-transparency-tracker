@@ -3,23 +3,25 @@
 **Constituency:** Jajpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 50.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 2.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.56 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 3.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Rabindra Narayan Behera demonstrates a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and good attendance, his legislative participation and committee work show concerning deficiencies, with zero scores in committee involvement and legislative activities.
+Rabindra Narayan Behera shows moderate transparency with a score of 50.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Rabindra Narayan Behera
-
-### Overall Assessment
-MP Rabindra Narayan Behera (BJP, Jajpur, Odisha) presents a limited transparency profile due to significant data gaps across multiple domains. While his criminal record appears clean and parliamentary attendance is satisfactory at 85%, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable, severely constraining comprehensive evaluation of his performance.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of this data prevents assessment of the MP's effectiveness in delivering local infrastructure and development projects. CAG audit findings from Odisha highlight systemic concerns including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, underscoring the importance of transparent fund tracking.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth. This fundamental gap prevents evaluation of financial transparency and potential conflicts of interest. The MP's monthly compensation is reported as Rs 2,45,000, but without asset context, comprehensive financial assessment remains impossible. The warning flag indicates low confidence in available asset data sources.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings suggest potential limitations in criminal record verification systems, indicating this assessment should be treated with appropriate caution despite the favorable numbers.
-
-### Parliamentary Performance
-Behera demonstrates moderate parliamentary engagement with 85% attendance, which exceeds typical benchmarks. His legislative activity remains limited with only 3 questions raised and 3 debate participations, suggesting minimal active contribution to parliamentary discourse. No private member bills were introduced, and committee participation data is unavailable, preventing full assessment of his legislative effectiveness. The evidence grade of 'C' for parliamentary performance reflects these mixed indicators.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting limited public visibility or controversy. The absence of accessibility data and 'D' evidence grade for this domain indicates poor transparency regarding public engagement mechanisms. No information is available on constituency outreach programs, public meetings, or citizen interaction initiatives, representing a significant accountability gap.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight serious data reliability concerns:
-- Criminal records carry low confidence warnings due to potential source unavailability
-- Asset information shows low confidence across all metrics
-- MPLADS data is entirely missing with low confidence ratings
-- Committee participation data is unavailable, possibly due to missing Sansad profile
-- Legislative effectiveness data carries low confidence indicators
-
-These limitations significantly constrain the reliability of this assessment and suggest systemic issues with transparency infrastructure.
-
-### Key Takeaway
-While MP Behera maintains a clean criminal record and acceptable parliamentary attendance, his transparency profile is severely compromised by missing critical data across assets, MPLADS utilization, and public engagement metrics. The extensive data gaps prevent meaningful evaluation of his development impact and financial transparency, highlighting the need for improved disclosure mechanisms and data availability to enable proper democratic accountability.
+No criminal cases declared. Declared assets: Rs 45,567,092. MPLADS utilization: 3.5%. Parliament attendance: 85.0%. Questions asked: 3. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While MP Behera maintains a clean criminal record and acceptable parliamentary a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rabindra Narayan Behera's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 3.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

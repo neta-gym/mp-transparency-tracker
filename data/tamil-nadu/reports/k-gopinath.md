@@ -3,23 +3,25 @@
 **Constituency:** Krishnagiri, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 53.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 15.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 12.34 Crore
+- **Liabilities:** Rs 1.15 Crore
+- **Net Worth:** Rs 11.19 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 18.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-K Gopinath demonstrates a mixed transparency profile with significant weaknesses in key areas. While maintaining a clean criminal record and showing moderate performance in MPLADS utilization, assets disclosure, attendance, and parliamentary participation, he faces critical deficiencies in committee involvement, public accessibility, and legislative activity. The low data confidence of 14% and multiple validation flags suggest substantial gaps in available information.
+K Gopinath shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: K Gopinath
-
-### Overall Assessment
-K Gopinath, Indian National Congress MP representing Krishnagiri constituency in Tamil Nadu, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. His parliamentary attendance rate of 60% falls below optimal standards, while financial and asset disclosure information is largely unavailable, raising concerns about transparency accountability.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is not available for this MP, making it impossible to assess constituency development fund utilization. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Tamil Nadu's fund management. The CAG's 31st report of 2010 identified Rs 1,558 crore lying unspent in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of sampled works remaining abandoned or incomplete. Without MPLADS data, stakeholders cannot evaluate whether similar issues affect Krishnagiri constituency.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth figures. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for public accountability. The MP receives a total monthly compensation of Rs 2,45,000, but without asset data, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-K Gopinath maintains a clean criminal record with zero cases across all categories - total, serious, pending, disposed, and convictions. However, this data comes with a low confidence warning, indicating potential source unavailability. While the clean record is positive, the data quality caveat suggests this information should be verified through additional sources for complete accuracy.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with concerning attendance patterns. The MP's 60% attendance rate indicates irregular participation in legislative proceedings. Legislative activity includes 31 questions raised and participation in 2 debates, but no private bills introduced. This level of engagement falls short of expectations for effective constituency representation, particularly given the absence of committee participation data, which suggests limited involvement in specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media presence analysis reveals 10 news articles covering the MP, all classified as neutral in sentiment with no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial positions. The evidence grade for accessibility receives a 'D' rating, indicating poor performance in public engagement and constituent accessibility measures. No social media engagement metrics are available, further limiting assessment of public outreach efforts.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Criminal record data carries low confidence warnings, asset information is entirely unavailable, and MPLADS utilization data is missing. Parliamentary performance data receives a 'C' grade, while accessibility metrics earn a 'D' grade. Committee participation information is completely absent, suggesting the MP's Sansad profile may be unavailable. These gaps substantially limit the reliability of this transparency assessment and highlight the need for improved data collection and disclosure mechanisms.
-
-### Key Takeaway
-K Gopinath's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee participation. While maintaining a clean criminal record, his 60% parliamentary attendance and limited legislative engagement raise concerns about representative effectiveness. The absence of financial transparency data, combined with poor accessibility ratings, suggests significant improvements needed in public accountability and constituent engagement. Stakeholders should demand better data disclosure and increased parliamentary participation to ensure effective representation of Krishnagiri constituency interests.
+No criminal cases declared. Declared assets: Rs 123,405,500. MPLADS utilization: 18.7%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ K Gopinath's transparency profile is severely hampered by extensive data unavail
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for K Gopinath's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 18.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

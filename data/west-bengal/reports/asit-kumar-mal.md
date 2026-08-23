@@ -3,23 +3,23 @@
 **Constituency:** Bolpur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 63.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 53.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.13 Crore
+- **Liabilities:** Rs 4.64 Lakh
+- **Net Worth:** Rs 1.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 28
+- **Released:** Rs 28
+- **Sanctioned:** Rs 22
+- **Expended:** Rs 16
+- **Utilization Rate:** 58.9%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Asit Kumar Mal shows a mixed transparency profile with strong performance in criminal record disclosure and attendance (both 100%) but significant weaknesses in parliamentary participation and public engagement. His low scores in committee work (0%), legislative activities (0%), and accessibility (10%) indicate limited active engagement in core MP responsibilities beyond basic attendance.
+Asit Kumar Mal shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Asit Kumar Mal
-
-### Overall Assessment
-Asit Kumar Mal, representing Bolpur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance and a clean criminal record, substantial missing information regarding assets, MPLADS fund utilization, and limited legislative activity raises concerns about overall accountability and effectiveness.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact in Bolpur constituency. This data gap is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Without transparent reporting of entitled, released, and expended amounts, constituents cannot evaluate their MP's developmental priorities or execution capabilities.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data available for current or previous asset holdings, growth ratios, or net worth calculations. This represents a critical transparency deficit, as asset disclosure is fundamental to public accountability. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but the absence of asset data prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-Asit Kumar Mal maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the clean record is positive, the cautionary note about data reliability requires acknowledgment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with perfect 100% attendance demonstrating commitment to House proceedings. However, legislative productivity remains minimal with zero questions raised, only 2 debate participations, and no private member bills introduced. This limited active participation suggests a passive parliamentary approach despite consistent physical presence. The absence of committee membership data further limits assessment of specialized legislative contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with zero positive or negative sentiment pieces, indicating limited public discourse or controversial positioning. This neutral profile suggests either low visibility in public debates or effective reputation management. However, the evidence grade for accessibility receives a 'D' rating, indicating poor responsiveness to citizen concerns and limited transparent communication channels.
-
-### Data Quality & Caveats
-Multiple significant data quality issues compromise this assessment. Criminal record confidence is low due to potentially unavailable sources. Asset data shows low confidence levels, while MPLADS information is entirely missing. Committee assignments are unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These gaps represent 7 relevant CAG audit findings for West Bengal, suggesting systemic transparency challenges beyond individual MP performance.
-
-### Key Takeaway
-Asit Kumar Mal's transparency profile is severely hampered by missing critical data across multiple domains, particularly asset declarations and MPLADS utilization. While maintaining perfect attendance and clean criminal record, the absence of substantive legislative activity and poor accessibility ratings raise questions about effective representation. The extensive data gaps, combined with systemic audit findings in West Bengal's fund management, underscore the urgent need for improved transparency mechanisms and more comprehensive public disclosure by the MP to enable meaningful accountability assessment.
+No criminal cases declared. Declared assets: Rs 11,257,405. MPLADS utilization: 58.9%. Parliament attendance: 100.0%. Debates participated: 2.
 
 ---
 
@@ -162,7 +136,7 @@ Asit Kumar Mal's transparency profile is severely hampered by missing critical d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Asit Kumar Mal's MPLADS account: Released: Rs 28, Expended: Rs 16, Utilization: 58.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

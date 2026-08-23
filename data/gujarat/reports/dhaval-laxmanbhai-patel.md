@@ -3,23 +3,25 @@
 **Constituency:** Valsad, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 37
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 56.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 19.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.79 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 6.79 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Dhaval Laxmanbhai Patel shows a mixed transparency profile with significant gaps in key areas. While maintaining excellent attendance (90%) and a clean criminal record (100%), his performance is severely hampered by zero committee participation and legislative activity, along with very poor public accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with low data confidence (14%) and multiple validation flags, suggest incomplete transparency reporting.
+Dhaval Laxmanbhai Patel shows moderate transparency with a score of 56.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Dhaval Laxmanbhai Patel
-
-### Overall Assessment
-Dhaval Laxmanbhai Patel, the Bharatiya Janata Party MP from Valsad, Gujarat, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (90%), substantial information about his assets, MPLADS utilization, and development activities remains unavailable, limiting full assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-Critical gaps exist in MPLADS (Members of Parliament Local Area Development Scheme) data, with no information available on entitled funds, releases, expenditures, or utilization rates. This absence of data is particularly concerning given the CAG's 2010 audit findings for Gujarat, which revealed systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Patel's constituency, it's impossible to assess his development impact or fund management efficiency.
-
-### Financial Transparency
-Asset disclosure presents a complete data void, with no information available on current total assets, previous declarations, growth ratios, or net worth. This lack of financial transparency severely hampers public accountability assessment. The monthly compensation of Rs 245,000 is documented, but without asset context, voters cannot evaluate potential conflicts of interest or wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-Patel maintains a completely clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the warning about source availability means this assessment should be treated cautiously.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with a commendable 90% attendance rate, demonstrating consistent participation in legislative proceedings. However, his legislative output appears limited with 25 questions raised, only 3 debate participations, and zero private member bills introduced. This suggests minimal proactive legislative initiative beyond basic attendance requirements. The evidence grade of 'C' for parliamentary performance indicates moderate confidence in this assessment.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal concerning limitations. News coverage analysis of 10 articles shows entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or impact. The accessibility evidence grade of 'D' indicates poor data availability regarding constituent interaction, social media presence, or community engagement initiatives. No committee participation data was found, potentially indicating limited specialized legislative involvement.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment's reliability. Automated flags highlight low confidence in criminal records, assets, and MPLADS data due to source unavailability. Committee information and legislative effectiveness data are entirely missing. The CAG audit context provides valuable background on Gujarat's fund utilization challenges but cannot substitute for constituency-specific data. Evidence grades range from C to D, indicating substantial data quality concerns across key transparency metrics.
-
-### Key Takeaway
-While Dhaval Laxmanbhai Patel maintains basic parliamentary attendance and a clean criminal record, severe data gaps across financial disclosure, fund utilization, and public engagement severely limit transparency assessment. The absence of asset declarations, MPLADS data, and meaningful legislative output raises questions about overall effectiveness and accountability. Voters lack sufficient information to make informed judgments about his development impact or financial integrity, highlighting the need for improved data disclosure and public reporting mechanisms.
+No criminal cases declared. Declared assets: Rs 67,850,853. MPLADS utilization: 24.3%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ While Dhaval Laxmanbhai Patel maintains basic parliamentary attendance and a cle
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dhaval Laxmanbhai Patel's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

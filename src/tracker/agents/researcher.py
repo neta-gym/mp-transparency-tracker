@@ -142,6 +142,7 @@ class ResearcherAgent(BaseAgent):
         news_sentiment = NewsSentiment()
         legislative = LegislativeRecord()
         profile_extras: dict = {}
+        news: list = []
 
         if "myneta" in tasks:
             try:
@@ -270,7 +271,6 @@ class ResearcherAgent(BaseAgent):
             legislative.private_member_bills = parliament.private_bills_introduced
 
         # News and raw notes
-        news = []
         raw_notes = ""
 
         # Add MP compensation (informational, not scored)

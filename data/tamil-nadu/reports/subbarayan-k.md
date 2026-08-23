@@ -3,32 +3,34 @@
 **Constituency:** Tiruppur, Tamil Nadu
 **Party:** Communist Party of India
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 76
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 59.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 42.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.04 Crore
+- **Liabilities:** Rs 1.50 Lakh
+- **Net Worth:** Rs 1.03 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 8
+- **Utilization Rate:** 51.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,61 +94,11 @@
 
 ## Qualitative Assessment
 
-Subbarayan K demonstrates below-average transparency with a score of 49.5/100, showing significant gaps in key areas. While maintaining a clean criminal record and moderate attendance/participation levels, the MP faces major deficiencies in committee involvement, public accessibility, and legislative activity disclosure. The low data confidence (14%) and multiple validation flags suggest substantial information gaps that further compromise transparency assessment.
+Subbarayan K shows moderate transparency with a score of 59.8/100. Minor criminal cases on record. Active in questions and debates.
 
 ---
 
-# Executive Summary: Subbarayan K
-
-## Executive Summary: Subbarayan K
-
-Subbarayan K represents the Tiruppur constituency in Tamil Nadu as a member of the Communist Party of India in the Lok Sabha. This transparency assessment reveals significant data gaps across most key metrics, with limited information available on financial assets, MPLADS fund utilization, and criminal background. The available data shows moderate parliamentary engagement with concerning attendance patterns.
-
-### Overall Assessment
-
-The transparency profile for MP Subbarayan K is severely limited by data availability issues across critical areas. With evidence grades of 'C' for parliamentary activity and 'D' for accessibility, this assessment is constrained by missing information on assets, MPLADS funds, and comprehensive criminal records. The monthly compensation of ₹2,45,000 is documented, but most financial transparency indicators remain unavailable.
-
-### Fund Utilization & Development
-
-**MPLADS Performance:** Complete data unavailability prevents assessment of MPLADS fund utilization. No information is available on entitled amounts, releases, expenditure, or utilization percentages.
-
-**Contextual Concerns:** CAG audit findings for Tamil Nadu reveal systemic issues in fund management, including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. These state-level findings highlight potential oversight challenges that may affect constituency development.
-
-### Financial Transparency
-
-**Asset Disclosure:** No asset information is available for current or previous periods, preventing any assessment of financial growth, net worth, or potential conflicts of interest. This represents a significant transparency gap.
-
-**Compensation:** Monthly compensation stands at ₹2,45,000, which is the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-
-**Criminal Record:** Reports indicate zero criminal cases across all categories (total, serious, pending, disposed, convictions). However, automated flags warn of low confidence in this criminal data due to potential source unavailability, requiring cautious interpretation of this clean record.
-
-### Parliamentary Performance
-
-**Attendance:** 70% attendance rate falls below optimal parliamentary engagement standards, indicating room for improvement in legislative participation.
-
-**Legislative Activity:** Moderate engagement with 41 questions raised and 9 debate participations during the assessed period. No private member bills were introduced, suggesting limited legislative initiative.
-
-**Committee Participation:** No committee data is available, potentially indicating absence from parliamentary committee work or data accessibility issues.
-
-### Public Engagement & Accessibility
-
-**Media Coverage:** Analysis of 10 news articles shows entirely neutral coverage with no positive or negative sentiment detected. This suggests limited public visibility or controversial positions.
-
-**Accessibility Concerns:** The 'D' grade for accessibility indicates significant challenges in public engagement and transparency, potentially limiting constituent communication and accountability.
-
-### Data Quality & Caveats
-
-**Significant Limitations:** Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data. The absence of committee information suggests potential unavailability of the MP's Sansad profile.
-
-**Evidence Quality:** Parliamentary data receives a 'C' grade, indicating moderate reliability, while accessibility data is graded 'D', suggesting poor data quality or limited transparency practices.
-
-**Source Limitations:** Data compilation from PRS, social media, and news sources may not capture complete transparency metrics, particularly for financial disclosures and development fund utilization.
-
-### Key Takeaway
-
-Subbarayan K's transparency profile is severely hampered by widespread data unavailability across critical metrics including assets, MPLADS funds, and comprehensive criminal background checks. While showing clean criminal records and moderate parliamentary activity (70% attendance, 41 questions), the significant data gaps prevent a comprehensive transparency assessment. The 'D' grade for accessibility and missing financial information raise concerns about overall transparency standards. Immediate attention should focus on improving data disclosure and public accessibility to enable proper accountability evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 10,431,271. MPLADS utilization: 51.9%. Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 9.
 
 ---
 
@@ -188,7 +138,7 @@ Subbarayan K's transparency profile is severely hampered by widespread data unav
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -267,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Subbarayan K's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -284,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

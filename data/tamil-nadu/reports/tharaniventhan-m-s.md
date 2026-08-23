@@ -3,23 +3,25 @@
 **Constituency:** Arani, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 62.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 54.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.72 Crore
+- **Liabilities:** Rs 35.63 Lakh
+- **Net Worth:** Rs 1.36 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 10
+- **Utilization Rate:** 59.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,49 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Tharaniventhan M S demonstrates a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record and decent attendance, critical weaknesses in committee participation, legislative activity, and public accessibility substantially undermine overall transparency. The low data confidence of 14% and multiple validation flags suggest limited public information availability.
+Tharaniventhan M S shows moderate transparency with a score of 62.2/100. No criminal cases declared.
 
 ---
 
-## Executive Summary: Tharaniventhan M S
-
-### Overall Assessment
-
-Tharaniventhan M S, representing Arani constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a limited transparency profile due to significant data gaps across multiple evaluation criteria. With evidence grades of 'C' for parliament activity and 'D' for accessibility, comprehensive assessment is constrained by incomplete information on critical areas including assets, MPLADS utilization, and criminal records.
-
-### Fund Utilization & Development
-
-MPLADS data is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly concerning given Tamil Nadu's systemic MPLADS issues identified in CAG audits. The 2010 CAG audit (Report 31) highlighted ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific data on Tharaniventhan's MPLADS performance, constituents cannot assess local development fund effectiveness.
-
-### Financial Transparency
-
-Asset declaration data is entirely missing, preventing any assessment of the MP's financial standing, wealth accumulation, or potential conflicts of interest. No information is available on total assets, previous declarations, growth ratios, or net worth. The MP receives a standard monthly compensation of ₹245,000, but without asset disclosure data, comprehensive financial transparency cannot be evaluated. This data gap significantly undermines accountability standards expected from elected representatives.
-
-### Legal & Criminal Standing
-
-The MP shows a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this assessment carries low confidence due to potential data source limitations, as indicated by automated system warnings about criminal record data availability. While the available information suggests no legal complications, the data quality caveat necessitates cautious interpretation.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity levels with 75% attendance, indicating reasonable participation in House proceedings. The MP has raised 23 questions, participated in 3 debates, but introduced no private member bills. This performance suggests active constituency representation through questioning mechanisms, though limited legislative initiative through private bills. The attendance rate, while above average for many MPs, leaves room for improvement in House participation.
-
-### Public Engagement & Accessibility
-
-Public engagement assessment is severely limited by data constraints. News sentiment analysis reveals 10 articles with entirely neutral coverage - no positive or negative sentiment detected. This neutral media presence suggests either limited public visibility or measured, non-controversial public engagement. However, with an accessibility evidence grade of 'D', the MP's public engagement mechanisms, social media presence, and constituent interaction channels remain largely unassessed.
-
-### Data Quality & Caveats
-
-Multiple critical data quality issues significantly impact this assessment:
-- **High-risk gaps**: Asset declarations and MPLADS utilization data completely unavailable
-- **Medium-risk concerns**: Criminal record data flagged for low confidence
-- **System limitations**: No committee membership data found; Sansad profile potentially unavailable
-- **Evidence quality**: Parliament activity rated 'C', accessibility rated 'D'
-
-These gaps prevent comprehensive transparency evaluation and limit accountability assessment. The absence of key financial and development data particularly undermines the profile's utility for voter decision-making.
-
-### Key Takeaway
-
-Tharaniventhan M S demonstrates clean legal standing and moderate parliamentary engagement, but severe data transparency gaps prevent comprehensive accountability assessment. Critical missing information on asset declarations and MPLADS utilization, combined with Tamil Nadu's documented fund management challenges, raises significant transparency concerns. Voters lack essential information to evaluate the MP's financial integrity and development fund effectiveness, highlighting systemic transparency deficits that require immediate attention for meaningful democratic accountability.
+No criminal cases declared. Declared assets: Rs 17,161,977. MPLADS utilization: 59.8%. Parliament attendance: 75.0%. Questions asked: 23. Debates participated: 3.
 
 ---
 
@@ -176,7 +138,7 @@ Tharaniventhan M S demonstrates clean legal standing and moderate parliamentary 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -255,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tharaniventhan M S's MPLADS account: Released: Rs 17, Expended: Rs 10, Utilization: 59.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -272,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

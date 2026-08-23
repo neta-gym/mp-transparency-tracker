@@ -3,32 +3,34 @@
 **Constituency:** Kolkata Dakshin, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.5 / 100
+## Composite Transparency Score: 47.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 32.0 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 20.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.54 Crore
+- **Liabilities:** Rs 7.96 Lakh
+- **Net Worth:** Rs 1.46 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 40.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Mala Roy demonstrates a below-average transparency profile with a score of 41.5/100, showing concerning gaps in public engagement and legislative activity. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, significant weaknesses emerge in parliamentary attendance (20%), committee participation (0%), and public accessibility (10%). The low data confidence of 14% and multiple validation flags suggest limited available information, which itself indicates insufficient public transparency.
+Mala Roy has a below-average transparency score of 47.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-## Executive Summary: Mala Roy
-
-### Overall Assessment
-Mala Roy, representing Kolkata Dakshin constituency for the All India Trinamool Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps across multiple accountability metrics. While maintaining a clean criminal record, her parliamentary engagement shows concerning patterns with notably low attendance and limited legislative participation.
-
-### Fund Utilization & Development
-Critical data gaps exist in MPLADS fund utilization tracking, with no available information on entitled amounts, releases, expenditures, or utilization percentages. This absence of transparency is concerning given the CAG audit findings highlighting systemic issues in West Bengal's fund management. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without MPLADS data, constituents cannot assess whether development funds are being effectively utilized in Kolkata Dakshin.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, preventing any assessment of financial transparency or potential conflicts of interest. No information exists on total assets, previous holdings, growth ratios, or net worth changes during her tenure. Her monthly compensation stands at Rs 2,45,000, but without asset disclosures, comprehensive financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-Mala Roy maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting these figures should be interpreted cautiously.
-
-### Parliamentary Performance
-Parliamentary engagement reveals significant deficiencies. Attendance stands at a concerning 20%, well below expectations for effective representation. While she has raised 42 questions, indicating some engagement with legislative scrutiny, her participation in debates is zero, and she has introduced no private member bills. This pattern suggests limited contribution to parliamentary discourse and legislative development, potentially compromising her constituency's voice in national decision-making.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or engagement. The absence of strong media presence, combined with a 'D' grade for accessibility, indicates potential challenges in constituent communication and public outreach. No committee participation data is available, further limiting assessment of her policy engagement beyond basic parliamentary duties.
-
-### Data Quality & Caveats
-This analysis faces substantial limitations due to widespread data unavailability. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these constraints. Automated warnings flag low confidence in criminal records, complete absence of asset data, and missing MPLADS information. Committee and legislative effectiveness data are unavailable, potentially due to inaccessible Sansad profiles. These gaps significantly limit comprehensive transparency assessment and suggest systematic issues with public information availability.
-
-### Key Takeaway
-Mala Roy's transparency profile is severely hampered by extensive data gaps across critical accountability metrics, making comprehensive evaluation impossible. While maintaining a clean criminal record, her 20% parliamentary attendance and zero debate participation raise questions about representational effectiveness. The complete absence of asset declarations and MPLADS utilization data, combined with concerning CAG audit findings about fund management in West Bengal, highlights significant transparency deficits that prevent constituents from making informed assessments of her performance and accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 15,397,092. MPLADS utilization: 40.0%. Parliament attendance: 20.0%. Questions asked: 42.
 
 ---
 
@@ -162,7 +138,7 @@ Mala Roy's transparency profile is severely hampered by extensive data gaps acro
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mala Roy's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 40.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

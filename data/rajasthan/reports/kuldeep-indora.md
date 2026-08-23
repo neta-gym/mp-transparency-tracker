@@ -3,23 +3,25 @@
 **Constituency:** Ganganagar, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.72 Crore
+- **Liabilities:** Rs 1.75 Crore
+- **Net Worth:** Rs 11.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.8%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Kuldeep Indora demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, both scoring perfect marks. However, significant weaknesses emerge in committee participation, legislative contributions, and public accessibility, with several metrics scoring zero points, resulting in a below-average overall transparency profile.
+Kuldeep Indora shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kuldeep Indora
-
-### Overall Assessment
-Kuldeep Indora, Indian National Congress MP from Ganganagar, Rajasthan, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance and active questioning in Parliament, the absence of crucial financial and development data limits comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Indora, including entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary mechanism for MPs to drive local development. The CAG audit context reveals systemic issues in Rajasthan's fund management, with ₹1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about effective fund deployment in his constituency.
-
-### Financial Transparency
-Asset declaration data is entirely unavailable, preventing assessment of MP Indora's financial transparency or potential conflicts of interest. No information exists regarding total assets, previous declarations, growth ratios, or net worth. This absence of financial disclosure data significantly hampers public accountability evaluation. His monthly compensation is recorded as ₹2,45,000, consistent with standard MP remuneration.
-
-### Legal & Criminal Standing
-MP Indora maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning due to potential source unavailability, suggesting the clean record should be interpreted cautiously pending verification from authoritative sources.
-
-### Parliamentary Performance
-MP Indora demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above average MP participation rates. He has raised 27 questions in Parliament, indicating active constituency representation and policy engagement. His participation extends to 6 parliamentary debates, showing involvement in legislative discussions. However, he has not introduced any private member bills, suggesting limited initiative in legislative drafting. The evidence grade for parliamentary data is 'C', indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 9 news articles covering MP Indora's activities. The sentiment analysis reveals predominantly neutral coverage (8 neutral articles) with one negative article and no positive coverage, suggesting minimal media presence or public discourse around his work. This low media profile may indicate either limited public outreach or ineffective communication strategies. The accessibility evidence grade is 'D', indicating poor data availability for public engagement assessment.
-
-### Data Quality & Caveats
-Multiple automated warnings flag significant data reliability issues. Criminal record data has low confidence due to source unavailability. Asset information shows low confidence warnings, making financial transparency assessment impossible. MPLADS data is entirely missing, preventing development impact evaluation. Committee membership information is unavailable, potentially due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These data gaps substantially limit the comprehensiveness of this transparency assessment.
-
-### Key Takeaway
-While MP Kuldeep Indora demonstrates commendable parliamentary attendance and questioning activity, critical transparency gaps in financial disclosures, MPLADS utilization, and public engagement severely limit accountability assessment. The clean criminal record is positive but requires verification. His perfect attendance suggests dedication to parliamentary duties, but the absence of asset declarations and development fund data represents significant transparency deficits that voters and oversight bodies should address to ensure comprehensive public accountability.
+No criminal cases declared. Declared assets: Rs 137,189,112. MPLADS utilization: 4.8%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 6. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While MP Kuldeep Indora demonstrates commendable parliamentary attendance and qu
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kuldeep Indora's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

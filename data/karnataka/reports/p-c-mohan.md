@@ -3,32 +3,34 @@
 **Constituency:** Bangalore Central, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 49.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 2.7 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 81.31 Crore
+- **Liabilities:** Rs 15.86 Crore
+- **Net Worth:** Rs 65.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 3.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-P C Mohan demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant weaknesses in legislative engagement and public accessibility. His zero scores in committee participation and legislative activity, combined with very low accessibility ratings, indicate limited transparency in key governance areas despite maintaining basic parliamentary duties.
+P C Mohan has a below-average transparency score of 49.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: P C Mohan
-
-### Overall Assessment
-P C Mohan, BJP MP representing Bangalore Central constituency in Karnataka, presents a mixed transparency profile characterized by exemplary parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance and reasonable parliamentary engagement through 24 questions, substantial missing information regarding assets, MPLADS utilization, and development spending limits comprehensive evaluation of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data for P C Mohan is unavailable, preventing assessment of his constituency development performance. This represents a critical transparency gap given the scheme's ₹5 crore annual allocation per MP. The absence of data on entitled amounts, releases, expenditures, and utilization rates makes it impossible to evaluate his effectiveness in addressing Bangalore Central's infrastructure and development needs. CAG audit findings for Karnataka reveal systemic MPLADS implementation challenges, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation, suggesting broader accountability concerns that may affect constituency-level implementation.
-
-### Financial Transparency
-Complete absence of asset declaration data represents a major transparency deficit. No information is available regarding P C Mohan's total assets, previous declarations, growth ratios, or net worth. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration. Without baseline asset data, stakeholders cannot evaluate financial propriety or transparency in his public service.
-
-### Legal & Criminal Standing
-P C Mohan maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data carries low confidence ratings due to potential source unavailability, suggesting this clean record should be interpreted cautiously. While the reported zero criminal cases is positive, the reliability warning indicates this information may not reflect complete legal disclosure.
-
-### Parliamentary Performance
-P C Mohan demonstrates strong parliamentary attendance with a perfect 100% record, indicating consistent presence in House proceedings. His legislative engagement includes 24 questions raised during the session, showing active constituency representation through parliamentary mechanisms. However, he has not participated in debates (0 recorded) or introduced private member bills (0), suggesting limited proactive legislative initiative beyond question-hour participation. The absence of committee assignment data further restricts evaluation of his specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals modest public visibility with 10 articles generating mixed sentiment - 2 negative, 0 positive, and 8 neutral pieces. This neutral-to-negative media profile suggests limited positive public engagement or potentially controversial positions on certain issues. The evidence grade of 'D' for accessibility indicates poor performance in public outreach, digital presence, or constituent communication channels. No social media engagement data is available, limiting assessment of direct citizen interaction capabilities.
-
-### Data Quality & Caveats
-This profile suffers from significant data quality limitations affecting multiple domains. Criminal record data carries low confidence warnings due to source unavailability. Asset information is completely missing, preventing financial transparency evaluation. MPLADS data is unavailable despite this being a critical accountability metric. Committee assignments are unreported, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and suggest potential systemic data collection issues or disclosure problems.
-
-### Key Takeaway
-P C Mohan's transparency profile reveals a conscientious parliamentarian with perfect attendance and clean criminal record, but significant data gaps undermine comprehensive accountability assessment. While his 100% attendance and 24 questions demonstrate basic parliamentary engagement, missing MPLADS utilization data, complete absence of asset declarations, and poor accessibility ratings raise concerns about broader transparency practices. The 'D' grade for accessibility particularly suggests inadequate constituent engagement for an urban constituency like Bangalore Central. Stakeholders should seek additional transparency measures and data disclosure to enable proper evaluation of his development impact and financial propriety.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 813,065,207. MPLADS utilization: 3.3%. Parliament attendance: 100.0%. Questions asked: 24. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ P C Mohan's transparency profile reveals a conscientious parliamentarian with pe
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for P C Mohan's MPLADS account: Released: Rs 16, Expended: Rs 1, Utilization: 3.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

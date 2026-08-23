@@ -3,23 +3,25 @@
 **Constituency:** Jamui, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 45
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 55.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.49 Crore
+- **Liabilities:** Rs 3.12 Crore
+- **Net Worth:** Rs 3.37 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 12
+- **Utilization Rate:** 60.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Arun Bharti shows a mixed transparency profile with a below-average score of 47.5/100. While he maintains a clean criminal record and demonstrates moderate performance in MPLADS utilization, assets disclosure, and parliamentary participation, significant concerns arise from zero committee involvement and very poor accessibility to constituents.
+Arun Bharti shows moderate transparency with a score of 60.3/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-## Executive Summary: Arun Bharti
-
-### Overall Assessment
-Arun Bharti, Lok Sabha MP from Jamui constituency in Bihar representing Lok Jan Shakti Party (Ram Vilas), presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and moderate parliamentary attendance, substantial information voids in asset disclosure and MPLADS utilization raise transparency concerns.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact in Jamui constituency. This absence is particularly concerning given Bihar's documented fund management issues identified in CAG audits. The state context reveals systemic problems including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine if Bharti's constituency faces similar challenges or has achieved better outcomes.
-
-### Financial Transparency
-Asset declaration information is completely missing, creating a significant transparency gap. No data is available on total assets, previous assets, growth ratios, or net worth, making it impossible to assess financial transparency or potential conflicts of interest. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset disclosure, comprehensive financial assessment remains impossible.
-
-### Legal & Criminal Standing
-Bharti maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. Despite this caveat, the absence of any reported criminal matters represents a positive aspect of his profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 60% attendance rate, falling below optimal standards for constituency representation. Legislative activity includes 45 questions raised and participation in 4 debates, indicating moderate engagement with parliamentary processes. However, no private member bills were introduced, suggesting limited initiative in legislative proposals. The evidence grade of 'C' for parliament data indicates moderate reliability of these metrics.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited by data availability. News coverage analysis reveals 10 articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media presence, while avoiding controversy, may indicate limited public visibility or media engagement. Social media and direct accessibility metrics are insufficient for comprehensive evaluation, earning a 'D' grade for accessibility evidence.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment's reliability. Automated flags indicate low confidence in criminal record sources, asset data unavailability, and MPLADS information gaps. Parliamentary data receives only 'C' grade reliability, while accessibility data merits 'D' grade. Committee membership information is entirely absent, suggesting Sansad profile unavailability. These limitations severely constrain meaningful transparency evaluation and constituent accountability assessment.
-
-### Key Takeaway
-Arun Bharti's transparency profile suffers from substantial data voids that prevent comprehensive evaluation of his effectiveness as Jamui's representative. While maintaining clean criminal records and moderate parliamentary participation, the complete absence of asset declarations and MPLADS utilization data creates significant transparency deficits. Given Bihar's documented fund management challenges highlighted in CAG audits, the lack of MPLADS information is particularly concerning for assessing developmental impact in his constituency. Enhanced data disclosure and public engagement would be necessary to provide constituents with adequate transparency and accountability measures.
+No criminal cases declared. Declared assets: Rs 64,870,319. MPLADS utilization: 60.0%. Parliament attendance: 60.0%. Questions asked: 45. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ Arun Bharti's transparency profile suffers from substantial data voids that prev
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Arun Bharti's MPLADS account: Released: Rs 19, Expended: Rs 12, Utilization: 60.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

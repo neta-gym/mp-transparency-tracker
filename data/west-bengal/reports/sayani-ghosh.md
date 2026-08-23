@@ -3,32 +3,34 @@
 **Constituency:** Jadavpur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 31
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 23.5 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 91.89 Lakh
+- **Liabilities:** Rs 59.86 Lakh
+- **Net Worth:** Rs 32.04 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 29.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Sayani Ghosh demonstrates mixed transparency with perfect attendance and no criminal issues, but significant weaknesses in committee participation, legislative activity, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information reporting, which hampers a comprehensive evaluation of her parliamentary performance.
+Sayani Ghosh shows moderate transparency with a score of 56.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sayani Ghosh
-
-### Overall Assessment
-Sayani Ghosh, representing Jadavpur constituency in West Bengal as an All India Trinamool Congress MP, demonstrates strong parliamentary attendance but faces significant transparency challenges due to missing or incomplete data across most key performance indicators. Her profile shows excellent legislative participation with 100% attendance and active question-raising, though broader transparency metrics remain largely unavailable.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Sayani Ghosh, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical gap in assessing her development work effectiveness. The broader West Bengal context reveals concerning patterns from CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about overall development fund management in the state.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation is reported as Rs 2,45,000, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Sayani Ghosh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings, suggesting potential gaps in information availability rather than confirmed clean standing.
-
-### Parliamentary Performance
-Ghosh demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. She has raised 23 questions and participated in 4 debates, indicating active legislative participation. However, she has not introduced any private member bills. No committee membership data is available, limiting assessment of her broader parliamentary contributions beyond floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either limited media attention or balanced reporting. The summary indicates "mixed/neutral coverage," which may reflect either effective constituency management or limited public visibility. No data is available on social media engagement or direct constituent accessibility measures.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues:
-- **Criminal records**: Low confidence rating with potential source unavailability
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No fund utilization data available
-- **Parliamentary data**: Grade 'C' evidence quality
-- **Accessibility metrics**: Grade 'D' evidence quality
-- **Committee participation**: No data found, possibly due to unavailable Sansad profile
-
-These gaps substantially limit the reliability of this transparency assessment.
-
-### Key Takeaway
-While Sayani Ghosh demonstrates strong parliamentary attendance and participation, her overall transparency profile remains largely opaque due to missing data across critical areas including asset disclosure, development fund utilization, and committee work. The 100% attendance record and active question-raising suggest legislative engagement, but without financial transparency and development fund data, constituents cannot fully assess her effectiveness or accountability. The systemic data gaps, particularly given the concerning CAG findings about fund management in West Bengal, highlight the need for improved transparency mechanisms and data availability for meaningful public oversight.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 9,189,462. MPLADS utilization: 29.3%. Parliament attendance: 100.0%. Questions asked: 23. Debates participated: 4.
 
 ---
 
@@ -170,7 +138,7 @@ While Sayani Ghosh demonstrates strong parliamentary attendance and participatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sayani Ghosh's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 29.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

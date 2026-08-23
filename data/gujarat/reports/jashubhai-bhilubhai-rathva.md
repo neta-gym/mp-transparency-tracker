@@ -3,32 +3,34 @@
 **Constituency:** Chhota Udaipur, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 14.9 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 1.66 Crore
+- **Liabilities:** Rs 19.41 Lakh
+- **Net Worth:** Rs 1.46 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 3
+- **Utilization Rate:** 18.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Jashubhai Bhilubhai Rathva shows a mixed transparency profile with excellent attendance and clean criminal record, but significant gaps in legislative participation and committee involvement. While maintaining perfect attendance, the MP demonstrates limited engagement in parliamentary debates and committee work, resulting in below-average overall transparency.
+Jashubhai Bhilubhai Rathva shows moderate transparency with a score of 54.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Jashubhai Bhilubhai Rathva
-
-### Overall Assessment
-Jashubhai Bhilubhai Rathva, BJP MP from Chhota Udaipur constituency in Gujarat, presents a limited transparency profile with significant data gaps across key governance indicators. While maintaining perfect parliamentary attendance, critical information about assets, MPLADS funding, and development activities remains unavailable, hampering comprehensive evaluation of his performance and accountability.
-
-### Fund Utilization & Development
-No MPLADS data is available for MP Rathva, including entitlements, releases, expenditures, or utilization rates. This absence of information prevents assessment of his development fund management and project implementation effectiveness. The CAG audit context reveals systemic issues in Gujarat's fund utilization, including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being incomplete or abandoned.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with no data on current total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The monthly compensation stands at Rs 2,45,000, which appears to be the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-MP Rathva shows a clean criminal record with zero cases across all categories - total, serious, pending, disposed, and convictions. However, the data quality warning indicates low confidence in this information due to potentially unavailable sources, requiring cautious interpretation of this apparently positive indicator.
-
-### Parliamentary Performance
-Rathva demonstrates excellent attendance with a perfect 100% record in Lok Sabha proceedings. His legislative engagement shows 19 questions raised but no participation in debates or introduction of private member bills. This suggests active constituency representation through parliamentary questions while showing limited involvement in legislative discussions and policy initiatives.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 news articles with entirely neutral sentiment (0 positive, 0 negative), suggesting limited public visibility or controversy. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms or digital presence. This limited media footprint may reflect either effective non-controversial governance or insufficient public outreach efforts.
-
-### Data Quality & Caveats
-The transparency profile suffers from substantial data limitations with evidence grades of 'C' for parliamentary activity and 'D' for accessibility. Multiple automated warnings highlight low confidence levels in criminal records, assets, and MPLADS data due to source unavailability. Committee membership information is absent, suggesting incomplete Sansad profile access. These gaps significantly limit the comprehensiveness of this assessment.
-
-### Key Takeaway
-While MP Rathva maintains perfect parliamentary attendance and a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization prevent comprehensive accountability assessment. The absence of MPLADS data is particularly concerning given systemic fund management issues identified in Gujarat's CAG audits, emphasizing the need for improved transparency mechanisms and data accessibility.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 16,589,045. MPLADS utilization: 18.6%. Parliament attendance: 100.0%. Questions asked: 19.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Rathva maintains perfect parliamentary attendance and a clean criminal 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jashubhai Bhilubhai Rathva's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 18.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Ongole, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 70
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 4.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 57.95 Crore
+- **Liabilities:** Rs 27.63 Crore
+- **Net Worth:** Rs 30.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.2%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Magunta Sreenivasulu Reddy shows a mixed transparency profile with moderate performance in basic metrics but significant gaps in legislative engagement. While maintaining clean criminal records and good attendance, the MP demonstrates poor committee participation and minimal accessibility to constituents. The low data confidence of 14% and multiple validation flags suggest incomplete information availability.
+Magunta Sreenivasulu Reddy shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Magunta Sreenivasulu Reddy
-
-### Overall Assessment
-Magunta Sreenivasulu Reddy, representing Ongole constituency in Andhra Pradesh as a Telugu Desam Party MP, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and demonstrating solid parliamentary attendance (85%), critical financial information including assets and MPLADS utilization remains unavailable, hampering full assessment of his developmental impact and fiscal accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given CAG audit findings for Andhra Pradesh revealing systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. With 18% of sampled works found abandoned or incomplete, the absence of specific MPLADS data for this constituency raises questions about local fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available for current holdings, previous assets, growth ratios, or net worth calculations. This represents a significant transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives standard compensation of Rs 2,45,000 monthly, but without asset declarations, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Reddy maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source limitations that may affect the completeness of this assessment. While the available data suggests no legal concerns, the confidence warning requires cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with strong attendance (85%) demonstrating commitment to legislative duties. Question-asking activity is moderate with 55 questions raised, indicating engagement in parliamentary inquiry processes. However, debate participation is limited (3 debates) and no private member bills were introduced, suggesting minimal proactive legislative initiative. The evidence quality for parliamentary data receives a 'C' grade, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited by data availability. News coverage analysis reveals 10 articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting minimal public controversy but also potentially limited public visibility. The accessibility evidence grade of 'D' indicates poor data quality in this domain, making meaningful evaluation of constituent engagement difficult.
-
-### Data Quality & Caveats
-Multiple critical data quality issues affect this assessment:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is completely missing with low confidence flags
-- MPLADS data is entirely unavailable despite high public interest
-- Committee participation data is absent due to potentially unavailable Sansad profiles
-- Legislative effectiveness data carries low confidence ratings
-
-These limitations significantly constrain comprehensive transparency evaluation and suggest systemic data collection challenges.
-
-### Key Takeaway
-Magunta Sreenivasulu Reddy's transparency profile is characterized by adequate parliamentary attendance and clean criminal records, but is severely hampered by missing critical financial and developmental data. The absence of asset declarations and MPLADS utilization information, combined with concerning CAG audit findings for Andhra Pradesh's fund management, creates significant transparency gaps. While available indicators suggest no immediate red flags, the substantial data limitations prevent conclusive assessment of his overall accountability and effectiveness as a public representative. Improved data collection and disclosure mechanisms are essential for meaningful transparency evaluation.
+No criminal cases declared. Declared assets: Rs 579,539,820. MPLADS utilization: 5.2%. Parliament attendance: 85.0%. Questions asked: 55. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ Magunta Sreenivasulu Reddy's transparency profile is characterized by adequate p
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Magunta Sreenivasulu Reddy's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

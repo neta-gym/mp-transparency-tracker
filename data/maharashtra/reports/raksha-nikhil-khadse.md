@@ -3,23 +3,25 @@
 **Constituency:** Raver, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 36
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 48.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 18.21 Crore
+- **Liabilities:** Rs 77.36 Lakh
+- **Net Worth:** Rs 17.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 3.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Raksha Nikhil Khadse demonstrates a mixed transparency profile with notable strengths in criminal record disclosure but significant weaknesses in committee participation, legislative contributions, and public accessibility. While maintaining clean criminal records and moderate performance in core areas like MPLADS utilization and attendance, the complete absence of committee engagement and legislative initiatives raises concerns about parliamentary effectiveness.
+Raksha Nikhil Khadse has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Raksha Nikhil Khadse
-
-### Overall Assessment
-Raksha Nikhil Khadse represents the Raver constituency in Maharashtra as a Bharatiya Janata Party MP in the Lok Sabha. Her transparency profile is significantly hampered by widespread data unavailability across critical performance indicators. While she maintains a clean criminal record with zero cases, comprehensive assessment of her effectiveness as a public representative is severely limited due to missing information on parliamentary activity, asset declarations, and development fund utilization.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data for Raksha Nikhil Khadse is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is concerning given Maharashtra's documented challenges with development fund management. CAG audit findings reveal systemic issues statewide, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader governance challenges that may affect her constituency's development outcomes.
-
-### Financial Transparency
-Asset declaration data is entirely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to assess potential conflicts of interest or wealth accumulation patterns during her tenure. The only available financial information is her monthly compensation of Rs 2,45,000, which represents standard parliamentary remuneration. The lack of asset data significantly undermines public accountability and transparency expectations for elected representatives.
-
-### Legal & Criminal Standing
-Raksha Nikhil Khadse maintains a completely clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the information may not be comprehensive or up-to-date. While the clean record appears positive, the data quality concerns require cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely unavailable, with no information on attendance rates, questions asked, debates participated in, or private bills introduced. The profile notes that she holds ministerial position, which typically results in lower attendance due to executive duties, but specific performance metrics remain unknown. This complete absence of parliamentary performance data makes it impossible to evaluate her legislative effectiveness or constituency representation quality. The evidence grade of 'C' for parliamentary data reflects these significant limitations.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 10 articles with neutral sentiment - all articles classified as neutral with zero positive or negative coverage. This suggests limited media attention or engagement, which may indicate either effective non-controversial governance or insufficient public visibility. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement mechanisms. No information is available on committee participation, public forums, or constituent interaction initiatives, limiting assessment of her accessibility to the public she serves.
-
-### Data Quality & Caveats
-The transparency profile suffers from severe data quality issues across multiple domains. Automated flags indicate low confidence in criminal records, assets, MPLADS, and parliamentary activity data. Committee information is completely unavailable, potentially due to inaccessible Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These widespread data gaps significantly limit the reliability of any assessment. The evidence grades of 'C' for parliament and 'D' for accessibility reflect these substantial limitations in available information.
-
-### Key Takeaway
-Raksha Nikhil Khadse's transparency profile is characterized by extensive data unavailability rather than substantive performance indicators. While maintaining a clean criminal record, the absence of crucial information on parliamentary performance, asset declarations, and development fund utilization severely limits public accountability assessment. The systemic data gaps suggest either poor record-keeping, limited digital transparency infrastructure, or restricted information access - all of which undermine democratic oversight. Citizens and stakeholders cannot effectively evaluate her performance based on available information, highlighting the need for improved transparency mechanisms and comprehensive data disclosure by elected representatives.
+No criminal cases declared. Declared assets: Rs 182,117,790. MPLADS utilization: 3.9%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ Raksha Nikhil Khadse's transparency profile is characterized by extensive data u
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raksha Nikhil Khadse's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 3.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

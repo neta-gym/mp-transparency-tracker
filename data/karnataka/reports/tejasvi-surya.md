@@ -3,8 +3,8 @@
 **Constituency:** Bangalore South, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
@@ -12,23 +12,23 @@
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.10 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.10 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.0%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-Tejasvi Surya shows a mixed transparency profile with notable strengths in criminal record disclosure and reasonable parliamentary attendance, but significant weaknesses in committee participation, public accessibility, and legislative transparency. The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency. The low data confidence of 14% indicates substantial information gaps that limit a comprehensive assessment.
+Tejasvi Surya shows moderate transparency with a score of 50.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Tejasvi Surya
-
-### Overall Assessment
-Tejasvi Surya, the BJP MP representing Bangalore South constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and moderate parliamentary attendance (75%), critical transparency metrics including assets, MPLADS utilization, and committee participation lack reliable data. His parliamentary engagement shows selective activity with 43 questions raised but limited legislative initiative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of constituency development work. This data gap is particularly concerning given Karnataka's documented challenges with fund management. CAG audits reveal systemic issues across the state, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about overall fund effectiveness in the state.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, representing a significant transparency gap. Without baseline or current asset data, it's impossible to assess financial growth patterns or potential conflicts of interest. The MP's monthly compensation totals Rs 245,000, but the absence of asset declarations undermines public accountability standards expected from elected representatives.
-
-### Legal & Criminal Standing
-Tejasvi Surya maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, this data carries low confidence due to potential source limitations, as indicated by system warnings about criminal record data availability.
-
-### Parliamentary Performance
-Parliamentary attendance stands at 75%, meeting the minimum threshold but falling short of exemplary standards. The MP has raised 43 questions and participated in 6 debates, indicating moderate engagement with legislative processes. However, zero private member bills introduced suggests limited legislative initiative. No committee participation data is available, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals primarily neutral sentiment across 10 articles, with only one negative piece and zero explicitly positive coverage. This suggests limited public visibility or impact. The evidence grade for accessibility rates as 'D', indicating poor public engagement metrics. Social media presence data is noted as a source but specific engagement metrics are not provided.
-
-### Data Quality & Caveats
-Multiple automated flags indicate significant data reliability issues:
-- Criminal record data carries low confidence due to source availability concerns
-- Asset information has low confidence ratings
-- MPLADS data reliability is compromised
-- Committee participation data is entirely unavailable
-- Legislative effectiveness data has low confidence ratings
-
-Parliament-related data receives a 'C' grade while accessibility metrics rate 'D', suggesting moderate to poor data quality across key transparency indicators.
-
-### Key Takeaway
-Tejasvi Surya's transparency profile is severely hampered by data unavailability across critical metrics including assets, MPLADS utilization, and committee work. While maintaining clean legal standing and moderate parliamentary attendance, the absence of financial disclosure and development fund utilization data creates significant accountability gaps. The systemic fund management issues documented by CAG audits in Karnataka underscore the importance of transparent MPLADS reporting, making the data gaps particularly concerning for constituents seeking to evaluate their representative's development work and financial integrity.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 41,030,489. MPLADS utilization: 22.0%. Parliament attendance: 75.0%. Questions asked: 43. Debates participated: 6.
 
 ---
 
@@ -169,7 +136,7 @@ Tejasvi Surya's transparency profile is severely hampered by data unavailability
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tejasvi Surya's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

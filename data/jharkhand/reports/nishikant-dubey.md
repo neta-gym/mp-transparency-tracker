@@ -3,32 +3,34 @@
 **Constituency:** Godda, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 52
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 61.5 / 100
+## Composite Transparency Score: 46.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 1.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 74.70 Crore
+- **Liabilities:** Rs 8.28 Crore
+- **Net Worth:** Rs 66.42 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.2%
 
 ---
 
@@ -91,9 +94,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -102,35 +103,11 @@
 
 ## Qualitative Assessment
 
-Nishikant Dubey shows strong parliamentary engagement with perfect attendance and high participation scores, but faces significant transparency challenges in key areas. His committee work transparency is completely absent and accessibility to constituents is extremely limited. While he maintains clean criminal records and reasonable legislative activity, the moderate MPLADS and assets disclosure scores, combined with low data confidence, indicate substantial room for improvement in overall transparency.
+Nishikant Dubey has a below-average transparency score of 46.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Nishikant Dubey
-
-### Overall Assessment
-Nishikant Dubey, BJP MP from Godda, Jharkhand, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across critical metrics. While maintaining perfect attendance (100%) and active legislative participation, substantial information deficiencies regarding assets, MPLADS utilization, and criminal records limit comprehensive evaluation. The MP receives a monthly compensation of Rs 245,000.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS funds are essential for constituency development. The absence of this data prevents assessment of the MP's effectiveness in addressing local development needs in Godda constituency. CAG audit findings reveal systemic issues in Jharkhand's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency severely hampers public accountability assessment. The lack of asset growth tracking prevents evaluation of potential conflicts of interest or unexplained wealth accumulation during the MP's tenure. Without baseline or current asset data, citizens cannot assess their representative's financial integrity.
-
-### Legal & Criminal Standing
-Official records indicate zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, data quality flags suggest low confidence in criminal record information, potentially due to source unavailability. While the clean record appears favorable, the uncertainty surrounding data reliability requires cautious interpretation of this finding.
-
-### Parliamentary Performance
-Dubey demonstrates exceptional parliamentary engagement with 100% attendance, significantly above average MP performance. His legislative activity includes 65 questions raised, 23 debate participations, and 3 private member bills introduced. This level of active participation suggests consistent representation of constituency interests in parliamentary proceedings. However, zero hour contributions and special mentions both register zero, indicating limited use of these parliamentary tools for raising urgent constituency matters.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral sentiment (9 neutral, 1 negative, 0 positive), suggesting limited public visibility or controversial positions. The low evidence grade for accessibility (D) indicates poor digital presence or citizen engagement mechanisms. Committee participation data is entirely absent, preventing assessment of specialized legislative contributions. This limited public engagement profile may impact constituent communication and feedback mechanisms.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record confidence is rated as low, asset data is similarly unreliable, and MPLADS information is completely unavailable. Parliamentary performance data receives a C grade, while accessibility scores D grade. The absence of committee information suggests potential gaps in the Sansad database. These limitations substantially constrain comprehensive transparency assessment and require acknowledgment when evaluating the MP's overall performance.
-
-### Key Takeaway
-While Nishikant Dubey maintains exemplary parliamentary attendance and active legislative participation, critical transparency gaps in asset disclosure, development fund utilization, and public engagement severely limit comprehensive accountability assessment. The complete absence of MPLADS and asset data, combined with uncertain criminal record information, prevents citizens from fully evaluating their representative's stewardship. Despite strong parliamentary presence, improved financial transparency and constituency development reporting are essential for enhanced public accountability.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 746,974,208. MPLADS utilization: 1.2%. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 23. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +147,7 @@ While Nishikant Dubey maintains exemplary parliamentary attendance and active le
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +226,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Nishikant Dubey's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +245,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

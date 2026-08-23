@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": null,
-    "photo_url": null
+    "photo_url": "/mp-photos/5664.jpg"
   },
   "findings": {
     "mp": {
@@ -32,76 +32,62 @@
       "education": null,
       "profession": null,
       "age": null,
-      "photo_url": null
+      "photo_url": "/mp-photos/5664.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 22,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 22,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 70120183.0,
+      "liabilities": 172283517.0,
+      "net_worth": -102163334.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 48.8,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 6.13,
+      "expended": 4.06,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.443240Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:23:09.160387Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:23:09.157622Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:22:58.560163Z",
+          "notes": "Official eSAKSHI REST API — Works: 240 recommended, 167 sanctioned, 55 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 240,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 27.619047619047617
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -129,12 +115,14 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:24:12.443383Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449663Z",
+          "fetched_at": "2026-08-23T16:44:16.334786Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449688Z",
+          "fetched_at": "2026-08-23T16:44:16.334798Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449697Z",
+          "fetched_at": "2026-08-23T16:44:16.334805Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449705Z",
+          "fetched_at": "2026-08-23T16:44:16.334811Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449713Z",
+          "fetched_at": "2026-08-23T16:44:16.334817Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449724Z",
+          "fetched_at": "2026-08-23T16:44:16.334822Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:24:12.449731Z",
+          "fetched_at": "2026-08-23T16:44:16.334840Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +388,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,39 +409,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Dulu Mahato\n\n### Overall Assessment\nDulu Mahato, BJP MP from Dhanbad, Jharkhand, presents a mixed transparency profile with significant data gaps hampering comprehensive evaluation. While maintaining a clean criminal record and demonstrating solid parliamentary attendance (90%), critical financial and developmental data remains unavailable, limiting accountability assessment.\n\n### Fund Utilization & Development\nMPLADS data is completely unavailable, making it impossible to assess developmental fund utilization. This is particularly concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper supporting documents. Additionally, 18% of sampled works were abandoned or incomplete, raising questions about project implementation oversight.\n\nWithout specific MPLADS data for Mahato's constituency, voters cannot evaluate how effectively their representative has utilized the annual Rs 5 crore development allocation typically available to MPs.\n\n### Financial Transparency\nAsset disclosure information is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. The absence of both current and previous asset declarations makes it impossible to track wealth accumulation patterns or verify compliance with disclosure requirements. This represents a significant transparency deficit, as asset declarations are fundamental to evaluating elected officials' financial integrity.\n\nMonthly compensation stands at Rs 2,45,000, but without asset context, the complete financial picture remains opaque.\n\n### Legal & Criminal Standing\nMahato maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, confidence in this criminal data is flagged as low due to potential source unavailability, suggesting this clean record should be viewed with appropriate caution pending verification from more reliable sources.\n\n### Parliamentary Performance\nParliamentary engagement shows mixed results. Attendance at 90% demonstrates strong commitment to legislative duties. Mahato has raised 34 questions, indicating active engagement in parliamentary oversight functions. However, participation in debates is limited to 10 instances, and no private member bills have been introduced, suggesting relatively passive legislative involvement beyond basic questioning.\n\nCommittee participation data is unavailable, preventing assessment of specialized legislative work or expertise development in specific policy areas.\n\n### Public Engagement & Accessibility\nPublic engagement metrics are limited, with evidence grades showing particularly poor accessibility (Grade D). News coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting minimal public visibility or impact. The absence of significant media attention may indicate either effective non-controversial governance or insufficient public engagement.\n\nSocial media presence and direct constituent interaction data are not available, limiting assessment of modern communication channels and grassroots connectivity.\n\n### Data Quality & Caveats\nMultiple automated warnings highlight significant data reliability issues:\n- Criminal record confidence is low due to source unavailability\n- Asset data shows low confidence levels\n- MPLADS utilization data is completely missing\n- Committee information is unavailable due to potential Sansad profile issues\n- Legislative effectiveness data has low confidence ratings\n\nEvidence grades are concerning: Parliament performance rated 'C' and accessibility rated 'D', indicating substantial information gaps. These limitations severely constrain meaningful transparency assessment.\n\n### Key Takeaway\nDulu Mahato's transparency profile is characterized by significant information voids rather than clear accountability indicators. While maintaining basic parliamentary attendance and a clean criminal record, the absence of crucial financial disclosures, MPLADS utilization data, and limited legislative initiative suggest either systemic data collection issues or inadequate transparency practices. Given the CAG audit context revealing widespread fund management problems in Jharkhand, the lack of specific MPLADS data is particularly concerning for constituent oversight. Voters require substantial additional verified information to make informed assessments about their representative's effectiveness and integrity.",
-  "validated_at": "2026-05-21T14:24:34.139135Z",
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.13,
-    "expended": 4.06,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:22:58.560163Z",
-        "notes": "Official eSAKSHI REST API — Works: 240 recommended, 167 sanctioned, 55 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 240,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.619047619047617
-  },
-  "evidence_summary": {
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "mplads"
-  ]
+  "cross_reference_notes": "Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared assets: Rs 70,120,183. MPLADS utilization: 27.6%. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10.",
+  "validated_at": "2026-08-23T16:44:16.335758Z"
 }

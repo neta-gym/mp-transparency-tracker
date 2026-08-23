@@ -3,23 +3,25 @@
 **Constituency:** Jodhpur, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 47.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 0.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.30 Crore
+- **Liabilities:** Rs 1.99 Crore
+- **Net Worth:** Rs 17.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-Gajendra Singh Shekhawat shows a mixed transparency profile with a moderate overall score of 45.5/100. While he maintains a clean criminal record (100%), his performance is average in core areas like MPLADS utilization, asset disclosure, and parliamentary participation (all at 50%). Critical weaknesses include complete absence from committee work and legislative initiatives, along with very poor public accessibility.
+Gajendra Singh Shekhawat has a below-average transparency score of 47.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Gajendra Singh Shekhawat
-
-### Overall Assessment
-Gajendra Singh Shekhawat, BJP MP from Jodhpur constituency in Rajasthan, presents a limited transparency profile due to significant data gaps across multiple accountability metrics. While maintaining a clean legal record with zero criminal cases, the absence of comprehensive data on assets, parliamentary activity, and MPLADS utilization severely constrains assessment of his overall performance and transparency as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing evaluation of constituency development efforts. CAG audit findings for Rajasthan reveal systemic issues in fund management: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level concerns highlight potential governance challenges affecting constituency development, though Shekhawat's specific fund utilization performance cannot be determined from available data.
-
-### Financial Transparency
-Complete absence of asset declaration data represents a critical transparency gap. Total assets, previous holdings, growth ratios, and net worth are all unreported, making financial accountability assessment impossible. This data unavailability raises concerns about compliance with mandatory asset disclosure requirements for elected representatives. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without asset baseline data, financial growth patterns cannot be evaluated.
-
-### Legal & Criminal Standing
-Shekhawat maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal profile represents a positive transparency indicator, though data confidence is flagged as low, suggesting potential source reliability issues that warrant verification through alternative channels.
-
-### Parliamentary Performance
-Parliamentary activity metrics are entirely unavailable, including attendance rates, questions raised, debate participation, and private bills introduced. While noted as a Minister (which typically involves lower attendance due to executive responsibilities), the complete absence of performance data prevents assessment of legislative engagement and constituency representation effectiveness. The evidence grade of 'C' for parliament data indicates moderate reliability concerns for available information.
-
-### Public Engagement & Accessibility
-Public engagement assessment reveals neutral media coverage with 10 news articles (all neutral sentiment, zero positive or negative). This neutral media presence suggests limited public discourse around the MP's activities. The accessibility evidence grade of 'D' indicates poor data availability for public engagement metrics, severely limiting evaluation of constituent interaction, social media presence, and transparency initiatives.
-
-### Data Quality & Caveats
-Multiple automated flags indicate significant data reliability issues: low confidence warnings for criminal records, assets, MPLADS, and parliamentary activity data. No committee assignment data is available, potentially indicating unavailable Sansad profile information. Evidence grades range from 'C' to 'D', suggesting moderate to poor data quality across transparency metrics. These limitations substantially impact the reliability of this assessment and highlight systemic data availability challenges.
-
-### Key Takeaway
-While Gajendra Singh Shekhawat maintains a clean legal record, comprehensive transparency evaluation is severely hampered by extensive data gaps across financial disclosures, parliamentary performance, and development fund utilization. The absence of critical accountability metrics, combined with low data confidence ratings, prevents meaningful assessment of his effectiveness as a public representative and suggests significant improvements needed in transparency reporting mechanisms.
+No criminal cases declared. Declared assets: Rs 193,027,658. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ While Gajendra Singh Shekhawat maintains a clean legal record, comprehensive tra
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gajendra Singh Shekhawat's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -127,34 +127,40 @@ class ManagerAgent:
         self.assessor = AssessorAgent(db)
 
         self._semaphore = asyncio.Semaphore(settings.max_concurrent_mps)
+        self._browser_lock = asyncio.Lock()
 
     async def _ensure_browser(self) -> None:
         """Lazily start a Playwright browser and wire it into ESAKSHIFetcher."""
         if self._browser is not None:
             return
-        try:
-            self._browser = PlaywrightBrowser()
-            await self._browser.start()
-            self.esakshi = ESAKSHIFetcher(self.scraper, browser=self._browser)
-            # Re-wire researcher with the updated esakshi fetcher
-            self.researcher = ResearcherAgent(
-                self.db, self.myneta, self.prs, self.mplads,
-                esakshi=self.esakshi,
-                mplads_datagov=self.mplads_datagov,
-                sansad=self.sansad,
-                social_media=self.social_media,
-                news=self.news,
-                constituency=self.constituency,
-                sagy=self.sagy,
-                cag=self.cag,
-            )
-            log.info("Playwright browser ready — eSAKSHI will use JS rendering")
-        except Exception as e:
-            log.warning(
-                "Playwright browser failed to start: %s — eSAKSHI will use API/HTML fallbacks only",
-                e,
-            )
-            self._browser = None
+        # Concurrent per-MP coroutines can reach this simultaneously; the
+        # lock prevents several Playwright browsers from starting at once.
+        async with self._browser_lock:
+            if self._browser is not None:
+                return
+            try:
+                self._browser = PlaywrightBrowser()
+                await self._browser.start()
+                self.esakshi = ESAKSHIFetcher(self.scraper, browser=self._browser)
+                # Re-wire researcher with the updated esakshi fetcher
+                self.researcher = ResearcherAgent(
+                    self.db, self.myneta, self.prs, self.mplads,
+                    esakshi=self.esakshi,
+                    mplads_datagov=self.mplads_datagov,
+                    sansad=self.sansad,
+                    social_media=self.social_media,
+                    news=self.news,
+                    constituency=self.constituency,
+                    sagy=self.sagy,
+                    cag=self.cag,
+                )
+                log.info("Playwright browser ready — eSAKSHI will use JS rendering")
+            except Exception as e:
+                log.warning(
+                    "Playwright browser failed to start: %s — eSAKSHI will use API/HTML fallbacks only",
+                    e,
+                )
+                self._browser = None
 
     async def run(
         self, state: str, discover_only: bool = False, include_rs: bool = False,
@@ -698,7 +704,7 @@ class ManagerAgent:
             f.write(leaderboard.model_dump_json(indent=2))
 
         # Timestamped snapshot
-        ts = datetime.now(tz=None).strftime("%Y%m%d_%H%M%S")
+        ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
         with open(os.path.join(lb_dir, f"{ts}.json"), "w") as f:
             f.write(leaderboard.model_dump_json(indent=2))
 

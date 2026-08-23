@@ -3,56 +3,65 @@
 **Constituency:** Nanded, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** 12th Pass
+**Profession:** Agriculture
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 47.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 6.7 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Details and present status of appeal (Sections: N/A) 
+2. No description (Sections: N/A) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 1.66 Crore
+- **Immovable Assets:** Rs 2.02 Crore
+- **Total Assets:** Rs 3.68 Crore
+- **Liabilities:** Rs 14.24 Lakh
+- **Net Worth:** Rs 3.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.4%
 
 ---
 
@@ -83,9 +92,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +101,11 @@
 
 ## Qualitative Assessment
 
-MP Chavan shows mixed transparency performance with concerning gaps in legislative engagement and committee participation. While maintaining a clean criminal record and decent attendance, significant weaknesses in accessibility, legislative activity, and parliamentary participation substantially impact overall transparency.
+Chavan Ravindra Vasantrao has a below-average transparency score of 47.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Chavan Ravindra Vasantrao
-
-### Overall Assessment
-Chavan Ravindra Vasantrao, representing Nanded constituency in Maharashtra as a Lok Sabha member from the Indian National Congress, presents a mixed transparency profile with significant data gaps across critical areas. While maintaining a clean criminal record and moderate parliamentary attendance, the absence of crucial financial and developmental data severely limits a comprehensive assessment of his public service effectiveness.
-
-### Fund Utilization & Development
-Complete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) fund utilization presents a major transparency concern. No information is available on entitled amounts, released funds, expenditures, or utilization percentages. This data gap is particularly problematic given CAG audit findings highlighting systemic issues in fund management across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. The absence of MPLADS data prevents assessment of developmental impact in the Nanded constituency.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap, as asset declarations are mandatory for public officials and essential for monitoring potential conflicts of interest. The only available financial information is the standard monthly compensation of Rs 245,000, which appears consistent with parliamentary remuneration norms.
-
-### Legal & Criminal Standing
-Chavan Ravindra Vasantrao maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potential source unavailability, requiring cautious interpretation of this apparently positive finding.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance, which meets the generally expected threshold for active participation. However, legislative contribution appears limited with zero questions raised, only one debate participation, and no private bills introduced. This suggests passive rather than proactive parliamentary engagement, though the evidence grade of 'C' for parliament data indicates moderate reliability concerns.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests limited media presence and public discourse engagement. The accessibility evidence grade of 'D' indicates poor data availability regarding public outreach activities, social media presence, or constituent interaction mechanisms.
-
-### Data Quality & Caveats
-The analysis faces significant limitations due to widespread data unavailability. Automated flags highlight low confidence levels across criminal records, assets, and MPLADS data. The absence of committee information suggests Sansad profile unavailability, while legislative effectiveness data shows low confidence ratings. CAG audit context provides relevant Maharashtra-specific findings but cannot substitute for individual performance metrics. Sources are limited to PRS, social media, and news, potentially missing official government databases.
-
-### Key Takeaway
-While Chavan Ravindra Vasantrao maintains basic parliamentary standards with clean criminal record and adequate attendance, the extensive data gaps across financial transparency, fund utilization, and legislative activity severely compromise comprehensive evaluation. The absence of MPLADS and asset data, combined with limited parliamentary contribution beyond attendance, suggests either poor record-keeping, inadequate disclosure practices, or systematic data access issues that voters and oversight bodies should address for enhanced democratic accountability.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 36,785,180. MPLADS utilization: 8.4%. Parliament attendance: 80.0%. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +145,7 @@ While Chavan Ravindra Vasantrao maintains basic parliamentary standards with cle
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +224,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chavan Ravindra Vasantrao's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +243,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads, myneta*
 *Methodology version: 3.0 (8 scoring dimensions)*

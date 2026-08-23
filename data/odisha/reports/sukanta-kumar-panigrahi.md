@@ -3,32 +3,34 @@
 **Constituency:** Kandhamal, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 19.1 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 70.72 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 70.72 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 23.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Sukanta Kumar Panigrahi demonstrates a mixed transparency profile with significant areas of concern. While he shows strong criminal record disclosure and reasonable attendance, he faces major deficiencies in committee participation, accessibility, and legislative activities, all scoring very poorly. The moderate MPLADS and asset disclosure scores, combined with extremely low data confidence, suggest limited public engagement and transparency.
+Sukanta Kumar Panigrahi has a below-average transparency score of 49.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sukanta Kumar Panigrahi
-
-### Overall Assessment
-Sukanta Kumar Panigrahi represents the Kandhamal constituency in Odisha as a Bharatiya Janata Party MP in the Lok Sabha. His transparency profile presents significant data limitations across multiple dimensions, with only partial information available on parliamentary performance and public engagement. The available evidence suggests moderate parliamentary participation but lacks comprehensive financial and developmental data necessary for a complete assessment.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This absence of data is particularly concerning given the CAG audit context for Odisha, which reveals systemic issues in fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper supporting documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Panigrahi, it's impossible to assess whether similar issues affect his constituency's development funding.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on current assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives. The MP's monthly compensation is reported at Rs 2,45,000, which aligns with standard parliamentary compensation structures. However, the absence of asset data prevents any meaningful analysis of financial transparency or potential conflicts of interest.
-
-### Legal & Criminal Standing
-Panigrahi maintains a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential limitations in the source verification process. While the clean record is positive, the data quality caveat suggests this information should be interpreted cautiously.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with an 80% attendance rate, which is above average compared to many MPs. Panigrahi has asked 31 questions and participated in 6 debates, demonstrating active engagement in parliamentary proceedings. However, he has not introduced any private member bills, indicating limited legislative initiative beyond routine parliamentary functions. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability but room for improvement in data completeness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This neutral coverage pattern suggests limited public visibility or controversy. The accessibility evidence grade is rated 'D', indicating poor data availability regarding public engagement mechanisms, constituency outreach, or digital presence. No committee membership data is available, which limits assessment of specialized parliamentary contributions.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data is entirely missing with low confidence indicators
-- Committee membership information is unavailable
-- Legislative effectiveness data has low reliability
-
-The evidence is sourced from PRS Legislative Research, social media, and news outlets, but comprehensive official disclosures appear limited. These data gaps substantially constrain the ability to provide a complete transparency assessment.
-
-### Key Takeaway
-Sukanta Kumar Panigrahi's transparency profile is severely hampered by extensive data unavailability across critical dimensions including financial assets, development fund utilization, and detailed parliamentary contributions. While maintaining a clean criminal record and reasonable parliamentary attendance, the absence of comprehensive financial and developmental data raises questions about overall transparency. The systemic fund management issues identified in Odisha's CAG audits underscore the importance of robust MPLADS monitoring, making the data gaps particularly concerning. Voters and stakeholders require more complete disclosure mechanisms to properly evaluate their representative's performance and accountability.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 7,071,617. MPLADS utilization: 23.9%. Parliament attendance: 80.0%. Questions asked: 31. Debates participated: 6.
 
 ---
 
@@ -169,7 +138,7 @@ Sukanta Kumar Panigrahi's transparency profile is severely hampered by extensive
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sukanta Kumar Panigrahi's MPLADS account: Released: Rs 19, Expended: Rs 5, Utilization: 23.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

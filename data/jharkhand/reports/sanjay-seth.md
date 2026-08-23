@@ -3,32 +3,34 @@
 **Constituency:** Ranchi, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 48.8 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.42 Crore
+- **Liabilities:** Rs 32.44 Lakh
+- **Net Worth:** Rs 2.09 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 8
+- **Utilization Rate:** 55.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Sanjay Seth demonstrates a mixed transparency profile with a below-average overall score of 45.5/100. While he maintains a clean criminal record (100/100) and shows moderate performance in basic areas like MPLADS utilization and asset disclosure, significant weaknesses emerge in legislative engagement (0/100) and committee participation (0/100). Poor accessibility scores (10/100) suggest limited public engagement despite representing Ranchi constituency.
+Sanjay Seth shows moderate transparency with a score of 53.3/100. Minor criminal cases on record.
 
 ---
 
-## Executive Summary: Sanjay Seth
-
-### Overall Assessment
-Sanjay Seth, BJP MP from Ranchi, Jharkhand, presents a limited transparency profile due to significant data gaps across most key performance indicators. With clean criminal record but substantial missing information on assets, MPLADS utilization, and parliamentary activity, a comprehensive assessment of his effectiveness remains challenging. His ministerial status may explain some data limitations, particularly regarding attendance metrics.
-
-### Fund Utilization & Development
-MPLADS data for MP Seth is unavailable, preventing assessment of his constituency development efforts. This data gap is concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about overall development fund effectiveness in the region.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth. This represents a significant transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation patterns. MP Seth receives Rs 245,000 in monthly compensation as per standard parliamentary allowances.
-
-### Legal & Criminal Standing
-MP Seth maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary activity data is largely unavailable, showing zero questions asked, zero debate participations, and zero private member bills introduced. Attendance percentage is not reported. Importantly, MP Seth serves as a Minister, which typically results in lower traditional parliamentary metrics due to executive responsibilities that may limit floor participation. No committee membership information is available, suggesting potential gaps in the Sansad database profile.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals moderate public engagement with 10 news articles identified. The sentiment breakdown shows 3 positive articles, 7 neutral pieces, and zero negative coverage, indicating generally favorable or balanced media treatment. However, the accessibility grade is poor (D), suggesting limited public outreach or transparency initiatives. No social media engagement metrics or public interface data are available.
-
-### Data Quality & Caveats
-This assessment faces significant data quality challenges with evidence grades of 'C' for parliamentary metrics and 'D' for accessibility measures. Multiple automated flags indicate low confidence across criminal records, assets, MPLADS, and parliamentary activity data. The absence of committee information suggests incomplete Sansad profile availability. Sources include PRS Legislative Research, social media platforms, and news outlets, but comprehensive official data appears limited.
-
-### Key Takeaway
-While MP Sanjay Seth maintains a clean criminal record and receives generally positive media coverage, substantial data gaps across financial transparency, development fund utilization, and parliamentary metrics prevent meaningful performance evaluation. His ministerial role may explain some activity limitations, but the absence of basic asset declarations and MPLADS information raises transparency concerns that require attention for comprehensive public accountability.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 24,152,085. MPLADS utilization: 55.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ While MP Sanjay Seth maintains a clean criminal record and receives generally po
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjay Seth's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 55.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

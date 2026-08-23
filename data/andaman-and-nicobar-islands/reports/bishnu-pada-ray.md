@@ -3,23 +3,25 @@
 **Constituency:** Andaman and Nicobar Islands, Andaman And Nicobar Islands
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 73
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 5.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.74 Crore
+- **Liabilities:** Rs 3.03 Lakh
+- **Net Worth:** Rs 2.71 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 25% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 1
+- **Utilization Rate:** 6.4%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andaman And Nicobar Islands: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Bishnu Pada Ray shows mixed transparency performance with a moderate overall score of 48.5/100. While he demonstrates excellent attendance (90%) and a clean criminal record (100%), significant concerns exist in legislative participation (0%), committee involvement (0%), and public accessibility (10%). The low data confidence of 14% and 6 validation flags suggest limited reliable information is available for comprehensive assessment.
+Bishnu Pada Ray shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bishnu Pada Ray
-
-### Overall Assessment
-Bishnu Pada Ray, representing Andaman and Nicobar Islands for the Bharatiya Janata Party in Lok Sabha, presents a transparency profile with significant data gaps across multiple dimensions. While maintaining a clean legal record and demonstrating above-average parliamentary attendance at 90%, comprehensive assessment is hampered by missing financial and development fund data. The MP's transparency profile receives limited evidence grades (Parliament: C, Accessibility: D), indicating substantial room for improvement in public accountability measures.
-
-### Fund Utilization & Development
-Critical data gaps exist regarding MPLADS fund utilization, with entitled amount, released funds, expenditure, and utilization percentage all unreported. This absence of data is particularly concerning given the CAG audit context revealing systemic issues in fund management across districts, including Rs 1,558 crore in idle funds and 34% of sampled utilization certificates lacking proper documentation. For Andaman and Nicobar Islands specifically, 7 relevant CAG findings highlight potential vulnerabilities in development fund oversight. Without transparent MPLADS reporting, constituents cannot assess the MP's effectiveness in driving local development initiatives.
-
-### Financial Transparency
-Asset declaration data is entirely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability and conflict-of-interest assessment. The MP's monthly compensation is reported at Rs 2,45,000, but without baseline asset data, tracking potential wealth accumulation during tenure remains impossible. This data gap undermines public trust and prevents meaningful evaluation of financial integrity.
-
-### Legal & Criminal Standing
-Ray maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the available data suggests no legal complications, the reliability caveat requires acknowledgment when assessing this positive indicator.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance with a 90% participation rate, significantly above typical parliamentary standards. Legislative engagement shows 11 questions raised and participation in 4 debates, indicating active parliamentary involvement. However, no private member bills were introduced, and committee participation data is unavailable due to inaccessible Sansad profiles. The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversy. The accessibility grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent communication and transparency. No committee data availability further reduces public insight into the MP's specialized legislative work. Social media presence data is incorporated but specific metrics are not detailed.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- Criminal record data has low confidence due to source unavailability
-- Asset information shows low confidence levels
-- MPLADS data reliability is questionable
-- Committee information is entirely missing
-- Legislative effectiveness data has low confidence ratings
-
-These warnings substantially limit the reliability of this transparency assessment and indicate systemic data collection challenges for this constituency.
-
-### Key Takeaway
-While Bishnu Pada Ray maintains clean legal standing and demonstrates solid parliamentary attendance, his transparency profile is severely compromised by extensive data gaps across financial disclosure, development fund utilization, and public engagement metrics. The absence of MPLADS and asset data, combined with poor accessibility grades, suggests limited accountability to constituents. The MP's representation effectiveness cannot be fully evaluated without addressing these transparency deficits, particularly given the CAG audit context highlighting systemic fund management issues in the region.
+No criminal cases declared. Declared assets: Rs 27,439,170. MPLADS utilization: 6.4%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 4. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Bishnu Pada Ray maintains clean legal standing and demonstrates solid parl
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bishnu Pada Ray's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 6.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

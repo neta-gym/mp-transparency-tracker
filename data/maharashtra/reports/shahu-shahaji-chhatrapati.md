@@ -3,32 +3,34 @@
 **Constituency:** Kolhapur, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 76
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.0 / 100
+## Composite Transparency Score: 43.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 11.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 342.87 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 342.87 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Shahu Shahaji Chhatrapati shows a mixed transparency profile with significant areas of concern. While he maintains a clean criminal record and demonstrates moderate performance in MPLADS utilization and asset declaration, he shows poor engagement in legislative processes with zero participation in committees and legislative activities. His low attendance rate and minimal accessibility to constituents further highlight transparency gaps.
+Shahu Shahaji Chhatrapati has a below-average transparency score of 43.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Shahu Shahaji Chhatrapati
-
-### Overall Assessment
-
-Shahu Shahaji Chhatrapati, Indian National Congress MP from Kolhapur, Maharashtra, presents a limited transparency profile due to significant data gaps across key performance indicators. Available evidence suggests moderate parliamentary engagement with concerning attendance rates, while financial and developmental metrics remain largely unavailable for assessment.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact in the Kolhapur constituency. This data gap is particularly concerning given Maharashtra's documented issues with fund management. CAG audits reveal systemic problems in the state including Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for this MP, it's impossible to determine whether these state-wide issues affect Kolhapur's development funding.
-
-### Financial Transparency
-
-Asset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth. This represents a significant transparency gap that prevents public assessment of financial interests and potential conflicts. The MP's monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-
-The MP shows a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, suggesting potential source unavailability that could affect accuracy.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with a concerning 45% attendance rate in the Lok Sabha, falling well below optimal standards for constituent representation. Legislative activity appears minimal with zero questions raised, only 2 debate participations, and no private member bills introduced. This limited parliamentary activity suggests reduced advocacy for constituency interests at the national level. No committee membership data is available, further limiting assessment of the MP's legislative contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage detected. This neutral media profile may indicate limited public visibility or controversial positions, though the small sample size limits conclusive assessment. Social media and direct public engagement metrics are not available. The evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and communication channels.
-
-### Data Quality & Caveats
-
-This assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, asset information, and MPLADS utilization figures. Parliamentary performance data receives a 'C' grade, while accessibility metrics score 'D'. Legislative effectiveness data also carries low confidence warnings. The absence of committee participation data suggests potential Sansad profile unavailability. These data gaps severely constrain meaningful transparency assessment and suggest either poor record-keeping systems or limited digital disclosure practices.
-
-### Key Takeaway
-
-Shahu Shahaji Chhatrapati's transparency profile is hindered by extensive data unavailability across financial, developmental, and engagement metrics. While showing a clean criminal record and standard compensation, the 45% parliamentary attendance rate and minimal legislative activity raise questions about active constituency representation. The complete absence of MPLADS and asset data prevents assessment of developmental impact and financial transparency - critical elements for public accountability. Enhanced data collection and disclosure mechanisms are essential for meaningful transparency evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 3,428,668,000. MPLADS utilization: 14.6%. Parliament attendance: 45.0%. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ Shahu Shahaji Chhatrapati's transparency profile is hindered by extensive data u
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shahu Shahaji Chhatrapati's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Nilgiris, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 31.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 7
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.94 Crore
+- **Liabilities:** Rs 19.00 Lakh
+- **Net Worth:** Rs 6.75 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Raja A demonstrates a mixed transparency profile with moderate performance in core areas but significant weaknesses in legislative engagement and public accessibility. While maintaining perfect criminal record transparency and strong attendance, the MP shows concerning gaps in committee participation and legislative contributions, suggesting limited active engagement in parliamentary processes.
+Raja A has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Raja A
-
-### Overall Assessment
-Raja A, representing Nilgiris constituency in Tamil Nadu as a Dravida Munnetra Kazhagam (DMK) member of Lok Sabha, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating strong parliamentary attendance, significant data gaps limit comprehensive evaluation of his development work and financial management. His parliamentary engagement shows consistent attendance but modest legislative activity.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable, preventing assessment of constituency development work. This data gap is concerning given CAG audit findings revealing systemic issues in fund utilization across states, including Rs 1,558 crore lying idle in district authorities' accounts and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Raja A, constituents cannot evaluate his development spending effectiveness or compare his performance against national benchmarks.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, creating a significant transparency gap. No information exists regarding total assets, previous asset values, growth ratios, or net worth. This absence of financial disclosure data prevents assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without asset data, comprehensive financial transparency evaluation remains impossible.
-
-### Legal & Criminal Standing
-Raja A maintains a clean legal record with zero cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. However, a data quality warning indicates low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data suggests no legal issues, the reliability caveat requires careful interpretation of this seemingly positive indicator.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Raja A demonstrates strong attendance at 90%, well above typical parliamentary averages, indicating consistent presence for legislative duties. However, his legislative activity remains modest with 42 questions asked, 3 debate participations, and zero private bills introduced. This suggests regular attendance but limited proactive legislative engagement. No committee membership data is available, preventing evaluation of specialized parliamentary work. The overall evidence grade of 'C' for parliamentary performance reflects adequate but not exceptional engagement.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral sentiment (8 neutral, 1 positive, 1 negative), suggesting limited public visibility or controversy. The mixed/neutral coverage indicates neither significant achievements nor major scandals have attracted substantial media attention. However, accessibility receives a 'D' evidence grade, indicating poor data availability for evaluating constituent engagement, public communication, or accessibility measures. This low grade suggests limited transparency in public outreach efforts.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information is completely missing with low confidence ratings. MPLADS data is unavailable despite being crucial for development work evaluation. Committee membership information is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. These widespread data gaps, spanning nearly all transparency categories, severely limit comprehensive evaluation and suggest systemic information availability issues.
-
-### Key Takeaway
-Raja A presents a transparency profile characterized by significant information voids rather than clear positive or negative indicators. While available data shows clean criminal records and good parliamentary attendance, the absence of asset declarations, MPLADS utilization data, and limited legislative activity data prevents thorough accountability assessment. The 'D' grade for accessibility and multiple data quality warnings highlight the need for improved transparency mechanisms. Constituents and stakeholders require better access to comprehensive performance data to make informed evaluations of their representative's effectiveness and accountability.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 69,362,170. MPLADS utilization: 39.3%. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Raja A presents a transparency profile characterized by significant information 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raja A's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

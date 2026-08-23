@@ -3,32 +3,34 @@
 **Constituency:** Kanthi, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 42.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.6 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 2.62 Crore
+- **Liabilities:** Rs 2.88 Lakh
+- **Net Worth:** Rs 2.59 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Soumendu Adhikari shows a mixed transparency profile with perfect scores in criminal record disclosure and parliamentary attendance, but concerning gaps in legislative participation, committee work, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero participation in debates and legislative activities, suggest limited engagement with core parliamentary duties despite regular attendance.
+Adhikari Soumendu has a below-average transparency score of 42.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Adhikari Soumendu
-
-### Overall Assessment
-Adhikari Soumendu, BJP MP from Kanthi constituency in West Bengal, presents a transparency profile marked by significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance (100%), his profile lacks substantial quantifiable performance metrics across most key transparency indicators. The evidence quality grades of 'C' for parliament and 'D' for accessibility reflect these data limitations.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, preventing assessment of Soumendu's development spending effectiveness. This is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. Without MPLADS data, it's impossible to evaluate whether Soumendu's constituency benefits align with proper fund utilization standards or falls prey to the 18% project abandonment rate identified in CAG audits.
-
-### Financial Transparency
-Asset declaration data is entirely missing, making financial transparency assessment impossible. No information is available regarding current assets, previous declarations, growth ratios, or net worth calculations. This absence of basic financial disclosure information represents a significant transparency gap, preventing evaluation of wealth accumulation patterns or potential conflicts of interest during his tenure.
-
-### Legal & Criminal Standing
-Soumendu maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the automated warning flags indicate low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously rather than as definitive clearances.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with notable gaps in legislative activity. While achieving perfect 100% attendance - demonstrating consistent presence in proceedings - Soumendu has contributed zero questions, participated in zero debates, and introduced zero private member bills. This suggests a passive rather than active parliamentary approach, with physical presence not translating into measurable legislative contributions. The absence of committee participation data further limits assessment of his parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles providing balanced reporting (zero positive, zero negative, 10 neutral). This neutral stance suggests neither significant controversy nor notable achievements attracting media attention. However, the 'D' grade for accessibility indicates poor public information availability, likely hampering citizen engagement and accountability mechanisms.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns affecting this assessment's comprehensiveness:
-
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Asset declarations**: Complete data absence prevents financial evaluation
-- **MPLADS funds**: No utilization data available for development assessment
-- **Committee work**: Missing Sansad profile prevents committee evaluation
-- **Legislative effectiveness**: Low confidence in available metrics
-
-Evidence sourcing from PRS, social media, and news provides partial coverage but insufficient depth for robust transparency evaluation.
-
-### Key Takeaway
-Adhikari Soumendu's transparency profile is severely constrained by data unavailability across critical areas including asset declarations, MPLADS utilization, and detailed parliamentary contributions. While maintaining clean criminal records and perfect attendance, the absence of substantive legislative activity and development fund transparency raises questions about active representation effectiveness. The systemic fund management issues identified by CAG audits in West Bengal underscore the importance of robust MPLADS monitoring, making the complete absence of this data particularly problematic for constituency development assessment.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 26,179,993. MPLADS utilization: 24.6%. Parliament attendance: 100.0%.
 
 ---
 
@@ -170,7 +138,7 @@ Adhikari Soumendu's transparency profile is severely constrained by data unavail
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Adhikari Soumendu's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

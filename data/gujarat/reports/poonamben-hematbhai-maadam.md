@@ -3,23 +3,25 @@
 **Constituency:** Jamnagar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 8.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 147.70 Crore
+- **Liabilities:** Rs 53.00 Crore
+- **Net Worth:** Rs 94.70 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,37 +94,11 @@
 
 ## Qualitative Assessment
 
-Poonamben Hematbhai Maadam shows a mixed transparency profile with moderate scores in MPLADS utilization and asset disclosure, while maintaining excellent criminal record transparency and strong parliamentary attendance. However, significant concerns exist in committee participation, public accessibility, and legislative contributions, which substantially impact her overall transparency rating.
+Poonamben Hematbhai Maadam shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Poonamben Hematbhai Maadam
-
-### Overall Assessment
-Poonamben Hematbhai Maadam, BJP MP from Jamnagar, Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and strong parliamentary attendance, critical financial and asset disclosure information is unavailable, raising concerns about overall transparency assessment capabilities.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a significant transparency gap for evaluating the MP's development initiatives in Jamnagar constituency. The absence of utilization percentage data prevents assessment of fund deployment effectiveness, particularly concerning given CAG audit findings highlighting systemic issues in fund management across Gujarat.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available for current assets, previous holdings, growth ratios, or net worth calculations. This represents a critical transparency deficit, as asset declarations are fundamental for public accountability. The MP's monthly compensation is recorded at ₹245,000, but without asset context, comprehensive financial transparency cannot be assessed.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data confidence is flagged as low due to potential source unavailability, warranting cautious interpretation of this positive indicator. No legal complications or ongoing proceedings are recorded in available sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with strong attendance (90.0%) demonstrating commitment to legislative duties. The MP has raised 55 questions, indicating active constituency representation, and participated in 5 debates, showing moderate engagement in policy discussions. However, no private member bills were introduced, suggesting limited legislative initiative beyond party lines. Committee participation data is unavailable due to inaccessible Sansad profiles.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 10 news articles identified, all neutral in sentiment with no positive or negative coverage recorded. This suggests either limited media engagement or restricted public communication activities. Social media presence and direct accessibility measures are not adequately captured in available data sources, limiting assessment of constituent interaction channels.
-
-### Data Quality & Caveats
-Data quality presents significant limitations with evidence grades of 'C' for parliamentary information and 'D' for accessibility metrics. Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data due to source unavailability. Legislative effectiveness data confidence is also flagged as low. The analysis relies on PRS, social media, and news sources, but critical government transparency portals appear inaccessible for this MP's profile.
-
-CAG audit context reveals systemic concerns in Gujarat's fund management, including ₹1,558 crore lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These findings highlight the importance of robust MPLADS monitoring, making the absence of such data particularly concerning.
-
-### Key Takeaway
-While Poonamben Hematbhai Maadam maintains clean criminal records and demonstrates solid parliamentary attendance, the absence of critical financial and development fund data severely limits transparency assessment. The complete lack of asset declarations and MPLADS utilization information, combined with minimal public engagement visibility, suggests significant transparency gaps that warrant attention. Given Gujarat's documented fund management challenges identified in CAG audits, enhanced disclosure and monitoring mechanisms would strengthen public accountability and constituent confidence.
+No criminal cases declared. Declared assets: Rs 1,477,002,341. MPLADS utilization: 10.5%. Parliament attendance: 90.0%. Questions asked: 55. Debates participated: 5.
 
 ---
 
@@ -164,7 +138,7 @@ While Poonamben Hematbhai Maadam maintains clean criminal records and demonstrat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Poonamben Hematbhai Maadam's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

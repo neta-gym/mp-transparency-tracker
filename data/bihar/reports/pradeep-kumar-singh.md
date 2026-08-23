@@ -6,32 +6,32 @@
 **Age:** 33
 **Education:** 12th Pass
 **Profession:** Social Service
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 52.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 61.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.08 Crore
-- **Immovable Assets:** Rs 5.51 Crore
-- **Total Assets:** Rs 6.59 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.61 Crore
+- **Liabilities:** Rs 16.79 Lakh
+- **Net Worth:** Rs 1.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 64.3%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Pradeep Kumar Singh shows a mixed transparency profile with notable strengths in criminal record disclosure (perfect score) but significant weaknesses in committee participation, legislative activity, and public accessibility. The moderate scores in MPLADS utilization and parliamentary participation are offset by poor performance in key areas like committee engagement and constituent outreach.
+Pradeep Kumar Singh shows moderate transparency with a score of 52.0/100. Significant criminal cases are a concern. Active in questions and debates.
 
 ---
 
-## Executive Summary: Pradeep Kumar Singh
-
-### Overall Assessment
-Pradeep Kumar Singh, BJP MP from Araria (Bihar), presents a mixed transparency profile characterized by clean legal standing but concerning gaps in parliamentary engagement and data availability. At 33 years old with a 12th grade education, he represents a younger generation of politicians but shows limited legislative effectiveness with 45% attendance and minimal participation in parliamentary proceedings.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable for Singh, representing a significant transparency gap given his constituency's development needs. This absence is particularly concerning given CAG audit findings revealing systemic issues in Bihar's fund management. The 2010 CAG report (31 of 2010) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, highlighting broader governance challenges that may affect Singh's constituency development efforts.
-
-### Financial Transparency
-Singh declared total assets of Rs 6.59 crore in his most recent filing. However, the absence of previous asset declarations prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation totals Rs 2.45 lakh. The lack of asset growth data (marked as "None") represents a notable transparency deficit, making it impossible to evaluate financial conduct over time or adherence to income declaration requirements.
-
-### Legal & Criminal Standing
-Singh maintains an exemplary legal record with zero criminal cases, serious charges, pending matters, or convictions. This clean criminal standing distinguishes him positively in Bihar's political landscape, where criminal cases among politicians are not uncommon. His unblemished legal record suggests adherence to lawful conduct and absence of corruption or criminal allegations.
-
-### Parliamentary Performance
-Singh's parliamentary engagement shows significant deficiencies. His 45% attendance rate falls below acceptable standards for effective representation. He raised 21 questions and participated in 7 debates during the assessment period, indicating minimal legislative activity. Most concerning is his zero contribution to private member bills, suggesting limited initiative in proposing new legislation or reforms. This low engagement level raises questions about his commitment to parliamentary duties and effective constituency representation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 articles identified. The coverage breakdown shows concerning patterns: 1 negative article, 0 positive articles, and 9 neutral pieces, suggesting minimal proactive public engagement or achievement recognition. This limited media presence may indicate insufficient outreach efforts or lack of significant policy initiatives that would generate public attention. The absence of committee data further compounds accessibility concerns, as committee work often provides platforms for specialized engagement on constituency-relevant issues.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly limit this assessment's comprehensiveness. MPLADS data carries low confidence ratings with complete unavailability of entitled, released, and expended amounts. Committee participation data is entirely absent, likely due to unavailable Sansad profile information. Legislative effectiveness data also shows low confidence levels. Evidence grades range from B (criminal and assets) to D (accessibility), with parliamentary performance receiving a C grade. These limitations mean the full scope of Singh's transparency and effectiveness remains partially obscured.
-
-### Key Takeaway
-While Pradeep Kumar Singh maintains clean legal standing, his transparency profile reveals concerning gaps in parliamentary engagement and data availability that limit comprehensive assessment. His 45% attendance and minimal legislative participation, combined with absent MPLADS data and limited public visibility, suggest below-average effectiveness as a public representative. The broader context of Bihar's fund management challenges, as highlighted in CAG audits, underscores the importance of transparent development fund utilization—an area where Singh's profile shows significant data gaps. Voters should seek greater accountability regarding his parliamentary participation and constituency development activities.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 16,059,806. MPLADS utilization: 64.3%. Parliament attendance: 45.0%. Questions asked: 21. Debates participated: 7.
 
 ---
 
@@ -163,7 +139,7 @@ While Pradeep Kumar Singh maintains clean legal standing, his transparency profi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pradeep Kumar Singh's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 64.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

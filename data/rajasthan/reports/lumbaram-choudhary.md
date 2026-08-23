@@ -3,23 +3,25 @@
 **Constituency:** Jalore, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 64.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 30.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.96 Crore
+- **Liabilities:** Rs 6.26 Lakh
+- **Net Worth:** Rs 1.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 38.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,59 +94,11 @@
 
 ## Qualitative Assessment
 
-Lumbaram Choudhary demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant gaps in committee participation and legislative activity. The low data confidence (14%) and multiple validation flags suggest incomplete information availability, which itself impacts transparency assessment.
+Lumbaram Choudhary shows moderate transparency with a score of 64.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Lumbaram Choudhary
-
-### Overall Assessment
-
-Lumbaram Choudhary, representing Jalore constituency in Rajasthan as a Bharatiya Janata Party MP, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While demonstrating exemplary parliamentary attendance (100%), the absence of critical financial and asset disclosure data raises transparency concerns. His legislative engagement shows moderate activity with 65 questions and 6 debates, though broader effectiveness metrics remain unclear.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable for Choudhary, preventing assessment of his development spending effectiveness. This data gap is particularly concerning given that CAG audits have identified systemic issues in MPLADS implementation across states, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. The audit findings reveal that 34% of utilization certificates lack proper supporting documents and 18% of sampled works remain abandoned or incomplete, highlighting the critical need for transparent fund tracking.
-
-The absence of MPLADS data for Choudhary's constituency makes it impossible to determine whether these systemic issues affect Jalore's development projects or if funds are being utilized effectively for local infrastructure and welfare schemes.
-
-### Financial Transparency
-
-Asset disclosure information is completely missing for Choudhary, representing a significant transparency deficit. Without baseline asset data, growth ratios, or net worth information, stakeholders cannot assess potential conflicts of interest or verify compliance with disclosure requirements. This data absence is flagged as "low confidence" by available sources, suggesting either incomplete reporting or data collection issues.
-
-The MP's monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration, but the lack of asset transparency prevents comprehensive financial oversight.
-
-### Legal & Criminal Standing
-
-Choudhary maintains a clean criminal record with zero cases across all categories—no serious charges, pending cases, disposed cases, or convictions. However, this data carries a "low confidence" warning due to potential source unavailability, suggesting the clean record may reflect data gaps rather than comprehensive verification. While encouraging if accurate, stakeholders should note the data quality limitations when evaluating this aspect of his profile.
-
-### Parliamentary Performance
-
-Choudhary demonstrates strong commitment to parliamentary duties with perfect attendance (100%), significantly exceeding typical MP attendance rates. His legislative engagement includes 65 questions raised and participation in 6 debates, indicating moderate to active involvement in parliamentary proceedings. However, he has not introduced any private member bills, limiting his legislative initiative record.
-
-The parliament activity evidence grade of 'C' suggests moderate confidence in this data, though the absence of committee participation information (flagged as unavailable) limits full assessment of his parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited but predominantly neutral public engagement, with 10 articles identified (1 positive, 0 negative, 9 neutral). This neutral coverage pattern suggests minimal controversy but also potentially limited public visibility or media attention to his constituency work.
-
-The accessibility evidence grade of 'D' indicates poor data availability regarding public outreach, social media engagement, or citizen interaction mechanisms. This low score raises questions about transparent communication with constituents and public accountability measures.
-
-### Data Quality & Caveats
-
-Multiple significant data quality issues compromise this assessment:
-
-- Criminal record data flagged as "low confidence" due to potential source unavailability
-- Complete absence of asset and MPLADS utilization data
-- No committee membership information available
-- Low confidence ratings for legislative effectiveness metrics
-- Accessibility data largely unavailable
-
-These limitations, drawn from PRS, social media, and news sources, significantly constrain comprehensive transparency evaluation. The evidence grades (Parliament: C, Accessibility: D) reflect moderate to poor data confidence levels.
-
-### Key Takeaway
-
-While Lumbaram Choudhary demonstrates exemplary parliamentary attendance and maintains a clean criminal record, critical transparency gaps in financial disclosure, development fund utilization, and public engagement severely limit accountability assessment. The absence of MPLADS and asset data, combined with systemic CAG audit findings regarding fund mismanagement, raises concerns about comprehensive transparency. Stakeholders should prioritize obtaining complete financial and development spending data to enable proper oversight of his parliamentary tenure and constituency development responsibilities.
+No criminal cases declared. Declared assets: Rs 19,587,446. MPLADS utilization: 38.3%. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 6.
 
 ---
 
@@ -186,7 +138,7 @@ While Lumbaram Choudhary demonstrates exemplary parliamentary attendance and mai
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -265,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Lumbaram Choudhary's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 38.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -282,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

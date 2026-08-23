@@ -3,23 +3,25 @@
 **Constituency:** Jaynagar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.90 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 6.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 7
+- **Utilization Rate:** 50.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Pratima Mondal shows a mixed transparency profile with a concerning overall score of 47/100. While she maintains a clean criminal record and demonstrates moderate performance in asset disclosure and participation metrics, significant weaknesses exist in committee involvement, legislative activity, and public accessibility. The extremely low data confidence of 14% and 6 validation flags suggest substantial gaps in available information.
+Pratima Mondal shows moderate transparency with a score of 56.5/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-## Executive Summary: Pratima Mondal
-
-### Overall Assessment
-Pratima Mondal, All India Trinamool Congress MP from Jaynagar, West Bengal, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. Her parliamentary attendance of 55% falls below optimal standards, while a clean criminal record provides a positive foundation. However, missing financial and asset data severely constrains assessment of her fiscal transparency.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing evaluation of development fund utilization. This represents a critical transparency gap, particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about regional development effectiveness that cannot be addressed without MP-specific data.
-
-### Financial Transparency
-Asset disclosure information is completely missing, including total assets, previous declarations, growth ratios, and net worth. This absence of financial data represents a significant transparency deficit, making it impossible to assess potential conflicts of interest or track wealth accumulation patterns. The monthly compensation of Rs 245,000 is documented, but without baseline asset information, comprehensive financial oversight remains compromised.
-
-### Legal & Criminal Standing
-Mondal maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this positive assessment comes with a data quality warning indicating low confidence in the criminal record information due to potentially unavailable sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with concerning attendance patterns. At 55% attendance, Mondal falls well below ideal participation standards. Her legislative activity includes 23 questions raised and participation in 8 debates, demonstrating some engagement with parliamentary processes. However, she has introduced zero private bills, indicating limited proactive legislative initiative. The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - zero positive or negative pieces, suggesting limited public discourse around her work. This neutral coverage pattern may indicate either effective non-controversial governance or insufficient public engagement to generate meaningful media attention. Accessibility receives a poor 'D' evidence grade, and no committee participation data is available, suggesting limited transparency in her broader parliamentary engagement activities.
-
-### Data Quality & Caveats
-Multiple significant data quality issues compromise this assessment:
-- Criminal record data carries low confidence warnings due to potentially unavailable sources
-- Asset information is completely missing with low confidence ratings
-- MPLADS utilization data is entirely unavailable
-- Committee participation information is absent
-- Legislative effectiveness data has low confidence ratings
-- Overall evidence grades are poor (Parliament: C, Accessibility: D)
-
-These gaps represent substantial limitations in transparency evaluation and may indicate either systemic data collection issues or insufficient disclosure practices.
-
-### Key Takeaway
-Pratima Mondal's transparency profile is severely hampered by critical data gaps, particularly in financial disclosures and development fund utilization. While her clean criminal record provides a positive foundation and parliamentary participation shows some engagement (23 questions, 8 debates), the 55% attendance rate and complete absence of asset and MPLADS data raise significant transparency concerns. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Without comprehensive financial and development fund data, voters cannot adequately assess her stewardship of public resources, representing a fundamental accountability deficit that undermines democratic oversight.
+No criminal cases declared. Declared assets: Rs 68,970,051. MPLADS utilization: 50.0%. Parliament attendance: 55.0%. Questions asked: 23. Debates participated: 8.
 
 ---
 
@@ -170,7 +138,7 @@ Pratima Mondal's transparency profile is severely hampered by critical data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pratima Mondal's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 50.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

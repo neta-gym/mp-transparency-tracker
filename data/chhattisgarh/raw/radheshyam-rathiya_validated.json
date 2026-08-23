@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": null,
-    "photo_url": null
+    "photo_url": "/mp-photos/5678.jpg"
   },
   "findings": {
     "mp": {
@@ -32,7 +32,7 @@
       "education": null,
       "profession": null,
       "age": null,
-      "photo_url": null
+      "photo_url": "/mp-photos/5678.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,52 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 10650781.0,
+      "liabilities": 124610.0,
+      "net_worth": 10526171.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 8.7,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 9.75,
+      "expended": 7.28,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.837749Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:25:11.581728Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:25:11.578895Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:21:20.601291Z",
+          "notes": "Official eSAKSHI REST API — Works: 138 recommended, 136 sanctioned, 54 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 138,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 49.523809523809526
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -129,12 +115,14 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:26:01.837907Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852769Z",
+          "fetched_at": "2026-08-23T16:44:14.885173Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852787Z",
+          "fetched_at": "2026-08-23T16:44:14.885185Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852796Z",
+          "fetched_at": "2026-08-23T16:44:14.885192Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852804Z",
+          "fetched_at": "2026-08-23T16:44:14.885197Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852812Z",
+          "fetched_at": "2026-08-23T16:44:14.885203Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852819Z",
+          "fetched_at": "2026-08-23T16:44:14.885208Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:26:01.852825Z",
+          "fetched_at": "2026-08-23T16:44:14.885213Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +388,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,39 +409,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Radheshyam Rathiya\n\n### Overall Assessment\n\nRadheshyam Rathiya, BJP MP from Raigarh constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining a clean legal record and demonstrating moderate parliamentary engagement with 80% attendance, the absence of crucial financial data including assets and MPLADS information raises transparency concerns. His parliamentary activity shows selective participation with 17 questions raised but minimal debate engagement.\n\n### Fund Utilization & Development\n\nComplete MPLADS data is unavailable, making it impossible to assess Rathiya's constituency development performance. No information exists regarding entitled funds, releases, expenditure, or utilization rates. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in fund management across Indian districts, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without MPLADS transparency, constituents cannot evaluate their MP's development delivery effectiveness.\n\n### Financial Transparency\n\nRathiya's financial transparency profile suffers from complete absence of asset declaration data. Both current and previous asset values are listed as \"None,\" preventing any assessment of wealth growth, potential conflicts of interest, or financial accountability. His monthly compensation stands at Rs 2,45,000, but without baseline asset information, growth ratios and net worth calculations remain impossible. This represents a significant transparency deficit that undermines public trust and financial accountability standards.\n\n### Legal & Criminal Standing\n\nRathiya maintains an exemplary legal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal profile represents a positive aspect of his public service record. However, the data comes with a warning flag indicating \"low confidence in criminal data\" due to potentially unavailable sources, suggesting the need for verification through alternative channels.\n\n### Parliamentary Performance\n\nRathiya demonstrates moderate parliamentary engagement with 80% attendance, positioning him above many MPs who struggle with consistent presence. His legislative activity includes 17 questions raised during parliamentary sessions, indicating some constituency representation efforts. However, his participation in debates remains minimal at only 3 instances, suggesting limited engagement in policy discussions. He has introduced zero private member bills, indicating no independent legislative initiatives. This performance reflects basic parliamentary duty fulfillment without exceptional contribution to legislative processes.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 8 news articles with neutral sentiment (0 positive, 0 negative, 8 neutral), suggesting limited public visibility or controversial engagement. The mixed/neutral coverage pattern indicates neither strong positive recognition nor negative publicity, potentially reflecting a low-profile approach to public engagement. The evidence grade of 'D' for accessibility suggests poor public communication channels or limited constituent interaction platforms. This raises concerns about representative responsiveness and public accountability.\n\n### Data Quality & Caveats\n\nMultiple warning flags significantly impact assessment reliability. Criminal record data carries low confidence due to source unavailability. Asset information shows low confidence, while MPLADS data quality warnings prevent fund utilization analysis. Committee participation data is completely absent, potentially indicating unavailable Sansad profiles. Legislative effectiveness data also carries low confidence warnings. These systematic data gaps, graded as 'C' for parliament and 'D' for accessibility, severely limit comprehensive transparency evaluation and suggest potential systemic transparency challenges.\n\n### Key Takeaway\n\nRadheshyam Rathiya's transparency profile reveals a clean legal record and adequate parliamentary attendance, but suffers from critical data gaps in asset disclosure and MPLADS utilization that prevent comprehensive accountability assessment. While maintaining basic parliamentary duties, his limited debate participation and neutral media presence suggest minimal public engagement. The multiple data quality warnings across key transparency metrics indicate either systemic reporting failures or deliberate opacity, undermining public trust. Improved financial disclosure and constituency development reporting are essential for enhanced transparency and public accountability in his representation of Raigarh constituency.",
-  "validated_at": "2026-05-21T14:26:24.747211Z",
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.75,
-    "expended": 7.28,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:21:20.601291Z",
-        "notes": "Official eSAKSHI REST API — Works: 138 recommended, 136 sanctioned, 54 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 138,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 49.523809523809526
-  },
-  "evidence_summary": {
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "mplads"
-  ]
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 10,650,781. MPLADS utilization: 49.5%. Parliament attendance: 80.0%. Questions asked: 17. Debates participated: 3.",
+  "validated_at": "2026-08-23T16:44:14.886133Z"
 }

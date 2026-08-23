@@ -3,23 +3,23 @@
 **Constituency:** Nalanda, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 60.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 19.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.25 Crore
+- **Liabilities:** Rs 73.47 Lakh
+- **Net Worth:** Rs 3.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 35% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.4%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-Kaushalendra Kumar demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant weaknesses in committee participation, accessibility, and legislative activity. The moderate MPLADS and assets transparency scores, combined with zero committee and legislative scores, indicate limited engagement in formal parliamentary processes despite regular attendance.
+Kaushalendra Kumar shows moderate transparency with a score of 60.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kaushalendra Kumar
-
-### Overall Assessment
-Kaushalendra Kumar, Janata Dal (United) MP from Nalanda constituency in Bihar, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. His parliamentary attendance record is exemplary at 100%, but critical financial and developmental data is largely unavailable, raising concerns about transparency and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable for MP Kumar, with all key metrics (entitled, released, expended amounts) showing no reported values. This data gap is particularly concerning given the CAG's 2010 audit findings for Bihar, which identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader developmental challenges in the region.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The MP's monthly compensation is reported at Rs 2,45,000, which appears consistent with standard parliamentary remuneration structures.
-
-### Legal & Criminal Standing
-Kumar maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the source reliability for criminal data is flagged as low confidence, suggesting potential data quality issues that could affect the accuracy of this assessment.
-
-### Parliamentary Performance
-Kumar demonstrates strong parliamentary engagement with perfect attendance (100%) in the Lok Sabha. His legislative participation includes 41 questions raised and participation in 10 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability of this information.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all classified as neutral in sentiment with no positive or negative coverage identified. This neutral media presence suggests limited public visibility or engagement. The accessibility evidence grade is rated 'D', indicating poor data availability regarding the MP's public outreach efforts, constituency services, or digital presence.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality concerns:
-- Criminal records marked as "low confidence" due to potential source unavailability
-- Asset information completely missing with low confidence rating
-- MPLADS data entirely unavailable with low confidence assessment
-- No committee membership data found, possibly due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-The evidence grades (Parliament: 'C', Accessibility: 'D') indicate moderate to poor data quality across key transparency metrics.
-
-### Key Takeaway
-While Kaushalendra Kumar maintains perfect parliamentary attendance and a clean criminal record, his transparency profile is severely undermined by the complete absence of crucial financial data including asset declarations and MPLADS utilization. Given Bihar's documented history of fund management issues highlighted in CAG audits, the lack of transparent reporting on developmental fund utilization is particularly concerning. The MP's neutral media presence and poor accessibility ratings suggest limited public engagement, while widespread data gaps prevent a comprehensive assessment of his overall performance and accountability.
+No criminal cases declared. Declared assets: Rs 42,453,773. MPLADS utilization: 24.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 10.
 
 ---
 
@@ -169,7 +136,7 @@ While Kaushalendra Kumar maintains perfect parliamentary attendance and a clean 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kaushalendra Kumar's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

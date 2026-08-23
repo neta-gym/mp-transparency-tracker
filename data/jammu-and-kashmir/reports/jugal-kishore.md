@@ -3,23 +3,23 @@
 **Constituency:** Jammu, Jammu And Kashmir
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.64 Crore
+- **Liabilities:** Rs 80.14 Lakh
+- **Net Worth:** Rs 6.84 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 13.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
@@ -94,61 +92,11 @@
 
 ## Qualitative Assessment
 
-Jugal Kishore demonstrates a mixed transparency profile with notable strengths in attendance (95%) and a clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency, while low data confidence (14%) and multiple validation flags indicate potential data quality issues that may affect the accuracy of this assessment.
+Jugal Kishore shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Jugal Kishore
-
-### Overall Assessment
-
-Jugal Kishore, BJP MP from Jammu constituency in Jammu & Kashmir, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance stands at 95%, substantial information is missing across critical areas including assets, MPLADS utilization, and detailed criminal record verification. His profile reflects moderate parliamentary engagement but raises concerns about financial transparency and development fund accountability.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled, released, or expended funds, making utilization assessment impossible. This is particularly concerning given CAG audit findings highlighting systemic issues in fund management across states. The audit revealed Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of sampled utilization certificates lacking proper supporting documentation and 18% of works remaining abandoned or incomplete.
-
-Given Jugal Kishore represents Jammu, a constituency requiring significant infrastructure development, the absence of MPLADS transparency data is notable. The CAG identified 7 relevant findings specific to Jammu & Kashmir, indicating heightened scrutiny needed for development fund utilization in the state.
-
-### Financial Transparency
-
-Asset disclosure presents complete data gaps, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset evolution provides crucial insights into potential conflicts of interest and wealth accumulation patterns during tenure.
-
-Monthly compensation is recorded at Rs 2,45,000, representing standard MP remuneration. However, without asset baseline data, comprehensive financial assessment remains impossible.
-
-### Legal & Criminal Standing
-
-Criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions). However, data quality warnings indicate low confidence in criminal record information, suggesting source unavailability rather than confirmed clean record. This uncertainty prevents definitive assessment of legal standing.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance at 95% demonstrates strong commitment to House proceedings, significantly above typical averages. However, legislative activity appears limited with 40 questions raised, 8 debate participations, and zero private bills introduced.
-
-The absence of committee participation data further limits assessment of substantive parliamentary work. No information on committee memberships or contributions is available, representing a significant gap in evaluating legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Public engagement assessment reveals limited digital footprint and accessibility challenges. News sentiment analysis shows 10 articles with entirely neutral coverage, indicating minimal media presence or policy impact. The absence of positive or negative coverage suggests limited public discourse engagement.
-
-Social media presence and constituent accessibility data are insufficient for meaningful evaluation, earning a 'D' grade for accessibility. This suggests potential gaps in public communication and transparency initiatives.
-
-### Data Quality & Caveats
-
-Multiple data quality issues significantly limit this assessment's reliability:
-
-- **Criminal Records**: Low confidence due to potential source unavailability
-- **Assets**: Complete data absence prevents financial transparency evaluation
-- **MPLADS**: No utilization data available despite constituency development needs
-- **Committees**: Profile unavailability prevents comprehensive parliamentary assessment
-- **Legislative Effectiveness**: Low confidence in available data
-
-Evidence grades reflect these limitations: parliament activities receive 'C' grade while accessibility scores 'D'. Source reliability varies, with data drawn from PRS, social media, and news sources of varying quality.
-
-### Key Takeaway
-
-Jugal Kishore's transparency profile is severely constrained by data unavailability across critical metrics. While maintaining excellent parliamentary attendance (95%), the absence of asset disclosures, MPLADS utilization data, and verified criminal record information raises significant transparency concerns. Given systemic fund management issues identified by CAG audits in Jammu & Kashmir, the lack of development fund transparency is particularly problematic. Enhanced data disclosure and public engagement are essential for meaningful accountability assessment.
-
-The constituency of Jammu requires an MP with demonstrable commitment to transparency and development fund accountability, areas where current data gaps prevent proper evaluation of Jugal Kishore's performance.
+No criminal cases declared. Declared assets: Rs 76,378,942. MPLADS utilization: 13.3%. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 8.
 
 ---
 
@@ -188,7 +136,7 @@ The constituency of Jammu requires an MP with demonstrable commitment to transpa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -267,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jugal Kishore's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 13.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -284,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

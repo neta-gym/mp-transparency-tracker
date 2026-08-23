@@ -3,18 +3,18 @@
 **Constituency:** Guntur, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-08-20
+**Report Date:** 2026-08-23
 **Data Confidence:** Low (7%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 43.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 45.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -96,7 +96,7 @@
 
 ## Qualitative Assessment
 
-Chandra Sekhar Pemmasani shows moderate transparency with a score of 54.0/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
+Chandra Sekhar Pemmasani has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
@@ -140,7 +140,7 @@ No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 20/08/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

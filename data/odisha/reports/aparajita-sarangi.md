@@ -6,61 +6,57 @@
 **Age:** 54
 **Education:** Graduate
 **Profession:** Social Service, Retired from Govt Service
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 10.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 203, Airport PS, Bhubaneswar) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.48 Crore
-- **Immovable Assets:** Rs 2.15 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 4.63 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.63 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.9%
 
 ---
 
@@ -91,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -100,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Aparajita Sarangi shows a mixed transparency profile with moderate overall performance. While she demonstrates good attendance (80%) and criminal record transparency (80%), significant gaps exist in committee participation (0%), legislative activity disclosure (0%), and public accessibility (10%). Her MPLADS and asset disclosure scores are at baseline levels, indicating room for improvement in these areas.
+Aparajita Sarangi shows moderate transparency with a score of 53.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Aparajita Sarangi
-
-### Overall Assessment
-Aparajita Sarangi, the 54-year-old BJP MP from Bhubaneswar, Odisha, presents a mixed transparency profile characterized by reasonable parliamentary engagement but significant data gaps in key performance areas. A retired government servant with a background in social service, she maintains an adequate attendance record and active questioning in Parliament, though concerns exist regarding fund utilization transparency and legal matters.
-
-### Fund Utilization & Development
-**Critical data gaps exist in MPLADS reporting.** No information is available on entitled amounts, releases, expenditures, or utilization rates for her constituency development funds. This lack of transparency is concerning given the CAG's identification of systemic issues in Odisha's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The absence of MPLADS data prevents assessment of her developmental impact in Bhubaneswar constituency.
-
-### Financial Transparency
-Sarangi's declared assets total ₹4.63 crore, though no previous declaration data exists for growth analysis. Her monthly compensation stands at ₹2.45 lakh. The asset declaration appears complete but lacks historical context for trend evaluation. **Growth ratio and net worth calculations are unavailable** due to missing baseline data, limiting assessment of financial trajectory during her tenure.
-
-### Legal & Criminal Standing
-**Two pending criminal cases require monitoring.** While neither case is classified as serious, the absence of case descriptions (one under Section 203, another from Airport PS, Bhubaneswar) limits transparency. No convictions or disposed cases are recorded. The pending nature of both cases suggests ongoing legal proceedings that warrant public attention, particularly given her position as an elected representative.
-
-### Parliamentary Performance
-Sarangi demonstrates **adequate but not exceptional parliamentary engagement** with 80% attendance, which meets acceptable standards. Her legislative activity includes 51 questions and 4 debate participations, indicating moderate involvement in parliamentary proceedings. However, she has introduced zero private member bills, suggesting limited initiative in legislative innovation. The absence of committee participation data (flagged as unavailable) prevents comprehensive assessment of her legislative effectiveness.
-
-### Public Engagement & Accessibility
-**Limited data constrains evaluation of public accessibility.** News sentiment analysis reveals neutral coverage across 10 articles with no positive or negative sentiment detected, suggesting either low media visibility or routine coverage. Social media presence and public engagement metrics are not available in the provided data, making it difficult to assess her communication with constituents or responsiveness to public concerns.
-
-### Data Quality & Caveats
-**Significant data quality concerns impact this assessment.** Evidence grades range from B (criminal and assets) to D (accessibility), with particular weakness in committee participation and MPLADS reporting. Key limitations include:
-- MPLADS data completely unavailable with low confidence flags
-- No committee membership information due to potential Sansad profile unavailability
-- Missing historical asset data preventing growth analysis
-- Limited legislative effectiveness metrics
-- Absence of constituent feedback or accessibility measures
-
-The CAG audit context reveals systemic issues in Odisha's fund management that may affect her constituency development work, though direct impact cannot be assessed without MPLADS data.
-
-### Key Takeaway
-Aparajita Sarangi maintains baseline parliamentary performance standards but faces significant transparency deficits, particularly in fund utilization reporting and public engagement documentation. While her 80% attendance and moderate questioning activity demonstrate parliamentary presence, the complete absence of MPLADS data and pending criminal cases raise accountability concerns. **Improved transparency in development fund utilization and resolution of legal matters would substantially enhance her public accountability profile.** The neutral media coverage suggests opportunities for stronger public engagement and visibility in addressing Bhubaneswar's developmental needs.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 46,254,213. MPLADS utilization: 12.9%. Parliament attendance: 80.0%. Questions asked: 51. Debates participated: 4.
 
 ---
 
@@ -175,7 +139,7 @@ Aparajita Sarangi maintains baseline parliamentary performance standards but fac
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -254,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Aparajita Sarangi's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

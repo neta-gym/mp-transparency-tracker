@@ -6,61 +6,57 @@
 **Age:** 54
 **Education:** Graduate Professional
 **Profession:** Retired Defence Officer
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 44.5 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| MPLADS Fund Utilization | 21.2 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: N/A) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 3.54 Crore
-- **Immovable Assets:** Rs 1.73 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 5.27 Crore
 - **Liabilities:** Rs 3.80 Lakh
 - **Net Worth:** Rs 5.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 26.5%
 
 ---
 
@@ -91,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Goa: 7 relevant findings
@@ -100,41 +95,11 @@
 
 ## Qualitative Assessment
 
-Captain Viriato Fernandes demonstrates mixed transparency performance with moderate scores in MPLADS utilization, asset disclosure, and parliamentary attendance, but shows significant deficiencies in committee participation, accessibility to constituents, and legislative contributions. The relatively strong criminal background disclosure score is offset by concerning gaps in public engagement and legislative activity, resulting in a below-average overall transparency rating.
+Captain Viriato Fernandes shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Captain Viriato Fernandes
-### Overall Assessment
-Captain Viriato Fernandes, Indian National Congress MP from South Goa, presents a mixed transparency profile. The 54-year-old retired Defence Officer demonstrates moderate parliamentary engagement with 60% attendance but faces data limitations across multiple accountability metrics. His profile shows clean legal standing with minimal criminal cases, though asset growth tracking is hindered by lack of historical comparison data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, triggering a low confidence warning. This represents a significant transparency gap for assessing the MP's development work effectiveness. CAG audit findings reveal systemic concerns in Goa's fund management, including Rs 1,558 crore idle in district accounts nationally, with 34% of utilization certificates lacking proper documentation. These broader audit findings suggest potential oversight challenges that may affect local development fund management, though specific data for Captain Fernandes' constituency remains unavailable.
-
-### Financial Transparency
-Captain Fernandes reports total assets of Rs 5.27 crore with a net worth of Rs 5.23 crore. However, absence of previous asset data prevents growth ratio analysis, limiting assessment of wealth accumulation patterns. His monthly compensation stands at Rs 2.45 lakh. The asset declaration appears complete but lacks temporal comparison for trend analysis, representing a moderate level of financial transparency (Grade B evidence quality).
-
-### Legal & Criminal Standing
-The MP maintains a relatively clean legal record with only 2 pending cases, both non-serious in nature. No convictions or disposed cases are recorded, and no serious criminal charges are outstanding. The criminal record shows 0 convictions across all categories, indicating minimal legal complications that could impact his parliamentary duties or public trust.
-
-### Parliamentary Performance
-Captain Fernandes shows moderate parliamentary engagement with 60% attendance, falling short of optimal participation levels. His legislative activity includes 26 questions raised and participation in 12 debates, demonstrating reasonable engagement in parliamentary discourse. However, he has not introduced any private member bills, indicating limited proactive legislative initiative. No committee membership data is available, hampering comprehensive assessment of his parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral, suggesting limited public visibility or controversy. The absence of positive or negative coverage may indicate either low media engagement or minimal newsworthy activities. Social media presence and public accessibility metrics show limited data availability, earning a Grade D evidence quality rating for accessibility assessment.
-
-### Data Quality & Caveats
-Evidence quality varies significantly across metrics: Criminal record and assets data receive Grade B ratings, while parliamentary performance merits Grade C, and accessibility receives Grade D. Key limitations include:
-- Missing historical asset data preventing growth analysis
-- Unavailable MPLADS utilization figures despite entitlement data
-- Absent committee membership information
-- Limited social media and public engagement metrics
-- No constituency-specific development project data
-
-These gaps significantly constrain comprehensive transparency assessment and suggest potential data collection or reporting challenges.
-
-### Key Takeaway
-Captain Viriato Fernandes presents a moderately transparent profile with clean legal standing and adequate parliamentary participation, but faces significant data gaps in crucial areas including development fund utilization and public engagement. While his criminal record remains clear and asset declarations appear complete, the absence of MPLADS data and limited public visibility indicators suggest room for improvement in accountability mechanisms. The Grade D accessibility rating particularly highlights the need for enhanced public engagement and transparency reporting to enable comprehensive citizen oversight of his parliamentary performance.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 52,728,999. MPLADS utilization: 26.5%. Parliament attendance: 60.0%. Questions asked: 26. Debates participated: 12.
 
 ---
 
@@ -174,7 +139,7 @@ Captain Viriato Fernandes presents a moderately transparent profile with clean l
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -253,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Captain Viriato Fernandes's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -272,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

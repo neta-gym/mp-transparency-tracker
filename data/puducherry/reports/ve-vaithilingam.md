@@ -3,23 +3,25 @@
 **Constituency:** Puducherry, Puducherry
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 73
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 52.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 9.5 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 15.72 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 15.72 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 21
+- **Released:** Rs 21
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Puducherry: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Ve Vaithilingam shows a mixed transparency profile with concerning gaps in key areas. While maintaining a clean criminal record and reasonable attendance, the MP performs poorly in committee participation, legislative effectiveness, and public accessibility, suggesting limited engagement beyond basic parliamentary duties.
+Ve Vaithilingam shows moderate transparency with a score of 52.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Ve Vaithilingam
-
-### Overall Assessment
-Ve Vaithilingam, Congress MP from Puducherry constituency, presents a mixed transparency profile with moderate parliamentary engagement but significant data gaps across financial and developmental metrics. With 75% attendance and active participation in parliamentary proceedings, his legislative engagement appears adequate, though comprehensive assessment remains limited due to incomplete financial and developmental data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for this MP, preventing assessment of developmental project implementation. This data gap is particularly concerning given CAG audit findings revealing systemic issues in fund management across states, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. The audit also identified that 34% of utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete. Without specific MPLADS data for Vaithilingam, constituents cannot evaluate his effectiveness in directing developmental funds.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, showing no data for total assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap that prevents public assessment of the MP's financial standing and potential conflicts of interest. The only available financial information is his monthly compensation of Rs 245,000, which represents standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Vaithilingam shows a clean criminal record with zero total cases, serious cases, pending cases, disposed cases, and convictions. However, this data comes with a low confidence warning indicating potential source unavailability, which raises questions about the completeness and reliability of the criminal background check.
-
-### Parliamentary Performance
-The MP demonstrates moderate parliamentary engagement with 75% attendance, which meets reasonable expectations for legislative participation. He has asked 9 questions and participated in 7 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity data receives a 'C' evidence grade, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles showing predominantly neutral coverage (9 neutral, 1 negative, 0 positive). This suggests limited positive media presence or public visibility. Accessibility receives a 'D' evidence grade, indicating poor data availability for assessing public outreach effectiveness. No committee participation data is available, which limits understanding of his specialized legislative work.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information completely missing with low confidence warnings
-- MPLADS data unavailable despite its critical importance for constituency development assessment
-- No committee data found, possibly due to unavailable Sansad profile
-- Legislative effectiveness data has low confidence ratings
-
-The evidence grades (Parliament: 'C', Accessibility: 'D') indicate moderate to poor data quality across key transparency metrics.
-
-### Key Takeaway
-Ve Vaithilingam's transparency profile is severely hampered by incomplete data across critical areas including asset disclosure, MPLADS utilization, and committee participation. While his clean criminal record and moderate parliamentary attendance (75%) provide some positive indicators, the absence of financial transparency data and development fund utilization information prevents comprehensive public accountability assessment. The neutral media coverage and lack of private bill initiatives suggest limited proactive legislative leadership. Improved data disclosure across asset declarations and developmental fund utilization would significantly enhance transparency and public trust.
+No criminal cases declared. Declared assets: Rs 157,249,699. MPLADS utilization: 11.8%. Parliament attendance: 75.0%. Questions asked: 9. Debates participated: 7.
 
 ---
 
@@ -169,7 +138,7 @@ Ve Vaithilingam's transparency profile is severely hampered by incomplete data a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ve Vaithilingam's MPLADS account: Released: Rs 21, Expended: Rs 2, Utilization: 11.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

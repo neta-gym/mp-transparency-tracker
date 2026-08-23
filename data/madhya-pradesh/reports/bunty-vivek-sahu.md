@@ -3,32 +3,32 @@
 **Constituency:** Chhindwara, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 25.1 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 36.77 Crore
+- **Liabilities:** Rs 1.22 Crore
+- **Net Worth:** Rs 35.55 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.4%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,52 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Bunty Vivek Sahu shows a mixed transparency profile with moderate MPLADS utilization and attendance, but significant gaps in legislative engagement and public accessibility. While maintaining a clean criminal record, the MP demonstrates very low committee participation and minimal accessibility to constituents, indicating limited transparency in core parliamentary functions.
+Bunty Vivek Sahu shows moderate transparency with a score of 54.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bunty Vivek Sahu
-
-### Overall Assessment
-Bunty Vivek Sahu, BJP MP from Chhindwara, Madhya Pradesh, presents a mixed transparency profile with significant data limitations. While maintaining a clean legal record and demonstrating adequate parliamentary attendance (80%), substantial gaps exist in financial disclosure and development fund utilization data. The evidence quality is notably poor across multiple domains, with parliamentary performance rated 'C' and accessibility rated 'D'.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This represents a critical transparency gap given the MP's constituency development responsibilities. The absence of this data prevents assessment of the MP's effectiveness in executing development projects in Chhindwara.
-
-CAG audit findings for Madhya Pradesh reveal systemic issues with fund management: Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level concerns underscore the importance of transparent fund reporting, making the MP's data absence particularly concerning.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, including current holdings, previous declarations, growth ratios, and net worth calculations. This represents a significant transparency deficit, as asset disclosure is a fundamental requirement for elected representatives. Without this information, it's impossible to assess potential conflicts of interest or track wealth accumulation during the MP's tenure.
-
-The MP receives Rs 2,45,000 monthly compensation, but the lack of asset data prevents evaluation of financial propriety or wealth changes relative to official income.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero cases across all categories: no pending cases, no serious charges, no disposed cases, and no convictions. This represents the strongest aspect of the transparency profile, indicating absence of legal controversies or criminal allegations.
-
-However, the data comes with a warning flag indicating "low confidence in criminal data" due to potentially unavailable sources, suggesting this clean record should be interpreted cautiously.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance, indicating reasonable presence in the Lok Sabha. However, legislative activity appears limited with only 5 questions raised, 1 debate participation, and zero private bills introduced. This suggests passive rather than proactive parliamentary engagement.
-
-No committee membership data is available, preventing assessment of the MP's involvement in detailed legislative work. The 'C' grade for parliamentary evidence quality indicates moderate confidence in these figures.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversy. This neutral profile could indicate either effective, non-controversial representation or insufficient public engagement.
-
-The 'D' grade for accessibility evidence suggests poor data availability regarding public interaction, constituency services, or communication channels. No social media engagement metrics or public interface data is available.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record data has low confidence due to source availability concerns
-- Asset data shows low confidence warnings
-- MPLADS data reliability is questioned
-- No committee information is available, possibly due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-These caveats substantially limit the reliability of this transparency assessment and suggest systemic data collection or disclosure issues.
-
-### Key Takeaway
-While Bunty Vivek Sahu maintains a clean legal record and adequate parliamentary attendance, critical transparency gaps in financial disclosure and development fund utilization severely limit accountability assessment. The poor data quality across multiple domains (evidence grades of 'C' and 'D') suggests either inadequate disclosure practices or systemic transparency failures. Voters in Chhindwara constituency lack essential information needed to evaluate their representative's financial propriety and development work effectiveness.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 367,731,210. MPLADS utilization: 31.4%. Parliament attendance: 80.0%. Questions asked: 5. Debates participated: 1.
 
 ---
 
@@ -179,7 +136,7 @@ While Bunty Vivek Sahu maintains a clean legal record and adequate parliamentary
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bunty Vivek Sahu's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -275,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,23 @@
 **Constituency:** Kota, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 40.5 / 100
+## Composite Transparency Score: 43.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 13.7 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 50.0 | 10% |
+| Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.62 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 10.62 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 61% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.1%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +93,11 @@
 
 ## Qualitative Assessment
 
-Om Birla shows mixed transparency performance with a moderate overall score of 40.5/100. While he maintains a clean criminal record (100%) and adequate performance in MPLADS utilization and asset disclosure (both 50%), there are significant concerns regarding legislative participation, committee involvement, and public accessibility, all scoring very low or zero.
+Om Birla has a below-average transparency score of 43.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Om Birla
-
-### Overall Assessment
-Om Birla, Bharatiya Janata Party MP from Kota, Rajasthan, maintains a clean legal record with no criminal cases. However, significant data gaps across financial disclosures and parliamentary metrics severely limit transparency assessment capabilities. The profile shows concerning data quality issues affecting most key performance indicators.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, preventing assessment of constituency development work. This is particularly concerning given CAG audit findings highlighting systemic issues in fund utilization across states. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether these historical issues persist in Birla's constituency.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, providing no insight into financial holdings, growth patterns, or potential conflicts of interest. The monthly compensation is recorded at Rs 2,45,000, consistent with standard MP remuneration. However, the absence of asset declarations represents a significant transparency gap that prevents proper financial accountability assessment.
-
-### Legal & Criminal Standing
-Birla maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, convictions, or disposed matters. This represents the strongest positive indicator in his transparency profile, though data confidence is flagged as low, suggesting verification limitations.
-
-### Parliamentary Performance
-Parliamentary activity data is completely unavailable, showing 0% attendance, zero questions raised, no debate participation, and no private member bills. This data void prevents assessment of legislative engagement, constituency representation effectiveness, or parliamentary contribution quality. The evidence grade of 'C' for parliament data indicates substantial reliability concerns.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement with only 10 total news articles identified. The sentiment breakdown shows predominantly neutral coverage (8 articles), with minimal positive (1 article) or negative (1 article) coverage. This low media presence suggests either limited public visibility or insufficient digital footprint tracking. The accessibility evidence grade of 'D' indicates poor data availability for public engagement metrics.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight severe data reliability issues:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence levels
-- MPLADS utilization data is completely missing
-- Parliamentary activity metrics have low confidence ratings
-- Committee participation data is entirely absent
-- Legislative effectiveness data has low confidence
-
-These limitations significantly compromise the assessment's reliability and suggest systemic issues with data collection or disclosure compliance.
-
-### Key Takeaway
-While Om Birla maintains a clean legal record, the extensive data gaps across financial disclosures, parliamentary performance, and fund utilization create substantial transparency concerns. The absence of MPLADS data is particularly problematic given documented fund utilization issues in the region. Stakeholders should demand improved data disclosure to enable proper accountability assessment of this Lok Sabha representative from Rajasthan.
+No criminal cases declared. Declared assets: Rs 106,206,645. MPLADS utilization: 17.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +137,7 @@ While Om Birla maintains a clean legal record, the extensive data gaps across fi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Om Birla's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Dharmapuri, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 23.7 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.66 Crore
+- **Liabilities:** Rs 2.13 Crore
+- **Net Worth:** Rs 6.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 5
+- **Utilization Rate:** 29.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,62 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Mani A demonstrates a mixed transparency profile with significant areas of concern. While maintaining perfect criminal record transparency and good attendance (85%), critical weaknesses exist in committee participation (0%), legislative activity (0%), and accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with zero committee engagement, suggest limited parliamentary effectiveness despite clean conduct.
+Mani A shows moderate transparency with a score of 55.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mani A
-
-### Overall Assessment
-
-Mani A, representing Dharmapuri constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and reasonable parliamentary attendance, critical financial and development data remains unavailable, hindering full assessment of his effectiveness as an MP.
-
-### Fund Utilization & Development
-
-**MPLADS Performance:** Complete data unavailable for MPLADS allocation, release, and expenditure figures. This represents a significant transparency gap given that MPLADS funds (typically ₹5 crore annually per MP) are crucial for constituency development.
-
-**CAG Audit Context:** Tamil Nadu faces systemic MPLADS implementation challenges, with CAG audits revealing ₹1,558 crore in idle funds across state district authorities. Critically, 34% of utilization certificates lack proper documentation, and 18% of sampled works remain incomplete or abandoned. These state-level issues raise questions about local implementation effectiveness, though specific data for Dharmapuri constituency is not available.
-
-### Financial Transparency
-
-**Asset Declaration:** No asset information is available for current or previous periods, making it impossible to assess financial transparency or track wealth changes during tenure. This data gap significantly undermines accountability measures.
-
-**Compensation:** Monthly compensation stands at ₹2,45,000, consistent with standard MP remuneration packages.
-
-### Legal & Criminal Standing
-
-Mani A maintains a clean legal record with zero criminal cases across all categories—no pending cases, convictions, or serious charges. This represents a positive indicator for public trust, though data confidence is flagged as low due to potential source limitations.
-
-### Parliamentary Performance
-
-**Attendance:** Demonstrates solid parliamentary engagement with 85% attendance, indicating consistent participation in legislative proceedings.
-
-**Legislative Activity:** Moderate participation with 20 questions raised and 3 debate contributions. No private member bills introduced, suggesting limited proactive legislative initiative.
-
-**Committee Involvement:** No committee data available, representing a gap in assessing specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-**Media Coverage:** Limited public visibility with only 10 news articles identified. Coverage breakdown shows predominantly neutral reporting (9 articles), with 1 negative article and no positive coverage. This suggests minimal media engagement or newsworthiness.
-
-**Digital Presence:** Evidence grade of 'D' for accessibility indicates poor online engagement and limited constituent communication channels.
-
-### Data Quality & Caveats
-
-**Significant Limitations:** Multiple automated flags indicate substantial data quality issues:
-- Low confidence in criminal record data due to source availability
-- Asset information completely unavailable
-- MPLADS utilization data missing
-- Committee participation data absent
-- Limited legislative effectiveness metrics
-
-**Evidence Grading:** Parliamentary performance rated 'C' grade, while accessibility receives poor 'D' grade, reflecting limited transparency and public engagement.
-
-**Source Coverage:** Data compiled from PRS (parliamentary data), social media monitoring, and news coverage, but key government financial disclosures appear missing.
-
-### Key Takeaway
-
-While Mani A maintains clean legal standing and reasonable parliamentary attendance, severe data gaps in financial disclosure, MPLADS utilization, and asset declarations significantly compromise transparency assessment. The absence of critical accountability metrics, combined with limited public engagement and poor accessibility ratings, suggests substantial room for improvement in transparency practices. The broader systemic issues highlighted by CAG audits in Tamil Nadu's MPLADS implementation underscore the need for enhanced monitoring of development fund utilization at the constituency level. Immediate priorities should include improved financial disclosure compliance and enhanced constituent communication mechanisms.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 86,564,403. MPLADS utilization: 29.7%. Parliament attendance: 85.0%. Questions asked: 20. Debates participated: 3.
 
 ---
 
@@ -189,7 +138,7 @@ While Mani A maintains clean legal standing and reasonable parliamentary attenda
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -268,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mani A's MPLADS account: Released: Rs 16, Expended: Rs 5, Utilization: 29.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -285,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Dausa, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 6.8 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.57 Crore
+- **Liabilities:** Rs 21.67 Lakh
+- **Net Worth:** Rs 13.35 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Murari Lal Meena shows a mixed transparency profile with moderate overall performance. While he demonstrates strong attendance (95%) and maintains a clean criminal record, significant weaknesses exist in committee participation (0%), legislative activity (0%), and public accessibility (10%). The low data confidence (14%) and multiple validation flags suggest limited reliable information availability.
+Murari Lal Meena shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Murari Lal Meena
-
-### Overall Assessment
-
-Murari Lal Meena (INC, Dausa, Rajasthan) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across critical areas. His 95% attendance rate demonstrates consistent engagement with parliamentary duties, though broader transparency metrics remain unclear due to data limitations across financial and development indicators.
-
-### Fund Utilization & Development
-
-MPLADS utilization data is unavailable, preventing assessment of constituency development effectiveness. This data gap is concerning given CAG audit findings revealing systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and widespread irregularities in utilization certificates. Without specific MPLADS data, it's impossible to evaluate Meena's performance against these broader accountability challenges affecting his state.
-
-### Financial Transparency
-
-Asset declaration information is completely unavailable, making financial transparency assessment impossible. No data exists on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to public accountability. Monthly compensation is recorded at Rs 2,45,000, though this appears to be standard parliamentary remuneration rather than constituency-specific financial disclosure.
-
-### Legal & Criminal Standing
-
-Meena shows no criminal record with zero cases across all categories (serious, pending, disposed, convictions). However, confidence in this criminal data is flagged as low, suggesting potential data source limitations. While the clean record appears positive, the data quality caveat requires noting this assessment's reliability constraints.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance at 95% is notably high, indicating strong commitment to parliamentary duties. Legislative activity includes 48 questions and 7 debate participations, demonstrating active engagement in parliamentary processes. However, zero private bills suggests limited legislative initiative. No committee membership data is available, representing another transparency gap in assessing his parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversial issues. This neutral coverage pattern may indicate either effective non-controversial representation or insufficient public engagement generating media attention. Accessibility metrics receive a 'D' grade, indicating poor public accessibility or limited available data on constituent engagement efforts.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly limit this assessment's reliability. Criminal record data has low confidence due to potential source unavailability. Asset information completely lacks confidence, with no financial data available. MPLADS data is similarly unreliable, preventing development work assessment. Committee participation data is missing, suggesting Sansad profile unavailability. Overall evidence grades are concerning: parliamentary performance rated 'C' and accessibility rated 'D', indicating substantial data gaps across transparency metrics.
-
-### Key Takeaway
-
-Murari Lal Meena demonstrates strong parliamentary attendance (95%) and clean criminal record, but comprehensive transparency assessment is severely hampered by extensive data gaps across financial declarations, constituency development, and public engagement metrics. The unavailability of MPLADS and asset data, combined with poor accessibility ratings, suggests significant transparency challenges that prevent full accountability evaluation. Voters lack access to crucial information needed to assess his effectiveness as their representative, particularly regarding fund utilization and financial standing.
+No criminal cases declared. Declared assets: Rs 135,714,010. MPLADS utilization: 8.5%. Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 7. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Murari Lal Meena demonstrates strong parliamentary attendance (95%) and clean cr
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Murari Lal Meena's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

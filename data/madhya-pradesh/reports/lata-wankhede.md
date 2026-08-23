@@ -3,23 +3,25 @@
 **Constituency:** Sagar, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 65.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 58.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.34 Crore
+- **Liabilities:** Rs 1.38 Crore
+- **Net Worth:** Rs 15.96 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 62.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,34 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Lata Wankhede demonstrates a mixed transparency profile with moderate performance in basic areas like attendance (85%) and clean criminal record (100%), but significant gaps in legislative participation and committee involvement (both 0%). The low accessibility score (10%) and poor data confidence (14%) with multiple validation flags suggest limited public engagement and incomplete transparency reporting.
+Lata Wankhede shows moderate transparency with a score of 65.1/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Lata Wankhede
-### Overall Assessment
-Lata Wankhede, BJP MP from Sagar constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps across multiple indicators. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance, the absence of crucial financial data and limited public engagement activities raise concerns about overall transparency and accountability.
-
-### Fund Utilization & Development
-No specific MPLADS utilization data is available for MP Wankhede, representing a critical transparency gap. However, CAG audit findings from 2010 reveal systemic issues in Madhya Pradesh's fund management, with ₹1,558 crore lying idle in district authority accounts and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, suggesting broader challenges in the state's development fund ecosystem that may impact constituency-level projects.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, preventing assessment of financial transparency or potential conflicts of interest. Without baseline or current asset declarations, it's impossible to evaluate wealth accumulation patterns or compliance with disclosure norms. The MP receives standard parliamentary compensation of ₹245,000 monthly, but the absence of asset data represents a significant accountability deficit.
-
-### Legal & Criminal Standing
-Lata Wankhede maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 85% attendance rate, indicating reasonable commitment to legislative duties. However, substantive participation appears limited with only 5 questions raised and 6 debate contributions recorded. No private member bills were introduced, suggesting minimal legislative initiative. The absence of committee membership data further limits assessment of parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Public visibility remains extremely limited based on available metrics. Media coverage consists of 10 neutral articles with no positive or negative sentiment indicators, suggesting minimal public discourse engagement. No accessibility initiatives or public outreach programs are documented, indicating potential gaps in constituent communication and engagement strategies.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS utilization data is missing. Committee membership information appears inaccessible, potentially due to Sansad profile unavailability. Legislative effectiveness metrics also show low confidence ratings. The parliament activity evidence grade of 'C' and accessibility grade of 'D' reflect these systemic data limitations, suggesting either poor record-keeping or limited digital transparency infrastructure.
-
-### Key Takeaway
-While Lata Wankhede maintains a clean legal record and demonstrates basic parliamentary attendance, severe data gaps across financial disclosures, development fund utilization, and public engagement metrics significantly hamper transparency assessment. The absence of asset declarations and MPLADS data, combined with limited legislative participation and minimal public visibility, suggests substantial room for improvement in accountability and constituent service transparency.
+No criminal cases declared. Declared assets: Rs 173,410,882. MPLADS utilization: 62.0%. Parliament attendance: 85.0%. Questions asked: 5. Debates participated: 6.
 
 ---
 
@@ -161,7 +138,7 @@ While Lata Wankhede maintains a clean legal record and demonstrates basic parlia
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -240,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Lata Wankhede's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 62.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -257,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

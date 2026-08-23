@@ -3,32 +3,34 @@
 **Constituency:** Chevella, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 51.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 20.0 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4568.22 Crore
+- **Liabilities:** Rs 13.83 Crore
+- **Net Worth:** Rs 4554.39 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 25.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Konda Vishweshwar Reddy demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, both scoring perfect marks. However, significant weaknesses exist in committee participation, accessibility to constituents, and legislative contributions, which substantially impact the overall score.
+Konda Vishweshwar Reddy shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Konda Vishweshwar Reddy
-
-### Overall Assessment
-Konda Vishweshwar Reddy, representing Chevella constituency in Telangana for the Bharatiya Janata Party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100.0%) and a clean criminal record, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable, hindering thorough assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-No MPLADS data is available for assessment, including entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given the scheme's importance for constituency development. However, relevant CAG audit findings for Telangana highlight systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These audit findings provide important context for evaluating development fund management in the state, though direct applicability to the MP's performance cannot be established without specific MPLADS data.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, preventing assessment of the MP's financial transparency. No data exists on total assets, previous declarations, growth ratios, or net worth calculations. The MP's monthly compensation is documented at Rs 2,45,000, representing the standard parliamentary remuneration. The absence of asset data significantly undermines the ability to evaluate potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-Konda Vishweshwar Reddy maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality caveats indicate low confidence in criminal record information due to potential source unavailability, requiring cautious interpretation of this apparently clean profile.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance with perfect 100.0% participation in parliamentary sessions. Legislative activity shows moderate engagement with 10 questions raised and participation in 5 debates, though no private member bills have been introduced. Committee participation data is unavailable, representing a gap in assessing his contribution to parliamentary committee work. The evidence grade for parliamentary performance is rated 'C', suggesting adequate but not exceptional legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral tone (9 neutral, 1 positive, 0 negative), indicating limited public visibility but absence of negative controversies. The accessibility evidence grade is rated 'D', suggesting poor public engagement or limited transparency in constituency outreach. No social media engagement metrics or public interaction data is available for comprehensive assessment.
-
-### Data Quality & Caveats
-Multiple automated flags indicate significant data quality issues:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data is entirely unavailable
-- Committee participation information is missing due to potential Sansad profile unavailability
-- Legislative effectiveness data has low confidence ratings
-
-These limitations substantially impact the reliability of this assessment, requiring careful interpretation of available information.
-
-### Key Takeaway
-While Konda Vishweshwar Reddy maintains perfect parliamentary attendance and a clean criminal record, the comprehensive evaluation of his performance is severely hampered by extensive data gaps in critical areas including asset disclosure, MPLADS utilization, and committee participation. The limited available evidence suggests adequate but unremarkable parliamentary engagement, with neutral public perception but poor accessibility ratings. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of his effectiveness as a public representative. The systemic issues highlighted by CAG audits in Telangana underscore the importance of transparent fund utilization monitoring at the constituency level.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 45,682,222,094. MPLADS utilization: 25.0%. Parliament attendance: 100.0%. Questions asked: 10. Debates participated: 5.
 
 ---
 
@@ -169,7 +138,7 @@ While Konda Vishweshwar Reddy maintains perfect parliamentary attendance and a c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Konda Vishweshwar Reddy's MPLADS account: Released: Rs 19, Expended: Rs 5, Utilization: 25.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,23 @@
 **Constituency:** Faridkot, Punjab
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 39.0 / 100
+## Composite Transparency Score: 50.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 46.7 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.08 Crore
+- **Liabilities:** Rs 5.75 Lakh
+- **Net Worth:** Rs 1.02 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 8
+- **Utilization Rate:** 54.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Sarabjeet Singh Khalsa shows a concerning transparency profile with a low overall score of 39/100, primarily driven by zero participation in parliamentary debates, committee work, and legislative initiatives. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, the MP demonstrates minimal engagement in core parliamentary functions and very limited accessibility to constituents.
+Sarabjeet Singh Khalsa shows moderate transparency with a score of 50.3/100. No criminal cases declared. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Sarabjeet Singh Khalsa
-
-### Overall Assessment
-Sarabjeet Singh Khalsa, an Independent MP representing Faridkot constituency in Punjab, presents a mixed transparency profile with significant data gaps. While he maintains a clean criminal record, his parliamentary performance shows concerning patterns with low attendance (35%) and minimal legislative activity. The absence of critical financial data, including asset declarations and MPLADS utilization figures, severely limits transparency assessment.
-
-### Fund Utilization & Development
-Complete data unavailability prevents assessment of MPLADS fund utilization. No figures are available for entitled amounts, releases, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Punjab's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also identified 18% of sampled development works as abandoned or incomplete, raising questions about effective fund deployment in the region.
-
-### Financial Transparency
-Asset transparency is entirely absent with no data on total assets, previous holdings, growth ratios, or net worth. This complete lack of financial disclosure significantly undermines transparency standards expected from elected representatives. The MP receives a total monthly compensation of Rs 245,000, but without asset declarations, voters cannot assess potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting potential gaps in source verification rather than confirmed clean status.
-
-### Parliamentary Performance
-Parliamentary engagement shows significant deficiencies. Attendance stands at a concerning 35%, well below the expected standard for effective representation. Legislative activity is minimal with zero questions raised, zero debates participated in, and zero private bills introduced. This pattern suggests limited active engagement in parliamentary proceedings and minimal advocacy for constituency interests at the national level.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral media profile, while avoiding controversy, may indicate limited public visibility or policy impact. The absence of committee participation data further suggests minimal engagement in specialized parliamentary work that could benefit constituency interests.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact assessment reliability. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS data shows low confidence ratings. Committee participation data is entirely missing, potentially due to unavailable Sansad profile information. Legislative effectiveness data also carries low confidence ratings. Evidence grades show 'C' rating for parliament data and 'D' rating for accessibility, indicating substantial information gaps. Sources include PRS, social media, and news outlets, but comprehensive official data appears limited.
-
-### Key Takeaway
-Sarabjeet Singh Khalsa's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee work. While maintaining a clean criminal record, his low parliamentary attendance (35%) and zero legislative activity raise questions about effective constituency representation. The complete absence of financial transparency data, combined with concerning CAG audit findings about fund management issues in Punjab, creates significant accountability gaps that voters cannot properly assess.
+No criminal cases declared. Declared assets: Rs 10,808,400. MPLADS utilization: 54.5%. Parliament attendance: 35.0%.
 
 ---
 
@@ -162,7 +136,7 @@ Sarabjeet Singh Khalsa's transparency profile is severely hampered by extensive 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sarabjeet Singh Khalsa's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 54.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

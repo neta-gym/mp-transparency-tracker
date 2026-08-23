@@ -6,23 +6,23 @@
 **Age:** 70
 **Education:** Post Graduate
 **Profession:** Member of Parliament Salary, Pension Interest income
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (29%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 14.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.84 Crore
-- **Immovable Assets:** Rs 92.70 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 3.77 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 3.77 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.7%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,42 +96,11 @@
 
 ## Qualitative Assessment
 
-Arjun Ram Meghwal shows a mixed transparency profile with moderate scores across most indicators but significant weaknesses in committee participation, legislative activity, and public accessibility. His perfect criminal record transparency stands out positively, while critical gaps in committee work and legislative engagement raise concerns about his parliamentary effectiveness.
+Arjun Ram Meghwal has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Arjun Ram Meghwal
-
-### Overall Assessment
-Arjun Ram Meghwal, the 70-year-old BJP MP from Bikaner, Rajasthan, presents a mixed transparency profile with strong legal standing but significant data gaps in key performance areas. As a sitting minister, his parliamentary metrics require contextual interpretation, while missing MPLADS data limits assessment of his development work. His ₹3.77 crore asset declaration suggests moderate wealth accumulation during his political career.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of the MP's utilization of the ₹5 crore annual development fund allocation. This represents a critical transparency gap. However, CAG audits reveal systemic issues in Rajasthan's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These findings suggest potential oversight challenges in the state's development fund ecosystem that may affect local implementation regardless of MP performance.
-
-### Financial Transparency
-Meghwal has declared total assets of ₹3.77 crore, with no previous declaration data available for growth analysis. His monthly compensation totals ₹2.45 lakh. The asset level appears reasonable for a senior politician, though the absence of historical data prevents assessment of wealth accumulation patterns. His declared profession includes "Member of Parliament Salary, Pension Interest income," indicating transparency in income sources.
-
-### Legal & Criminal Standing
-Meghwal maintains an exemplary legal record with zero criminal cases—no serious charges, pending cases, disposed matters, or convictions. This clean record represents a significant positive indicator for public trust and governance integrity, contrasting with many MPs who face various legal challenges.
-
-### Parliamentary Performance
-Parliamentary activity data shows zero recorded questions, debates, and private bills, with no attendance percentage available. However, these metrics must be interpreted cautiously as Meghwal serves as a minister, where executive duties typically reduce floor participation. Ministerial responsibilities often involve policy implementation and administrative work that may not reflect in traditional parliamentary metrics. The data quality is rated 'C', indicating low confidence in these figures.
-
-### Public Engagement & Accessibility
-Public engagement assessment is limited by data availability. News sentiment analysis from 10 articles shows entirely neutral coverage with no positive or negative articles identified. This neutral media profile suggests either limited controversial activities or insufficient media coverage. The absence of committee data and legislative effectiveness metrics further constrains evaluation of his public accessibility and responsiveness to constituent needs.
-
-### Data Quality & Caveats
-Several significant data limitations affect this assessment:
-- **MPLADS data**: Completely unavailable, preventing development work evaluation
-- **Parliamentary activity**: Low confidence rating (C) with missing attendance data
-- **Asset growth**: No previous declarations for trend analysis
-- **Committee participation**: No data found, possibly due to unavailable Sansad profile
-- **Accessibility metrics**: Rated 'D' for poor data quality
-
-These gaps substantially limit comprehensive evaluation and suggest potential issues with data collection or reporting systems.
-
-### Key Takeaway
-Arjun Ram Meghwal presents a profile of legal integrity with a clean criminal record and reasonable asset disclosure, but significant transparency gaps prevent full assessment of his effectiveness as an MP. The complete absence of MPLADS data and limited parliamentary metrics, while partially explained by his ministerial role, raise questions about public accountability. His neutral news coverage suggests steady, non-controversial leadership, but without development fund utilization data, constituents cannot fully evaluate his impact on Bikaner's progress. Future transparency improvements should prioritize MPLADS reporting and enhanced public data accessibility.
+No criminal cases declared. Declared assets: Rs 37,654,863. MPLADS utilization: 17.7%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +140,7 @@ Arjun Ram Meghwal presents a profile of legal integrity with a clean criminal re
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Arjun Ram Meghwal's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -269,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

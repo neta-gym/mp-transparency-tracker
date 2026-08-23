@@ -6,23 +6,23 @@
 **Age:** 53
 **Education:** Graduate
 **Profession:** Social Worker
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 51.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.6 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.47 Crore
-- **Immovable Assets:** Rs 2.31 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 3.78 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 3.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.7%
 
 ---
 
@@ -86,7 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-Anil Baluni demonstrates a mixed transparency profile with notable strengths in attendance (95%) and a clean criminal record, but significant weaknesses in legislative participation and committee involvement. His MPLADS and asset disclosure scores are moderate at 50%, while accessibility remains very limited at 10%, suggesting minimal public engagement through digital platforms.
+Anil Baluni shows moderate transparency with a score of 51.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Anil Baluni
-
-### Overall Assessment
-Anil Baluni, BJP MP from Garhwal constituency in Uttarakhand, presents a mixed transparency profile with strong legal standing and parliamentary attendance but concerning gaps in fund utilization data and public accessibility metrics. At 53, the graduate social worker demonstrates above-average legislative participation while maintaining a clean criminal record, though comprehensive assessment is limited by incomplete data across several key performance indicators.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with entitled, released, and expended amounts all unreported. This represents a significant transparency gap given that MPs are allocated ₹5 crore annually for constituency development. The absence of utilization data is particularly concerning given CAG audit findings revealing systemic issues in fund management across states, including ₹1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents. For Uttarakhand specifically, 7 relevant CAG findings highlight ongoing challenges in fund deployment and monitoring.
-
-### Financial Transparency
-Baluni's declared assets total ₹3.78 crore, though previous asset declarations are unavailable, preventing growth ratio analysis or net worth tracking over time. His monthly compensation stands at ₹2.45 lakh. The asset declaration appears complete for the current term but lacks historical context necessary for comprehensive financial transparency assessment. Without previous declaration data, it's impossible to verify asset growth patterns or identify potential discrepancies.
-
-### Legal & Criminal Standing
-Baluni maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. This clean record represents a significant positive indicator for public trust and governance standards, particularly notable given concerns about criminalization of politics in India.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with notably high attendance at 95%, well above typical parliamentary averages. However, legislative productivity appears limited with only 3 questions raised and 2 debates participated in, alongside zero private bills introduced. This suggests strong physical presence but potentially lower active legislative contribution. Committee participation data is unavailable, limiting assessment of behind-the-scenes parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles providing mixed/neutral coverage - notably, zero positive or negative articles, suggesting limited media visibility or controversial stances. This neutral profile may indicate either low public profile or balanced coverage. Social media presence and direct citizen accessibility metrics are not available, creating gaps in understanding public outreach effectiveness.
-
-### Data Quality & Caveats
-Evidence quality varies significantly across categories, with criminal and asset data rated 'B' grade, parliament data at 'C' grade, and accessibility receiving the lowest 'D' grade. Multiple automated flags highlight data limitations: low confidence in MPLADS data, missing committee information potentially due to unavailable Sansad profiles, and low confidence in legislative effectiveness metrics. These gaps substantially limit comprehensive performance assessment and suggest potential systemic issues in data collection or reporting.
-
-### Key Takeaway
-Anil Baluni presents as a legally clean MP with strong attendance but faces significant transparency challenges due to missing MPLADS utilization data and limited public engagement metrics. While his 95% attendance rate and zero criminal cases represent positive governance indicators, the complete absence of development fund utilization data raises accountability concerns, particularly given broader CAG findings about fund management issues in Uttarakhand. The neutral media profile and data quality limitations prevent conclusive assessment of his overall effectiveness as a public representative, highlighting the need for improved transparency reporting mechanisms.
+No criminal cases declared. Declared assets: Rs 37,798,791. MPLADS utilization: 0.7%. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ Anil Baluni presents as a legally clean MP with strong attendance but faces sign
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Anil Baluni's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Khargone, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 33.7 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 9.98 Crore
+- **Liabilities:** Rs 44.97 Lakh
+- **Net Worth:** Rs 9.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 6
+- **Utilization Rate:** 42.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,50 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Gajendra Singh Patel demonstrates mixed transparency performance with a below-average score of 45.5/100. While maintaining a clean criminal record, significant weaknesses appear in committee participation, legislative activity, and public accessibility, suggesting limited engagement in parliamentary processes and constituent outreach.
+Gajendra  Singh Patel shows moderate transparency with a score of 55.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Gajendra Singh Patel
-
-### Overall Assessment
-
-Gajendra Singh Patel, BJP MP from Khargone constituency in Madhya Pradesh, presents a transparency profile with significant data limitations. Available information shows a clean criminal record with zero cases, though most performance metrics remain unavailable due to data quality issues. The MP serves in the Lok Sabha with a monthly compensation of Rs 245,000, but comprehensive assessment is hindered by missing data across multiple transparency indicators.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is completely unavailable, with no information on entitlement, release, expenditure, or utilization percentage. This represents a critical transparency gap, especially given the CAG audit context revealing systemic issues in Madhya Pradesh's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with Madhya Pradesh showing 8 relevant audit findings. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete, raising concerns about effective fund deployment in the state.
-
-### Financial Transparency
-
-Asset disclosure information is entirely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents any assessment of the MP's wealth accumulation or potential conflicts of interest. The lack of asset information represents a significant transparency deficit, particularly for a public representative where financial disclosure is mandated under electoral laws.
-
-### Legal & Criminal Standing
-
-Gajendra Singh Patel maintains a clean criminal record with zero total cases, serious cases, pending cases, disposed cases, and convictions. However, data confidence is marked as low, suggesting potential gaps in criminal record verification. While the available information indicates no legal complications, the warning flag regarding data reliability requires cautious interpretation of this apparently clean slate.
-
-### Parliamentary Performance
-
-Parliamentary activity data shows concerning gaps across all metrics. Attendance percentage, questions raised, debate participation, and private bills introduced are all listed as unavailable. The MP holds ministerial position, which typically results in lower attendance due to executive duties, but without specific data, performance assessment remains impossible. Zero questions and debates recorded could reflect either data unavailability or genuine inactivity, requiring clarification.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics show limited media presence with 10 news articles providing neutral coverage (0 positive, 0 negative, 10 neutral). This neutral sentiment suggests absence of significant controversies but also indicates minimal proactive public communication. The evidence grade for accessibility is marked as 'D', indicating poor transparency in public engagement. No committee participation data is available, suggesting either non-participation in parliamentary committees or data collection failures.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight severe data quality issues affecting this transparency assessment:
-- Criminal record data marked with low confidence
-- Asset information completely unavailable with low confidence warnings
-- MPLADS data entirely missing with reliability concerns
-- Parliamentary activity data marked as unreliable
-- Committee participation data unavailable, possibly due to missing Sansad profile
-
-Evidence grades show 'C' for parliament-related data and 'D' for accessibility metrics, indicating below-average data availability. Sources include PRS, social media, and news outlets, but coverage appears incomplete across most transparency indicators.
-
-### Key Takeaway
-
-Gajendra Singh Patel's transparency profile suffers from severe data deficiencies that prevent comprehensive evaluation of his performance as an elected representative. While available information suggests a clean criminal record, the absence of asset declarations, MPLADS utilization data, and parliamentary activity metrics creates significant transparency gaps. The systemic fund management issues highlighted in CAG audits for Madhya Pradesh, combined with missing MPLADS data for this MP, raise concerns about accountability in constituency development. Voters and oversight bodies require access to complete, verified data to properly assess elected representatives' performance and ensure democratic accountability.
+No criminal cases declared. Declared assets: Rs 99,824,946. MPLADS utilization: 42.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -178,7 +139,7 @@ Gajendra Singh Patel's transparency profile suffers from severe data deficiencie
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gajendra  Singh Patel's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 42.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

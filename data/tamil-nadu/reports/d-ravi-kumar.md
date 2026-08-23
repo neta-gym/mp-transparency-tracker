@@ -3,23 +3,25 @@
 **Constituency:** Viluppuram, Tamil Nadu
 **Party:** Viduthalai Chiruthaigal Katchi
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 26
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 56.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 45.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.80 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.80 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 9
+- **Utilization Rate:** 53.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP D Ravi Kumar shows a mixed transparency profile with significant gaps in key governance areas. While maintaining a clean criminal record and moderate participation levels, critical weaknesses exist in committee involvement, legislative activity, and public accessibility, resulting in below-average overall transparency.
+D Ravi Kumar shows moderate transparency with a score of 56.4/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-## Executive Summary: D Ravi Kumar
-
-### Overall Assessment
-D Ravi Kumar, representing Viluppuram constituency in Tamil Nadu for the Viduthalai Chiruthaigal Katchi party, presents a mixed transparency profile with significant data gaps across key performance indicators. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with below-average attendance rates. The lack of comprehensive asset and MPLADS utilization data severely limits the ability to assess his financial transparency and development impact.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Tamil Nadu, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Kumar's MPLADS performance, it's impossible to assess whether his constituency benefits align with or deviate from these concerning state-wide patterns.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any meaningful assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is documented at ₹245,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-D Ravi Kumar maintains a clean legal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This clean criminal profile is notable and represents a positive aspect of his public service record. However, the automated warning flag indicates low confidence in the criminal data source, suggesting potential data reliability issues.
-
-### Parliamentary Performance
-Kumar's parliamentary engagement shows significant weaknesses, particularly in attendance where he achieves only 40% participation—well below expectations for effective representation. His legislative activity includes 45 questions raised and participation in 6 debates, indicating some level of engagement with parliamentary processes. However, he has introduced zero private member bills, suggesting limited initiative in legislative innovation. The evidence grade of 'C' for parliamentary performance reflects these mixed results.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal limited visibility with only 10 news articles covering Kumar's activities, all categorized as neutral coverage with no positive or negative sentiment recorded. This neutral media presence suggests either limited newsworthiness of his activities or minimal proactive public engagement. The accessibility evidence grade of 'D' indicates poor performance in this crucial area of democratic representation, suggesting constituents may face challenges in accessing their representative.
-
-### Data Quality & Caveats
-The transparency assessment is severely hampered by multiple data quality issues. Automated flags highlight low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS utilization data. Committee membership information is entirely missing, likely due to unavailable Sansad profile data. The legislative effectiveness assessment carries low confidence ratings, and CAG audit context is provided at the state level rather than constituency-specific details. These data gaps significantly limit the reliability of this transparency evaluation.
-
-### Key Takeaway
-D Ravi Kumar's transparency profile is characterized by a clean legal record but concerning data gaps that prevent comprehensive assessment of his effectiveness as a public representative. The 40% parliamentary attendance rate and minimal public visibility suggest limited engagement with core democratic responsibilities. The complete absence of asset disclosure and MPLADS utilization data, combined with systemic fund management issues identified in Tamil Nadu, raises questions about accountability and transparency. Voters and oversight bodies should prioritize obtaining complete disclosure data to enable proper evaluation of Kumar's stewardship of public resources and constituency development responsibilities.
+No criminal cases declared. Declared assets: Rs 180,000. MPLADS utilization: 53.9%. Parliament attendance: 40.0%. Questions asked: 45. Debates participated: 6.
 
 ---
 
@@ -162,7 +138,7 @@ D Ravi Kumar's transparency profile is characterized by a clean legal record but
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for D Ravi Kumar's MPLADS account: Released: Rs 17, Expended: Rs 9, Utilization: 53.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

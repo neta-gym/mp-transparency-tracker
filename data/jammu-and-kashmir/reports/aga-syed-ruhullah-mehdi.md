@@ -3,23 +3,25 @@
 **Constituency:** Srinagar, Jammu And Kashmir
 **Party:** Jammu and Kashmir National Conference
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.58 Crore
+- **Liabilities:** Rs 4.38 Lakh
+- **Net Worth:** Rs 3.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 30% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Aga Syed Ruhullah Mehdi shows a mixed transparency profile with perfect scores in criminal record disclosure and parliamentary attendance, indicating basic compliance with formal requirements. However, significant gaps exist in committee participation, legislative initiatives, and public accessibility, while MPLADS and asset disclosures meet only minimum standards.
+Aga Syed Ruhullah Mehdi shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Aga Syed Ruhullah Mehdi
-
-### Overall Assessment
-
-Aga Syed Ruhullah Mehdi, representing Srinagar constituency for the Jammu and Kashmir National Conference in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance (100%), his overall transparency assessment is hampered by limited financial disclosure and development fund information. The evidence quality is rated 'C' for parliamentary data and 'D' for accessibility metrics.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG's identification of systemic issues in Jammu and Kashmir's fund management. The 2010 CAG audit (Report 31) highlighted severe problems including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about effective fund deployment in the region.
-
-### Financial Transparency
-
-Asset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data significantly undermines public accountability. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, it's impossible to assess financial growth or potential conflicts of interest during the tenure.
-
-### Legal & Criminal Standing
-
-The MP maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the system flags low confidence in this criminal data, suggesting potential gaps in source availability or verification. While the clean record is positive, the data quality concerns warrant cautious interpretation.
-
-### Parliamentary Performance
-
-Mehdi demonstrates strong parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. His legislative participation includes 7 questions raised and 7 debate contributions, indicating active involvement in parliamentary proceedings. However, no private member bills were introduced, and no committee membership data is available due to potential Sansad profile unavailability, limiting assessment of his broader legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals minimal public engagement, with only 10 news articles tracked - 9 neutral, 1 negative, and notably zero positive coverage. This limited media presence suggests either restricted press access in the region or minimal proactive public communication. The neutral-to-negative coverage pattern may reflect broader political tensions in Jammu and Kashmir rather than individual performance issues.
-
-### Data Quality & Caveats
-
-Multiple automated flags indicate significant data reliability concerns:
-- **Criminal records**: Low source confidence
-- **Assets**: Low confidence in financial data
-- **MPLADS**: Low confidence in development fund information
-- **Committees**: No data available
-- **Legislative effectiveness**: Low confidence ratings
-
-These gaps are particularly concerning for a constituency like Srinagar, where transparency and accountability are crucial for maintaining public trust. The evidence grading of 'C' for parliamentary data and 'D' for accessibility metrics reflects these systemic data availability issues.
-
-### Key Takeaway
-
-While Aga Syed Ruhullah Mehdi demonstrates excellent parliamentary attendance and maintains a clean legal record, his transparency profile is severely compromised by missing financial and development fund data. The complete absence of MPLADS information, combined with historical CAG findings of fund mismanagement in Jammu and Kashmir, creates significant accountability concerns. The MP's transparency standing would benefit substantially from proactive disclosure of asset information and development fund utilization data, particularly given the region's documented challenges with fund management and the limited positive media coverage.
+No criminal cases declared. Declared assets: Rs 35,793,000. MPLADS utilization: 10.7%. Parliament attendance: 100.0%. Questions asked: 7. Debates participated: 7.
 
 ---
 
@@ -177,7 +138,7 @@ While Aga Syed Ruhullah Mehdi demonstrates excellent parliamentary attendance an
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Aga Syed Ruhullah Mehdi's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

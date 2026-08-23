@@ -3,23 +3,25 @@
 **Constituency:** Chikkodi, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 27
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.5 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 7.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.12 Crore
+- **Liabilities:** Rs 1.57 Crore
+- **Net Worth:** Rs 7.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 9.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Priyanka Satish Jarkiholi shows a mixed transparency profile with a clean criminal record (100%) and average performance in MPLADS utilization and asset disclosure (both 50%). However, significant concerns exist in legislative participation (0%), committee involvement (0%), and public accessibility (10%), indicating limited engagement in core parliamentary functions.
+Priyanka Satish Jarkiholi has a below-average transparency score of 47.0/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Priyanka Satish Jarkiholi
-
-### Overall Assessment
-Priyanka Satish Jarkiholi, the Indian National Congress MP from Chikkodi, Karnataka, presents a mixed transparency profile with significant data gaps across key performance indicators. While maintaining a clean legal record, her parliamentary engagement shows room for improvement with 50% attendance and limited legislative activity. The analysis is hampered by substantial data unavailability across financial and development metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of her development work effectiveness. This absence is concerning given the CAG's systemic findings for Karnataka, including ₹1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to evaluate whether her constituency benefits align with intended development outcomes or falls victim to the state's documented implementation challenges.
-
-### Financial Transparency
-Asset disclosure information is completely missing, creating a significant transparency gap. No data exists for current assets, previous declarations, growth ratios, or net worth calculations. This absence prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation is recorded at ₹245,000, representing the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Jarkiholi maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, suggesting potential source reliability issues. While the clean record is positive, the data quality caveat requires noting in any comprehensive assessment.
-
-### Parliamentary Performance
-Her parliamentary engagement shows concerning patterns. With 50% attendance, she falls well below optimal legislative participation standards. Her activity metrics reveal limited engagement: only 4 questions raised, 1 debate participation, and zero private bills introduced. This low activity level suggests minimal proactive legislative contribution. No committee membership data is available, indicating either non-participation or data accessibility issues through official Sansad profiles.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or engagement. The neutral tone indicates absence of major controversies but also suggests minimal proactive public communication or significant policy initiatives gaining media attention. Evidence grading shows poor accessibility (Grade D), indicating challenges in obtaining comprehensive information about her public activities and engagement initiatives.
-
-### Data Quality & Caveats
-This analysis faces substantial limitations due to widespread data unavailability. Critical gaps include:
-- Complete absence of MPLADS utilization data (entitled, released, expended amounts)
-- Missing asset declaration information across all categories
-- Criminal record data flagged with low confidence warnings
-- No committee membership or detailed legislative effectiveness data
-- Parliament activity graded as 'C' quality, indicating moderate reliability
-
-The evidence quality grades (Parliament: C, Accessibility: D) reflect these significant data collection challenges, potentially stemming from incomplete digital records or restricted information access.
-
-### Key Takeaway
-Priyanka Satish Jarkiholi's transparency profile is severely constrained by data gaps that prevent comprehensive performance evaluation. While maintaining a clean legal record, her below-average parliamentary attendance (50%) and limited legislative activity raise questions about active representation. The complete absence of financial and development fund data creates transparency concerns that cannot be resolved without improved information disclosure. Voters and stakeholders lack sufficient verifiable information to make informed assessments of her effectiveness as their representative, highlighting the need for enhanced transparency mechanisms and data accessibility in democratic accountability.
+No criminal cases declared. Declared assets: Rs 91,157,625. MPLADS utilization: 9.1%. Parliament attendance: 50.0%. Questions asked: 4. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ Priyanka Satish Jarkiholi's transparency profile is severely constrained by data
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Priyanka Satish Jarkiholi's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 9.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

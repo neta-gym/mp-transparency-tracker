@@ -6,23 +6,23 @@
 **Age:** 64
 **Education:** Graduate Professional
 **Profession:** Salary from India Govt
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 57.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 18.8 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.00 Crore
-- **Immovable Assets:** Rs 2.87 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 4.87 Crore
 - **Liabilities:** Rs 19.05 Lakh
 - **Net Worth:** Rs 4.68 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.5%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Ajay Bhatt shows mixed transparency performance with notable strengths in attendance (85%) and a clean criminal record (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). His moderate scores in MPLADS utilization and asset disclosure suggest basic compliance but room for improvement in proactive transparency measures.
+Ajay Bhatt shows moderate transparency with a score of 57.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Ajay Bhatt
-
-### Overall Assessment
-Ajay Bhatt, the 64-year-old BJP MP representing Nainital-Udhamsingh Nagar constituency in Uttarakhand, presents a mixed transparency profile. While he maintains a clean criminal record and demonstrates reasonable parliamentary engagement, significant data gaps limit comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This represents a critical transparency gap given that CAG audits have identified systemic issues in Uttarakhand's fund management. The state faces concerning challenges including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for Bhatt's constituency, it's impossible to assess his developmental impact.
-
-### Financial Transparency
-Bhatt declared total assets worth Rs 4.87 crore with a net worth of Rs 4.68 crore. However, the absence of previous asset declarations prevents analysis of wealth growth patterns or potential conflicts of interest. His monthly compensation of Rs 2.45 lakh is standard for MPs. His declared profession as receiving "Salary from India Govt" suggests government employment background, though specific details are not provided. The lack of comparative asset data significantly limits financial transparency assessment.
-
-### Legal & Criminal Standing
-Bhatt maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean criminal background represents a positive aspect of his profile, particularly important given public concerns about criminalization of politics in India.
-
-### Parliamentary Performance
-Bhatt demonstrates moderate parliamentary engagement with 85% attendance, which exceeds the typical average for many MPs. He has participated in 14 questions and 11 debates, indicating active involvement in legislative discussions. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The absence of committee membership data prevents assessment of his contributions to parliamentary committee work, which often represents substantial legislative effort.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public sentiment, with 10 articles identified but none categorized as positive or negative. This neutral coverage suggests limited public visibility or controversial positions. The lack of social media engagement data and limited news presence indicate potential gaps in public communication and accessibility. No information is available about constituency outreach programs or public interaction initiatives.
-
-### Data Quality & Caveats
-The assessment faces significant limitations due to data quality issues. Evidence grades range from B (criminal record and assets) to D (accessibility), with parliament performance rated C. Key concerns include low confidence in MPLADS data, missing committee information suggesting unavailable Sansad profiles, and limited legislative effectiveness data. The CAG audit context provides relevant state-level insights but lacks constituency-specific details. Sources include myneta, PRS, social media, and news outlets, but coverage appears incomplete.
-
-### Key Takeaway
-While Ajay Bhatt maintains a clean criminal record and shows reasonable parliamentary participation with 85% attendance, his transparency profile is significantly hampered by missing critical data on development fund utilization and limited public engagement visibility. The complete absence of MPLADS information is particularly concerning given systemic fund management issues identified in Uttarakhand. Voters and oversight bodies would benefit from enhanced disclosure of development activities, asset growth patterns, and more comprehensive public engagement to fully assess his effectiveness as their representative.
+No criminal cases declared. Declared assets: Rs 48,714,988. MPLADS utilization: 23.5%. Parliament attendance: 85.0%. Questions asked: 14. Debates participated: 11.
 
 ---
 
@@ -163,7 +139,7 @@ While Ajay Bhatt maintains a clean criminal record and shows reasonable parliame
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ajay Bhatt's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

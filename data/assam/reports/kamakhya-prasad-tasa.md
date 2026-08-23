@@ -3,23 +3,25 @@
 **Constituency:** Kaziranga, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.00 Crore
+- **Liabilities:** Rs 15.86 Lakh
+- **Net Worth:** Rs 1.84 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 18% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.7%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Kamakhya Prasad Tasa shows a mixed transparency profile with strong performance in criminal record disclosure (100%) and good parliamentary attendance (90%), but significant deficiencies in committee participation (0%), legislative contributions (0%), and public accessibility (10%). While maintaining decent scores in MPLADS utilization and asset disclosure, the complete absence of committee and legislative work raises concerns about parliamentary engagement.
+Kamakhya Prasad Tasa shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kamakhya Prasad Tasa
-
-### Overall Assessment
-Kamakhya Prasad Tasa, BJP MP representing Kaziranga constituency in Assam, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance (90%), the assessment is severely limited by missing asset and MPLADS data. Evidence quality is poor across key transparency indicators, with parliament activity graded 'C' and accessibility graded 'D'.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, preventing assessment of development work effectiveness. This data gap is particularly concerning given the CAG audit context for Assam, which reveals systemic issues in fund management. The audit identified Rs 1,558 crore lying idle in district authorities' accounts and found that 34% of sampled utilization certificates lacked proper supporting documents. Additionally, 18% of sampled works were abandoned or incomplete, raising questions about development project oversight in the region.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap. The MP's monthly compensation is documented at Rs 2,45,000, which appears to be the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Tasa maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the automated warning indicates low confidence in criminal data due to potential source unavailability, suggesting this clean record should be interpreted cautiously.
-
-### Parliamentary Performance
-Tasa demonstrates above-average parliamentary engagement with 90% attendance, significantly higher than typical MP attendance rates. Legislative activity shows 24 questions raised and participation in 6 debates, indicating moderate engagement in parliamentary proceedings. However, no private member bills were introduced, and no committee participation data is available due to potentially unavailable Sansad profile information.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited, with news coverage analysis showing 10 articles with entirely neutral sentiment (no positive or negative coverage identified). The lack of committee data and poor accessibility grade ('D') suggest limited transparency in public-facing activities. Social media and news sources were consulted, but comprehensive engagement assessment remains incomplete.
-
-### Data Quality & Caveats
-This assessment faces severe limitations due to multiple data quality issues:
-- **Assets**: Low confidence warning indicates unreliable or missing asset data
-- **MPLADS**: Complete absence of fund utilization data despite CAG audit highlighting regional concerns
-- **Criminal Record**: Low confidence warning suggests potential source unavailability
-- **Committee Work**: No data available, possibly due to unavailable Sansad profile
-- **Legislative Effectiveness**: Low confidence in available data
-
-The evidence quality grades (Parliament: C, Accessibility: D) reflect these significant limitations.
-
-### Key Takeaway
-While Tasa maintains strong parliamentary attendance and a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization prevent comprehensive assessment. The complete absence of financial and development fund data, combined with systemic audit concerns in Assam regarding fund management, raises significant transparency questions. Voters lack essential information to evaluate financial probity and development effectiveness, highlighting the need for improved data disclosure and verification mechanisms.
+No criminal cases declared. Declared assets: Rs 20,017,297. MPLADS utilization: 1.7%. Parliament attendance: 90.0%. Questions asked: 24. Debates participated: 6. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Tasa maintains strong parliamentary attendance and a clean legal record, c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kamakhya Prasad Tasa's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

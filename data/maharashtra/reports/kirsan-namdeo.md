@@ -3,23 +3,25 @@
 **Constituency:** Gadchiroli-Chimur, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 59.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 7.7 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.95 Crore
+- **Liabilities:** Rs 28.28 Lakh
+- **Net Worth:** Rs 5.66 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 1
+- **Utilization Rate:** 9.6%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Kirsan Namdeo demonstrates mixed transparency performance with a moderate overall score of 52.5/100. While he shows strong attendance (100%) and clean criminal record (100%), significant deficiencies exist in committee participation (0%), legislative contributions (0%), and public accessibility (10%), indicating limited engagement in core parliamentary functions.
+Kirsan Namdeo shows moderate transparency with a score of 59.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kirsan Namdeo
-
-### Overall Assessment
-Kirsan Namdeo, representing Gadchiroli-Chimur constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data limitations. While showing perfect parliamentary attendance (100%), the analysis is hampered by incomplete financial and development fund data, making comprehensive assessment challenging.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for MP Namdeo, preventing assessment of development work effectiveness. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to determine whether Namdeo's constituency development follows these concerning patterns.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, showing no data for current assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected officials. The absence of this fundamental financial information prevents any assessment of potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-Namdeo maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, suggesting the source may be unavailable or incomplete. While the reported clean record is positive, the data quality caveat requires cautious interpretation.
-
-### Parliamentary Performance
-Namdeo demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above typical MP attendance rates. Parliamentary activity includes 45 questions raised and participation in 5 debates, showing active legislative engagement. However, no private member bills were introduced, and committee participation data is unavailable due to inaccessible Sansad profiles. Monthly compensation stands at Rs 245,000, standard for Lok Sabha MPs.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited but neutral public engagement, with 10 news articles providing mixed/neutral coverage. Notably, none of the articles were categorized as positive, suggesting either limited media attention or absence of significant achievements warranting positive coverage. The evidence grade for accessibility rates as 'D', indicating poor public engagement metrics. No social media data or public interaction metrics are available to supplement this assessment.
-
-### Data Quality & Caveats
-This analysis faces substantial data quality limitations across multiple domains:
-- **Criminal records**: Low confidence due to potentially unavailable sources
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No fund utilization information available
-- **Committees**: Sansad profile inaccessible, preventing committee work assessment
-- **Legislative effectiveness**: Low confidence ratings
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility indicate moderate to poor data reliability. These limitations significantly constrain comprehensive transparency assessment.
-
-### Key Takeaway
-While Kirsan Namdeo maintains perfect parliamentary attendance and a clean criminal record, substantial data gaps across financial disclosures, development fund utilization, and public engagement metrics prevent comprehensive transparency evaluation. The absence of MPLADS data is particularly concerning given documented systemic fund management issues in Maharashtra. Voters in Gadchiroli-Chimur constituency lack essential transparency information needed for informed electoral decisions, highlighting the need for improved data disclosure and public accessibility by the MP's office.
+No criminal cases declared. Declared assets: Rs 59,476,042. MPLADS utilization: 9.6%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Kirsan Namdeo maintains perfect parliamentary attendance and a clean crimi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kirsan Namdeo's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 9.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

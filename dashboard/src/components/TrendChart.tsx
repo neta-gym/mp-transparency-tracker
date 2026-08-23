@@ -58,7 +58,7 @@ export function TrendChart({ data, mpName }: TrendChartProps) {
                   fontSize: 12,
                 }}
               />
-              <Legend wrapperStyle={{ fontSize: 11, fontFamily: "Space Grotesk" }} />
+              <Legend wrapperStyle={{ fontSize: 11, fontFamily: "'JetBrains Mono', monospace" }} />
               <Line
                 type="monotone"
                 dataKey="score"

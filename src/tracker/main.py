@@ -7,8 +7,6 @@ import asyncio
 import os
 import sys
 
-from dotenv import load_dotenv
-
 from .agents.manager import ManagerAgent
 from .config import settings
 from .storage.database import Database
@@ -340,16 +338,12 @@ def cli_entry() -> None:
 
     args = parser.parse_args()
 
-    # Load .env
-    load_dotenv()
-    import tracker.config
-
-    from .config import Settings
-    tracker.config.settings = Settings()
-
-    # Apply --max-age override
+    # Settings reads .env itself at import time. Mutate the shared singleton
+    # rather than rebinding it: modules imported at module top hold a
+    # reference to the original object, so a rebind would silently drop
+    # both this override and any .env values for the rest of the run.
     if args.max_age is not None:
-        tracker.config.settings.cache_max_age_days = args.max_age
+        settings.cache_max_age_days = args.max_age
 
     # --- Debugger ---
     if args.debug:

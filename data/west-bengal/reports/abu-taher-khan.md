@@ -3,32 +3,34 @@
 **Constituency:** Murshidabad, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 50.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.85 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 3.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Abu Taher Khan demonstrates mixed transparency performance with strong attendance and clean criminal record, but faces significant gaps in legislative engagement and public accessibility. While maintaining perfect parliamentary attendance, his zero participation in committee work and minimal accessibility efforts substantially limit overall transparency.
+Abu Taher Khan shows moderate transparency with a score of 50.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Abu Taher Khan
-
-### Overall Assessment
-Abu Taher Khan, representing Murshidabad constituency for the All India Trinamool Congress in the Lok Sabha, presents a mixed transparency profile with significant data limitations. While he demonstrates perfect parliamentary attendance and maintains a clean criminal record, critical gaps exist in financial disclosures and development fund utilization data, making comprehensive assessment challenging.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for MP Khan, with no information on entitled amounts, releases, expenditures, or utilization rates. This complete absence of development fund data represents a critical transparency gap. The constituency falls under West Bengal's MPLADS framework, which faces systemic challenges according to CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. An additional concern is that 18% of sampled works in the state were found to be abandoned or incomplete, raising questions about project oversight and completion rates.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is mandatory for elected representatives. The MP receives a total monthly compensation of Rs 2,45,000, but without baseline asset data, it's impossible to assess financial growth patterns or potential conflicts of interest during the tenure.
-
-### Legal & Criminal Standing
-Abu Taher Khan maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, automated flags indicate low confidence in criminal data due to potential source unavailability, suggesting this clean record should be interpreted with caution pending verification from additional sources.
-
-### Parliamentary Performance
-Khan demonstrates exceptional attendance with a perfect 100% parliamentary participation rate, significantly above typical attendance averages. His legislative engagement shows 12 questions raised and participation in 1 debate, indicating moderate activity in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', indicating moderate reliability of these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests either limited media attention or balanced reporting without significant controversies or notable achievements gaining public attention. The accessibility evidence grade is rated 'D', indicating poor data availability for assessing public engagement metrics. No committee participation data was found, potentially due to unavailable Sansad profile information.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns. Criminal record confidence is low due to potential source unavailability. Asset data shows low confidence ratings, and MPLADS information is completely missing. Committee participation data is unavailable, and legislative effectiveness data has low confidence ratings. These limitations severely constrain the ability to provide a comprehensive transparency assessment. Data sources include PRS, social media, and news outlets, but critical government databases appear inaccessible or incomplete.
-
-### Key Takeaway
-While Abu Taher Khan maintains perfect parliamentary attendance and a clean criminal record, his transparency profile is severely compromised by missing financial disclosures and development fund data. The complete absence of MPLADS and asset information, combined with neutral-to-minimal public engagement, suggests either systemic data collection issues or potential transparency gaps that require immediate attention for comprehensive public accountability assessment.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 38,476,131. MPLADS utilization: 22.1%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ While Abu Taher Khan maintains perfect parliamentary attendance and a clean crim
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Abu Taher Khan's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

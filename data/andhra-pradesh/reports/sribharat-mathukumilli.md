@@ -3,32 +3,32 @@
 **Constituency:** Visakhapatnam, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 1.1 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 298.96 Crore
+- **Liabilities:** Rs 1.90 Crore
+- **Net Worth:** Rs 297.06 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.4%
 
 ---
 
@@ -83,9 +84,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,43 +93,11 @@
 
 ## Qualitative Assessment
 
-MP Sribharat Mathukumilli shows a mixed transparency profile with significant weaknesses in key areas. While maintaining perfect criminal record transparency and strong attendance (90%), critical gaps exist in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores, combined with very low data confidence (14%), suggest substantial room for improvement in overall transparency practices.
+Sribharat Mathukumilli shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sribharat Mathukumilli
-
-### Overall Assessment
-
-Sribharat Mathukumilli represents Visakhapatnam constituency in Andhra Pradesh for the Telugu Desam Party in the Lok Sabha. While his parliamentary attendance record shows strong engagement at 90%, the transparency profile is severely limited by missing critical data across multiple domains including asset declarations, MPLADS fund utilization, and committee participation. This data scarcity raises significant concerns about overall accountability and transparency.
-
-### Fund Utilization & Development
-
-No MPLADS fund utilization data is available for MP Mathukumilli, making it impossible to assess his developmental impact in Visakhapatnam constituency. The entitled amount, released funds, expenditure, and utilization percentage are all unreported. This absence of data is particularly concerning given the CAG audit findings for Andhra Pradesh, which identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works in the state were found to be abandoned or incomplete, highlighting broader concerns about development fund management.
-
-### Financial Transparency
-
-Asset transparency is completely absent, with no data available on total assets, previous asset declarations, growth ratios, or net worth. This represents a significant gap in financial accountability standards. The MP's monthly compensation is reported at Rs 2,45,000, but without asset disclosure data, it's impossible to assess potential conflicts of interest or wealth accumulation patterns. The warning flags indicate low confidence in available asset data, suggesting systemic issues with financial transparency reporting.
-
-### Legal & Criminal Standing
-
-MP Mathukumilli maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. This clean criminal profile is positive for public trust, though the automated warning flag indicates low confidence in criminal data sources, suggesting potential gaps in data availability rather than definitively confirming a pristine record.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance at 90% demonstrates strong participation in house proceedings, exceeding typical benchmarks. The MP has asked 49 questions during the session, indicating active constituency representation and policy engagement. However, participation in debates is limited to just 5 instances, and no private member bills have been introduced, suggesting moderate legislative initiative. Critically, no committee participation data is available, representing a significant gap in understanding the MP's role in detailed policy work and oversight functions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals minimal public visibility with only 10 news articles tracked. The coverage breakdown shows 1 positive article, 0 negative articles, and 9 neutral pieces, resulting in largely neutral public sentiment. This low media presence may indicate limited public engagement or restricted communication strategies. The evidence grade for accessibility is rated 'D', suggesting significant room for improvement in public outreach and transparency initiatives.
-
-### Data Quality & Caveats
-
-Data quality presents serious concerns across multiple domains. Asset information carries a low confidence rating, MPLADS data is completely unavailable, and criminal record data has reliability warnings. The evidence grades reflect these limitations: parliament performance rated 'C' and accessibility rated 'D'. Seven relevant CAG audit findings for Andhra Pradesh provide important context but cannot substitute for missing MP-specific data. The combination of PRS, social media, and news sources provides some coverage but significant data gaps remain.
-
-### Key Takeaway
-
-While MP Mathukumilli demonstrates solid parliamentary attendance and maintains a clean criminal record, his transparency profile is severely compromised by missing critical data on assets, MPLADS utilization, and committee participation. The 90% attendance rate and 49 questions asked show parliamentary engagement, but the absence of financial disclosures and development fund accountability data raises substantial transparency concerns. Immediate improvements in data reporting and public disclosure are essential for meeting basic accountability standards expected of elected representatives.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 2,989,586,580. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +137,7 @@ While MP Mathukumilli demonstrates solid parliamentary attendance and maintains 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sribharat Mathukumilli's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

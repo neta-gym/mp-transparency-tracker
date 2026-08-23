@@ -3,32 +3,34 @@
 **Constituency:** Kendrapara, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 38.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 5.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 148.09 Crore
+- **Liabilities:** Rs 98.51 Lakh
+- **Net Worth:** Rs 147.10 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 1
+- **Utilization Rate:** 7.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Baijayant Panda shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and reasonable attendance (75%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate overall score of 49% is undermined by low data confidence (14%) and multiple validation flags, suggesting incomplete or unreliable information.
+Baijayant Panda has a below-average transparency score of 38.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Baijayant Panda
-
-### Overall Assessment
-Baijayant Panda, BJP MP from Kendrapara, Odisha, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and moderate parliamentary attendance (75%), critical financial information including assets and MPLADS utilization remains unavailable, severely limiting comprehensive assessment of his performance and transparency.
-
-### Fund Utilization & Development
-No MPLADS data is available for MP Panda, including entitlement amounts, funds released, or expenditure details. This absence of crucial development fund information prevents evaluation of his constituency development efforts. The CAG audit context reveals systemic issues in Odisha's fund management, with Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's unclear how these state-level inefficiencies affect Kendrapara's development projects.
-
-### Financial Transparency
-Financial transparency is severely compromised due to missing asset declarations. No current or previous asset information is available, making it impossible to assess wealth accumulation patterns, potential conflicts of interest, or compliance with disclosure requirements. The absence of growth ratios and net worth data represents a significant transparency gap. MP Panda's monthly compensation stands at Rs 2,45,000, but without asset context, overall financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-Baijayant Panda maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal background is positive for public trust and governance standards. However, the system flags low confidence in criminal data availability, suggesting potential gaps in record verification or access.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 75% attendance, indicating reasonable commitment to legislative duties. MP Panda has raised 39 questions and participated in 2 debates, demonstrating active engagement in parliamentary discussions. However, he has introduced zero private bills, suggesting limited legislative initiative. The evidence grade of 'C' for parliamentary performance indicates room for improvement in overall legislative effectiveness.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 10 news articles covering MP Panda's activities - 1 positive, 0 negative, and 9 neutral pieces. This neutral-to-positive coverage suggests absence of major controversies but also indicates limited public prominence or media engagement. The accessibility evidence grade of 'D' highlights significant deficiencies in public communication and transparency efforts. No committee membership data is available, further limiting assessment of his institutional engagement.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment. Critical warnings include low confidence in criminal record data, missing asset information, and unavailable MPLADS data. The absence of committee information suggests Sansad profile limitations, while legislative effectiveness data carries low confidence ratings. These gaps represent substantial transparency deficits that prevent comprehensive evaluation of MP Panda's performance and accountability.
-
-### Key Takeaway
-Baijayant Panda's transparency profile is undermined by extensive missing data despite maintaining a clean criminal record and moderate parliamentary participation. The absence of asset declarations and MPLADS utilization data creates significant accountability gaps, while limited public engagement suggests insufficient transparency efforts. While no negative indicators emerge from available data, the substantial information voids prevent meaningful assessment of his effectiveness as an elected representative, highlighting systemic transparency challenges in Indian parliamentary oversight.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 1,480,878,708. MPLADS utilization: 7.3%. Parliament attendance: 75.0%. Questions asked: 39. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ Baijayant Panda's transparency profile is undermined by extensive missing data d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Baijayant Panda's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 7.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

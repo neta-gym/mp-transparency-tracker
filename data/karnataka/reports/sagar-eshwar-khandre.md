@@ -3,23 +3,25 @@
 **Constituency:** Bidar, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 26
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.5 / 100
+## Composite Transparency Score: 47.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 4.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.44 Crore
+- **Liabilities:** Rs 1.50 Crore
+- **Net Worth:** Rs 11.94 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,52 +95,11 @@
 
 ## Qualitative Assessment
 
-Sagar Eshwar Khandre shows a mixed transparency profile with moderate performance in MPLADS utilization and assets disclosure, and commendable attendance record. However, significant concerns arise from zero participation in debates, complete absence from committee activities, and minimal public accessibility efforts, resulting in a below-average overall transparency score.
+Sagar Eshwar Khandre has a below-average transparency score of 47.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Sagar Eshwar Khandre
-
-### Overall Assessment
-
-Sagar Eshwar Khandre, representing Bidar constituency in Karnataka for the Indian National Congress, presents a mixed transparency profile with significant data gaps. With 80% parliamentary attendance and a clean criminal record, he demonstrates basic institutional engagement. However, comprehensive assessment is hindered by missing data across critical areas including asset declarations, MPLADS fund utilization, and committee participation.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable for MP Khandre, with entitled, released, and expended amounts all showing "None." This complete absence of data raises concerns about transparency in constituency development spending. The broader CAG audit context for Karnataka reveals systemic issues including Rs 1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without MP-specific data, it's impossible to assess Khandre's performance against these benchmarks.
-
-### Financial Transparency
-
-Asset declaration data is completely missing, with total assets, previous holdings, growth ratio, and net worth all showing "None." This represents a significant transparency gap, as asset declarations are mandatory for elected officials. His monthly compensation is documented at Rs 245,000, providing the only available financial data point. The absence of asset information prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-
-MP Khandre maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning flag indicating "low confidence in criminal data" due to potentially unavailable sources. While the clean record is positive, the data quality caveat suggests these findings should be interpreted cautiously.
-
-### Parliamentary Performance
-
-Khandre's parliamentary attendance stands at 80%, meeting the basic expectation for MP participation in House proceedings. However, his legislative engagement appears minimal with zero questions raised, zero participation in debates, and zero private member bills introduced. This pattern suggests limited active participation beyond physical attendance, potentially indicating reduced advocacy for constituency issues or policy initiatives.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis shows 10 neutral articles about the MP, with no positive or negative pieces identified. This neutral coverage suggests limited public visibility or controversial actions. The accessibility grade of 'D' indicates poor public accessibility, though specific metrics supporting this assessment are not provided. No social media engagement data or public interface mechanisms are documented.
-
-### Data Quality & Caveats
-
-The transparency profile suffers from significant data quality issues across multiple domains:
-
-- **Criminal Record**: Low confidence due to potentially unavailable sources
-- **Assets**: Low confidence in asset data with complete absence of information
-- **MPLADS**: Low confidence with no utilization data available
-- **Committees**: No committee participation data found, suggesting unavailable Sansad profile
-- **Legislative Effectiveness**: Low confidence in available data
-- **Parliamentary Performance**: Graded 'C' indicating moderate data reliability
-
-These warnings substantially limit the reliability of this assessment and highlight systemic data collection or disclosure challenges.
-
-### Key Takeaway
-
-MP Sagar Eshwar Khandre's transparency profile is characterized by concerning data gaps rather than clear performance indicators. While maintaining basic parliamentary attendance (80%) and a clean criminal record, the complete absence of asset declarations and MPLADS utilization data, combined with minimal legislative engagement (zero questions, debates, or bills), suggests either inadequate transparency practices or systemic data collection failures. The numerous data quality warnings across all assessment categories indicate that this profile may not accurately represent the MP's actual performance, necessitating improved data disclosure mechanisms for meaningful public accountability.
+No criminal cases declared. Declared assets: Rs 134,373,930. MPLADS utilization: 5.9%. Parliament attendance: 80.0%. 1 warning(s) noted.
 
 ---
 
@@ -179,7 +139,7 @@ MP Sagar Eshwar Khandre's transparency profile is characterized by concerning da
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sagar Eshwar Khandre's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -275,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

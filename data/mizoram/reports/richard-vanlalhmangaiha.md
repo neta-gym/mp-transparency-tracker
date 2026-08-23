@@ -6,23 +6,23 @@
 **Age:** 46
 **Education:** Graduate
 **Profession:** Partner Three Brothers Enterprise Partnership firm
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 52.6 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 99.19 Lakh
-- **Immovable Assets:** Rs 70.00 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 1.69 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.69 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 58.4%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Mizoram: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Richard Vanlalhmangaiha demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant gaps in legislative engagement and committee participation. His low participation score and absence from committee work suggest limited active involvement in parliamentary processes, while poor accessibility indicates disconnect with constituents.
+Richard Vanlalhmangaiha shows moderate transparency with a score of 61.8/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Richard Vanlalhmangaiha
-
-### Overall Assessment
-Richard Vanlalhmangaiha, 46, represents Mizoram as a member of the Zoram Peoples Movement in the Lok Sabha. A graduate and partner in Three Brothers Enterprise Partnership firm, he maintains a clean legal record with perfect attendance but shows limited legislative engagement. His transparency profile reflects mixed performance across key accountability metrics, with particular gaps in MPLADS data availability.
-
-### Fund Utilization & Development
-MPLADS data for Vanlalhmangaiha is unavailable, with all metrics (entitlement, release, expenditure, and utilization percentage) showing as "None." This data gap raises concerns about transparency in constituency development funding. The CAG audit context reveals systemic issues in fund management across states, including Rs 1,558 crore lying unspent in district authorities' accounts and 34% of sampled utilization certificates lacking proper supporting documents. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader governance challenges in fund utilization.
-
-### Financial Transparency
-Vanlalhmangaiha's declared total assets stand at Rs 1.69 crore (16,919,233), with no previous asset declaration available for comparison. This prevents analysis of asset growth patterns or calculation of net worth changes over time. His monthly compensation totals Rs 2.45 lakh. The absence of historical asset data limits assessment of financial transparency and potential conflicts of interest.
-
-### Legal & Criminal Standing
-The MP maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This clean legal standing enhances his credibility and public trust, representing a significant positive aspect of his transparency profile.
-
-### Parliamentary Performance
-Vanlalhmangaiha demonstrates perfect attendance at 100% but shows minimal legislative engagement. He has asked zero questions in Parliament, participated in only 2 debates, and introduced no private member bills. This performance pattern suggests strong commitment to parliamentary presence but limited proactive legislative involvement. The low legislative activity may indicate a focus on constituency work over parliamentary debate and law-making processes.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral to mixed sentiment - 2 positive, 0 negative, and 8 neutral pieces. This coverage pattern suggests limited public visibility or controversial engagement. The MP's accessibility grade of 'D' indicates significant room for improvement in public communication and transparency. No committee assignment data is available, potentially due to unavailable Sansad profile information, which further limits assessment of his institutional engagement.
-
-### Data Quality & Caveats
-Several data quality concerns affect this assessment. The evidence grades vary significantly: criminal record data receives a 'B' grade, assets information gets a 'B' grade, parliament activity data scores 'C', while accessibility receives the lowest 'D' grade. Automated flags highlight low confidence in MPLADS data and legislative effectiveness metrics. The absence of committee information may indicate incomplete Sansad profile availability. These limitations should be considered when interpreting this transparency assessment.
-
-### Key Takeaway
-Richard Vanlalhmangaiha presents a mixed transparency profile characterized by strong legal standing and perfect parliamentary attendance, offset by minimal legislative engagement and significant data gaps in key areas like MPLADS utilization. While his clean criminal record and consistent parliamentary presence are positive indicators, the lack of proactive legislative work and limited public accessibility suggest room for improvement in representative effectiveness. The unavailability of MPLADS data particularly hampers assessment of his constituency development impact, a crucial metric for MP performance evaluation.
+No criminal cases declared. Declared assets: Rs 16,919,233. MPLADS utilization: 58.4%. Parliament attendance: 100.0%. Debates participated: 2.
 
 ---
 
@@ -163,7 +139,7 @@ Richard Vanlalhmangaiha presents a mixed transparency profile characterized by s
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Richard Vanlalhmangaiha's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 58.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

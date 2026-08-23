@@ -3,32 +3,34 @@
 **Constituency:** Hassan, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 32
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 23.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 42.67 Crore
+- **Liabilities:** Rs 88.81 Lakh
+- **Net Worth:** Rs 41.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 29.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Shreyas M Patel demonstrates a mixed transparency profile with notable strengths in criminal record disclosure (perfect score) and decent attendance, but significant weaknesses in committee participation, accessibility, and legislative transparency. The overall score of 46.5/100 reflects concerning gaps in public engagement and institutional participation, though the low data confidence of 14% suggests these assessments may not fully capture the MP's actual performance.
+Shreyas M Patel shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shreyas M Patel
-
-### Overall Assessment
-Shreyas M Patel, Indian National Congress MP from Hassan, Karnataka, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and achieving moderate parliamentary attendance (70%), substantial missing information regarding assets, MPLADS utilization, and committee participation raises concerns about overall accountability transparency.
-
-### Fund Utilization & Development
-**Critical data unavailability**: Complete absence of MPLADS data (entitled, released, expended amounts all unreported) prevents assessment of constituency development performance. This represents a significant transparency gap for a scheme designed for local infrastructure development.
-
-**Systemic concerns**: CAG audit findings reveal substantial governance issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. An additional 18% of sampled works were found abandoned or incomplete, indicating broader implementation challenges that may affect Hassan constituency.
-
-### Financial Transparency
-**Asset disclosure gaps**: No current or previous asset information available, preventing evaluation of wealth accumulation patterns or potential conflicts of interest. The absence of growth ratio and net worth data represents a fundamental transparency deficit in financial accountability.
-
-**Compensation transparency**: Monthly compensation of Rs 245,000 is disclosed, providing basic remuneration visibility.
-
-### Legal & Criminal Standing
-**Clean record**: Zero criminal cases across all categories (total, serious, pending, disposed, convictions), indicating absence of legal complications. However, data quality warnings suggest potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-**Moderate engagement**: 70% attendance rate demonstrates reasonable but not exceptional parliamentary participation. Legislative activity includes 11 questions raised and participation in 4 debates, indicating basic constituency representation efforts.
-
-**Limited legislative impact**: Zero private member bills introduced suggests minimal proactive legislative initiative. No committee assignment data available, preventing assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-**Limited media presence**: Analysis of 10 news articles reveals predominantly neutral coverage (9 neutral, 1 negative, 0 positive), suggesting minimal public engagement or newsworthy activities. This pattern may indicate either low-profile governance approach or limited media accessibility.
-
-**Evidence quality concerns**: 'D' grade for accessibility and 'C' grade for parliamentary evidence quality indicate substantial information gaps affecting public accountability assessment.
-
-### Data Quality & Caveats
-**Significant limitations**: Multiple automated warnings highlight low confidence across key transparency metrics:
-- Criminal record verification uncertainty
-- Complete absence of asset and MPLADS data
-- Missing committee participation information
-- Limited legislative effectiveness data
-
-**Source limitations**: Data compiled from PRS, social media, and news sources, but apparent unavailability of official Sansad profiles and other government databases compromises comprehensive evaluation.
-
-**Karnataka context**: Seven relevant CAG findings provide broader governance context but may not directly reflect individual MP performance.
-
-### Key Takeaway
-Shreyas M Patel maintains basic parliamentary functionality with clean legal standing and moderate attendance, but critical transparency gaps in asset disclosure, MPLADS utilization, and committee participation prevent comprehensive accountability assessment. The absence of key financial and developmental data, combined with neutral media coverage, suggests either systematic data collection issues or limited proactive transparency practices that warrant immediate attention for enhanced public accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 426,710,045. MPLADS utilization: 29.4%. Parliament attendance: 70.0%. Questions asked: 11. Debates participated: 4.
 
 ---
 
@@ -178,7 +138,7 @@ Shreyas M Patel maintains basic parliamentary functionality with clean legal sta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shreyas M Patel's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 29.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

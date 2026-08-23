@@ -3,32 +3,32 @@
 **Constituency:** Karur, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 60.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 20.6 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.54 Crore
+- **Liabilities:** Rs 14.55 Lakh
+- **Net Worth:** Rs 1.39 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 25.7%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP S Jothimani shows mixed transparency performance with strong attendance (95%) and participation (80%) in parliamentary proceedings, along with a clean criminal record. However, significant concerns exist regarding committee involvement, legislative contributions, and public accessibility, which collectively limit overall transparency effectiveness.
+S Jothimani shows moderate transparency with a score of 60.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: S Jothimani
-
-### Overall Assessment
-S Jothimani, representing Karur constituency in Tamil Nadu for the Indian National Congress, demonstrates strong parliamentary attendance but faces significant transparency gaps across multiple accountability metrics. While her legislative engagement shows commitment with 95% attendance, the absence of critical financial and development data raises concerns about public accountability standards.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of constituency development activities. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Tamil Nadu's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without access to Jothimani's specific MPLADS expenditure patterns, constituents cannot evaluate the effectiveness of development fund deployment in Karur.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, making it impossible to assess financial transparency or potential conflicts of interest. This represents a significant accountability gap, as asset declarations are fundamental to evaluating elected officials' financial integrity. The MP's monthly compensation totals Rs 245,000, but without baseline asset data, growth patterns or wealth accumulation trends cannot be analyzed.
-
-### Legal & Criminal Standing
-Jothimani maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, the data quality warning indicates potential source unavailability, suggesting this assessment may be incomplete. The absence of any legal complications represents a positive indicator for public trust, though the low confidence rating requires cautious interpretation.
-
-### Parliamentary Performance
-Jothimani demonstrates solid legislative engagement with 95% attendance, significantly above typical parliamentary averages. She has participated in 15 debates and raised 41 questions, indicating active constituency representation and policy engagement. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. No committee membership data is available, preventing assessment of specialized policy contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public discourse, with 10 articles showing neither positive nor negative sentiment patterns. This neutral profile suggests absence of major controversies but may also indicate limited public visibility or impact. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and constituent engagement mechanisms.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly limit this assessment's comprehensiveness. Asset information, MPLADS utilization data, and committee participation details are unavailable, while criminal record data carries low confidence warnings. The parliament activity evidence grade of 'C' indicates moderate reliability for attendance and question metrics. These limitations prevent a complete transparency evaluation and suggest potential systemic issues with data availability or MP disclosure practices.
-
-### Key Takeaway
-While S Jothimani demonstrates commitment through strong parliamentary attendance and active questioning, severe transparency gaps in financial disclosures and development fund utilization prevent comprehensive accountability assessment. The absence of asset data and MPLADS information, combined with CAG audit findings highlighting systemic fund mismanagement issues in Tamil Nadu, raises concerns about financial transparency standards that require immediate attention for effective democratic oversight.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 15,352,373. MPLADS utilization: 25.7%. Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 15.
 
 ---
 
@@ -162,7 +136,7 @@ While S Jothimani demonstrates commitment through strong parliamentary attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for S Jothimani's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 25.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

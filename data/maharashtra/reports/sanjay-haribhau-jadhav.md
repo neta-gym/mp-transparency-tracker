@@ -3,32 +3,34 @@
 **Constituency:** Parbhani, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 40.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 20.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.27 Crore
+- **Liabilities:** Rs 4.75 Crore
+- **Net Worth:** Rs 5.52 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 25.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Sanjay Haribhau Jadhav shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and moderate performance in legislative participation (70%) and MPLADS reporting (50%). However, significant weaknesses are evident in committee involvement (0%), legislative contributions (0%), and public accessibility (10%), indicating limited engagement in key parliamentary functions and constituent outreach.
+Sanjay Haribhau Jadhav has a below-average transparency score of 40.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sanjay Haribhau Jadhav
-
-### Overall Assessment
-Sanjay Haribhau Jadhav, representing Parbhani constituency in Maharashtra under Shiv Sena (Uddhav Balasaheb Thackeray), presents a limited transparency profile due to significant data gaps across key performance indicators. Available data shows a clean criminal record but concerning parliamentary attendance levels, while financial and developmental metrics remain largely unavailable for assessment.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This absence of data prevents assessment of the MP's effectiveness in implementing development projects in Parbhani constituency. Given Maharashtra's historical challenges with fund utilization—including CAG findings of Rs 1,558 crore in idle funds across districts and 18% incomplete works—the lack of transparency in this area is particularly concerning for constituent accountability.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and financial propriety. The MP's monthly compensation is recorded at Rs 2,45,000, which appears to be standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Jadhav maintains a clean legal record with zero criminal cases across all categories—no total cases, serious cases, pending cases, disposed cases, or convictions. However, data confidence is marked as low, suggesting potential gaps in criminal record verification systems. While the absence of criminal cases is positive, the low confidence rating warrants cautious interpretation of this finding.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with notable deficiencies in attendance. Jadhav's attendance rate stands at 45%, falling significantly below optimal participation levels and potentially impacting effective representation of Parbhani's interests. Legislative activity includes 62 questions raised in Parliament and participation in 1 debate, indicating some engagement with parliamentary processes. However, no private member bills have been introduced, and committee participation data is unavailable, limiting assessment of comprehensive parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles identified—all categorized as neutral with no positive or negative coverage. This suggests limited media visibility or public discourse around the MP's activities. The absence of strong positive coverage may indicate limited high-impact initiatives or public engagement, while the lack of negative coverage suggests absence of major controversies. Accessibility metrics receive a 'D' grade, indicating poor public outreach and communication channels.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to substantial data gaps across critical areas. Criminal record data carries low confidence warnings, asset information is entirely absent, and MPLADS utilization data is unavailable. Committee participation information is missing, potentially due to unavailable Sansad profiles. Parliament engagement data receives a 'C' grade, while accessibility scores 'D', indicating systemic transparency challenges. Maharashtra-specific CAG audit findings highlight broader state-level concerns about fund utilization and administrative oversight that may impact local development effectiveness.
-
-### Key Takeaway
-Sanjay Haribhau Jadhav's transparency profile is severely hampered by extensive data unavailability across financial, developmental, and engagement metrics. While maintaining a clean criminal record, the 45% parliamentary attendance rate and lack of financial transparency create significant accountability concerns. The absence of MPLADS data is particularly problematic given Maharashtra's documented challenges with fund utilization and project completion. Constituents in Parbhani lack sufficient information to evaluate their representative's effectiveness in key areas of financial stewardship and development delivery, highlighting urgent needs for improved transparency mechanisms and data availability.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 102,706,523. MPLADS utilization: 25.7%. Parliament attendance: 45.0%. Questions asked: 62. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Sanjay Haribhau Jadhav's transparency profile is severely hampered by extensive 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjay Haribhau Jadhav's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 25.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

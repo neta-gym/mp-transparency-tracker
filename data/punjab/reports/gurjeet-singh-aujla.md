@@ -3,23 +3,25 @@
 **Constituency:** Amritsar, Punjab
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 51
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 58.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 29.4 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.35 Crore
+- **Liabilities:** Rs 1.38 Crore
+- **Net Worth:** Rs 3.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 43% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Gurjeet Singh Aujla demonstrates a mixed transparency profile with notable strengths in maintaining a clean criminal record and decent parliamentary attendance, but significant weaknesses in committee participation, public accessibility, and legislative engagement. The low data confidence of 14% and six validation flags suggest substantial gaps in available information, making it difficult to form a complete assessment of his transparency practices.
+Gurjeet Singh Aujla shows moderate transparency with a score of 58.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gurjeet Singh Aujla
-
-### Overall Assessment
-Gurjeet Singh Aujla, representing Amritsar constituency for the Indian National Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance, the absence of critical financial data and limited public engagement metrics raise concerns about overall accountability and transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of the MP's development spending effectiveness. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in fund management across states. The CAG Report 31 of 2010 identified Rs 1,558 crore in idle funds lying unspent in district authorities' accounts nationwide, with 34% of utilization certificates lacking proper supporting documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Aujla's constituency, it's impossible to evaluate his performance against these benchmarks.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap, as asset disclosures are fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The MP receives a monthly compensation of Rs 245,000, but without baseline asset data, tracking financial growth or identifying unusual wealth accumulation is impossible.
-
-### Legal & Criminal Standing
-Aujla maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, warranting cautious interpretation of the seemingly pristine legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 80% attendance, indicating reasonable commitment to legislative duties. The MP has raised 21 questions and participated in 11 debates, demonstrating active engagement with parliamentary processes. However, no private member bills were introduced, suggesting limited legislative initiative. The absence of committee participation data due to unavailable Sansad profile information prevents full evaluation of institutional engagement.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles over the assessment period. The sentiment breakdown shows predominantly neutral coverage (9 articles) with one negative piece and no positive coverage, suggesting minimal proactive public communication or notable achievements generating media attention. This low media presence may indicate limited accessibility or engagement with constituents and broader public discourse.
-
-### Data Quality & Caveats
-The analysis faces significant limitations due to multiple data quality issues:
-- Criminal record data has low confidence due to source unavailability
-- Asset information is completely missing, preventing financial transparency assessment
-- MPLADS utilization data is unavailable, hampering development performance evaluation
-- Committee participation data is absent due to inaccessible Sansad profile
-- Legislative effectiveness data has low confidence ratings
-- Evidence grades are poor: Parliament (C) and Accessibility (D)
-
-These limitations severely constrain the ability to provide a comprehensive transparency assessment.
-
-### Key Takeaway
-While Gurjeet Singh Aujla maintains basic parliamentary attendance and a clean legal record, critical data gaps in financial disclosures, fund utilization, and committee participation significantly undermine transparency assessment capabilities. The absence of asset declarations and MPLADS data, combined with limited media engagement, suggests potential areas for improved public accountability. Voters and oversight bodies should demand better data availability and transparency from this MP to enable proper evaluation of performance and integrity.
+No criminal cases declared. Declared assets: Rs 53,508,591. MPLADS utilization: 36.7%. Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 11.
 
 ---
 
@@ -170,7 +138,7 @@ While Gurjeet Singh Aujla maintains basic parliamentary attendance and a clean l
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gurjeet Singh Aujla's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

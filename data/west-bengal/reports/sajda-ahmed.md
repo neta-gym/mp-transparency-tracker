@@ -3,23 +3,25 @@
 **Constituency:** Uluberia, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 51.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 19.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 4.40 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.40 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Sajda Ahmed shows a mixed transparency profile with moderate performance in basic disclosure areas but significant gaps in legislative engagement. While maintaining clean criminal records and average attendance, the MP demonstrates poor accessibility to constituents and lacks committee participation or legislative contributions.
+Sajda Ahmed shows moderate transparency with a score of 51.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Sajda Ahmed
-
-### Overall Assessment
-
-Sajda Ahmed, representing Uluberia constituency in West Bengal as an All India Trinamool Congress MP, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and demonstrating moderate parliamentary engagement, critical information regarding assets, MPLADS fund utilization, and committee participation remains unavailable, hindering full assessment of her effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data for Sajda Ahmed is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit findings for West Bengal highlighting systemic issues in fund management. The CAG identified Rs 1,558 crore in idle funds across district authorities and found that 34% of sampled utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, suggesting broader challenges in the state's development fund ecosystem that may impact her constituency's progress.
-
-### Financial Transparency
-
-Financial transparency is severely compromised due to complete absence of asset declaration data. No information is available regarding Sajda Ahmed's current total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are fundamental to assessing potential conflicts of interest and ensuring public accountability. Her monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point.
-
-### Legal & Criminal Standing
-
-Sajda Ahmed maintains an exemplary criminal record with zero cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. This clean legal standing enhances her credibility as a public representative, though data confidence is flagged as low, suggesting potential source reliability issues that warrant cautious interpretation.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate levels with 55% attendance, which falls below ideal standards for consistent representation. Her legislative activity includes 25 questions raised and participation in 2 debates, demonstrating some engagement with parliamentary processes. However, she has not introduced any private bills, indicating limited initiative in legislative innovation. The absence of committee participation data further limits assessment of her broader parliamentary contributions beyond floor activities.
-
-### Public Engagement & Accessibility
-
-Public engagement analysis reveals neutral media coverage across 10 articles with no positive or negative sentiment detected, suggesting either limited public visibility or balanced coverage. The accessibility grade of 'D' indicates significant challenges in public outreach and communication. Social media presence and direct constituent engagement metrics are not available, limiting evaluation of her grassroots connectivity and responsiveness to public concerns.
-
-### Data Quality & Caveats
-
-Multiple data quality issues significantly impact this assessment. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence levels, while MPLADS data reliability is questioned. No committee participation data was found, possibly indicating unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. Evidence grades reflect these limitations with 'C' for parliament data and 'D' for accessibility information. These gaps suggest either incomplete data collection systems or limited digital transparency infrastructure.
-
-### Key Takeaway
-
-Sajda Ahmed's transparency profile is characterized by significant information gaps that prevent comprehensive evaluation of her effectiveness as a public representative. While her clean criminal record and moderate parliamentary participation are positive indicators, the absence of crucial data on assets, MPLADS utilization, and committee work raises transparency concerns. The 55% attendance rate and limited legislative initiatives suggest room for improvement in parliamentary engagement. Given West Bengal's documented challenges with fund utilization and the lack of her MPLADS data, constituents may face difficulties in assessing developmental progress in Uluberia constituency. Enhanced data disclosure and improved parliamentary participation would strengthen both transparency and representative effectiveness.
+No criminal cases declared. Declared assets: Rs 44,042,025. MPLADS utilization: 24.3%. Parliament attendance: 55.0%. Questions asked: 25. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ Sajda Ahmed's transparency profile is characterized by significant information g
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sajda Ahmed's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

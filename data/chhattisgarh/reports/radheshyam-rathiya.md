@@ -3,23 +3,23 @@
 **Constituency:** Raigarh, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 60.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 39.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.07 Crore
+- **Liabilities:** Rs 1.25 Lakh
+- **Net Worth:** Rs 1.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 49.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Radheshyam Rathiya demonstrates a mixed transparency profile with significant areas of concern. While he maintains a clean criminal record and shows decent parliamentary attendance, he faces critical weaknesses in committee participation, legislative contributions, and public accessibility. The low data confidence of 14% with multiple validation flags suggests incomplete or unreliable information, making comprehensive evaluation challenging.
+Radheshyam Rathiya shows moderate transparency with a score of 60.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Radheshyam Rathiya
-
-### Overall Assessment
-
-Radheshyam Rathiya, BJP MP from Raigarh constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining a clean legal record and demonstrating moderate parliamentary engagement with 80% attendance, the absence of crucial financial data including assets and MPLADS information raises transparency concerns. His parliamentary activity shows selective participation with 17 questions raised but minimal debate engagement.
-
-### Fund Utilization & Development
-
-Complete MPLADS data is unavailable, making it impossible to assess Rathiya's constituency development performance. No information exists regarding entitled funds, releases, expenditure, or utilization rates. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in fund management across Indian districts, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without MPLADS transparency, constituents cannot evaluate their MP's development delivery effectiveness.
-
-### Financial Transparency
-
-Rathiya's financial transparency profile suffers from complete absence of asset declaration data. Both current and previous asset values are listed as "None," preventing any assessment of wealth growth, potential conflicts of interest, or financial accountability. His monthly compensation stands at Rs 2,45,000, but without baseline asset information, growth ratios and net worth calculations remain impossible. This represents a significant transparency deficit that undermines public trust and financial accountability standards.
-
-### Legal & Criminal Standing
-
-Rathiya maintains an exemplary legal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal profile represents a positive aspect of his public service record. However, the data comes with a warning flag indicating "low confidence in criminal data" due to potentially unavailable sources, suggesting the need for verification through alternative channels.
-
-### Parliamentary Performance
-
-Rathiya demonstrates moderate parliamentary engagement with 80% attendance, positioning him above many MPs who struggle with consistent presence. His legislative activity includes 17 questions raised during parliamentary sessions, indicating some constituency representation efforts. However, his participation in debates remains minimal at only 3 instances, suggesting limited engagement in policy discussions. He has introduced zero private member bills, indicating no independent legislative initiatives. This performance reflects basic parliamentary duty fulfillment without exceptional contribution to legislative processes.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 8 news articles with neutral sentiment (0 positive, 0 negative, 8 neutral), suggesting limited public visibility or controversial engagement. The mixed/neutral coverage pattern indicates neither strong positive recognition nor negative publicity, potentially reflecting a low-profile approach to public engagement. The evidence grade of 'D' for accessibility suggests poor public communication channels or limited constituent interaction platforms. This raises concerns about representative responsiveness and public accountability.
-
-### Data Quality & Caveats
-
-Multiple warning flags significantly impact assessment reliability. Criminal record data carries low confidence due to source unavailability. Asset information shows low confidence, while MPLADS data quality warnings prevent fund utilization analysis. Committee participation data is completely absent, potentially indicating unavailable Sansad profiles. Legislative effectiveness data also carries low confidence warnings. These systematic data gaps, graded as 'C' for parliament and 'D' for accessibility, severely limit comprehensive transparency evaluation and suggest potential systemic transparency challenges.
-
-### Key Takeaway
-
-Radheshyam Rathiya's transparency profile reveals a clean legal record and adequate parliamentary attendance, but suffers from critical data gaps in asset disclosure and MPLADS utilization that prevent comprehensive accountability assessment. While maintaining basic parliamentary duties, his limited debate participation and neutral media presence suggest minimal public engagement. The multiple data quality warnings across key transparency metrics indicate either systemic reporting failures or deliberate opacity, undermining public trust. Improved financial disclosure and constituency development reporting are essential for enhanced transparency and public accountability in his representation of Raigarh constituency.
+No criminal cases declared. Declared assets: Rs 10,650,781. MPLADS utilization: 49.5%. Parliament attendance: 80.0%. Questions asked: 17. Debates participated: 3.
 
 ---
 
@@ -170,7 +136,7 @@ Radheshyam Rathiya's transparency profile reveals a clean legal record and adequ
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Radheshyam Rathiya's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 49.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

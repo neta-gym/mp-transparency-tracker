@@ -3,32 +3,34 @@
 **Constituency:** Gaya, Bihar
 **Party:** Hindustani Awam Morcha (Secular)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 78
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 38.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 18.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 30.21 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 30.21 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 3% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Jitan Ram Manjhi demonstrates a mixed transparency profile with moderate performance in core areas like MPLADS utilization and asset disclosure, but shows concerning gaps in legislative activity and committee participation. While his clean criminal record is commendable, very low accessibility scores and absence of committee engagement significantly impact his overall transparency standing.
+Jitan Ram Manjhi has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Jitan Ram Manjhi
-
-### Overall Assessment
-Jitan Ram Manjhi, representing Gaya constituency in Bihar under the Hindustani Awam Morcha (Secular), presents a transparency profile with significant data gaps that limit comprehensive evaluation. While available information suggests a clean criminal record, the absence of critical data on assets, parliamentary performance, and fund utilization raises concerns about transparency and accountability. The MP currently serves in a ministerial capacity, which may explain some performance metrics.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Mr. Manjhi, including entitlement, release, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Bihar highlighting systemic issues in fund management. The audit identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess how effectively Mr. Manjhi has utilized his development funds for Gaya constituency.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous assets, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of Rs 2,45,000. The absence of asset data prevents any assessment of potential conflicts of interest or unexplained wealth accumulation during the MP's tenure.
-
-### Legal & Criminal Standing
-Mr. Manjhi maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious cases, or convictions. This represents a positive aspect of his profile, though data quality warnings suggest low confidence in the criminal record information. The clean record indicates no immediate legal impediments to his parliamentary duties.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely unavailable, including attendance rates, questions asked, debates participated in, and private bills introduced. While Mr. Manjhi serves as a Minister, which typically involves executive duties that may affect parliamentary attendance, the complete absence of performance metrics prevents any meaningful assessment of his legislative effectiveness or constituency representation in Parliament.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage detected. This suggests limited public visibility or engagement, which could indicate either effective non-controversial governance or insufficient public outreach. The evidence grade for accessibility is rated 'D', indicating poor performance in this area. No social media or direct public engagement metrics are available to supplement this assessment.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is unavailable with low confidence
-- Parliamentary activity data lacks reliability
-- No committee assignment data available due to potentially unavailable Sansad profiles
-- Parliament performance graded 'C' and accessibility graded 'D' based on available evidence
-
-These data gaps may stem from incomplete reporting, system limitations, or deliberate non-disclosure, but their extent raises transparency concerns.
-
-### Key Takeaway
-Jitan Ram Manjhi's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, fund utilization, and parliamentary performance. While his clean criminal record is positive, the absence of financial declarations and development fund utilization data represents a significant accountability gap. The neutral media coverage and poor accessibility rating suggest limited public engagement. Citizens of Gaya constituency lack sufficient transparent information to evaluate their MP's financial standing, fund utilization effectiveness, and legislative performance, highlighting the need for improved disclosure and data management systems.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 3,020,578. MPLADS utilization: 23.5%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Jitan Ram Manjhi's transparency profile is severely hampered by extensive data u
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jitan Ram Manjhi's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

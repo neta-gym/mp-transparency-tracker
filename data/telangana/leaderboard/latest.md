@@ -1,45 +1,45 @@
 # MP Transparency Leaderboard — Telangana
 
-*Generated: 2026-05-21 14:28 UTC | Methodology v3.0 | 17 MPs*
+*Generated: 2026-08-23 16:44 UTC | Methodology v3.1 | 17 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 52.5 | 24% | Strong attendance but poor committee work and accessibility transparency |
-| 2 | LS | Asaduddin Owaisi | Hyderabad | All India Majlis-E-Ittehadul Muslimeen | 51.5 | 24% | Mixed profile: strong attendance but poor committee/accessibility scores |
-| 3 | LS | Madhavaneni Raghunandan Rao | Medak | Bharatiya Janata Party | 51.5 | 24% | Moderate transparency with strong attendance but poor committee engagement |
-| 4 | LS | D K Aruna | Mahbubnagar | Bharatiya Janata Party | 51.0 | 24% | Strong attendance & clean record, but poor committee & public engagement |
-| 5 | LS | Eatala Rajender | Malkajgiri | Bharatiya Janata Party | 50.5 | 24% | Mixed transparency with strong attendance but poor accessibility scores |
-| 6 | LS | Konda Vishweshwar Reddy | Chevella | Bharatiya Janata Party | 50.5 | 24% | Strong attendance and clean record overshadowed by poor accessibility |
-| 7 | LS | Arvind Dharmapuri | Nizamabad | Bharatiya Janata Party | 50.0 | 24% | Mixed profile: strong attendance & clean record, weak committee & public access |
-| 8 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 49.5 | 24% | Strong attendance but poor committee work and public engagement |
-| 9 | LS | Suresh Kumar Shetkar | Zahirabad | Indian National Congress | 49.5 | 24% | Mixed performance with strong criminal record but weak committee participation |
-| 10 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 49.0 | 24% | Strong attendance & clean record, but poor committee & legislative engagement |
-| 11 | LS | Godam Nagesh | Adilabad | Bharatiya Janata Party | 49.0 | 24% | Mixed performance with strong attendance but poor committee & legislative work |
-| 12 | LS | Ramasahayam Raghuram Reddy | Khammam | Indian National Congress | 49.0 | 24% | Mixed performance with strong attendance but poor accessibility and participation |
-| 13 | LS | Kadiyam Kavya | Warangal | Indian National Congress | 47.5 | 24% | Mixed performance with clean criminal record but poor committee & legislative work |
-| 14 | LS | Bandi Sanjay Kumar | Karimnagar | Bharatiya Janata Party | 45.5 | 11% | Mixed transparency with clean record but poor legislative participation |
-| 15 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 45.5 | 24% | Moderate basic transparency but poor legislative engagement and accessibility |
-| 16 | LS | G Kishan Reddy | Secunderabad | Bharatiya Janata Party | 45.5 | 11% | Clean record but poor legislative participation and minimal accessibility |
-| 17 | LS | Kunduru Raghuveer | Nalgonda | Indian National Congress | 41.5 | 24% | Low transparency with zero parliamentary engagement despite clean record |
+| 1 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 58.0 | 60% | Low fund utilization, High attendance |
+| 2 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 55.1 | 65% | Clean record, Low fund utilization, High attendance |
+| 3 | LS | Godam Nagesh | Adilabad | Bharatiya Janata Party | 55.0 | 65% | Low fund utilization, High attendance |
+| 4 | LS | Suresh Kumar Shetkar | Zahirabad | Indian National Congress | 53.0 | 65% | Low fund utilization |
+| 5 | LS | Kadiyam Kavya | Warangal | Indian National Congress | 52.2 | 65% | Clean record, Low fund utilization |
+| 6 | LS | Konda Vishweshwar Reddy | Chevella | Bharatiya Janata Party | 51.8 | 65% | Low fund utilization, High attendance |
+| 7 | LS | Ramasahayam Raghuram Reddy | Khammam | Indian National Congress | 51.5 | 65% | Low fund utilization |
+| 8 | LS | G Kishan Reddy | Secunderabad | Bharatiya Janata Party | 48.3 | 58% | Clean record, Low fund utilization |
+| 9 | LS | D K Aruna | Mahbubnagar | Bharatiya Janata Party | 47.5 | 65% | Significant criminal cases, Low fund utilization, High attendance |
+| 10 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 47.1 | 65% | Significant criminal cases, Low fund utilization, High attendance |
+| 11 | LS | Asaduddin Owaisi | Hyderabad | All India Majlis-E-Ittehadul Muslimeen | 46.3 | 65% | Low fund utilization, High attendance |
+| 12 | LS | Arvind Dharmapuri | Nizamabad | Bharatiya Janata Party | 42.8 | 65% | Significant criminal cases, High attendance |
+| 13 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 41.0 | 60% | Significant criminal cases, Low fund utilization |
+| 14 | LS | Kunduru Raghuveer | Nalgonda | Indian National Congress | 39.9 | 65% | Low fund utilization |
+| 15 | LS | Madhavaneni Raghunandan Rao | Medak | Bharatiya Janata Party | 37.9 | 65% | Significant criminal cases, Low fund utilization, High attendance |
+| 16 | LS | Eatala Rajender | Malkajgiri | Bharatiya Janata Party | 35.0 | 65% | Significant criminal cases, Low fund utilization, High attendance |
+| 17 | LS | Bandi Sanjay Kumar | Karimnagar | Bharatiya Janata Party | 32.7 | 58% | Significant criminal cases, Low fund utilization |
 
 ### Score Breakdown
 
 | Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |
 |------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|
-| 1 | Chamala Kiran Kumar Reddy | LS | 50 | 50 | 100 | 100 | 70 | 0 | 10 | 0 |
-| 2 | Asaduddin Owaisi | LS | 50 | 50 | 100 | 90 | 70 | 0 | 10 | 0 |
-| 3 | Madhavaneni Raghunandan Rao | LS | 50 | 50 | 100 | 100 | 60 | 0 | 10 | 0 |
-| 4 | D K Aruna | LS | 50 | 50 | 100 | 95 | 60 | 0 | 10 | 0 |
-| 5 | Eatala Rajender | LS | 50 | 50 | 100 | 90 | 60 | 0 | 10 | 0 |
-| 6 | Konda Vishweshwar Reddy | LS | 50 | 50 | 100 | 100 | 50 | 0 | 10 | 0 |
-| 7 | Arvind Dharmapuri | LS | 50 | 50 | 100 | 85 | 60 | 0 | 10 | 0 |
-| 8 | Mallu Ravi | LS | 50 | 50 | 100 | 90 | 50 | 0 | 10 | 0 |
-| 9 | Suresh Kumar Shetkar | LS | 50 | 50 | 100 | 70 | 70 | 0 | 10 | 0 |
-| 10 | Vamsi Krishna Gaddam | LS | 50 | 50 | 100 | 85 | 50 | 0 | 10 | 0 |
-| 11 | Godam Nagesh | LS | 50 | 50 | 100 | 85 | 50 | 0 | 10 | 0 |
-| 12 | Ramasahayam Raghuram Reddy | LS | 50 | 50 | 100 | 75 | 60 | 0 | 10 | 0 |
-| 13 | Kadiyam Kavya | LS | 50 | 50 | 100 | 70 | 50 | 0 | 10 | 0 |
-| 14 | Bandi Sanjay Kumar | LS | 50 | 50 | 100 | 50 | 50 | 0 | 10 | 0 |
-| 15 | Balram Naik Porika | LS | 50 | 50 | 100 | 70 | 30 | 0 | 10 | 0 |
-| 16 | G Kishan Reddy | LS | 50 | 50 | 100 | 50 | 50 | 0 | 10 | 0 |
-| 17 | Kunduru Raghuveer | LS | 50 | 50 | 100 | 60 | 0 | 0 | 10 | 0 |
+| 1 | Chamala Kiran Kumar Reddy | LS | 31 | 60 | 70 | 100 | 70 | 40 | 15 | 40 |
+| 2 | Vamsi Krishna Gaddam | LS | 8 | 60 | 100 | 85 | 50 | 40 | 15 | 40 |
+| 3 | Godam Nagesh | LS | 18 | 60 | 90 | 85 | 50 | 40 | 15 | 40 |
+| 4 | Suresh Kumar Shetkar | LS | 9 | 60 | 90 | 70 | 70 | 40 | 15 | 40 |
+| 5 | Kadiyam Kavya | LS | 12 | 50 | 100 | 70 | 50 | 40 | 15 | 40 |
+| 6 | Konda Vishweshwar Reddy | LS | 20 | 60 | 60 | 100 | 50 | 40 | 15 | 40 |
+| 7 | Ramasahayam Raghuram Reddy | LS | 6 | 55 | 90 | 75 | 60 | 40 | 15 | 40 |
+| 8 | G Kishan Reddy | LS | 0 | 60 | 100 | 50 | 50 | 40 | 15 | 40 |
+| 9 | D K Aruna | LS | 17 | 60 | 40 | 95 | 60 | 40 | 15 | 40 |
+| 10 | Mallu Ravi | LS | 24 | 60 | 40 | 90 | 50 | 40 | 15 | 40 |
+| 11 | Asaduddin Owaisi | LS | 4 | 55 | 50 | 90 | 70 | 40 | 15 | 40 |
+| 12 | Arvind Dharmapuri | LS | 45 | 55 | 0 | 85 | 60 | 40 | 15 | 40 |
+| 13 | Balram Naik Porika | LS | 34 | 40 | 40 | 70 | 30 | 40 | 15 | 40 |
+| 14 | Kunduru Raghuveer | LS | 3 | 50 | 80 | 60 | 0 | 40 | 15 | 40 |
+| 15 | Madhavaneni Raghunandan Rao | LS | 13 | 50 | 0 | 100 | 60 | 40 | 15 | 40 |
+| 16 | Eatala Rajender | LS | 6 | 50 | 0 | 90 | 60 | 40 | 15 | 40 |
+| 17 | Bandi Sanjay Kumar | LS | 26 | 55 | 0 | 50 | 50 | 40 | 15 | 40 |

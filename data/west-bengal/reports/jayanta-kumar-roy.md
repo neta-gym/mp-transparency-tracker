@@ -3,23 +3,25 @@
 **Constituency:** Jalpaiguri, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 55.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.94 Crore
+- **Liabilities:** Rs 56,196
+- **Net Worth:** Rs 1.93 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,50 +95,11 @@
 
 ## Qualitative Assessment
 
-Jayanta Kumar Roy shows a mixed transparency profile with moderate performance in basic disclosure areas but significant gaps in public engagement. While maintaining a clean criminal record and reasonable attendance, his zero scores in committee participation and legislative activity indicate limited parliamentary engagement. The very low accessibility score suggests poor constituent communication.
+Jayanta Kumar Roy shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Jayanta Kumar Roy
-
-### Overall Assessment
-
-Jayanta Kumar Roy, BJP MP from Jalpaiguri constituency in West Bengal, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (75%), substantial gaps exist in asset disclosure and development fund utilization data. The available evidence suggests moderate parliamentary engagement but limited transparency in financial and developmental aspects of his tenure.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is unavailable, preventing assessment of developmental impact in Jalpaiguri constituency. This data gap is particularly concerning given the CAG audit context revealing systemic issues in West Bengal's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Roy, his contribution to addressing these systemic challenges cannot be evaluated.
-
-### Financial Transparency
-
-Asset disclosure presents significant transparency concerns. Both current and previous asset values are listed as "None," making it impossible to assess financial growth, potential conflicts of interest, or wealth accumulation patterns. The monthly compensation of Rs 2,45,000 is documented, but the absence of asset data represents a critical gap in financial transparency. This limitation severely undermines the ability to evaluate potential conflicts of interest or assess the appropriateness of wealth changes during his tenure.
-
-### Legal & Criminal Standing
-
-Roy maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, this data carries low confidence ratings due to potential source unavailability, as indicated by automated warnings. While the reported clean record is positive, the data quality concerns prevent full confidence in this assessment.
-
-### Parliamentary Performance
-
-Parliamentary activity shows mixed engagement levels. Roy's attendance rate of 75% meets reasonable standards for legislative participation. His question-asking activity is moderate with 53 questions raised, indicating some engagement with constituency and national issues. However, his debate participation remains limited at only 5 debates, suggesting minimal contribution to parliamentary discussions. No private member bills were introduced, indicating limited legislative initiative.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement patterns. Ten news articles provided mixed/neutral coverage with no explicitly positive or negative sentiment detected. This suggests limited public visibility or controversial positioning. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and constituent engagement. Social media presence appears minimal based on available data sources.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data is entirely unavailable
-- No committee membership data found, suggesting incomplete Sansad profile access
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades are concerning: Parliament activity rated 'C' and accessibility rated 'D', indicating substantial room for improvement in transparency and public engagement.
-
-### Key Takeaway
-
-Jayanta Kumar Roy's transparency profile is severely hampered by data gaps rather than necessarily poor performance. While maintaining basic parliamentary attendance and a clean criminal record, the absence of asset disclosure and MPLADS utilization data, combined with limited parliamentary initiative and public engagement, raises questions about overall transparency and effectiveness. The systemic fund management issues identified in West Bengal's CAG audits make transparent MPLADS reporting particularly crucial for Jalpaiguri's development. Improved data disclosure and enhanced parliamentary participation would significantly strengthen his transparency profile and constituent service capabilities.
+No criminal cases declared. Declared assets: Rs 19,356,558. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -177,7 +139,7 @@ Jayanta Kumar Roy's transparency profile is severely hampered by data gaps rathe
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jayanta Kumar Roy's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

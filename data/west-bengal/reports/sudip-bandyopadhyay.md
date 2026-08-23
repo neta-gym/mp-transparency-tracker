@@ -3,32 +3,34 @@
 **Constituency:** Kolkata Uttar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 75
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 50.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 23.5 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.48 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 8.48 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 29.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Sudip Bandyopadhyay shows a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in legislative participation and committee work. The MP demonstrates average performance in MPLADS and asset disclosure but falls short in accessibility measures and active parliamentary engagement.
+Sudip Bandyopadhyay shows moderate transparency with a score of 50.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sudip Bandyopadhyay
-
-### Overall Assessment
-
-Sudip Bandyopadhyay, All India Trinamool Congress MP representing Kolkata Uttar constituency in West Bengal, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining good parliamentary attendance at 85%, critical financial and development data are largely unavailable, raising concerns about transparency and accountability standards.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This data gap is particularly concerning given West Bengal's documented challenges with fund management. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader infrastructure delivery challenges that may impact Bandyopadhyay's constituency development efforts.
-
-### Financial Transparency
-
-Asset disclosure transparency is critically poor, with no current or historical asset data available. Growth ratios and net worth calculations cannot be performed due to missing baseline information. The MP's monthly compensation stands at Rs 245,000, representing the only available financial data point. This lack of asset transparency severely limits public ability to assess potential conflicts of interest or financial accountability.
-
-### Legal & Criminal Standing
-
-Bandyopadhyay maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, confidence in this criminal record data is flagged as low, suggesting potential data source limitations that could affect accuracy.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with good attendance (85%) but limited legislative activity. The MP has participated in 5 parliamentary debates but has asked zero questions and introduced no private member bills. This pattern suggests passive rather than proactive parliamentary participation, potentially limiting effective constituency representation and policy advocacy.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics are limited, with news coverage showing 10 articles maintaining neutral sentiment (no positive or negative articles identified). Social media presence and public accessibility initiatives are not documented in available data. Committee participation data is entirely unavailable, indicating either non-participation in parliamentary committees or significant data collection gaps affecting assessment of specialized legislative work.
-
-### Data Quality & Caveats
-
-This analysis faces substantial limitations due to poor data quality across multiple domains. Evidence grades rate parliamentary data as 'C' and accessibility as 'D', indicating significant reliability concerns. Specific warnings include low confidence in criminal records, assets, and MPLADS data. Legislative effectiveness data is also flagged as low confidence. The absence of committee data suggests Sansad profile unavailability, further limiting comprehensive evaluation. These data gaps prevent meaningful assessment of key transparency indicators and may mask both positive contributions and potential concerns.
-
-### Key Takeaway
-
-Sudip Bandyopadhyay's transparency profile is severely hampered by extensive data unavailability, making comprehensive accountability assessment impossible. While maintaining clean legal standing and reasonable parliamentary attendance, the complete absence of financial disclosure and development fund data, combined with limited legislative activity, raises significant transparency concerns. The documented systemic issues in West Bengal's fund management, including substantial idle funds and documentation deficiencies, underscore the critical need for improved data collection and transparency mechanisms. Citizens and oversight bodies should prioritize obtaining complete financial and development data to enable proper democratic accountability.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 84,812,907. MPLADS utilization: 29.4%. Parliament attendance: 85.0%. Debates participated: 5.
 
 ---
 
@@ -170,7 +138,7 @@ Sudip Bandyopadhyay's transparency profile is severely hampered by extensive dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sudip Bandyopadhyay's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 29.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

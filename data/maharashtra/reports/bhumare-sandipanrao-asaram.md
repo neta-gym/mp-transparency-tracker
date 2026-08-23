@@ -3,32 +3,34 @@
 **Constituency:** Aurangabad, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 24.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.31 Crore
+- **Liabilities:** Rs 2.46 Crore
+- **Net Worth:** Rs 7.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 30.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Bhumare shows mixed transparency performance with a clean criminal record being the standout positive. However, significant deficiencies exist in committee participation, legislative initiatives, and public accessibility, indicating limited engagement with parliamentary duties and constituent outreach.
+Bhumare Sandipanrao Asaram has a below-average transparency score of 47.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Bhumare Sandipanrao Asaram
-
-### Overall Assessment
-Bhumare Sandipanrao Asaram, representing Aurangabad constituency in Maharashtra for Shiv Sena, presents a mixed transparency profile with significant data gaps across multiple governance dimensions. While maintaining a clean legal record and moderate parliamentary attendance, the lack of comprehensive asset and MPLADS data severely limits assessment of his overall performance and accountability.
-
-### Fund Utilization & Development
-MPLADS utilization data is completely unavailable, preventing assessment of development fund management. This is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund utilization. The audit identified Rs 1,558 crore lying idle across district authorities and found that 34% of utilization certificates lacked proper documentation. With 18% of sampled works abandoned or incomplete, the absence of specific MPLADS data for this MP raises questions about local development accountability.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data on total assets, previous holdings, or growth patterns. The complete absence of financial transparency metrics represents a significant accountability gap. Monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, data quality warnings indicate low confidence in criminal record information, suggesting potential gaps in source availability that could affect the completeness of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 70% attendance - below the expected standard for consistent legislative participation. Legislative activity is notably limited with only 24 questions raised, one debate participation, and zero private member bills introduced. This suggests minimal proactive legislative engagement beyond basic attendance requirements. The absence of committee membership data further limits assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals neutral media engagement with 10 articles showing balanced reporting (zero positive or negative articles). This neutral stance may indicate either effective reputation management or limited public visibility. However, accessibility receives a 'D' grade, suggesting poor responsiveness to constituent needs and limited public engagement mechanisms.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence warnings due to potential source unavailability
-- Asset information is completely missing, preventing financial transparency evaluation
-- MPLADS data is entirely absent, eliminating development fund accountability assessment
-- Committee membership information unavailable due to potential Sansad profile gaps
-- Legislative effectiveness data has low confidence ratings
-- Evidence grades are poor: Parliament performance rated 'C', accessibility rated 'D'
-
-These data gaps represent substantial limitations in providing comprehensive transparency analysis.
-
-### Key Takeaway
-While MP Bhumare maintains a clean legal record and acceptable parliamentary attendance, the extensive data gaps across asset disclosure, MPLADS utilization, and committee participation create significant transparency concerns. The combination of limited legislative activity, poor accessibility ratings, and missing financial information suggests below-average accountability standards. Immediate priority should be ensuring complete asset disclosure and MPLADS utilization reporting to meet basic transparency requirements, particularly given CAG audit findings highlighting systemic fund management issues in Maharashtra.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 103,071,866. MPLADS utilization: 30.0%. Parliament attendance: 70.0%. Questions asked: 24. Debates participated: 1.
 
 ---
 
@@ -170,7 +138,7 @@ While MP Bhumare maintains a clean legal record and acceptable parliamentary att
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhumare Sandipanrao Asaram's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 30.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

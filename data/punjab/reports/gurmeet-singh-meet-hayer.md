@@ -3,32 +3,32 @@
 **Constituency:** Sangrur, Punjab
 **Party:** Aam Aadmi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 24.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.74 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 3.74 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 30.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Gurmeet Singh Meet Hayer shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and decent attendance (80%), but significant weaknesses in committee participation (0%), legislative contributions (0%), and public accessibility (10%). The moderate MPLADS and asset disclosure scores suggest room for improvement in financial transparency.
+Gurmeet Singh Meet Hayer shows moderate transparency with a score of 53.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gurmeet Singh Meet Hayer
-
-### Overall Assessment
-Gurmeet Singh Meet Hayer, representing Sangrur constituency (Punjab) for the Aam Aadmi Party in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and reasonable parliamentary attendance, substantial missing information across key areas limits comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental work in Sangrur constituency. This represents a critical transparency gap, particularly concerning given CAG audit findings highlighting systemic issues in Punjab's fund management. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Hayer, it's impossible to determine whether these broader systemic issues affect his constituency's development projects.
-
-### Financial Transparency
-Asset declaration information is completely missing, making financial transparency assessment impossible. No data is available regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly undermines transparency evaluation. The MP's monthly compensation stands at Rs 2,45,000, but without asset declarations, there's no context for assessing potential conflicts of interest or wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-Hayer maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning due to potential source unavailability, suggesting the absence of recorded cases may reflect data collection limitations rather than confirmed clean status. Nevertheless, no publicly available information indicates any legal troubles.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance, indicating reasonable but not exceptional presence in the House. Legislative activity includes 19 questions raised and participation in 9 debates, demonstrating moderate engagement with parliamentary processes. However, zero private bills introduced suggests limited proactive legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate reliability, while overall legislative effectiveness confidence remains low.
-
-### Public Engagement & Accessibility
-Public engagement assessment faces severe limitations due to an accessibility evidence grade of 'D', indicating poor data availability. News sentiment analysis covers only 10 articles (9 neutral, 1 negative, 0 positive), suggesting limited media presence or coverage. This minimal news footprint may indicate either low public visibility or insufficient media engagement. Committee participation data is entirely absent, preventing assessment of specialized legislative work. Social media and constituency outreach data are insufficient for meaningful evaluation.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is entirely absent with similar reliability concerns. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data shows low confidence levels. These limitations mean the assessment relies heavily on limited parliamentary activity data and minimal news coverage, creating substantial analytical blind spots.
-
-### Key Takeaway
-Gurmeet Singh Meet Hayer's transparency profile is severely compromised by extensive data gaps across critical areas including asset declarations, MPLADS utilization, and committee work. While available data shows clean legal standing and moderate parliamentary participation (80% attendance, 19 questions, 9 debates), the absence of financial disclosure and development fund information prevents meaningful accountability assessment. The systematic nature of missing data suggests either inadequate transparency mechanisms or data collection failures, highlighting broader concerns about public representative accountability in the current system. Voters and oversight bodies lack essential information needed to evaluate his effectiveness as their representative.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 37,416,362. MPLADS utilization: 30.3%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 9.
 
 ---
 
@@ -162,7 +136,7 @@ Gurmeet Singh Meet Hayer's transparency profile is severely compromised by exten
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gurmeet Singh Meet Hayer's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 30.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Dum Dum, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 76
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 7.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.12 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 5.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 9.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,49 +95,11 @@
 
 ## Qualitative Assessment
 
-Sougata Ray shows mixed transparency performance with strong attendance and clean criminal record, but significant weaknesses in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee engagement, suggest limited transparency in key governance areas.
+Sougata Ray shows moderate transparency with a score of 56.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sougata Ray
-
-### Overall Assessment
-Sougata Ray, representing Dum Dum constituency in West Bengal under the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While demonstrating strong parliamentary attendance (100%), critical transparency indicators including assets, MPLADS utilization, and committee participation lack reliable data. The MP's profile suggests active legislative engagement but insufficient public disclosure across key accountability metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for assessment, marked as "low confidence" in the source data. This represents a significant transparency gap given that MPs are entitled to ₹5 crore annually for constituency development. The absence of entitled, released, and expended amount data prevents evaluation of development fund management effectiveness.
-
-CAG audit findings for West Bengal reveal systemic concerns relevant to the state's fund management context: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues highlight the importance of transparent MPLADS reporting, making the data absence particularly concerning.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, with total assets, previous holdings, growth ratios, and net worth all marked as "None" in the data. This complete absence of financial transparency data prevents assessment of the MP's wealth accumulation patterns or potential conflicts of interest. The MP receives ₹2,45,000 in monthly compensation, but without asset declarations, comprehensive financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-Sougata Ray maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. However, the data carries a "low confidence" warning, suggesting potential source reliability issues. While the available data indicates no legal complications, the confidence caveat requires noting this as preliminary assessment pending verification.
-
-### Parliamentary Performance
-Ray demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical MP attendance rates. Legislative activity shows 48 questions raised and participation in 20 debates, indicating active constituency representation and policy engagement. However, no private member bills were introduced, and committee participation data is unavailable due to inaccessible Sansad profiles.
-
-The evidence grade for parliamentary performance is "C," suggesting moderate confidence in available data despite some gaps in comprehensive legislative effectiveness metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 articles identified, all categorized as neutral with zero positive or negative sentiment pieces. This suggests limited media visibility or polarization around the MP's activities. The accessibility evidence grade of "D" indicates poor data availability regarding public outreach, social media engagement, and citizen interaction mechanisms.
-
-No social media activity metrics or public accessibility initiatives are documented, representing a significant gap in transparency regarding constituent communication and engagement strategies.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability:
-
-- **Criminal record data**: Low confidence due to potentially unavailable sources
-- **Asset information**: Complete absence of financial disclosure data
-- **MPLADS utilization**: Low confidence preventing fund management assessment
-- **Committee participation**: Unavailable due to inaccessible Sansad profiles
-- **Legislative effectiveness**: Low confidence in comprehensive policy impact data
-
-Evidence grades range from C to D, indicating substantial reliability concerns across transparency metrics. The automated flagging system identifies these as warning-level issues requiring data verification and supplementation.
-
-### Key Takeaway
-Sougata Ray's transparency profile is characterized by strong parliamentary attendance but critical data gaps across financial disclosure, development fund utilization, and public engagement metrics. While maintaining a clean legal record and active legislative participation, the absence of asset declarations and MPLADS data represents significant transparency deficits. The MP's accountability cannot be comprehensively assessed without addressing these data gaps, particularly given West Bengal's documented fund management challenges highlighted in CAG audits. Immediate priority should focus on improving financial disclosure and development fund transparency reporting.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 51,230,026. MPLADS utilization: 9.5%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. 1 warning(s) noted.
 
 ---
 
@@ -176,7 +139,7 @@ Sougata Ray's transparency profile is characterized by strong parliamentary atte
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -255,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sougata Ray's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 9.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -272,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

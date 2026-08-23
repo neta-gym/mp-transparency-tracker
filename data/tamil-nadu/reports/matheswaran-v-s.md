@@ -3,32 +3,32 @@
 **Constituency:** Namakkal, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.73 Crore
+- **Liabilities:** Rs 50.39 Lakh
+- **Net Worth:** Rs 4.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 7
+- **Utilization Rate:** 43.8%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Matheswaran V S shows a mixed transparency profile with perfect attendance and a clean criminal record, but significant deficiencies in legislative participation and committee involvement. The extremely low accessibility score and complete absence of committee participation raise concerns about public engagement and parliamentary effectiveness.
+Matheswaran V S shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Matheswaran V S
-
-### Overall Assessment
-Matheswaran V S, representing Namakkal constituency in Tamil Nadu as a Dravida Munnetra Kazhagam (DMK) member, presents a mixed transparency profile marked by excellent parliamentary attendance but significant data gaps across critical governance areas. While maintaining perfect attendance and clean criminal record, the absence of comprehensive asset and MPLADS data severely limits assessment of his overall performance and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of constituency development initiatives. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Tamil Nadu's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Namakkal, constituents cannot evaluate how effectively their MP has utilized the Rs 5 crore annual allocation for local development projects.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, creating a significant transparency deficit. No data is available for current assets, previous declarations, growth ratios, or net worth calculations. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset disclosures, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Matheswaran V S maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, the criminal record data carries low confidence ratings, suggesting potential gaps in source verification. While the available data shows no legal issues, the warning flags indicate this assessment should be treated with caution due to possible data incompleteness.
-
-### Parliamentary Performance
-The MP demonstrates strong parliamentary attendance with a perfect 100% record, significantly above national averages. He has actively engaged in questioning activities with 30 questions raised, indicating consistent constituency representation and policy engagement. However, his participation in parliamentary debates stands at zero, and he has introduced no private member bills, suggesting limited involvement in legislative discussions and policy innovation beyond routine questioning procedures.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 10 news articles covering his activities over the assessed period. The news sentiment analysis reveals predominantly neutral coverage (9 articles) with minimal positive (1 article) or negative coverage, suggesting low media profile and limited public discourse around his activities. The accessibility evidence grade of 'D' indicates poor digital presence and limited channels for constituent communication, which may hinder effective representation.
-
-### Data Quality & Caveats
-This assessment faces significant data quality limitations across multiple domains. Asset information is entirely unavailable, MPLADS utilization data is missing, and criminal record confidence is low. Committee membership information is unavailable, potentially due to Sansad profile accessibility issues. The parliament activity evidence grade of 'C' and accessibility grade of 'D' further underscore data reliability concerns. These gaps substantially limit comprehensive performance evaluation and suggest systemic transparency challenges.
-
-### Key Takeaway
-While Matheswaran V S maintains excellent parliamentary attendance and a clean criminal record, the absence of critical transparency data - particularly asset disclosures and MPLADS utilization - prevents meaningful assessment of his overall effectiveness as an elected representative. The data gaps, combined with CAG audit findings highlighting systemic fund management issues in Tamil Nadu, underscore the need for enhanced transparency mechanisms to enable proper public accountability evaluation.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 47,297,973. MPLADS utilization: 43.8%. Parliament attendance: 100.0%. Questions asked: 30.
 
 ---
 
@@ -162,7 +136,7 @@ While Matheswaran V S maintains excellent parliamentary attendance and a clean c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Matheswaran V S's MPLADS account: Released: Rs 16, Expended: Rs 7, Utilization: 43.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

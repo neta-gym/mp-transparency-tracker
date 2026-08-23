@@ -3,23 +3,25 @@
 **Constituency:** Durg, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 61.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 24.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.72 Crore
+- **Liabilities:** Rs 38.54 Lakh
+- **Net Worth:** Rs 3.33 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 30.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Vijay Baghel shows a mixed transparency profile with perfect scores in criminal record disclosure and parliamentary attendance, but significant weaknesses in public accessibility, committee participation, and legislative contributions. The moderate overall score of 52.5/100 reflects strong basic compliance but poor engagement in key democratic functions.
+Vijay Baghel shows moderate transparency with a score of 61.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Vijay Baghel
-
-### Overall Assessment
-Vijay Baghel, BJP MP from Durg constituency in Chhattisgarh, presents a mixed transparency profile with notable parliamentary engagement but significant data gaps across multiple domains. His perfect 100% attendance record demonstrates strong legislative participation, though broader transparency metrics remain unclear due to data availability issues.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for assessment. The constituency operates within Chhattisgarh's broader development context, where CAG audits have identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities' accounts. Audit findings reveal concerning patterns: 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete. These state-level findings raise questions about fund management effectiveness, though constituency-specific performance cannot be evaluated without available data.
-
-### Financial Transparency
-Asset declaration data is unavailable, preventing assessment of wealth accumulation or growth patterns during his tenure. The absence of both current and previous asset valuations, along with missing net worth calculations, represents a significant transparency gap. His monthly compensation stands at Rs 2,45,000, consistent with standard parliamentary remuneration. Without baseline asset data, financial accountability cannot be properly evaluated.
-
-### Legal & Criminal Standing
-Available records indicate zero criminal cases (total, serious, pending, disposed, or convictions), suggesting a clean legal profile. However, the automated system flags low confidence in criminal data availability, indicating potential gaps in source verification. While current records appear clear, the data quality caveat requires acknowledgment when assessing legal standing.
-
-### Parliamentary Performance
-Baghel demonstrates strong legislative engagement with perfect 100% attendance, significantly above typical parliamentary averages. His participation includes 75 questions raised and 4 debate contributions, indicating active involvement in legislative processes. However, he has introduced zero private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available, preventing assessment of his specialized parliamentary contributions beyond floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment across all coverage, indicating minimal public controversy but also limited positive visibility. The absence of positive media coverage may suggest limited proactive public engagement or communication effectiveness. Social media presence data is included in sources but specific metrics are unavailable. The 'D' grade for accessibility suggests room for improvement in public outreach and communication channels.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to data availability issues. Criminal records carry low confidence warnings, asset information is entirely absent, and MPLADS utilization data is unavailable. Committee membership information is missing, potentially indicating unavailable Sansad profile data. Parliamentary activity receives a 'C' evidence grade, while accessibility scores 'D', both indicating moderate to low data confidence levels. These gaps substantially limit comprehensive transparency evaluation.
-
-### Key Takeaway
-Vijay Baghel shows strong parliamentary attendance and moderate legislative participation, but comprehensive transparency assessment is severely hampered by missing financial, developmental, and engagement data. While available indicators suggest no legal issues and consistent legislative presence, the absence of asset declarations, MPLADS utilization data, and limited public engagement metrics prevent a full accountability evaluation. Improved data availability across transparency domains would enable more meaningful assessment of his representative effectiveness.
+No criminal cases declared. Declared assets: Rs 37,162,950. MPLADS utilization: 30.4%. Parliament attendance: 100.0%. Questions asked: 75. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ Vijay Baghel shows strong parliamentary attendance and moderate legislative part
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vijay Baghel's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 30.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

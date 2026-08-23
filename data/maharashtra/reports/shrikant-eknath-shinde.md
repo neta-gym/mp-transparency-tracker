@@ -3,22 +3,24 @@
 **Constituency:** Kalyan, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 37
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -38,18 +40,19 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 14.92 Crore
+- **Liabilities:** Rs 6.63 Crore
+- **Net Worth:** Rs 8.29 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -102,35 +102,11 @@
 
 ## Qualitative Assessment
 
-MP Shrikant Eknath Shinde shows a mixed transparency profile with moderate overall performance. While he maintains a clean criminal record and demonstrates good legislative engagement, significant weaknesses appear in attendance (35%), committee participation (0%), and public accessibility (10%). The low data confidence of 14% with multiple validation flags suggests limited reliable information availability.
+Shrikant Eknath Shinde shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-## Executive Summary: Shrikant Eknath Shinde
-
-### Overall Assessment
-Shrikant Eknath Shinde, representing Kalyan constituency in Maharashtra as a Shiv Sena MP, presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean criminal record and demonstrating moderate parliamentary engagement through questions and debates, critical information regarding assets, MPLADS utilization, and development activities remains unavailable or unverified.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap for assessing the MP's development impact in Kalyan constituency. The broader Maharashtra context reveals concerning systemic issues identified in CAG audits, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about overall fund management effectiveness in the state.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This creates a critical blind spot in assessing financial transparency. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly. Without baseline asset information, it's impossible to evaluate wealth accumulation patterns or potential conflicts of interest during tenure.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, indicating potential reliability issues with criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 35% attendance, which falls below optimal participation standards. The MP has asked 75 questions, participated in 8 debates, and introduced 3 private member bills, indicating reasonable legislative engagement. However, zero hour participation and special mentions are absent, suggesting limited use of informal parliamentary mechanisms for raising constituency issues. Overall parliamentary activity receives a 'C' grade, indicating room for improvement in consistent participation.
-
-### Public Engagement & Accessibility
-Public engagement metrics are severely limited, receiving a 'D' grade for accessibility. News coverage analysis shows 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited media visibility or impact. Social media and direct public engagement data are insufficient for meaningful assessment. This indicates potential challenges in maintaining visible public presence and communication with constituents.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence due to potential source unavailability. Asset information shows low confidence levels, while MPLADS data is entirely missing. No committee membership information is available, possibly due to Sansad profile unavailability. Legislative effectiveness data also has low confidence ratings. These limitations severely constrain the ability to provide comprehensive transparency evaluation.
-
-### Key Takeaway
-While Shrikant Eknath Shinde maintains a clean criminal record and demonstrates basic parliamentary participation, significant transparency gaps in asset disclosure, MPLADS utilization, and public engagement metrics prevent a complete accountability assessment. The absence of critical financial and development data, combined with below-average parliamentary attendance and limited public visibility, suggests substantial room for improvement in overall transparency and constituency service delivery.
+No criminal cases declared. Declared assets: Rs 149,208,812. Parliament attendance: 35.0%. Questions asked: 75. Debates participated: 8.
 
 ---
 
@@ -170,7 +146,7 @@ While Shrikant Eknath Shinde maintains a clean criminal record and demonstrates 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shrikant Eknath Shinde's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

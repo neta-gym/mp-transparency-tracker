@@ -3,23 +3,25 @@
 **Constituency:** Chittorgarh, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 48
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 2.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.10 Crore
+- **Liabilities:** Rs 86.27 Lakh
+- **Net Worth:** Rs 3.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.7%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Chandra Prakash Joshi demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. The MP shows clean criminal background and reasonable engagement in parliamentary proceedings, though critical gaps exist in public engagement and legislative contributions.
+Chandra Prakash Joshi shows moderate transparency with a score of 55.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Chandra Prakash Joshi
-
-### Overall Assessment
-Chandra Prakash Joshi represents Chittorgarh constituency in Rajasthan as a Bharatiya Janata Party member of the Lok Sabha. His transparency profile presents a mixed picture with reasonable parliamentary attendance (85%) but significant data gaps across multiple transparency indicators. The analysis is hampered by incomplete information on crucial metrics including assets, MPLADS utilization, and committee participation.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG's 2010 audit findings highlighting systemic issues in Rajasthan's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising concerns about the effectiveness of constituency development programs.
-
-### Financial Transparency
-Asset disclosure information is completely missing from available records, with no data on current holdings, previous declarations, growth patterns, or net worth calculations. This absence of financial information significantly undermines transparency assessment capabilities. The MP's monthly compensation is recorded at Rs 2.45 lakh, representing standard parliamentary remuneration. Without asset declarations, it's impossible to evaluate potential conflicts of interest or wealth accumulation patterns.
-
-### Legal & Criminal Standing
-The available criminal record data shows zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, indicating potential source unavailability or incomplete information. While the clean record appears positive, the data quality concerns prevent definitive assessment of legal standing.
-
-### Parliamentary Performance
-Joshi demonstrates moderate engagement in parliamentary proceedings with 85% attendance, positioning him reasonably well compared to national averages. His legislative activity includes 37 questions raised and participation in 5 debates, showing some initiative in holding the government accountable and contributing to policy discussions. However, he has introduced zero private member bills, indicating limited proactive legislative contribution. No committee membership information is available, suggesting either non-participation or data unavailability from Sansad profiles.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral stance suggests limited media attention or controversy but also potentially reduced public visibility. The absence of positive coverage may indicate missed opportunities for highlighting constituency work or policy achievements. Social media and direct public engagement metrics are not available in the current dataset, limiting assessment of citizen accessibility and communication effectiveness.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Evidence grades show parliamentary data at 'C' level and accessibility at 'D' level, indicating substantial reliability concerns. Critical warnings include low confidence in criminal records, assets, and MPLADS data. The absence of committee information and legislative effectiveness data further constrains comprehensive evaluation. Sources include PRS, social media, and news outlets, but data completeness varies significantly across metrics.
-
-### Key Takeaway
-Chandra Prakash Joshi's transparency profile is severely constrained by missing data across key indicators, making comprehensive assessment challenging. While his 85% parliamentary attendance and question-raising activity demonstrate some engagement, the complete absence of asset disclosures and MPLADS utilization data raises transparency concerns. The neutral media coverage and systemic fund management issues highlighted in CAG audits suggest need for enhanced accountability measures. Voters and stakeholders should seek more complete disclosure of assets, development fund utilization, and committee participation to make informed assessments of his representational effectiveness.
+No criminal cases declared. Declared assets: Rs 40,973,304. MPLADS utilization: 2.7%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ Chandra Prakash Joshi's transparency profile is severely constrained by missing 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chandra Prakash Joshi's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

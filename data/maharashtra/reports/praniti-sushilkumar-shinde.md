@@ -3,32 +3,34 @@
 **Constituency:** Solapur, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 49.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 30.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.61 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 6.61 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.0%
 
 ---
 
@@ -91,9 +94,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -102,35 +103,11 @@
 
 ## Qualitative Assessment
 
-Praniti Sushilkumar Shinde demonstrates strong attendance and maintains a clean criminal record, but shows significant gaps in transparency across key areas. Her accessibility to constituents and committee participation are notably poor, while MPLADS utilization and asset disclosure need improvement.
+Praniti Sushilkumar Shinde has a below-average transparency score of 49.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Praniti Sushilkumar Shinde
-
-### Overall Assessment
-Praniti Sushilkumar Shinde, representing Solapur constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While her parliamentary attendance record is exemplary at 100%, substantial missing information regarding assets, MPLADS funding, and criminal records raises concerns about data availability and transparency reporting systems.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This complete data absence prevents assessment of her constituency development performance. The broader Maharashtra context reveals systemic issues identified in CAG Audit 31 of 2010, including Rs 1,558 crore in idle funds across district authorities and concerning patterns of 34% bogus utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, highlighting broader governance challenges that may impact her constituency's development trajectory.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap that prevents assessment of financial accountability. Her monthly compensation is recorded at Rs 245,000, which appears to be standard parliamentary remuneration. The absence of asset data significantly undermines financial transparency evaluation.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), though this comes with a significant caveat regarding low confidence in the data source. The warning flag indicates potential unavailability of reliable criminal record information, making it difficult to definitively assess her legal standing. Without verified sources, this clean record cannot be considered conclusive.
-
-### Parliamentary Performance
-Shinde demonstrates strong parliamentary engagement with perfect 100% attendance, substantially above typical parliamentary attendance rates. Her legislative activity includes 31 questions raised, 14 debate participations, and 1 private member bill introduced. However, she recorded zero interventions in zero hour discussions and no special mentions, indicating selective engagement in parliamentary procedures. The introduction of one private member bill suggests some initiative in legislative drafting, though the overall legislative effectiveness receives a low confidence rating.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting balanced but unremarkable public visibility. The accessibility grade of 'D' indicates poor public engagement mechanisms or limited transparency in communication with constituents. This low accessibility rating suggests potential gaps in public outreach and transparency initiatives that could improve constituent services and accountability.
-
-### Data Quality & Caveats
-The analysis faces significant data quality challenges with multiple warning flags. Criminal record data carries low confidence due to potential source unavailability. Asset information is similarly unreliable, limiting financial transparency assessment. MPLADS data is completely absent, preventing development performance evaluation. Committee membership information is unavailable, possibly due to missing Sansad profile data. Legislative effectiveness data also carries low confidence ratings. These limitations substantially constrain the reliability of this transparency assessment.
-
-### Key Takeaway
-While Praniti Sushilkumar Shinde maintains excellent parliamentary attendance and demonstrates reasonable legislative activity, her overall transparency profile is severely compromised by extensive data gaps across critical areas including assets, MPLADS utilization, and criminal records. The combination of perfect attendance with missing financial and development fund information creates an incomplete picture that prevents comprehensive accountability assessment. Improving data availability and transparency reporting would significantly enhance public evaluation of her performance and accountability as an elected representative.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 66,070,402. MPLADS utilization: 1.0%. Parliament attendance: 100.0%. Questions asked: 31. Debates participated: 14. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +147,7 @@ While Praniti Sushilkumar Shinde maintains excellent parliamentary attendance an
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +226,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Praniti Sushilkumar Shinde's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +245,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

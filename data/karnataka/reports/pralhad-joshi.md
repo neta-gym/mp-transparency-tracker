@@ -3,23 +3,25 @@
 **Constituency:** Dharwad, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 8.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 21.10 Crore
+- **Liabilities:** Rs 8.01 Crore
+- **Net Worth:** Rs 13.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Pralhad Joshi shows moderate transparency with a 45.5/100 score, performing adequately in MPLADS utilization, asset disclosure, and maintaining a clean criminal record. However, significant concerns exist in committee participation (0%), legislative contributions (0%), and public accessibility (10%), indicating limited engagement in parliamentary processes and constituent outreach.
+Pralhad Joshi has a below-average transparency score of 48.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Pralhad Joshi
-
-### Overall Assessment
-Pralhad Joshi, BJP MP from Dharwad constituency in Karnataka, presents a transparency profile severely hampered by data availability issues. With ministerial responsibilities that may affect traditional parliamentary metrics, the available information provides limited insight into his performance across key transparency indicators. The evidence grades of 'C' for parliament and 'D' for accessibility reflect significant data gaps that constrain comprehensive evaluation.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, making it impossible to assess Joshi's track record in constituency development. However, CAG audit findings provide concerning context for Karnataka's fund management practices. The 2010 CAG report (Report 31) identified systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These state-level findings raise questions about the broader developmental fund ecosystem within which Joshi operates.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, preventing any assessment of financial transparency. No data exists on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to public accountability. The monthly compensation of Rs 245,000 is the only available financial data point.
-
-### Legal & Criminal Standing
-Joshi maintains a clean criminal record with zero cases across all categories - no pending cases, disposals, or convictions. However, the data quality warning indicates low confidence in this information due to potential source unavailability. While the clean record is positive, the reliability caveat requires acknowledgment.
-
-### Parliamentary Performance
-Parliamentary activity metrics are unavailable, showing 0% attendance, zero questions raised, no debate participation, and no private member bills. However, Joshi's ministerial status provides crucial context - ministers typically have lower traditional parliamentary participation due to executive responsibilities. The 'C' evidence grade for parliamentary data suggests these metrics may not reflect actual performance due to data collection limitations rather than non-participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (positive: 0, negative: 0, neutral: 10). This neutral coverage suggests absence of major controversies but also indicates limited positive visibility in public discourse. The 'D' accessibility grade highlights significant gaps in transparent communication channels and public engagement data.
-
-### Data Quality & Caveats
-Multiple data quality warnings severely limit this assessment's reliability:
-- Criminal records: Low confidence due to source unavailability
-- Asset information: Completely missing with low confidence ratings
-- MPLADS data: Unavailable with low confidence indicators
-- Parliamentary activity: Low confidence, though ministerial duties may explain apparent inactivity
-- Committee participation: No data found, possibly due to unavailable Sansad profiles
-- Legislative effectiveness: Low confidence in available data
-
-These limitations span virtually all transparency indicators, creating substantial analytical constraints.
-
-### Key Takeaway
-Pralhad Joshi's transparency profile is characterized by extensive data unavailability rather than poor performance indicators. While maintaining a clean legal record and neutral media coverage, the absence of critical information on assets, MPLADS utilization, and detailed parliamentary activity prevents meaningful transparency assessment. His ministerial role may explain some data patterns, particularly regarding traditional parliamentary metrics. The broader Karnataka context of developmental fund management issues identified by CAG audits underscores the importance of transparent fund utilization reporting, making the absence of MPLADS data particularly concerning for accountability purposes. Improved data availability across all transparency indicators is essential for proper public oversight.
+No criminal cases declared. Declared assets: Rs 210,960,953. MPLADS utilization: 11.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Pralhad Joshi's transparency profile is characterized by extensive data unavaila
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pralhad Joshi's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 11.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Howrah, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.5 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 30.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.22 Crore
+- **Liabilities:** Rs 24.73 Lakh
+- **Net Worth:** Rs 1.98 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 6
+- **Utilization Rate:** 37.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Prasun Banerjee shows a mixed transparency profile with significant weaknesses in legislative participation and public engagement. While maintaining a clean criminal record and reasonable attendance, the MP demonstrates zero participation in debates, committee work, and legislative activities, indicating limited active involvement in parliamentary processes.
+Prasun Banerjee shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Prasun Banerjee
-
-### Overall Assessment
-Prasun Banerjee, the All India Trinamool Congress MP from Howrah, West Bengal, presents a transparency profile marked by significant data limitations. While available indicators show a clean criminal record and reasonable parliamentary attendance (80%), substantial gaps exist in critical transparency areas including asset disclosure, MPLADS utilization, and legislative participation. The evidence quality is rated as 'C' for parliamentary data and 'D' for accessibility metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This represents a critical transparency gap given that West Bengal faces documented challenges with fund management. CAG audit findings from 2010 reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting broader concerns about development project execution in the state.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data available on total assets, previous holdings, growth ratios, or net worth. This lack of financial transparency prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a standard monthly compensation of Rs 245,000, but without baseline asset information, meaningful financial accountability assessment is impossible.
-
-### Legal & Criminal Standing
-Available records indicate a clean criminal profile with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in criminal record verification. While this appears positive, the reliability caveat necessitates cautious interpretation of these findings.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Banerjee maintains an 80% attendance rate, which meets reasonable participation standards. However, legislative productivity indicators are concerning - zero questions asked, zero debates participated in, and zero private member bills introduced. This suggests limited active engagement in parliamentary proceedings beyond physical presence. Committee participation data is unavailable due to inaccessible Sansad profiles.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement patterns, with 10 news articles providing mixed/neutral coverage and no distinctly positive or negative sentiment. This suggests limited media visibility or controversial positioning. Social media presence and public accessibility metrics are insufficient for comprehensive assessment, contributing to the 'D' grade for accessibility evidence.
-
-### Data Quality & Caveats
-The transparency assessment faces significant data quality limitations. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Committee information is unavailable due to inaccessible official profiles, and legislative effectiveness data carries low confidence ratings. These limitations substantially constrain the ability to provide a comprehensive transparency evaluation. Data sources include PRS India, social media monitoring, and news analysis, but coverage appears incomplete.
-
-### Key Takeaway
-Prasun Banerjee's transparency profile is characterized more by data absence than substantive findings. While maintaining clean criminal records and adequate parliamentary attendance, the complete lack of asset disclosure and MPLADS utilization data, combined with minimal legislative activity, raises transparency concerns. The broader context of systemic fund management issues in West Bengal amplifies the significance of missing MPLADS data. Voters and oversight bodies require substantially more comprehensive disclosure to enable meaningful accountability assessment.
+No criminal cases declared. Declared assets: Rs 22,225,100. MPLADS utilization: 37.8%. Parliament attendance: 80.0%.
 
 ---
 
@@ -162,7 +138,7 @@ Prasun Banerjee's transparency profile is characterized more by data absence tha
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Prasun Banerjee's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 37.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

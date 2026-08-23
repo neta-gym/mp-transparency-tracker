@@ -3,23 +3,25 @@
 **Constituency:** Rajgarh, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 63.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 49.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.55 Crore
+- **Liabilities:** Rs 1.29 Crore
+- **Net Worth:** Rs 5.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 8
+- **Utilization Rate:** 56.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Rodmal Nagar shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (90%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate scores in MPLADS utilization and asset disclosure, combined with poor committee engagement, suggest limited overall transparency despite good attendance record.
+Rodmal Nagar shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Rodmal Nagar
-
-### Overall Assessment
-Rodmal Nagar, BJP MP from Rajgarh constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance at 90%, critical information regarding assets and development fund utilization remains unavailable, hindering a complete assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, or expenditure figures. This creates a transparency gap regarding constituency development activities. The broader context reveals systemic issues in Madhya Pradesh's fund management, with CAG audits highlighting Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining incomplete or abandoned. These findings raise concerns about overall development fund effectiveness in the state.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence warnings, suggesting potential gaps in source reliability or data collection processes.
-
-### Parliamentary Performance
-Nagar demonstrates strong attendance with a 90% participation rate in parliamentary sessions, indicating consistent engagement with legislative duties. His question-asking activity shows 9 questions raised, reflecting moderate engagement in parliamentary oversight functions. He has participated in 8 debates, showing reasonable involvement in legislative discussions. However, he has not introduced any private member bills, indicating limited initiative in proposing new legislation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with predominantly neutral sentiment - 8 neutral articles, 1 positive, and 1 negative piece. This suggests limited media visibility and public discourse around the MP's activities. The lack of comprehensive social media or public engagement data limits assessment of direct constituent interaction and accessibility.
-
-### Data Quality & Caveats
-The transparency profile suffers from significant data quality issues with multiple warning flags. Criminal record data carries low confidence due to potential source unavailability. Asset information has low confidence ratings, and MPLADS data is similarly unreliable. Parliamentary performance data receives a 'C' grade, while accessibility metrics score 'D', indicating substantial information gaps. Committee participation data is entirely absent, suggesting unavailable Sansad profile information. These limitations significantly constrain the ability to provide a comprehensive evaluation.
-
-### Key Takeaway
-While Rodmal Nagar maintains strong parliamentary attendance and a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization severely limit accountability assessment. The absence of reliable MPLADS data is particularly concerning given systemic fund management issues identified in Madhya Pradesh. Improved data availability and transparency mechanisms are essential for meaningful evaluation of the MP's performance and public accountability.
+No criminal cases declared. Declared assets: Rs 65,483,248. MPLADS utilization: 56.2%. Parliament attendance: 90.0%. Questions asked: 9. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ While Rodmal Nagar maintains strong parliamentary attendance and a clean crimina
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rodmal Nagar's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 56.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

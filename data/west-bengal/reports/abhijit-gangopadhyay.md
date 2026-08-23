@@ -3,23 +3,25 @@
 **Constituency:** Tamluk, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 13.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.63 Crore
+- **Liabilities:** Rs 50.78 Lakh
+- **Net Worth:** Rs 4.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 17.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Abhijit Gangopadhyay shows a mixed transparency profile with strong attendance (85%) and clean criminal record (100%), but significant weaknesses in parliamentary participation (20%) and committee involvement (0%). The MP appears to fulfill basic attendance requirements but lacks engagement in legislative processes and public accessibility initiatives.
+Abhijit Gangopadhyay shows moderate transparency with a score of 52.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Abhijit Gangopadhyay
-
-### Overall Assessment
-
-Abhijit Gangopadhyay, BJP MP from Tamluk constituency in West Bengal, presents a mixed transparency profile with significant data gaps across multiple categories. While maintaining reasonable parliamentary attendance at 85%, the absence of critical financial and developmental data limits comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-
-Complete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) funding severely hampers evaluation of Gangopadhyay's developmental impact. No information is available on entitled funds, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also revealed 18% of sampled developmental works were abandoned or incomplete, raising questions about oversight mechanisms.
-
-### Financial Transparency
-
-Asset disclosure data is entirely missing, preventing assessment of the MP's financial standing, wealth growth patterns, or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth calculations. This represents a critical transparency gap that undermines public accountability standards expected from elected representatives.
-
-### Legal & Criminal Standing
-
-Gangopadhyay shows a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems rather than definitive clearance.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance at 85% exceeds typical benchmarks, demonstrating consistent presence in legislative proceedings. However, active participation metrics reveal limitations - zero questions raised and only 2 debate participations recorded, with no private member bills introduced. This suggests a passive rather than proactive legislative approach, potentially limiting constituency representation effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial positioning. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. No committee membership data is available, further limiting assessment of specialized legislative contributions.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight significant data reliability concerns:
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Low confidence in financial disclosure data
-- **MPLADS**: Low confidence in developmental fund data
-- **Committees**: Complete absence of committee participation data
-- **Legislative effectiveness**: Low confidence ratings
-
-Parliament performance receives a 'C' grade while accessibility scores 'D', reflecting data quality challenges that may not accurately represent actual performance levels.
-
-### Key Takeaway
-
-Abhijit Gangopadhyay's transparency profile is severely compromised by extensive data gaps across critical accountability measures including asset declarations, MPLADS utilization, and committee participation. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of financial transparency and limited active legislative participation raise concerns about overall effectiveness. The systemic data unavailability, particularly regarding developmental fund utilization in a state with documented audit issues, highlights urgent need for improved transparency mechanisms. Voters and oversight bodies should demand comprehensive disclosure of missing financial and developmental data to enable proper accountability assessment.
+No criminal cases declared. Declared assets: Rs 46,255,624. MPLADS utilization: 17.0%. Parliament attendance: 85.0%. Debates participated: 2.
 
 ---
 
@@ -177,7 +138,7 @@ Abhijit Gangopadhyay's transparency profile is severely compromised by extensive
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Abhijit Gangopadhyay's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 17.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

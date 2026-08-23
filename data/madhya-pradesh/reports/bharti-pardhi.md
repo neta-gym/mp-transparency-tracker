@@ -3,23 +3,25 @@
 **Constituency:** Balaghat, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 61.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 33.2 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.90 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 5.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 6
+- **Utilization Rate:** 41.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Bharti Pardhi demonstrates mixed transparency with strong attendance (90%) and a clean criminal record (100%), but faces significant challenges in key areas. Her complete absence from committee participation (0%) and legislative activities (0%) raises concerns about parliamentary engagement, while extremely poor accessibility (10%) suggests limited public outreach.
+Bharti Pardhi shows moderate transparency with a score of 61.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bharti Pardhi
-
-### Overall Assessment
-Bharti Pardhi represents Balaghat constituency in Madhya Pradesh as a Bharatiya Janata Party member of the Lok Sabha. The transparency profile reveals significant data gaps across multiple dimensions, with only parliamentary attendance showing robust data availability. Available evidence suggests adequate parliamentary engagement but raises concerns about transparency in key areas including asset declarations and development fund utilization.
-
-### Fund Utilization & Development
-No specific MPLADS data is available for MP Pardhi, representing a critical transparency gap. However, CAG audit findings highlight systemic issues in Madhya Pradesh's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, indicating potential challenges in effective fund deployment within the state's development framework.
-
-### Financial Transparency
-Asset declaration data is unavailable, preventing assessment of financial growth patterns or potential conflicts of interest. The MP receives Rs 245,000 monthly compensation as standard parliamentary remuneration. Without baseline asset information or growth metrics, it's impossible to evaluate financial transparency or identify any unusual wealth accumulation patterns during the tenure.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero total cases, serious charges, pending matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the available data indicates no legal complications, the reliability concerns warrant cautious interpretation of this seemingly positive indicator.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 90% attendance, demonstrating consistent presence in legislative proceedings. The MP has raised 44 questions and participated in 10 debates, indicating moderate engagement in parliamentary discourse. However, no private member's bills have been introduced, and committee participation data is unavailable, limiting assessment of legislative initiative and specialized contribution to policy development.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. The accessibility evidence grade of 'D' indicates poor public communication channels or constituent engagement mechanisms. This pattern suggests potential gaps in proactive public outreach or media engagement strategies.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record confidence is low due to potential source unavailability. Asset data shows low confidence levels, preventing meaningful financial transparency assessment. MPLADS utilization data is entirely absent, creating a major oversight gap. Committee participation information is missing, possibly due to Sansad profile unavailability. Legislative effectiveness data confidence remains low. These limitations substantially constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-While MP Bharti Pardhi demonstrates adequate parliamentary attendance and maintains a clean criminal record, significant transparency gaps in asset disclosure, development fund utilization, and public accessibility limit comprehensive accountability assessment. The systemic issues identified in Madhya Pradesh's fund management through CAG audits underscore the importance of enhanced transparency mechanisms, particularly given the absence of specific MPLADS data for this constituency.
+No criminal cases declared. Declared assets: Rs 59,018,167. MPLADS utilization: 41.5%. Parliament attendance: 90.0%. Questions asked: 44. Debates participated: 10.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Bharti Pardhi demonstrates adequate parliamentary attendance and mainta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bharti Pardhi's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Rohtak, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 59.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 26.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 69.26 Crore
+- **Liabilities:** Rs 23.18 Lakh
+- **Net Worth:** Rs 69.02 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,39 +94,11 @@
 
 ## Qualitative Assessment
 
-Deepender Singh Hooda demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative transparency. The low data confidence (14%) and multiple validation flags suggest incomplete or outdated information, making this assessment preliminary. Key areas requiring improvement include public engagement, committee work, and legislative activity documentation.
+Deepender Singh Hooda shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Deepender Singh Hooda
-
-### Overall Assessment
-Deepender Singh Hooda, the Indian National Congress MP from Rohtak, Haryana, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (90.0%), the absence of critical financial and developmental data raises concerns about transparency reporting. The MP's profile shows no criminal concerns but lacks substantive information across multiple accountability metrics.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Rohtak constituency. The absence of such fundamental data makes it impossible to evaluate local development impact or fund management effectiveness.
-
-CAG audit reports highlight systemic issues in Haryana's fund utilization: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings underscore the importance of transparent MPLADS reporting, making the data absence particularly concerning.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information on current holdings, previous assets, growth ratios, or net worth. This represents a fundamental transparency failure, as asset disclosure is mandatory for elected representatives. The MP's monthly compensation stands at Rs 2.45 lakh, but without asset data, comprehensive financial accountability assessment remains impossible.
-
-### Legal & Criminal Standing
-Deepender Singh Hooda maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. Despite this caveat, available information indicates no legal impediments to parliamentary service.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at a commendable 90.0%, demonstrating consistent participation in House proceedings. However, active contribution metrics are limited: only 8 questions raised and 8 debate participations, with zero private bills introduced. This suggests minimal legislative initiative beyond attendance. No committee membership data is available, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public visibility with 10 news articles showing no positive or negative sentiment bias. This suggests limited media engagement or controversial positions. However, the evidence grade for accessibility is poor (D), indicating insufficient data on citizen outreach, constituency interaction, or digital presence. No social media engagement metrics are available despite being listed as a data source.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to poor data quality across multiple domains. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Evidence grades are concerning: parliamentary performance rated C and accessibility rated D. The absence of committee information suggests potential Sansad profile unavailability, while legislative effectiveness data carries low confidence ratings.
-
-These data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in MP accountability reporting. The absence of mandatory disclosure information (assets, MPLADS) is particularly problematic for public accountability.
-
-### Key Takeaway
-While Deepender Singh Hooda maintains clean legal standing and good parliamentary attendance, severe data gaps across financial disclosures, development funds, and public engagement create a transparency deficit that undermines comprehensive accountability assessment. The MP's profile exemplifies the challenges in evaluating elected representative performance when mandatory disclosure mechanisms fail to provide accessible, reliable information to citizens.
+No criminal cases declared. Declared assets: Rs 692,558,771. MPLADS utilization: 33.2%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 8.
 
 ---
 
@@ -166,7 +138,7 @@ While Deepender Singh Hooda maintains clean legal standing and good parliamentar
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -245,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Deepender Singh Hooda's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -262,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

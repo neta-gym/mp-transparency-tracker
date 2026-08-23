@@ -3,18 +3,18 @@
 **Constituency:** Anakapalle, Andhra Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-08-20
+**Report Date:** 2026-08-23
 **Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 51.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 45.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -95,7 +95,7 @@
 
 ## Qualitative Assessment
 
-C M Ramesh shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+C M Ramesh shows moderate transparency with a score of 51.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
@@ -139,7 +139,7 @@ No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 34. 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 20/08/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

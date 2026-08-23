@@ -3,23 +3,25 @@
 **Constituency:** Bharatpur, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 26
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 26.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 23.10 Lakh
+- **Liabilities:** Rs 7.15 Lakh
+- **Net Worth:** Rs 15.95 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-Sanjna Jatav demonstrates mixed transparency performance with notable strengths in attendance (100%) and maintaining a clean criminal record, but faces significant challenges in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee engagement, suggest inconsistent commitment to transparency standards despite perfect attendance record.
+Sanjna Jatav shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sanjna Jatav
-
-### Overall Assessment
-
-Sanjna Jatav, Congress MP from Bharatpur constituency in Rajasthan, demonstrates strong parliamentary attendance but faces significant transparency challenges due to incomplete data availability across multiple metrics. While maintaining a clean criminal record and active legislative participation, the absence of crucial financial and development fund data limits a comprehensive assessment of her overall effectiveness and accountability as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Sanjna Jatav, with no information on entitled amounts, released funds, expenditures, or utilization rates. This data gap is concerning given CAG audit findings highlighting systemic issues in Rajasthan's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper supporting documents. Additionally, 18% of sampled development works remained abandoned or incomplete, indicating broader governance challenges in the state's development fund ecosystem.
-
-### Financial Transparency
-
-Asset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of potential conflicts of interest or unusual wealth accumulation. The only available financial information is the standard monthly compensation of Rs 2,45,000, which is consistent across all MPs.
-
-### Legal & Criminal Standing
-
-Sanjna Jatav maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability, which raises questions about the completeness of criminal background verification.
-
-### Parliamentary Performance
-
-Jatav demonstrates exemplary attendance with a perfect 100% parliamentary attendance record, significantly above national averages. Her legislative engagement includes 16 questions raised and participation in 5 debates, showing active involvement in parliamentary proceedings. However, she has not introduced any private member bills, indicating limited initiative in legislative drafting. The evidence grade for parliamentary data is 'C', suggesting moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversy. This neutral profile may indicate either effective constituency management without major issues or insufficient media attention to gauge public perception accurately. The accessibility evidence grade is 'D', indicating poor data quality for measuring public engagement effectiveness.
-
-### Data Quality & Caveats
-
-This assessment faces significant limitations due to multiple data quality issues:
-
-- **Criminal record data**: Low confidence warning suggests potential source unavailability
-- **Asset declarations**: Complete absence of financial transparency data
-- **MPLADS information**: No development fund utilization data available
-- **Committee participation**: No committee assignment data found, possibly due to unavailable Sansad profile
-- **Legislative effectiveness**: Low confidence rating for broader legislative impact metrics
-
-The evidence grades (Parliament: 'C', Accessibility: 'D') indicate moderate to poor data reliability, limiting the robustness of this transparency assessment.
-
-### Key Takeaway
-
-While Sanjna Jatav demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial declarations, development fund utilization, and committee participation create a significant transparency deficit. The perfect attendance record and active questioning behavior suggest engagement with parliamentary duties, but the absence of asset declarations and MPLADS data - combined with concerning CAG audit findings about fund mismanagement in Rajasthan - raises questions about comprehensive accountability. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of her effectiveness as their representative.
+No criminal cases declared. Declared assets: Rs 2,310,193. MPLADS utilization: 33.7%. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 5.
 
 ---
 
@@ -178,7 +138,7 @@ While Sanjna Jatav demonstrates strong parliamentary attendance and maintains a 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjna Jatav's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

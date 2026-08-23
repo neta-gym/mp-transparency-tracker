@@ -3,23 +3,25 @@
 **Constituency:** Dhar, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 45
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 37.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.31 Crore
+- **Liabilities:** Rs 69.64 Lakh
+- **Net Worth:** Rs 4.61 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 7
+- **Utilization Rate:** 47.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Savitri Thakur's transparency profile shows significant deficiencies across most governance areas, with a below-average overall score of 45.5/100. While she maintains a clean criminal record (100/100), her performance is particularly concerning in committee participation (0/100), legislative work (0/100), and public accessibility (10/100). The low data confidence of 7% and multiple validation flags suggest limited public information availability about her parliamentary activities.
+Savitri Thakur shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Savitri Thakur
-
-### Overall Assessment
-Savitri Thakur, BJP MP representing Dhar constituency in Madhya Pradesh, presents a transparency profile significantly hampered by data availability issues. While maintaining a clean criminal record, comprehensive evaluation of her performance is limited due to missing information across key metrics including assets, MPLADS utilization, and parliamentary activity. The available evidence suggests minimal public engagement and limited transparency in key areas of MP accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the systemic issues identified in CAG audits for Madhya Pradesh. The CAG Report 31 of 2010 highlights significant concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being incomplete or abandoned. Without specific data on Thakur's fund utilization, constituents cannot assess her development delivery effectiveness.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a substantial transparency deficit, preventing any assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives ₹2,45,000 monthly compensation, but without asset disclosures, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Savitri Thakur maintains an exemplary criminal record with zero cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in source availability. Despite this caveat, the clean record represents a positive aspect of her profile.
-
-### Parliamentary Performance
-Parliamentary activity data is severely limited, showing zero questions raised, zero debate participations, and zero private member bills introduced. Attendance percentage is not available. The profile indicates ministerial status, which could explain lower traditional parliamentary metrics due to executive responsibilities. However, the complete absence of legislative activity data, graded 'C' for parliament performance, prevents meaningful assessment of her representative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals minimal public engagement, with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral, indicating limited media presence and public discourse. No committee participation data is available, and the accessibility grade of 'D' suggests poor transparency and citizen engagement. Social media presence appears limited based on available sources.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues:
-- Criminal record data marked as low confidence
-- Complete absence of asset information
-- Missing MPLADS utilization data
-- Incomplete parliamentary activity records
-- No committee participation information
-- Limited legislative effectiveness data
-
-The overall evidence grade ranges from 'C' to 'D', indicating substantial gaps in available information. Sources include PRS, social media, and news outlets, but appear insufficient for comprehensive evaluation.
-
-### Key Takeaway
-Savitri Thakur's transparency profile is characterized by a clean criminal record but severely compromised by extensive data gaps across critical accountability metrics. The absence of asset disclosures, MPLADS utilization data, and limited parliamentary activity information creates significant transparency deficits. While her ministerial role may explain some activity patterns, the overall lack of available information prevents constituents from making informed assessments of her performance, fund utilization, and development delivery in Dhar constituency.
+No criminal cases declared. Declared assets: Rs 53,107,546. MPLADS utilization: 47.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Savitri Thakur's transparency profile is characterized by a clean criminal recor
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Savitri Thakur's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 47.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

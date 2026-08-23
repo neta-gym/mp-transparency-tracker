@@ -3,23 +3,25 @@
 **Constituency:** Belgaum, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 68
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 52.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.38 Crore
+- **Liabilities:** Rs 71.66 Lakh
+- **Net Worth:** Rs 12.66 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Jagadish Shettar demonstrates a mixed transparency profile with moderate performance in basic disclosure areas like MPLADS utilization and assets declaration, coupled with strong attendance record. However, significant gaps exist in committee participation, legislative contributions, and public accessibility, resulting in a below-average overall score.
+Jagadish Shettar shows moderate transparency with a score of 52.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Jagadish Shettar
-
-### Overall Assessment
-Jagadish Shettar, BJP MP from Belgaum constituency in Karnataka, presents a mixed transparency profile with significant data gaps hampering comprehensive evaluation. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), substantial portions of his financial and developmental work profile remain opaque due to unavailable or low-confidence data across multiple transparency metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, preventing assessment of Shettar's developmental impact in Belgaum constituency. This data gap is concerning given Karnataka's documented MPLADS implementation challenges. CAG audit findings reveal systemic issues in the state, including Rs 1,558 crore lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents. Additionally, 18% of sampled works were found abandoned or incomplete, raising questions about project execution effectiveness that cannot be specifically evaluated for Shettar's constituency without available data.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, representing a critical transparency gap. No data exists on total assets, previous declarations, growth ratios, or net worth, making it impossible to assess financial transparency or potential conflicts of interest. The only available financial information is monthly compensation of Rs 245,000, which appears standard for Lok Sabha members. This lack of asset data significantly undermines accountability assessment.
-
-### Legal & Criminal Standing
-Shettar maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings, suggesting potential gaps in criminal record verification systems. While the clean record is positive, the data quality caveat prevents definitive assessment of legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance at 85% exceeds average MP participation rates, demonstrating reasonable commitment to legislative duties. However, active participation appears limited with only 13 questions raised, 1 debate participation, and zero private bills introduced during the term. This suggests passive rather than proactive legislative engagement. Committee participation data is unavailable, preventing assessment of specialized legislative work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 articles tracked (1 positive, 0 negative, 9 neutral). This predominantly neutral coverage suggests limited public visibility or controversy. The evidence grade of 'D' for accessibility indicates poor public engagement mechanisms, potentially limiting constituent communication and feedback channels. No social media engagement metrics are available for comprehensive digital outreach assessment.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information shows low confidence ratings across all metrics
-- MPLADS utilization data is entirely missing
-- Committee participation information is unavailable
-- Legislative effectiveness data carries low confidence ratings
-
-Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect moderate to poor data quality. These limitations substantially constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-While Jagadish Shettar maintains basic parliamentary attendance and a clean criminal record, extensive data gaps across financial disclosure, MPLADS utilization, and public engagement metrics prevent comprehensive transparency assessment. The available evidence suggests a passive legislative approach with limited proactive constituency development visibility. Significant improvements in data availability and public engagement mechanisms are needed to enable meaningful accountability evaluation for this MP's performance in representing Belgaum constituency.
+No criminal cases declared. Declared assets: Rs 133,815,982. MPLADS utilization: 2.3%. Parliament attendance: 85.0%. Questions asked: 13. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Jagadish Shettar maintains basic parliamentary attendance and a clean crim
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jagadish Shettar's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

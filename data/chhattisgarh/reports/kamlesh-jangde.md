@@ -3,23 +3,25 @@
 **Constituency:** Janjgir-Champa, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 64.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 50.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 1.55 Crore
+- **Liabilities:** Rs 13.80 Lakh
+- **Net Worth:** Rs 1.41 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 56.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kamlesh Jangde shows a mixed transparency profile with strong attendance (90%) and a clean criminal record, but significant weaknesses in committee participation, accessibility, and legislative activity. The overall score of 49.5/100 reflects particular concerns around constituent engagement and institutional participation, though the low data confidence (14%) and multiple validation flags suggest incomplete information may be affecting the assessment.
+Kamlesh Jangde shows moderate transparency with a score of 64.3/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Kamlesh Jangde
-
-### Overall Assessment
-Kamlesh Jangde, BJP MP from Janjgir-Champa constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and demonstrating good parliamentary attendance (90%), critical financial and developmental metrics remain unavailable, raising concerns about overall accountability and transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, expenditure, or utilization percentages. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Chhattisgarh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Jangde's constituency, it's impossible to assess his developmental impact or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure transparency is severely compromised with no available data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is listed at Rs 2,45,000, but without baseline asset data, wealth growth trends cannot be evaluated. This lack of financial transparency is a significant red flag for accountability.
-
-### Legal & Criminal Standing
-Jangde maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability. While the clean record appears positive, the data quality caveat suggests this information may not be comprehensive or current.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at a respectable 90%, demonstrating consistent presence in the Lok Sabha. However, legislative productivity appears limited with only 20 questions raised, 2 debate participations, and zero private member bills introduced. This suggests minimal proactive legislative contribution despite regular attendance. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 8 news articles with neutral sentiment across all pieces - zero positive or negative articles. This uniformly neutral coverage suggests either limited public engagement or minimal controversial activities. However, the accessibility evidence grade of 'D' indicates poor data quality in measuring public interaction. No social media engagement metrics or public outreach data are available, limiting assessment of constituent connectivity.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is completely missing with low confidence warnings
-- MPLADS data is entirely unavailable despite its importance for development assessment
-- No committee assignment data found, suggesting incomplete Sansad profile access
-- Legislative effectiveness data has low confidence ratings
-- Evidence grades range from 'C' (parliament) to 'D' (accessibility), indicating substantial reliability concerns
-
-The CAG audit context provides 7 relevant findings for Chhattisgarh, highlighting systemic fund management issues that may affect the MP's constituency, though specific impacts cannot be determined without MPLADS data.
-
-### Key Takeaway
-Kamlesh Jangde's transparency profile is severely hampered by extensive data gaps, particularly in financial disclosure and development fund utilization - two critical areas for MP accountability. While maintaining clean legal standing and adequate parliamentary attendance, the absence of asset information, MPLADS data, and meaningful legislative contributions raises significant transparency concerns. The uniformly neutral media coverage and poor accessibility metrics suggest limited public engagement. Comprehensive evaluation requires substantial improvement in data availability and quality across all transparency parameters.
+No criminal cases declared. Declared assets: Rs 15,462,143. MPLADS utilization: 56.7%. Parliament attendance: 90.0%. Questions asked: 20. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ Kamlesh Jangde's transparency profile is severely hampered by extensive data gap
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kamlesh Jangde's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 56.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

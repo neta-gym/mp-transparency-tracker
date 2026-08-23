@@ -6,63 +6,57 @@
 **Age:** 57
 **Education:** 12th Pass
 **Profession:** Agriculturist, business man, social worker
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.5 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 4.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 4
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 4
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 0112/2023, Bangalore) 
-3. No description (Sections: 0001/2022, Kanakapura Taluk, Ramanagara District) 
-4. No description (Sections: 0013/2022, Ramanagara) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 106.72 Crore
-- **Immovable Assets:** Rs 486.33 Crore
-- **Total Assets:** Rs 593.05 Crore
-- **Liabilities:** Rs 207.34 Crore
-- **Net Worth:** Rs 385.71 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 80.37 Crore
+- **Liabilities:** Rs 55.24 Crore
+- **Net Worth:** Rs 25.13 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.3%
 
 ---
 
@@ -93,7 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -102,35 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Dhanorkar shows mixed transparency performance with moderate scores in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, public accessibility, and legislative activity reporting. The relatively low data confidence of 37% and multiple validation flags suggest incomplete or inconsistent information disclosure across key transparency metrics.
+Dhanorkar Pratibha Suresh shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dhanorkar Pratibha Suresh
-
-### Overall Assessment
-Dhanorkar Pratibha Suresh, the 57-year-old Indian National Congress MP from Chandrapur, Maharashtra, presents a mixed transparency profile with notable gaps in key accountability metrics. While maintaining satisfactory parliamentary attendance (80%), significant data limitations across MPLADS utilization, committee participation, and legislative effectiveness hamper comprehensive evaluation of her performance as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, or expenditures, making it impossible to assess her development work effectiveness. This represents a critical transparency gap given MPLADS' importance for constituency development. CAG audit findings highlight systemic concerns in Maharashtra's fund utilization: Rs 1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level issues underscore the importance of transparent MPLADS reporting, which is currently missing for this MP.
-
-### Financial Transparency
-With total assets worth Rs 593.05 crore and net worth of Rs 385.71 crore, Dhanorkar ranks among the wealthiest MPs. However, the absence of previous asset data prevents growth analysis, limiting assessment of wealth accumulation patterns during her tenure. Her monthly compensation of Rs 2.45 lakh appears standard. The substantial asset base requires enhanced scrutiny given the lack of historical comparison data.
-
-### Legal & Criminal Standing
-The MP faces 4 pending criminal cases with no convictions or disposed cases to date. While none are classified as serious offenses, the cases span multiple jurisdictions (Bangalore, Kanakapura Taluk in Ramanagara District, and Ramanagara), suggesting geographically dispersed legal issues. The lack of detailed case descriptions or section information prevents proper assessment of the charges' nature and potential impact on her public service capacity.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 80% attendance rate and active participation through 19 questions and 6 debates. However, she has introduced no private member bills, indicating limited legislative initiative. The absence of committee membership data represents a significant information gap, as committee work forms a crucial component of parliamentary effectiveness and policy development.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment, suggesting limited public discourse around her work. The absence of positive or negative coverage indicates either low visibility or balanced reporting. Social media and accessibility data remain insufficient for comprehensive evaluation of constituent engagement. This neutral media profile may reflect either effective non-controversial governance or limited public engagement.
-
-### Data Quality & Caveats
-Data quality varies significantly across metrics, with evidence grades ranging from B (criminal records, assets) to D (accessibility). Critical limitations include: complete absence of MPLADS data despite its importance for constituency development; missing committee membership information affecting parliamentary assessment; low confidence in legislative effectiveness metrics; and incomplete criminal case descriptions hindering proper legal evaluation. These gaps substantially limit comprehensive transparency assessment.
-
-### Key Takeaway
-While Dhanorkar maintains basic parliamentary attendance and faces manageable legal challenges, significant transparency deficits in MPLADS utilization, committee participation, and asset growth tracking prevent full accountability assessment. Her substantial wealth requires enhanced monitoring, and the complete absence of development fund data raises serious questions about constituency service transparency. Improved data disclosure across all accountability metrics is essential for meaningful public oversight.
+No criminal cases declared. Declared assets: Rs 803,722,094. MPLADS utilization: 5.3%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 6. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +140,7 @@ While Dhanorkar maintains basic parliamentary attendance and faces manageable le
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dhanorkar Pratibha Suresh's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

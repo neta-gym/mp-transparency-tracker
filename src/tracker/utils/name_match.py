@@ -60,8 +60,9 @@ def name_matches(a: str, b: str, min_confidence: float = 0.6) -> bool:
     Args:
         a: First name
         b: Second name
-        min_confidence: Minimum Jaccard-like overlap ratio (0.0-1.0).
-            Default 0.6 means 60% of the smaller token set must overlap.
+        min_confidence: Minimum overlap ratio (0.0-1.0).
+            Default 0.6 means 60% of the smaller token set must overlap,
+            and every token of the smaller set must appear in the larger.
 
     Returns:
         True if the names are considered a match.
@@ -80,13 +81,12 @@ def name_matches(a: str, b: str, min_confidence: float = 0.6) -> bool:
 
     overlap = a_tokens & b_tokens
     min_len = min(len(a_tokens), len(b_tokens))
+    ratio = len(overlap) / min_len
 
-    if min_len == 0:
+    if ratio < min_confidence:
         return False
 
-    # Require at least 2 tokens to overlap, or all tokens if one name has only 1 token
-    if min_len == 1:
-        return len(overlap) >= 1 and overlap == a_tokens or overlap == b_tokens
-
-    ratio = len(overlap) / min_len
-    return ratio >= min_confidence
+    # Require the smaller token set to be fully contained in the larger one.
+    # A bare ratio is not enough: distinct MPs share common name tokens
+    # ("Kali Charan Munda" vs "Kali Charan Singh" overlap on 2 of 3 tokens).
+    return overlap in (a_tokens, b_tokens)

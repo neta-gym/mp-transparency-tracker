@@ -33,7 +33,7 @@ export function ScoreRadar({ breakdown, compositeScore }: ScoreRadarProps) {
         <PolarGrid stroke="#1E293B" strokeWidth={2} />
         <PolarAngleAxis
           dataKey="subject"
-          tick={{ fill: "#1E293B", fontSize: 12, fontWeight: 700, fontFamily: "'Space Grotesk', sans-serif" }}
+          tick={{ fill: "#1E293B", fontSize: 12, fontWeight: 700, fontFamily: "'JetBrains Mono', monospace" }}
         />
         <PolarRadiusAxis
           angle={90}

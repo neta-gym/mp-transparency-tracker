@@ -3,23 +3,23 @@
 **Constituency:** Sikar, Rajasthan
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 16.2 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 40.50 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 40.50 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.2%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Amra Ram shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) but significant weaknesses in committee participation (0%), legislative activities (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores, combined with reasonable attendance and participation rates, suggest basic compliance but limited proactive transparency efforts.
+Amra Ram shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Amra Ram
-
-### Overall Assessment
-Amra Ram, representing Sikar constituency in Rajasthan as a Communist Party of India (Marxist) MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating moderate parliamentary engagement, the absence of crucial financial data including assets and MPLADS utilization severely limits comprehensive assessment. His parliamentary attendance of 65% falls below optimal standards, though his participation in legislative activities shows some engagement.
-
-### Fund Utilization & Development
-Complete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) utilization prevents assessment of Amra Ram's development initiatives in Sikar. No information is available on entitled amounts, released funds, expenditure, or utilization percentages. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in fund management across Indian states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without MPLADS data, constituents cannot evaluate the MP's effectiveness in driving local development projects.
-
-### Financial Transparency
-Financial transparency is severely compromised with no asset declarations available for either current or previous periods. The absence of total assets, net worth, and growth ratio data makes it impossible to assess potential conflicts of interest or wealth accumulation patterns during tenure. This represents a significant transparency deficit, especially for a representative from a party historically emphasizing economic equality. Monthly compensation is documented at Rs 245,000, providing the only available financial reference point.
-
-### Legal & Criminal Standing
-Amra Ram maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality concerns are noted with warnings about low confidence in criminal record sources, suggesting potential data unavailability rather than confirmed clean status. Despite these caveats, the reported clean record aligns with expectations for effective public representation.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 65% attendance falling short of the ideal standard but indicating reasonable participation. Legislative activity includes 39 questions raised and participation in 11 debates, demonstrating active engagement with parliamentary procedures. However, zero private member bills introduced suggests limited legislative initiative. The absence of committee participation data (flagged as unavailable due to potential Sansad profile issues) prevents full assessment of his parliamentary contribution depth.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited but predominantly neutral public engagement, with 10 total articles comprising 9 neutral pieces, 1 negative, and zero positive coverage. This suggests minimal media presence and potentially limited public outreach or controversial positioning. The evidence grade of 'D' for accessibility indicates significant deficiencies in public engagement metrics. Social media presence appears minimal based on available sources, suggesting traditional rather than digital-first constituent communication approaches.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment's reliability. Critical warnings include low confidence in criminal record data, asset information unavailability, and MPLADS data gaps. Committee participation data is entirely missing due to potential Sansad profile unavailability. Evidence grades of 'C' for parliament and 'D' for accessibility reflect moderate to poor data quality. The CAG audit context provides relevant but general insights into systemic fund utilization issues rather than MP-specific findings. These limitations suggest either data collection challenges or transparency gaps requiring attention.
-
-### Key Takeaway
-Amra Ram's transparency profile is significantly hindered by data unavailability across crucial metrics including assets, MPLADS utilization, and committee participation. While maintaining a clean criminal record and moderate parliamentary engagement (65% attendance, 39 questions, 11 debates), the absence of financial transparency data prevents comprehensive accountability assessment. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Improved data availability and enhanced transparency measures would significantly strengthen constituent ability to evaluate his effectiveness as their representative in Parliament.
+No criminal cases declared. Declared assets: Rs 4,050,109. MPLADS utilization: 20.2%. Parliament attendance: 65.0%. Questions asked: 39. Debates participated: 11.
 
 ---
 
@@ -162,7 +136,7 @@ Amra Ram's transparency profile is significantly hindered by data unavailability
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amra Ram's MPLADS account: Released: Rs 17, Expended: Rs 3, Utilization: 20.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

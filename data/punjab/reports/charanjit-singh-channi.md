@@ -3,23 +3,25 @@
 **Constituency:** Jalandhar, Punjab
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 48.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 13.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.21 Crore
+- **Liabilities:** Rs 41.40 Lakh
+- **Net Worth:** Rs 9.80 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 16.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Charanjit Singh Channi shows a mixed transparency profile with some strengths and notable weaknesses. His criminal background appears clean (100% score), and he demonstrates moderate performance in MPLADS utilization and asset disclosure. However, significant concerns exist around poor attendance (25%), complete absence from committee participation, and minimal legislative activity, indicating limited active engagement in parliamentary duties.
+Charanjit Singh Channi has a below-average transparency score of 48.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-## Executive Summary: Charanjit Singh Channi
-
-### Overall Assessment
-Charanjit Singh Channi, Indian National Congress MP from Jalandhar, Punjab, presents a concerning transparency profile marked by significant data gaps and below-average parliamentary engagement. With 25% attendance and minimal legislative activity, his performance raises questions about effective constituency representation. The absence of critical financial and development fund data severely limits assessment of his accountability and effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This complete absence of development fund transparency is particularly concerning given CAG audit findings highlighting systemic issues in Punjab's fund management. The 2010 CAG audit (Report 31) revealed Rs 1,558 crore lying unspent across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess whether Channi's constituency benefits align with allocated development funds.
-
-### Financial Transparency
-Asset disclosure presents a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency severely undermines public accountability standards expected from elected representatives. The only available financial information is the standard monthly compensation of Rs 2.45 lakh, which provides no insight into personal wealth accumulation or potential conflicts of interest during his tenure.
-
-### Legal & Criminal Standing
-Channi maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, this positive indicator comes with a significant caveat: the data carries low confidence ratings, suggesting potential source unavailability that could affect accuracy. While the clean record appears favorable, the reliability concerns prevent definitive assessment of his legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows concerning patterns of limited effectiveness. With only 25% attendance, Channi falls significantly below expected participation standards for constituency representation. His legislative activity includes 35 questions raised and participation in 1 debate, but zero private bills introduced. This minimal legislative footprint suggests limited proactive policy engagement or constituency advocacy within parliamentary proceedings. The low attendance combined with restricted legislative activity indicates suboptimal utilization of parliamentary platforms for constituent benefit.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral tone - zero positive or negative coverage. This absence of polarized coverage could indicate either limited public visibility or unremarkable policy positions. However, the evidence grade for accessibility receives a 'D' rating, suggesting significant deficiencies in public engagement mechanisms. No committee participation data exists, further limiting assessment of his specialized policy contributions or stakeholder engagement beyond basic parliamentary functions.
-
-### Data Quality & Caveats
-Multiple critical data quality issues severely compromise this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is completely absent with low confidence ratings. MPLADS fund data is entirely missing, preventing development impact assessment. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data has low confidence ratings. These systematic data gaps, particularly affecting financial transparency and development fund utilization, represent significant limitations in accountability assessment.
-
-### Key Takeaway
-Charanjit Singh Channi's transparency profile is characterized by concerning data voids rather than demonstrable accountability. While maintaining a reportedly clean criminal record, his 25% parliamentary attendance and absence of critical financial disclosure data raise serious questions about representative effectiveness. The complete lack of MPLADS utilization information, combined with CAG audit findings highlighting systemic fund management issues in Punjab, prevents assessment of his development impact. Until comprehensive asset disclosure and development fund transparency are established, constituents lack essential information needed to evaluate their representative's performance and accountability standards.
+No criminal cases declared. Declared assets: Rs 102,119,804. MPLADS utilization: 16.3%. Parliament attendance: 25.0%. Questions asked: 35. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Charanjit Singh Channi's transparency profile is characterized by concerning dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Charanjit Singh Channi's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

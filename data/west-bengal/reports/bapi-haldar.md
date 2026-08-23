@@ -3,23 +3,25 @@
 **Constituency:** Mathurapur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 37
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 20.7 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 23,000
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 23,000
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 25.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,44 +94,11 @@
 
 ## Qualitative Assessment
 
-Bapi Haldar shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (85%), but significant weaknesses in legislative participation, committee involvement, and public accessibility. The moderate MPLADS and asset disclosure scores, combined with very low participation and accessibility ratings, suggest limited engagement with constituents and parliamentary processes.
+Bapi Haldar shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Bapi Haldar
-### Overall Assessment
-Bapi Haldar, representing Mathurapur constituency in West Bengal as an All India Trinamool Congress member, presents a mixed transparency profile with significant data gaps across key indicators. While maintaining clean criminal record and moderate parliamentary attendance (85%), the absence of critical financial and developmental data severely limits assessment of his effectiveness as an MP.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for assessment, including entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS is a primary vehicle for MP-driven local development. The lack of this fundamental data prevents evaluation of his developmental impact in Mathurapur constituency.
-
-CAG audit findings for West Bengal reveal systemic concerns that may affect his constituency: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues highlight potential challenges in effective fund utilization.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on current holdings, previous assets, growth ratios, or net worth. This absence of financial disclosure data represents a significant transparency deficit, preventing assessment of wealth accumulation patterns or potential conflicts of interest. The monthly compensation stands at Rs 2,45,000.
-
-### Legal & Criminal Standing
-Haldar maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, a warning flag indicates low confidence in criminal data due to potentially unavailable sources, suggesting this assessment may be incomplete.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 85% attendance rate, indicating regular participation in House proceedings. Legislative contribution appears limited with zero questions raised and zero private bills introduced. Participation in 4 debates demonstrates some engagement in parliamentary discussions, though the overall legislative effectiveness appears modest. No committee membership data is available, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversial issues. The evidence grade for accessibility rates 'D', indicating poor transparency in public engagement metrics. No committee data availability further limits assessment of his institutional accessibility and specialized work areas.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence due to potentially unavailable sources
-- Asset information is completely missing, preventing financial transparency evaluation
-- MPLADS data is unavailable despite being crucial for development assessment
-- Committee membership information is absent
-- Legislative effectiveness data has low confidence ratings
-- Parliament activity evidence grade is 'C', indicating moderate data quality
-
-These data gaps represent systematic transparency challenges that limit comprehensive performance evaluation.
-
-### Key Takeaway
-Bapi Haldar's transparency profile is characterized by significant data deficiencies across critical areas including financial assets, development fund utilization, and legislative effectiveness. While he maintains clean criminal record and moderate parliamentary attendance, the absence of MPLADS data, asset declarations, and committee information prevents meaningful assessment of his developmental impact and financial transparency. The neutral media coverage and poor accessibility rating suggest limited public engagement visibility. Systematic improvements in data disclosure and transparency mechanisms are essential for comprehensive performance evaluation.
+No criminal cases declared. Declared assets: Rs 23,000. MPLADS utilization: 25.9%. Parliament attendance: 85.0%. Debates participated: 4.
 
 ---
 
@@ -171,7 +138,7 @@ Bapi Haldar's transparency profile is characterized by significant data deficien
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bapi Haldar's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 25.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

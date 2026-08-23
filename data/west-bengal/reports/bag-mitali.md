@@ -3,23 +3,25 @@
 **Constituency:** Arambag, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 25.5 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.85 Lakh
+- **Liabilities:** Rs 4.31 Lakh
+- **Net Worth:** Rs 3.54 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,47 +94,11 @@
 
 ## Qualitative Assessment
 
-Bag Mitali shows a mixed transparency profile with significant areas of concern. While maintaining perfect criminal record disclosure and good attendance, she scores poorly in public engagement aspects with zero committee participation and minimal accessibility. The low data confidence of 14% with multiple validation flags suggests incomplete information availability.
+Bag Mitali shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bag Mitali
-
-### Overall Assessment
-Bag Mitali, representing Arambag constituency in West Bengal for the All India Trinamool Congress, presents a transparency profile with significant data gaps that limit comprehensive evaluation. With clean criminal record data and moderate parliamentary attendance (80%), the MP demonstrates basic legislative engagement, though detailed financial and development metrics remain unavailable for meaningful assessment.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled, released, or expended amounts. This data gap is particularly concerning given the CAG audit context for West Bengal, which highlights systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Bag Mitali's constituency, it's impossible to assess local development impact or fund management effectiveness.
-
-The CAG findings reveal broader governance challenges in West Bengal, including 18% of sampled development works being abandoned or incomplete. These systemic issues underscore the importance of transparent fund tracking, making the absence of MPLADS data for this MP particularly problematic for accountability assessment.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, or growth patterns. This represents a significant transparency gap, as asset disclosure is fundamental to assessing potential conflicts of interest and wealth accumulation patterns. The MP's monthly compensation is reported at Rs 2.45 lakh, consistent with standard parliamentary remuneration.
-
-The absence of asset data prevents evaluation of financial growth trends or comparison with constituency development metrics, limiting stakeholder ability to assess potential correlations between personal wealth and public service effectiveness.
-
-### Legal & Criminal Standing
-Available data indicates zero criminal cases across all categories (total, serious, pending, disposed, and convictions), suggesting a clean legal record. However, this finding comes with a critical caveat: the automated analysis flags low confidence in criminal data due to potentially unavailable sources. This uncertainty undermines the reliability of what appears to be positive information.
-
-The warning about criminal record confidence levels suggests that the clean record may reflect data collection limitations rather than verified absence of legal issues, requiring additional verification through alternative sources.
-
-### Parliamentary Performance
-Bag Mitali demonstrates moderate parliamentary engagement with 80% attendance, indicating reasonable commitment to legislative sessions. However, the MP's substantive contribution appears limited, with zero questions raised and no private bills introduced during the measured period. Five debate participations suggest some level of floor engagement, though this represents relatively modest legislative activism.
-
-The evidence grade of 'C' for parliamentary data suggests moderate confidence in these metrics, though the low number of questions and private bills may indicate either limited policy initiative or gaps in data capture systems.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (no positive or negative coverage), suggesting limited public visibility or controversial positioning. This neutral profile may indicate either effective constituency management without major incidents or insufficient media engagement for meaningful public discourse.
-
-The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement metrics, social media presence, or direct constituent interaction channels. This low grade significantly limits assessment of the MP's responsiveness to constituent needs and transparency in communication.
-
-### Data Quality & Caveats
-Multiple automated flags highlight substantial data quality concerns. Critical warnings include low confidence in criminal record and asset data, while MPLADS information is entirely unavailable. The absence of committee data due to potentially unavailable Sansad profiles further compounds transparency limitations.
-
-Evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate significant reliability concerns. The CAG audit context provides valuable systemic insights for West Bengal but cannot substitute for MP-specific performance data. These limitations substantially constrain the ability to provide definitive assessments of transparency and effectiveness.
-
-### Key Takeaway
-Bag Mitali's transparency profile is characterized more by data unavailability than substantive transparency concerns, though this itself represents a significant accountability challenge. While available indicators suggest clean legal standing and moderate parliamentary engagement, the absence of critical financial and development data prevents comprehensive evaluation. The systematic data gaps, combined with concerning CAG audit findings about fund management in West Bengal, highlight the urgent need for improved transparency infrastructure and data collection mechanisms to enable meaningful public oversight of elected representatives.
+No criminal cases declared. Declared assets: Rs 784,955. MPLADS utilization: 31.8%. Parliament attendance: 80.0%. Debates participated: 5.
 
 ---
 
@@ -174,7 +138,7 @@ Bag Mitali's transparency profile is characterized more by data unavailability t
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -253,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bag Mitali's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -270,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

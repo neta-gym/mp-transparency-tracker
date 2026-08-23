@@ -3,23 +3,25 @@
 **Constituency:** Raiganj, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 10.3 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.08 Crore
+- **Liabilities:** Rs 2.68 Crore
+- **Net Worth:** Rs 2.40 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 20
+- **Released:** Rs 20
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 3
+- **Utilization Rate:** 12.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Kartick Chandra Paul shows a mixed transparency profile with strong performance in attendance and criminal record disclosure, but significant gaps in legislative work, committee participation, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information, making this assessment preliminary.
+Kartick Chandra Paul shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Kartick Chandra Paul
-
-### Overall Assessment
-Kartick Chandra Paul, BJP MP from Raiganj constituency in West Bengal, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and perfect parliamentary attendance, the absence of crucial financial data severely constrains a comprehensive assessment of his public service effectiveness.
-
-### Fund Utilization & Development
-MPLADS data for MP Paul is unavailable, preventing analysis of his development fund utilization. This is particularly concerning given the CAG audit context for West Bengal, which reveals systemic issues in fund management. The CAG's 2010 report (31 of 2010) identified Rs 1,558 crore lying unspent in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Paul, it's impossible to assess whether his constituency development initiatives align with or deviate from these concerning state-level patterns.
-
-### Financial Transparency
-Asset declaration data is completely unavailable for MP Paul, representing a critical transparency gap. The absence of information on total assets, previous holdings, growth ratios, and net worth prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. His monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-MP Paul maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, suggesting the source information may be incomplete or unavailable.
-
-### Parliamentary Performance
-Paul demonstrates strong attendance with a perfect 100% parliamentary participation rate, indicating commitment to his legislative duties. His substantive parliamentary engagement is limited, with only 1 question raised and 1 debate participation recorded, suggesting minimal active contribution to legislative discussions. No private member bills have been introduced, and committee participation data is unavailable, further limiting assessment of his legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. The low volume of coverage and neutral sentiment indicate either measured public engagement or insufficient media attention to his activities. The evidence grade for accessibility is 'D', highlighting significant limitations in public engagement data.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations. Criminal record data has low confidence warnings due to potentially unavailable sources. Asset information is entirely missing, preventing financial transparency evaluation. MPLADS utilization data is unavailable, eliminating assessment of development fund management. Committee participation information is absent, likely due to unavailable Sansad profile data. Parliamentary performance data receives a 'C' evidence grade, while accessibility data receives a 'D' grade, indicating significant analytical constraints.
-
-### Key Takeaway
-Kartick Chandra Paul presents a profile with limited transparency due to extensive data unavailability across critical assessment areas. While his perfect parliamentary attendance and clean criminal record are positive indicators, the absence of asset declarations and MPLADS utilization data, combined with minimal legislative activity, prevents a comprehensive evaluation of his effectiveness as a public representative. The systemic fund management issues identified in West Bengal's CAG audits underscore the importance of transparent MPLADS reporting, making the unavailability of this data particularly concerning for constituency accountability.
+No criminal cases declared. Declared assets: Rs 50,832,860. MPLADS utilization: 12.9%. Parliament attendance: 100.0%. Questions asked: 1. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Kartick Chandra Paul presents a profile with limited transparency due to extensi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kartick Chandra Paul's MPLADS account: Released: Rs 20, Expended: Rs 3, Utilization: 12.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

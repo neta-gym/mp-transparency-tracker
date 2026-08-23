@@ -3,22 +3,24 @@
 **Constituency:** Tiruvannamalai, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 67.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 45.8 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 20.37 Crore
+- **Liabilities:** Rs 1.92 Crore
+- **Net Worth:** Rs 18.45 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 53.8%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -102,35 +102,11 @@
 
 ## Qualitative Assessment
 
-C N Annadurai demonstrates a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary participation (90%), but significant weaknesses in committee engagement (0%) and public accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with concerning data confidence levels, suggest room for improvement in overall transparency practices.
+C N Annadurai shows moderate transparency with a score of 67.4/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-## Executive Summary: C N Annadurai
-
-### Overall Assessment
-C N Annadurai, representing Tiruvannamalai constituency in Tamil Nadu under the Dravida Munnetra Kazhagam (DMK) party, demonstrates a mixed transparency profile with moderate parliamentary engagement but significant data gaps across key accountability metrics. His 70% attendance rate and active questioning behavior indicate reasonable parliamentary participation, though several transparency indicators remain unavailable for comprehensive assessment.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of C N Annadurai's development effectiveness. The absence of data on entitled funds, releases, expenditure, and utilization percentages raises transparency concerns. This data gap is particularly significant given CAG audit findings highlighting systemic issues in Tamil Nadu's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine whether these state-level inefficiencies affect the MP's constituency development efforts.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth calculations. This represents a critical transparency gap that prevents public scrutiny of potential conflicts of interest or unexplained wealth accumulation. The MP's monthly compensation is documented at ₹2,45,000, providing the only available financial data point. The absence of asset information significantly undermines financial accountability assessment.
-
-### Legal & Criminal Standing
-C N Annadurai maintains a clean legal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning due to potential source unavailability, suggesting the clean record may reflect data gaps rather than verified absence of legal issues. While the reported clean slate is positive, the data quality caveat prevents definitive assessment of his legal standing.
-
-### Parliamentary Performance
-The MP demonstrates active parliamentary engagement with 70% attendance, positioning him as reasonably committed to legislative duties. His participation includes 73 questions raised, indicating engagement with policy issues and constituency concerns. He contributed to 17 debates, showing involvement in parliamentary discussions, and introduced 3 private member bills, demonstrating legislative initiative. However, he recorded zero interventions during zero hour and no special mentions, suggesting limited use of these parliamentary tools for raising urgent constituency issues.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 10 news articles identified, all categorized as neutral coverage. The absence of positive or negative coverage suggests either limited media attention or a deliberately low-profile approach. No social media engagement data or direct accessibility measures are available. Committee participation data is unavailable due to potential Sansad profile issues, preventing assessment of his specialized legislative work. The overall evidence grade for accessibility is rated 'D', indicating poor transparency in public communication channels.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality warnings. Criminal record data carries low confidence warnings, asset information is entirely missing, MPLADS utilization data is unavailable, and committee participation cannot be verified. Legislative effectiveness data has low confidence ratings, and no accessibility metrics beyond basic news coverage are available. These data gaps substantially limit the comprehensiveness of this transparency assessment and suggest potential issues with information disclosure systems or MP cooperation with transparency requirements.
-
-### Key Takeaway
-While C N Annadurai demonstrates reasonable parliamentary attendance and questioning activity, critical transparency gaps in asset disclosure, MPLADS utilization, and public engagement severely limit accountability assessment. The clean legal record and moderate parliamentary participation provide some positive indicators, but the extensive unavailability of financial and development data raises concerns about overall transparency compliance. Voters lack sufficient information to comprehensively evaluate his performance across key accountability dimensions.
+No criminal cases declared. Declared assets: Rs 203,686,311. MPLADS utilization: 53.8%. Parliament attendance: 70.0%. Questions asked: 73. Debates participated: 17.
 
 ---
 
@@ -170,7 +146,7 @@ While C N Annadurai demonstrates reasonable parliamentary attendance and questio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for C N Annadurai's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 53.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

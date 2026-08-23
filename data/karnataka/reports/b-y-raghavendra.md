@@ -3,32 +3,34 @@
 **Constituency:** Shimoga, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 33.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 73.71 Crore
+- **Liabilities:** Rs 13.61 Crore
+- **Net Worth:** Rs 60.10 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 6
+- **Utilization Rate:** 41.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,48 +94,11 @@
 
 ## Qualitative Assessment
 
-B Y Raghavendra shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (80%), but significant weaknesses in committee participation (0%), legislative contributions (0%), and public accessibility (10%). The moderate MPLADS, assets, and participation scores suggest room for improvement in key transparency areas.
+B Y Raghavendra shows moderate transparency with a score of 56.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: B Y Raghavendra
-
-### Overall Assessment
-B Y Raghavendra, BJP MP from Shimoga, Karnataka, presents a limited transparency profile with significant data gaps across most assessment categories. While maintaining clean criminal records and decent parliamentary attendance (80%), the absence of critical financial and developmental data severely constrains comprehensive evaluation of his performance as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given the ₹5 crore annual MPLADS allocation per MP. The absence of utilization metrics prevents assessment of developmental impact in Shimoga constituency.
-
-Karnataka faces systemic MPLADS implementation challenges highlighted in CAG audits, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, raising concerns about effective fund deployment at the state level.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no current or previous asset valuations available. This prevents analysis of wealth accumulation patterns or potential conflicts of interest. The MP receives standard parliamentary compensation of ₹2.45 lakh monthly, but without asset declarations, comprehensive financial transparency assessment is impossible.
-
-### Legal & Criminal Standing
-Raghavendra maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance rate, indicating reasonable participation in House proceedings. Legislative activity remains limited with 21 questions raised, 2 debate participations, and no private member bills introduced. No committee assignment data is available, limiting assessment of specialized parliamentary contributions.
-
-The evidence grade for parliamentary performance is rated 'C', suggesting moderate reliability but potential data gaps in comprehensive activity tracking.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely constrained by data limitations. News coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited media visibility or public discourse engagement. Social media presence and constituent accessibility metrics are not available.
-
-Accessibility evidence grade is rated 'D', indicating poor data availability for meaningful assessment of public engagement effectiveness.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record data has low source confidence
-- Asset information is entirely missing with low confidence ratings
-- MPLADS data is unavailable despite being critical for MP performance assessment
-- Committee participation data is missing due to potential Sansad profile unavailability
-- Legislative effectiveness assessment has low confidence levels
-
-Evidence grades range from 'C' for parliamentary data to 'D' for accessibility metrics, indicating substantial data quality concerns across assessment categories.
-
-### Key Takeaway
-B Y Raghavendra's transparency profile is characterized by clean criminal records and adequate parliamentary attendance but is severely undermined by missing critical financial and developmental data. The absence of asset disclosures and MPLADS utilization information prevents meaningful assessment of fiscal responsibility and constituency development impact. While maintaining basic parliamentary participation, the lack of comprehensive transparency data raises concerns about accountability standards and public access to performance metrics. Enhanced data collection and disclosure mechanisms are essential for enabling informed citizen evaluation of his representation effectiveness in Shimoga constituency.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 737,145,310. MPLADS utilization: 41.7%. Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 2.
 
 ---
 
@@ -175,7 +138,7 @@ B Y Raghavendra's transparency profile is characterized by clean criminal record
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -254,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for B Y Raghavendra's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -271,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

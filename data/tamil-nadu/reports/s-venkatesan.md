@@ -3,32 +3,34 @@
 **Constituency:** Madurai, Tamil Nadu
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 46.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 15.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 2.05 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 18% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 19.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-S Venkatesan demonstrates a mixed transparency profile with significant gaps in public engagement and legislative activity. While maintaining a clean criminal record and reasonable participation levels, the MP shows concerning weaknesses in committee involvement, public accessibility, and legislative contributions, resulting in a below-average overall transparency score.
+S Venkatesan has a below-average transparency score of 46.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: S Venkatesan
-
-### Overall Assessment
-S Venkatesan, representing Madurai constituency for the Communist Party of India (Marxist), presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. With a clean criminal record and moderate parliamentary attendance of 55%, his profile shows both strengths and areas requiring improvement in transparency and public engagement.
-
-### Fund Utilization & Development
-Complete data unavailability marks the most concerning aspect of Venkatesan's transparency profile. No MPLADS (Member of Parliament Local Area Development Scheme) data is available regarding entitlement, release, expenditure, or utilization rates. This absence of fund utilization information coincides with significant CAG audit findings for Tamil Nadu, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documentation. Without specific MPLADS data, it's impossible to assess whether these systemic issues affect his constituency development work.
-
-### Financial Transparency
-Asset disclosure transparency is severely compromised with no current or previous asset information available. Total assets, growth ratios, and net worth data are entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. The monthly compensation of Rs 245,000 is documented, but this represents only basic salary information without comprehensive financial disclosure.
-
-### Legal & Criminal Standing
-Venkatesan maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential source unavailability that could affect accuracy.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with a 55% attendance rate, falling short of optimal legislative participation. Venkatesan has raised 44 questions and participated in 5 debates, indicating moderate engagement in legislative discourse. No private member bills have been introduced, and no committee participation data is available due to potential Sansad profile unavailability. The evidence grade for parliamentary activity is rated 'C', suggesting room for improvement in legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles (9 neutral, 1 negative, 0 positive), suggesting limited proactive public communication or significant policy initiatives gaining media attention. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent communication and transparency. No social media engagement metrics are provided despite social media being listed as a data source.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to widespread data unavailability across critical transparency indicators. Key caveats include:
-- Low confidence warnings for criminal record, asset disclosure, and MPLADS data
-- Missing committee participation information
-- Unavailable legislative effectiveness metrics
-- Limited accessibility and public engagement data
-- Evidence grades of 'C' for parliament activity and 'D' for accessibility
-
-These data gaps significantly limit the reliability of this transparency assessment and suggest systemic issues with information disclosure or data collection mechanisms.
-
-### Key Takeaway
-S Venkatesan's transparency profile is severely hindered by comprehensive data unavailability across most key indicators, making meaningful assessment challenging. While maintaining a clean criminal record and moderate parliamentary participation, the absence of financial disclosure, MPLADS utilization data, and limited public engagement suggest significant transparency deficits. The concerning lack of fund utilization information, particularly given Tamil Nadu's documented MPLADS implementation issues, warrants immediate attention to ensure constituent development work transparency and accountability.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 20,536,639. MPLADS utilization: 19.0%. Parliament attendance: 55.0%. Questions asked: 44. Debates participated: 5.
 
 ---
 
@@ -169,7 +138,7 @@ S Venkatesan's transparency profile is severely hindered by comprehensive data u
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for S Venkatesan's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 19.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

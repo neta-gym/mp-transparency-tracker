@@ -3,23 +3,25 @@
 **Constituency:** Gwalior, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 52.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.88 Crore
+- **Liabilities:** Rs 62.76 Lakh
+- **Net Worth:** Rs 2.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 25% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Bharat Singh Kushwah demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative contributions, and public accessibility. The MP's MPLADS and asset disclosure scores are moderate, while the extremely low data confidence (14%) and high validation flags (6) suggest substantial gaps in available information that limit comprehensive evaluation.
+Bharat Singh Kushwah shows moderate transparency with a score of 52.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bharat Singh Kushwah
-
-### Overall Assessment
-Bharat Singh Kushwah, BJP MP from Gwalior constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps across multiple domains. While maintaining a clean criminal record and reasonable parliamentary attendance (85%), comprehensive assessment is hindered by missing asset declarations and MPLADS utilization data. The available evidence suggests moderate parliamentary engagement but raises concerns about financial transparency reporting.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper supporting documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about effective project implementation in the state.
-
-### Financial Transparency
-Asset disclosure information is completely missing, preventing any analysis of wealth declaration or growth patterns. No data is available for current assets, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data represents a significant gap in accountability metrics. The MP receives Rs 2,45,000 in monthly compensation as per standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Kushwah maintains a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings due to potential source unavailability, as indicated by automated system warnings. While the clean record is positive, the data quality concerns require acknowledgment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 85% attendance, demonstrating reasonable commitment to legislative duties. However, participation in parliamentary processes appears limited with only 12 questions raised and 1 debate contribution during the assessment period. No private member bills were introduced, suggesting minimal legislative initiative. Committee participation data is unavailable, preventing full evaluation of parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles identified, all categorized as neutral in sentiment—no positive or negative coverage detected. This suggests limited public visibility or controversial positioning. No evidence of significant public accessibility initiatives or citizen engagement programs is available in the current data. Accessibility metrics receive a 'D' grade, indicating poor performance in this domain.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Low confidence in criminal record data due to source unavailability
-- Missing asset declarations raise transparency concerns
-- Absent MPLADS utilization data prevents development assessment
-- No committee participation information available
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grading shows 'C' for parliament-related data and 'D' for accessibility metrics. Data sources include parliamentary records (PRS), social media monitoring, and news coverage analysis. The MP's Sansad profile appears unavailable, limiting comprehensive evaluation.
-
-### Key Takeaway
-Bharat Singh Kushwah's transparency profile is significantly hampered by missing critical data across financial disclosures and development fund utilization. While maintaining clean criminal records and adequate parliamentary attendance, the absence of asset declarations and MPLADS data raises transparency concerns. The neutral media coverage and limited parliamentary participation suggest a low-profile approach to representation. Voters should seek additional information on constituency development activities and financial disclosures to make informed assessments of the MP's performance and accountability.
+No criminal cases declared. Declared assets: Rs 28,809,530. MPLADS utilization: 4.0%. Parliament attendance: 85.0%. Questions asked: 12. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ Bharat Singh Kushwah's transparency profile is significantly hampered by missing
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bharat Singh Kushwah's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

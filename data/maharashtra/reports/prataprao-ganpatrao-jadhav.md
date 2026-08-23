@@ -3,32 +3,34 @@
 **Constituency:** Buldhana, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 44.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 0.7 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 16.43 Crore
+- **Liabilities:** Rs 14.67 Lakh
+- **Net Worth:** Rs 16.28 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 69% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.8%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-Prataprao Ganpatrao Jadhav shows a mixed transparency profile with notable strengths in maintaining a clean criminal record but significant weaknesses in legislative engagement and public accessibility. His performance across most metrics remains at moderate levels, though complete absence of committee participation and legislative contributions raises concerns about parliamentary effectiveness.
+Prataprao Ganpatrao Jadhav has a below-average transparency score of 44.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Prataprao Ganpatrao Jadhav
-
-### Overall Assessment
-Prataprao Ganpatrao Jadhav, Shiv Sena MP representing Buldhana constituency in Maharashtra, presents a limited transparency profile due to significant data gaps across most performance indicators. The available information shows a clean criminal record but lacks substantive data on parliamentary activity, asset declarations, and development fund utilization. Evidence quality is concerning, with grades of 'C' for parliamentary data and 'D' for accessibility.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Maharashtra's fund management. The audit revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MP-specific data, constituents cannot assess how effectively Jadhav has utilized development funds for Buldhana.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of potential conflicts of interest or unexplained wealth accumulation. The MP receives monthly compensation of ₹2.45 lakh, but the absence of asset disclosure data makes it impossible to evaluate overall financial standing or compliance with declaration requirements.
-
-### Legal & Criminal Standing
-Jadhav maintains a clean legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, the system flags low confidence in this criminal data due to potentially unavailable sources. While the reported clean record is positive, the data quality caveat suggests this information should be verified through additional sources.
-
-### Parliamentary Performance
-Parliamentary activity data is critically limited, showing zero questions asked, zero debate participations, and zero private bills introduced. Attendance percentage is not available. The MP holds ministerial position, which may explain lower traditional parliamentary metrics as ministers typically focus on executive duties rather than backbench activities like question hour participation. However, the complete absence of measurable parliamentary engagement data raises concerns about legislative effectiveness and constituent representation.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 10 news articles with neutral sentiment (no positive or negative coverage identified). This suggests limited media visibility or engagement with public discourse. No committee participation data is available, indicating either non-participation in parliamentary committees or data unavailability from Sansad profiles. Social media and accessibility metrics are not provided, limiting assessment of direct constituent engagement efforts.
-
-### Data Quality & Caveats
-The transparency profile suffers from significant data quality issues. Automated flags indicate low confidence across criminal records, assets, MPLADS utilization, and parliamentary activity. Committee and legislative effectiveness data are entirely absent. The evidence grading system rates parliament data as 'C' and accessibility as 'D', suggesting substantial reliability concerns. Sources include PRS Legislative Research, social media, and news monitoring, but key government databases appear inaccessible or incomplete.
-
-### Key Takeaway
-Prataprao Ganpatrao Jadhav's transparency profile is severely hampered by data unavailability across critical performance indicators. While maintaining a clean criminal record, the MP shows minimal measurable parliamentary engagement and complete transparency gaps in asset declarations and development fund utilization. The systemic fund management issues highlighted in CAG audits for Maharashtra make the absence of MPLADS data particularly concerning for constituents seeking accountability. Voters in Buldhana lack sufficient information to assess their representative's effectiveness, highlighting the need for improved data disclosure and parliamentary engagement tracking systems.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 164,260,448. MPLADS utilization: 0.8%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ Prataprao Ganpatrao Jadhav's transparency profile is severely hampered by data u
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Prataprao Ganpatrao Jadhav's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

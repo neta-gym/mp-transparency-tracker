@@ -3,32 +3,34 @@
 **Constituency:** Lohardaga, Jharkhand
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 69.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 76.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.47 Crore
+- **Liabilities:** Rs 1.24 Crore
+- **Net Worth:** Rs 1.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 14
+- **Expended:** Rs 13
+- **Utilization Rate:** 76.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Sukhdeo Bhagat demonstrates mixed transparency with strong attendance and clean criminal record, but significant weaknesses in legislative participation and committee work. His MPLADS and asset disclosure scores are mediocre, while accessibility to constituents appears severely limited.
+Sukhdeo Bhagat shows moderate transparency with a score of 69.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sukhdeo Bhagat
-
-### Overall Assessment
-
-Sukhdeo Bhagat, representing Lohardaga constituency in Jharkhand for the Indian National Congress, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating excellent attendance in the Lok Sabha at 100%, the MP's overall transparency assessment is limited by incomplete financial and developmental data, earning evidence grades of 'C' for parliament activity and 'D' for accessibility.
-
-### Fund Utilization & Development
-
-Critical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) data for MP Bhagat, with no information available on entitled amounts, funds released, or expenditure patterns. This data unavailability is concerning given CAG audit findings from 2010 that identified systemic issues in Jharkhand's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. The audit also revealed that 18% of sampled development works were abandoned or incomplete, highlighting the importance of transparent fund tracking that remains absent in Bhagat's case.
-
-### Financial Transparency
-
-Asset declaration data is entirely unavailable for MP Bhagat, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and financial propriety. The MP's monthly compensation is recorded at Rs 245,000, consistent with standard parliamentary remuneration, but the absence of asset data prevents any meaningful analysis of financial transparency or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-
-MP Bhagat maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, the data carries a warning flag indicating "low confidence in criminal data" due to potential source unavailability, suggesting this clean record should be interpreted cautiously given possible data collection limitations.
-
-### Parliamentary Performance
-
-Bhagat demonstrates strong engagement in core parliamentary functions with 100% attendance, significantly above typical parliamentary averages. The MP has raised 31 questions and participated in 7 debates during the term, indicating active involvement in legislative discussions and constituency representation. However, no private member's bills have been introduced, and committee participation data is unavailable due to inaccessible Sansad profile information, limiting the complete assessment of legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 news articles identified - all categorized as neutral with zero positive or negative coverage. This neutral media presence suggests limited public visibility or controversial incidents. However, the 'D' grade for accessibility indicates significant challenges in public engagement metrics, though specific details on digital presence, constituency outreach, or public interaction frequency are not available in the provided data.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly impact this assessment's reliability. The analysis flags low confidence in criminal records, assets, and MPLADS data due to source availability issues. Additionally, committee participation and legislative effectiveness data carry low confidence ratings. The absence of comprehensive asset declarations and development fund utilization data represents critical transparency gaps. These limitations mean the assessment relies heavily on parliamentary attendance and limited media coverage data, potentially understating or misrepresenting the MP's actual performance and transparency levels.
-
-### Key Takeaway
-
-While MP Sukhdeo Bhagat demonstrates exemplary parliamentary attendance at 100% and maintains a clean criminal record, significant data gaps across financial transparency, development fund utilization, and public engagement metrics prevent a comprehensive transparency assessment. The unavailability of asset declarations and MPLADS data, combined with neutral-to-limited media coverage, suggests either inadequate transparency practices or systemic data collection challenges. Given CAG audit findings of widespread fund management issues in Jharkhand, the absence of clear MPLADS tracking represents a particular concern for developmental accountability in the Lohardaga constituency.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 24,688,449. MPLADS utilization: 76.3%. Parliament attendance: 100.0%. Questions asked: 31. Debates participated: 7.
 
 ---
 
@@ -170,7 +138,7 @@ While MP Sukhdeo Bhagat demonstrates exemplary parliamentary attendance at 100% 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sukhdeo Bhagat's MPLADS account: Released: Rs 17, Expended: Rs 13, Utilization: 76.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

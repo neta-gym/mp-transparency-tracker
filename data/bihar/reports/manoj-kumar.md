@@ -3,32 +3,34 @@
 **Constituency:** Sasaram, Bihar
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 40
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 59.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 42.8 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.25 Crore
+- **Liabilities:** Rs 24.00 Lakh
+- **Net Worth:** Rs 3.01 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 27% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 51.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Manoj Kumar shows a mixed transparency profile with strong attendance (95%) and clean criminal record (100%) but significant weaknesses in legislative participation (0%) and committee involvement (0%). The moderate MPLADS and assets disclosure scores suggest basic compliance, while very low accessibility (10%) indicates limited public engagement.
+Manoj Kumar shows moderate transparency with a score of 59.6/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-## Executive Summary: Manoj Kumar
-
-### Overall Assessment
-Manoj Kumar, representing Sasaram constituency in Bihar under the Indian National Congress banner, presents a profile with significant data gaps that limit comprehensive assessment. While maintaining good parliamentary attendance at 95%, the absence of critical financial and development data raises transparency concerns. The MP's profile reflects common challenges in constituency-level data availability for smaller parliamentary seats.
-
-### Fund Utilization & Development
-Complete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) funding presents a major transparency gap. No information exists on entitled amounts, releases, expenditure, or utilization rates. This data void is particularly concerning given CAG audit findings revealing systemic MPLADS issues in Bihar, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, assessing developmental impact in Sasaram constituency remains impossible.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, preventing any analysis of the MP's financial standing or potential conflicts of interest. No data exists on total assets, previous declarations, growth patterns, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory under electoral law. The monthly compensation figure of ₹2.45 lakh appears standard for Lok Sabha members but cannot be contextualized without asset baselines.
-
-### Legal & Criminal Standing
-Manoj Kumar maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, data confidence remains low due to source unavailability concerns flagged in the automated review. While this appears positive, the warning about criminal data reliability suggests verification challenges that could affect accuracy.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 95% attendance demonstrating strong commitment to House proceedings. However, legislative activity remains minimal with only 3 questions raised, 3 debate participations, and zero private member bills introduced. This limited parliamentary output suggests potential underutilization of legislative opportunities available to MPs for constituency representation and policy advocacy.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment—no positive or negative coverage identified. This neutral media profile, while avoiding controversy, may indicate limited public visibility or impact. The absence of committee assignments (flagged due to unavailable Sansad profile) further suggests reduced institutional engagement opportunities. Evidence grade 'D' for accessibility indicates significant challenges in public information availability.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight substantial data reliability concerns. Criminal record data carries low confidence due to source unavailability. Asset information shows similar reliability issues. MPLADS data is entirely missing, preventing development impact assessment. The absence of committee information due to Sansad profile unavailability limits understanding of the MP's institutional roles. Evidence grades of 'C' for parliament data and 'D' for accessibility reflect these data quality challenges.
-
-### Key Takeaway
-Manoj Kumar's transparency profile suffers from critical data gaps across financial, developmental, and institutional metrics, though maintaining basic parliamentary attendance requirements. The absence of MPLADS and asset data, combined with minimal legislative activity despite clean criminal standing, suggests a low-visibility parliamentary tenure. Improved data availability and increased legislative engagement would enhance both transparency and constituency service effectiveness.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 32,491,416. MPLADS utilization: 51.8%. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Manoj Kumar's transparency profile suffers from critical data gaps across financ
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manoj Kumar's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

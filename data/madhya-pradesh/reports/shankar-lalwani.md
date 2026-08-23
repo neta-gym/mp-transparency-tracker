@@ -3,23 +3,23 @@
 **Constituency:** Indore, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 64.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.95 Crore
+- **Liabilities:** Rs 10.10 Lakh
+- **Net Worth:** Rs 1.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 44.6%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,50 +92,11 @@
 
 ## Qualitative Assessment
 
-Shankar Lalwani demonstrates mixed transparency with strong performance in attendance and criminal record disclosure, but significant gaps in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets transparency, combined with zero scores in key governance areas, suggests limited overall accountability to constituents.
+Shankar Lalwani shows moderate transparency with a score of 64.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Shankar Lalwani
-
-### Overall Assessment
-Shankar Lalwani, BJP MP from Indore, Madhya Pradesh, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating commitment to legislative duties with 100% attendance, the lack of available data on assets, MPLADS utilization, and committee participation raises transparency concerns. Evidence grades of 'C' for parliament activity and 'D' for accessibility indicate moderate to poor data availability.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs receive ₹5 crore annually for constituency development. The absence of this data prevents assessment of Lalwani's effectiveness in delivering development projects to Indore constituents.
-
-CAG audit findings highlight systemic issues in Madhya Pradesh's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level concerns underscore the importance of transparent MPLADS reporting, making the data absence more concerning.
-
-### Financial Transparency
-Asset declaration data is entirely missing, preventing any assessment of Lalwani's financial transparency or potential conflicts of interest. Without current or previous asset values, growth ratios, or net worth information, stakeholders cannot evaluate financial accountability. This represents a significant transparency deficit for an elected representative from a major commercial center like Indore.
-
-Monthly compensation is recorded at ₹2,45,000, providing the only available financial datapoint.
-
-### Legal & Criminal Standing
-Lalwani shows a clean criminal record with zero cases across all categories (total, serious, pending, disposed, convictions). However, automated flags indicate low confidence in this criminal data due to potential source unavailability, suggesting this clean record should be interpreted cautiously pending data verification.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong attendance at 100%, significantly above typical MP averages. Legislative activity includes 42 questions and participation in 8 debates, indicating active engagement with parliamentary processes. However, no private member bills were introduced, and committee participation data is unavailable, limiting assessment of comprehensive legislative effectiveness.
-
-The absence of committee information is particularly concerning as committee work represents substantial parliamentary responsibility and constituency representation.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals limited media engagement with only 10 articles identified. The coverage distribution (0 positive, 2 negative, 8 neutral) suggests minimal public visibility despite representing a major constituency. This low media presence, combined with the 'D' accessibility grade, indicates limited public engagement and transparency in constituency communication.
-
-Social media and news sources provide some coverage, but the limited volume suggests reduced public accountability mechanisms.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record confidence is low due to source availability
-- Asset data has low confidence ratings
-- MPLADS data is entirely unavailable
-- Committee participation data is missing
-- Legislative effectiveness data has low confidence
-
-Evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality concerns. Sources include PRS, social media, and news, but comprehensive official data appears limited.
-
-### Key Takeaway
-While Shankar Lalwani demonstrates strong parliamentary attendance and maintains a clean criminal record, critical transparency gaps in asset declarations, MPLADS utilization, and committee participation prevent comprehensive accountability assessment. The absence of development fund data is particularly concerning given systemic issues identified in Madhya Pradesh's fund management. Improved data availability and public engagement mechanisms are essential for enhanced transparency and constituent accountability in this important commercial constituency.
+No criminal cases declared. Declared assets: Rs 19,522,412. MPLADS utilization: 44.6%. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 8.
 
 ---
 
@@ -177,7 +136,7 @@ While Shankar Lalwani demonstrates strong parliamentary attendance and maintains
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shankar Lalwani's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 44.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

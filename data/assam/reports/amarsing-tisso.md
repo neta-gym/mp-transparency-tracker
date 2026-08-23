@@ -6,23 +6,23 @@
 **Age:** 56
 **Education:** 12th Pass
 **Profession:** Executive Member, Karbi Anglong Autonomous Council (KAAC)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 58.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 32.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 7.76 Crore
-- **Immovable Assets:** Rs 15.03 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 22.79 Crore
 - **Liabilities:** Rs 5.41 Crore
 - **Net Worth:** Rs 17.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 41.2%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Amarsing Tisso demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant weaknesses in legislative participation and committee involvement. His MPLADS and asset disclosure show moderate compliance at 50%, while concerning gaps exist in accessibility and legislative activity with zero scores in committee work and legislative contributions.
+Amarsing Tisso shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Amarsing Tisso
-
-### Overall Assessment
-Amarsing Tisso, the BJP MP from Diphu constituency in Assam, presents a mixed transparency profile with notable gaps in key performance areas. While maintaining a clean criminal record and perfect parliamentary attendance, significant data limitations hamper comprehensive assessment of his effectiveness as a public representative. His substantial asset base of ₹22.8 crores raises questions about wealth accumulation transparency, particularly given the absence of previous asset declarations.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for MP Tisso, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap, especially concerning given CAG audit findings highlighting systemic issues in Assam's fund management. The 2010 CAG audit (Report 31) identified ₹1,558 crore in idle funds across district authorities and found that 34% of sampled utilization certificates lacked proper documentation. Additionally, 18% of development works were abandoned or incomplete, indicating broader infrastructural delivery challenges in the region.
-
-### Financial Transparency
-MP Tisso's financial disclosures reveal total assets worth ₹22.79 crores with a net worth of ₹17.38 crores. However, the absence of previous asset declarations makes it impossible to assess wealth growth patterns or potential conflicts of interest. His monthly compensation of ₹2.45 lakh appears standard for parliamentary positions. The substantial asset base, while not necessarily problematic, requires contextual evaluation against his declared profession as Executive Member of the Karbi Anglong Autonomous Council (KAAC).
-
-### Legal & Criminal Standing
-The MP maintains an exemplary legal record with zero criminal cases across all categories—no pending cases, serious charges, disposed matters, or convictions. This clean record provides a solid foundation for public trust, particularly important given his role representing a sensitive autonomous region with complex socio-political dynamics.
-
-### Parliamentary Performance
-MP Tisso demonstrates mixed parliamentary engagement. His 100% attendance record is commendable and suggests dedication to legislative duties. However, his limited participation in substantive parliamentary activities raises effectiveness concerns—only 14 questions raised, zero debates participated, and no private member bills introduced. The absence of committee membership data further obscures his legislative contributions. This pattern suggests presence without proportional productive engagement in parliamentary processes.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal minimal media presence with only 10 news articles identified, all categorized as neutral. The absence of positive or negative coverage suggests either limited public visibility or ineffective media strategy. No social media engagement data is available, indicating potential gaps in modern communication channels essential for constituent connectivity. The lack of accessible public information about constituency-specific initiatives or public interactions represents a significant transparency deficit.
-
-### Data Quality & Caveats
-The assessment faces substantial data quality limitations that compromise comprehensive evaluation. MPLADS data receives a "warning" flag for low confidence, committee information is entirely unavailable possibly due to Sansad profile accessibility issues, and legislative effectiveness data carries low confidence ratings. Evidence grades range from B-level for criminal and asset data to D-level for accessibility metrics. These limitations particularly affect fund utilization assessment and parliamentary effectiveness evaluation.
-
-### Key Takeaway
-While MP Tisso maintains perfect attendance and a clean criminal record, significant transparency gaps in fund utilization, limited parliamentary participation, and minimal public engagement suggest room for substantial improvement. The complete absence of MPLADS data is particularly concerning for a constituency requiring focused development attention. His substantial asset base demands greater scrutiny in the absence of historical comparison data. Enhanced transparency in fund utilization, increased substantive parliamentary participation, and improved public communication would significantly strengthen his representative effectiveness and public accountability.
+No criminal cases declared. Declared assets: Rs 227,863,561. MPLADS utilization: 41.2%. Parliament attendance: 100.0%. Questions asked: 14.
 
 ---
 
@@ -163,7 +139,7 @@ While MP Tisso maintains perfect attendance and a clean criminal record, signifi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amarsing Tisso's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

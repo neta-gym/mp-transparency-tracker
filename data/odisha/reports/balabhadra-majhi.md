@@ -3,32 +3,34 @@
 **Constituency:** Nabarangpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 49.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 3.6 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.89 Crore
+- **Liabilities:** Rs 11.25 Lakh
+- **Net Worth:** Rs 7.77 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Balabhadra Majhi demonstrates a mixed transparency profile with significant areas of concern. While he maintains a clean criminal record and shows reasonable attendance, his performance suffers from extremely poor committee participation, minimal public accessibility, and lack of legislative contributions, resulting in a below-average overall score.
+Balabhadra Majhi has a below-average transparency score of 49.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Balabhadra Majhi
-
-### Overall Assessment
-Balabhadra Majhi, BJP MP from Nabarangpur, Odisha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record and achieving moderate parliamentary attendance (70%), substantial missing information regarding assets, MPLADS utilization, and development activities raises concerns about transparency and accountability.
-
-### Fund Utilization & Development
-**Critical data gaps exist for MPLADS fund utilization.** No information is available on entitled amounts, released funds, expenditure, or utilization percentages. This absence of data is particularly concerning given the CAG's 2010 audit findings for Odisha revealing systemic issues: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether these historical patterns persist in Majhi's constituency.
-
-### Financial Transparency
-**Asset disclosure information is entirely unavailable.** No data exists on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of ₹2,45,000, which provides no insight into personal wealth or potential conflicts of interest.
-
-### Legal & Criminal Standing
-**Clean criminal record with data reliability concerns.** Official records show zero total cases, serious charges, pending matters, disposed cases, and convictions. However, automated flags indicate low confidence in criminal data sources, suggesting potential gaps in information availability rather than confirmed clean standing. This caveat is important for accurate assessment.
-
-### Parliamentary Performance
-**Moderate engagement with room for improvement.** Majhi's 70% attendance rate falls below optimal standards for parliamentary participation. His legislative activity shows 21 questions raised and 5 debate participations, indicating some engagement with parliamentary processes. However, zero private bills introduced suggests limited initiative in legislative innovation. No committee membership data is available, preventing assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-**Limited digital presence and neutral media coverage.** Analysis of 10 news articles reveals predominantly neutral coverage (8 neutral, 2 positive, 0 negative), suggesting minimal public controversy but also limited visibility of achievements or initiatives. The evidence grade of 'D' for accessibility indicates poor public engagement mechanisms, potentially limiting constituent communication and feedback channels.
-
-### Data Quality & Caveats
-**Multiple critical data gaps compromise assessment reliability.** Automated flags highlight low confidence in criminal records, assets, and MPLADS data. Committee information is entirely unavailable, and legislative effectiveness data carries low confidence ratings. Evidence grades show 'C' for parliament data and 'D' for accessibility, indicating suboptimal data quality across key transparency metrics. These limitations significantly impact the comprehensiveness and reliability of this assessment.
-
-### Key Takeaway
-Balabhadra Majhi's transparency profile is severely hampered by critical data gaps, particularly in asset disclosure and MPLADS utilization—two fundamental areas of MP accountability. While maintaining a clean criminal record and moderate parliamentary participation, the absence of financial and development fund information, combined with poor public accessibility, suggests significant transparency deficits that require immediate attention to meet democratic accountability standards.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 78,863,561. MPLADS utilization: 4.5%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ Balabhadra Majhi's transparency profile is severely hampered by critical data ga
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Balabhadra Majhi's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

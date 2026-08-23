@@ -3,23 +3,25 @@
 **Constituency:** Vizianagaram, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 58.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.24 Crore
+- **Liabilities:** Rs 66.71 Lakh
+- **Net Worth:** Rs 5.57 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Appalanaidu Kalisetti shows a mixed transparency profile with strong attendance and clean criminal record, but significant gaps in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee involvement and minimal accessibility efforts, indicate room for substantial improvement in parliamentary engagement and constituent outreach.
+Appalanaidu Kalisetti shows moderate transparency with a score of 58.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Appalanaidu Kalisetti
-
-### Overall Assessment
-Appalanaidu Kalisetti represents Vizianagaram constituency in Andhra Pradesh as a Telugu Desam Party MP in the Lok Sabha. Based on available data, he demonstrates strong parliamentary attendance but faces significant transparency gaps in financial reporting and development fund utilization. His profile shows a clean criminal record but suffers from incomplete asset and MPLADS disclosure.
-
-### Fund Utilization & Development
-MPLADS data is unavailable, preventing assessment of development fund utilization in Vizianagaram constituency. This data gap is concerning given CAG audit findings reveal systemic issues in Andhra Pradesh's fund management. The state shows Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of development works remaining incomplete or abandoned. Without specific MPLADS data for Kalisetti, constituents cannot evaluate local development progress.
-
-### Financial Transparency
-Asset disclosure presents significant transparency concerns. Current and previous asset values are not available, making it impossible to assess financial growth or potential conflicts of interest. This lack of asset transparency undermines public accountability. The MP's monthly compensation totals Rs 245,000, but without asset baseline data, comprehensive financial oversight remains compromised.
-
-### Legal & Criminal Standing
-Kalisetti maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, the warning flag indicates low confidence in criminal data sources, suggesting potential data collection limitations rather than verified clean status.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at an excellent 100%, demonstrating consistent presence in the Lok Sabha. Legislative activity includes 53 questions raised and participation in 4 debates, showing moderate engagement in parliamentary proceedings. However, no private member bills were introduced, indicating limited legislative initiative. Committee participation data is unavailable, preventing full assessment of parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals minimal public engagement, with only 10 news articles covering the MP's activities. The coverage breakdown shows 1 positive, 0 negative, and 9 neutral articles, suggesting limited public visibility rather than controversial performance. This low media presence may indicate insufficient public outreach or limited newsworthy activities in the constituency.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment. Criminal record confidence is low due to potentially unavailable sources. Asset data shows low confidence levels, preventing meaningful financial analysis. MPLADS utilization data is completely missing, eliminating development fund oversight. Committee membership information is unavailable, likely due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. Evidence grades are concerning: Parliament performance rated 'C' and accessibility rated 'D', indicating substantial data gaps.
-
-### Key Takeaway
-While Appalanaidu Kalisetti demonstrates strong parliamentary attendance (100%), his transparency profile suffers from critical data gaps in asset disclosure and development fund utilization. The absence of MPLADS data prevents constituents from evaluating local development impact, while missing asset information undermines financial accountability. Despite a clean criminal record and moderate legislative participation, the significant data quality issues and limited public visibility suggest need for improved transparency and public engagement. Voters in Vizianagaram constituency should seek more comprehensive disclosure on development fund utilization and asset declarations to make informed assessments of their representative's performance.
+No criminal cases declared. Declared assets: Rs 62,365,187. MPLADS utilization: 10.8%. Parliament attendance: 100.0%. Questions asked: 53. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ While Appalanaidu Kalisetti demonstrates strong parliamentary attendance (100%),
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Appalanaidu Kalisetti's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

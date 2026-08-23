@@ -3,23 +3,23 @@
 **Constituency:** Mahasamund, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 62.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.39 Crore
+- **Liabilities:** Rs 21.16 Lakh
+- **Net Worth:** Rs 5.18 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 44% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 7
+- **Utilization Rate:** 43.7%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Roopkumari Choudhary shows a mixed transparency profile with perfect scores in criminal record disclosure and attendance, but significant gaps in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and 6 validation flags indicate substantial information gaps that limit the reliability of this assessment.
+Roopkumari Choudhary shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Roopkumari Choudhary
-
-### Overall Assessment
-Roopkumari Choudhary, BJP MP from Mahasamund constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance and a clean criminal record, critical financial and developmental data remains unavailable, hampering full assessment of her effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on funds entitled, released, or expended. This represents a critical transparency gap given that MPs typically receive ₹5 crore annually for constituency development. The absence of utilization data makes it impossible to assess developmental impact in Mahasamund constituency. CAG audit findings reveal systemic issues in Chhattisgarh's fund management, including ₹1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation, raising concerns about broader developmental fund oversight.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for MPs and crucial for assessing potential conflicts of interest. Monthly compensation is recorded at ₹2.45 lakh, consistent with standard parliamentary remuneration. The absence of asset data prevents evaluation of wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-Choudhary maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the clean record is positive, the data quality warning necessitates cautious interpretation of this finding.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating consistent presence in the Lok Sabha. However, active participation appears limited with only 19 questions raised and just 1 debate participation. No private bills were introduced, indicating minimal legislative initiative. This pattern suggests physical presence without corresponding substantive engagement in parliamentary processes. The evidence grade for parliamentary performance is rated 'C', indicating moderate reliability of available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles, all classified as neutral with no positive or negative sentiment detected. This neutral coverage pattern suggests limited public visibility or controversial issues. The accessibility evidence grade is 'D', indicating poor data availability regarding public engagement metrics. No committee membership data is available, potentially indicating limited involvement in specialized parliamentary work or data collection issues.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns. Criminal record data carries low confidence warnings, asset information is entirely unavailable with low confidence flags, and MPLADS utilization data is completely missing. Committee membership and legislative effectiveness data show low confidence ratings. The absence of comprehensive Sansad profile information further compounds these limitations. Evidence grading shows 'C' for parliamentary data and 'D' for accessibility metrics, indicating substantial data quality challenges.
-
-### Key Takeaway
-Roopkumari Choudhary's transparency profile is severely hampered by critical data gaps in financial declarations and developmental fund utilization. While maintaining perfect attendance and a clean criminal record, the absence of asset disclosure and MPLADS data raises significant transparency concerns. Her limited parliamentary participation despite perfect attendance suggests missed opportunities for constituency representation. The systemic fund management issues identified by CAG audits in Chhattisgarh underscore the importance of robust financial oversight, making the absence of her MPLADS data particularly concerning for accountability assessment.
+No criminal cases declared. Declared assets: Rs 53,908,562. MPLADS utilization: 43.7%. Parliament attendance: 100.0%. Questions asked: 19. Debates participated: 1.
 
 ---
 
@@ -162,7 +136,7 @@ Roopkumari Choudhary's transparency profile is severely hampered by critical dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Roopkumari Choudhary's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 43.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

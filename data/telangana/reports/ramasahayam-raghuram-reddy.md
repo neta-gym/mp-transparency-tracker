@@ -3,32 +3,34 @@
 **Constituency:** Khammam, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 51.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 6.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 58.28 Crore
+- **Liabilities:** Rs 9.55 Crore
+- **Net Worth:** Rs 48.73 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Ramasahayam Raghuram Reddy shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record and decent attendance, the MP demonstrates very poor performance in committee participation, public accessibility, and legislative activities, which are crucial for effective representation.
+Ramasahayam Raghuram Reddy shows moderate transparency with a score of 51.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ramasahayam Raghuram Reddy
-
-### Overall Assessment
-Ramasahayam Raghuram Reddy, Indian National Congress MP representing Khammam constituency in Telangana, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining clean criminal records and demonstrating moderate parliamentary engagement, substantial information is unavailable regarding asset declarations and MPLADS fund utilization—critical indicators of financial transparency and development impact.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure rates. This represents a major transparency gap given MPs' ₹5 crore annual development fund allocation. The absence of utilization data is particularly concerning given CAG audit findings revealing systemic MPLADS implementation issues across states, including ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without specific data on Reddy's fund deployment, development impact assessment remains impossible.
-
-### Financial Transparency
-Asset declaration information is completely missing, preventing evaluation of wealth accumulation patterns or potential conflicts of interest. No data exists on total assets, previous declarations, growth ratios, or net worth—all mandatory disclosure requirements under electoral law. This data unavailability significantly undermines financial transparency assessment, making it impossible to track wealth changes during tenure or identify potential undisclosed interests. Monthly compensation is recorded at ₹2,45,000, representing standard MP remuneration.
-
-### Legal & Criminal Standing
-Reddy maintains a clean legal record with zero criminal cases across all categories—no total cases, serious charges, pending matters, disposed cases, or convictions. This clean criminal profile represents a positive transparency indicator, demonstrating absence of legal controversies that might compromise public service integrity or create conflicts of interest.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 75% attendance—meeting the minimum threshold but indicating room for improvement in legislative participation. Reddy has raised 33 questions in Parliament, demonstrating some constituency advocacy effort, and participated in 4 debates, suggesting limited but present contribution to policy discussions. However, zero private bills introduced indicates minimal legislative initiative beyond standard parliamentary duties. No committee membership data is available, preventing assessment of specialized policy work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited but stable public visibility with 10 articles identified—2 positive, 8 neutral, and notably zero negative coverage. This suggests absence of major controversies while indicating relatively low media profile compared to more prominent MPs. The neutral-to-positive coverage pattern suggests competent but unremarkable public performance. However, broader accessibility data including social media presence, public interactions, and constituency outreach metrics are not comprehensively available.
-
-### Data Quality & Caveats
-Multiple significant data quality issues severely limit assessment reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence ratings, making financial transparency evaluation impossible. MPLADS data is entirely missing with low confidence ratings. Committee information is unavailable, suggesting Sansad profile accessibility issues. Legislative effectiveness data has low confidence ratings. Evidence grades reflect these limitations with Parliament activity rated 'C' and accessibility rated 'D'. Sources include PRS, social media, and news coverage, but coverage appears incomplete across multiple transparency dimensions.
-
-### Key Takeaway
-Ramasahayam Raghuram Reddy presents a largely unknown transparency profile due to extensive data unavailability across critical assessment areas. While maintaining clean criminal records and moderate parliamentary participation, the absence of asset declarations and MPLADS utilization data creates substantial transparency blind spots. The low confidence ratings across multiple data categories suggest systemic information access challenges that prevent comprehensive evaluation of his performance as an elected representative, highlighting the need for improved transparency mechanisms and data availability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 582,770,537. MPLADS utilization: 8.0%. Parliament attendance: 75.0%. Questions asked: 33. Debates participated: 4. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ Ramasahayam Raghuram Reddy presents a largely unknown transparency profile due t
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ramasahayam Raghuram Reddy's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

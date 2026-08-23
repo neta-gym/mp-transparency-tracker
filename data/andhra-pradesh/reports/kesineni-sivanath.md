@@ -3,23 +3,23 @@
 **Constituency:** Vijayawada, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 52.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.8 | 25% |
+| Asset Growth | 40.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 29.21 Crore
+- **Liabilities:** Rs 27.90 Crore
+- **Net Worth:** Rs 1.31 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.2%
 
 ---
 
@@ -84,9 +85,7 @@ of SC families in Andhra - The New Indian Express (The New Indian Express) [neut
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -95,35 +94,11 @@ of SC families in Andhra - The New Indian Express (The New Indian Express) [neut
 
 ## Qualitative Assessment
 
-Kesineni Sivanath shows a mixed transparency profile with significant areas of concern. While he maintains a clean criminal record and decent attendance, critical deficiencies in committee participation, accessibility, and legislative contributions substantially impact his overall transparency. The moderate MPLADS and asset disclosure scores suggest room for improvement in financial accountability.
+Kesineni Sivanath shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kesineni Sivanath
-
-### Overall Assessment
-Kesineni Sivanath, representing Vijayawada constituency in Andhra Pradesh for the Telugu Desam Party, presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance (80%), substantial missing information on asset declarations and MPLADS fund utilization limits comprehensive assessment of his public service effectiveness.
-
-### Fund Utilization & Development
-Complete absence of MPLADS data prevents evaluation of constituency development activities. No information is available on entitled funds, releases, expenditures, or utilization rates for the Member of Parliament Local Area Development Scheme. This data gap is particularly concerning given systemic issues identified by CAG audits in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The state context suggests potential challenges in fund deployment and monitoring that cannot be assessed at the individual MP level due to missing data.
-
-### Financial Transparency
-Asset declaration information is entirely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives. The MP receives Rs 245,000 in monthly compensation, but without baseline asset information, tracking potential conflicts of interest or wealth accumulation patterns is impossible. The absence of both current and historical asset data raises questions about compliance with disclosure requirements.
-
-### Legal & Criminal Standing
-Kesineni Sivanath maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this assessment comes with a caveat regarding data confidence levels, as the source indicates potential unavailability of comprehensive criminal record information. The clean record, while positive, should be interpreted considering these data quality limitations.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance rate, indicating reasonably consistent participation in legislative proceedings. The MP has raised 54 questions in Parliament, demonstrating active engagement in questioning government policies and seeking information for constituents. However, debate participation remains limited with only 4 recorded interventions, and no private member's bills introduced. This suggests a more reactive than proactive legislative approach, focusing on oversight rather than policy initiation.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals limited but neutral public engagement, with 10 articles identified (2 positive, 0 negative, 8 neutral). The predominantly neutral coverage suggests steady but unremarkable public visibility without significant controversies or major achievements gaining media attention. However, the accessibility evidence grade of 'D' indicates substantial deficiencies in public outreach mechanisms, digital presence, or constituent communication channels.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows similar reliability concerns with no data available across all categories. MPLADS data is completely absent, preventing evaluation of constituency development work. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These gaps collectively limit the comprehensiveness of this transparency assessment and suggest potential systemic issues in data collection or disclosure compliance.
-
-### Key Takeaway
-While Kesineni Sivanath maintains basic parliamentary participation and a clean legal record, the extensive data gaps across asset declarations, development fund utilization, and committee work present significant transparency concerns. The 80% attendance rate and 54 parliamentary questions demonstrate engagement, but missing financial disclosures and development fund information prevent full accountability assessment. Addressing these data gaps would substantially improve transparency and public trust in his representation of Vijayawada constituency.
+No criminal cases declared. Declared assets: Rs 292,066,245. MPLADS utilization: 2.2%. Parliament attendance: 80.0%. Questions asked: 54. Debates participated: 4. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +138,7 @@ While Kesineni Sivanath maintains basic parliamentary participation and a clean 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kesineni Sivanath's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +236,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

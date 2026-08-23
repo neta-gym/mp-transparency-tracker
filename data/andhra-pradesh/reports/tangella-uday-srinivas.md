@@ -3,32 +3,34 @@
 **Constituency:** Kakinada, Andhra Pradesh
 **Party:** Janasena Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 38
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 48.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 8.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 31.15 Crore
+- **Liabilities:** Rs 3.62 Crore
+- **Net Worth:** Rs 27.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 81% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Tangella Uday Srinivas shows a mixed transparency profile with strong performance in attendance (95%) and a clean criminal record, but significant gaps in legislative participation, committee work, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information may be affecting the overall assessment.
+Tangella Uday Srinivas has a below-average transparency score of 48.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Tangella Uday Srinivas
-
-### Overall Assessment
-
-Tangella Uday Srinivas, representing Kakinada constituency in Andhra Pradesh for the Janasena Party, presents a mixed transparency profile characterized by strong parliamentary attendance (95.0%) but limited data availability across key transparency indicators. The analysis reveals significant data gaps in asset disclosure, MPLADS utilization, and legislative activity metrics, making comprehensive assessment challenging.
-
-### Fund Utilization & Development
-
-Critical data gaps exist regarding MPLADS fund utilization, with no information available on entitlements, releases, expenditure, or utilization percentages. This absence of data is particularly concerning given the CAG audit findings for Andhra Pradesh highlighting systemic issues: Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Srinivas, it is impossible to assess his development fund management performance against these state-level concerns.
-
-### Financial Transparency
-
-Asset disclosure transparency is severely compromised with no data available on total assets, previous asset values, growth ratios, or net worth. This complete absence of financial information represents a significant transparency deficit. The monthly compensation is documented at Rs 2,45,000, but without asset declarations, stakeholders cannot assess potential conflicts of interest or wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-
-Srinivas maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the analysis flags low confidence in this criminal data due to potential source unavailability, suggesting this assessment may be incomplete. While the available data suggests no legal issues, the data quality caveat requires careful consideration.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows a strong attendance record at 95.0%, demonstrating commitment to legislative proceedings. However, his substantive parliamentary contributions appear limited with zero questions asked, zero debates participated in, and zero private bills introduced. This suggests a passive approach to legislative responsibilities despite regular attendance. The lack of committee participation data (flagged as unavailable due to potential Sansad profile issues) further limits assessment of his parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with neutral sentiment (no positive or negative articles identified). This neutral coverage suggests limited public discourse around his work, neither highlighting significant achievements nor controversies. The evidence grade for accessibility rates as 'D', indicating poor transparency in public engagement mechanisms. Social media presence appears to be tracked but specific engagement metrics are not provided in the available data.
-
-### Data Quality & Caveats
-
-The analysis is significantly hampered by multiple data quality issues. Criminal record data carries low confidence due to source availability concerns. Asset information is completely unavailable with low confidence ratings. MPLADS data is entirely missing with low confidence indicators. Committee participation data is absent due to potential Sansad profile unavailability. Legislative effectiveness data also carries low confidence ratings. The parliament activity evidence grade of 'C' and accessibility grade of 'D' reflect these substantial data limitations.
-
-### Key Takeaway
-
-While Tangella Uday Srinivas demonstrates strong parliamentary attendance and maintains a clean criminal record, his transparency profile is severely compromised by extensive data gaps across financial disclosure, development fund utilization, and legislative contributions. The neutral media coverage and poor accessibility ratings, combined with minimal substantive parliamentary activity despite high attendance, suggest limited public engagement and legislative impact. Stakeholders should prioritize obtaining complete asset declarations and MPLADS utilization data to enable proper accountability assessment, particularly given the systemic fund management issues identified in Andhra Pradesh through CAG audits.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 311,535,620. MPLADS utilization: 10.5%. Parliament attendance: 95.0%.
 
 ---
 
@@ -170,7 +138,7 @@ While Tangella Uday Srinivas demonstrates strong parliamentary attendance and ma
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tangella Uday Srinivas's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

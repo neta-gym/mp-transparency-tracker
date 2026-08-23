@@ -3,23 +3,25 @@
 **Constituency:** Ghatal, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 39.5 / 100
+## Composite Transparency Score: 46.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 0.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 37.13 Crore
+- **Liabilities:** Rs 2.86 Crore
+- **Net Worth:** Rs 34.27 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 20
+- **Released:** Rs 20
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 43.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Adhikari Deepak Dev shows a mixed transparency profile with notable concerns in several key areas. While maintaining a clean criminal record and moderate MPLADS/assets disclosure, the MP demonstrates poor legislative engagement with zero attendance and committee participation, severely impacting overall transparency.
+Adhikari Deepak Dev has a below-average transparency score of 46.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-## Executive Summary: Adhikari Deepak Dev
-
-### Overall Assessment
-Adhikari Deepak Dev, representing Ghatal constituency in West Bengal as an All India Trinamool Congress MP, presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean criminal record, his parliamentary engagement shows concerning patterns with extremely low attendance (0.0%) despite moderate question-raising activity (31 questions). The absence of critical financial data, including asset declarations and MPLADS utilization figures, severely limits comprehensive assessment of his accountability and effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that each MP is entitled to ₹5 crore annually under the scheme. The absence of this data prevents assessment of development work in Ghatal constituency. CAG audits for West Bengal highlight systemic concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. These state-level findings raise questions about fund management efficiency, though specific data for Adhikari's constituency remains unavailable.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information on current holdings, previous assets, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for all MPs and serve as a key accountability mechanism. The absence of this data prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure. Monthly compensation is documented at ₹2,45,000, providing the only available financial transparency metric.
-
-### Legal & Criminal Standing
-Adhikari maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, data confidence is marked as low, indicating potential gaps in criminal record verification. While the available data suggests no legal impediments to his service, the reliability caveat requires careful interpretation of this apparently positive indicator.
-
-### Parliamentary Performance
-Parliamentary engagement reveals concerning patterns despite some positive elements. Attendance stands at an alarming 0.0%, indicating complete absence from House proceedings - a critical failure in basic representative duties. However, this is partially offset by moderate legislative activity through 31 questions raised, demonstrating some engagement with policy issues affecting constituents. No participation is recorded in debates or private member's bills, suggesting limited contribution to legislative discourse beyond question-raising. The evidence grade of 'C' for parliament data indicates moderate reliability concerns.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited visibility with only 10 news articles covering his activities. Media sentiment analysis reveals predominantly neutral coverage (9 articles), with 1 negative article and no positive coverage, suggesting minimal public recognition of achievements or initiatives. This low media presence, combined with a 'D' accessibility grade, indicates poor public engagement and limited transparency in communication with constituents. The lack of robust public engagement mechanisms raises concerns about constituent service quality.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment's reliability. Warning flags include low confidence in criminal record data due to potentially unavailable sources, completely missing asset information, and absent MPLADS utilization data. Committee membership information is unavailable, suggesting incomplete Sansad profile data. Legislative effectiveness data carries low confidence ratings. These gaps collectively limit comprehensive transparency assessment and indicate systemic data collection or reporting challenges affecting accountability evaluation.
-
-### Key Takeaway
-While Adhikari Deepak Dev maintains a clean criminal record, his transparency profile is severely compromised by missing financial data, zero parliamentary attendance, and minimal public engagement. The absence of asset declarations and MPLADS utilization information, combined with poor House attendance despite moderate question-raising activity, suggests significant accountability gaps. Systematic improvements in data transparency and parliamentary participation are essential for effective constituent representation and public accountability in Ghatal constituency.
+No criminal cases declared. Declared assets: Rs 371,347,069. MPLADS utilization: 43.7%. Parliament attendance: 0.0%. Questions asked: 31.
 
 ---
 
@@ -162,7 +138,7 @@ While Adhikari Deepak Dev maintains a clean criminal record, his transparency pr
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Adhikari Deepak Dev's MPLADS account: Released: Rs 20, Expended: Rs 9, Utilization: 43.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

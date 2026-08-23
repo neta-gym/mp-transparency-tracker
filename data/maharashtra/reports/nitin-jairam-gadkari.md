@@ -3,32 +3,34 @@
 **Constituency:** Nagpur, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 30.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.9 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 10
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 10
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 28.03 Crore
+- **Liabilities:** Rs 6.22 Crore
+- **Net Worth:** Rs 21.81 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Nitin Gadkari shows a mixed transparency profile with moderate performance in basic compliance areas like MPLADS utilization and asset disclosure, while maintaining a clean criminal record. However, significant deficiencies exist in committee participation, legislative activity, and public accessibility, suggesting limited engagement in parliamentary processes beyond his ministerial duties.
+Nitin Jairam Gadkari has a below-average transparency score of 30.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Nitin Jairam Gadkari
-
-### Overall Assessment
-Nitin Jairam Gadkari, BJP MP from Nagpur, Maharashtra, serves as a Cabinet Minister in the Lok Sabha with a monthly compensation of Rs 2,45,000. However, comprehensive assessment is severely hampered by significant data gaps across all transparency metrics, with evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicating poor data availability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for constituency development assessment. However, CAG audit findings from Maharashtra reveal systemic issues in fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, suggesting broader challenges in the state's development program implementation.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial disclosure data significantly undermines transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), though this comes with a low confidence warning indicating potential data source unavailability. While the clean record appears positive, the data quality concerns require cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary activity metrics are largely unavailable, with attendance percentage, questions asked, debates participated, and private bills introduced all showing zero or missing values. As a serving Cabinet Minister, lower parliamentary attendance may be expected due to executive responsibilities, but the complete absence of activity data prevents meaningful performance evaluation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse engagement. The 'D' grade for accessibility indicates poor transparency in public communication and information sharing. No committee participation data is available, further limiting assessment of legislative engagement beyond ministerial duties.
-
-### Data Quality & Caveats
-Multiple automated flags indicate severe data reliability issues:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information shows low confidence warnings
-- MPLADS data reliability is questionable
-- Parliamentary activity data has low confidence ratings
-- Committee information is entirely absent
-- Legislative effectiveness data shows low confidence
-
-These widespread data gaps significantly limit the reliability of this transparency assessment.
-
-### Key Takeaway
-While Gadkari maintains a clean criminal record and serves in a senior ministerial position, the comprehensive lack of transparency data across assets, MPLADS utilization, and parliamentary activity creates substantial accountability concerns. The systematic data unavailability, rather than indicating transparency, suggests potential gaps in disclosure mechanisms. Maharashtra's broader development fund management issues, evidenced by CAG findings of idle funds and incomplete works, underscore the importance of improved financial oversight and transparency at both state and constituency levels.
+Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared assets: Rs 280,317,321. MPLADS utilization: 21.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ While Gadkari maintains a clean criminal record and serves in a senior ministeri
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Nitin Jairam Gadkari's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

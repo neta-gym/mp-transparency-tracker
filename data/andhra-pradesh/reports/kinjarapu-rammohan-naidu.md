@@ -3,32 +3,34 @@
 **Constituency:** Srikakulam, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 36
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 43.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 18.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 23.31 Crore
+- **Liabilities:** Rs 2.99 Crore
+- **Net Worth:** Rs 20.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 4
+- **Utilization Rate:** 23.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Kinjarapu Rammohan Naidu demonstrates a mixed transparency profile with notable strengths in criminal record disclosure but significant deficiencies in committee participation, accessibility, and legislative activity. While maintaining clean criminal records and moderate performance in basic areas like MPLADS and assets disclosure, the MP shows concerning gaps in citizen engagement and parliamentary committee involvement. The extremely low data confidence of 7% and multiple validation flags suggest substantial information gaps that limit a comprehensive assessment.
+Kinjarapu Rammohan Naidu has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Kinjarapu Rammohan Naidu
-
-### Overall Assessment
-Kinjarapu Rammohan Naidu, Telugu Desam Party MP from Srikakulam constituency in Andhra Pradesh, currently serves in the Lok Sabha with ministerial responsibilities. The transparency profile reveals significant data gaps across multiple dimensions, with evidence grades of 'C' for parliamentary activities and 'D' for accessibility. While criminal records show a clean profile with zero cases, the absence of asset and MPLADS data severely limits comprehensive assessment.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is particularly concerning given the CAG audit findings for Andhra Pradesh revealing systemic issues: Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for the constituency, it's impossible to assess local development fund management or effectiveness.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data on total assets, previous declarations, growth ratios, or net worth. Monthly compensation is recorded at Rs 2,45,000. The lack of asset information prevents any assessment of wealth accumulation patterns or potential conflicts of interest. This represents a critical transparency gap that undermines public accountability.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero total cases, no serious charges, no pending matters, no disposed cases, and no convictions. However, the data source reliability is flagged as low confidence, suggesting potential gaps in criminal background verification processes.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with 0 questions raised, 0 debate participations, and 0 private bills introduced. Attendance percentage is not available. As a serving minister, lower parliamentary participation may be attributable to executive responsibilities, which typically reduce floor time for legislative activities. The 'C' grade for parliamentary evidence suggests moderate data reliability in this domain.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals limited public discourse, with only 10 articles identified (0 positive, 1 negative, 9 neutral), indicating minimal media engagement or coverage. The 'D' grade for accessibility evidence points to significant gaps in public communication channels. No committee participation data is available, and legislative effectiveness metrics are unreliable, further limiting assessment of public engagement initiatives.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight substantial data reliability issues:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence levels
-- MPLADS data reliability is questionable
-- Parliamentary activity data lacks confidence
-- Committee information is entirely absent
-- Legislative effectiveness data is unreliable
-
-These gaps significantly constrain comprehensive transparency assessment and raise questions about data collection and reporting systems.
-
-### Key Takeaway
-Kinjarapu Rammohan Naidu's transparency profile is severely hampered by extensive data gaps across critical domains including assets, MPLADS utilization, and parliamentary engagement metrics. While maintaining a clean criminal record, the absence of financial disclosures and development fund utilization data, combined with minimal parliamentary activity records, prevents meaningful accountability assessment. The broader CAG audit findings for Andhra Pradesh highlighting fund management issues underscore the importance of robust MPLADS monitoring. Immediate improvements in data collection, reporting systems, and public disclosure mechanisms are essential for enhanced transparency and democratic accountability.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 233,073,561. MPLADS utilization: 23.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Kinjarapu Rammohan Naidu's transparency profile is severely hampered by extensiv
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kinjarapu Rammohan Naidu's MPLADS account: Released: Rs 17, Expended: Rs 4, Utilization: 23.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -6,23 +6,23 @@
 **Age:** 53
 **Education:** Graduate
 **Profession:** Social Work
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 57.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 24.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.37 Crore
-- **Immovable Assets:** Rs 2.62 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 4.99 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.99 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.0%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tripura: 7 relevant findings
@@ -95,37 +95,11 @@
 
 ## Qualitative Assessment
 
-Biplab Kumar Deb shows a mixed transparency profile with moderate performance in basic areas like MPLADS utilization and assets disclosure, but significant deficiencies in legislative engagement and public accessibility. While maintaining perfect criminal record transparency and decent attendance, his complete absence from committee work and minimal accessibility efforts substantially impact his overall score.
+Biplab Kumar Deb shows moderate transparency with a score of 57.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-# Executive Summary: Biplab Kumar Deb
-
-## Executive Summary: Biplab Kumar Deb
-
-### Overall Assessment
-Biplab Kumar Deb, the 53-year-old BJP MP representing Tripura West, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, significant data gaps limit comprehensive assessment of his development work and financial growth patterns.
-
-### Fund Utilization & Development
-Complete data unavailability for MPLADS funding severely hampers evaluation of Deb's development performance. No information exists on entitled, released, or expended funds, making utilization assessment impossible. This gap is particularly concerning given CAG audit findings highlighting systemic issues in Tripura's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works in the region remain abandoned or incomplete, suggesting broader governance challenges that may affect MP-level development initiatives.
-
-### Financial Transparency
-Deb's declared assets total Rs 4.99 crore, but the absence of previous asset declarations prevents growth analysis. Without baseline data, it's impossible to assess whether asset accumulation aligns with legitimate income sources or raises transparency concerns. His monthly parliamentary compensation of Rs 2.45 lakh provides context for expected income levels, but the asset growth trajectory remains unknown due to incomplete historical data.
-
-### Legal & Criminal Standing
-Deb maintains an exemplary legal record with zero criminal cases across all categories - no serious offenses, pending cases, disposed cases, or convictions. This clean slate represents a positive aspect of his public service profile and suggests adherence to legal standards expected of elected representatives.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 80% attendance, indicating regular participation in legislative proceedings. His contribution of 40 questions demonstrates active oversight responsibilities, though the three debate participations suggest limited involvement in policy discussions. Zero private member bills indicate minimal legislative initiative beyond party lines. While attendance meets basic expectations, the low debate participation raises questions about substantive policy engagement.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral positioning with 10 articles showing neither positive nor negative sentiment bias. However, the absence of committee membership data suggests limited information availability about specialized legislative work. No accessibility metrics or public interaction data were found, making it difficult to assess constituent engagement levels or responsiveness to public concerns.
-
-### Data Quality & Caveats
-Multiple evidence quality warnings significantly impact assessment reliability. MPLADS data confidence is rated as low, parliament activity data receives a 'C' grade, and accessibility information merits only a 'D' grade. The absence of Sansad profile data prevents committee membership verification. Criminal record and asset data receive 'B' grades, indicating reasonable reliability in these areas. These quality variations necessitate cautious interpretation of findings.
-
-### Key Takeaway
-While Biplab Kumar Deb maintains clean legal standing and reasonable parliamentary attendance, critical data gaps in MPLADS utilization and asset growth prevent comprehensive transparency assessment. The combination of systemic fund management issues highlighted by CAG audits in Tripura and absent utilization data raises concerns about development work accountability. His parliamentary engagement appears adequate but not exceptional, with room for increased policy debate participation.
+No criminal cases declared. Declared assets: Rs 49,923,347. MPLADS utilization: 31.0%. Parliament attendance: 80.0%. Questions asked: 40. Debates participated: 3.
 
 ---
 
@@ -165,7 +139,7 @@ While Biplab Kumar Deb maintains clean legal standing and reasonable parliamenta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Biplab Kumar Deb's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -263,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

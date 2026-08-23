@@ -3,32 +3,34 @@
 **Constituency:** Hindupur, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 33.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 17.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 15
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 15
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 16.90 Crore
+- **Liabilities:** Rs 1.79 Crore
+- **Net Worth:** Rs 15.11 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-B K Parthasarathi demonstrates mixed transparency with notable strengths in criminal record disclosure (perfect score) and reasonable attendance levels, but faces significant challenges in legislative participation, committee involvement, and public accessibility. The MP shows moderate performance in MPLADS utilization and asset disclosure, suggesting basic compliance with transparency requirements. However, the very low data confidence (14%) and multiple validation flags indicate substantial gaps in publicly available information.
+B K Parthasarathi has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: B K Parthasarathi
-
-### Overall Assessment
-B K Parthasarathi, Telugu Desam Party MP from Hindupur constituency in Andhra Pradesh, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and moderate parliamentary attendance, substantial information about his financial assets and development fund utilization remains unavailable, limiting comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This absence is particularly concerning given the CAG audit context for Andhra Pradesh, which identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. The audit also found 18% of sampled works were abandoned or incomplete, highlighting broader governance challenges in the state's development fund management.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data available on current net worth, previous assets, or growth ratios. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The absence of this fundamental information prevents assessment of potential conflicts of interest or unusual wealth accumulation patterns.
-
-### Legal & Criminal Standing
-Parthasarathi maintains a clean legal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the absence of recorded cases may reflect data limitations rather than definitively clean standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 70% attendance rate, which meets reasonable expectations for constituency representation. Parthasarathi has asked 42 questions in Parliament, demonstrating some level of legislative engagement. However, he has not participated in debates (0 recorded) or introduced private bills (0), indicating limited proactive legislative contribution beyond basic questioning duties. No committee membership information is available, further limiting assessment of his parliamentary involvement.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative coverage identified. This suggests limited public visibility or controversial positions. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. Social media presence appears minimal based on available data sources.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is entirely missing despite being legally required disclosure. MPLADS data is completely unavailable, preventing evaluation of development fund stewardship. Committee participation data is absent, possibly due to unavailable Sansad profiles. The parliament evidence grade is 'C' and accessibility grade is 'D', indicating moderate to poor data quality across key transparency metrics.
-
-### Key Takeaway
-While B K Parthasarathi maintains a clean criminal record and adequate parliamentary attendance, critical transparency gaps in asset disclosure and development fund utilization severely limit public accountability assessment. The MP demonstrates basic parliamentary engagement through questioning but lacks evidence of broader legislative leadership or public accessibility, with systemic CAG audit findings in Andhra Pradesh raising additional concerns about development fund governance in his operational context.
+Has 15 criminal case(s) (0 serious), 15 pending, 0 conviction(s). Declared assets: Rs 168,959,895. MPLADS utilization: 21.7%. Parliament attendance: 70.0%. Questions asked: 42.
 
 ---
 
@@ -162,7 +138,7 @@ While B K Parthasarathi maintains a clean criminal record and adequate parliamen
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for B K Parthasarathi's MPLADS account: Released: Rs 16, Expended: Rs 3, Utilization: 21.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

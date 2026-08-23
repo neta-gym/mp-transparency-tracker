@@ -3,32 +3,34 @@
 **Constituency:** Thanjavur, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 48.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 36.6 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.07 Crore
+- **Liabilities:** Rs 17.13 Lakh
+- **Net Worth:** Rs 1.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 18% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 45.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,59 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Murasoli S demonstrates a mixed transparency profile with significant weaknesses in key areas. While maintaining a clean criminal record and good attendance, the MP shows concerning gaps in committee participation, legislative activity, and public accessibility, resulting in a below-average overall transparency score.
+Murasoli S has a below-average transparency score of 48.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Murasoli S
-
-### Overall Assessment
-
-Murasoli S represents Thanjavur constituency in Tamil Nadu as a Lok Sabha member from the Dravida Munnetra Kazhagam (DMK) party. Based on available data, the MP maintains a clean legal record but faces significant data gaps across most transparency indicators, limiting comprehensive assessment. The evidence grades indicate moderate parliamentary data quality (C) but poor accessibility metrics (D).
-
-### Fund Utilization & Development
-
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Murasoli S, including entitlement amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary tool for constituency development.
-
-However, broader systemic concerns exist in Tamil Nadu's fund management based on CAG audit findings. The 2010 CAG report (31 of 2010) identified significant issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. These systemic weaknesses raise questions about overall development fund effectiveness in the state.
-
-### Financial Transparency
-
-Asset disclosure data is entirely unavailable for Murasoli S. Neither current total assets nor previous asset values are reported, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are also missing, representing a complete transparency failure in financial disclosure.
-
-The MP's monthly compensation is reported at Rs 2.45 lakh, consistent with standard parliamentary remuneration structures.
-
-### Legal & Criminal Standing
-
-Murasoli S maintains a clean criminal record with zero cases across all categories: no total cases, serious cases, pending matters, disposed cases, or convictions. This represents a positive transparency indicator, though the automated system flags low confidence in criminal data availability, suggesting potential reporting gaps rather than confirmed clean status.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance stands at 85%, which exceeds the 70% threshold generally considered acceptable for effective representation. However, active participation appears limited with only 17 questions asked, 3 debate participations, and zero private member bills introduced during the tenure.
-
-No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability. This represents a significant gap as committee work often constitutes substantial parliamentary contribution beyond floor activities.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals minimal public engagement with only 10 news articles identified. The coverage breakdown shows concerning patterns: zero positive articles, one negative piece, and nine neutral reports. This limited media presence suggests either low public visibility or insufficient proactive communication with constituents.
-
-The evidence grade for accessibility rates as 'D', indicating poor performance in public outreach and engagement metrics. No social media engagement data or direct constituent interaction metrics are available.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight serious data quality issues:
-
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Low confidence in asset disclosure data
-- **MPLADS**: Low confidence in development fund data
-- **Committees**: Complete absence of committee participation data
-- **Legislative effectiveness**: Low confidence ratings
-
-These caveats significantly limit the reliability of this transparency assessment. The 'C' grade for parliamentary data and 'D' grade for accessibility suggest systemic issues with data collection or reporting rather than necessarily reflecting poor MP performance.
-
-### Key Takeaway
-
-Murasoli S presents as a constituency representative with clean legal standing and adequate parliamentary attendance, but transparency assessment is severely hampered by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and public engagement metrics. The combination of limited available data and concerning systemic issues identified in Tamil Nadu's development fund management suggests constituents may face challenges in properly evaluating their representative's effectiveness and accountability. Improved data disclosure and transparency reporting mechanisms are essential for meaningful democratic oversight.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 20,734,393. MPLADS utilization: 45.8%. Parliament attendance: 85.0%. Questions asked: 17. Debates participated: 3.
 
 ---
 
@@ -186,7 +138,7 @@ Murasoli S presents as a constituency representative with clean legal standing a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -265,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Murasoli S's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 45.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -282,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Sonitpur, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 56.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 29.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.98 Crore
+- **Liabilities:** Rs 2.43 Crore
+- **Net Worth:** Rs 6.55 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Ranjit Dutta shows mixed transparency performance with strong attendance (90%) and clean criminal record but significant gaps in legislative participation and committee involvement. The low data confidence (14%) and multiple validation flags suggest incomplete information availability, making comprehensive evaluation challenging.
+Ranjit Dutta shows moderate transparency with a score of 56.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Ranjit Dutta
-
-### Overall Assessment
-Ranjit Dutta represents the Sonitpur constituency in Assam as a Bharatiya Janata Party (BJP) member of the Lok Sabha. His transparency profile shows limited public disclosure of key financial and developmental data, with significant gaps in asset declaration and MPLADS utilization reporting. While maintaining clean criminal records and reasonable parliamentary attendance, the overall transparency framework suffers from substantial data unavailability across multiple dimensions.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. CAG audit findings for Assam reveal systemic concerns that may impact Sonitpur: Rs 1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level findings suggest potential implementation challenges that warrant attention in Dutta's constituency.
-
-### Financial Transparency
-Asset declaration data is completely absent, with no information available on current total assets, previous assets, growth ratios, or net worth calculations. This represents a significant transparency deficit as asset disclosure is mandatory for elected representatives. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset data, comprehensive financial transparency assessment is impossible.
-
-### Legal & Criminal Standing
-Ranjit Dutta maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. This positive indicator suggests adherence to legal standards expected of public representatives. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Dutta maintains 90% attendance, which exceeds typical parliamentary averages and demonstrates commitment to legislative responsibilities. However, his substantive participation appears limited with only 8 questions raised, zero participation in debates, and no private bills introduced. This suggests minimal active contribution to parliamentary discourse and legislative initiatives beyond physical presence.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage, suggesting limited public visibility or controversial positioning. The absence of strong media presence may indicate either effective non-controversial representation or insufficient public engagement. Social media and accessibility data show low confidence ratings (Evidence grade 'D' for accessibility), suggesting limited digital engagement with constituents.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence due to source unavailability. Asset information is entirely missing with low confidence ratings. MPLADS data is unavailable with low confidence. No committee membership information is available, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality concerns. Only 7 relevant CAG audit findings were available for Assam context.
-
-### Key Takeaway
-Ranjit Dutta presents a transparency profile characterized by clean criminal records and adequate parliamentary attendance but severely limited by data unavailability across critical areas including asset disclosure and development fund utilization. While maintaining legal compliance and basic parliamentary participation, the substantial gaps in financial and developmental transparency prevent comprehensive assessment of his effectiveness as a public representative. Improved data disclosure would significantly enhance accountability and public trust.
+No criminal cases declared. Declared assets: Rs 89,792,194. MPLADS utilization: 36.5%. Parliament attendance: 90.0%. Questions asked: 8.
 
 ---
 
@@ -162,7 +138,7 @@ Ranjit Dutta presents a transparency profile characterized by clean criminal rec
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ranjit Dutta's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

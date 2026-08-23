@@ -3,32 +3,34 @@
 **Constituency:** Coimbatore, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 11.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 89.04 Crore
+- **Liabilities:** Rs 3.33 Crore
+- **Net Worth:** Rs 85.71 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Ganapathy Rajkumar P shows mixed transparency performance with concerning gaps in key areas. While maintaining perfect criminal case disclosure and strong attendance (90%), he demonstrates significant weaknesses in committee participation (0%), legislative activity (0%), and accessibility to constituents (10%). The very low data confidence (14%) and high validation flags (6) suggest substantial information gaps that limit comprehensive evaluation.
+Ganapathy Rajkumar P shows moderate transparency with a score of 53.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Ganapathy Rajkumar P
-
-### Overall Assessment
-Ganapathy Rajkumar P, representing Coimbatore constituency for the Dravida Munnetra Kazhagam (DMK), presents a limited transparency profile due to significant data gaps across multiple key areas. While maintaining strong parliamentary attendance at 90%, the MP's overall accountability framework suffers from incomplete financial disclosures and missing development fund utilization data. The evidence grades of 'C' for parliamentary performance and 'D' for accessibility reflect these substantial information deficits.
-
-### Fund Utilization & Development
-Critical data regarding MPLADS fund utilization remains unavailable, with no information on entitlement amounts, releases, or expenditure patterns. This absence of transparency occurs against a concerning backdrop of systemic issues identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The 18% rate of abandoned or incomplete works in sampled projects raises additional concerns about development fund effectiveness in the broader Tamil Nadu context.
-
-### Financial Transparency
-The MP's asset declarations present a complete information void, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability. The monthly compensation of Rs 2,45,000 represents the only available financial metric, providing insufficient basis for comprehensive financial assessment.
-
-### Legal & Criminal Standing
-Ganapathy Rajkumar P maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, this assessment carries low confidence due to potential data source limitations, as indicated by the automated warning flags regarding criminal record data availability.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance commitment with a 90% parliamentary attendance rate, significantly above average benchmarks. Legislative engagement remains modest with 7 questions raised and participation in 1 debate during the review period. No private member bills were introduced, indicating limited legislative initiative. The absence of committee assignment data further constrains assessment of parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative), suggesting limited public visibility or controversial engagement. This neutral coverage pattern may indicate either effective consensus-building or insufficient media attention to substantive policy positions. The 'D' grade for accessibility reflects significant barriers to transparency and public accountability.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight substantial data reliability concerns. Criminal record data carries low confidence due to source unavailability. Asset information shows similarly compromised reliability. MPLADS utilization data is entirely missing, preventing fund accountability assessment. Committee membership information is unavailable, potentially due to incomplete Sansad profile data. These limitations significantly constrain comprehensive evaluation across most transparency dimensions.
-
-### Key Takeaway
-While Ganapathy Rajkumar P maintains exemplary parliamentary attendance and a clean legal record, the MP's transparency profile is severely compromised by extensive data gaps in financial disclosure and development fund utilization. The complete absence of asset declarations and MPLADS expenditure information, combined with systemic fund management issues identified in Tamil Nadu, creates substantial accountability deficits that require urgent attention to meet basic transparency standards expected of elected representatives.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 890,397,608. MPLADS utilization: 14.9%. Parliament attendance: 90.0%. Questions asked: 7. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ While Ganapathy Rajkumar P maintains exemplary parliamentary attendance and a cl
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ganapathy Rajkumar P's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Nandyal, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 40
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 17.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.76 Crore
+- **Liabilities:** Rs 3.20 Crore
+- **Net Worth:** Rs 11.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 67% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Byreddy Shabari shows a mixed transparency profile with moderate performance in core areas like MPLADS utilization and asset disclosure, and commendable attendance record. However, significant weaknesses in committee participation, legislative initiatives, and public accessibility substantially limit overall transparency, compounded by very low data confidence levels.
+Byreddy Shabari shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Byreddy Shabari
-
-### Overall Assessment
-Byreddy Shabari, representing Nandyal constituency in Andhra Pradesh as a Telugu Desam Party MP, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean legal record and demonstrating active parliamentary participation through questions and attendance, substantial information deficits in asset disclosure and MPLADS utilization raise transparency concerns.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context for Andhra Pradesh reveals systemic issues including Rs 1,558 crore in idle funds across district authorities and problematic utilization certificates, with 34% lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting broader governance challenges in the state's fund management systems.
-
-### Financial Transparency
-Asset declaration data is completely absent, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, preventing any assessment of financial standing or potential conflicts of interest. The MP receives a total monthly compensation of Rs 2,45,000, which is standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Byreddy Shabari maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability, suggesting this assessment may be incomplete.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 80% attendance, indicating consistent presence in the Lok Sabha. The MP has raised 47 questions, demonstrating active constituency representation and policy engagement. However, participation in debates remains limited at only 3 instances, and no private member bills have been introduced. The absence of committee assignment data further limits assessment of legislative contributions beyond basic participation metrics.
-
-### Public Engagement & Accessibility
-Public engagement analysis reveals neutral media coverage based on 10 news articles, with no positive or negative sentiment recorded - all articles maintaining neutral tone. This suggests limited media visibility or controversial positioning. Social media presence and direct constituent accessibility data are not available, limiting assessment of broader public engagement strategies. The evidence grade for accessibility is rated 'D', indicating poor transparency in public communication channels.
-
-### Data Quality & Caveats
-Significant data quality issues affect this assessment. Criminal record data carries low confidence warnings due to source unavailability. Asset information is entirely missing with low confidence ratings. MPLADS utilization data is completely absent, preventing fund usage assessment. Committee membership information is unavailable, possibly due to Sansad profile accessibility issues. Parliamentary performance data receives a 'C' grade, indicating moderate reliability. These gaps substantially limit the comprehensiveness of this transparency evaluation.
-
-### Key Takeaway
-Byreddy Shabari demonstrates basic parliamentary compliance with good attendance and question-raising activity, coupled with a clean legal record. However, critical transparency deficits in asset disclosure and MPLADS fund utilization, combined with limited legislative initiative and public engagement, suggest significant room for improvement in overall accountability. The systemic fund management issues identified in Andhra Pradesh's CAG audits underscore the importance of enhanced financial transparency and oversight mechanisms for effective constituency development.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 147,631,050. MPLADS utilization: 21.7%. Parliament attendance: 80.0%. Questions asked: 47. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Byreddy Shabari demonstrates basic parliamentary compliance with good attendance
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Byreddy Shabari's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

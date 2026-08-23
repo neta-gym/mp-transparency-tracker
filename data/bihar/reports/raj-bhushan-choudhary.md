@@ -3,23 +3,25 @@
 **Constituency:** Muzaffarpur, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 59.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 61.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 20.53 Crore
+- **Liabilities:** Rs 5.46 Crore
+- **Net Worth:** Rs 15.07 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 64.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Raj Bhushan Choudhary shows mixed transparency performance with a clean criminal record being his strongest asset, but significant weaknesses in legislative engagement and public accessibility. His moderate scores in MPLADS utilization, asset disclosure, and parliamentary participation suggest basic compliance but limited proactive engagement. The concerning zero scores in committee work and legislative contributions, combined with very low accessibility metrics, indicate substantial room for improvement in representative duties.
+Raj Bhushan Choudhary shows moderate transparency with a score of 59.8/100. No criminal cases declared.
 
 ---
 
-## Executive Summary: Raj Bhushan Choudhary
-
-### Overall Assessment
-Raj Bhushan Choudhary serves as the Bharatiya Janata Party MP from Muzaffarpur, Bihar in the Lok Sabha. His transparency profile shows significant data limitations across most key indicators, with evidence grades of 'C' for parliamentary activity and 'D' for accessibility. The lack of comprehensive data makes it challenging to provide a thorough assessment of his performance and transparency as a public representative.
-
-### Fund Utilization & Development
-No specific MPLADS (Member of Parliament Local Area Development Scheme) data is available for Raj Bhushan Choudhary, including entitlement amounts, releases, expenditures, or utilization percentages. However, Bihar faces systemic challenges in fund management as highlighted by CAG audits. The 2010 CAG report (31 of 2010) identified Rs 1,558 crore in idle funds across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These audit findings suggest broader governance challenges in the state that may impact local development initiatives.
-
-### Financial Transparency
-Asset disclosure information is unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for all MPs. The MP's monthly compensation is recorded at Rs 2,45,000, consistent with standard parliamentary remuneration. The absence of asset data raises concerns about financial transparency compliance.
-
-### Legal & Criminal Standing
-Raj Bhushan Choudhary maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential gaps in criminal record verification. While this appears positive, the data quality caveat suggests caution in interpreting these figures as definitive.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with no recorded information on attendance percentages, questions asked, debates participated in, or private bills introduced. The profile notes that the MP serves as a Minister, which may explain lower attendance due to executive duties. However, the complete absence of quantifiable parliamentary engagement metrics makes it impossible to assess legislative effectiveness. No committee membership data is available, suggesting the Sansad profile may be inaccessible.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral media presence suggests limited public visibility or controversial incidents. However, the accessibility evidence grade of 'D' indicates poor public engagement metrics. The absence of robust social media presence or public interaction data further limits assessment of constituent connectivity.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information shows low confidence warnings
-- MPLADS and parliamentary activity data both carry low confidence ratings
-- Committee information is entirely unavailable
-- Legislative effectiveness data has low confidence ratings
-
-These limitations severely constrain the ability to provide comprehensive transparency assessment. The evidence grades of 'C' for parliamentary activity and 'D' for accessibility reflect these data quality issues.
-
-### Key Takeaway
-Raj Bhushan Choudhary's transparency profile is characterized by extensive data gaps rather than clear performance indicators. While he maintains a clean criminal record and receives standard parliamentary compensation, the absence of asset declarations, MPLADS utilization data, and parliamentary activity metrics creates significant transparency concerns. His ministerial position may explain some activity limitations, but the overall lack of verifiable information across multiple domains suggests poor compliance with transparency norms. The systemic fund management issues identified in Bihar's CAG audits underscore the need for enhanced accountability mechanisms in the state's development programs.
+No criminal cases declared. Declared assets: Rs 205,295,066. MPLADS utilization: 64.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Raj Bhushan Choudhary's transparency profile is characterized by extensive data 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raj Bhushan Choudhary's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 64.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

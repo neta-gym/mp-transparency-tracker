@@ -3,32 +3,34 @@
 **Constituency:** Karimnagar, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 52
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 32.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 26.2 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 42
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 42
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.13 Crore
+- **Liabilities:** Rs 13.40 Lakh
+- **Net Worth:** Rs 99.35 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 32.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,41 +95,11 @@
 
 ## Qualitative Assessment
 
-Bandi Sanjay Kumar shows a mixed transparency profile with moderate performance in basic disclosure areas but significant gaps in legislative engagement. While he maintains clean criminal records and average scores in MPLADS utilization and asset declaration, his complete absence from committee work and poor accessibility ratings raise concerns about parliamentary effectiveness and constituent engagement.
+Bandi Sanjay Kumar has a below-average transparency score of 32.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Bandi Sanjay Kumar
-
-### Overall Assessment
-Bandi Sanjay Kumar, BJP MP from Karimnagar, Telangana, presents a transparency profile with significant data gaps that limit comprehensive assessment. While available criminal record data shows no cases, most performance indicators including assets, MPLADS utilization, and parliamentary activity lack reliable information. The MP's profile receives low evidence grades (C for parliament, D for accessibility), indicating substantial transparency challenges.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for assessment. However, CAG audit findings for Telangana reveal systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data on Kumar's MPLADS performance, it's impossible to determine whether these state-level issues affect his constituency development work.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, preventing assessment of financial transparency. Current assets, previous assets, growth ratios, and net worth data are all missing. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The MP's monthly compensation is documented at Rs 2,45,000.
-
-### Legal & Criminal Standing
-Available criminal record data shows zero cases across all categories - no total cases, serious cases, pending cases, disposed cases, or convictions. However, this data carries a low confidence warning, indicating potential source unavailability. While the clean record is positive, the data quality concerns require cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary activity metrics are entirely unavailable, including attendance percentage, questions asked, debates participated in, and private bills introduced. The profile notes Kumar serves as a Minister, which could explain lower attendance due to executive duties. However, without actual data, performance assessment is impossible. This represents a critical transparency gap for evaluating legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows limited but neutral engagement, with 10 articles identified (0 positive, 1 negative, 9 neutral). The predominantly neutral coverage suggests minimal controversial incidents but also indicates limited proactive public communication. No committee participation data is available, and the profile receives a D grade for accessibility, suggesting poor public information availability.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Low confidence in criminal record data due to potential source unavailability
-- Low confidence in asset, MPLADS, and parliamentary activity data
-- Missing committee and legislative effectiveness information
-- Sansad profile potentially unavailable
-
-These limitations severely constrain meaningful transparency assessment and suggest either poor record-keeping or inadequate data disclosure practices.
-
-### Key Takeaway
-Bandi Sanjay Kumar's transparency profile is characterized by extensive data gaps rather than performance indicators. While available criminal record data appears clean, the absence of asset declarations, MPLADS utilization data, and parliamentary activity metrics represents a substantial transparency deficit. The systemic issues identified in Telangana's fund utilization through CAG audits underscore the importance of transparent constituency development reporting. Significant improvements in data availability and public disclosure are essential for meaningful accountability assessment.
+Has 42 criminal case(s) (0 serious), 42 pending, 0 conviction(s). Declared assets: Rs 11,275,000. MPLADS utilization: 32.7%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ Bandi Sanjay Kumar's transparency profile is characterized by extensive data gap
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bandi Sanjay Kumar's MPLADS account: Released: Rs 17, Expended: Rs 6, Utilization: 32.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,23 @@
 **Constituency:** Narsapuram, Andhra Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 0.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.17 Crore
+- **Liabilities:** Rs 1.69 Crore
+- **Net Worth:** Rs 5.47 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.0%
 
 ---
 
@@ -83,9 +84,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Srinivasa Varma shows a mixed transparency profile with significant weaknesses in legislative engagement and public accessibility. While maintaining a clean criminal record, the MP demonstrates poor committee participation and minimal legislative contribution, suggesting limited active engagement in parliamentary duties.
+Srinivasa Varma B J P Varma Bhupathiraju has a below-average transparency score of 47.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Srinivasa Varma B J P Varma Bhupathiraju
-
-### Overall Assessment
-MP Srinivasa Varma B J P Varma Bhupathiraju represents Narsapuram constituency in Andhra Pradesh for the Bharatiya Janata Party in the Lok Sabha. This assessment reveals significant data gaps across all transparency metrics, making it challenging to evaluate his performance comprehensively. The available information shows a clean criminal record and ministerial status, but lacks crucial details on financial transparency and parliamentary engagement.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Bhupathiraju, including entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are typically entitled to ₹5 crore annually for constituency development. The CAG audit context reveals systemic issues in Andhra Pradesh, including ₹1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about fund utilization effectiveness in the state.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly hampers transparency assessment. The MP's monthly compensation is listed at ₹2,45,000, which appears consistent with standard parliamentary compensation structures. However, without baseline asset information, it's impossible to evaluate potential conflicts of interest or wealth accumulation patterns.
-
-### Legal & Criminal Standing
-MP Bhupathiraju maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potential source unavailability, suggesting this assessment should be viewed with caution.
-
-### Parliamentary Performance
-Parliament activity data shows concerning gaps, with attendance percentage, question submissions, debate participation, and private bill introductions all listed as unavailable or zero. The MP holds ministerial status, which may legitimately impact attendance patterns due to executive responsibilities. However, the complete absence of quantifiable parliamentary engagement metrics, combined with a 'C' grade evidence rating for parliamentary data, suggests either poor data collection or minimal legislative activity.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial issues. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee participation data is available, and social media presence appears limited based on the available sources.
-
-### Data Quality & Caveats
-This assessment faces significant methodological limitations. Automated flags indicate low confidence across criminal records, assets, MPLADS, and parliamentary activity data. The absence of committee information suggests the MP's Sansad profile may be unavailable. Evidence grades show moderate confidence in parliamentary data (C) but poor accessibility data (D). These substantial data gaps mean this assessment cannot definitively evaluate the MP's transparency or effectiveness. The CAG audit context provides relevant systemic insights for Andhra Pradesh but doesn't specifically address this MP's performance.
-
-### Key Takeaway
-MP Srinivasa Varma B J P Varma Bhupathiraju's transparency profile cannot be adequately assessed due to pervasive data unavailability across financial, parliamentary, and development metrics. While he maintains a clean legal record and holds ministerial position, the absence of crucial transparency indicators - including asset declarations, MPLADS utilization, and parliamentary engagement statistics - represents a significant accountability gap that voters and oversight bodies should address.
+No criminal cases declared. Declared assets: Rs 71,664,809. MPLADS utilization: 0.0%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +138,7 @@ MP Srinivasa Varma B J P Varma Bhupathiraju's transparency profile cannot be ade
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Srinivasa Varma B J P Varma Bhupathiraju's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +236,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

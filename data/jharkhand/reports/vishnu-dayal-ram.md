@@ -3,23 +3,25 @@
 **Constituency:** Palamu, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 72
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 65.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 32.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.91 Crore
+- **Liabilities:** Rs 12.38 Lakh
+- **Net Worth:** Rs 3.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 6
+- **Utilization Rate:** 40.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,47 +94,11 @@
 
 ## Qualitative Assessment
 
-Vishnu Dayal Ram demonstrates mixed transparency performance with strong attendance and participation but significant gaps in committee engagement and legislative contributions. While maintaining a clean criminal record and reasonable asset disclosure, the MP shows concerning weaknesses in accessibility to constituents and complete absence of measurable committee and legislative activity.
+Vishnu Dayal Ram shows moderate transparency with a score of 65.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Vishnu Dayal Ram
-
-### Overall Assessment
-Vishnu Dayal Ram, BJP MP from Palamu constituency in Jharkhand, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While showing perfect parliamentary attendance and active legislative participation, critical information about assets, MPLADS funding, and committee involvement is unavailable. The profile reflects systemic data quality issues common in Indian parliamentary transparency reporting.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Palamu constituency. The absence of this data prevents evaluation of how effectively allocated development funds are being used to address local infrastructure and social needs.
-
-CAG audit findings highlight broader systemic issues in fund management across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. These findings suggest potential vulnerabilities in development fund oversight that may impact Palamu constituency.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial data significantly hampers assessment of the MP's financial transparency and potential conflicts of interest. Monthly compensation is listed at Rs 2.45 lakh, representing standard parliamentary remuneration.
-
-The lack of asset information prevents evaluation of wealth accumulation patterns or potential undeclared interests that could influence policy positions or constituency work.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories—no pending cases, convictions, or serious charges. However, data quality warnings indicate "low confidence in criminal data" due to potentially unavailable sources, suggesting this clean record should be interpreted cautiously.
-
-While the reported zero criminal cases is positive, the data reliability concerns mean this assessment may not reflect complete information from all relevant law enforcement and judicial databases.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong attendance at 100%, demonstrating consistent presence during sessions. Legislative activity includes 61 questions raised and participation in 13 debates, indicating active engagement with parliamentary procedures. However, no private member bills were introduced, suggesting limited legislative initiative beyond routine parliamentary functions.
-
-The absence of committee data represents another significant gap, as committee work often constitutes substantial parliamentary contribution. Without this information, the full scope of legislative effectiveness cannot be assessed.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all classified as neutral with no explicitly positive or negative coverage. This neutral media presence suggests limited public visibility or controversial positioning. The lack of varied sentiment in coverage may indicate insufficient media engagement or limited newsworthy activities.
-
-Social media and accessibility metrics receive a 'D' grade, indicating poor digital engagement and public communication channels. This low accessibility score suggests limited direct constituent interaction through modern communication platforms.
-
-### Data Quality & Caveats
-The profile suffers from substantial data quality issues across multiple domains. Evidence grades of 'C' for parliament data and 'D' for accessibility reflect moderate to poor data reliability. Automated flags indicate low confidence in criminal records, assets, and MPLADS data due to potentially unavailable sources.
-
-Missing committee information suggests the MP's Sansad profile may be unavailable, creating gaps in comprehensive evaluation. These data limitations significantly constrain the ability to provide definitive assessments of performance and transparency.
-
-### Key Takeaway
-While Vishnu Dayal Ram demonstrates strong parliamentary attendance and maintains a clean legal record, the extensive data gaps—particularly in asset disclosure, MPLADS utilization, and committee work—severely limit transparency assessment. The MP's profile exemplifies broader challenges in Indian parliamentary data availability and quality. Perfect attendance and active questioning suggest engagement with legislative duties, but without complete financial and development fund information, constituents cannot fully evaluate their representative's effectiveness and transparency. Improved data disclosure and digital engagement would significantly enhance accountability and public trust.
+No criminal cases declared. Declared assets: Rs 39,081,116. MPLADS utilization: 40.8%. Parliament attendance: 100.0%. Questions asked: 61. Debates participated: 13.
 
 ---
 
@@ -174,7 +138,7 @@ While Vishnu Dayal Ram demonstrates strong parliamentary attendance and maintain
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -253,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vishnu Dayal Ram's MPLADS account: Released: Rs 16, Expended: Rs 6, Utilization: 40.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -270,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

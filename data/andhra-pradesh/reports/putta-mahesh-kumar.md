@@ -3,18 +3,18 @@
 **Constituency:** Eluru, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-08-20
+**Report Date:** 2026-08-23
 **Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 46.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 45.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -95,7 +95,7 @@
 
 ## Qualitative Assessment
 
-Putta Mahesh Kumar shows moderate transparency with a score of 57.5/100. No criminal cases declared. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Putta Mahesh Kumar has a below-average transparency score of 46.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
@@ -139,7 +139,7 @@ No criminal cases declared. Parliament attendance: 60.0%. Questions asked: 51. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 20/08/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

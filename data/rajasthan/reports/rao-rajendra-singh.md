@@ -3,23 +3,25 @@
 **Constituency:** Jaipur Rural, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 6.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 29.34 Crore
+- **Liabilities:** Rs 2.09 Crore
+- **Net Worth:** Rs 27.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 7.6%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +96,11 @@
 
 ## Qualitative Assessment
 
-Rao Rajendra Singh demonstrates a mixed transparency profile with particularly weak performance in legislative initiatives and committee participation, both scoring zero. While maintaining a clean criminal record, the MP shows moderate performance across most other areas but significantly underperforms in accessibility to constituents.
+Rao Rajendra Singh has a below-average transparency score of 49.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Rao Rajendra Singh
-
-### Overall Assessment
-Rao Rajendra Singh, BJP MP from Jaipur Rural constituency in Rajasthan, presents a transparency profile significantly hampered by data availability issues. With incomplete information across most key performance indicators and evidence grades of 'C' for parliament activity and 'D' for accessibility, a comprehensive assessment of his effectiveness as an MP cannot be reliably conducted. The limited available data suggests minimal public visibility but no apparent criminal concerns.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing any assessment of developmental impact in the Jaipur Rural constituency. The CAG audit context for Rajasthan reveals systemic issues that may affect his constituency: Rs 1,558 crore in idle funds across state district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. However, without specific MPLADS data for Rao Rajendra Singh, it cannot be determined whether these state-wide issues affect his fund management.
-
-### Financial Transparency
-Asset declaration data is completely missing, making financial transparency assessment impossible. The absence of current asset values, previous declarations, growth ratios, and net worth information represents a significant transparency gap. His monthly compensation stands at Rs 2.45 lakh, consistent with standard MP remuneration, but without asset disclosures, potential conflicts of interest or wealth accumulation patterns cannot be evaluated.
-
-### Legal & Criminal Standing
-Rao Rajendra Singh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability. While this appears positive, the data quality caveat prevents definitive conclusions about his legal standing.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps with zero recorded questions, debates, or private bills. Attendance percentage is not available. The MP holds ministerial position, which typically results in lower traditional parliamentary metrics due to executive duties, potentially explaining the minimal legislative activity. However, the 'C' grade evidence quality suggests these figures may not reflect actual performance due to data collection limitations.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral. This minimal media presence suggests either low public visibility or limited newsworthiness of activities. The 'D' grade for accessibility evidence indicates poor data availability regarding public outreach, constituency interaction, or digital presence. Committee participation data is entirely absent, further limiting assessment of his parliamentary engagement.
-
-### Data Quality & Caveats
-This profile suffers from significant data quality issues across multiple domains:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is completely missing
-- MPLADS utilization data is unavailable
-- Parliamentary activity data has low confidence ratings
-- Committee participation data is absent
-- Legislative effectiveness data has low confidence
-
-These limitations severely constrain the reliability of any performance assessment. The evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these data quality concerns.
-
-### Key Takeaway
-Rao Rajendra Singh's transparency profile is characterized by extensive data gaps that prevent meaningful performance evaluation. While no negative indicators are apparent in available data (clean criminal record, no adverse media coverage), the absence of crucial information on fund utilization, assets, and detailed parliamentary activity creates significant transparency deficits. His ministerial role may explain some parliamentary activity limitations, but the overall lack of accessible performance data raises concerns about public accountability. Improved data disclosure and transparency mechanisms are essential for proper assessment of his effectiveness as an MP representing Jaipur Rural constituency.
+No criminal cases declared. Declared assets: Rs 293,352,992. MPLADS utilization: 7.6%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -171,7 +140,7 @@ Rao Rajendra Singh's transparency profile is characterized by extensive data gap
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rao Rajendra Singh's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 7.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Perambalur, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 27
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 60.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 34.5 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 98.80 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 98.80 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 6
+- **Utilization Rate:** 43.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-Arun Nehru's transparency profile shows significant weaknesses despite excellent attendance (95%) and a clean criminal record. Major concerns include complete absence from committee work and legislative activities, extremely poor accessibility to constituents, and mediocre performance in MPLADS utilization and parliamentary participation.
+Arun Nehru shows moderate transparency with a score of 60.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Arun Nehru
-
-### Overall Assessment
-
-Arun Nehru, representing Perambalur constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining strong parliamentary attendance (95%), the MP's profile suffers from incomplete financial and development fund data. The lack of criminal cases and neutral media coverage suggest a relatively clean public record, though limited transparency infrastructure hampers full evaluation.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable for MP Nehru, with no information on entitled amounts, funds released, or expenditure levels. This data gap is particularly concerning given the CAG audit context revealing systemic issues in Tamil Nadu's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess whether Nehru's constituency faces similar challenges.
-
-### Financial Transparency
-
-Asset disclosure information is completely missing from available records, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives a total monthly compensation of Rs 2,45,000, which appears standard for parliamentary positions but lacks context without asset declarations.
-
-### Legal & Criminal Standing
-
-Arun Nehru maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in source availability. While this clean record is positive, the warning about data reliability means this assessment should be viewed with caution.
-
-### Parliamentary Performance
-
-The MP demonstrates strong parliamentary engagement with 95% attendance, significantly above average benchmarks. Legislative activity shows 9 questions raised and participation in 10 debates, indicating active parliamentary participation. However, no private member's bills were introduced, suggesting limited legislative initiative beyond party positions. The absence of committee membership data (flagged due to unavailable Sansad profile) prevents assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media presence suggests either limited public engagement or careful media management. The evidence grade for accessibility is rated 'D', indicating poor public transparency and limited citizen engagement mechanisms. No social media activity data is available despite being listed as a source, further highlighting engagement limitations.
-
-### Data Quality & Caveats
-
-This assessment faces significant data quality challenges across multiple domains:
-
-- **Criminal Records**: Low confidence warning due to potentially unavailable sources
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No fund utilization data available
-- **Parliamentary Committees**: Missing committee membership information
-- **Legislative Effectiveness**: Low confidence in available data
-
-Evidence grades reflect these limitations with Parliament activity rated 'C' and accessibility rated 'D'. The automated flagging system identifies multiple data gaps that materially impact assessment reliability.
-
-### Key Takeaway
-
-While Arun Nehru maintains strong parliamentary attendance and a clean legal record, significant transparency gaps prevent comprehensive evaluation of his effectiveness as an MP. The absence of critical data on asset declarations, MPLADS utilization, and committee work, combined with neutral media coverage and poor accessibility ratings, suggests limited public accountability infrastructure. Given the systemic issues identified in Tamil Nadu's fund management by CAG audits, the lack of MPLADS data is particularly concerning. Citizens and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of this MP's performance and accountability.
+No criminal cases declared. Declared assets: Rs 9,880,000. MPLADS utilization: 43.1%. Parliament attendance: 95.0%. Questions asked: 9. Debates participated: 10.
 
 ---
 
@@ -178,7 +138,7 @@ While Arun Nehru maintains strong parliamentary attendance and a clean legal rec
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Arun Nehru's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 43.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Barrackpur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 39.5 / 100
+## Composite Transparency Score: 38.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.5 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 10.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.42 Crore
+- **Liabilities:** Rs 1.11 Crore
+- **Net Worth:** Rs 4.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 44% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Partha Bhowmick shows a concerning transparency profile with significant deficiencies across most accountability measures. While maintaining a clean criminal record, his extremely poor attendance (10%) and complete absence from committee work and legislative initiatives severely undermine his effectiveness. The moderate MPLADS and assets disclosure scores are overshadowed by poor participation and accessibility metrics.
+Partha Bhowmick has a below-average transparency score of 38.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-## Executive Summary: Partha Bhowmick
-
-### Overall Assessment
-Partha Bhowmick, representing Barrackpur constituency in West Bengal as an All India Trinamool Congress MP, presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean criminal record, his parliamentary engagement appears limited with concerning attendance patterns. The analysis is hampered by substantial missing data across financial and development metrics, raising questions about transparency and accountability.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, releases, expenditure, or utilization rates. This data gap is particularly concerning given West Bengal's documented challenges with fund management. CAG audit findings reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Bhowmick's constituency, it's impossible to assess his development impact or fund utilization effectiveness.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for assessing potential conflicts of interest. Only compensation data is available, showing a monthly salary of Rs 2,45,000, which aligns with standard MP compensation structures. The absence of asset data prevents any meaningful assessment of financial transparency or wealth accumulation patterns.
-
-### Legal & Criminal Standing
-Bhowmick maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality concerns are flagged, with low confidence in the criminal record information due to potential source unavailability. While the clean record is positive, the data reliability caveat requires consideration when evaluating this aspect of his profile.
-
-### Parliamentary Performance
-Parliamentary attendance stands at a concerning 10%, significantly below acceptable standards for elected representatives. Legislative activity is minimal with only 1 question raised and 2 debate participations recorded, alongside zero private member bills. No committee membership data is available, potentially due to unavailable Sansad profile information. This limited engagement pattern suggests reduced effectiveness in representing constituency interests and participating in the legislative process. The overall evidence grade for parliamentary performance is rated 'C', indicating moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with a predominantly neutral tone - 8 neutral articles, 2 negative, and zero positive coverage. This mixed sentiment suggests limited positive public engagement or notable achievements gaining media attention. The accessibility evidence grade is rated 'D', indicating poor data quality in this domain. No social media engagement metrics or public outreach data are available, limiting assessment of constituent communication and accessibility.
-
-### Data Quality & Caveats
-Significant data quality issues permeate this analysis. Critical warnings include low confidence in criminal record data due to source unavailability, complete absence of asset information, and missing MPLADS utilization data. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data carries low confidence ratings. These gaps substantially limit the reliability of this transparency assessment and highlight systemic data availability challenges that may affect accountability mechanisms.
-
-### Key Takeaway
-Partha Bhowmick's transparency profile is characterized by substantial data gaps that prevent comprehensive assessment across multiple critical dimensions. While maintaining a clean criminal record, his minimal parliamentary engagement (10% attendance, limited legislative activity) raises concerns about representative effectiveness. The complete absence of financial and MPLADS data, combined with neutral-to-negative media coverage, suggests limited transparency and public accountability. The numerous data quality warnings indicate systemic issues that may compromise oversight mechanisms, requiring urgent attention to ensure proper democratic accountability for this constituency.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 54,235,841. MPLADS utilization: 20.6%. Parliament attendance: 10.0%. Questions asked: 1. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ Partha Bhowmick's transparency profile is characterized by substantial data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Partha Bhowmick's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

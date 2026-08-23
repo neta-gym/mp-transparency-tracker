@@ -3,23 +3,25 @@
 **Constituency:** Silchar, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 2.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.73 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.73 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 3.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Parimal Suklabaidya shows mixed transparency performance with strong attendance and clean criminal record but significant gaps in legislative participation and committee involvement. His MPLADS and asset disclosure scores are average, while accessibility and legislative activity scores indicate limited public engagement and parliamentary contribution.
+Parimal Suklabaidya shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Parimal Suklabaidya
-
-### Overall Assessment
-Parimal Suklabaidya, BJP MP representing Silchar, Assam, presents a limited transparency profile due to significant data gaps across multiple assessment categories. While showing perfect parliamentary attendance (100%), the absence of critical financial and development data severely constrains comprehensive evaluation of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that CAG audits have identified systemic issues in Assam's fund management. The 2010 CAG audit (Report 31) found concerning patterns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Suklabaidya's constituency, assessment of local development impact remains impossible.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 245,000, but without baseline asset information, tracking financial changes during tenure is not feasible.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), indicating a clean legal profile. However, data confidence is flagged as low, suggesting potential gaps in source availability or verification. While the available data suggests no criminal concerns, the uncertainty flag warrants cautious interpretation.
-
-### Parliamentary Performance
-Suklabaidya demonstrates strong attendance with a perfect 100% parliamentary participation rate. However, legislative engagement appears limited with only 3 questions raised, 2 debate participations, and zero private member bills introduced. No committee membership data is available, likely due to unavailable Sansad profile information. This suggests adequate physical presence but potentially limited substantive legislative contribution.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral with zero positive or negative sentiment pieces. This neutral coverage pattern suggests minimal controversial issues but also potentially limited high-impact achievements or public engagement initiatives. Social media presence data is insufficient for comprehensive digital engagement assessment.
-
-### Data Quality & Caveats
-Multiple significant data quality warnings affect this assessment:
-- Criminal record data carries low confidence flags due to potential source unavailability
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is entirely unavailable despite being crucial for development assessment
-- Committee participation data is absent due to inaccessible Sansad profiles
-- Legislative effectiveness data shows low confidence levels
-- Evidence grades are concerning: Parliament performance rated 'C' and accessibility rated 'D'
-
-The CAG audit context for Assam reveals 7 relevant findings highlighting systemic fund management issues, making the absence of MPLADS data particularly problematic for accountability assessment.
-
-### Key Takeaway
-Parimal Suklabaidya's transparency profile is severely hampered by extensive data unavailability across critical assessment areas. While maintaining perfect parliamentary attendance and a clean criminal record, the absence of asset declarations, MPLADS utilization data, and limited legislative engagement raises significant transparency concerns. The neutral media coverage and systemic fund management issues identified in Assam underscore the need for improved data disclosure and accountability mechanisms to enable meaningful public oversight of his representation.
+No criminal cases declared. Declared assets: Rs 17,257,627. MPLADS utilization: 3.0%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Parimal Suklabaidya's transparency profile is severely hampered by extensive dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Parimal Suklabaidya's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 3.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

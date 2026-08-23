@@ -3,23 +3,25 @@
 **Constituency:** Mumbai North, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 11.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 110.95 Crore
+- **Liabilities:** Rs 14.23 Crore
+- **Net Worth:** Rs 96.72 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Piyush Goyal shows a mixed transparency profile with moderate scores in MPLADS utilization, asset disclosure, and parliamentary participation, while maintaining a clean criminal record. However, significant deficiencies exist in committee participation, legislative contributions, and public accessibility, which substantially impact overall transparency.
+Piyush Vedprakash Goyal has a below-average transparency score of 49.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Piyush Vedprakash Goyal
-
-### Overall Assessment
-Piyush Vedprakash Goyal, BJP MP from Mumbai North, Maharashtra, presents a mixed transparency profile hampered by significant data gaps across multiple categories. As a Minister in the current government, his executive responsibilities may impact traditional parliamentary metrics. The limited available data shows a clean criminal record but lacks comprehensive information on assets, MPLADS utilization, and parliamentary activity.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing his developmental impact in Mumbai North constituency. The absence of this data is particularly concerning given CAG audit findings highlighting systemic issues in MPLADS implementation across Maharashtra, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This prevents any assessment of financial transparency or potential conflicts of interest. The only available financial information is his monthly compensation of Rs 245,000, which represents standard parliamentary remuneration. The complete absence of asset data significantly undermines transparency assessment.
-
-### Legal & Criminal Standing
-Goyal maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the available data shows no legal issues, the reliability caveat requires noting.
-
-### Parliamentary Performance
-Parliamentary activity metrics are largely unavailable, showing zero questions asked, zero debates participated in, and zero private bills introduced. Attendance data is also missing. As a Minister, his lower traditional parliamentary activity may be explained by executive duties, which typically reduce floor participation. However, the complete absence of data prevents meaningful assessment of his legislative effectiveness or constituent representation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 7 articles with predominantly neutral sentiment (6 neutral, 1 positive, 0 negative), indicating limited but generally favorable public visibility. The evidence grade for accessibility rates poorly at 'D', suggesting minimal public engagement or transparency in communication. No committee participation data is available, as Sansad profile information appears unavailable.
-
-### Data Quality & Caveats
-The assessment faces severe data quality limitations with evidence grades of 'C' for parliament and 'D' for accessibility. Automated warnings flag low confidence across criminal records, assets, MPLADS, and parliamentary activity data. Multiple data sources (PRS, social media, news) were consulted, but critical information remains unavailable. The systemic data gaps significantly limit the reliability of this transparency assessment and prevent comprehensive evaluation of performance.
-
-### Key Takeaway
-While Piyush Vedprakash Goyal shows no criminal concerns and maintains neutral media coverage, his transparency profile is severely compromised by extensive data unavailability across assets, MPLADS utilization, and parliamentary activity. As a Minister, some reduced parliamentary metrics may be expected, but the complete absence of financial and developmental fund data represents a significant transparency deficit that prevents meaningful accountability assessment for Mumbai North constituents.
+No criminal cases declared. Declared assets: Rs 1,109,514,447. MPLADS utilization: 14.6%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ While Piyush Vedprakash Goyal shows no criminal concerns and maintains neutral m
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Piyush Vedprakash Goyal's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

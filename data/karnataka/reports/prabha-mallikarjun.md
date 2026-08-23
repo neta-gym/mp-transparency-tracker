@@ -3,23 +3,25 @@
 **Constituency:** Davanagere, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 48
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 18.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 241.28 Crore
+- **Liabilities:** Rs 24.71 Crore
+- **Net Worth:** Rs 216.57 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.7%
 
 ---
 
@@ -84,9 +87,6 @@ in Davanagere South - The New Indian Express (The New Indian Express) [neutral]
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -95,34 +95,11 @@ in Davanagere South - The New Indian Express (The New Indian Express) [neutral]
 
 ## Qualitative Assessment
 
-Prabha Mallikarjun shows a mixed transparency profile with moderate overall performance at 50.5/100. While maintaining excellent criminal record transparency and strong parliamentary attendance, significant concerns exist in committee participation, legislative activity, and public accessibility where scores are extremely low or zero.
+Prabha Mallikarjun shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Prabha Mallikarjun
-### Overall Assessment
-Prabha Mallikarjun, Indian National Congress MP from Davanagere, Karnataka, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and demonstrating strong parliamentary attendance at 90%, critical financial and developmental data remains unavailable, severely limiting comprehensive assessment of her effectiveness as a public representative.
-
-### Fund Utilization & Development
-Complete absence of MPLADS (Member of Parliament Local Area Development Scheme) data presents a major transparency gap. No information is available regarding entitled funds, releases, expenditures, or utilization rates, making it impossible to assess developmental impact in Davanagere constituency. This data void is particularly concerning given the CAG audit context revealing systemic issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency deficit that prevents public evaluation of potential conflicts of interest or wealth accumulation patterns. The MP receives Rs 2,45,000 monthly as total compensation, but without baseline asset data, monitoring financial propriety remains impossible.
-
-### Legal & Criminal Standing
-Prabha Mallikarjun maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the automated system flags low confidence in this criminal data due to potential source unavailability, suggesting this positive assessment should be verified through additional channels.
-
-### Parliamentary Performance
-Demonstrates solid parliamentary engagement with 90% attendance, significantly above average MP participation rates. Her legislative activity shows moderate involvement with 17 questions raised and participation in 8 debates, indicating active constituency representation and policy engagement. However, she has not introduced any private member bills, suggesting limited initiative in legislative innovation. No committee membership data is available, preventing assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles, all maintaining neutral sentiment with no positive or negative coverage identified. This suggests either limited media visibility or absence of controversial issues. The evidence grade for accessibility rates poorly at 'D', indicating significant deficiencies in public communication and constituent engagement mechanisms. No social media engagement metrics are available despite social media being listed as a data source.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to multiple data quality issues. Critical warnings include low confidence in criminal records, assets, and MPLADS data. The parliamentary performance evidence grade of 'C' indicates moderate reliability, while accessibility scores 'D' for poor data quality. Committee information is entirely unavailable, and legislative effectiveness data shows low confidence ratings. These data gaps severely constrain comprehensive evaluation and suggest either incomplete disclosure compliance or systematic data collection failures.
-
-### Key Takeaway
-Prabha Mallikarjun presents a transparency profile characterized more by data absence than substantive assessment opportunities. While maintaining clean criminal records and strong parliamentary attendance, the complete lack of financial and developmental fund data creates significant accountability concerns. The neutral media coverage and poor accessibility ratings suggest limited public engagement, while systemic data quality issues prevent meaningful evaluation of her effectiveness as Davanagere's representative. Urgent improvements in data disclosure and public engagement mechanisms are essential for enhanced democratic accountability.
+No criminal cases declared. Declared assets: Rs 2,412,803,910. MPLADS utilization: 23.7%. Parliament attendance: 90.0%. Questions asked: 17. Debates participated: 8.
 
 ---
 
@@ -162,7 +139,7 @@ Prabha Mallikarjun presents a transparency profile characterized more by data ab
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Prabha Mallikarjun's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

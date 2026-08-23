@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { GradeBadge } from "./GradeBadge";
 import { ConfidenceBadge } from "./ConfidenceBadge";
@@ -9,6 +9,9 @@ import { formatINR, formatCrore, formatPercent, formatGrowth } from "@/lib/forma
 import type { ValidatedFindings, ValidationFlag, MPLADSWork, DataSource, CommitteeMembership } from "@/lib/types";
 import { cn } from "@/lib/cn";
 import { SourceCitation } from "./SourceCitation";
+
+/** Dispatched by PDFExportButton so collapsed sections print fully expanded. */
+export const MP_EXPAND_EVENT = "mp:expand-sections";
 
 interface MPDetailSectionsProps {
   validated: ValidatedFindings;
@@ -28,6 +31,12 @@ function SectionToggle({
   children: React.ReactNode;
 }) {
   const [open, setOpen] = useState(defaultOpen);
+
+  useEffect(() => {
+    const expand = () => setOpen(true);
+    window.addEventListener(MP_EXPAND_EVENT, expand);
+    return () => window.removeEventListener(MP_EXPAND_EVENT, expand);
+  }, []);
 
   return (
     <Card>

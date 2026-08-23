@@ -3,32 +3,34 @@
 **Constituency:** Nagapattinam, Tamil Nadu
 **Party:** Communist Party of India
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.1 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 1.11 Crore
+- **Liabilities:** Rs 28.54 Lakh
+- **Net Worth:** Rs 82.08 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 23.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Selvaraj V demonstrates mixed transparency performance with perfect attendance and clean criminal record, but significant weaknesses in committee participation, legislative activity, and public accessibility. The moderate MPLADS and asset disclosure scores, combined with zero committee engagement and minimal accessibility efforts, suggest limited overall transparency despite strong attendance.
+Selvaraj V shows moderate transparency with a score of 58.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Selvaraj V
-
-### Overall Assessment
-Selvaraj V, representing Nagapattinam constituency in Tamil Nadu for the Communist Party of India, presents a mixed transparency profile with significant data gaps hindering comprehensive evaluation. While maintaining perfect parliamentary attendance (100%) and demonstrating active participation through 42 questions and 6 debates, critical financial and developmental metrics remain unavailable or unreliable, raising concerns about accountability and public disclosure.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for Selvaraj V, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap, particularly given CAG audit findings highlighting systemic issues in Tamil Nadu's fund management. The CAG Report [31 of 2010] identified Rs 1,558 crore in idle funds lying unspent across district authorities' accounts, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of sampled works being abandoned or incomplete.
-
-### Financial Transparency
-Asset declaration data shows complete absence of information regarding total assets, previous holdings, growth ratios, or net worth calculations. This critical gap in financial transparency makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is documented at Rs 2,45,000, providing the only available financial benchmark. The lack of asset data particularly concerning given the warning flag indicating "Low confidence in asset data."
-
-### Legal & Criminal Standing
-Selvaraj V maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this assessment comes with a significant caveat as the system flags "Low confidence in criminal data" with sources potentially unavailable, suggesting the clean record may reflect data gaps rather than verified absence of legal issues.
-
-### Parliamentary Performance
-The MP demonstrates exemplary attendance with a perfect 100% parliamentary presence, significantly above typical averages. Legislative engagement shows moderate activity with 42 questions raised and participation in 6 debates, indicating consistent involvement in parliamentary proceedings. However, no private member bills were introduced, and no committee assignments are documented, with the system noting "Sansad profile may be unavailable," limiting assessment of broader legislative effectiveness.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal limited media presence with only 10 news articles covering the MP's activities. Notably, all coverage maintains neutral tone with zero positive or negative articles, suggesting either minimal controversial activity or limited media attention. Social media and public accessibility data receive a 'D' grade, indicating poor digital engagement and limited public outreach mechanisms.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to multiple data quality issues. Critical warnings include low confidence in criminal records, asset declarations, and MPLADS utilization data. The absence of committee information and legislative effectiveness metrics, combined with a 'C' grade for parliament data and 'D' grade for accessibility, significantly undermines the reliability of this transparency assessment. Seven relevant CAG findings for Tamil Nadu provide broader context but cannot substitute for MP-specific data.
-
-### Key Takeaway
-While Selvaraj V demonstrates commitment through perfect parliamentary attendance and consistent legislative participation, the severe lack of financial and developmental data creates substantial transparency deficits. The complete absence of asset declarations and MPLADS information, coupled with data quality warnings across multiple categories, prevents meaningful accountability assessment and suggests either inadequate disclosure practices or systemic data collection failures requiring immediate attention.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 11,062,368. MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 6.
 
 ---
 
@@ -162,7 +138,7 @@ While Selvaraj V demonstrates commitment through perfect parliamentary attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Selvaraj V's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 23.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

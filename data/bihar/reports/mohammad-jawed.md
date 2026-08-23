@@ -3,23 +3,25 @@
 **Constituency:** Kishanganj, Bihar
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 67.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 49.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 15.97 Crore
+- **Liabilities:** Rs 1.66 Crore
+- **Net Worth:** Rs 14.31 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 69% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 8
+- **Utilization Rate:** 56.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,59 +94,11 @@
 
 ## Qualitative Assessment
 
-Mohammad Jawed demonstrates a mixed transparency profile with notable strengths in attendance and criminal record disclosure, but significant weaknesses in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and multiple validation flags indicate substantial gaps in available information, making a comprehensive assessment challenging.
+Mohammad Jawed shows moderate transparency with a score of 67.9/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Mohammad Jawed
-
-### Overall Assessment
-
-Mohammad Jawed, the Indian National Congress MP representing Kishanganj constituency in Bihar, demonstrates strong parliamentary engagement but operates within a context of limited data transparency. With perfect attendance (100%) and active participation in legislative proceedings, he shows commitment to his parliamentary duties. However, significant data gaps across financial disclosures and development metrics prevent a comprehensive assessment of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Mohammad Jawed, including entitlement, release, expenditure, or utilization rates. This absence of information is concerning given that MPLADS represents a crucial mechanism for MPs to drive local development. The lack of data prevents evaluation of his contribution to constituency development projects.
-
-Bihar's MPLADS implementation faces systemic challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader implementation concerns that may affect Kishanganj's development trajectory.
-
-### Financial Transparency
-
-Asset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for public accountability. The absence of this fundamental information raises concerns about financial disclosure compliance.
-
-Mohammad Jawed's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-
-Mohammad Jawed maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating due to potential source unavailability, necessitating cautious interpretation of these figures.
-
-### Parliamentary Performance
-
-Mohammad Jawed demonstrates exemplary parliamentary attendance with a perfect 100% record, significantly above average participation levels. His legislative engagement includes 41 questions raised and participation in 16 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation.
-
-No committee assignment data is available, which represents a gap in understanding his specialized parliamentary contributions. Committee work often constitutes a significant portion of an MP's legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting minimal public controversy but also limited positive visibility. This neutral coverage pattern may indicate either measured public engagement or insufficient media attention to his constituency work.
-
-The evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and communication channels. This low rating suggests potential deficiencies in constituent services and public engagement mechanisms.
-
-### Data Quality & Caveats
-
-This assessment faces significant limitations due to multiple data quality issues:
-
-- Criminal record data carries low confidence due to source unavailability
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is entirely absent
-- Committee assignments are unavailable
-- Legislative effectiveness data has low confidence ratings
-
-The overall evidence grade for parliament activity is 'C', indicating moderate data reliability. These limitations substantially constrain the ability to provide a comprehensive evaluation of Mohammad Jawed's performance across key metrics.
-
-### Key Takeaway
-
-Mohammad Jawed presents a mixed profile characterized by strong parliamentary attendance and active legislative participation, offset by significant transparency deficits in financial disclosures and development fund utilization. While his clean criminal record and perfect attendance demonstrate basic compliance and commitment, the absence of critical data on assets, MPLADS implementation, and constituency development work prevents a complete assessment of his effectiveness as a public representative. Improved data disclosure and transparency would be essential for comprehensive public accountability evaluation.
+No criminal cases declared. Declared assets: Rs 159,675,943. MPLADS utilization: 56.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 16.
 
 ---
 
@@ -186,7 +138,7 @@ Mohammad Jawed presents a mixed profile characterized by strong parliamentary at
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -265,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mohammad Jawed's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 56.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -282,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Ahmednagar, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 50.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 8.4 | 25% |
+| Asset Growth | 40.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 45.55 Lakh
+- **Liabilities:** Rs 37.49 Lakh
+- **Net Worth:** Rs 8.06 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,37 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Nilesh Dnyandev Lanke shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and good attendance, he demonstrates poor performance in committee participation, legislative activities, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee and legislative scores, suggest limited engagement in core parliamentary functions.
+Nilesh Dnyandev Lanke shows moderate transparency with a score of 50.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Nilesh Dnyandev Lanke
-
-### Overall Assessment
-Nilesh Dnyandev Lanke, representing Ahmednagar constituency in Maharashtra under the Nationalist Congress Party - Sharadchandra Pawar, presents a transparency profile characterized by limited data availability across most key governance indicators. While maintaining a clean legal record and reasonable parliamentary attendance, significant gaps exist in financial and developmental data that impede comprehensive assessment of his constituency service effectiveness.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, showing no information on entitlement, release, or expenditure figures. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Lanke's constituency, his fund utilization performance remains unverifiable.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency gap, as asset declarations are mandatory for elected representatives. The MP's monthly compensation is recorded at Rs 2,45,000, providing the only available financial data point. The absence of asset information significantly hampers assessment of financial transparency and potential conflicts of interest.
-
-### Legal & Criminal Standing
-Lanke maintains a clean criminal record with zero cases across all categories - no total cases, serious offenses, pending matters, disposed cases, or convictions. This represents a positive indicator for ethical governance standards. However, a warning flag indicates low confidence in criminal data due to potential source unavailability, suggesting this clean record may reflect data gaps rather than verified information.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 85% attendance, demonstrating reasonable commitment to legislative duties. Lanke has raised 64 questions, indicating active constituency representation and policy engagement. However, his participation in debates is limited to 4 instances, and he has introduced zero private bills, suggesting minimal legislative initiative. The evidence grade for parliamentary data is 'C', indicating moderate reliability of these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting limited public visibility or controversial issues. The accessibility evidence grade is 'D', indicating poor data quality regarding public engagement metrics. No committee membership data is available, limiting assessment of his specialized legislative contributions. Social media presence data, while collected, lacks specific metrics for meaningful analysis.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence flags due to source unavailability. Asset information is entirely missing, raising transparency concerns. MPLADS data is unavailable despite being crucial for constituency development assessment. Committee membership information is absent, suggesting Sansad profile unavailability. Legislative effectiveness data confidence is low, limiting performance evaluation accuracy.
-
-The evidence grading system rates parliamentary data as 'C' (moderate) and accessibility as 'D' (poor), indicating substantial limitations in data comprehensiveness and reliability across key transparency indicators.
-
-### Key Takeaway
-While Nilesh Dnyandev Lanke demonstrates basic parliamentary engagement with clean legal standing and reasonable attendance, his transparency profile is severely hampered by missing critical data across financial disclosures, development fund utilization, and detailed legislative contributions. The extensive data gaps, particularly in mandatory asset declarations and MPLADS utilization, prevent comprehensive assessment of his governance effectiveness and raise concerns about transparency compliance. Citizens and oversight bodies should prioritize obtaining complete disclosure information to enable proper accountability evaluation.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 4,554,561. MPLADS utilization: 10.5%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 4.
 
 ---
 
@@ -164,7 +138,7 @@ While Nilesh Dnyandev Lanke demonstrates basic parliamentary engagement with cle
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Nilesh Dnyandev Lanke's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

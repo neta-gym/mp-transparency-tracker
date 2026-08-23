@@ -3,23 +3,25 @@
 **Constituency:** Dahod, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 57.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.84 Crore
+- **Liabilities:** Rs 62.88 Lakh
+- **Net Worth:** Rs 4.21 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Bhabhor demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant gaps in committee participation, legislative activity, and public accessibility. The below-average overall score of 51.5/100 reflects particular weaknesses in institutional engagement and constituent outreach, despite reliable parliamentary attendance.
+Jaswantsinh Sumanbhai Bhabhor shows moderate transparency with a score of 57.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Jaswantsinh Sumanbhai Bhabhor
-
-### Overall Assessment
-Jaswantsinh Sumanbhai Bhabhor, BJP MP from Dahod constituency in Gujarat, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance in Parliament, critical information regarding assets, MPLADS utilization, and development fund management remains unavailable, limiting comprehensive assessment of his legislative effectiveness and financial stewardship.
-
-### Fund Utilization & Development
-No MPLADS data is available for MP Bhabhor, preventing assessment of his constituency development fund utilization. This data gap is concerning given CAG audit findings highlighting systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without transparency on MPLADS expenditure, entitled amounts, or utilization rates, constituents cannot evaluate the MP's development delivery performance.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, representing a significant transparency deficit. No data exists on current assets, previous declarations, growth ratios, or net worth calculations. This absence of financial information prevents public scrutiny of potential conflicts of interest or wealth accumulation during tenure. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset disclosure context, comprehensive financial transparency remains unachievable.
-
-### Legal & Criminal Standing
-MP Bhabhor maintains a clean criminal record with zero cases across all categories - no pending, disposed, or conviction records exist. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the available data indicates no legal complications, the warning regarding source reliability requires careful interpretation of this clean slate.
-
-### Parliamentary Performance
-Bhabhor demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to legislative duties. His participation includes 35 questions raised and 3 debate contributions, showing moderate engagement in parliamentary proceedings. However, he has introduced zero private member bills, suggesting limited proactive legislative initiative. The overall parliamentary activity grade of 'C' reflects adequate but not outstanding performance despite perfect attendance.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 9 news articles providing balanced coverage - zero positive or negative pieces, indicating limited public visibility or controversy. The accessibility grade of 'D' suggests poor public outreach and communication systems. This low engagement score, combined with limited media presence, indicates potential gaps in constituent communication and public accountability mechanisms.
-
-### Data Quality & Caveats
-Significant data quality concerns affect this assessment's reliability. Critical warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. Committee membership information is missing due to potentially unavailable Sansad profiles, while legislative effectiveness data carries low confidence ratings. These gaps substantially limit comprehensive evaluation capabilities and suggest systemic transparency challenges requiring attention.
-
-### Key Takeaway
-While MP Bhabhor maintains perfect parliamentary attendance and a clean legal record, substantial data gaps in asset disclosure, MPLADS utilization, and public engagement mechanisms significantly undermine transparency accountability. The absence of critical financial and development fund information, combined with low accessibility ratings, suggests urgent need for improved disclosure systems and constituent communication channels to enable effective democratic oversight.
+No criminal cases declared. Declared assets: Rs 48,404,861. MPLADS utilization: 11.0%. Parliament attendance: 100.0%. Questions asked: 35. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Bhabhor maintains perfect parliamentary attendance and a clean legal re
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jaswantsinh Sumanbhai Bhabhor's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 11.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

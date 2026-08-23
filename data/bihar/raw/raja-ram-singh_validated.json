@@ -14,7 +14,7 @@
     "education": "Literate",
     "profession": null,
     "age": 54,
-    "photo_url": null
+    "photo_url": "/mp-photos/5642.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Karakat",
       "state": "bihar",
       "party": "Communist Party of India (Marxist-Leninist) Liberation",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 9575,
       "slug": "raja-ram-singh",
       "house": "lok_sabha",
       "sansad_member_id": 5642,
       "profile_url": null,
       "canonical_name": "Raja Ram Singh",
       "name_aliases": [],
-      "education": null,
+      "education": "Literate",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 54,
+      "photo_url": "/mp-photos/5642.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,68 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": []
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:45.224476Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 2617500.0,
+      "liabilities": 0.0,
+      "net_worth": 2617500.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:45.224493Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 2.6,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 9.02,
+      "expended": 5.85,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.244567Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:31:25.925110Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:31:25.922312Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:20:52.192858Z",
+          "notes": "Official eSAKSHI REST API — Works: 235 recommended, 213 sanctioned, 110 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 235,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 39.795918367346935
     },
     "parliament_activity": {
       "attendance_percentage": 60.0,
@@ -129,12 +131,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:32:25.244712Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +156,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255411Z",
+          "fetched_at": "2026-08-23T16:44:14.341710Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +172,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255432Z",
+          "fetched_at": "2026-08-23T16:44:14.341722Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +188,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255440Z",
+          "fetched_at": "2026-08-23T16:44:14.341728Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +204,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255450Z",
+          "fetched_at": "2026-08-23T16:44:14.341734Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +220,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255457Z",
+          "fetched_at": "2026-08-23T16:44:14.341740Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -229,7 +236,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255464Z",
+          "fetched_at": "2026-08-23T16:44:14.341746Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +252,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255469Z",
+          "fetched_at": "2026-08-23T16:44:14.341760Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -261,7 +268,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:32:25.255478Z",
+          "fetched_at": "2026-08-23T16:44:14.341765Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -416,26 +423,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -455,74 +444,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Raja Ram Singh\n\n### Overall Assessment\nRaja Ram Singh, representing Karakat constituency in Bihar under the Communist Party of India (Marxist-Leninist) Liberation, presents a mixed transparency profile with significant data limitations. While maintaining a clean legal record and demonstrating moderate parliamentary engagement, substantial gaps in financial and developmental data severely limit comprehensive assessment of his effectiveness as an MP.\n\n### Fund Utilization & Development\nCritical MPLADS data is unavailable, preventing assessment of Raja Ram Singh's developmental fund utilization. Given Bihar's systemic issues highlighted in CAG audits, this data gap is particularly concerning. The 2010 CAG audit (Report 31) revealed severe deficiencies in fund management across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete. Without specific MPLADS data for Singh's constituency, constituents cannot evaluate his development delivery performance.\n\n### Financial Transparency\nAsset declaration data is completely unavailable for Raja Ram Singh, representing a significant transparency deficit. With no information on total assets, previous holdings, or growth patterns, stakeholders cannot assess potential conflicts of interest or wealth accumulation during his tenure. His monthly compensation stands at Rs 2,45,000, but the absence of asset disclosure data raises concerns about financial accountability standards expected from public representatives.\n\n### Legal & Criminal Standing\nRaja Ram Singh maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal profile distinguishes him positively in the current political landscape where criminal charges among MPs remain a significant concern. However, the data source reliability for criminal records is flagged as low confidence, requiring cautious interpretation of this assessment.\n\n### Parliamentary Performance\nSingh demonstrates moderate parliamentary engagement with 60% attendance, falling below optimal participation levels but remaining within acceptable ranges. His legislative activity shows 31 questions raised and participation in 5 debates, indicating active constituency representation and policy engagement. However, he has not introduced any private member bills, suggesting limited legislative initiative. The evidence grade for parliamentary performance is rated 'C', indicating moderate confidence in available data quality.\n\n### Public Engagement & Accessibility\nPublic engagement assessment is severely limited due to data constraints. News sentiment analysis reveals 10 articles with neutral coverage, providing minimal insight into public perception or media engagement. No social media presence data is available, and committee participation information is absent, preventing comprehensive evaluation of his accessibility to constituents. The accessibility evidence grade is rated 'D', reflecting poor data availability in this crucial area.\n\n### Data Quality & Caveats\nThis analysis faces substantial limitations due to multiple data quality issues. Asset and MPLADS information are completely unavailable, while criminal record data carries low confidence warnings. Committee participation and legislative effectiveness data are either missing or carry low confidence ratings. Evidence grades range from 'C' for parliamentary performance to 'D' for accessibility, indicating significant gaps in transparency documentation. These limitations severely constrain comprehensive assessment of Singh's overall effectiveness and accountability.\n\n### Key Takeaway\nRaja Ram Singh's transparency profile reveals a concerning pattern of data unavailability that limits meaningful assessment of his performance as an MP. While his clean criminal record and moderate parliamentary participation are positive indicators, the complete absence of financial and developmental fund data raises serious transparency concerns. The lack of comprehensive information particularly impacts evaluation of his development delivery in Bihar, a state already facing documented fund management challenges. Improved data disclosure and systematic transparency measures are essential for enabling meaningful public accountability assessment of his legislative and developmental contributions to Karakat constituency.",
-  "validated_at": "2026-05-21T14:32:46.020503Z",
-  "assets": {
-    "total_assets": 2617500.0,
-    "liabilities": 0.0,
-    "net_worth": 2617500.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.02,
-    "expended": 5.85,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:20:52.192858Z",
-        "notes": "Official eSAKSHI REST API — Works: 235 recommended, 213 sanctioned, 110 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 235,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.795918367346935
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,617,500. MPLADS utilization: 39.8%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.",
+  "validated_at": "2026-08-23T16:44:14.342676Z"
 }

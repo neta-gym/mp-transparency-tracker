@@ -14,7 +14,7 @@
     "education": "12th Pass",
     "profession": null,
     "age": 45,
-    "photo_url": null
+    "photo_url": "/mp-photos/4596.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Dhar",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 5162,
       "slug": "savitri-thakur",
       "house": "lok_sabha",
       "sansad_member_id": 4596,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": null,
+      "education": "12th Pass",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 45,
+      "photo_url": "/mp-photos/4596.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,60 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 53107546.0,
+      "liabilities": 6963601.0,
+      "net_worth": 46143945.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5162",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:49.212902Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 42.4,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 8.66,
+      "expended": 6.97,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.768079Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:22:44.110101Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:22:44.107282Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:27:39.245992Z",
+          "notes": "Official eSAKSHI REST API — Works: 237 recommended, 224 sanctioned, 178 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 237,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 47.414965986394556
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:23:40.768212Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783185Z",
+          "fetched_at": "2026-08-23T16:44:18.227324Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783201Z",
+          "fetched_at": "2026-08-23T16:44:18.227341Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783209Z",
+          "fetched_at": "2026-08-23T16:44:18.227351Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783216Z",
+          "fetched_at": "2026-08-23T16:44:18.227362Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783223Z",
+          "fetched_at": "2026-08-23T16:44:18.227372Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783234Z",
+          "fetched_at": "2026-08-23T16:44:18.227382Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783243Z",
+          "fetched_at": "2026-08-23T16:44:18.227391Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -261,7 +260,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:40.783250Z",
+          "fetched_at": "2026-08-23T16:44:18.227399Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -416,26 +415,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.07,
+  "overall_confidence": 0.43,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -461,74 +442,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Savitri Thakur\n\n### Overall Assessment\nSavitri Thakur, BJP MP representing Dhar constituency in Madhya Pradesh, presents a transparency profile significantly hampered by data availability issues. While maintaining a clean criminal record, comprehensive evaluation of her performance is limited due to missing information across key metrics including assets, MPLADS utilization, and parliamentary activity. The available evidence suggests minimal public engagement and limited transparency in key areas of MP accountability.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the systemic issues identified in CAG audits for Madhya Pradesh. The CAG Report 31 of 2010 highlights significant concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being incomplete or abandoned. Without specific data on Thakur's fund utilization, constituents cannot assess her development delivery effectiveness.\n\n### Financial Transparency\nAsset disclosure information is completely absent, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a substantial transparency deficit, preventing any assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives ₹2,45,000 monthly compensation, but without asset disclosures, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\nSavitri Thakur maintains an exemplary criminal record with zero cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in source availability. Despite this caveat, the clean record represents a positive aspect of her profile.\n\n### Parliamentary Performance\nParliamentary activity data is severely limited, showing zero questions raised, zero debate participations, and zero private member bills introduced. Attendance percentage is not available. The profile indicates ministerial status, which could explain lower traditional parliamentary metrics due to executive responsibilities. However, the complete absence of legislative activity data, graded 'C' for parliament performance, prevents meaningful assessment of her representative effectiveness.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals minimal public engagement, with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral, indicating limited media presence and public discourse. No committee participation data is available, and the accessibility grade of 'D' suggests poor transparency and citizen engagement. Social media presence appears limited based on available sources.\n\n### Data Quality & Caveats\nThis assessment faces significant limitations due to multiple data quality issues:\n- Criminal record data marked as low confidence\n- Complete absence of asset information\n- Missing MPLADS utilization data\n- Incomplete parliamentary activity records\n- No committee participation information\n- Limited legislative effectiveness data\n\nThe overall evidence grade ranges from 'C' to 'D', indicating substantial gaps in available information. Sources include PRS, social media, and news outlets, but appear insufficient for comprehensive evaluation.\n\n### Key Takeaway\nSavitri Thakur's transparency profile is characterized by a clean criminal record but severely compromised by extensive data gaps across critical accountability metrics. The absence of asset disclosures, MPLADS utilization data, and limited parliamentary activity information creates significant transparency deficits. While her ministerial role may explain some activity patterns, the overall lack of available information prevents constituents from making informed assessments of her performance, fund utilization, and development delivery in Dhar constituency.",
-  "validated_at": "2026-05-21T14:24:00.225167Z",
-  "assets": {
-    "total_assets": 53107546.0,
-    "liabilities": 6963601.0,
-    "net_worth": 46143945.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5162",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5162",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.66,
-    "expended": 6.97,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:27:39.245992Z",
-        "notes": "Official eSAKSHI REST API — Works: 237 recommended, 224 sanctioned, 178 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 237,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 47.414965986394556
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 53,107,546. MPLADS utilization: 47.4%. Low confidence data: Parliament activity. 1 warning(s) noted.",
+  "validated_at": "2026-08-23T16:44:18.228821Z"
 }

@@ -3,32 +3,34 @@
 **Constituency:** Bangalore North, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 41.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 18.7 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.89 Crore
+- **Liabilities:** Rs 4.06 Crore
+- **Net Worth:** Rs 9.83 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Shobha Karandlaje demonstrates a mixed transparency profile with a below-average overall score of 45.5/100. Her strongest area is criminal record disclosure (100%), indicating full transparency regarding legal matters, while she shows moderate performance in MPLADS utilization, asset disclosure, attendance, and parliamentary participation (all at 50%). However, significant transparency gaps exist in committee work, legislative activities, and public accessibility, suggesting limited engagement in formal parliamentary processes and constituent outreach.
+Shobha Karandlaje has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shobha Karandlaje
-
-### Overall Assessment
-Shobha Karandlaje, representing Bangalore North constituency in Karnataka for the Bharatiya Janata Party, presents a transparency profile with significant data limitations. Currently serving as a Minister in the Lok Sabha, her profile shows clean criminal records but lacks comprehensive data across most transparency metrics. The evidence grades of 'C' for parliamentary performance and 'D' for accessibility reflect substantial information gaps that limit meaningful assessment.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with all key metrics—entitlement, release, expenditure, and utilization percentage—showing as "None." This data gap is particularly concerning given the CAG audit findings for Karnataka, which reveal systemic issues including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of sampled utilization certificates lacking proper supporting documents. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting significant implementation challenges in the state's development programs.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with both current and previous asset values listed as "None," preventing any analysis of wealth accumulation or financial transparency. The growth ratio and net worth calculations are consequently unavailable. Her monthly compensation is recorded at Rs 2,45,000, consistent with standard MP remuneration. The absence of asset data represents a critical transparency gap that undermines public accountability.
-
-### Legal & Criminal Standing
-Karandlaje maintains a clean legal record with zero cases across all categories—no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning flag indicating low confidence due to potentially unavailable sources, suggesting the clean record should be interpreted with caution pending verification from more reliable sources.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps with attendance percentage, questions asked, debates participated in, and private bills all recorded as zero or unavailable. While her status as a Minister may explain lower attendance due to executive duties, the complete absence of legislative activity data prevents assessment of her parliamentary engagement. The 'C' grade for parliamentary evidence reflects these significant data limitations.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified over the assessment period. The sentiment breakdown shows 9 neutral articles, 1 negative, and 0 positive pieces, suggesting minimal media presence and public discourse. The 'D' grade for accessibility evidence indicates poor data availability regarding public interaction and communication efforts. No committee participation data is available, further limiting assessment of her legislative engagement.
-
-### Data Quality & Caveats
-The analysis faces substantial limitations due to widespread data unavailability. Automated flags indicate low confidence across criminal records, assets, MPLADS utilization, and parliamentary activity. The absence of committee information suggests Sansad profile data may be entirely unavailable. Sources are limited to PRS (legislative research), social media, and news outlets, with government transparency portals apparently not providing comprehensive data. These limitations significantly constrain the reliability of this assessment.
-
-### Key Takeaway
-Shobha Karandlaje's transparency profile is characterized by extensive data gaps rather than substantive performance indicators. While maintaining a clean criminal record, the absence of crucial information on asset disclosure, MPLADS utilization, and parliamentary activity raises significant transparency concerns. Given Karnataka's documented issues with fund utilization and the systemic problems identified by CAG audits, the lack of accessible performance data is particularly problematic for public accountability. Enhanced data disclosure and transparency mechanisms are essential for meaningful democratic oversight of her representation.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 138,866,909. MPLADS utilization: 23.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ Shobha Karandlaje's transparency profile is characterized by extensive data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shobha Karandlaje's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": null,
-    "photo_url": null
+    "photo_url": "/mp-photos/4468.jpg"
   },
   "findings": {
     "mp": {
@@ -32,7 +32,7 @@
       "education": null,
       "profession": null,
       "age": null,
-      "photo_url": null
+      "photo_url": "/mp-photos/4468.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,52 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 2105041638.0,
+      "liabilities": 176081710.0,
+      "net_worth": 1928959928.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 97.7,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 9.66,
+      "expended": 5.86,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:29.147747Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:20:22.085013Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:20:25.338314Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:53:09.526823Z",
+          "notes": "Official eSAKSHI REST API — Works: 27 recommended, 27 sanctioned, 0 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 27,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 39.863945578231295
     },
     "parliament_activity": {
       "attendance_percentage": 50.0,
@@ -129,12 +115,14 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:20:51.559300Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574251Z",
+          "fetched_at": "2026-08-23T16:44:25.156251Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574269Z",
+          "fetched_at": "2026-08-23T16:44:25.156263Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574282Z",
+          "fetched_at": "2026-08-23T16:44:25.156270Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574290Z",
+          "fetched_at": "2026-08-23T16:44:25.156280Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574300Z",
+          "fetched_at": "2026-08-23T16:44:25.156286Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574306Z",
+          "fetched_at": "2026-08-23T16:44:25.156291Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:20:51.574313Z",
+          "fetched_at": "2026-08-23T16:44:25.156296Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +388,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,39 +409,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Shatrughan Prasad Sinha\n\n### Overall Assessment\nShatrughan Prasad Sinha, representing Asansol constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement shows concerning gaps, with 50% attendance and minimal legislative participation. The absence of crucial financial and developmental fund utilization data severely limits assessment of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for assessment, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management. The CAG identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS transparency, constituents cannot evaluate how effectively Sinha has utilized development funds for Asansol's benefit.\n\n### Financial Transparency\nAsset disclosure information is completely unavailable, representing a critical transparency gap. No data exists regarding total assets, previous declarations, growth ratios, or net worth changes during his tenure. This absence prevents assessment of potential conflicts of interest or unusual wealth accumulation patterns. The monthly compensation of Rs 2,45,000 is documented, but without baseline asset information, comprehensive financial transparency cannot be evaluated.\n\n### Legal & Criminal Standing\nSinha maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, this positive finding comes with a significant caveat: the criminal record data carries low confidence due to potentially unavailable sources. While the reported clean record is encouraging, the data quality warning suggests this information may be incomplete or outdated.\n\n### Parliamentary Performance\nParliamentary engagement shows concerning deficiencies. Attendance stands at 50%, indicating irregular presence during crucial legislative sessions. More troubling is the complete absence of active participation: zero questions raised, zero debate contributions, and zero private member bills introduced. This minimal engagement suggests limited advocacy for constituent interests and reduced influence in policy formulation affecting Asansol. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these concerning metrics.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement, with 10 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment patterns. However, accessibility receives a concerning 'D' evidence grade, suggesting limited reliable information about public outreach efforts. No committee participation data is available, potentially indicating missed opportunities for specialized policy contribution or unavailable profile information on parliamentary databases.\n\n### Data Quality & Caveats\nMultiple data quality warnings significantly impact this assessment's reliability. Criminal record information carries low confidence due to potentially unavailable sources. Asset data suffers from low confidence ratings, while MPLADS information is entirely absent. Committee data is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These limitations mean key aspects of transparency and performance cannot be properly evaluated, creating substantial blind spots in accountability assessment.\n\n### Key Takeaway\nShatrughan Prasad Sinha's transparency profile is characterized more by data absence than clear performance indicators. While maintaining a reported clean criminal record, his minimal parliamentary engagement (50% attendance, zero legislative activities) raises questions about representative effectiveness. The complete absence of financial asset information and MPLADS utilization data creates critical transparency gaps, particularly concerning given systemic fund management issues identified by CAG audits in West Bengal. Constituents of Asansol face significant challenges in evaluating their representative's performance due to these data limitations, highlighting the need for improved transparency mechanisms and more comprehensive public disclosure of MP activities and financial dealings.",
-  "validated_at": "2026-05-21T14:21:13.605180Z",
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.66,
-    "expended": 5.86,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:53:09.526823Z",
-        "notes": "Official eSAKSHI REST API — Works: 27 recommended, 27 sanctioned, 0 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 27,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.863945578231295
-  },
-  "evidence_summary": {
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "mplads"
-  ]
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,105,041,638. MPLADS utilization: 39.9%. Parliament attendance: 50.0%.",
+  "validated_at": "2026-08-23T16:44:25.157208Z"
 }

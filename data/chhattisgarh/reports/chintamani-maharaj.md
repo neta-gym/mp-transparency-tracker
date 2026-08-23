@@ -3,23 +3,25 @@
 **Constituency:** Surguja, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 56.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 29.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 4.13 Crore
+- **Liabilities:** Rs 35.03 Lakh
+- **Net Worth:** Rs 3.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Chintamani Maharaj shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and decent attendance, the MP demonstrates poor legislative engagement with zero committee participation and no legislative contributions. Critical weaknesses in accessibility and public engagement substantially limit overall transparency effectiveness.
+Chintamani Maharaj shows moderate transparency with a score of 56.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Chintamani Maharaj
-
-### Overall Assessment
-Chintamani Maharaj (BJP, Surguja, Chhattisgarh) presents a mixed transparency profile with adequate parliamentary attendance but significant data gaps across most transparency indicators. The MP demonstrates reasonable engagement in parliamentary proceedings but lacks comprehensive public disclosure of critical information including assets, MPLADS utilization, and committee participation.
-
-### Fund Utilization & Development
-No MPLADS data is available for entitled amounts, releases, expenditures, or utilization rates. This absence of information prevents assessment of the MP's development fund management. CAG audit findings from 2010 reveal systemic issues in Chhattisgarh's fund utilization, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These audit concerns highlight the importance of transparent MPLADS reporting, which remains unavailable for this MP.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on current total assets, previous assets, growth ratios, or net worth. This represents a critical transparency gap, as asset disclosure is fundamental to assessing potential conflicts of interest and financial accountability. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-The MP reports zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, this data carries low confidence warnings, suggesting potential source unavailability rather than verified clean records. While the reported clean slate is positive, the data quality concerns require cautious interpretation.
-
-### Parliamentary Performance
-Chintamani Maharaj demonstrates moderate parliamentary engagement with 80% attendance, which meets acceptable standards for legislative participation. The MP has raised 24 questions, indicating active constituency representation and policy interest. However, participation in debates (0) and introduction of private member bills (0) suggests limited proactive legislative contribution. No committee membership data is available, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles with predominantly neutral tone (8 neutral, 1 positive, 0 negative), suggesting limited public visibility and engagement. The absence of negative coverage is positive, but the low overall article count and neutral sentiment indicate minimal public discourse around the MP's activities. Social media presence and direct accessibility metrics are not available in the provided data.
-
-### Data Quality & Caveats
-This assessment faces significant data quality challenges with evidence grades of 'C' for parliament activity and 'D' for accessibility. Critical warnings include low confidence in criminal records, assets, and MPLADS data due to potentially unavailable sources. The absence of committee participation data suggests Sansad profile unavailability. Legislative effectiveness data also carries low confidence ratings. These limitations substantially impact the reliability of this transparency assessment.
-
-### Key Takeaway
-While Chintamani Maharaj maintains acceptable parliamentary attendance and a clean reported criminal record, the comprehensive lack of asset disclosure, MPLADS utilization data, and committee information creates substantial transparency gaps. The 80% attendance rate and 24 questions raised demonstrate basic parliamentary engagement, but the absence of debate participation and private bills suggests limited legislative initiative. Voters in Surguja constituency have limited verifiable information to assess their MP's financial accountability and development fund utilization, highlighting the need for improved data disclosure across multiple transparency dimensions.
+No criminal cases declared. Declared assets: Rs 41,298,468. MPLADS utilization: 36.7%. Parliament attendance: 80.0%. Questions asked: 24.
 
 ---
 
@@ -162,7 +138,7 @@ While Chintamani Maharaj maintains acceptable parliamentary attendance and a cle
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chintamani Maharaj's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

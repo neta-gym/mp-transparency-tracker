@@ -3,23 +3,25 @@
 **Constituency:** Medinipur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.0 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 16.1 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.60 Crore
+- **Liabilities:** Rs 1.79 Crore
+- **Net Worth:** Rs 4.81 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-June Maliah demonstrates mixed transparency with a moderate overall score of 43/100. While she maintains a clean criminal record and shows reasonable performance in MPLADS utilization and asset disclosure, significant weaknesses exist in legislative participation, committee work, and public accessibility. Her low attendance rate and minimal engagement in parliamentary activities suggest limited active representation.
+June Maliah has a below-average transparency score of 48.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: June Maliah
-
-### Overall Assessment
-June Maliah, representing Medinipur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and reasonable parliamentary attendance (55%), the absence of critical financial data and limited legislative engagement raise transparency concerns.
-
-### Fund Utilization & Development
-Complete data unavailability regarding MPLADS (Member of Parliament Local Area Development Scheme) allocation, release, and expenditure creates a major transparency gap. No information is available on entitled amounts, funds released, or utilization percentage, making it impossible to assess the MP's development work effectiveness.
-
-The CAG audit context reveals systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These findings suggest potential challenges in the broader development funding ecosystem within which Maliah operates.
-
-### Financial Transparency
-Asset disclosure presents significant transparency concerns with no available data on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest during the MP's tenure.
-
-Monthly compensation is reported at Rs 245,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-Maliah maintains a clean legal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability that could affect the reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 55% attendance, falling below optimal participation levels. Legislative activity appears limited with zero questions asked and zero private member bills introduced, suggesting minimal proactive parliamentary engagement on policy matters.
-
-The MP participated in 4 debates, indicating some level of floor participation, though this represents relatively modest involvement in parliamentary discussions. No committee membership data is available, potentially due to unavailable Sansad profile information.
-
-### Public Engagement & Accessibility
-Media presence analysis reveals neutral public engagement with 10 news articles providing mixed/neutral coverage. Notably, none of the articles carried positive sentiment, while also avoiding negative coverage, suggesting a low-profile public presence rather than active engagement or controversy.
-
-The accessibility evidence grade of 'D' indicates significant challenges in public outreach and transparency, potentially limiting constituent engagement and accountability mechanisms.
-
-### Data Quality & Caveats
-This analysis faces substantial data quality limitations affecting multiple critical areas:
-
-- **Criminal records**: Low confidence warning due to potential source unavailability
-- **Assets**: Complete data absence with low confidence rating
-- **MPLADS**: No utilization data available with low confidence assessment
-- **Legislative effectiveness**: Low confidence in available data
-- **Committee participation**: No data found due to potential Sansad profile unavailability
-
-Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect moderate to poor data reliability across key transparency metrics.
-
-### Key Takeaway
-June Maliah's transparency profile is severely hampered by extensive data gaps across financial assets, development fund utilization, and legislative effectiveness. While maintaining a clean criminal record and moderate parliamentary attendance, the absence of critical transparency data, combined with limited legislative engagement (zero questions, zero private bills), raises significant concerns about accountability and public service effectiveness. The systemic fund management issues revealed in CAG audits for West Bengal add context to potential development challenges, though specific assessment of Maliah's performance remains impossible due to missing MPLADS data.
+No criminal cases declared. Declared assets: Rs 66,018,642. MPLADS utilization: 20.1%. Parliament attendance: 55.0%. Debates participated: 4.
 
 ---
 
@@ -178,7 +138,7 @@ June Maliah's transparency profile is severely hampered by extensive data gaps a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for June Maliah's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

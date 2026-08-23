@@ -3,32 +3,34 @@
 **Constituency:** Dindigul, Tamil Nadu
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 44.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 39.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 9
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 9
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 25.97 Lakh
+- **Liabilities:** Rs 7.86 Lakh
+- **Net Worth:** Rs 18.12 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 7
+- **Utilization Rate:** 49.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,52 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Sachithanantham R demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. The moderate MPLADS and assets transparency, combined with zero scores in key areas like committee work and legislative contributions, suggests limited overall accountability despite strong ethical standing.
+Sachithanantham R has a below-average transparency score of 44.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-# Executive Summary: Sachithanantham R
-
-## Executive Summary: Sachithanantham R
-
-### Overall Assessment
-
-Sachithanantham R, representing Dindigul constituency in Tamil Nadu as a Communist Party of India (Marxist) member, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), significant data gaps exist across key areas including asset declarations and MPLADS utilization. The limited available information suggests moderate parliamentary engagement but raises concerns about overall transparency and accountability.
-
-### Fund Utilization & Development
-
-No MPLADS data is available for Sachithanantham R, creating a complete information gap regarding development fund allocation and utilization. This absence of data is concerning given that MPLADS funds (₹5 crore annually per MP) are a primary mechanism for constituency development. The CAG audit context reveals systemic issues in Tamil Nadu's fund management, with ₹1,558 crore lying idle across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on the MP's fund utilization, it's impossible to assess developmental impact or financial accountability in the constituency.
-
-### Financial Transparency
-
-Asset information is entirely unavailable, preventing any assessment of the MP's financial transparency or potential conflicts of interest. No data exists on total assets, previous holdings, growth ratios, or net worth. The MP's monthly compensation is reported as ₹245,000, consistent with standard parliamentary remuneration. The absence of asset declarations represents a significant transparency gap, making it impossible to evaluate financial probity or track wealth accumulation during tenure.
-
-### Legal & Criminal Standing
-
-Sachithanantham R maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. This represents a positive aspect of the transparency profile, indicating no legal complications or criminal proceedings. However, the data comes with a warning flag indicating "low confidence in criminal data," suggesting the source may be unavailable or incomplete.
-
-### Parliamentary Performance
-
-The MP demonstrates moderate parliamentary engagement with 85% attendance, which is above average for Indian parliamentarians. Parliamentary activity includes 30 questions raised and participation in 7 debates, indicating active involvement in legislative processes. However, no private member bills were introduced, suggesting limited initiative in proposing new legislation. The evidence grade for parliamentary data is 'C', indicating moderate reliability. No committee information is available, limiting assessment of specialized legislative contributions.
-
-### Public Engagement & Accessibility
-
-Public engagement assessment is limited due to sparse data availability. News sentiment analysis reveals 10 articles with mixed coverage - 2 positive, 0 negative, and 8 neutral pieces, suggesting generally neutral public perception. The accessibility evidence grade is 'D', indicating poor data availability for assessing public outreach efforts. No information is available on social media presence, public meetings, or constituency interaction mechanisms, creating significant gaps in evaluating democratic accessibility.
-
-### Data Quality & Caveats
-
-The transparency assessment faces substantial limitations due to widespread data unavailability. Key caveats include:
-- Low confidence warnings for criminal records, assets, and MPLADS data
-- No committee information due to potentially unavailable Sansad profiles
-- Limited legislative effectiveness data
-- Accessibility evidence graded as 'D'
-- Parliament activity evidence graded as 'C'
-
-These limitations significantly constrain the reliability of the overall assessment and suggest systemic issues with transparency data collection and availability.
-
-### Key Takeaway
-
-Sachithanantham R presents a paradox of limited transparency despite representing a party traditionally associated with accountability. While maintaining a clean criminal record and reasonable parliamentary attendance, the absence of critical financial and development data severely undermines transparency assessment. The MP's profile highlights broader systemic issues in Indian political transparency infrastructure, where essential accountability information remains inaccessible. Voters in Dindigul constituency lack sufficient verified information to evaluate their representative's financial probity and development fund utilization effectively.
+Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 2,597,479. MPLADS utilization: 49.8%. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 7.
 
 ---
 
@@ -179,7 +138,7 @@ Sachithanantham R presents a paradox of limited transparency despite representin
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sachithanantham R's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 49.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -275,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

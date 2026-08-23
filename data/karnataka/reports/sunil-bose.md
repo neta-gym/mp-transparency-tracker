@@ -3,32 +3,34 @@
 **Constituency:** Chamarajanagar, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 42
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.5 / 100
+## Composite Transparency Score: 43.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.85 Crore
+- **Liabilities:** Rs 5.57 Crore
+- **Net Worth:** Rs 2.28 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Sunil Bose demonstrates a mixed transparency profile with a below-average score of 41.5/100. While he maintains a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, significant concerns exist in parliamentary participation, committee involvement, and public accessibility. The complete absence of legislative initiatives and committee participation, combined with poor attendance and minimal public engagement, indicates limited parliamentary effectiveness.
+Sunil Bose has a below-average transparency score of 43.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Sunil Bose
-
-### Overall Assessment
-Sunil Bose, Indian National Congress MP representing Chamarajanagar constituency in Karnataka, presents a concerning transparency profile marked by significant data gaps and below-average parliamentary performance. The available evidence suggests limited legislative engagement, with only 40% attendance and minimal participation in parliamentary proceedings. Critical financial and asset information is entirely unavailable, raising substantial questions about transparency and accountability.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Bose, including entitlements, releases, expenditures, or utilization rates. This complete absence of fund utilization information prevents assessment of developmental impact in Chamarajanagar constituency. The broader Karnataka context reveals systemic issues with fund management, as highlighted by CAG audits showing Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level irregularities underscore the importance of transparent fund tracking, making the data gap for this MP particularly concerning.
-
-### Financial Transparency
-Asset declaration data is entirely missing, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a complete failure in financial transparency reporting. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset declarations, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during the tenure.
-
-### Legal & Criminal Standing
-MP Bose maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the data quality warning indicates low confidence in this criminal record information, suggesting the source may be unavailable or incomplete. While the reported clean slate is positive, the reliability caveat requires consideration.
-
-### Parliamentary Performance
-Parliamentary engagement appears significantly below expectations. With only 40% attendance, MP Bose falls well short of optimal legislative participation. The record shows zero questions raised, only one debate participation, and no private member bills introduced. This minimal legislative activity suggests limited advocacy for constituency issues and reduced contribution to national policy discussions. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these concerning performance metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This neutral media presence, combined with an accessibility evidence grade of 'D', suggests limited public engagement and visibility. The absence of meaningful media interaction may indicate reduced communication with constituents and stakeholders, potentially limiting accountability and feedback mechanisms.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record confidence is low due to potentially unavailable sources. Asset information confidence is similarly compromised. MPLADS data carries low confidence ratings, and committee information is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence levels. These widespread data gaps severely limit the ability to conduct comprehensive transparency assessment and suggest systemic issues with information disclosure or reporting mechanisms.
-
-### Key Takeaway
-Sunil Bose's transparency profile is characterized by substantial information voids and concerning parliamentary underperformance. The 40% attendance rate and minimal legislative participation, combined with complete absence of financial and developmental fund data, present significant transparency challenges. While maintaining a clean criminal record is positive, the overall pattern suggests limited accountability and engagement. Immediate improvements in data disclosure, particularly regarding assets and MPLADS utilization, alongside enhanced parliamentary participation, are essential for meaningful constituency representation and democratic accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 78,466,251. MPLADS utilization: 22.2%. Parliament attendance: 40.0%. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Sunil Bose's transparency profile is characterized by substantial information vo
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sunil Bose's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

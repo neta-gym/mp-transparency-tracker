@@ -3,23 +3,25 @@
 **Constituency:** Katihar, Bihar
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 73
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 60.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 31.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.61 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 19.61 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Tariq Anwar shows a mixed transparency profile with moderate overall performance. While he maintains a clean criminal record and demonstrates good parliamentary attendance (90%), significant gaps exist in committee participation, public accessibility, and legislative contributions. The low data confidence (14%) and multiple validation flags suggest incomplete information may be affecting the assessment.
+Tariq Anwar shows moderate transparency with a score of 60.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Tariq Anwar
-
-### Overall Assessment
-Tariq Anwar, the Indian National Congress MP from Katihar, Bihar, presents a mixed transparency profile characterized by adequate parliamentary attendance but significant data gaps across most critical metrics. While maintaining a clean criminal record, the absence of asset and development fund information severely limits assessment of his overall performance and financial transparency.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Tariq Anwar, making it impossible to assess his developmental work effectiveness. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Bihar's fund utilization. The audit revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, voters cannot evaluate how effectively Anwar has utilized his allocated development funds for Katihar's benefit.
-
-### Financial Transparency
-Financial transparency is severely compromised due to complete absence of asset declaration data. No information is available regarding total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for assessing potential conflicts of interest. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Anwar maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, indicating potential source unavailability. While the clean record is positive, the data quality concern suggests this assessment should be viewed with appropriate caution.
-
-### Parliamentary Performance
-Anwar demonstrates strong parliamentary attendance at 90%, well above average attendance rates in the Lok Sabha. His legislative engagement shows moderate activity with 16 questions raised and 5 debate participations. However, he has not introduced any private member bills, indicating limited proactive legislative initiative. The parliament activity data receives a 'C' grade for evidence quality, suggesting reasonable but not comprehensive coverage of his legislative work.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal limited accessibility, earning a 'D' grade for evidence quality. News sentiment analysis shows neutral coverage across 10 articles with no positive or negative sentiment detected, suggesting either balanced reporting or limited media attention. The absence of social media engagement data and limited news coverage indicates potential gaps in public communication and constituent outreach efforts.
-
-### Data Quality & Caveats
-This assessment faces significant data quality limitations that substantially impact reliability:
-
-- **Criminal record data**: Low confidence warning due to potential source unavailability
-- **Asset information**: Complete absence of mandatory financial declarations
-- **MPLADS data**: No development fund utilization information available
-- **Committee participation**: No committee assignment data found
-- **Legislative effectiveness**: Low confidence in comprehensive legislative tracking
-
-These data gaps represent critical transparency deficits that prevent comprehensive performance evaluation. The evidence grading system indicates moderate confidence in parliamentary activity (Grade C) but poor accessibility assessment (Grade D).
-
-### Key Takeaway
-While Tariq Anwar maintains strong parliamentary attendance and a clean criminal record, the absence of crucial financial and development data creates significant transparency gaps. Voters in Katihar lack access to essential information about asset declarations and MPLADS utilization - both critical for assessing representative accountability. The systemic fund utilization issues identified by CAG audits in Bihar make the absence of MPLADS data particularly concerning. For meaningful democratic accountability, comprehensive disclosure of assets and development fund utilization is essential, regardless of the MP's positive attendance record and clean legal standing.
+No criminal cases declared. Declared assets: Rs 196,057,169. MPLADS utilization: 39.8%. Parliament attendance: 90.0%. Questions asked: 16. Debates participated: 5.
 
 ---
 
@@ -170,7 +138,7 @@ While Tariq Anwar maintains strong parliamentary attendance and a clean criminal
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tariq Anwar's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

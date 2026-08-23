@@ -3,32 +3,34 @@
 **Constituency:** Amravati, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 25.7 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.74 Crore
+- **Liabilities:** Rs 31.07 Lakh
+- **Net Worth:** Rs 1.43 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 20
+- **Released:** Rs 20
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 6
+- **Utilization Rate:** 32.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,37 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Balwant Baswant Wankhade shows mixed transparency performance with a below-average overall score of 49/100. While maintaining a clean criminal record and good attendance, significant weaknesses exist in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and multiple validation flags suggest limited reliable information availability.
+Balwant Baswant Wankhade shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Balwant Baswant Wankhade
-
-### Overall Assessment
-Balwant Baswant Wankhade, Indian National Congress MP representing Amravati, Maharashtra, presents a mixed transparency profile with significant data gaps across multiple indicators. While maintaining clean legal standing and reasonable parliamentary attendance, critical information about asset declarations and MPLADS utilization remains unavailable, limiting comprehensive assessment of his tenure.
-
-### Fund Utilization & Development
-MPLADS fund data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG's identification of systemic issues in Maharashtra's fund management. Audit findings reveal concerning patterns including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The 18% rate of abandoned or incomplete works flagged by auditors raises questions about project oversight that cannot be evaluated without MP-specific data.
-
-### Financial Transparency
-Asset declaration information is completely absent, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a fundamental transparency failure, as asset declarations are mandatory for all MPs and serve as key accountability mechanisms. The MP's monthly compensation is documented at Rs 2,45,000, but without baseline asset data, wealth accumulation patterns cannot be assessed.
-
-### Legal & Criminal Standing
-Wankhade maintains an exemplary legal record with zero cases across all categories—no pending cases, disposed matters, serious charges, or convictions. However, data quality warnings indicate low confidence in criminal record sources, suggesting potential gaps in information availability rather than confirmed clean standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 85% attendance, indicating consistent presence in proceedings. Legislative participation includes 15 questions raised and 3 debate contributions, representing basic engagement with parliamentary processes. However, no private member bills were introduced, and committee participation data is unavailable, limiting assessment of substantive policy contributions. Evidence quality is graded 'C' for parliament activity, indicating moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles with neutral sentiment distribution (0 positive, 0 negative, 9 neutral), suggesting limited public visibility or controversial engagement. The absence of polarizing coverage may indicate either effective constituency management or limited media attention. Accessibility metrics are graded 'D', indicating poor data availability for assessing public engagement initiatives or constituent services.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant limitations in data reliability. Criminal record sources show low confidence, asset data is entirely missing, and MPLADS information is unavailable despite being critical for development assessment. Committee participation data gaps prevent evaluation of specialized policy work. Evidence grades range from 'C' for parliamentary activity to 'D' for accessibility, indicating substantial information deficits that compromise comprehensive evaluation.
-
-Source diversity includes PRS Legislative Research, social media monitoring, and news analysis, but key official sources appear inaccessible or incomplete. Maharashtra-specific CAG findings provide relevant context but cannot substitute for MP-specific performance data.
-
-### Key Takeaway
-Balwant Baswant Wankhade's transparency profile is severely compromised by extensive data unavailability across critical indicators including assets, MPLADS utilization, and detailed parliamentary contributions. While maintaining clean legal standing and reasonable attendance, the absence of financial disclosures and development fund information prevents meaningful accountability assessment. The neutral media profile and moderate parliamentary engagement suggest steady but unremarkable representation, though comprehensive evaluation requires addressing significant information gaps that undermine democratic transparency expectations.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 17,358,730. MPLADS utilization: 32.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3.
 
 ---
 
@@ -164,7 +138,7 @@ Balwant Baswant Wankhade's transparency profile is severely compromised by exten
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Balwant Baswant Wankhade's MPLADS account: Released: Rs 20, Expended: Rs 6, Utilization: 32.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

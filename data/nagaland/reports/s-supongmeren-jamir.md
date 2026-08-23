@@ -6,23 +6,23 @@
 **Age:** 61
 **Education:** Graduate Professional
 **Profession:** Politician, Social worker
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 66.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 62.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 5.01 Lakh
-- **Immovable Assets:** Rs 16.00 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 21.01 Lakh
 - **Liabilities:** Rs 5.57 Lakh
 - **Net Worth:** Rs 15.44 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 10
+- **Utilization Rate:** 64.7%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Nagaland: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-S Supongmeren Jamir demonstrates mixed transparency performance with a below-average score of 49.5/100. While showing perfect records in criminal background disclosure and parliamentary attendance, the MP significantly underperforms in committee participation, legislative contributions, and public accessibility, indicating limited engagement in core parliamentary functions.
+S Supongmeren Jamir shows moderate transparency with a score of 66.4/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: S Supongmeren Jamir
-
-### Overall Assessment
-S Supongmeren Jamir, a 61-year-old Indian National Congress MP from Nagaland, presents a mixed transparency profile. While maintaining a clean legal record and perfect parliamentary attendance, significant data gaps in fund utilization and legislative effectiveness limit comprehensive assessment. His ₹21 lakh asset portfolio reflects modest personal wealth typical of northeastern politicians, but the absence of baseline comparison data prevents meaningful wealth growth analysis.
-
-### Fund Utilization & Development
-Complete data unavailability marks the most concerning aspect of Jamir's transparency profile. No MPLADS (Member of Parliament Local Area Development Scheme) data exists for entitlements, releases, expenditures, or utilization rates. This opacity is particularly problematic given CAG audit findings revealing systemic MPLADS mismanagement across states, including ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without constituency-specific spending data, voters cannot assess Jamir's developmental impact in Nagaland.
-
-### Financial Transparency
-Jamir's financial disclosures show total assets of ₹21,00,868 with a net worth of ₹15,44,340, indicating modest liabilities of approximately ₹5.6 lakh. However, the absence of previous asset data prevents growth analysis—a critical transparency metric. His monthly compensation of ₹2,45,000 appears standard for parliamentary positions. The assets-to-income ratio suggests reasonable financial standing without obvious wealth accumulation concerns, though longitudinal analysis remains impossible.
-
-### Legal & Criminal Standing
-Jamir maintains an exemplary legal record with zero criminal cases across all categories—no pending, disposed, or conviction records. This clean slate represents the gold standard for public representatives and distinguishes him positively from many peers facing criminal proceedings. The absence of any legal complications enhances his credibility as a public servant.
-
-### Parliamentary Performance
-Jamir demonstrates strong attendance commitment with a perfect 100% parliamentary participation rate. However, his legislative engagement appears limited, contributing only 3 questions and participating in 5 debates with zero private bills introduced. This performance suggests reactive rather than proactive parliamentary engagement. The low question count may indicate either strategic selectivity or insufficient constituency issue advocacy. Committee assignment data remains unavailable, preventing assessment of specialized legislative contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment—no positive or negative coverage detected. This neutral profile suggests either limited public visibility or absence of controversial positions. The lack of polarizing coverage could indicate effective constituency service without major conflicts, though it may also suggest insufficient public engagement or media attention. Social media presence and direct constituent interaction data remain unavailable for comprehensive accessibility assessment.
-
-### Data Quality & Caveats
-Significant data limitations undermine comprehensive evaluation. Evidence grades range from B-level (criminal and assets) to D-level (accessibility), with parliamentary performance receiving C-grade confidence. Critical gaps include: complete MPLADS absence, missing committee assignments, unavailable previous asset comparisons, and limited legislative effectiveness metrics. The warning flags indicate low confidence in MPLADS data specifically and general unavailability of Sansad profile information. These limitations particularly affect assessment of developmental impact and legislative productivity.
-
-### Key Takeaway
-While S Supongmeren Jamir maintains strong legal standing and parliamentary attendance, substantial transparency gaps prevent meaningful evaluation of his effectiveness as Nagaland's representative. The complete absence of development fund utilization data, combined with limited legislative activity and neutral public profile, suggests either systematic data collection failures or minimal public engagement. Voters lack essential information to assess his developmental contributions, making accountability difficult despite his clean personal record and perfect attendance.
+No criminal cases declared. Declared assets: Rs 2,100,868. MPLADS utilization: 64.7%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 5.
 
 ---
 
@@ -163,7 +139,7 @@ While S Supongmeren Jamir maintains strong legal standing and parliamentary atte
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for S Supongmeren Jamir's MPLADS account: Released: Rs 15, Expended: Rs 10, Utilization: 64.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

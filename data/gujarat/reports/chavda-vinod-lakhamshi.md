@@ -3,23 +3,25 @@
 **Constituency:** Kachchh, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 45
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 22.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.10 Crore
+- **Liabilities:** Rs 1.56 Crore
+- **Net Worth:** Rs 5.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 4
+- **Utilization Rate:** 27.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Chavda Vinod Lakhamshi shows a mixed transparency profile with moderate performance in basic compliance areas but significant gaps in legislative engagement. While maintaining clean criminal records and reasonable attendance, the MP demonstrates poor committee participation and minimal accessibility to constituents. The low data confidence of 14% and multiple validation flags suggest substantial information gaps that limit comprehensive evaluation.
+Chavda Vinod Lakhamshi shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Chavda Vinod Lakhamshi
-
-### Overall Assessment
-
-Chavda Vinod Lakhamshi, the Bharatiya Janata Party MP representing Kachchh constituency in Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (80%), the absence of crucial financial data—including asset declarations and MPLADS utilization—severely constrains evaluation of his overall performance and accountability.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, or expenditure patterns. This represents a critical transparency gap for assessing the MP's development work in Kachchh constituency. However, CAG audit findings reveal systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level concerns raise questions about broader fund management practices that may affect constituency development.
-
-### Financial Transparency
-
-Asset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure represents a significant transparency deficit. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset data, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-
-The MP maintains a clean legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, the analysis flags low confidence in criminal data availability, suggesting potential gaps in source information that could affect the completeness of this assessment.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. The MP demonstrates reasonable attendance at 80%, indicating consistent participation in legislative proceedings. However, substantive contribution metrics reveal limited engagement: only 42 questions raised, 3 debate participations, and zero private bills introduced. This pattern suggests regular presence but potentially minimal active legislative contribution. No committee membership data is available due to unavailable Sansad profiles, further limiting assessment of parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment patterns. This suggests limited public visibility or controversial positioning. The evidence grade for accessibility is marked as 'D', indicating poor performance in public engagement metrics. Social media presence appears limited based on available data sources.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight significant data quality concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence levels
-- MPLADS data reliability is questionable
-- Committee information is entirely missing due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-The overall evidence grades are concerning: 'C' for parliament performance and 'D' for accessibility, indicating substantial room for improvement in both areas.
-
-### Key Takeaway
-
-Chavda Vinod Lakhamshi's transparency profile is severely limited by extensive data gaps, particularly in financial disclosures and development fund utilization. While maintaining a clean criminal record and adequate parliamentary attendance, the MP shows limited substantive legislative engagement and poor accessibility ratings. The absence of asset declarations and MPLADS data represents critical transparency deficits that prevent meaningful accountability assessment. Voters and stakeholders lack essential information needed to evaluate the MP's financial integrity and constituency development performance, highlighting the need for improved data disclosure and more active parliamentary participation.
+No criminal cases declared. Declared assets: Rs 70,980,147. MPLADS utilization: 27.8%. Parliament attendance: 80.0%. Questions asked: 42. Debates participated: 3.
 
 ---
 
@@ -177,7 +138,7 @@ Chavda Vinod Lakhamshi's transparency profile is severely limited by extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chavda Vinod Lakhamshi's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 27.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

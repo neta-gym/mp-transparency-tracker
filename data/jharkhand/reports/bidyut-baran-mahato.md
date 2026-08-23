@@ -3,32 +3,34 @@
 **Constituency:** Jamshedpur, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 64.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.83 Crore
+- **Liabilities:** Rs 48.49 Lakh
+- **Net Worth:** Rs 3.35 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 50.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Bidyut Baran Mahato shows a mixed transparency profile with strong performance in attendance (100%) and criminal record disclosure (100%), but significant weaknesses in committee participation (0%) and legislative activity (0%). The MP's accessibility to constituents appears limited (10%), while MPLADS utilization and asset disclosure are at moderate levels (50% each).
+Bidyut Baran Mahato shows moderate transparency with a score of 64.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bidyut Baran Mahato
-
-### Overall Assessment
-Bidyut Baran Mahato, BJP MP from Jamshedpur, Jharkhand, presents a mixed transparency profile marked by excellent parliamentary attendance but significant data gaps in key accountability areas. While maintaining a clean legal record and strong legislative participation, critical information regarding assets, MPLADS utilization, and financial transparency remains unavailable, limiting comprehensive assessment of his performance.
-
-### Fund Utilization & Development
-Complete data on MPLADS fund utilization is unavailable, with all metrics (entitled, released, expended amounts and utilization percentage) showing no recorded information. This absence is particularly concerning given CAG audit findings revealing systemic issues in Jharkhand's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific data on Mahato's constituency development performance, it's impossible to assess his effectiveness in addressing local infrastructure and development needs.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data available on current or previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and financial accountability. The MP receives a standard monthly compensation of Rs 2,45,000, but without baseline asset information, tracking any unusual wealth accumulation or financial patterns is impossible. This data absence undermines public ability to evaluate financial transparency and ethical standards.
-
-### Legal & Criminal Standing
-Mahato maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, a warning flag indicates low confidence in this criminal data due to potential source unavailability. While the clean record is positive, the data quality concern suggests this information may not be comprehensively verified or current.
-
-### Parliamentary Performance
-Mahato demonstrates exceptional commitment to parliamentary duties with 100% attendance, significantly above national averages. His legislative engagement includes 71 questions raised and participation in 14 debates, indicating active involvement in parliamentary processes. However, he has introduced zero private member bills, suggesting limited initiative in proposing independent legislation. No committee membership data is available due to unavailable Sansad profiles, preventing assessment of his specialized committee contributions. Evidence grade for parliamentary activity is rated 'C', indicating moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited accessibility, with an evidence grade of 'D' for accessibility measures. Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting minimal public visibility or controversial issues. The absence of significant media attention could indicate either effective non-controversial governance or limited public engagement and communication efforts. Social media and other digital engagement metrics are not provided, further limiting assessment of public outreach effectiveness.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations across multiple domains. Critical warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. Missing information spans asset declarations, development fund utilization, committee memberships, and detailed legislative effectiveness metrics. The parliament evidence grade of 'C' and accessibility grade of 'D' indicate significant reliability concerns. These data gaps severely constrain comprehensive transparency evaluation and suggest systemic issues in information availability or disclosure processes.
-
-### Key Takeaway
-Bidyut Baran Mahato presents a paradoxical transparency profile - exemplary in parliamentary attendance and legal standing, yet opaque in critical areas of financial disclosure and development fund utilization. The absence of asset information and MPLADS data, combined with concerning CAG audit findings about fund management irregularities in Jharkhand, raises questions about accountability mechanisms. While his clean criminal record and perfect attendance are commendable, the extensive data gaps prevent full assessment of his effectiveness as a public representative. Enhanced disclosure and data availability are essential for meaningful transparency evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 38,345,063. MPLADS utilization: 50.0%. Parliament attendance: 100.0%. Questions asked: 71. Debates participated: 14.
 
 ---
 
@@ -162,7 +138,7 @@ Bidyut Baran Mahato presents a paradoxical transparency profile - exemplary in p
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bidyut Baran Mahato's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 50.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

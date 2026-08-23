@@ -3,23 +3,23 @@
 **Constituency:** Anand, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 17.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 11.04 Crore
+- **Liabilities:** Rs 1.29 Crore
+- **Net Worth:** Rs 9.76 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Miteshbhai Rameshbhai Patel shows a mixed transparency profile with excellent attendance and clean criminal record, but faces significant challenges in legislative engagement and public accessibility. While maintaining full parliamentary attendance and scoring well on participation, the MP has concerning gaps in committee involvement and constituent outreach mechanisms.
+Miteshbhai Rameshbhai Patel shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Miteshbhai Rameshbhai Patel
-
-### Overall Assessment
-Miteshbhai Rameshbhai Patel, BJP MP from Anand constituency in Gujarat, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance in Parliament, critical information about asset declarations and MPLADS fund utilization remains unavailable, limiting comprehensive evaluation of his performance.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for MP Patel, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a significant transparency gap given that MPLADS is a key mechanism for constituency development. Gujarat's broader MPLADS implementation faces systemic challenges, as highlighted by CAG audits revealing ₹1,558 crore in idle funds across district authorities and concerning patterns of bogus utilization certificates (34% lacking proper documentation) and incomplete works (18% abandoned or unfinished). Without specific data on Patel's MPLADS performance, constituents cannot assess his effectiveness in delivering local development projects.
-
-### Financial Transparency
-Asset declaration data is completely missing for MP Patel, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency deficit, as asset declarations are fundamental to assessing potential conflicts of interest and ensuring accountability. His recorded monthly compensation stands at ₹2,45,000, which appears consistent with standard MP remuneration. The absence of asset data prevents evaluation of wealth accumulation patterns or potential discrepancies that might warrant scrutiny.
-
-### Legal & Criminal Standing
-MP Patel maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the criminal record data carries a low confidence warning, suggesting potential gaps in source availability or data verification. While the clean record is positive, the data quality concerns require cautious interpretation of this finding.
-
-### Parliamentary Performance
-Patel demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to his legislative duties. His participation includes 35 questions raised in Parliament and 9 debate contributions, showing active engagement in parliamentary proceedings. However, he has introduced zero private member bills, suggesting limited initiative in proposing independent legislation. The parliament data quality receives a 'C' grade, indicating moderate reliability, while no committee assignment information is available due to potentially unavailable Sansad profile data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (no positive or negative articles identified). This neutral coverage suggests absence of major controversies but also limited positive publicity around achievements or initiatives. The accessibility assessment receives a poor 'D' grade, indicating significant challenges in public engagement metrics. Social media presence and constituent interaction data appear limited, suggesting potential gaps in modern communication channels with voters.
-
-### Data Quality & Caveats
-The analysis faces substantial data quality limitations across multiple domains. Critical warnings include low confidence in criminal record data, asset information, and MPLADS data. Committee participation data is entirely missing due to unavailable Sansad profiles, while legislative effectiveness data also carries low confidence ratings. These gaps significantly constrain the ability to provide a comprehensive transparency assessment. The evidence grading system reflects these limitations with 'C' grade for parliamentary data and 'D' grade for accessibility metrics.
-
-### Key Takeaway
-While MP Patel demonstrates strong parliamentary attendance and maintains a clean legal record, his transparency profile is severely hampered by missing asset declarations and MPLADS utilization data. The absence of critical financial and development fund information prevents constituents from fully evaluating his performance and accountability. Future transparency improvements should prioritize complete asset disclosure and detailed MPLADS reporting to enable proper public oversight of this elected representative's stewardship of public resources and constituency development responsibilities.
+No criminal cases declared. Declared assets: Rs 110,448,824. MPLADS utilization: 22.3%. Parliament attendance: 100.0%. Questions asked: 35. Debates participated: 9.
 
 ---
 
@@ -162,7 +136,7 @@ While MP Patel demonstrates strong parliamentary attendance and maintains a clea
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Miteshbhai Rameshbhai Patel's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*
