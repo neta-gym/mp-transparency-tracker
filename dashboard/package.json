@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/prepare-agent-assets.mjs",
     "build": "next build",
     "start": "next start",
     "prepare-geo": "tsx scripts/prepare-geo.ts"

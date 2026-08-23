@@ -1,6 +1,7 @@
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import {
   getAllStateSlugs,
   getAllMPSlugs,
@@ -32,6 +33,7 @@ import { RTITemplate } from "@/components/RTITemplate";
 import { CAGSection } from "@/components/CAGSection";
 import { PDFExportButton } from "@/components/PDFExportButton";
 import { MPStatusSummary } from "@/components/MPStatusSummary";
+import { CitizenSummary } from "@/components/CitizenSummary";
 import { TrendChart } from "@/components/TrendChart";
 import { getMPScoreHistory } from "@/lib/trends";
 import { SCORE_COMPONENTS } from "@/lib/types";
@@ -53,6 +55,22 @@ interface PageProps {
   params: Promise<{ stateSlug: string; mpSlug: string }>;
 }
 
+const SITE_URL = "https://neta-gym.github.io/mp-transparency-tracker";
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { stateSlug, mpSlug } = await params;
+  const score = getScoreResult(stateSlug, mpSlug);
+  if (!score) return {};
+  const mp = score.mp;
+  const title = `${mp.name} (${mp.constituency}) — Transparency Score ${score.composite_score}/100`;
+  const description = `How is ${mp.name}, ${mp.party} MP from ${mp.constituency}, performing? Transparency score ${score.composite_score}/100 with public records on MPLADS funds, attendance, criminal cases and assets.`;
+  return {
+    title,
+    description,
+    openGraph: { title, description },
+  };
+}
+
 export default async function MPDetailPage({ params }: PageProps) {
   const { stateSlug, mpSlug } = await params;
   const stateInfo = getStateBySlug(stateSlug);
@@ -70,6 +88,43 @@ export default async function MPDetailPage({ params }: PageProps) {
 
   return (
     <div className="space-y-6">
+      {/* Structured data for search engines and AI agents */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Person",
+            name: mp.name,
+            jobTitle: "Member of Parliament (Lok Sabha)",
+            party: mp.party,
+            address: {
+              "@type": "PostalAddress",
+              addressRegion: stateInfo.displayName,
+              description: `Constituency: ${mp.constituency}`,
+            },
+            additionalProperty: [
+              {
+                "@type": "PropertyValue",
+                name: "Transparency score",
+                value: score.composite_score,
+                maxValue: 100,
+              },
+              ...(mp.sansad_member_id
+                ? [
+                    {
+                      "@type": "PropertyValue",
+                      name: "Sansad member ID",
+                      value: mp.sansad_member_id,
+                    },
+                  ]
+                : []),
+            ],
+            url: `${SITE_URL}/state/${stateSlug}/mp/${mpSlug}`,
+          }),
+        }}
+      />
+
       {/* Breadcrumb */}
       <div className="flex items-center gap-2 text-sm text-text-secondary">
         <Link href="/" className="hover:text-primary font-bold underline decoration-2">
@@ -173,6 +228,9 @@ export default async function MPDetailPage({ params }: PageProps) {
           </div>
         </CardContent>
       </Card>
+
+      {/* Citizen summary: money + plain-language record */}
+      <CitizenSummary score={score} validated={validated} stateSlug={stateSlug} />
 
       {/* Status Summary */}
       <MPStatusSummary score={score} validated={validated} />

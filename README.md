@@ -222,6 +222,22 @@ NEXT_PUBLIC_BASE_PATH=/mp-transparency-tracker
 
 This is required because project Pages are served from a repository subpath. If the live page appears unstyled, maps stay stuck at “Loading map…”, or MP photos break, check that generated links point under `/mp-transparency-tracker/` rather than the domain root.
 
+## AI / agent access
+
+The static export ships a machine-readable layer so citizens can ask any LLM (ChatGPT, Claude, etc.) about their MP:
+
+```text
+/llms.txt              index of all 540 MP reports with links
+/search-index.json     MP name/party/state → profile & report URL resolver (JSON)
+/sitemap.xml           all pages, for search engines
+/robots.txt            crawler allowlist + sitemap pointer
+/data/{state}/reports/{mp-slug}.md     full per-MP report with source citations
+/data/{state}/scores/{mp-slug}.json    machine-readable score breakdown
+/data/national/leaderboard/latest.json national ranking
+```
+
+These files are regenerated at build time by `dashboard/scripts/prepare-agent-assets.mjs` (wired as the npm `prebuild` hook). Example agent prompt for users: *"Fetch https://neta-gym.github.io/mp-transparency-tracker/llms.txt, find [MP name], read their report and summarize it in Hindi."* Translation is left to the user's own LLM — no LLM dependency exists in this repo's pipeline.
+
 ## Guide for AI coding agents: Codex, Claude Code, and similar tools
 
 If you are an automated coding agent reading this repository, preserve these project invariants:
