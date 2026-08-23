@@ -3,32 +3,34 @@
 **Constituency:** Darbhanga, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 15.6 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.91 Crore
+- **Liabilities:** Rs 68.76 Lakh
+- **Net Worth:** Rs 3.22 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 19.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Gopal Jee Thakur shows a mixed transparency profile with moderate performance in core areas but significant gaps in institutional engagement. While maintaining a clean criminal record and good attendance, his transparency is severely limited by zero committee participation and minimal accessibility to constituents.
+Gopal Jee Thakur shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gopal Jee Thakur
-
-### Overall Assessment
-Gopal Jee Thakur, representing Darbhanga constituency in Bihar as a Bharatiya Janata Party MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating adequate parliamentary attendance (85%), his profile suffers from incomplete financial disclosure and limited public engagement metrics. The analysis reveals concerning systemic issues in Bihar's fund utilization mechanisms that may affect constituency development.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable for this MP, preventing assessment of his development fund utilization. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Bihar's fund management. Key audit revelations include Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. These findings suggest potential challenges in translating allocated funds into actual development outcomes in the constituency.
-
-### Financial Transparency
-Asset declaration data is entirely unavailable, preventing any assessment of the MP's financial transparency. No information exists regarding total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a critical component of public accountability. The MP receives a monthly compensation of Rs 2,45,000, which represents the standard parliamentary salary structure.
-
-### Legal & Criminal Standing
-Gopal Jee Thakur maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the analysis flags low confidence in this criminal data due to potential source unavailability, suggesting the clean record may reflect data gaps rather than comprehensive verification.
-
-### Parliamentary Performance
-The MP demonstrates moderate parliamentary engagement with 85% attendance, placing him above average compared to typical parliamentary attendance rates. His legislative activity includes asking 37 questions and participating in 8 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in legislative drafting. The evidence grade for parliamentary data is rated 'C', indicating moderate reliability with some data quality concerns.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited online presence and accessibility. News sentiment analysis reveals 10 articles with neutral coverage (0 positive, 0 negative), suggesting minimal media attention or public discourse around the MP's activities. The accessibility evidence grade is rated 'D', indicating poor data availability regarding public engagement channels, social media presence, or constituent interaction mechanisms.
-
-### Data Quality & Caveats
-This analysis faces significant data quality limitations across multiple domains. Automated flags indicate low confidence in criminal records, asset declarations, and MPLADS data. Committee membership information is entirely unavailable, with the Sansad profile potentially inaccessible. Legislative effectiveness data carries low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and suggest systemic issues with public data availability or disclosure compliance.
-
-### Key Takeaway
-Gopal Jee Thakur's transparency profile reveals a concerning pattern of data unavailability across critical accountability metrics, particularly in financial disclosure and development fund utilization. While maintaining clean criminal records and adequate parliamentary attendance, the absence of asset declarations and MPLADS data, combined with limited public engagement, suggests either non-compliance with transparency requirements or systemic data collection failures. The CAG audit context highlighting widespread fund management issues in Bihar adds urgency to improving transparency mechanisms for effective constituency representation and development oversight.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 39,078,830. MPLADS utilization: 19.5%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ Gopal Jee Thakur's transparency profile reveals a concerning pattern of data una
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gopal Jee Thakur's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 19.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Hyderabad, Telangana
 **Party:** All India Majlis-E-Ittehadul Muslimeen
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 46.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 4.2 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 23.88 Crore
+- **Liabilities:** Rs 7.05 Crore
+- **Net Worth:** Rs 16.83 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Asaduddin Owaisi shows a mixed transparency profile with strong attendance (90%) and clean criminal record, but significant gaps in committee participation, accessibility, and legislative effectiveness. The low data confidence (14%) and multiple validation flags suggest incomplete information, making this assessment preliminary.
+Asaduddin Owaisi has a below-average transparency score of 46.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Asaduddin Owaisi
-
-### Overall Assessment
-Asaduddin Owaisi, representing Hyderabad constituency in Telangana as a member of All India Majlis-E-Ittehadul Muslimeen (AIMIM), demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple metrics. With 90% attendance and active participation through 29 questions and 15 debates, his legislative engagement appears robust. However, critical financial and developmental data remains unavailable, limiting comprehensive assessment of his overall effectiveness as an elected representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a significant transparency gap given that MPLADS is a key mechanism for constituency development. The absence of utilization data prevents assessment of developmental impact in Hyderabad constituency. CAG audit findings from 2010 highlight systemic issues in MPLADS implementation across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, though specific data for Owaisi's constituency is not available.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, with no information available on total assets, previous declarations, growth patterns, or net worth. This complete absence of financial transparency data raises concerns about public accountability. The monthly compensation is listed at Rs 2,45,000, which appears standard for Lok Sabha members. Without baseline asset data, it is impossible to assess financial growth patterns or potential conflicts of interest during his tenure.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal standing. However, automated flags warn of low confidence in criminal data due to potentially unavailable sources. While the reported clean record is positive, the data quality concerns suggest these figures should be interpreted cautiously until verified through additional sources.
-
-### Parliamentary Performance
-Owaisi demonstrates strong parliamentary engagement with 90% attendance, significantly above average for many MPs. His participation includes 29 questions raised and 15 debates participated in, showing active involvement in legislative processes. However, he has introduced zero private member bills, which could indicate limited initiative in proposing new legislation. No committee membership data is available, preventing assessment of his contribution to parliamentary committee work. The evidence grade for parliamentary performance is rated 'C', suggesting moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows neutral-to-mixed sentiment with 10 articles tracked (9 neutral, 1 negative, 0 positive). This relatively balanced coverage suggests he maintains a steady public profile without major controversies or significant positive breakthroughs during the analyzed period. However, the accessibility evidence grade is rated 'D', indicating poor data availability for assessing public outreach and constituent services. No data is available on social media engagement, public meetings, or other accessibility metrics.
-
-### Data Quality & Caveats
-Multiple automated flags indicate serious data quality concerns. Asset information carries low confidence warnings, MPLADS data is flagged as unreliable, and criminal record data may be incomplete due to source unavailability. Committee participation data is entirely missing, and legislative effectiveness data has low confidence ratings. These limitations significantly constrain the ability to provide a comprehensive transparency assessment. The evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality challenges.
-
-### Key Takeaway
-While Asaduddin Owaisi shows strong parliamentary attendance (90%) and active legislative participation through questions and debates, his transparency profile is severely hampered by missing data across critical areas including assets, MPLADS utilization, and committee work. The clean criminal record is positive but requires verification. The most significant concern is the complete absence of financial and developmental fund data, which prevents meaningful assessment of his stewardship of public resources and constituency development efforts. Improved data disclosure would be essential for comprehensive transparency evaluation.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 238,766,044. MPLADS utilization: 5.3%. Parliament attendance: 90.0%. Questions asked: 29. Debates participated: 15. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Asaduddin Owaisi shows strong parliamentary attendance (90%) and active le
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Asaduddin Owaisi's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

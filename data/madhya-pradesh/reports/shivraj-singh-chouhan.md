@@ -3,32 +3,34 @@
 **Constituency:** Vidisha, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 50.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.4 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.99 Crore
+- **Liabilities:** Rs 64.12 Lakh
+- **Net Worth:** Rs 8.34 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Shivraj Singh Chouhan demonstrates mixed transparency with strengths in criminal record disclosure (perfect score) but significant weaknesses in committee participation, legislative engagement, and public accessibility. His moderate performance in MPLADS utilization and asset disclosure suggests partial compliance with transparency norms, though the very low data confidence raises questions about information reliability.
+Shivraj Singh Chouhan shows moderate transparency with a score of 50.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shivraj Singh Chouhan
-
-### Overall Assessment
-Shivraj Singh Chouhan, BJP MP from Vidisha (Madhya Pradesh), presents a transparency profile hampered by significant data gaps across all key performance indicators. While he maintains a clean criminal record and serves in a ministerial capacity, comprehensive assessment is severely limited by unavailable or low-confidence data across financial, parliamentary, and development metrics. The available evidence suggests neutral public perception but lacks substantive performance data.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This complete data absence is particularly concerning given the systemic issues identified in CAG audits for Madhya Pradesh. The 2010 CAG audit (Report 31) revealed Rs 1,558 crore in idle funds across state district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without current MPLADS data, it's impossible to assess whether Chouhan's constituency development spending addresses these historical inefficiencies.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for public representatives and crucial for assessing potential conflicts of interest. The only available financial information is the standard monthly compensation of Rs 245,000, which provides no insight into the MP's broader financial profile or compliance with disclosure requirements.
-
-### Legal & Criminal Standing
-Chouhan maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, the data source confidence is flagged as low, indicating potential gaps in criminal record verification. While the available data suggests no legal issues, the low confidence rating requires cautious interpretation of this apparently clean record.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with attendance percentage unavailable and zero recorded questions, debates, or private bills. While Chouhan's ministerial status may legitimately reduce parliamentary floor participation due to executive responsibilities, the complete absence of quantifiable parliamentary engagement metrics prevents meaningful performance assessment. The parliament evidence grade of 'C' indicates moderate data quality concerns that limit reliable evaluation.
-
-### Public Engagement & Accessibility
-Media sentiment analysis reveals neutral public perception based on 10 articles (1 positive, 0 negative, 9 neutral), suggesting neither particularly strong public approval nor significant controversy. However, the accessibility evidence grade of 'D' indicates poor data availability for assessing public engagement efforts. No committee participation data is available due to potentially unavailable Sansad profiles, further limiting assessment of his legislative engagement beyond ministerial duties.
-
-### Data Quality & Caveats
-This profile suffers from extensive data quality issues across all major categories:
-- Criminal record data flagged with low confidence warnings
-- Complete absence of asset declaration information  
-- Unavailable MPLADS utilization data despite constituency development being a core MP responsibility
-- Missing parliamentary activity metrics beyond basic attendance
-- No committee participation data
-- Accessibility grade of 'D' indicating poor public information availability
-
-These data gaps severely limit the reliability of any comprehensive transparency assessment.
-
-### Key Takeaway
-Shivraj Singh Chouhan's transparency profile is characterized by significant information gaps that prevent meaningful performance evaluation across most key metrics. While he maintains an apparently clean criminal record and neutral public perception, the absence of crucial data on assets, MPLADS utilization, and detailed parliamentary activity raises serious questions about transparency compliance and public accountability. The systemic issues identified in Madhya Pradesh's fund utilization through CAG audits underscore the importance of transparent MPLADS reporting, making the complete absence of this data particularly concerning for constituents seeking accountability from their elected representative.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 89,852,874. MPLADS utilization: 24.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Shivraj Singh Chouhan's transparency profile is characterized by significant inf
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shivraj Singh Chouhan's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

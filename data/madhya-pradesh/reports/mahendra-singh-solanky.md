@@ -3,32 +3,34 @@
 **Constituency:** Dewas, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 40
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 15.0 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 38.17 Lakh
+- **Liabilities:** Rs 27.12 Lakh
+- **Net Worth:** Rs 11.05 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 3% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 18.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Mahendra Singh Solanky demonstrates a mixed transparency profile with notable strengths in attendance (95%) and clean criminal record (100%), but significant weaknesses in legislative activity, committee participation, and public accessibility. The below-average overall score of 48% is primarily driven by complete absence of legislative initiatives and committee engagement, coupled with very limited public accessibility measures.
+Mahendra Singh Solanky shows moderate transparency with a score of 50.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mahendra Singh Solanky
-
-### Overall Assessment
-
-Mahendra Singh Solanky, BJP MP from Dewas constituency in Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant gaps in financial and development data. While his criminal record appears clean and attendance is exemplary at 95%, critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, limiting comprehensive evaluation of his stewardship.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable for MP Solanky, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given the CAG's identification of systemic issues in Madhya Pradesh's fund management. The 2010 CAG audit revealed Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works abandoned or incomplete. Without specific MPLADS data for Solanky's constituency, it's impossible to assess whether these state-level concerns affect Dewas.
-
-### Financial Transparency
-
-Asset transparency is completely absent, with no data available on total assets, previous declarations, growth patterns, or net worth. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. His monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration. The lack of asset data represents a critical gap in financial accountability.
-
-### Legal & Criminal Standing
-
-Solanky maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries a "low confidence" warning due to potential source unavailability, suggesting the clean record may reflect data gaps rather than confirmed absence of legal issues.
-
-### Parliamentary Performance
-
-Solanky demonstrates strong parliamentary engagement with 95% attendance, significantly above average performance levels. He has asked 20 questions in Parliament, indicating active participation in legislative oversight. However, he has not participated in debates (0) or introduced private member bills (0), suggesting limited initiative in policy formulation and public discourse. The evidence grade of 'C' for parliamentary performance reflects good attendance but limited broader legislative activity.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics are concerning, with an accessibility evidence grade of 'D' indicating poor transparency and citizen interaction. Media coverage shows 10 neutral articles with no positive or negative sentiment, suggesting limited public visibility or impact. The absence of committee data further indicates potential gaps in specialized legislative work or institutional engagement.
-
-### Data Quality & Caveats
-
-This profile suffers from significant data quality issues that severely limit analytical confidence. Key caveats include:
-- Criminal record data flagged as "low confidence" due to source availability concerns
-- Complete absence of asset declarations and MPLADS utilization data
-- No committee membership information available
-- Legislative effectiveness data marked as "low confidence"
-- Evidence grades of 'C' for parliament activity and 'D' for accessibility indicate substantial data limitations
-
-These gaps may reflect either genuine transparency deficits or systemic data collection challenges in the constituency.
-
-### Key Takeaway
-
-While MP Solanky demonstrates commitment through high parliamentary attendance and maintains an apparently clean legal record, his transparency profile is severely compromised by missing critical data on assets, MPLADS utilization, and public engagement. The absence of financial declarations and development fund tracking prevents meaningful assessment of his stewardship effectiveness. Given the CAG's identification of systemic fund management issues in Madhya Pradesh, the lack of MPLADS transparency is particularly concerning. Voters in Dewas constituency have limited visibility into their representative's financial interests and development work, highlighting the need for improved data disclosure and public accountability mechanisms.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 3,817,399. MPLADS utilization: 18.7%. Parliament attendance: 95.0%. Questions asked: 20.
 
 ---
 
@@ -177,7 +138,7 @@ While MP Solanky demonstrates commitment through high parliamentary attendance a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mahendra Singh Solanky's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 18.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

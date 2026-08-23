@@ -3,23 +3,25 @@
 **Constituency:** Shirdi, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 74
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 55.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 9.75 Crore
+- **Liabilities:** Rs 24.32 Lakh
+- **Net Worth:** Rs 9.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.8%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,50 +95,11 @@
 
 ## Qualitative Assessment
 
-Bhausaheb Rajaram Wakchaure shows a mixed transparency profile with significant gaps in several areas. While maintaining a clean criminal record and good parliamentary attendance (85%), he demonstrates poor performance in committee participation, accessibility to constituents, and legislative activity with zero scores in these critical areas.
+Bhausaheb Rajaram Wakchaure shows moderate transparency with a score of 55.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bhausaheb Rajaram Wakchaure
-
-### Overall Assessment
-Bhausaheb Rajaram Wakchaure, representing Shirdi constituency in Maharashtra for Shiv Sena (Uddhav Balasaheb Thackeray), presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and reasonable parliamentary attendance (85%), critical financial and development data remains unavailable, limiting comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given that MPLADS funds are crucial for constituency development. The absence of this data prevents assessment of his development work effectiveness in Shirdi constituency.
-
-CAG audit findings for Maharashtra highlight systemic concerns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. These audit findings underscore the importance of transparent fund utilization reporting, making the data gap for this MP particularly concerning.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, including total assets, previous declarations, growth ratios, and net worth calculations. This represents a critical transparency deficit, as asset declarations are fundamental to assessing potential conflicts of interest and financial probity of elected representatives.
-
-The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset disclosure data, it's impossible to assess overall financial standing or potential sources of income beyond parliamentary remuneration.
-
-### Legal & Criminal Standing
-Wakchaure maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues that warrant caution in this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels. With 85% attendance, Wakchaure demonstrates reasonable presence in the Lok Sabha, though this falls short of exemplary participation. He has raised 38 questions and participated in 3 debates, indicating basic engagement with parliamentary proceedings, though the volume suggests room for more active participation in legislative discussions.
-
-Notably, he has not introduced any private member bills, indicating limited initiative in proposing new legislation. Committee participation data is unavailable, preventing assessment of his contribution to detailed legislative work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility, with only 10 news articles identified, all categorized as neutral. The absence of positive coverage suggests minimal media engagement or notable public achievements gaining attention. This limited media presence may indicate reduced public accessibility or communication effectiveness.
-
-Evidence grades reflect accessibility challenges, with parliamentary engagement rated 'C' and accessibility rated 'D', indicating significant room for improvement in public engagement and transparency.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations. Multiple automated flags highlight low confidence across key areas:
-- Criminal record data may be unreliable due to source unavailability
-- Asset information is entirely absent
-- MPLADS data is completely unavailable
-- Committee participation data is missing
-- Legislative effectiveness data has low confidence ratings
-
-These data gaps significantly limit the comprehensiveness and reliability of this transparency assessment. The Maharashtra CAG audit context provides relevant systemic insights but cannot substitute for specific MP performance data.
-
-### Key Takeaway
-Bhausaheb Rajaram Wakchaure's transparency profile is severely hampered by critical data unavailability across financial disclosures, development fund utilization, and detailed parliamentary work. While maintaining a clean criminal record and reasonable attendance, the absence of asset declarations and MPLADS utilization data represents significant transparency deficits. His moderate parliamentary participation and limited public visibility suggest adequate but unremarkable performance as a public representative, though comprehensive assessment remains impossible without complete data disclosure.
+No criminal cases declared. Declared assets: Rs 97,519,221. MPLADS utilization: 4.8%. Parliament attendance: 85.0%. Questions asked: 38. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -177,7 +139,7 @@ Bhausaheb Rajaram Wakchaure's transparency profile is severely hampered by criti
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhausaheb Rajaram Wakchaure's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

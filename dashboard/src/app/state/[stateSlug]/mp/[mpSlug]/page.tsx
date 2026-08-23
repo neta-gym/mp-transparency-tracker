@@ -128,9 +128,38 @@ export default async function MPDetailPage({ params }: PageProps) {
               <p className="text-text-secondary">
                 {mp.constituency}, {stateInfo.displayName}
               </p>
+              {(mp.education || mp.age != null || mp.profession) && (
+                <div className="flex flex-wrap items-center gap-2 mt-2">
+                  {mp.education && (
+                    <span className="text-xs font-bold uppercase border border-ink bg-surface px-1.5 py-0.5">
+                      🎓 {mp.education}
+                    </span>
+                  )}
+                  {mp.age != null && (
+                    <span className="text-xs font-bold uppercase border border-ink bg-surface px-1.5 py-0.5">
+                      Age {mp.age}
+                    </span>
+                  )}
+                  {mp.profession && (
+                    <span className="text-xs font-bold uppercase border border-ink bg-surface px-1.5 py-0.5 normal-case">
+                      {mp.profession}
+                    </span>
+                  )}
+                </div>
+              )}
               <p className="text-sm text-text-muted mt-1">
                 {score.key_finding}
               </p>
+              {mp.sansad_member_id && (
+                <a
+                  href={`https://sansad.in/ls/members/${mp.sansad_member_id}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block mt-2 text-xs font-bold uppercase text-primary underline decoration-2 hover:text-danger"
+                >
+                  Official Sansad profile ↗
+                </a>
+              )}
             </div>
 
             {/* Confidence + Export */}

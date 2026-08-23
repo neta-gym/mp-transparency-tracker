@@ -3,32 +3,32 @@
 **Constituency:** Bhongir, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 58.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 31.4 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 28.72 Crore
+- **Liabilities:** Rs 73.48 Lakh
+- **Net Worth:** Rs 27.99 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Chamala Kiran Kumar Reddy shows a mixed transparency profile with strong performance in attendance (100%) and criminal record disclosure (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and accessibility (10%). The moderate MPLADS and assets scores, combined with very low data confidence (14%) and multiple validation flags, suggest incomplete transparency reporting.
+Chamala Kiran Kumar Reddy shows moderate transparency with a score of 58.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Chamala Kiran Kumar Reddy
-
-### Overall Assessment
-Chamala Kiran Kumar Reddy, Indian National Congress MP representing Bhongir constituency in Telangana, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance, the absence of critical financial and asset data severely limits comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is completely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues with MPLADS implementation in Telangana. The CAG's 2010 audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Reddy's constituency, it's impossible to assess his development impact or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, representing a critical transparency gap. No information is available regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data makes it impossible to assess potential conflicts of interest or track wealth accumulation during his tenure. The MP receives a monthly compensation of Rs 2,45,000, but without asset declarations, comprehensive financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal standing. However, automated flags warn of low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously.
-
-### Parliamentary Performance
-Reddy demonstrates exceptional attendance with a perfect 100% parliamentary attendance record, significantly above typical MP averages. His legislative engagement includes 36 questions raised and participation in 6 debates, showing active involvement in parliamentary proceedings. However, he has introduced zero private member bills, indicating limited initiative in proposing new legislation. The evidence grade for parliamentary data is rated 'C', suggesting moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (zero positive or negative articles), suggesting limited public visibility or controversy. This neutral coverage pattern may indicate either effective constituency management without major issues or insufficient media attention to his activities. No committee membership data is available due to unavailable Sansad profiles, limiting assessment of his specialized parliamentary contributions. The accessibility evidence grade is rated 'D', indicating poor data availability for public engagement metrics.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality issues:
-- Criminal record data has low confidence due to source unavailability
-- Asset information shows low confidence warnings
-- MPLADS data reliability is questionable
-- Committee and legislative effectiveness data are largely missing
-- Evidence grades range from 'C' (parliament) to 'D' (accessibility)
-
-These data gaps substantially limit the comprehensiveness of this transparency assessment. Sources include PRS (Legislative Research), social media, and news coverage, but key government databases appear inaccessible or incomplete.
-
-### Key Takeaway
-While Chamala Kiran Kumar Reddy demonstrates strong parliamentary attendance and maintains a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization prevent a comprehensive accountability assessment. The absence of financial transparency data and development fund utilization metrics raises concerns about public accountability. Voters and stakeholders should demand complete disclosure of assets and MPLADS expenditure details to enable informed evaluation of his performance. The perfect attendance record is commendable, but transparency requires more than legislative presence—it demands complete financial disclosure and development fund accountability.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 287,211,468. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.
 
 ---
 
@@ -169,7 +136,7 @@ While Chamala Kiran Kumar Reddy demonstrates strong parliamentary attendance and
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chamala Kiran Kumar Reddy's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

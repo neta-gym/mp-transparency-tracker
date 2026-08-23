@@ -3,23 +3,25 @@
 **Constituency:** Bhiwani-Mahendragarh, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 62.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 29.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 11.57 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 11.57 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,41 +94,11 @@
 
 ## Qualitative Assessment
 
-Dharambir Singh shows a mixed transparency profile with moderate overall performance. While he maintains excellent criminal record transparency and high parliamentary attendance, his profile is significantly weakened by poor committee participation, minimal accessibility to constituents, and lack of legislative initiative disclosure. The low data confidence of 14% and multiple validation flags suggest incomplete information availability.
+Dharambir Singh shows moderate transparency with a score of 62.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dharambir Singh
-### Overall Assessment
-MP Dharambir Singh represents the Bhiwani-Mahendragarh constituency in Haryana under the Bharatiya Janata Party banner. While demonstrating strong parliamentary attendance at 95%, his transparency profile reveals significant data gaps across multiple dimensions. The available evidence suggests basic parliamentary engagement but limited visibility into financial and development activities, earning mixed evidence grades (Parliament: C, Accessibility: D).
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable for assessment, with all key metrics (entitled, released, expended amounts) showing as "None." This data gap prevents evaluation of his development project execution. However, CAG audit findings for Haryana highlight systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level concerns underscore the importance of transparent fund tracking.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with total assets, previous assets, growth ratio, and net worth all showing as "None." This represents a significant transparency gap that prevents assessment of financial growth or potential conflicts of interest. Monthly compensation is listed at Rs 2,45,000, which appears standard for parliamentary positions.
-
-### Legal & Criminal Standing
-Singh maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting this clean record may reflect data gaps rather than verified information.
-
-### Parliamentary Performance
-Singh demonstrates above-average parliamentary engagement with 95% attendance, significantly higher than typical MP attendance rates. He has raised 55 questions and participated in 5 debates, indicating active legislative participation. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. No committee membership data is available, potentially indicating absence from parliamentary committees or data unavailability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with zero positive or negative pieces, suggesting limited public discourse around his activities. The neutral tone may indicate either non-controversial performance or insufficient media attention. Social media and digital engagement metrics are not provided, limiting assessment of direct public interaction capabilities.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns:
-- Criminal record data has low confidence due to source unavailability
-- Asset information completely missing despite mandatory disclosure requirements
-- MPLADS data unavailable across all metrics
-- No committee membership information found
-- Legislative effectiveness data has low confidence ratings
-
-These gaps severely limit the ability to conduct comprehensive transparency assessment and may indicate either systemic data collection issues or insufficient disclosure compliance.
-
-### Key Takeaway
-While Dharambir Singh demonstrates strong parliamentary attendance and basic legislative engagement, his transparency profile is severely compromised by extensive data gaps across financial disclosures, development fund utilization, and committee activities. The available clean criminal record and neutral media coverage are positive indicators, but low data confidence levels raise questions about information accessibility and disclosure compliance. Improved data availability would be essential for meaningful transparency evaluation.
+No criminal cases declared. Declared assets: Rs 115,664,424. MPLADS utilization: 36.3%. Parliament attendance: 95.0%. Questions asked: 55. Debates participated: 5.
 
 ---
 
@@ -168,7 +138,7 @@ While Dharambir Singh demonstrates strong parliamentary attendance and basic leg
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dharambir Singh's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -264,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

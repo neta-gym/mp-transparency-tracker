@@ -3,32 +3,34 @@
 **Constituency:** Barpeta, Assam
 **Party:** Asom Gana Parishad
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 72
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 17.7 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.28 Crore
+- **Liabilities:** Rs 15.65 Lakh
+- **Net Worth:** Rs 3.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Phani Bhusan Choudhury shows a mixed transparency profile with notable strengths in criminal record disclosure and attendance, but significant weaknesses in committee participation, accessibility, and legislative contributions. The moderate MPLADS and assets disclosure scores indicate room for improvement in financial transparency.
+Phani Bhusan Choudhury shows moderate transparency with a score of 53.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Phani Bhusan Choudhury
-
-### Overall Assessment
-Phani Bhusan Choudhury represents Barpeta constituency in Assam as a member of the Asom Gana Parishad in the Lok Sabha. His transparency profile presents a mixed picture with significant data gaps across multiple dimensions. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (80%), substantial information deficits limit comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the Rs 245,000 monthly compensation. CAG audit findings for Assam raise systemic concerns about fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, suggesting potential challenges in the broader development ecosystem within which Choudhury operates.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data available on current assets, previous holdings, growth ratios, or net worth. This lack of financial transparency prevents assessment of wealth accumulation patterns or potential conflicts of interest. The absence of basic asset declarations raises questions about compliance with mandatory disclosure requirements for elected representatives.
-
-### Legal & Criminal Standing
-Choudhury maintains a clean legal record with zero criminal cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unreliable or incomplete. While the clean record is positive, the data quality concerns require cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance—a reasonable but not exemplary level of participation. Legislative activity remains limited with only 8 questions raised, 3 debate participations, and no private member bills introduced. The absence of committee membership data further limits assessment of his parliamentary contributions. Evidence quality for parliamentary performance receives a 'C' grade, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Public engagement assessment faces severe limitations due to data unavailability. News sentiment analysis across 10 articles shows entirely neutral coverage with no positive or negative sentiment detected, suggesting limited media visibility or impact. Social media and other accessibility metrics receive a 'D' evidence grade, indicating poor data quality. No committee participation data is available, limiting assessment of institutional engagement beyond basic parliamentary functions.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality issues. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information shows similar reliability concerns. MPLADS data is completely missing despite being fundamental to MP accountability. Committee information is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These limitations substantially constrain comprehensive transparency assessment.
-
-### Key Takeaway
-Phani Bhusan Choudhury's transparency profile is characterized more by data absence than substantive concerns. While maintaining a clean criminal record and reasonable parliamentary attendance, critical gaps in asset disclosure, MPLADS utilization, and detailed legislative contributions prevent comprehensive accountability assessment. The neutral media coverage and limited parliamentary activity suggest a low-profile approach to representation. Systemic CAG audit findings for Assam highlight broader governance challenges that may impact local development effectiveness, though direct attribution to Choudhury's performance cannot be established without specific data.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 32,806,601. MPLADS utilization: 22.1%. Parliament attendance: 80.0%. Questions asked: 8. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Phani Bhusan Choudhury's transparency profile is characterized more by data abse
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Phani Bhusan Choudhury's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

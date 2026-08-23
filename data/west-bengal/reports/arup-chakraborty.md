@@ -3,23 +3,25 @@
 **Constituency:** Bankura, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 68
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.0 / 100
+## Composite Transparency Score: 48.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 29.2 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.19 Crore
+- **Liabilities:** Rs 6.57 Crore
+- **Net Worth:** Rs 10.62 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Arup Chakraborty shows a mixed transparency profile with significant weaknesses in public engagement and legislative activities. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, the MP demonstrates poor accessibility to constituents and zero participation in parliamentary debates and committee work. The low data confidence of 14% and multiple validation flags suggest incomplete information availability.
+Arup Chakraborty has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Arup Chakraborty
-
-### Overall Assessment
-
-Arup Chakraborty, representing Bankura constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While his criminal record appears clean and he maintains neutral media coverage, substantial gaps exist in asset disclosures, MPLADS utilization data, and parliamentary engagement metrics. His parliamentary attendance of 55% falls below optimal standards for legislative representation.
-
-### Fund Utilization & Development
-
-Critical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) transparency. No data is available for Chakraborty's entitled allocation, funds released, or expenditure patterns, making it impossible to assess his constituency development effectiveness. This absence of utilization data is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. The CAG also identified that 18% of sampled development works were abandoned or incomplete, raising questions about implementation oversight.
-
-### Financial Transparency
-
-Asset disclosure presents a significant transparency deficit. No current or previous asset information is available, preventing assessment of financial growth patterns or potential conflicts of interest. Without baseline asset data, it's impossible to evaluate wealth accumulation during his tenure or compliance with disclosure requirements. His monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-
-Chakraborty maintains a clean legal record with zero criminal cases, including no serious charges, pending matters, or convictions. However, data confidence is low due to potential source unavailability, requiring cautious interpretation of this apparently positive finding.
-
-### Parliamentary Performance
-
-Legislative engagement shows concerning deficiencies. With 55% attendance, Chakraborty falls short of the desirable parliamentary presence for effective representation. More critically, he has contributed zero questions, participated in zero debates, and introduced zero private bills, indicating minimal active legislative participation. No committee membership data is available, suggesting limited engagement in specialized parliamentary functions. This pattern suggests a largely passive approach to legislative duties.
-
-### Public Engagement & Accessibility
-
-Media analysis reveals neutral public perception based on 10 news articles, with zero positive or negative coverage, indicating limited public visibility or controversial positions. This neutral profile, while avoiding negative publicity, may also suggest insufficient media engagement on constituency issues. The absence of accessible committee data and legislative activity raises questions about public engagement channels and transparency in representative functions.
-
-### Data Quality & Caveats
-
-Significant data quality limitations affect this assessment's reliability. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information is entirely missing, creating major transparency gaps. MPLADS utilization data is unavailable despite being crucial for development assessment. Committee membership information is absent, possibly due to unavailable Sansad profile data. Legislative effectiveness metrics show low confidence ratings. The parliament performance receives a 'C' grade while accessibility rates 'D', reflecting substantial transparency deficits.
-
-### Key Takeaway
-
-Arup Chakraborty's transparency profile reveals a representative with a clean legal record but significant gaps in financial disclosure, development fund utilization, and active parliamentary participation. His 55% attendance and zero contributions to legislative processes raise questions about constituency representation effectiveness. The absence of asset information and MPLADS data, combined with systemic CAG-identified irregularities in West Bengal's fund management, creates substantial transparency concerns. While avoiding criminal complications and negative publicity, Chakraborty's passive legislative approach and data gaps suggest limited accountability mechanisms for his constituents. Improved disclosure compliance and enhanced parliamentary engagement would significantly strengthen his transparency profile.
+No criminal cases declared. Declared assets: Rs 171,911,710. MPLADS utilization: 36.5%. Parliament attendance: 55.0%.
 
 ---
 
@@ -170,7 +138,7 @@ Arup Chakraborty's transparency profile reveals a representative with a clean le
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Arup Chakraborty's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

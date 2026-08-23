@@ -3,23 +3,25 @@
 **Constituency:** Nandurbar, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 31
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 62.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,21 +38,22 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.02 Crore
+- **Liabilities:** Rs 78.18 Lakh
+- **Net Worth:** Rs 6.24 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Gowaal Kagada Padavi shows mixed transparency performance with notable strengths in attendance (95%) and criminal background disclosure (100%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores, combined with very low data confidence (14%) and multiple validation flags, suggest incomplete transparency reporting that limits comprehensive evaluation.
+Gowaal Kagada Padavi shows moderate transparency with a score of 62.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gowaal Kagada Padavi
-
-### Overall Assessment
-Gowaal Kagada Padavi, representing Nandurbar constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data gaps. While maintaining strong parliamentary attendance at 95%, critical financial and asset information remains unavailable, limiting comprehensive assessment of his governance effectiveness.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled, released, or expended amounts. This represents a significant transparency gap given that each MP is typically entitled to ₹5 crore annually under the scheme. The absence of utilization percentages prevents assessment of developmental work efficiency in the Nandurbar constituency.
-
-CAG audit findings for Maharashtra reveal systemic MPLADS implementation issues, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising concerns about project execution standards that may affect Nandurbar's development outcomes.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure severely limits transparency assessment and prevents evaluation of potential conflicts of interest or unexplained wealth accumulation during tenure.
-
-The MP receives a standard monthly compensation of ₹2,45,000, consistent with parliamentary salary structures. However, without asset declarations, complete financial transparency cannot be established.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions). However, this information carries a low confidence rating due to potential source unavailability, suggesting the clean record may reflect data gaps rather than confirmed absence of legal issues.
-
-### Parliamentary Performance
-Padavi demonstrates strong parliamentary engagement with 95% attendance, significantly above typical parliamentary averages. Legislative activity includes 17 questions raised and participation in 12 debates, indicating active constituency representation and policy engagement. However, no private member bills have been introduced, and no committee participation data is available due to unavailable Sansad profile information.
-
-The evidence grade for parliamentary performance is rated 'C', suggesting moderate confidence in available participation metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 news articles with neutral sentiment across all pieces, indicating steady but unremarkable public visibility. The absence of positive or negative coverage suggests either limited controversial involvement or restricted media engagement in the constituency.
-
-Accessibility evidence receives a 'D' grade, indicating poor data availability for assessing public outreach efforts, social media engagement, or constituency interaction programs. This limits evaluation of how effectively the MP connects with Nandurbar's constituents.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality concerns:
-- Criminal record information has low confidence due to potential source unavailability
-- Asset data completely missing, preventing financial transparency assessment
-- MPLADS utilization data entirely absent despite scheme importance
-- No committee assignment information available
-- Legislative effectiveness data has low confidence ratings
-
-Evidence sources include PRS Legislative Research, social media monitoring, and news coverage analysis. However, the overall data quality suggests limited transparency compliance or reporting system gaps.
-
-### Key Takeaway
-While Gowaal Kagada Padavi maintains excellent parliamentary attendance and moderate legislative engagement, his transparency profile is severely hampered by missing critical financial and developmental data. The absence of asset declarations and MPLADS utilization information, combined with systemic audit concerns in Maharashtra's fund management, raises significant transparency red flags. Constituents and oversight bodies lack essential information needed to evaluate his financial integrity and developmental effectiveness in serving Nandurbar constituency. Immediate action is needed to address these data gaps and ensure compliance with transparency requirements.
+No criminal cases declared. Declared assets: Rs 70,170,431. Parliament attendance: 95.0%. Questions asked: 17. Debates participated: 12.
 
 ---
 
@@ -177,7 +138,7 @@ While Gowaal Kagada Padavi maintains excellent parliamentary attendance and mode
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gowaal Kagada Padavi's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

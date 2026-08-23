@@ -3,32 +3,32 @@
 **Constituency:** Dhanbad, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 37.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 22.1 | 25% |
+| Asset Growth | 40.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 22
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 22
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.01 Crore
+- **Liabilities:** Rs 17.23 Crore
+- **Net Worth:** Rs -102,163,334
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 27.6%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,50 +92,11 @@
 
 ## Qualitative Assessment
 
-Dulu Mahato demonstrates mixed transparency with strong performance in criminal record disclosure (100%) and attendance (90%), but significant weaknesses in committee participation (0%), legislative activity (0%), and accessibility (10%). The moderate MPLADS and assets disclosure scores, combined with extremely low data confidence (14%) and high validation flags (6), suggest incomplete or unreliable transparency reporting.
+Dulu Mahato has a below-average transparency score of 37.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dulu Mahato
-
-### Overall Assessment
-Dulu Mahato, BJP MP from Dhanbad, Jharkhand, presents a mixed transparency profile with significant data gaps hampering comprehensive evaluation. While maintaining a clean criminal record and demonstrating solid parliamentary attendance (90%), critical financial and developmental data remains unavailable, limiting accountability assessment.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, making it impossible to assess developmental fund utilization. This is particularly concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper supporting documents. Additionally, 18% of sampled works were abandoned or incomplete, raising questions about project implementation oversight.
-
-Without specific MPLADS data for Mahato's constituency, voters cannot evaluate how effectively their representative has utilized the annual Rs 5 crore development allocation typically available to MPs.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. The absence of both current and previous asset declarations makes it impossible to track wealth accumulation patterns or verify compliance with disclosure requirements. This represents a significant transparency deficit, as asset declarations are fundamental to evaluating elected officials' financial integrity.
-
-Monthly compensation stands at Rs 2,45,000, but without asset context, the complete financial picture remains opaque.
-
-### Legal & Criminal Standing
-Mahato maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, confidence in this criminal data is flagged as low due to potential source unavailability, suggesting this clean record should be viewed with appropriate caution pending verification from more reliable sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance at 90% demonstrates strong commitment to legislative duties. Mahato has raised 34 questions, indicating active engagement in parliamentary oversight functions. However, participation in debates is limited to 10 instances, and no private member bills have been introduced, suggesting relatively passive legislative involvement beyond basic questioning.
-
-Committee participation data is unavailable, preventing assessment of specialized legislative work or expertise development in specific policy areas.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited, with evidence grades showing particularly poor accessibility (Grade D). News coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting minimal public visibility or impact. The absence of significant media attention may indicate either effective non-controversial governance or insufficient public engagement.
-
-Social media presence and direct constituent interaction data are not available, limiting assessment of modern communication channels and grassroots connectivity.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues:
-- Criminal record confidence is low due to source unavailability
-- Asset data shows low confidence levels
-- MPLADS utilization data is completely missing
-- Committee information is unavailable due to potential Sansad profile issues
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades are concerning: Parliament performance rated 'C' and accessibility rated 'D', indicating substantial information gaps. These limitations severely constrain meaningful transparency assessment.
-
-### Key Takeaway
-Dulu Mahato's transparency profile is characterized by significant information voids rather than clear accountability indicators. While maintaining basic parliamentary attendance and a clean criminal record, the absence of crucial financial disclosures, MPLADS utilization data, and limited legislative initiative suggest either systemic data collection issues or inadequate transparency practices. Given the CAG audit context revealing widespread fund management problems in Jharkhand, the lack of specific MPLADS data is particularly concerning for constituent oversight. Voters require substantial additional verified information to make informed assessments about their representative's effectiveness and integrity.
+Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared assets: Rs 70,120,183. MPLADS utilization: 27.6%. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10.
 
 ---
 
@@ -177,7 +136,7 @@ Dulu Mahato's transparency profile is characterized by significant information v
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dulu Mahato's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 27.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

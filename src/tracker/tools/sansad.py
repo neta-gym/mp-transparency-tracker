@@ -16,7 +16,7 @@ from ..models.schemas import (
     VoteRecord,
 )
 from ..utils.logger import get_logger
-from ..utils.name_match import name_matches, normalize_state
+from ..utils.name_match import name_matches, normalize_name, normalize_state
 from .scraper import AsyncScraper
 
 log = get_logger(__name__)
@@ -211,7 +211,21 @@ class SansadFetcher:
         if not members:
             return None
 
-        # Build full name for each member and match
+        # Build full name for each member and score candidates.
+        # Picking the first fuzzy match lets distinct MPs with shared common
+        # tokens ("Kali Charan Munda" / "Kali Charan Singh") steal each
+        # other's member IDs; prefer exact names and constituency agreement.
+        mp_const = normalize_name(mp.constituency) if mp.constituency else ""
+        mp_state = normalize_state(mp.state)
+
+        def _member_constituency(member: dict) -> str:
+            for key in ["constName", "constituency_name", "constituency", "Constituency"]:
+                val = member.get(key, "")
+                if val:
+                    return normalize_name(str(val))
+            return ""
+
+        scored: list[tuple[int, dict]] = []
         for member in members:
             first = member.get("firstName", member.get("first_name", ""))
             last = member.get("lastName", member.get("last_name", ""))
@@ -224,17 +238,35 @@ class SansadFetcher:
             else:
                 continue
 
-            if name_matches(mp.name, candidate_name):
-                member_id = member.get("mpsno", member.get("member_id", member.get("id")))
-                profile_url = member.get("profileUrl", member.get("profile_url", ""))
+            if not name_matches(mp.name, candidate_name):
+                continue
 
-                if member_id and not mp.sansad_member_id:
-                    mp.sansad_member_id = int(member_id)
-                if profile_url and not mp.profile_url:
-                    mp.profile_url = str(profile_url)
+            score = 1
+            if normalize_name(mp.name) == normalize_name(candidate_name):
+                score += 100
+            member_const = _member_constituency(member)
+            if mp_const and member_const:
+                if mp_const == member_const:
+                    score += 50
+                elif name_matches(mp_const, member_const):
+                    score += 25
+            if normalize_state(self._extract_state(member)) == mp_state:
+                score += 10
+            scored.append((score, member))
 
-                log.info("Sansad lookup matched %s → member_id=%s", mp.name, member_id)
-                return member
+        if scored:
+            scored.sort(key=lambda pair: pair[0], reverse=True)
+            _, member = scored[0]
+            member_id = member.get("mpsno", member.get("member_id", member.get("id")))
+            profile_url = member.get("profileUrl", member.get("profile_url", ""))
+
+            if member_id and not mp.sansad_member_id:
+                mp.sansad_member_id = int(member_id)
+            if profile_url and not mp.profile_url:
+                mp.profile_url = str(profile_url)
+
+            log.info("Sansad lookup matched %s → member_id=%s", mp.name, member_id)
+            return member
 
         # Fallback: match by constituency within same state
         mp_state = normalize_state(mp.state)
@@ -385,14 +417,20 @@ class SansadFetcher:
             notes="Sansad division votes",
         )
 
-        # Look for division vote entries mentioning the MP
-        mp.name.lower()
+        # Only keep entries that mention this MP. The division votes page is
+        # shared across all members; attributing every row to the fetching
+        # MP would fabricate their voting record.
+        name_tokens = normalize_name(mp.name).split()
+
         # Pattern: bill name, date, and vote status in table rows
         bill_pattern = re.compile(
             r"<tr[^>]*>.*?<td[^>]*>(.*?)</td>.*?<td[^>]*>([\d/\-]+)</td>.*?</tr>",
             re.DOTALL | re.IGNORECASE,
         )
         for match in bill_pattern.finditer(html):
+            row_text = normalize_name(re.sub(r"<[^>]+>", " ", match.group(0)))
+            if not all(token in row_text.split() for token in name_tokens):
+                continue
             bill_name = re.sub(r"<[^>]+>", "", match.group(1)).strip()
             date = match.group(2).strip()
             if bill_name and date:

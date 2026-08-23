@@ -3,23 +3,25 @@
 **Constituency:** Tiruchirappalli, Tamil Nadu
 **Party:** Marumalarchi Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 51
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 26.5 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 35.91 Crore
+- **Liabilities:** Rs 2.56 Crore
+- **Net Worth:** Rs 33.35 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Durai Vaiko demonstrates mixed transparency performance with notable strengths in attendance and criminal record disclosure, but significant weaknesses in committee participation and legislative transparency. While maintaining perfect attendance and clean criminal disclosures, the complete absence of committee work and legislative activity transparency substantially impacts overall accountability.
+Durai Vaiko shows moderate transparency with a score of 62.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Durai Vaiko
-
-### Overall Assessment
-
-Durai Vaiko, representing Tiruchirappalli constituency for the Marumalarchi Dravida Munnetra Kazhagam party, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance and clean criminal record, substantial information unavailability across key transparency indicators raises concerns about overall accountability assessment reliability.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the CAG audit context revealing systemic issues in Tamil Nadu's fund management. The audit identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Vaiko's constituency, voters cannot assess his development fund stewardship effectiveness.
-
-### Financial Transparency
-
-Asset declaration information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial disclosure significantly hampers transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure. Monthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point.
-
-### Legal & Criminal Standing
-
-Vaiko maintains a clean legal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, confidence in this criminal record assessment is flagged as low due to potential source unavailability issues, suggesting this clean slate may reflect data gaps rather than definitive legal standing verification.
-
-### Parliamentary Performance
-
-Parliamentary engagement demonstrates strong attendance commitment with 100% participation rate, indicating consistent presence in legislative proceedings. Active questioning behavior is evident with 18 questions raised, showing engagement in oversight functions. Participation in 10 debates reflects reasonable contribution to parliamentary discussions. However, zero private member bills introduced suggests limited legislative initiative beyond party-directed activities. Evidence quality for parliamentary data receives a 'C' grade, indicating moderate reliability with some verification limitations.
-
-### Public Engagement & Accessibility
-
-Media presence analysis reveals neutral public engagement patterns with 10 news articles covering parliamentary activities, all categorized as neutral rather than positive or negative coverage. This suggests limited public visibility or impact in media discourse. Social media and accessibility data quality receives a 'D' grade, indicating poor information availability about constituent engagement mechanisms, public outreach programs, or digital communication strategies.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight significant data reliability concerns:
-- Criminal record confidence is low due to source availability issues
-- Asset information shows low confidence levels across all categories
-- MPLADS data confidence is compromised, preventing fund utilization assessment
-- Committee membership information is entirely unavailable
-- Legislative effectiveness data shows low confidence levels
-
-Evidence grading reveals 'C' level confidence for parliamentary data and 'D' level for accessibility metrics. These limitations substantially constrain comprehensive transparency evaluation and suggest potential gaps in public information systems or disclosure compliance.
-
-### Key Takeaway
-
-While Durai Vaiko demonstrates strong parliamentary attendance and maintains apparent legal compliance, extensive data unavailability across critical transparency indicators - particularly MPLADS utilization, asset declarations, and public engagement metrics - prevents meaningful accountability assessment. The systemic fund management issues identified by CAG audits in Tamil Nadu underscore the importance of transparent MPLADS reporting, making the absence of such data particularly concerning. Voters lack sufficient verified information to evaluate his development fund stewardship, financial transparency, or constituent engagement effectiveness, highlighting broader transparency system weaknesses requiring addressed.
+No criminal cases declared. Declared assets: Rs 359,084,317. MPLADS utilization: 33.1%. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 10.
 
 ---
 
@@ -177,7 +138,7 @@ While Durai Vaiko demonstrates strong parliamentary attendance and maintains app
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Durai Vaiko's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

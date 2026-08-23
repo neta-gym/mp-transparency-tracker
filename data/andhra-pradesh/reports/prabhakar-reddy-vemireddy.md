@@ -3,32 +3,32 @@
 **Constituency:** Nellore, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 44.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.5 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 716.33 Crore
+- **Liabilities:** Rs 200.26 Crore
+- **Net Worth:** Rs 516.07 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 44.4%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-Prabhakar Reddy Vemireddy demonstrates a mixed transparency profile with notable strengths in maintaining a clean criminal record and decent parliamentary attendance, but significant weaknesses in legislative engagement and public accessibility. His complete absence from committee work and minimal accessibility efforts substantially limit his overall transparency score despite acceptable MPLADS utilization.
+Prabhakar Reddy Vemireddy has a below-average transparency score of 44.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Prabhakar Reddy Vemireddy
-
-### Overall Assessment
-Prabhakar Reddy Vemireddy, Telugu Desam Party MP from Nellore constituency in Andhra Pradesh, presents a mixed transparency profile with significant data gaps. While maintaining a clean legal record and moderate parliamentary attendance (70%), substantial missing information on financial assets and MPLADS utilization limits comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given CAG audit findings highlighting systemic issues in Andhra Pradesh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation, raising concerns about fund accountability in the state.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth. This absence prevents assessment of financial growth patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, but without asset context, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Vemireddy maintains a clean criminal record with zero cases across all categories - no pending, disposed, or serious criminal cases, and no convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems that may affect reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate levels with 70% attendance rate, indicating reasonable presence in proceedings. The MP has raised 46 questions, demonstrating some level of constituency representation and policy inquiry. However, participation in debates (0) and introduction of private member bills (0) suggests limited proactive legislative engagement. No committee membership data is available, representing another gap in assessing parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral tone (7 neutral, 3 positive, 0 negative), suggesting limited public visibility or controversial issues. The absence of negative coverage may indicate either effective public relations or insufficient media scrutiny. Evidence grades show poor accessibility (Grade D), indicating potential challenges in public engagement and transparency mechanisms.
-
-### Data Quality & Caveats
-Multiple critical data quality warnings significantly impact this assessment:
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Low confidence in financial disclosure data
-- **MPLADS**: Complete absence of fund utilization information
-- **Committee work**: No data available on committee participation
-- **Legislative effectiveness**: Limited confidence in available metrics
-
-These gaps, particularly in financial and development fund areas, substantially limit the ability to provide comprehensive transparency evaluation.
-
-### Key Takeaway
-While Vemireddy maintains basic parliamentary presence and a clean legal record, massive data gaps in asset disclosure and MPLADS utilization - core transparency indicators - prevent meaningful assessment of his overall performance. The systemic fund management issues identified by CAG audits in Andhra Pradesh underscore the importance of transparent MPLADS reporting, making the absence of this data particularly concerning for accountability evaluation.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 7,163,322,265. MPLADS utilization: 44.4%. Parliament attendance: 70.0%. Questions asked: 46.
 
 ---
 
@@ -169,7 +136,7 @@ While Vemireddy maintains basic parliamentary presence and a clean legal record,
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Prabhakar Reddy Vemireddy's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 44.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

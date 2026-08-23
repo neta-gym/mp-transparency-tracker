@@ -3,23 +3,25 @@
 **Constituency:** Ajmer, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 52.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 22.7 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.38 Crore
+- **Liabilities:** Rs 54.32 Lakh
+- **Net Worth:** Rs 12.84 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Bhagirath Choudhary shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record, the MP demonstrates poor performance in committee participation, legislative initiatives, and public accessibility. The extremely low data confidence of 7% with multiple validation flags suggests limited reliable information available for comprehensive evaluation.
+Bhagirath Choudhary shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Bhagirath Choudhary
-
-### Overall Assessment
-Bhagirath Choudhary, BJP MP representing Ajmer constituency in Rajasthan, presents a limited transparency profile due to significant data gaps across most key performance indicators. While maintaining a clean criminal record, the absence of comprehensive data on parliamentary activity, asset declarations, and MPLADS utilization severely constrains assessment of his effectiveness as a public representative. Current evidence grades indicate poor accessibility (D) and below-average parliamentary engagement (C).
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This absence of data is particularly concerning given the CAG audit findings for Rajasthan highlighting systemic issues in fund management. The audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, suggesting broader challenges in project execution that may impact Ajmer constituency's development trajectory.
-
-### Financial Transparency
-Asset declaration data is entirely missing, preventing any assessment of the MP's financial transparency or potential conflicts of interest. No information is available regarding total assets, previous holdings, growth ratios, or net worth. This data gap significantly undermines public accountability standards. Monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-Choudhary maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification processes that may affect the reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement data shows concerning gaps, with attendance rates, question submissions, debate participation, and private bill introductions all unreported. The MP's ministerial status may explain lower attendance expectations due to executive responsibilities, but the complete absence of activity metrics prevents meaningful evaluation of legislative effectiveness. No committee membership information is available, further limiting assessment of parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles providing balanced coverage without positive or negative sentiment bias. This suggests limited media attention but absence of controversy. However, the accessibility grade of 'D' indicates significant deficiencies in public outreach and transparency mechanisms. No social media engagement metrics or public interaction data are available to assess citizen accessibility.
-
-### Data Quality & Caveats
-Multiple automated flags highlight serious data quality concerns affecting this assessment's reliability. Low confidence warnings apply to criminal records, assets, MPLADS utilization, and parliamentary activity data. The absence of committee information and legislative effectiveness metrics further constrains analytical depth. Evidence sourcing from PRS, social media, and news outlets appears incomplete, with critical gaps in official government databases and parliamentary records.
-
-### Key Takeaway
-Bhagirath Choudhary's transparency profile is severely compromised by systemic data unavailability across fundamental accountability metrics. While maintaining a clean criminal record and receiving neutral media coverage, the absence of asset declarations, MPLADS utilization data, and parliamentary performance metrics creates significant transparency deficits. The poor accessibility grade and missing committee information suggest limited public engagement mechanisms. Given the broader CAG audit findings highlighting fund management issues in Rajasthan, the lack of transparent MPLADS data is particularly concerning for constituency development oversight. Immediate improvements in data disclosure and public accessibility are essential for meaningful democratic accountability.
+No criminal cases declared. Declared assets: Rs 133,811,555. MPLADS utilization: 28.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ Bhagirath Choudhary's transparency profile is severely compromised by systemic d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhagirath Choudhary's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

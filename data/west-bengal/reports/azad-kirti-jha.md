@@ -3,32 +3,34 @@
 **Constituency:** Bardhaman-Durgapur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 14.6 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.20 Crore
+- **Liabilities:** Rs 57.39 Lakh
+- **Net Worth:** Rs 9.63 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 18
+- **Released:** Rs 18
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 18.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Azad Kirti Jha shows a mixed transparency profile with excellent attendance and clean criminal record, but significant gaps in legislative activity and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee participation and minimal accessibility efforts, suggest limited engagement with core parliamentary functions despite strong attendance.
+Azad Kirti Jha shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Azad Kirti Jha
-
-### Overall Assessment
-
-Azad Kirti Jha, representing Bardhaman-Durgapur constituency in West Bengal as an All India Trinamool Congress MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps across most key indicators. While demonstrating perfect parliamentary attendance, substantial information voids in asset disclosure, MPLADS utilization, and criminal record verification limit comprehensive assessment capabilities.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG audit context revealing systemic issues in West Bengal's fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MP-specific MPLADS data, it's impossible to assess whether Jha's constituency development aligns with or deviates from these concerning state-wide patterns.
-
-### Financial Transparency
-
-Asset disclosure presents a complete information void, with no data available for current or previous asset declarations, preventing any analysis of financial growth, wealth accumulation patterns, or potential conflicts of interest. The monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration. However, the absence of asset data significantly undermines financial transparency assessment capabilities.
-
-### Legal & Criminal Standing
-
-Criminal record data indicates zero cases across all categories (total, serious, pending, disposed, and convictions). However, this comes with a critical caveat - the source data carries low confidence warnings, suggesting potential data unavailability rather than confirmed clean records. This uncertainty prevents definitive assessment of legal standing and requires verification through alternative sources for accurate evaluation.
-
-### Parliamentary Performance
-
-Jha demonstrates exceptional attendance with a perfect 100% record, indicating strong commitment to parliamentary duties. Parliamentary participation includes 28 questions raised and 11 debate contributions, suggesting moderate engagement in legislative discourse. However, no private member bills were introduced, and committee participation data is unavailable due to potential Sansad profile inaccessibility, limiting comprehensive assessment of legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 news articles showing no positive or negative sentiment bias. This neutral coverage pattern suggests limited public visibility or controversy. However, the evidence grade for accessibility is rated 'D', indicating poor public engagement metrics. Social media and broader public outreach data quality remains insufficient for thorough evaluation of constituent accessibility.
-
-### Data Quality & Caveats
-
-Multiple automated flags indicate significant data reliability issues:
-- Criminal record data carries low confidence warnings
-- Asset information is completely unavailable
-- MPLADS data is entirely missing
-- Committee participation data is inaccessible
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades are concerning: parliamentary performance rated 'C' and accessibility rated 'D', suggesting substantial gaps in available information. These limitations severely constrain comprehensive transparency assessment capabilities.
-
-### Key Takeaway
-
-Azad Kirti Jha's transparency profile is characterized by perfect parliamentary attendance and moderate legislative participation, offset by critical information voids in asset disclosure, development fund utilization, and verified criminal record status. The absence of MPLADS data is particularly concerning given documented systemic fund management issues in West Bengal. While neutral media coverage suggests absence of major controversies, poor accessibility ratings and extensive data gaps prevent comprehensive transparency evaluation. Enhanced data collection and verification mechanisms are essential for meaningful public accountability assessment.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 102,014,033. MPLADS utilization: 18.3%. Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 11.
 
 ---
 
@@ -177,7 +138,7 @@ Azad Kirti Jha's transparency profile is characterized by perfect parliamentary 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Azad Kirti Jha's MPLADS account: Released: Rs 18, Expended: Rs 3, Utilization: 18.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

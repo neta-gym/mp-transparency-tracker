@@ -3,32 +3,34 @@
 **Constituency:** Kurukshetra, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 35.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 28.8 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 9
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 9
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1241.48 Crore
+- **Liabilities:** Rs 7.37 Crore
+- **Net Worth:** Rs 1234.11 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Naveen Jindal's transparency profile shows significant weaknesses across most governance areas, with a concerning 45/100 overall score. While he maintains a clean criminal record (100/100), critical deficiencies in committee participation (0/100), legislative activity (0/100), and public accessibility (10/100) severely undermine his transparency. The low data confidence (14%) and multiple validation flags suggest incomplete information reporting.
+Naveen Jindal has a below-average transparency score of 35.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Naveen Jindal
-
-### Overall Assessment
-
-Naveen Jindal, BJP MP from Kurukshetra, Haryana, presents a mixed transparency profile characterized by significant data gaps across multiple accountability metrics. While maintaining a clean criminal record, his parliamentary engagement shows moderate attendance (45%) with limited legislative participation. The assessment is substantially hampered by missing financial and MPLADS data, preventing a comprehensive evaluation of his developmental and fiscal performance.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given that MPLADS is a primary mechanism for constituency development. CAG audit findings for Haryana reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader implementation challenges in the state that may affect constituency-level development projects.
-
-### Financial Transparency
-
-Asset declaration data is completely missing, with no information available on current wealth, previous declarations, or growth patterns. This absence of financial transparency data makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. The MP receives a total monthly compensation of Rs 2,45,000, but without asset baselines, meaningful financial accountability cannot be established. This data gap significantly undermines public oversight capabilities.
-
-### Legal & Criminal Standing
-
-Naveen Jindal maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the criminal record data carries a low confidence warning, indicating potential source reliability issues. Despite this caveat, the available evidence suggests no legal impediments to his parliamentary service.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with 45% attendance, falling below optimal participation levels. Legislative activity is limited with 15 questions raised, 3 debate participations, and zero private member bills introduced. This suggests moderate engagement with parliamentary procedures but limited proactive legislative initiatives. No committee membership data is available, preventing assessment of specialized parliamentary work. The overall parliamentary performance grade of 'C' indicates room for improvement in legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics show limited visibility with 10 news articles providing mixed coverage (1 positive, 0 negative, 9 neutral). This relatively low media presence suggests moderate public engagement or limited newsworthiness of activities. The accessibility grade of 'D' indicates poor public outreach and transparency in communication with constituents. Social media presence appears minimal based on available sources, suggesting limited digital engagement strategies.
-
-### Data Quality & Caveats
-
-Multiple significant data quality issues compromise this assessment:
-- Asset and MPLADS data completely unavailable, preventing financial and developmental accountability evaluation
-- Criminal record data flagged with low confidence warnings
-- Committee participation information missing due to potential Sansad profile unavailability
-- Legislative effectiveness data marked as low confidence
-- Evidence grades of 'C' for parliamentary activity and 'D' for accessibility indicate substantial data limitations
-
-These gaps represent critical transparency deficits that hinder comprehensive public accountability assessment.
-
-### Key Takeaway
-
-Naveen Jindal's transparency profile is severely compromised by extensive missing data across crucial accountability metrics, particularly financial assets and MPLADS utilization. While maintaining a clean legal record and moderate parliamentary presence (45% attendance, 15 questions), the absence of financial transparency and development fund data prevents meaningful public oversight. The 'D' grade for accessibility combined with limited public engagement suggests poor constituent communication. Immediate improvements in data disclosure and public engagement mechanisms are essential for enhanced democratic accountability.
+Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 12,414,768,000. MPLADS utilization: 36.0%. Parliament attendance: 45.0%. Questions asked: 15. Debates participated: 3.
 
 ---
 
@@ -177,7 +138,7 @@ Naveen Jindal's transparency profile is severely compromised by extensive missin
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Naveen Jindal's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,23 @@
 **Constituency:** Udupi Chikmagalur, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 16.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.95 Crore
+- **Liabilities:** Rs 1.04 Crore
+- **Net Worth:** Rs 1.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.1%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Kota Srinivasa Poojary shows a mixed transparency profile with notable weaknesses in key areas. While maintaining a clean criminal record and decent parliamentary attendance, the MP significantly underperforms in committee participation, legislative contributions, and public accessibility. The extremely low data confidence of 14% and multiple validation flags raise serious concerns about data reliability.
+Kota Srinivasa Poojary shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kota Srinivasa Poojary
-
-### Overall Assessment
-Kota Srinivasa Poojary (BJP, Udupi Chikmagalur) presents a mixed transparency profile with limited data availability across key metrics. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance, significant data gaps prevent a comprehensive assessment of his development impact and financial stewardship. The MP shows moderate legislative engagement but faces transparency challenges due to missing asset declarations and MPLADS utilization data.
-
-### Fund Utilization & Development
-No MPLADS fund utilization data is available for assessment, creating a critical transparency gap. The absence of information on entitled, released, and expended amounts prevents evaluation of the MP's development work effectiveness. This data unavailability is concerning given the CAG's findings of systemic issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 18% of sampled works being abandoned or incomplete. The lack of accessible MPLADS data aligns with broader transparency challenges in the constituency.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, including total assets, previous holdings, growth ratios, and net worth figures. This represents a significant transparency deficit, making it impossible to assess potential conflicts of interest or wealth accumulation patterns. The MP receives a total monthly compensation of Rs 2,45,000, but without baseline asset information, financial accountability cannot be properly evaluated. The missing asset data raises questions about compliance with mandatory disclosure requirements.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. Despite this caveat, the available information indicates no legal impediments to effective representation, which is positive for constituent trust and governance standards.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance, demonstrating reasonable commitment to legislative duties. The MP has raised 48 questions, indicating active constituency representation and policy engagement. However, participation in debates is limited to just 2 instances, suggesting minimal contribution to legislative discussions. No private member bills have been introduced, indicating limited legislative initiative. The parliament evidence grade of 'C' reflects moderate but improvable performance levels.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (positive: 0, negative: 0, neutral: 10), suggesting limited public visibility or engagement in controversial issues. This neutral profile may indicate either effective consensus-building or insufficient media attention to the MP's activities. The accessibility evidence grade of 'D' is particularly concerning, indicating poor public outreach and communication channels. No committee participation data is available, further limiting assessment of the MP's institutional engagement.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality issues. Criminal record confidence is low due to potential source unavailability. Asset and MPLADS data show low confidence levels, creating substantial transparency gaps. Committee information is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data reliability is also questioned. These data limitations severely constrain comprehensive performance evaluation and suggest systemic transparency challenges in information availability and verification systems.
-
-### Key Takeaway
-Kota Srinivasa Poojary's transparency profile suffers from critical data gaps that prevent meaningful assessment of development impact and financial accountability. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset declarations and MPLADS utilization data creates significant transparency deficits. The MP's neutral media profile and poor accessibility grade suggest limited public engagement. Immediate priorities should include ensuring compliance with mandatory asset disclosure requirements and improving MPLADS fund utilization transparency to enable proper constituent oversight and accountability.
+No criminal cases declared. Declared assets: Rs 29,470,510. MPLADS utilization: 20.1%. Parliament attendance: 80.0%. Questions asked: 48. Debates participated: 2.
 
 ---
 
@@ -162,7 +136,7 @@ Kota Srinivasa Poojary's transparency profile suffers from critical data gaps th
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kota Srinivasa Poojary's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

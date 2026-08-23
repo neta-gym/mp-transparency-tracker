@@ -3,32 +3,32 @@
 **Constituency:** Mumbai North Central, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 11.7 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 7
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.68 Crore
+- **Liabilities:** Rs 1.02 Crore
+- **Net Worth:** Rs 6.67 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.6%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Varsha Eknath Gaikwad demonstrates strong parliamentary attendance and participation with excellent criminal record transparency, but faces significant challenges in committee involvement, legislative initiatives, and public accessibility. Her moderate MPLADS and asset disclosure scores, combined with very low accessibility ratings, suggest limited transparency in constituency engagement despite good parliamentary presence.
+Varsha Eknath Gaikwad has a below-average transparency score of 47.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Varsha Eknath Gaikwad
-
-### Overall Assessment
-Varsha Eknath Gaikwad, Indian National Congress MP representing Mumbai North Central constituency in Maharashtra, presents a profile with significant data gaps that limit comprehensive assessment. While her parliamentary attendance record is exemplary at 100%, critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, hampering evaluation of her overall effectiveness and accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This absence is particularly concerning given the CAG audit findings for Maharashtra revealing systematic issues with fund management. The audit identified Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without access to Gaikwad's specific MPLADS data, her constituency's developmental impact cannot be assessed against these concerning state-level trends.
-
-### Financial Transparency
-Asset disclosure information is completely missing from available records. No data exists on total assets, previous asset values, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and serve as crucial accountability measures. The absence of this fundamental information severely limits assessment of financial probity and potential conflicts of interest.
-
-### Legal & Criminal Standing
-Gaikwad maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, data confidence is flagged as low, indicating potential gaps in criminal record verification. While the available data suggests no legal issues, the reliability caveat requires acknowledgment in any comprehensive assessment.
-
-### Parliamentary Performance
-Gaikwad demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above typical parliamentary averages. She has actively participated in legislative processes with 66 questions raised and 15 debate contributions, indicating substantive involvement in parliamentary proceedings. However, she has not introduced any private member bills, suggesting focus on existing legislative processes rather than independent policy initiatives. No committee membership data is available, limiting assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all classified as neutral in sentiment with no positive or negative coverage identified. This neutral profile suggests either limited media attention or balanced coverage without significant controversies or notable achievements gaining public attention. The evidence grade for accessibility is rated 'D', indicating poor data availability regarding public engagement mechanisms and constituency outreach efforts.
-
-### Data Quality & Caveats
-Multiple critical data quality issues severely impact this assessment. Asset information carries low confidence warnings, MPLADS data is entirely unavailable, and criminal records have reliability concerns. The absence of committee membership information suggests unavailable Sansad profile data. Legislative effectiveness data confidence is also flagged as low. Parliament activity data receives a 'C' grade, while accessibility metrics score 'D', indicating substantial data collection challenges. These limitations significantly constrain comprehensive evaluation.
-
-### Key Takeaway
-While Gaikwad demonstrates commitment through perfect parliamentary attendance and active question-raising, critical transparency gaps in asset declarations and MPLADS utilization prevent meaningful assessment of her overall effectiveness as an elected representative. The complete absence of financial and developmental fund data, combined with neutral media coverage, suggests either data collection failures or limited public visibility of her constituency work. Improved data availability is essential for proper accountability assessment.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 76,848,656. MPLADS utilization: 14.6%. Parliament attendance: 100.0%. Questions asked: 66. Debates participated: 15.
 
 ---
 
@@ -162,7 +136,7 @@ While Gaikwad demonstrates commitment through perfect parliamentary attendance a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Varsha Eknath Gaikwad's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Hoshiarpur, Punjab
 **Party:** Aam Aadmi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 37.0 / 100
+## Composite Transparency Score: 43.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 35.6 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 5.0 | 10% |
 | Questions & Debates | 10.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 20.77 Crore
+- **Liabilities:** Rs 8.44 Crore
+- **Net Worth:** Rs 12.33 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 44.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,46 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Raj Kumar Chabbewal shows a mixed transparency profile with significant concerns in parliamentary engagement. While maintaining a clean criminal record and moderate performance in MPLADS and asset disclosure, he demonstrates poor attendance (5%) and minimal participation in legislative activities. The zero scores in committee work and legislative contributions, combined with low accessibility, indicate limited active representation despite being from a party known for transparency advocacy.
+Raj Kumar Chabbewal has a below-average transparency score of 43.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-# Executive Summary: Raj Kumar Chabbewal
-
-## Executive Summary: Raj Kumar Chabbewal
-MP Raj Kumar Chabbewal represents Hoshiarpur constituency in Punjab under the Aam Aadmi Party banner. His transparency profile reveals significant data gaps across most accountability metrics, with concerning patterns in parliamentary engagement and limited availability of key financial and development information.
-
-### Overall Assessment
-Chabbewal's transparency profile is characterized by substantial data limitations and poor parliamentary performance indicators. Evidence quality ratings show 'C' grade for parliamentary data and 'D' grade for accessibility, indicating reliability concerns. The profile lacks comprehensive information across critical transparency dimensions including assets, MPLADS utilization, and committee participation.
-
-### Fund Utilization & Development
-**MPLADS data is entirely unavailable**, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given MPs' Rs 5 crore annual MPLADS allocation. CAG audit findings from Punjab highlight systemic concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. These audit findings provide important context for fund utilization challenges in the state.
-
-### Financial Transparency
-**Asset disclosure information is completely missing**, with no data on total assets, previous declarations, growth patterns, or net worth. This absence prevents assessment of financial transparency and potential conflicts of interest. Monthly compensation is recorded at Rs 2,45,000, representing standard MP remuneration. The lack of asset data raises significant transparency concerns given mandatory disclosure requirements for elected officials.
-
-### Legal & Criminal Standing
-Chabbewal shows a **clean criminal record with zero cases** across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, automated flags indicate "low confidence in criminal data" with potentially unavailable sources, suggesting this information requires verification through alternative channels.
-
-### Parliamentary Performance
-Parliamentary engagement shows **concerning patterns with 5% attendance rate**, substantially below expected standards for legislative participation. Question activity is limited to 4 questions raised, while debate participation and private bill introductions both register zero. No committee membership data is available, with sources noting "Sansad profile may be unavailable." This performance pattern suggests limited active engagement in legislative responsibilities.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals **10 articles with predominantly neutral tone** - 1 positive, 0 negative, and 9 neutral pieces. This mixed/neutral coverage suggests limited public visibility or significant policy positions. The 'D' grade for accessibility indicates poor public engagement metrics, though specific accessibility measures are not detailed in available data.
-
-### Data Quality & Caveats
-**Multiple data quality issues significantly impact this assessment:**
-- Criminal record data flagged as low confidence with potentially unavailable sources
-- Complete absence of asset declaration information
-- No MPLADS utilization data available
-- Missing committee participation records
-- Limited legislative effectiveness information
-- Parliamentary profile potentially unavailable on official sources
-
-Evidence sources include PRS Legislative Research, social media, and news coverage, but gaps suggest incomplete data collection or reporting.
-
-### Key Takeaway
-Raj Kumar Chabbewal's transparency profile reveals substantial accountability gaps, particularly concerning **5% parliamentary attendance, complete absence of asset and MPLADS data, and limited legislative engagement**. While maintaining a clean criminal record, the extensive data unavailability and poor parliamentary performance indicators raise questions about transparency compliance and active representation. The systematic data gaps, combined with CAG audit findings highlighting fund utilization challenges across Punjab, underscore the need for improved transparency mechanisms and data availability for meaningful public accountability assessment.
+No criminal cases declared. Declared assets: Rs 207,695,398. MPLADS utilization: 44.5%. Parliament attendance: 5.0%. Questions asked: 4.
 
 ---
 
@@ -173,7 +138,7 @@ Raj Kumar Chabbewal's transparency profile reveals substantial accountability ga
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -252,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raj Kumar Chabbewal's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 44.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -269,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

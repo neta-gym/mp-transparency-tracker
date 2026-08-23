@@ -3,32 +3,34 @@
 **Constituency:** Khagaria, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 31
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 40.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 39.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 12
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.39 Crore
+- **Liabilities:** Rs 4.07 Crore
+- **Net Worth:** Rs 1.31 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 43% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 7
+- **Utilization Rate:** 49.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,62 +94,11 @@
 
 ## Qualitative Assessment
 
-Rajesh Verma shows a mixed transparency profile with moderate overall performance but significant weaknesses in key areas. While he demonstrates clean criminal records and reasonable participation levels, his complete absence from committee work and legislative activities raises concerns about his parliamentary engagement. The extremely low accessibility score and poor MPLADS utilization indicate limited constituency outreach.
+Rajesh Verma has a below-average transparency score of 40.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rajesh Verma
-
-### Overall Assessment
-Rajesh Verma, Lok Jan Shakti Party (Ram Vilas) MP from Khagaria, Bihar, presents a mixed transparency profile with significant data gaps across key metrics. Available evidence suggests moderate parliamentary engagement but raises concerns about financial disclosure and public accessibility. The MP maintains a clean criminal record but faces challenges in financial transparency and development fund utilization documentation.
-
-### Fund Utilization & Development
-**MPLADS Performance:** No data available on MPLADS entitlement, releases, or expenditure, representing a critical transparency gap for development fund accountability.
-
-**Systemic Context:** Bihar faces significant MPLADS implementation challenges based on CAG audit findings, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting systemic issues in development fund management that may affect Verma's constituency.
-
-### Financial Transparency
-**Asset Disclosure:** Complete absence of asset declaration data, including total assets, previous holdings, and growth ratios. This represents a significant transparency deficit.
-
-**Compensation:** Monthly compensation recorded at Rs 2,45,000, consistent with standard MP remuneration structures.
-
-**Financial Growth:** Unable to assess financial trajectory due to missing baseline and current asset data.
-
-### Legal & Criminal Standing
-**Criminal Record:** Clean profile with zero cases across all categories (total, serious, pending, disposed, convictions). However, data confidence is flagged as low, suggesting potential source reliability issues.
-
-**Legal Compliance:** No evidence of pending legal complications, though data quality caveats apply.
-
-### Parliamentary Performance
-**Attendance:** 70% parliamentary attendance, indicating reasonable but not exceptional engagement with legislative duties.
-
-**Legislative Activity:** Moderate participation with 52 questions raised and 9 debate contributions. No private member bills introduced, suggesting limited legislative initiative.
-
-**Committee Work:** No committee assignment data available, preventing assessment of specialized parliamentary contributions.
-
-**Overall Engagement:** Parliamentary activity grade of 'C' indicates average performance relative to peers.
-
-### Public Engagement & Accessibility
-**Media Coverage:** Limited news presence with 10 total articles (90% neutral, 10% negative, 0% positive), suggesting minimal public visibility or engagement.
-
-**Accessibility Rating:** 'D' grade indicates poor public accessibility and communication channels.
-
-**Constituency Outreach:** No available data on public meetings, social media engagement, or constituent services.
-
-### Data Quality & Caveats
-**Significant Limitations:**
-- Low confidence criminal record data due to potential source unavailability
-- Complete absence of asset declaration information
-- Missing MPLADS utilization data despite systemic importance
-- No committee assignment records
-- Limited legislative effectiveness metrics
-
-**Evidence Quality:** Parliamentary data rated 'C' grade, accessibility rated 'D' grade, indicating moderate to poor data reliability across key transparency indicators.
-
-**Source Verification:** Information compiled from PRS, social media, and news sources, with notable gaps in official disclosure documents.
-
-### Key Takeaway
-Rajesh Verma's transparency profile reveals concerning gaps in financial disclosure and development fund accountability, despite maintaining a clean legal record and moderate parliamentary participation. The absence of asset declarations and MPLADS data, combined with poor accessibility ratings, suggests significant room for improvement in public accountability. Given Bihar's documented MPLADS implementation challenges, enhanced transparency in fund utilization becomes particularly critical for effective constituency representation.
+Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 53,894,412. MPLADS utilization: 49.8%. Parliament attendance: 70.0%. Questions asked: 52. Debates participated: 9.
 
 ---
 
@@ -189,7 +138,7 @@ Rajesh Verma's transparency profile reveals concerning gaps in financial disclos
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -268,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajesh Verma's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 49.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -285,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

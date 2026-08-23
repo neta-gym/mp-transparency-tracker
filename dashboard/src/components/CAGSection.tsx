@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { MP_EXPAND_EVENT } from "./MPDetailSections";
 import type { ValidatedFindings } from "@/lib/types";
 
 interface CAGSectionProps {
@@ -12,6 +13,12 @@ interface CAGSectionProps {
 export function CAGSection({ validated }: CAGSectionProps) {
   const findings = validated.findings.cag_findings ?? [];
   const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    const expand = () => setIsOpen(true);
+    window.addEventListener(MP_EXPAND_EVENT, expand);
+    return () => window.removeEventListener(MP_EXPAND_EVENT, expand);
+  }, []);
 
   if (findings.length === 0) return null;
 

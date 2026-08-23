@@ -3,32 +3,34 @@
 **Constituency:** Sivaganga, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 52
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 40.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 48.2 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 11
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 11
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 96.27 Crore
+- **Liabilities:** Rs 23.49 Crore
+- **Net Worth:** Rs 72.79 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 95% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 55.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Karti P Chidambaram demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and reasonable attendance rates, but significant weaknesses in committee participation, legislative activity, and public accessibility. His MPLADS utilization and asset disclosure are at moderate levels, while the complete absence of committee work and legislative initiatives raises concerns about parliamentary engagement.
+Karti P Chidambaram has a below-average transparency score of 40.9/100, indicating significant room for improvement. Significant criminal cases are a concern.
 
 ---
 
-## Executive Summary: Karti P Chidambaram
-
-### Overall Assessment
-Karti P Chidambaram, representing Sivaganga constituency in Tamil Nadu for the Indian National Congress, presents a mixed transparency profile with significant data limitations. While his parliamentary attendance of 75% meets basic expectations and he maintains a clean criminal record, substantial gaps in financial disclosure and MPLADS data severely limit comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-Critical gaps exist in MPLADS fund utilization data, with no information available on entitled amounts, releases, or expenditure patterns. This absence of transparency is particularly concerning given Tamil Nadu's documented issues with fund management. CAG audits reveal systemic problems including Rs 1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation. Without specific data on Chidambaram's MPLADS performance, constituents cannot evaluate his development impact or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure presents a complete transparency failure, with no data available on current holdings, previous declarations, growth ratios, or net worth. This represents a significant accountability gap, as asset transparency is fundamental to public trust. The only available financial information is his monthly compensation of Rs 245,000, which provides no insight into wealth accumulation or potential conflicts of interest during his tenure.
-
-### Legal & Criminal Standing
-Chidambaram maintains a clean criminal record with zero cases across all categories (serious, pending, disposed, convictions). However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unavailable or incomplete. While the reported clean record is positive, the data reliability concerns prevent definitive assessment of his legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 75% attendance, which meets basic participation expectations. His legislative contribution includes 16 questions raised and participation in 4 debates, indicating reasonable engagement with parliamentary processes. However, he has introduced zero private bills, suggesting limited legislative initiative. The absence of committee membership data (flagged as unavailable from Sansad profile) prevents assessment of his specialized parliamentary work and expertise application.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited by data availability. News sentiment analysis reveals mixed coverage across 10 articles (0 positive, 2 negative, 8 neutral), suggesting neither particularly strong public approval nor significant controversy. The neutral-leaning coverage indicates moderate public visibility without major positive or negative incidents driving media attention. However, the evidence grade for accessibility is rated 'D', indicating poor transparency in public communication and engagement metrics.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to widespread data quality issues. Automated flags highlight:
-- Low confidence in criminal record data due to potentially unavailable sources
-- Low confidence in asset declarations with complete information absence
-- Low confidence in MPLADS data preventing development impact assessment
-- Missing committee membership information from unavailable Sansad profiles
-- Low confidence in legislative effectiveness metrics
-
-The evidence grading system rates parliamentary data as 'C' and accessibility as 'D', indicating below-average data quality that significantly constrains analytical reliability.
-
-### Key Takeaway
-Karti P Chidambaram's transparency profile is severely compromised by extensive data gaps across critical areas including asset disclosure and MPLADS utilization. While maintaining a clean criminal record and adequate parliamentary attendance, the absence of financial transparency and development fund accountability represents a significant failure in public disclosure obligations. The poor data availability (rated 'D' for accessibility) suggests either inadequate record-keeping or insufficient transparency mechanisms, both problematic for democratic accountability. Voters lack essential information needed to evaluate his financial integrity and development impact, making informed democratic choice difficult despite his basic parliamentary participation.
+Has 11 criminal case(s) (0 serious), 11 pending, 0 conviction(s). Declared assets: Rs 962,744,048. MPLADS utilization: 55.5%. Parliament attendance: 75.0%. Questions asked: 16. Debates participated: 4.
 
 ---
 
@@ -169,7 +138,7 @@ Karti P Chidambaram's transparency profile is severely compromised by extensive 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Karti P Chidambaram's MPLADS account: Released: Rs 16, Expended: Rs 9, Utilization: 55.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Giridih, Jharkhand
 **Party:** AJSU Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 25.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.98 Crore
+- **Liabilities:** Rs 2.70 Crore
+- **Net Worth:** Rs 2.28 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Chandra Prakash Choudhary demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative activity, and public accessibility. While maintaining clean criminal records and reasonable attendance, the complete absence of committee engagement and legislative contributions raises concerns about parliamentary effectiveness.
+Chandra Prakash Choudhary shows moderate transparency with a score of 55.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Chandra Prakash Choudhary
-
-### Overall Assessment
-Chandra Prakash Choudhary, representing Giridih constituency in Jharkhand under the AJSU Party banner, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating solid parliamentary attendance (85%), critical financial and developmental data is largely unavailable, hampering evaluation of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental work in the Giridih constituency. The CAG audit context for Jharkhand reveals concerning systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. With 18% of sampled works remaining abandoned or incomplete, these findings raise questions about fund management efficiency in the state, though specific impact on Choudhary's constituency cannot be determined from available data.
-
-### Financial Transparency
-Asset declaration information is completely absent, making it impossible to assess financial transparency or track wealth accumulation during tenure. Without baseline or current asset data, no growth ratio or net worth analysis can be conducted. The monthly compensation of Rs 245,000 represents the only available financial metric. This data gap significantly undermines transparency assessment in one of the most critical areas for public accountability.
-
-### Legal & Criminal Standing
-Choudhary maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in criminal record verification. Despite this caveat, the absence of any recorded criminal involvement represents a positive aspect of his profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 85% attendance, demonstrating regular participation in legislative proceedings. He has raised 37 questions and participated in 5 debates, indicating engagement with constituency and national issues. However, no private member bills have been introduced, suggesting limited initiative in legislative innovation. Committee participation data is unavailable, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles providing balanced coverage (no positive or negative sentiment detected). The absence of strong positive or negative media attention suggests either limited high-profile activities or minimal controversial involvement. Social media presence data is included in sources but specific metrics are not provided. The 'D' grade for accessibility indicates significant challenges in public outreach and transparency.
-
-### Data Quality & Caveats
-Multiple data quality warnings severely limit analysis reliability. Criminal record data carries low confidence warnings, asset information is entirely missing, and MPLADS utilization data is unavailable. Committee participation and legislative effectiveness data show low confidence levels. The evidence grades of 'C' for parliament and 'D' for accessibility reflect moderate to poor data availability. These gaps may result from unavailable Sansad profiles or incomplete data collection, significantly impacting the comprehensiveness of this assessment.
-
-### Key Takeaway
-While Choudhary maintains clean criminal records and reasonable parliamentary attendance, the extensive absence of crucial transparency data - particularly regarding assets and development fund utilization - severely limits accountability assessment. The systemic issues highlighted in CAG audits for Jharkhand underscore the importance of robust fund monitoring, making the lack of MPLADS data particularly concerning for constituents seeking accountability in developmental spending.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 49,849,182. MPLADS utilization: 32.0%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ While Choudhary maintains clean criminal records and reasonable parliamentary at
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Chandra Prakash Choudhary's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

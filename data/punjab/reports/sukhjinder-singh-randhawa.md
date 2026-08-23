@@ -3,23 +3,25 @@
 **Constituency:** Gurdaspur, Punjab
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 59.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 24.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.13 Crore
+- **Liabilities:** Rs 1.61 Crore
+- **Net Worth:** Rs 5.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 30.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Sukhjinder Singh Randhawa shows a mixed transparency profile with strong attendance (95%) and no criminal background concerns, but faces significant gaps in committee participation, legislative activities, and public accessibility. The moderate MPLADS and asset disclosure scores, combined with zero committee engagement and minimal accessibility efforts, indicate room for substantial improvement in democratic accountability.
+Sukhjinder Singh Randhawa shows moderate transparency with a score of 59.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sukhjinder Singh Randhawa
-
-### Overall Assessment
-Sukhjinder Singh Randhawa, the Indian National Congress MP representing Gurdaspur, Punjab, presents a profile with limited available data but demonstrates strong parliamentary attendance. While his 95% attendance rate indicates active participation in Lok Sabha proceedings, significant data gaps in financial disclosures and development fund utilization prevent a comprehensive assessment of his overall transparency and effectiveness.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Randhawa, including entitlement amounts, funds released, or expenditure figures. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Punjab's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper supporting documents. Without baseline MPLADS data, it is impossible to assess the MP's development work effectiveness or compliance with fund utilization guidelines.
-
-### Financial Transparency
-Asset declaration data is entirely unavailable for MP Randhawa, with no information on current total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents public scrutiny of potential conflicts of interest or wealth accumulation patterns. His recorded monthly compensation stands at Rs 2,45,000, which appears to be the standard parliamentary salary and allowances.
-
-### Legal & Criminal Standing
-MP Randhawa maintains a clean legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems. While this clean record is positive, the reliability caveat requires careful interpretation.
-
-### Parliamentary Performance
-Randhawa demonstrates strong parliamentary engagement with a 95% attendance rate, significantly above average for many MPs. His legislative activity shows moderate participation with 23 questions raised and 1 debate contribution during the assessed period. However, he has not introduced any private member bills, indicating limited initiative in legislative drafting. The absence of committee membership data prevents assessment of his work in parliamentary committees, which often handle detailed policy development.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles covering the MP - comprising 1 positive, 0 negative, and 9 neutral pieces. This suggests a low-profile media presence without significant controversies but also limited positive visibility for development work or policy initiatives. The accessibility grade of 'D' indicates poor digital presence or public communication channels, potentially limiting constituent engagement.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality warnings. Criminal record data has low confidence levels, asset information is completely unavailable, and MPLADS data is missing entirely. Committee membership information is absent, and legislative effectiveness metrics have low confidence ratings. These gaps substantially limit the reliability of this transparency profile and suggest either data collection challenges or potential disclosure compliance issues.
-
-### Key Takeaway
-While MP Randhawa maintains excellent parliamentary attendance and a clean criminal record, the extensive data gaps across financial disclosures, development fund utilization, and committee work prevent a meaningful assessment of his overall transparency and effectiveness. The available evidence suggests adequate parliamentary participation but raises concerns about disclosure compliance and public accountability mechanisms. Improved data availability would be essential for voters to make informed assessments of his representation quality.
+No criminal cases declared. Declared assets: Rs 71,253,181. MPLADS utilization: 30.9%. Parliament attendance: 95.0%. Questions asked: 23. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Randhawa maintains excellent parliamentary attendance and a clean crimi
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sukhjinder Singh Randhawa's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 30.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

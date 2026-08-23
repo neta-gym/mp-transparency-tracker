@@ -3,32 +3,34 @@
 **Constituency:** Bolangir, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 51.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 0.7 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 67.31 Crore
+- **Liabilities:** Rs 75.00 Lakh
+- **Net Worth:** Rs 66.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.8%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Sangeeta Kumari Singh Deo demonstrates mixed transparency with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. The low data confidence of 14% and multiple validation flags suggest incomplete information may be affecting the overall assessment.
+Sangeeta Kumari Singh Deo shows moderate transparency with a score of 51.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sangeeta Kumari Singh Deo
-
-### Overall Assessment
-Sangeeta Kumari Singh Deo, BJP MP from Bolangir constituency in Odisha, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and demonstrating reasonable parliamentary attendance (80%), critical transparency metrics remain unavailable, particularly regarding asset declarations and MPLADS utilization.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, preventing assessment of the MP's development delivery performance. This data gap is concerning given the CAG's 2010 audit findings highlighting systemic issues in Odisha, including Rs 1,558 crore in idle funds across district authorities and 18% of sampled works being abandoned or incomplete. Without current MPLADS data, it's impossible to determine if these historical concerns have been addressed in Bolangir constituency.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data available for current or previous asset values, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for elected officials and crucial for public accountability. The absence of this fundamental information severely limits the ability to assess potential conflicts of interest or unexplained wealth accumulation.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the system flags low confidence in criminal data sources, suggesting potential data availability issues rather than confirmed clean status. This caveat requires consideration when evaluating legal standing.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 80% attendance, placing the MP above average attendance rates in the Lok Sabha. Legislative participation includes 25 questions raised and 13 debate contributions, demonstrating active engagement in parliamentary proceedings. However, no private member bills were introduced, and no committee membership data is available, limiting assessment of broader legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 news articles identified. The coverage breakdown shows predominantly neutral coverage (9 articles) with minimal positive coverage (1 article) and no negative coverage. This low media presence suggests either limited public engagement or insufficient media attention to the MP's activities. Social media presence data is included in sources but specific metrics are not provided.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Critical limitations include:
-- Low confidence in criminal record data due to potential source unavailability
-- Complete absence of asset declaration information
-- Missing MPLADS utilization data despite its importance for development assessment
-- No committee membership information available
-- Limited legislative effectiveness data
-
-The evidence grade of 'C' for parliamentary data and 'D' for accessibility indicates substantial data quality concerns. These gaps may reflect either inadequate disclosure practices or systemic data collection issues.
-
-### Key Takeaway
-While Sangeeta Kumari Singh Deo demonstrates reasonable parliamentary attendance and maintains a reported clean legal record, the transparency profile is severely compromised by missing critical financial and development data. The absence of asset declarations and MPLADS utilization information represents significant transparency deficits that prevent comprehensive public accountability assessment. Voters and stakeholders lack essential information needed to evaluate the MP's financial integrity and constituency development performance, highlighting the need for improved data disclosure and collection mechanisms.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 673,060,630. MPLADS utilization: 0.8%. Parliament attendance: 80.0%. Questions asked: 25. Debates participated: 13. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Sangeeta Kumari Singh Deo demonstrates reasonable parliamentary attendance
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sangeeta Kumari Singh Deo's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

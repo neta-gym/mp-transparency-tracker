@@ -3,23 +3,25 @@
 **Constituency:** Bilaspur, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 23.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.32 Crore
+- **Liabilities:** Rs 6.68 Lakh
+- **Net Worth:** Rs 1.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 11% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 4
+- **Utilization Rate:** 29.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Tokhan Sahu shows a below-average transparency profile with a score of 45.5/100. While he maintains a clean criminal record and demonstrates moderate performance in basic areas like MPLADS utilization and attendance, significant weaknesses emerge in committee participation, legislative activity, and public accessibility.
+Tokhan Sahu shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Tokhan Sahu
-
-### Overall Assessment
-Tokhan Sahu, representing Bilaspur constituency in Chhattisgarh for the Bharatiya Janata Party in the Lok Sabha, presents a transparency profile severely limited by data availability. With evidence grades of 'C' for parliamentary activity and 'D' for accessibility, this assessment is constrained by incomplete information across most performance indicators. The MP maintains a clean criminal record, though comprehensive evaluation of his effectiveness remains challenging due to missing data on key metrics including assets, MPLADS utilization, and detailed parliamentary participation.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for Tokhan Sahu, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a significant transparency gap for assessing the MP's development work in Bilaspur constituency. The broader context reveals concerning patterns in Chhattisgarh's fund management, with CAG audits identifying Rs 1,558 crore lying idle in district authorities' accounts statewide. Additional systemic issues include 34% of utilization certificates lacking proper documentation and 18% of sampled development works remaining abandoned or incomplete, highlighting potential challenges in the state's development fund ecosystem.
-
-### Financial Transparency
-Asset declaration data is completely missing for Tokhan Sahu, with no information available on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure information significantly hampers transparency assessment. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure. Without baseline asset data, it's impossible to evaluate potential conflicts of interest or track wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-Tokhan Sahu maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, indicating potential gaps in criminal record verification systems. While the absence of reported criminal cases is positive, the data quality caveat suggests this information should be interpreted cautiously pending more reliable verification.
-
-### Parliamentary Performance
-Parliamentary activity data is largely unavailable, showing zero recorded questions, debates, and private bills. Attendance percentage is not reported. Notably, Tokhan Sahu serves as a Minister, which typically results in lower recorded parliamentary attendance due to executive responsibilities taking precedence over legislative floor participation. The absence of committee membership data further limits assessment of his legislative contributions. This represents a significant information gap for evaluating his effectiveness as a parliamentarian, particularly concerning constituency representation through questions and debates.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles about Tokhan Sahu, all categorized as neutral with no positive or negative sentiment detected. This neutral coverage pattern suggests limited public visibility or controversial issues, though the small sample size limits comprehensive assessment. No social media engagement metrics or public accessibility measures are available, earning a 'D' grade for accessibility. The lack of diverse communication channels data hinders evaluation of his constituent outreach effectiveness.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to poor data availability across multiple domains. Automated warnings indicate low confidence in criminal records, assets, MPLADS, and parliamentary activity data. Committee information is entirely absent, suggesting potential issues with Sansad profile availability. The evidence grading system reflects these limitations with 'C' for parliamentary data and 'D' for accessibility metrics. These data gaps significantly constrain the reliability of this transparency assessment and suggest systemic issues in information disclosure mechanisms.
-
-### Key Takeaway
-Tokhan Sahu's transparency profile is characterized more by data absence than substantive performance indicators. While maintaining a clean criminal record and holding ministerial responsibilities, the lack of comprehensive information on assets, MPLADS utilization, and detailed parliamentary contributions creates significant transparency gaps. The neutral media coverage and missing accessibility metrics suggest limited public engagement visibility. This case highlights broader challenges in MP transparency data collection and the need for improved disclosure mechanisms to enable meaningful public accountability assessment.
+No criminal cases declared. Declared assets: Rs 13,190,513. MPLADS utilization: 29.5%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ Tokhan Sahu's transparency profile is characterized more by data absence than su
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Tokhan Sahu's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 29.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

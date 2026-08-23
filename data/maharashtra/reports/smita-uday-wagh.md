@@ -3,22 +3,24 @@
 **Constituency:** Jalgaon, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 57.0 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 7.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 50.0 | 10% |
 
 ---
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 8.75 Crore
+- **Liabilities:** Rs 1.86 Crore
+- **Net Worth:** Rs 6.89 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 9.5%
 
 ---
 
@@ -91,9 +94,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -102,35 +103,11 @@
 
 ## Qualitative Assessment
 
-MP Smita Uday Wagh shows a mixed transparency profile with some concerning gaps. While she maintains a clean criminal record and demonstrates good attendance and parliamentary participation, her transparency is significantly hampered by poor committee engagement, very limited accessibility to constituents, and moderate performance in asset disclosure and MPLADS utilization.
+Smita Uday Wagh shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Smita Uday Wagh
-
-### Overall Assessment
-Smita Uday Wagh, Bharatiya Janata Party MP from Jalgaon, Maharashtra, demonstrates moderate parliamentary engagement with 85% attendance but faces significant transparency challenges due to incomplete financial disclosure. Her legislative activity includes 79 questions, 12 debates, and 2 private member bills, indicating reasonable parliamentary participation despite limited available data on her development work and asset holdings.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentage. This complete data gap prevents assessment of her development work effectiveness. The broader context reveals systemic issues in Maharashtra's fund management, with CAG audits identifying Rs 1,558 crore lying idle in district authorities' accounts statewide, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.
-
-### Financial Transparency
-Asset disclosure presents a significant transparency deficit. No data is available on current total assets, previous assets, growth ratio, or net worth. This absence of financial information severely limits public accountability assessment. Her monthly compensation totals Rs 245,000, which appears to be the only verifiable financial data point available.
-
-### Legal & Criminal Standing
-Wagh maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential unavailability of comprehensive criminal background verification from reliable sources.
-
-### Parliamentary Performance
-Her parliamentary attendance of 85% exceeds the average participation threshold, demonstrating reasonable commitment to legislative duties. She has posed 79 questions in Parliament, participated in 12 debates, and introduced 2 private member bills. However, she shows no recorded activity in zero hour interventions or special mentions, indicating limited use of these parliamentary tools for constituency representation.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal minimal media presence with only 9 news articles, all categorized as neutral with no positive or negative sentiment detected. This suggests either limited media coverage or a low public profile. No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability from official sources. The accessibility evidence grade of 'D' suggests poor public information availability.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows low confidence flags, while MPLADS data is completely missing. Legislative effectiveness data also carries low confidence ratings. The parliament evidence grade of 'C' and accessibility grade of 'D' indicate substantial information gaps that limit comprehensive transparency assessment.
-
-### Key Takeaway
-While Smita Uday Wagh maintains satisfactory parliamentary attendance and shows reasonable legislative engagement through questions and debates, her transparency profile suffers from critical data gaps in financial disclosure and development fund utilization. The absence of asset information and MPLADS data, combined with minimal public engagement, raises concerns about accountability and transparency standards expected from elected representatives.
+No criminal cases declared. Declared assets: Rs 87,477,424. MPLADS utilization: 9.5%. Parliament attendance: 85.0%. Questions asked: 79. Debates participated: 12. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +147,7 @@ While Smita Uday Wagh maintains satisfactory parliamentary attendance and shows 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +226,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Smita Uday Wagh's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 9.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +245,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

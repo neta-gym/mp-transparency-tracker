@@ -3,23 +3,25 @@
 **Constituency:** Patan, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 60.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 30.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.84 Crore
+- **Liabilities:** Rs 29.58 Lakh
+- **Net Worth:** Rs 6.55 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 38.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Bharatsinhji Shankarji Dabhi demonstrates mixed transparency performance with notable strengths in attendance and criminal record disclosure, but significant weaknesses in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and multiple validation flags suggest incomplete information availability, making this assessment provisional.
+Bharatsinhji Shankarji Dabhi shows moderate transparency with a score of 60.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bharatsinhji Shankarji Dabhi
-
-### Overall Assessment
-Bharatsinhji Shankarji Dabhi, BJP MP representing Patan constituency in Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While his parliamentary attendance is exemplary at 100%, critical financial and developmental data are largely unavailable, hindering evaluation of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable for this MP, with no information on entitled amounts, releases, expenditure, or utilization rates. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues with MPLADS implementation. The audit revealed that Rs 1,558 crore remains unspent in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific data on Dabhi's fund utilization, his developmental impact cannot be assessed.
-
-### Financial Transparency
-Asset disclosure information is entirely absent from available records. Current total assets, previous assets, growth ratios, and net worth are all listed as "None," representing a complete transparency gap in financial disclosures. This absence of data prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 245,000, providing the only available financial reference point.
-
-### Legal & Criminal Standing
-Dabhi maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential source unavailability that could affect accuracy. While the available information suggests no legal complications, the data quality caveat requires careful interpretation.
-
-### Parliamentary Performance
-Dabhi demonstrates strong attendance with a perfect 100% participation rate in parliamentary sessions. His legislative engagement shows moderate activity with 8 questions raised and participation in 3 debates. However, he has introduced zero private member bills, indicating limited initiative in proposing legislation. The evidence grade for parliamentary data is rated 'C', suggesting room for improvement in comprehensive legislative tracking. No committee membership information is available, representing another data gap in assessing his parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 news articles, all categorized as neutral with zero positive or negative pieces. This neutral stance suggests limited public visibility or controversial positioning. The accessibility evidence grade is 'D', indicating poor data availability regarding public engagement mechanisms, constituency outreach, or citizen interaction platforms. Social media presence data is mentioned as a source but specific metrics are not provided.
-
-### Data Quality & Caveats
-Multiple automated warnings significantly impact the reliability of this assessment:
-- Criminal record data carries low confidence warnings due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data is completely unavailable
-- Committee membership information is missing
-- Legislative effectiveness data has low confidence ratings
-
-The evidence grades for parliament ('C') and accessibility ('D') indicate substantial data quality issues. Sources include PRS, social media, and news outlets, but the comprehensive data gaps limit the robustness of conclusions.
-
-### Key Takeaway
-Bharatsinhji Shankarji Dabhi's transparency profile is severely hampered by extensive data unavailability across critical areas including assets, MPLADS utilization, and committee work. While his perfect parliamentary attendance and clean criminal record (subject to data quality caveats) are positive indicators, the absence of financial transparency and developmental fund utilization data prevents a meaningful assessment of his effectiveness as a public representative. The neutral media coverage and poor accessibility rating suggest limited public engagement visibility. Urgent improvements in data disclosure and transparency mechanisms are needed to enable proper public accountability evaluation.
+No criminal cases declared. Declared assets: Rs 68,430,049. MPLADS utilization: 38.0%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 3.
 
 ---
 
@@ -169,7 +138,7 @@ Bharatsinhji Shankarji Dabhi's transparency profile is severely hampered by exte
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bharatsinhji Shankarji Dabhi's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 38.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

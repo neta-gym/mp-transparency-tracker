@@ -3,23 +3,25 @@
 **Constituency:** Ahmedabad West, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 4.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.18 Crore
+- **Liabilities:** Rs 1.32 Crore
+- **Net Worth:** Rs 12.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Dineshbhai Makwana demonstrates mixed transparency with notable strengths in attendance (95%) and criminal record disclosure (100%), but faces significant challenges in committee participation (0%), legislative contributions (0%), and public accessibility (10%). The moderate MPLADS and asset disclosure scores suggest room for improvement in financial transparency, while low data confidence (14%) and multiple validation flags indicate potential gaps in available information.
+Dineshbhai Makwana shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dineshbhai Makwana
-
-### Overall Assessment
-
-Dineshbhai Makwana, the BJP MP from Ahmedabad West constituency in Gujarat, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across critical areas. While maintaining excellent parliamentary participation with 95% attendance, the lack of comprehensive financial and developmental data severely limits assessment of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Makwana, preventing assessment of his developmental work in the constituency. This data absence is particularly concerning given Gujarat's broader MPLADS implementation challenges identified in CAG audits. The 2010 CAG report (31 of 2010) highlighted systemic issues in Gujarat including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about project execution effectiveness that cannot be evaluated for this MP due to missing data.
-
-### Financial Transparency
-
-Asset declaration data is completely unavailable, representing a significant transparency gap. Without baseline or current asset information, it is impossible to assess financial growth patterns or potential conflicts of interest. The MP's monthly compensation stands at Rs 2,45,000, but the absence of asset data prevents evaluation of wealth accumulation patterns or sources of income beyond parliamentary compensation. This lack of financial transparency severely hampers accountability assessment.
-
-### Legal & Criminal Standing
-
-MP Makwana maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the available data indicates no legal complications, the reliability caveat requires acknowledgment when assessing this aspect of his profile.
-
-### Parliamentary Performance
-
-This represents the strongest aspect of MP Makwana's transparency profile. His 95% attendance rate significantly exceeds typical parliamentary standards, demonstrating consistent engagement with legislative duties. He has asked 32 questions in Parliament, showing active participation in the question hour mechanism for government accountability. However, his debate participation remains minimal with only 1 recorded debate contribution, and he has introduced no private member bills, indicating limited initiative in legislative agenda-setting. The overall parliament data receives a 'C' evidence grade, suggesting moderate reliability.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited public controversy but also potentially limited visibility or newsworthy activities. The accessibility evidence grade of 'D' indicates poor availability of information about public engagement activities, constituent services, or communication channels. This low grade severely limits assessment of how effectively the MP connects with and serves his constituency beyond parliamentary duties.
-
-### Data Quality & Caveats
-
-The analysis is severely constrained by multiple data quality issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS data is missing entirely. No committee membership information is accessible, and legislative effectiveness data has low confidence ratings. The parliament evidence grade of 'C' and accessibility grade of 'D' indicate substantial gaps in verifiable information. These limitations significantly impact the reliability of this transparency assessment.
-
-### Key Takeaway
-
-While MP Dineshbhai Makwana demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial transparency, development fund utilization, and public engagement create a concerning opacity around his overall effectiveness as a public representative. The lack of MPLADS data is particularly problematic given Gujarat's documented implementation challenges, while missing asset declarations prevent assessment of financial accountability. Voters and stakeholders should seek greater transparency in these critical areas to make informed judgments about his performance and suitability for continued representation.
+No criminal cases declared. Declared assets: Rs 141,769,586. MPLADS utilization: 5.0%. Parliament attendance: 95.0%. Questions asked: 32. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ While MP Dineshbhai Makwana demonstrates strong parliamentary attendance and mai
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dineshbhai Makwana's MPLADS account: Released: Rs 16, Expended: Rs 1, Utilization: 5.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

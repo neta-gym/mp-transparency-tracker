@@ -3,32 +3,34 @@
 **Constituency:** Thane, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 59.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,20 +38,21 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 26.26 Crore
+- **Liabilities:** Rs 4.61 Crore
+- **Net Worth:** Rs 21.65 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,41 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Naresh Ganpat Mhaske shows a mixed transparency profile with moderate overall performance. While demonstrating strong participation in debates (90%) and perfect attendance record (80%), critical transparency gaps exist in committee involvement (0%), legislative contributions (0%), and public accessibility (10%). The MP maintains a clean criminal record but shows room for improvement in MPLADS utilization and asset disclosure practices.
+Naresh Ganpat Mhaske shows moderate transparency with a score of 59.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Naresh Ganpat Mhaske
-
-### Overall Assessment
-MP Naresh Ganpat Mhaske (Shiv Sena, Thane) presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining reasonable parliamentary attendance (80%), substantial information is missing across key transparency indicators including assets, MPLADS utilization, and criminal records. The evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these data limitations.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given the constituency's needs. The broader Maharashtra context reveals concerning patterns from CAG audits, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about developmental effectiveness in the state.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit that prevents assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is recorded at Rs 2,45,000, but without asset context, financial transparency remains severely compromised.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions). However, this comes with a critical data quality warning indicating low confidence in the criminal data source, which may be unavailable. The clean record should therefore be interpreted cautiously given the acknowledged data limitations.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 80% attendance, which is above average for many MPs. The MP has raised 75 questions and participated in 19 debates, demonstrating reasonable legislative engagement. However, no private member bills have been introduced, and no committee participation data is available due to potential Sansad profile unavailability. This limits assessment of comprehensive legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (no positive or negative articles identified). This neutral coverage pattern may indicate limited public visibility or engagement. The 'D' grade for accessibility suggests poor performance in public outreach and constituent communication channels. No committee data availability further compounds accessibility concerns for citizen engagement.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment:
-- Low confidence warnings for criminal records, assets, and MPLADS data
-- Missing committee participation information due to potential Sansad profile unavailability
-- Low confidence in legislative effectiveness metrics
-- Limited evidence base with only parliament, social media, and news sources available
-
-These gaps represent substantial limitations in conducting a comprehensive transparency evaluation.
-
-### Key Takeaway
-MP Naresh Ganpat Mhaske's transparency profile is severely constrained by data availability issues across multiple critical indicators. While showing reasonable parliamentary attendance and question-raising activity, the absence of asset declarations, MPLADS utilization data, and reliable criminal record information creates significant transparency deficits. The neutral media coverage and poor accessibility grade suggest limited public engagement. Given Maharashtra's documented issues with fund utilization and administrative oversight, the lack of MPLADS transparency is particularly concerning. A comprehensive transparency assessment requires substantial data improvements across financial disclosures, development fund utilization, and public accessibility metrics.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 262,602,215. Parliament attendance: 80.0%. Questions asked: 75. Debates participated: 19.
 
 ---
 
@@ -168,7 +138,7 @@ MP Naresh Ganpat Mhaske's transparency profile is severely constrained by data a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Naresh Ganpat Mhaske's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -264,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

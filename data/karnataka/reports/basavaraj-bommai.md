@@ -3,23 +3,25 @@
 **Constituency:** Haveri, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 27.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 53.95 Crore
+- **Liabilities:** Rs 5.46 Crore
+- **Net Worth:** Rs 48.49 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,76 +94,11 @@
 
 ## Qualitative Assessment
 
-Basavaraj Bommai shows mixed transparency performance with notable strengths in maintaining a clean criminal record but significant weaknesses in committee participation, accessibility, and legislative engagement. His moderate scores in MPLADS utilization and parliamentary attendance are offset by concerning gaps in public outreach and formal parliamentary processes.
+Basavaraj Bommai shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Basavaraj Bommai
-
-### Overall Assessment
-
-Basavaraj Bommai, BJP MP from Haveri, Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean legal record and reasonable parliamentary attendance (70%), substantial missing information across financial and development metrics prevents a full assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-**MPLADS data is entirely unavailable**, preventing assessment of his constituency development performance. This represents a critical transparency gap given MPLADS funds are a primary mechanism for MPs to address local development needs. 
-
-The CAG audit context reveals systemic issues in Karnataka's fund utilization that may affect his constituency:
-- **Rs 1,558 crore in idle funds** lying unspent across district authorities statewide
-- **34% of utilization certificates lack proper documentation**, indicating weak financial controls
-- **18% of sampled development works were incomplete or abandoned**
-
-These findings suggest potential challenges in effective fund deployment within his jurisdiction, though specific data for Haveri constituency is not available.
-
-### Financial Transparency
-
-**Asset disclosure information is completely missing**, creating a significant transparency deficit. No data is available on:
-- Current total assets or net worth
-- Previous asset declarations
-- Asset growth patterns
-- Source verification
-
-This absence of financial disclosure data makes it impossible to assess potential conflicts of interest or evaluate the MP's financial transparency standards.
-
-### Legal & Criminal Standing
-
-Bommai maintains a **clean criminal record with zero cases** across all categories - no pending cases, convictions, or serious charges. However, the data carries a **low confidence warning**, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows **moderate activity levels**:
-- **70% attendance rate** - reasonable but below optimal levels
-- **39 questions raised** - demonstrates some engagement with parliamentary questioning
-- **1 debate participation** - limited contribution to parliamentary discussions
-- **0 private member bills** - no legislative initiative shown
-
-The evidence grade of 'C' for parliamentary data suggests these metrics may be incomplete or not fully representative of his total parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-**Accessibility receives a 'D' evidence grade**, indicating poor data availability on public engagement metrics. 
-
-News sentiment analysis reveals:
-- **10 articles tracked** with neutral coverage
-- **No positive or negative sentiment detected** - suggesting either limited media attention or balanced reporting
-- Coverage appears insufficient for meaningful public perception assessment
-
-The limited media footprint may indicate either effective non-controversial performance or insufficient public engagement and visibility.
-
-### Data Quality & Caveats
-
-**Multiple data quality warnings significantly limit this assessment**:
-- **Criminal record data**: Low confidence due to potential source unavailability
-- **Asset information**: Complete absence of financial disclosure data
-- **MPLADS data**: No utilization metrics available
-- **Committee participation**: No committee assignment data found
-- **Legislative effectiveness**: Low confidence in available metrics
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility indicate substantial information gaps that prevent comprehensive evaluation.
-
-### Key Takeaway
-
-Basavaraj Bommai's transparency profile is **severely limited by data gaps** rather than negative findings. While he maintains a clean legal record and shows moderate parliamentary participation, the absence of crucial information on asset declarations, MPLADS utilization, and public engagement activities prevents meaningful assessment of his overall effectiveness. The systemic fund utilization issues identified by CAG audits in Karnataka highlight the importance of transparent development fund management, making the absence of his specific MPLADS data particularly concerning. **Improved data disclosure across financial, developmental, and engagement metrics is essential** for proper public accountability evaluation.
+No criminal cases declared. Declared assets: Rs 539,504,552. MPLADS utilization: 33.9%. Parliament attendance: 70.0%. Questions asked: 39. Debates participated: 1.
 
 ---
 
@@ -203,7 +138,7 @@ Basavaraj Bommai's transparency profile is **severely limited by data gaps** rat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -282,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Basavaraj Bommai's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -299,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

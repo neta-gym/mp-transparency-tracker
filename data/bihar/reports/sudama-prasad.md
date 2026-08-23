@@ -3,32 +3,34 @@
 **Constituency:** Arrah, Bihar
 **Party:** Communist Party of India (Marxist-Leninist) Liberation
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 54.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 26.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 90.99 Lakh
+- **Liabilities:** Rs 29.22 Lakh
+- **Net Worth:** Rs 61.77 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,41 +94,11 @@
 
 ## Qualitative Assessment
 
-Sudama Prasad shows a mixed transparency profile with strong performance in attendance and criminal record disclosure, but significant gaps in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets transparency scores suggest room for improvement in financial accountability.
+Sudama Prasad shows moderate transparency with a score of 54.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sudama Prasad
-
-### Overall Assessment
-Sudama Prasad, representing Arrah constituency in Bihar under the Communist Party of India (Marxist-Leninist) Liberation, demonstrates strong parliamentary attendance but faces significant data transparency gaps. While maintaining a clean criminal record and perfect attendance, limited asset and development fund information restricts comprehensive evaluation of his overall performance as an MP.
-
-### Fund Utilization & Development
-MPLADS data is unavailable, preventing assessment of development fund utilization. This data gap is concerning given Bihar's documented issues with fund management. CAG audits reveal systemic problems in the state including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works remain abandoned or incomplete, highlighting broader infrastructure delivery challenges that may affect constituency development.
-
-### Financial Transparency
-Asset declaration information is not available, creating a significant transparency deficit. Without baseline or current asset data, it's impossible to assess financial growth patterns or potential conflicts of interest. The MP receives the standard monthly compensation of Rs 2.45 lakh, but the absence of declared assets raises questions about comprehensive financial disclosure compliance.
-
-### Legal & Criminal Standing
-Sudama Prasad maintains a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, the criminal record data carries a low confidence rating due to potential source unavailability, suggesting this information should be verified through alternative channels for complete accuracy.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance stands at an exemplary 100%, demonstrating strong commitment to legislative duties. The MP has posed 26 questions and participated in 12 debates, indicating moderate engagement in parliamentary discourse. However, no private member bills have been introduced, and committee participation data is unavailable. The parliament activity receives a 'C' evidence grade, suggesting room for enhanced legislative effectiveness.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited. News coverage analysis of 10 articles shows entirely neutral sentiment with no positive or negative coverage, suggesting either limited media attention or balanced reporting. The accessibility score receives a 'D' grade, indicating poor public communication and engagement mechanisms. Social media and other digital outreach data appear minimal, potentially limiting constituent connection opportunities.
-
-### Data Quality & Caveats
-This assessment faces substantial data limitations affecting reliability. Multiple warning flags indicate low confidence in criminal records, assets, and MPLADS data. Key gaps include:
-- Missing committee assignment information
-- Unavailable legislative effectiveness metrics  
-- Absent constituency development fund details
-- No baseline asset declarations
-
-Evidence quality varies significantly across categories, with parliamentary data (Grade C) being more reliable than accessibility measures (Grade D). Bihar-specific CAG findings provide relevant context but don't directly reflect individual MP performance.
-
-### Key Takeaway
-While Sudama Prasad demonstrates commitment through perfect parliamentary attendance and clean legal standing, significant transparency gaps in asset disclosure and development fund utilization prevent comprehensive performance evaluation. Enhanced data disclosure and improved public engagement mechanisms would strengthen accountability and constituent service delivery assessment capabilities.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 9,098,946. MPLADS utilization: 32.9%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 12.
 
 ---
 
@@ -168,7 +138,7 @@ While Sudama Prasad demonstrates commitment through perfect parliamentary attend
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sudama Prasad's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -264,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

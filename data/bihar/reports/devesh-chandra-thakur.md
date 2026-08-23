@@ -3,32 +3,34 @@
 **Constituency:** Sitamarhi, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 71
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 47.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 19.5 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 8.85 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 8.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,66 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Devesh Chandra Thakur shows mixed transparency performance with a moderate overall score of 44/100. While he maintains a clean criminal record and demonstrates average performance in MPLADS utilization and asset disclosure, significant weaknesses exist in committee participation, legislative activity, and public accessibility. The low data confidence (14%) and multiple validation flags suggest limited reliable information availability.
+Devesh Chandra Thakur has a below-average transparency score of 47.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Devesh Chandra Thakur
-
-### Overall Assessment
-
-Devesh Chandra Thakur, representing Sitamarhi constituency in Bihar for Janata Dal (United), presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with 55% attendance and limited legislative activity. The absence of critical financial data severely constrains comprehensive assessment of his developmental impact and fiscal responsibility.
-
-### Fund Utilization & Development
-
-**Critical data gaps exist for MPLADS fund utilization.** No information is available regarding entitlements, releases, expenditures, or utilization percentages. This represents a significant transparency deficit given Bihar's documented challenges with fund management.
-
-The CAG audit context for Bihar reveals systemic concerns: Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. These findings highlight the critical importance of transparent fund tracking, making the absence of Thakur's MPLADS data particularly concerning for constituency oversight.
-
-### Financial Transparency
-
-**Asset disclosure data is completely unavailable,** preventing assessment of wealth accumulation patterns or potential conflicts of interest. No information exists regarding total assets, previous holdings, growth ratios, or net worth calculations.
-
-Monthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point. The absence of asset data significantly undermines transparency standards expected for public representatives.
-
-### Legal & Criminal Standing
-
-**Clean criminal record with zero cases** across all categories - no pending cases, serious charges, disposed matters, or convictions. However, data confidence is marked as low, suggesting potential gaps in criminal record verification systems.
-
-This clean slate, while positive, requires cautious interpretation given the flagged data quality concerns.
-
-### Parliamentary Performance
-
-**Below-average parliamentary engagement** characterized by:
-- **55% attendance rate** - falling short of expected participation levels
-- **19 questions raised** - showing some engagement with legislative inquiry processes  
-- **Zero debates participated** - indicating minimal contribution to parliamentary discourse
-- **Zero private bills introduced** - reflecting limited legislative initiative
-
-The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics. His performance indicates presence without substantial legislative contribution.
-
-### Public Engagement & Accessibility
-
-**Limited public engagement profile** with minimal digital footprint. News coverage analysis shows:
-- **10 total articles** with predominantly neutral tone (9 neutral, 1 negative, 0 positive)
-- **Mixed/neutral media sentiment** suggesting limited public visibility or controversial positioning
-
-Accessibility receives a 'D' evidence grade, indicating poor data availability regarding public interaction, constituency services, or communication channels. This suggests either limited engagement initiatives or inadequate transparency in reporting such activities.
-
-### Data Quality & Caveats
-
-**Multiple critical data gaps significantly limit assessment reliability:**
-- Criminal record data flagged for low confidence
-- Asset information completely unavailable  
-- MPLADS utilization data missing entirely
-- Committee membership information absent
-- Legislative effectiveness data unreliable
-
-Sources include PRS, social media, and news outlets, but coverage appears incomplete. The automated warning flags indicate systematic data collection challenges, particularly for financial and developmental metrics.
-
-### Key Takeaway
-
-Devesh Chandra Thakur maintains a clean legal record but demonstrates concerning transparency gaps, particularly in financial disclosure and development fund utilization. His parliamentary performance shows minimal engagement beyond basic attendance, while the absence of critical MPLADS data prevents assessment of his developmental impact in Sitamarhi. Given Bihar's documented fund management challenges highlighted in CAG audits, the lack of transparent MPLADS reporting represents a significant accountability deficit. Comprehensive transparency improvement is needed across asset disclosure, fund utilization reporting, and parliamentary engagement to meet public accountability standards.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 88,465,387. MPLADS utilization: 24.4%. Parliament attendance: 55.0%. Questions asked: 19.
 
 ---
 
@@ -193,7 +138,7 @@ Devesh Chandra Thakur maintains a clean legal record but demonstrates concerning
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -272,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Devesh Chandra Thakur's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -289,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

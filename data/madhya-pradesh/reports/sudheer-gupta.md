@@ -3,32 +3,34 @@
 **Constituency:** Mandsour, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 9.1 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.29 Crore
+- **Liabilities:** Rs 5.85 Crore
+- **Net Worth:** Rs 13.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,58 +94,11 @@
 
 ## Qualitative Assessment
 
-Sudheer Gupta demonstrates mixed transparency with moderate performance in attendance (85%) and participation (80%), but significant deficiencies in committee involvement (0%) and legislative activity (0%). The low data confidence (14%) and multiple validation flags indicate substantial gaps in available information, making a comprehensive assessment challenging.
+Sudheer Gupta shows moderate transparency with a score of 54.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sudheer Gupta
-
-### Overall Assessment
-
-Sudheer Gupta, BJP MP from Mandsour, Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining strong parliamentary attendance (85%) and demonstrating active participation through questions (70) and debates (10), critical financial and asset data remains unavailable. The MP maintains a clean criminal record with zero cases, but several key transparency indicators lack sufficient data quality for reliable evaluation.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given the scheme's importance for constituency development. The absence of utilization percentages prevents assessment of the MP's effectiveness in deploying developmental funds.
-
-CAG audit findings from Madhya Pradesh (Report 31 of 2010) reveal systemic MPLADS implementation challenges, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were abandoned or incomplete, suggesting broader implementation concerns that may affect constituency-level fund utilization.
-
-### Financial Transparency
-
-Asset disclosure data is entirely missing, with no information on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data severely limits accountability assessment. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-Without asset data, it's impossible to evaluate wealth accumulation patterns, potential conflicts of interest, or compliance with disclosure requirements—all critical elements of financial transparency.
-
-### Legal & Criminal Standing
-
-Sudheer Gupta maintains a completely clean criminal record with zero total cases, serious cases, pending matters, disposed cases, and convictions. This represents the optimal legal standing for an elected representative, though data confidence warnings suggest potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-
-The MP demonstrates solid parliamentary engagement with 85% attendance, significantly above typical averages. Active participation includes 70 questions raised and 10 debate contributions, indicating substantive legislative involvement. However, zero private member bills suggests limited initiative in legislative drafting.
-
-Committee participation data is unavailable due to inaccessible Sansad profiles, preventing assessment of specialized parliamentary work. The 'C' grade for parliamentary evidence and low confidence in legislative effectiveness data indicate moderate reliability in performance metrics.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with predominantly neutral coverage (9 neutral, 1 negative, 0 positive), suggesting limited public visibility or controversial issues. The low article count indicates either minimal media attention or limited public engagement activities.
-
-Social media and accessibility data receive a 'D' grade, indicating poor digital presence or engagement platforms. This suggests potential gaps in constituent communication and public outreach efforts.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight significant data reliability concerns:
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Low confidence in asset data completeness
-- **MPLADS**: Low confidence in fund utilization data
-- **Committees**: No committee data available due to inaccessible Sansad profiles
-- **Legislative effectiveness**: Low confidence ratings
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility indicate moderate to poor data quality across key transparency dimensions. These limitations significantly constrain comprehensive transparency assessment.
-
-### Key Takeaway
-
-While Sudheer Gupta maintains strong parliamentary attendance and a clean criminal record, massive data gaps in asset disclosure, MPLADS utilization, and committee participation severely limit transparency evaluation. The absence of financial data and development fund information represents critical accountability gaps that prevent voters from making fully informed assessments of their representative's performance and integrity. Improved data availability and disclosure compliance are essential for meaningful transparency assessment.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 192,884,642. MPLADS utilization: 11.4%. Parliament attendance: 85.0%. Questions asked: 70. Debates participated: 10.
 
 ---
 
@@ -185,7 +138,7 @@ While Sudheer Gupta maintains strong parliamentary attendance and a clean crimin
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -264,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sudheer Gupta's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 11.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -281,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

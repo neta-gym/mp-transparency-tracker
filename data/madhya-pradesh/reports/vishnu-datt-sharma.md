@@ -3,32 +3,34 @@
 **Constituency:** Khajuraho, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 3.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.93 Crore
+- **Liabilities:** Rs 1.84 Crore
+- **Net Worth:** Rs 3.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.7%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,51 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Vishnu Datt Sharma shows mixed transparency performance with moderate scores in basic areas like MPLADS utilization and asset disclosure, but significant deficiencies in committee participation, accessibility, and legislative activity. While maintaining a clean criminal record, the complete absence of committee engagement and very low accessibility scores indicate limited public accountability.
+Vishnu Datt Sharma has a below-average transparency score of 47.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Vishnu Datt Sharma
-
-### Overall Assessment
-
-Vishnu Datt Sharma, BJP MP from Khajuraho constituency in Madhya Pradesh, presents a limited transparency profile due to significant data gaps across multiple key metrics. Available evidence suggests moderate parliamentary engagement with 55% attendance, but substantial information deficits prevent comprehensive evaluation of his development work and financial accountability.
-
-### Fund Utilization & Development
-
-Complete data unavailability regarding MPLADS fund utilization presents a critical transparency gap. No information is available on entitled amounts, releases, expenditures, or utilization percentages for the Khajuraho constituency. This absence is particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: ₹1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without MPLADS data, it's impossible to assess whether Khajuraho faces similar implementation challenges.
-
-### Financial Transparency
-
-Asset disclosure information is entirely unavailable, preventing any assessment of financial transparency or wealth accumulation patterns. No data exists on current total assets, previous declarations, growth ratios, or net worth calculations. This complete absence of financial disclosure data significantly hampers transparency evaluation. The MP's monthly compensation is recorded at ₹245,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning, suggesting potential source unavailability issues. While the clean record appears positive, the reliability caveat means this assessment should be treated cautiously until verified through alternative sources.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with a 55% attendance rate, falling short of optimal participation levels. Legislative activity includes 42 questions raised and participation in 2 debates, indicating moderate engagement with parliamentary proceedings. However, no private member bills were introduced, suggesting limited legislative initiative. No committee assignment data is available, preventing assessment of specialized parliamentary work. The evidence grade of 'C' for parliamentary data indicates moderate reliability with some gaps.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public visibility with only 7 articles identified, all carrying neutral sentiment with no positive or negative coverage detected. This minimal media presence suggests limited public engagement or communication strategy. Social media presence and public interaction data are insufficient for comprehensive evaluation. The accessibility evidence grade of 'D' indicates poor data availability in this crucial transparency dimension.
-
-### Data Quality & Caveats
-
-Multiple significant data quality issues affect this assessment:
-
-- **Criminal records**: Low confidence warning due to potential source unavailability
-- **Assets**: Complete data absence with low confidence rating
-- **MPLADS**: No utilization data available with low confidence assessment
-- **Committees**: No committee information found, suggesting Sansad profile unavailability
-- **Legislative effectiveness**: Low confidence in available data
-
-The overall evidence quality ranges from C-grade (parliament) to D-grade (accessibility), indicating substantial reliability concerns across most metrics.
-
-### Key Takeaway
-
-Vishnu Datt Sharma's transparency profile is severely constrained by extensive data gaps, preventing comprehensive accountability assessment. While available criminal record data appears clean and parliamentary attendance shows moderate engagement (55%), the complete absence of MPLADS fund utilization data and asset declarations creates significant transparency deficits. Given CAG audit findings revealing systemic development fund management issues in Madhya Pradesh, the lack of constituency-specific MPLADS data is particularly problematic. Citizens and oversight bodies should prioritize obtaining complete financial and development fund utilization data to enable proper accountability evaluation. The minimal media coverage and poor accessibility rating suggest limited public engagement, highlighting needs for enhanced transparency mechanisms and public communication strategies.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,262,858. MPLADS utilization: 4.7%. Parliament attendance: 55.0%. Questions asked: 42. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -178,7 +139,7 @@ Vishnu Datt Sharma's transparency profile is severely constrained by extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vishnu Datt Sharma's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,32 @@
 **Constituency:** Paschim Champaran, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 49.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,20 +36,21 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 29.05 Crore
+- **Liabilities:** Rs 13,525
+- **Net Worth:** Rs 29.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Sanjay Jaiswal demonstrates a mixed transparency profile with significant gaps in public engagement. While maintaining a clean criminal record and reasonable parliamentary attendance, he shows poor performance in committee participation, accessibility to constituents, and legislative contributions, resulting in a below-average overall score.
+Sanjay Jaiswal has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sanjay Jaiswal
-
-### Overall Assessment
-Sanjay Jaiswal, BJP MP from Paschim Champaran (Bihar), presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and moderate parliamentary attendance (70%), the absence of critical financial and development data raises transparency concerns. His parliamentary engagement shows selective participation with 26 questions raised but limited debate involvement.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This represents a critical transparency gap given that MPs are entitled to ₹5 crore annually for local development projects. The CAG audit context reveals systemic issues in Bihar's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data, it's impossible to determine whether Jaiswal's constituency faces similar challenges with incomplete works (18% state average) or fund mismanagement.
-
-### Financial Transparency
-Asset declaration data is completely missing, preventing any assessment of financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This absence of basic financial disclosure represents a significant transparency deficit. The MP receives ₹2.45 lakh monthly compensation, but without asset data, stakeholders cannot evaluate potential wealth accumulation or business interests that might influence policy positions.
-
-### Legal & Criminal Standing
-Jaiswal maintains a clean legal record with zero criminal cases, serious charges, pending matters, or convictions. However, the automated system flags low confidence in this criminal data due to potential source unavailability. While the clean record is positive, the data quality warning suggests these findings should be interpreted cautiously and may require verification from additional sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 70% attendance, placing him in the middle range of MP performance. He raised 26 questions during the session, demonstrating some constituency advocacy, but participated in only 7 debates, suggesting limited involvement in broader policy discussions. No private member's bills were introduced, indicating minimal legislative initiative. The 'C' grade for parliamentary evidence suggests adequate but not exceptional performance in core legislative duties.
-
-### Public Engagement & Accessibility
-Public engagement metrics are severely limited with a 'D' grade for accessibility. News coverage analysis shows 10 articles with neutral sentiment (no positive or negative coverage), suggesting limited media attention or public visibility. The lack of substantive coverage may indicate insufficient public communication or limited newsworthy activities. No social media engagement metrics or public consultation data are available, making it difficult to assess constituent interaction levels.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data quality issues. Asset data has low confidence levels, criminal record verification is uncertain, and MPLADS information is completely unavailable. Committee membership data is missing, potentially indicating incomplete Sansad profile information. Legislative effectiveness data also carries low confidence ratings. These gaps substantially limit the reliability of this transparency assessment and suggest systemic data collection or disclosure issues.
-
-### Key Takeaway
-Sanjay Jaiswal's transparency profile is severely hampered by missing critical data across financial, development, and engagement metrics. While maintaining clean legal standing and moderate parliamentary attendance, the absence of asset declarations and MPLADS utilization data creates significant accountability gaps. The neutral media coverage and limited public visibility, combined with extensive data quality warnings, suggest either poor disclosure practices or systemic transparency challenges. Stakeholders should seek additional verification of available data and press for complete financial and development fund disclosures to enable meaningful accountability assessment.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 290,535,126. Parliament attendance: 70.0%. Questions asked: 26. Debates participated: 7.
 
 ---
 
@@ -162,7 +136,7 @@ Sanjay Jaiswal's transparency profile is severely hampered by missing critical d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjay Jaiswal's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

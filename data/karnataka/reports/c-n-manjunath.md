@@ -3,22 +3,24 @@
 **Constituency:** Bangalore Rural, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 63.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 28.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 98.39 Crore
+- **Liabilities:** Rs 14.81 Crore
+- **Net Worth:** Rs 83.57 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 95% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 35.0%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -102,35 +102,11 @@
 
 ## Qualitative Assessment
 
-C N Manjunath shows a mixed transparency profile with strong performance in criminal record disclosure and parliamentary participation, but significant weaknesses in committee involvement and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee participation, suggest inconsistent engagement with transparency mechanisms despite good attendance and legislative activity.
+C N Manjunath shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: C N Manjunath
-
-### Overall Assessment
-C N Manjunath, BJP MP from Bangalore Rural constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary participation shows reasonable engagement with 70% attendance and active questioning, critical transparency indicators including asset disclosures and MPLADS utilization data are unavailable. The MP demonstrates legislative initiative with 3 private member bills but faces challenges in broader public accessibility metrics.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, preventing assessment of the MP's development fund utilization. This represents a significant transparency gap given that each MP is entitled to ₹5 crore annually under the scheme. The absence of data on entitled amounts, releases, expenditure, and utilization percentages makes it impossible to evaluate developmental impact or fiscal responsibility. Karnataka-specific CAG audit findings reveal systemic concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, representing a critical transparency failure. No information is available regarding total assets, previous declarations, growth ratios, or net worth calculations. This prevents any assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP's monthly compensation is documented at ₹245,000, but without asset context, comprehensive financial transparency cannot be evaluated. The complete absence of financial disclosure data significantly undermines public accountability.
-
-### Legal & Criminal Standing
-The MP reports a clean criminal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. While the clean record is positive for public trust, the low confidence rating necessitates cautious interpretation of this finding.
-
-### Parliamentary Performance
-Manjunath demonstrates solid parliamentary engagement with 70% attendance, surpassing many peers' participation rates. His legislative activity includes 73 questions raised, 17 debate participations, and 3 private member bills introduced, indicating active representation of constituency interests. The introduction of private member bills suggests policy initiative beyond party lines. However, zero hour submissions and special mentions both register zero, indicating limited use of these parliamentary mechanisms for raising urgent constituency issues.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal concerning limitations. News coverage analysis of 10 articles shows entirely neutral sentiment with no positive or negative coverage identified, suggesting limited public discourse around the MP's activities. The evidence grade for accessibility rates poorly at 'D', indicating significant challenges in public outreach and communication. No committee participation data is available, potentially limiting cross-party collaboration and specialized policy contribution opportunities.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality issues across key transparency indicators. Low confidence warnings apply to criminal records, assets, MPLADS utilization, and legislative effectiveness data. Parliament performance receives only a 'C' grade for evidence quality. The absence of committee information suggests incomplete Sansad profile availability. These data gaps substantially limit the reliability of transparency assessments and indicate systemic issues with information disclosure or collection processes.
-
-### Key Takeaway
-While C N Manjunath maintains reasonable parliamentary attendance and legislative activity, his transparency profile is severely compromised by missing critical data across asset declarations, MPLADS utilization, and public engagement metrics. The complete absence of financial transparency information and low-confidence criminal data create significant accountability gaps. Though his clean reported criminal record and active questioning in parliament are positive indicators, the overall assessment is hindered by data unavailability rather than concerning findings, suggesting systemic transparency infrastructure limitations rather than individual misconduct.
+No criminal cases declared. Declared assets: Rs 983,883,816. MPLADS utilization: 35.0%. Parliament attendance: 70.0%. Questions asked: 73. Debates participated: 17.
 
 ---
 
@@ -170,7 +146,7 @@ While C N Manjunath maintains reasonable parliamentary attendance and legislativ
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for C N Manjunath's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 35.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

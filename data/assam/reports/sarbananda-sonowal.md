@@ -3,23 +3,25 @@
 **Constituency:** Dibrugarh, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.76 Crore
+- **Liabilities:** Rs 25.78 Lakh
+- **Net Worth:** Rs 4.50 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 10.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Sarbananda Sonowal demonstrates a mixed transparency profile with some strengths but significant gaps in key areas. While he maintains a clean criminal record and shows average performance in core metrics like MPLADS utilization and attendance, he scores poorly in committee participation, accessibility to constituents, and legislative activity documentation.
+Sarbananda Sonowal has a below-average transparency score of 49.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Sarbananda Sonowal
-
-### Overall Assessment
-Sarbananda Sonowal, BJP MP from Dibrugarh, Assam, presents a transparency profile marked by significant data limitations across multiple dimensions. While maintaining a clean legal record with zero criminal cases, the absence of critical information on assets, MPLADS utilization, and parliamentary performance severely constrains meaningful assessment of his effectiveness as a public representative. The limited available data suggests neutral public perception but raises concerns about transparency and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of Sonowal's development fund utilization effectiveness. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Assam's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled works were abandoned or incomplete, highlighting the importance of transparent MPLADS reporting that remains missing for this constituency.
-
-### Financial Transparency
-Asset disclosure information is completely absent, making it impossible to evaluate financial transparency or potential conflicts of interest. No data exists on current assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to public accountability. The only available financial information is the standard monthly compensation of Rs 2,45,000, which provides no insight into the MP's broader financial standing or potential wealth accumulation during tenure.
-
-### Legal & Criminal Standing
-Sonowal maintains a clean criminal record with zero cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources. While the clean record is positive, the reliability caveat suggests this assessment should be viewed with caution pending verification from authoritative sources.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely missing, preventing evaluation of legislative effectiveness. No information is available on attendance rates, questions raised, debate participation, or private member bills introduced. While Sonowal holds ministerial position (which typically reduces attendance expectations due to executive responsibilities), the complete absence of performance metrics makes it impossible to assess his contribution to parliamentary proceedings or constituency representation quality.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals limited but balanced coverage, with 10 articles showing predominantly neutral tone (9 neutral, 1 positive, 0 negative). This suggests minimal public controversy but also potentially low visibility in media discourse. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and engagement channels. No committee membership data is available, further limiting assessment of his institutional engagement and policy influence.
-
-### Data Quality & Caveats
-This assessment faces severe data quality limitations with evidence grades of 'C' for parliamentary performance and 'D' for accessibility. Multiple automated warnings flag low confidence across criminal records, assets, MPLADS, and parliamentary activity data. The absence of Sansad profile information compounds these limitations. These data gaps significantly undermine the reliability of this transparency assessment and suggest potential systemic issues with information disclosure or data collection processes.
-
-### Key Takeaway
-Sarbananda Sonowal's transparency profile is characterized by extensive data unavailability rather than clear performance indicators. While maintaining an apparently clean legal record, the absence of asset declarations, MPLADS utilization data, and parliamentary performance metrics creates a substantial accountability vacuum. The neutral media coverage and poor accessibility scores suggest limited public engagement transparency. Given the systemic fund management issues identified by CAG audits in Assam, the lack of MPLADS transparency is particularly concerning. This profile highlights the critical need for improved data disclosure and transparency mechanisms to enable meaningful public oversight of elected representatives.
+No criminal cases declared. Declared assets: Rs 47,585,258. MPLADS utilization: 10.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ Sarbananda Sonowal's transparency profile is characterized by extensive data una
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sarbananda Sonowal's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 10.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

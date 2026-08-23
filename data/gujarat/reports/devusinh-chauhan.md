@@ -3,23 +3,25 @@
 **Constituency:** Kheda, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 22.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.50 Crore
+- **Liabilities:** Rs 49.97 Lakh
+- **Net Worth:** Rs 3.00 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,45 +94,11 @@
 
 ## Qualitative Assessment
 
-Devusinh Chauhan demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant gaps in public engagement and legislative activities. His zero scores in committee participation and legislative initiatives, combined with very low accessibility (10%), indicate limited public accountability despite maintaining basic parliamentary presence.
+Devusinh Chauhan shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-# Executive Summary: Devusinh Chauhan
-
-## Executive Summary: Devusinh Chauhan
-
-### Overall Assessment
-Devusinh Chauhan, BJP MP representing Kheda constituency in Gujarat, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While available data indicates no criminal record and perfect parliamentary attendance, substantial missing information across key areas—particularly assets, MPLADS utilization, and committee work—raises concerns about overall transparency and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for this MP, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are entitled to ₹5 crore annually under the scheme. The broader MPLADS context in Gujarat reveals systemic issues identified by CAG audits, including ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without MP-specific data, it's impossible to assess Chauhan's development performance or fund utilization effectiveness.
-
-### Financial Transparency
-Asset declaration data is completely missing, preventing any assessment of the MP's financial transparency or potential conflicts of interest. No information is available regarding total assets, previous holdings, growth patterns, or net worth. This data gap significantly undermines the ability to evaluate financial accountability. The MP receives ₹2,45,000 monthly in compensation, but without asset disclosure, overall financial transparency cannot be assessed.
-
-### Legal & Criminal Standing
-Chauhan maintains a clean criminal record with zero total cases, serious charges, pending matters, disposals, or convictions. However, this data carries a warning flag indicating low confidence due to potentially unavailable sources. While the available information suggests no legal issues, the data quality concerns require noting this as preliminary information subject to verification.
-
-### Parliamentary Performance
-Parliamentary attendance stands at an exemplary 100%, demonstrating commitment to legislative duties. However, overall parliamentary engagement appears limited with only 8 questions raised and 1 debate participation during the assessed period. No private member bills were introduced. Critically, no committee membership or activity data is available, suggesting the MP's Sansad profile may be inaccessible. This limits assessment of substantive legislative work beyond basic attendance metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment across all pieces—no positive or negative coverage was recorded. This neutral media profile suggests limited public visibility or controversial positions but may also indicate reduced public engagement. The evidence grade for accessibility rates 'D', indicating poor transparency in public communication and constituent engagement channels. No social media engagement metrics or public consultation data is available.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment:
-
-- **Criminal Record**: Low confidence warning due to potentially unavailable sources
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No utilization data available despite scheme importance
-- **Committee Work**: Missing information suggests inaccessible Sansad profile
-- **Evidence Grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-These data gaps severely limit the reliability of transparency assessments and suggest systemic issues with information availability or disclosure practices.
-
-### Key Takeaway
-While Devusinh Chauhan maintains perfect attendance and a clean criminal record, substantial missing data across critical transparency areas—assets, MPLADS utilization, and committee work—prevents a comprehensive accountability assessment. The combination of neutral media coverage, poor accessibility ratings, and significant data gaps suggests limited transparency and public engagement. Voters and oversight bodies should seek additional information sources and demand improved data disclosure to enable proper evaluation of this MP's performance and accountability.
+No criminal cases declared. Declared assets: Rs 34,976,572. MPLADS utilization: 28.3%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 1.
 
 ---
 
@@ -172,7 +138,7 @@ While Devusinh Chauhan maintains perfect attendance and a clean criminal record,
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -251,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Devusinh Chauhan's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

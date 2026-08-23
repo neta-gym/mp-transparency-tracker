@@ -3,32 +3,32 @@
 **Constituency:** Cuddalore, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 33.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 25.20 Crore
+- **Liabilities:** Rs 5.27 Crore
+- **Net Worth:** Rs 19.93 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 41.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-M K Vishnu Prasad shows mixed transparency performance with significant gaps in key areas. While maintaining a clean criminal record and reasonable attendance (75%), he struggles with legislative participation, committee engagement (0%), and public accessibility (10%). The low data confidence (14%) and multiple validation flags suggest incomplete disclosure across several transparency metrics.
+M K Vishnu Prasad shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: M K Vishnu Prasad
-
-### Overall Assessment
-M K Vishnu Prasad, the Indian National Congress MP representing Cuddalore constituency in Tamil Nadu, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining clean criminal records and reasonable parliamentary attendance, critical information about asset disclosure and development fund utilization remains unavailable, hampering full accountability evaluation.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is unavailable for MP Prasad, preventing assessment of his developmental fund utilization. This data gap is concerning given the CAG audit context for Tamil Nadu, which identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, raising questions about effective fund deployment in the state.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a fundamental requirement for public accountability. The MP's monthly compensation is recorded at Rs 2,45,000, which is standard for Lok Sabha members, but without asset baseline data, comprehensive financial assessment remains impossible.
-
-### Legal & Criminal Standing
-MP Prasad maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. While the available data indicates no criminal involvement, the confidence warning necessitates cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 75% attendance, which is reasonable though not exceptional. The MP has raised 40 questions and participated in 10 debates during the session, indicating active involvement in legislative discussions. However, no private member's bills have been introduced, and no committee participation data is available due to potential Sansad profile unavailability, limiting assessment of legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified. The sentiment breakdown shows predominantly neutral coverage (7 articles), with minimal positive coverage (1 article) and some negative attention (2 articles). This suggests relatively low public visibility and limited proactive communication efforts. The accessibility grade of 'D' indicates poor performance in citizen engagement metrics.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment:
-- Criminal record data carries low confidence warnings due to potential source unavailability
-- Asset information is completely missing, preventing financial transparency evaluation
-- MPLADS utilization data is unavailable, hampering development performance assessment
-- Committee participation data is absent due to potential Sansad profile issues
-- Legislative effectiveness data has low confidence ratings
-- Evidence grades are concerning: Parliament performance rated 'C' and accessibility rated 'D'
-
-These limitations substantially constrain the comprehensiveness and reliability of this transparency assessment.
-
-### Key Takeaway
-M K Vishnu Prasad's transparency profile is severely limited by extensive data gaps, particularly in asset disclosure and development fund utilization - two critical areas for public accountability. While available data suggests clean criminal records and moderate parliamentary activity, the numerous data quality warnings and missing information prevent a definitive assessment of his overall performance and transparency. The low accessibility grade and minimal media presence suggest limited public engagement, while systemic MPLADS issues identified in Tamil Nadu warrant particular scrutiny once fund utilization data becomes available.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 251,978,580. MPLADS utilization: 41.3%. Parliament attendance: 75.0%. Questions asked: 40. Debates participated: 10.
 
 ---
 
@@ -170,7 +136,7 @@ M K Vishnu Prasad's transparency profile is severely limited by extensive data g
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for M K Vishnu Prasad's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

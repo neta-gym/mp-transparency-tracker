@@ -3,32 +3,34 @@
 **Constituency:** Bangaon, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 42
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 27.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 3.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 23
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 23
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.34 Crore
+- **Liabilities:** Rs 1.72 Crore
+- **Net Worth:** Rs 1.62 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-Shantanu Thakur shows a mixed transparency profile with significant weaknesses in key governance areas. While maintaining a clean criminal record, his performance suffers from poor committee participation, minimal accessibility to constituents, and lack of legislative contributions. The moderate scores in MPLADS utilization and attendance suggest basic engagement but fall short of excellence.
+Shantanu Thakur has a below-average transparency score of 27.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shantanu Thakur
-
-### Overall Assessment
-Shantanu Thakur, BJP MP from Bangaon, West Bengal, presents a transparency profile with significant data gaps across most performance indicators. Currently serving as a Minister in the Lok Sabha, his profile lacks comprehensive financial, parliamentary, and development metrics typically available for public representatives. The available evidence grades range from C to D, indicating substantial limitations in data accessibility and reliability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context for West Bengal reveals systemic concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential oversight challenges that may affect local development initiatives.
-
-### Financial Transparency
-Asset declarations show no available data for current or previous financial holdings, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are unavailable, creating a complete transparency void in financial accountability. Monthly compensation stands at Rs 2.45 lakh, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Criminal record appears clean with zero cases across all categories - no pending cases, disposed matters, or convictions. However, this data carries a low confidence warning, suggesting potential source unavailability or incomplete record verification. While the clean record is positive, the data quality concerns limit definitive assessment.
-
-### Parliamentary Performance
-Parliamentary activity metrics are entirely missing, with no data on attendance rates, questions raised, debate participation, or private member bills. His ministerial status may partially explain lower attendance expectations due to executive responsibilities, but the complete absence of performance data prevents meaningful evaluation of legislative effectiveness. The evidence grade of 'C' for parliamentary data indicates significant reliability concerns.
-
-### Public Engagement & Accessibility
-News sentiment analysis reveals neutral coverage across 10 articles with zero positive or negative pieces, suggesting limited media engagement or public visibility. The accessibility evidence grade of 'D' indicates poor public information availability. No committee membership data exists, further limiting assessment of specialized parliamentary contributions. Social media presence appears minimal based on available sources.
-
-### Data Quality & Caveats
-Multiple automated flags highlight systematic data limitations: low confidence warnings for criminal records, assets, MPLADS utilization, and parliamentary activity. Committee information is completely unavailable, potentially indicating missing Sansad profile data. The overall evidence quality ranges from C to D grades, significantly limiting analytical reliability. Seven relevant CAG findings for West Bengal provide contextual background but don't specifically address this constituency.
-
-### Key Takeaway
-Shantanu Thakur's transparency profile is characterized by extensive data gaps rather than performance indicators, making comprehensive assessment impossible. While no negative findings emerge from available data, the systematic absence of key metrics across financial, developmental, and parliamentary domains represents a significant transparency deficit that limits public accountability evaluation.
+Has 23 criminal case(s) (0 serious), 23 pending, 0 conviction(s). Declared assets: Rs 33,411,607. MPLADS utilization: 4.1%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ Shantanu Thakur's transparency profile is characterized by extensive data gaps r
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shantanu Thakur's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

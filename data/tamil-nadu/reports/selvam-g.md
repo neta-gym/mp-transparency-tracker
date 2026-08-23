@@ -3,23 +3,25 @@
 **Constituency:** Kancheepuram, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 65.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 39.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.36 Crore
+- **Liabilities:** Rs 31.12 Lakh
+- **Net Worth:** Rs 2.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 21% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 49.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Selvam G demonstrates mixed transparency with strong attendance (95%) and clean criminal record, but significant gaps in legislative participation and public accessibility. The absence of committee involvement and extremely low accessibility scores are concerning, while MPLADS and asset disclosure performance remains average.
+Selvam G shows moderate transparency with a score of 65.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Selvam G
-
-### Overall Assessment
-Selvam G, representing Kancheepuram constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), demonstrates strong parliamentary attendance but faces significant transparency gaps across multiple governance dimensions. While his criminal record appears clean and parliamentary participation is robust, critical financial and developmental data remain unavailable, limiting comprehensive evaluation of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable for Selvam G, with no information on entitled amounts, releases, expenditure, or utilization percentages. This represents a critical transparency gap given that MPs are allocated ₹5 crore annually for constituency development. The absence of this data is particularly concerning given CAG audit findings highlighting systemic issues in Tamil Nadu, including ₹1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper supporting documentation. Without MPLADS transparency, constituents cannot assess how effectively their representative is addressing local development needs.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a fundamental transparency failure, as asset declarations are mandatory for all elected representatives under the Representation of People Act. The absence of this information prevents assessment of potential conflicts of interest or unexplained wealth accumulation. Selvam G receives a monthly compensation of ₹245,000, but without asset disclosure data, there is no baseline to evaluate financial propriety or compliance with disclosure requirements.
-
-### Legal & Criminal Standing
-Selvam G maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries low confidence ratings due to potential source unavailability, suggesting the clean record may reflect data gaps rather than verified absence of legal issues. While the available information suggests no criminal entanglements, the data quality warning necessitates cautious interpretation of this apparently positive indicator.
-
-### Parliamentary Performance
-Selvam G demonstrates strong parliamentary engagement with 95% attendance, significantly above typical averages. His legislative participation includes 73 questions raised and 5 debate contributions, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliamentary activity evidence grade of 'C' indicates moderate confidence in this data, while the absence of committee membership information due to unavailable Sansad profiles limits assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial positions, but may also indicate insufficient media engagement or regional coverage gaps. The accessibility evidence grade of 'D' indicates poor data availability for evaluating public engagement mechanisms, social media presence, or constituent interaction patterns. Without robust accessibility data, it's unclear how effectively Selvam G communicates with constituents or addresses their concerns.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to widespread data unavailability across critical transparency metrics. Warning flags indicate low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS utilization data. The lack of committee membership details and limited legislative effectiveness data further constrains comprehensive evaluation. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these data quality challenges. Sources include PRS data, social media monitoring, and news analysis, but gaps in official disclosure mechanisms limit analytical depth.
-
-### Key Takeaway
-While Selvam G demonstrates commendable parliamentary attendance and maintains an apparently clean legal record, critical transparency gaps across asset disclosure, MPLADS utilization, and public engagement severely limit comprehensive assessment of his effectiveness as a public representative. The absence of fundamental financial transparency data, combined with systemic fund utilization challenges highlighted in CAG audits, raises concerns about accountability mechanisms in his constituency. Improved data disclosure and transparency practices are essential for enabling meaningful evaluation of his governance performance.
+No criminal cases declared. Declared assets: Rs 23,615,126. MPLADS utilization: 49.0%. Parliament attendance: 95.0%. Questions asked: 73. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ While Selvam G demonstrates commendable parliamentary attendance and maintains a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Selvam G's MPLADS account: Released: Rs 19, Expended: Rs 9, Utilization: 49.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

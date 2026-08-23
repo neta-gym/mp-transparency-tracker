@@ -3,32 +3,32 @@
 **Constituency:** Rajahmundry, Andhra Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 4.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 62.50 Crore
+- **Liabilities:** Rs 6.99 Crore
+- **Net Worth:** Rs 55.52 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.0%
 
 ---
 
@@ -83,9 +84,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,42 +93,11 @@
 
 ## Qualitative Assessment
 
-D. Purandeswari shows moderate transparency with a 51/100 score, demonstrating strong criminal record disclosure and good attendance (85%). However, significant weaknesses exist in committee participation (0%), legislative activity (0%), and accessibility (10%), suggesting limited engagement in parliamentary processes and constituent outreach.
+D. Purandeswari shows moderate transparency with a score of 53.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: D. Purandeswari
-
-### Overall Assessment
-D. Purandeswari, representing Rajahmundry constituency in Andhra Pradesh for the Bharatiya Janata Party, presents a mixed transparency profile characterized by adequate parliamentary attendance but significant data gaps across key metrics. With an 85% attendance rate and active participation in parliamentary proceedings, she demonstrates reasonable legislative engagement. However, critical transparency areas including assets, MPLADS utilization, and criminal record verification show substantial data limitations that impede comprehensive assessment.
-
-### Fund Utilization & Development
-Complete data unavailability prevents assessment of D. Purandeswari's MPLADS fund utilization. No information is available regarding entitled amounts, releases, expenditures, or utilization percentages. This transparency gap is particularly concerning given CAG audit findings for Andhra Pradesh revealing systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data, constituents cannot evaluate her development project implementation or fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, representing a significant transparency deficiency. No data exists for current total assets, previous declarations, growth ratios, or net worth calculations. This prevents assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation stands at Rs 2,45,000, but without asset context, comprehensive financial transparency evaluation remains impossible.
-
-### Legal & Criminal Standing
-D. Purandeswari shows a clean criminal record with zero cases across all categories: no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability, suggesting the clean record may reflect data gaps rather than verified absence of legal issues. While the reported zero criminal cases is positive, the data quality concerns limit confidence in this assessment.
-
-### Parliamentary Performance
-D. Purandeswari demonstrates solid parliamentary engagement with 85% attendance, placing her above average for Lok Sabha members. She has raised 41 questions and participated in 6 debates, showing active involvement in legislative proceedings. However, she has not introduced any private member bills, indicating limited initiative in legislative drafting. The evidence grade of 'C' for parliamentary data suggests moderate confidence in these metrics, though specific committee participation data is unavailable due to potential Sansad profile accessibility issues.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles providing mixed/neutral coverage and no clearly positive or negative sentiment trends. This suggests limited public visibility or controversial positioning. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement metrics. Social media presence and direct constituent interaction patterns remain unassessed due to insufficient data, limiting evaluation of her responsiveness to public concerns.
-
-### Data Quality & Caveats
-Multiple critical data quality issues significantly impact this assessment's reliability. Key limitations include:
-- Low confidence warnings for criminal record, asset, and MPLADS data
-- Complete absence of committee participation information
-- Unavailable asset declarations and financial growth metrics  
-- Missing MPLADS utilization data despite CAG audit context availability
-- Limited legislative effectiveness data confidence
-
-These gaps appear systemic rather than selective, suggesting either data source unavailability or accessibility restrictions for this MP's profile.
-
-### Key Takeaway
-D. Purandeswari maintains adequate parliamentary attendance (85%) and demonstrates basic legislative participation through questions and debates. However, critical transparency gaps in asset disclosure, MPLADS utilization, and verified criminal record data severely limit comprehensive evaluation of her performance and accountability. The contrast between available parliamentary activity data and missing financial/development metrics suggests selective transparency that falls short of full public accountability standards expected from elected representatives.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 625,041,146. MPLADS utilization: 5.0%. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 6. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +137,7 @@ D. Purandeswari maintains adequate parliamentary attendance (85%) and demonstrat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for D. Purandeswari's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

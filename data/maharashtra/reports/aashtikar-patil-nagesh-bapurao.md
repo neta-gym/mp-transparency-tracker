@@ -6,23 +6,23 @@
 **Age:** 52
 **Education:** Graduate
 **Profession:** Agriculture And Business
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 52.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 21.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.66 Crore
-- **Immovable Assets:** Rs 6.40 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 8.06 Crore
 - **Liabilities:** Rs 88.67 Lakh
 - **Net Worth:** Rs 7.17 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 5
+- **Utilization Rate:** 26.6%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -95,42 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Aashtikar Patil shows a mixed transparency profile with notable strengths in maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure. However, significant weaknesses emerge in legislative activity, committee participation, and public accessibility, indicating limited engagement in core parliamentary functions and constituent outreach.
+Aashtikar Patil Nagesh Bapurao shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Aashtikar Patil Nagesh Bapurao
-
-### Overall Assessment
-Aashtikar Patil Nagesh Bapurao, the 52-year-old Shiv Sena (Uddhav Balasaheb Thackrey) MP from Hingoli, Maharashtra, presents a mixed transparency profile. While maintaining a clean criminal record and moderate parliamentary engagement, significant data gaps limit comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is unavailable, preventing evaluation of the MP's development fund utilization. This represents a critical transparency gap, particularly concerning given CAG audit findings revealing systemic issues in Maharashtra's fund management. The CAG 2010 audit identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper supporting documents. Additionally, 18% of sampled development works were abandoned or incomplete, highlighting the importance of transparent MPLADS reporting.
-
-### Financial Transparency
-The MP declares total assets of Rs 8.06 crore with a net worth of Rs 7.17 crore. However, the absence of previous asset declarations prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation stands at Rs 2.45 lakh. The asset disclosure appears complete but lacks comparative context for meaningful analysis.
-
-### Legal & Criminal Standing
-Aashtikar Patil maintains an exemplary criminal record with zero cases across all categories - no pending cases, disposed cases, or convictions. This clean legal standing represents a positive aspect of his public service profile and suggests adherence to legal standards expected of elected representatives.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels. The MP maintains 60% attendance in the Lok Sabha, which falls short of optimal participation levels. He has raised 43 questions, indicating some engagement with parliamentary inquiry processes. However, he has not participated in debates (0 recorded) or introduced private member bills (0), suggesting limited legislative initiative. Committee participation data is unavailable, preventing full assessment of his parliamentary contributions.
-
-### Public Engagement & Accessibility
-Public engagement metrics indicate limited digital presence and accessibility. News coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either limited media engagement or minimal newsworthy activities. The absence of significant positive coverage may indicate missed opportunities for highlighting constituency work or policy positions.
-
-### Data Quality & Caveats
-Several critical data quality issues affect this assessment:
-- MPLADS data carries low confidence ratings, with entitled, released, and expended amounts all unavailable
-- Committee membership information is missing, possibly due to unavailable Sansad profile data
-- Legislative effectiveness data has low confidence ratings
-- Previous asset declarations are absent, preventing growth analysis
-- Evidence grades vary: Criminal record (B), Assets (B), Parliament (C), and Accessibility (D)
-
-The Maharashtra CAG audit context provides 7 relevant findings, emphasizing the importance of transparent fund utilization reporting in the state.
-
-### Key Takeaway
-While Aashtikar Patil Nagesh Bapurao maintains a clean legal record and shows moderate parliamentary participation, significant transparency gaps - particularly in MPLADS utilization and committee work - limit public accountability assessment. His 60% attendance and question-raising activity demonstrate basic parliamentary engagement, but the absence of debate participation and legislative initiatives suggests room for enhanced representative effectiveness. The neutral media coverage and missing development fund data highlight the need for improved public communication and transparency in constituency development work.
+No criminal cases declared. Declared assets: Rs 80,585,824. MPLADS utilization: 26.6%. Parliament attendance: 60.0%. Questions asked: 43.
 
 ---
 
@@ -170,7 +139,7 @@ While Aashtikar Patil Nagesh Bapurao maintains a clean legal record and shows mo
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Aashtikar Patil Nagesh Bapurao's MPLADS account: Released: Rs 19, Expended: Rs 5, Utilization: 26.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

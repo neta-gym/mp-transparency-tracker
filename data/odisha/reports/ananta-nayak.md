@@ -6,61 +6,57 @@
 **Age:** 55
 **Education:** Others
 **Profession:** Social Worker
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| MPLADS Fund Utilization | 8.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 216 Date 31/10/2011, Keonjhar) 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 29.62 Lakh
-- **Immovable Assets:** Rs 55.24 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 84.86 Lakh
 - **Liabilities:** Rs 1.77 Lakh
 - **Net Worth:** Rs 83.10 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.2%
 
 ---
 
@@ -91,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -100,59 +95,11 @@
 
 ## Qualitative Assessment
 
-Ananta Nayak demonstrates mixed transparency performance with strong attendance (90%) and reasonable criminal background disclosure (80%), but faces significant challenges in committee participation (0%), legislative transparency (0%), and public accessibility (10%). While his MPLADS and asset disclosure meet basic standards at 50%, the low data confidence (37%) and multiple validation flags suggest incomplete or inconsistent reporting across key transparency metrics.
+Ananta Nayak shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ananta Nayak
-
-### Overall Assessment
-Ananta Nayak, BJP MP from Keonjhar, Odisha, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps. At 55, this social worker-turned-politician demonstrates reasonable legislative engagement with 90% attendance and moderate questioning activity. However, missing MPLADS data and limited accessibility information constrain a comprehensive assessment of his developmental impact.
-
-### Fund Utilization & Development
-**Critical Data Gap**: MPLADS utilization data is entirely unavailable (entitled: None, released: None, expended: None). This represents a significant transparency concern for a constituency development assessment. 
-
-**Systemic Context**: CAG audits highlight concerning trends in Odisha's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works remain abandoned or incomplete, suggesting potential challenges in Keonjhar's project execution environment.
-
-### Financial Transparency
-**Current Financial Position**: Nayak reports total assets of Rs 84.86 lakh with a net worth of Rs 83.10 lakh. His monthly compensation stands at Rs 2.45 lakh, consistent with standard MP remuneration.
-
-**Growth Analysis Limitation**: No previous asset declaration data is available, preventing assessment of wealth accumulation patterns or potential conflicts of interest. This baseline-only snapshot limits transparency evaluation regarding financial propriety during his tenure.
-
-### Legal & Criminal Standing
-**Pending Cases**: Nayak faces 2 pending criminal cases with no serious charges, convictions, or disposed cases. One case (Section 216, dated October 31, 2011, Keonjhar) lacks detailed description, limiting assessment of the nature and severity of allegations.
-
-**Risk Assessment**: The absence of serious charges and convictions suggests minimal immediate legal risk, though pending cases warrant monitoring for resolution and potential electoral implications.
-
-### Parliamentary Performance
-**Attendance**: Demonstrates strong commitment with 90% attendance, indicating consistent participation in legislative proceedings.
-
-**Legislative Activity**: Submitted 27 questions and participated in 6 debates, showing moderate engagement in parliamentary scrutiny and discussion. However, zero private member bills suggest limited initiative in independent legislative proposals.
-
-**Effectiveness Caveat**: Data confidence is rated 'C' for parliamentary performance, indicating potential gaps in comprehensive activity tracking.
-
-### Public Engagement & Accessibility
-**Severe Transparency Deficit**: Accessibility data receives a 'D' grade, indicating minimal available information about constituent outreach, public meetings, or grievance mechanisms.
-
-**Media Coverage**: Analysis of 10 news articles shows entirely neutral coverage with no positive or negative sentiment detected, suggesting either limited media attention or non-controversial public presence.
-
-**Committee Participation**: No committee data found, possibly due to unavailable Sansad profile information, limiting assessment of specialized legislative contributions.
-
-### Data Quality & Caveats
-**Source Reliability**: Information compiled from myneta, PRS, social media, and news sources with varying confidence levels:
-- Criminal record data: Grade B (reliable)
-- Asset information: Grade B (reliable)  
-- Parliamentary activity: Grade C (moderate confidence)
-- Accessibility measures: Grade D (poor data quality)
-
-**Critical Limitations**: 
-- Complete absence of MPLADS utilization data
-- Missing previous asset declarations
-- No committee participation records
-- Limited accessibility and public engagement metrics
-
-### Key Takeaway
-Ananta Nayak maintains acceptable parliamentary attendance and faces no serious criminal charges, but significant data gaps undermine comprehensive transparency assessment. The complete absence of MPLADS utilization information represents a critical accountability deficit, particularly concerning given systemic fund management issues identified by CAG audits in Odisha. While his legislative participation appears adequate, improved public disclosure of development fund utilization and constituent engagement activities would substantially enhance his transparency profile. Voters lack sufficient information to evaluate his constituency development effectiveness, highlighting the need for enhanced reporting mechanisms.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 8,486,265. MPLADS utilization: 11.2%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 6.
 
 ---
 
@@ -192,7 +139,7 @@ Ananta Nayak maintains acceptable parliamentary attendance and faces no serious 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -271,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ananta Nayak's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 11.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -290,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

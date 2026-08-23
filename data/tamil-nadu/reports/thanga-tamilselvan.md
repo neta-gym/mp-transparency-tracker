@@ -3,32 +3,34 @@
 **Constituency:** Theni, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 34.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 15.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 17
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 17
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.99 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.99 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 19.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,41 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Thanga Tamilselvan shows a mixed transparency profile with notable strengths in attendance (90%) and a clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency and development fund utilization.
+Thanga Tamilselvan has a below-average transparency score of 34.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Thanga Tamilselvan
-### Overall Assessment
-Thanga Tamilselvan, representing Theni constituency in Tamil Nadu under the Dravida Munnetra Kazhagam (DMK) party, presents a limited transparency profile due to significant data gaps across multiple accountability metrics. While maintaining a clean criminal record and demonstrating strong parliamentary attendance at 90%, comprehensive assessment is hindered by unavailable financial and development fund data.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic concerns in Tamil Nadu's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level findings underscore the importance of transparent MPLADS reporting, making the data absence particularly concerning.
-
-### Financial Transparency
-Complete absence of asset declaration data creates a significant transparency deficit. No information is available regarding total assets, previous asset values, growth ratios, or net worth. This data gap prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure. The MP's monthly compensation is reported at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-Thanga Tamilselvan maintains a clean legal record with zero criminal cases across all categories: total cases (0), serious cases (0), pending cases (0), disposed cases (0), and convictions (0). However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, requiring cautious interpretation of this positive indicator.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance commitment with a 90% participation rate in parliamentary sessions, significantly above average legislative engagement levels. Parliamentary activity includes 6 questions raised and participation in 3 debates, indicating moderate legislative engagement. No private member bills were introduced, which is typical for most MPs. The overall evidence grade for parliament activity is rated 'C', suggesting reasonable but not exceptional legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 news articles identified. The sentiment breakdown shows predominantly neutral coverage (9 articles), with 1 positive article and 0 negative articles. This suggests minimal media presence and limited public discourse around the MP's activities. The accessibility evidence grade of 'D' indicates poor public engagement metrics and limited digital or media presence.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- **Criminal Records**: Low confidence warning due to potentially unavailable sources
-- **Assets**: Low confidence in asset declaration data
-- **MPLADS**: Low confidence in development fund utilization data
-- **Committee Work**: No committee assignment data available
-- **Legislative Effectiveness**: Low confidence in comprehensive legislative assessment
-
-Evidence grading shows 'C' for parliamentary data and 'D' for accessibility measures. Data sources include parliamentary records (PRS), social media, and news coverage, but critical financial and development databases appear inaccessible.
-
-### Key Takeaway
-While Thanga Tamilselvan maintains clean legal standing and demonstrates strong parliamentary attendance, the severe lack of financial transparency and MPLADS data creates significant accountability gaps. The 90% attendance rate represents a positive engagement indicator, but absent asset declarations and development fund utilization data prevent comprehensive transparency assessment. Given Tamil Nadu's documented issues with fund management and utilization certificate irregularities identified in CAG audits, the unavailability of MPLADS data is particularly concerning for constituency development oversight.
+Has 17 criminal case(s) (0 serious), 17 pending, 0 conviction(s). Declared assets: Rs 49,850,594. MPLADS utilization: 19.0%. Parliament attendance: 90.0%. Questions asked: 6. Debates participated: 3.
 
 ---
 
@@ -168,7 +138,7 @@ While Thanga Tamilselvan maintains clean legal standing and demonstrates strong 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Thanga Tamilselvan's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 19.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -264,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

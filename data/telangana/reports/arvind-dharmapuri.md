@@ -3,32 +3,34 @@
 **Constituency:** Nizamabad, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 42.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 45.2 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 22
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 22
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 109.90 Crore
+- **Liabilities:** Rs 30.67 Crore
+- **Net Worth:** Rs 79.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 28
+- **Released:** Rs 28
+- **Sanctioned:** Rs 16
+- **Expended:** Rs 15
+- **Utilization Rate:** 53.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Arvind Dharmapuri demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and attendance, but significant weaknesses in committee participation, accessibility, and legislative contributions. The moderate MPLADS and asset disclosure scores, combined with zero committee involvement and minimal public accessibility, indicate limited overall transparency despite good parliamentary attendance.
+Arvind Dharmapuri has a below-average transparency score of 42.8/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Arvind Dharmapuri
-
-### Overall Assessment
-
-Arvind Dharmapuri, BJP MP from Nizamabad, Telangana, presents a mixed transparency profile characterized by solid parliamentary attendance but significant data gaps across multiple accountability metrics. With 85% attendance and moderate engagement through 34 questions and 2 debates, he demonstrates reasonable legislative participation. However, critical gaps in asset disclosure, MPLADS data, and committee information limit comprehensive assessment of his overall effectiveness and transparency.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is unavailable for Dharmapuri, preventing assessment of his development work effectiveness. This absence is concerning given CAG audit findings highlighting systemic issues in Telangana's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. With 18% of sampled works incomplete or abandoned, these findings underscore the importance of transparent MPLADS reporting, making Dharmapuri's missing data particularly problematic for accountability.
-
-### Financial Transparency
-
-Asset declaration data is completely unavailable, preventing any assessment of Dharmapuri's financial transparency. No information exists on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is fundamental to evaluating potential conflicts of interest and financial accountability. His monthly compensation is documented at Rs 2,45,000, which aligns with standard MP compensation structures.
-
-### Legal & Criminal Standing
-
-Dharmapuri shows a clean legal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, indicating potential source unavailability. While the reported clean record is positive, the data quality caveat suggests this assessment should be treated cautiously pending verification from reliable sources.
-
-### Parliamentary Performance
-
-Dharmapuri demonstrates solid parliamentary engagement with 85% attendance, significantly above average for many MPs. He has raised 34 questions in Parliament, indicating active constituency representation and policy engagement. His participation in 2 debates shows some involvement in legislative discussions, though this level is relatively modest. Notably, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable, representing a gap in understanding his specialized policy contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public visibility with only 10 articles identified. The coverage breakdown shows neutral sentiment dominance (9 neutral articles) with minimal negative coverage (1 article) and no explicitly positive coverage. This suggests low media engagement and potentially limited public outreach. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. No social media engagement data is available, further limiting assessment of constituent communication efforts.
-
-### Data Quality & Caveats
-
-This assessment faces significant data quality limitations that substantially impact reliability. Critical warnings include low confidence in criminal record data due to potential source unavailability, and complete absence of asset disclosure information. MPLADS data is entirely missing, preventing evaluation of development fund utilization. Committee membership information is unavailable, with indications that the MP's Sansad profile may be inaccessible. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these data quality concerns. These limitations necessitate cautious interpretation of findings and highlight the need for improved data transparency.
-
-### Key Takeaway
-
-While Arvind Dharmapuri maintains good parliamentary attendance and shows reasonable legislative participation through questions and debates, his transparency profile is severely hampered by critical data gaps in asset disclosure, MPLADS utilization, and committee work. The clean criminal record is encouraging but requires verification given data quality warnings. His limited media presence and poor accessibility rating suggest insufficient public engagement. Until comprehensive data becomes available, stakeholders cannot fully assess his effectiveness as a public representative, highlighting systemic transparency challenges that need urgent attention.
+Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared assets: Rs 1,099,020,273. MPLADS utilization: 53.4%. Parliament attendance: 85.0%. Questions asked: 34. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ While Arvind Dharmapuri maintains good parliamentary attendance and shows reason
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Arvind Dharmapuri's MPLADS account: Released: Rs 28, Expended: Rs 15, Utilization: 53.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

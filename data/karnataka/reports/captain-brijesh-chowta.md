@@ -3,32 +3,34 @@
 **Constituency:** Dakshina Kannada, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 42
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.8 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 70.56 Lakh
+- **Liabilities:** Rs 9.62 Lakh
+- **Net Worth:** Rs 60.94 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Captain Brijesh Chowta shows a mixed transparency profile with strong attendance (90%) and clean criminal record (100%), but significant gaps in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with very low data confidence (14%) and multiple validation flags, suggest incomplete information availability that hampers a comprehensive transparency evaluation.
+Captain Brijesh Chowta shows moderate transparency with a score of 56.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Captain Brijesh Chowta
-
-### Overall Assessment
-Captain Brijesh Chowta, BJP MP from Dakshina Kannada constituency in Karnataka, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key governance areas. While maintaining clean criminal records and demonstrating consistent legislative participation, critical information regarding asset declarations and MPLADS fund utilization remains unavailable, limiting comprehensive assessment of his developmental impact.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This data gap is concerning given the CAG's 2010 audit findings highlighting systemic issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without current MPLADS data, it's impossible to assess whether Captain Chowta's constituency benefits from effective development fund deployment or faces similar systemic challenges identified by the CAG.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The absence of this fundamental financial disclosure information makes it impossible to evaluate potential conflicts of interest or track wealth accumulation during his tenure. His monthly compensation is recorded at Rs 2,45,000.
-
-### Legal & Criminal Standing
-Captain Chowta maintains a clean criminal record with zero cases across all categories - no total cases, serious offenses, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating due to potential source unavailability, suggesting the information may not be completely reliable or up-to-date.
-
-### Parliamentary Performance
-Captain Chowta demonstrates strong parliamentary engagement with 90% attendance, significantly above average legislative participation. His parliamentary activity includes 24 questions raised and 7 debate participations, indicating active involvement in legislative processes. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The parliament activity data carries a 'C' grade for evidence quality, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows neutral public engagement with 10 news articles, all classified as neutral with no positive or negative sentiment detected. This suggests limited media visibility or controversial issues. However, accessibility data receives a 'D' grade, indicating poor evidence quality. No committee membership information is available, which limits assessment of his specialized legislative contributions and stakeholder engagement.
-
-### Data Quality & Caveats
-This assessment faces significant data quality challenges across multiple domains. Criminal record data has low confidence due to source unavailability. Asset information is entirely missing, raising transparency concerns. MPLADS data is unavailable despite being crucial for evaluating developmental impact. Committee membership data is absent, limiting evaluation of specialized legislative work. The evidence grading system shows 'C' grade for parliament data and 'D' grade for accessibility, indicating substantial reliability concerns.
-
-### Key Takeaway
-Captain Brijesh Chowta demonstrates commitment to parliamentary duties with strong attendance and active question-raising, while maintaining clean legal standing. However, critical transparency gaps in asset declarations and MPLADS utilization severely limit comprehensive assessment of his governance effectiveness. The absence of development fund data is particularly concerning given Karnataka's documented issues with fund management highlighted in CAG audits. Improved data availability and transparency mechanisms are essential for meaningful public accountability evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 7,056,365. MPLADS utilization: 24.8%. Parliament attendance: 90.0%. Questions asked: 24. Debates participated: 7.
 
 ---
 
@@ -162,7 +138,7 @@ Captain Brijesh Chowta demonstrates commitment to parliamentary duties with stro
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Captain Brijesh Chowta's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

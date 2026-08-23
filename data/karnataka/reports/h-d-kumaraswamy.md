@@ -3,32 +3,32 @@
 **Constituency:** Mandya, Karnataka
 **Party:** Janata Dal (Secular)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 45.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 21.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 217.23 Crore
+- **Liabilities:** Rs 82.19 Crore
+- **Net Worth:** Rs 135.04 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 27.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +93,11 @@
 
 ## Qualitative Assessment
 
-H D Kumaraswamy shows a mixed transparency profile with significant weaknesses in legislative participation and committee engagement. While maintaining a clean criminal record, his overall transparency is hampered by poor committee attendance, minimal accessibility to constituents, and lack of legislative contributions. His moderate performance in MPLADS utilization and asset disclosure suggests basic compliance but lacks proactive transparency measures.
+H D Kumaraswamy has a below-average transparency score of 45.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: H D Kumaraswamy
-
-### Overall Assessment
-H D Kumaraswamy, representing Mandya constituency in Karnataka for Janata Dal (Secular), presents a transparency profile with significant data gaps across most key indicators. While maintaining a clean criminal record, the absence of critical information regarding assets, parliamentary performance, and development fund utilization raises concerns about overall accountability and transparency. His ministerial role may explain some performance metrics but does not account for the widespread data unavailability.
-
-### Fund Utilization & Development
-MPLADS data for Kumaraswamy is entirely unavailable, preventing assessment of his development fund management. The CAG audit context for Karnataka reveals systemic issues that may affect his constituency: Rs 1,558 crore in idle funds across state district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS figures, it's impossible to determine whether these broader state-level inefficiencies impact Mandya's development projects.
-
-### Financial Transparency
-Asset disclosure information is completely missing from available records. No data exists regarding total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data makes it impossible to assess potential conflicts of interest or evaluate wealth accumulation patterns during his tenure. His monthly compensation is documented at Rs 2,45,000, but without baseline asset information, comprehensive financial accountability cannot be established.
-
-### Legal & Criminal Standing
-Kumaraswamy maintains an exemplary legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems. Despite this caveat, the available evidence indicates no apparent legal impediments to his continued service.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely unavailable, including attendance rates, questions asked, debate participation, and private member bills introduced. While his ministerial status could legitimately impact attendance due to executive responsibilities, the complete absence of performance metrics prevents meaningful evaluation of his legislative effectiveness. Zero recorded questions and debate participation, if accurate, would indicate minimal parliamentary engagement beyond ministerial duties.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 articles providing balanced coverage - no positive or negative sentiment detected in available sources. This suggests limited controversial positions but also potentially minimal public visibility. Committee participation data is unavailable, preventing assessment of his engagement in parliamentary oversight functions. The evidence grade for accessibility is poor (D), indicating significant gaps in public-facing transparency.
-
-### Data Quality & Caveats
-This analysis faces substantial limitations due to widespread data unavailability. Warning flags indicate low confidence across criminal records, assets, MPLADS utilization, and parliamentary activity. Committee and legislative effectiveness data are entirely missing. Evidence grades are poor for both parliamentary performance (C) and accessibility (D). The absence of Sansad profile data suggests systematic issues with official record maintenance. These gaps significantly compromise the reliability of any comprehensive assessment.
-
-### Key Takeaway
-H D Kumaraswamy's transparency profile is characterized by extensive data gaps rather than negative indicators. While maintaining a clean criminal record, the absence of critical information regarding financial assets, development fund utilization, and parliamentary performance creates significant accountability concerns. His ministerial role may explain some limitations but cannot justify the systematic unavailability of basic transparency metrics. Improved data disclosure and record maintenance are essential for meaningful public accountability assessment.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 2,172,328,789. MPLADS utilization: 27.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +137,7 @@ H D Kumaraswamy's transparency profile is characterized by extensive data gaps r
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for H D Kumaraswamy's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 27.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

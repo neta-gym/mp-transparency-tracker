@@ -3,23 +3,25 @@
 **Constituency:** Sreerampur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 42.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 30.55 Crore
+- **Liabilities:** Rs 13.60 Lakh
+- **Net Worth:** Rs 30.41 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 81% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 51.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,45 +94,11 @@
 
 ## Qualitative Assessment
 
-Kalyan Banerjee shows a mixed transparency profile with moderate performance in MPLADS utilization and attendance, but significant gaps in committee participation, accessibility, and legislative activities. While maintaining a clean criminal record, the very low data confidence (14%) and multiple validation flags suggest incomplete information availability.
+Kalyan Banerjee shows moderate transparency with a score of 62.1/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Kalyan Banerjee
-
-### Overall Assessment
-
-Kalyan Banerjee, representing Sreerampur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining reasonable parliamentary attendance at 85%, substantial missing information across asset declaration, MPLADS utilization, and criminal background checks raises concerns about data availability and transparency metrics. The evidence quality grades (Parliament: C, Accessibility: D) reflect these limitations in available information.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings for West Bengal highlighting systemic issues in fund management. The CAG's 2010 audit revealed Rs 1,558 crore in idle funds across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Banerjee's constituency, it's impossible to assess his development fund management effectiveness.
-
-### Financial Transparency
-
-Asset declaration information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation or potential conflicts of interest. The monthly compensation is listed at Rs 2,45,000, which appears to be standard parliamentary remuneration. However, without baseline asset information, comprehensive financial transparency evaluation remains impossible.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, automated flags indicate "low confidence in criminal data" due to potentially unavailable sources, necessitating cautious interpretation of this apparently clear record. The warning suggests that absence of reported cases may reflect data collection issues rather than definitively clean legal standing.
-
-### Parliamentary Performance
-
-Banerjee demonstrates adequate parliamentary engagement with 85% attendance, placing him above average compared to typical Lok Sabha attendance rates. His participation includes 11 questions raised and 12 debates participated in, indicating active legislative involvement. However, he has introduced zero private member bills, suggesting limited initiative in independent legislative proposals. No committee participation data is available, limiting assessment of his specialized parliamentary work. The C-grade evidence quality for parliamentary data suggests moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-
-Public engagement assessment faces severe limitations due to missing data across multiple indicators. The accessibility evidence grade of D reflects poor data availability for measuring public interaction. News sentiment analysis covers only 10 articles, all classified as neutral, providing limited insight into public perception or media coverage patterns. The small sample size of news coverage suggests either limited media attention or incomplete data collection, hampering assessment of public engagement effectiveness.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight significant data reliability concerns. Asset data carries low confidence warnings, MPLADS information is similarly flagged for reliability issues, and criminal record data faces source availability concerns. Committee participation information is entirely absent due to potentially unavailable Sansad profiles. These data gaps substantially limit the reliability of this transparency assessment and suggest systemic issues in information collection or disclosure processes.
-
-The West Bengal-specific CAG audit context provides relevant background on state-level fund management challenges, though direct application to individual MP performance requires caution. Evidence quality grades (Parliament: C, Accessibility: D) reflect moderate to poor confidence levels in available data.
-
-### Key Takeaway
-
-Kalyan Banerjee's transparency profile remains largely opaque due to extensive data gaps across critical assessment areas. While available information suggests reasonable parliamentary attendance and clean criminal standing, the absence of asset declarations, MPLADS utilization data, and limited public engagement metrics prevents meaningful transparency evaluation. The numerous data quality warnings indicate either significant disclosure gaps or systematic data collection failures, highlighting the need for improved transparency mechanisms and data availability for comprehensive MP assessment.
+No criminal cases declared. Declared assets: Rs 305,479,471. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Questions asked: 11. Debates participated: 12.
 
 ---
 
@@ -172,7 +138,7 @@ Kalyan Banerjee's transparency profile remains largely opaque due to extensive d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -251,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kalyan Banerjee's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

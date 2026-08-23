@@ -3,23 +3,25 @@
 **Constituency:** Dindori, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 12.6 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.75 Crore
+- **Liabilities:** Rs 24.44 Lakh
+- **Net Worth:** Rs 1.50 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 15.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Bhaskar Murlidhar Bhagare shows a mixed transparency profile with significant areas of concern. While maintaining excellent attendance (95%) and having no criminal background, he demonstrates poor performance in key transparency areas including zero committee participation, minimal accessibility to constituents, and no legislative activity. The moderate MPLADS and assets disclosure scores, combined with very low data confidence (14%), suggest limited public information availability.
+Bhaskar Murlidhar Bhagare shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bhaskar Murlidhar Bhagare
-
-### Overall Assessment
-Bhaskar Murlidhar Bhagare, representing Dindori constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile. While his parliamentary attendance is exemplary at 95%, critical financial and asset disclosure data is entirely missing, severely limiting comprehensive assessment. The MP demonstrates active engagement in legislative questioning but shows minimal participation in parliamentary debates.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with all key metrics (entitled, released, expended amounts and utilization percentage) showing as "None." This absence of data is particularly concerning given Maharashtra's documented issues with fund management. CAG audit findings from 2010 reveal systemic problems including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting the critical need for transparent MPLADS reporting.
-
-### Financial Transparency
-Financial transparency is severely compromised with complete absence of asset disclosure data. Both current and previous asset values are listed as "None," making it impossible to assess the MP's wealth growth, potential conflicts of interest, or compliance with disclosure requirements. The growth ratio and net worth calculations cannot be performed due to missing baseline data. Monthly compensation is recorded at Rs 2,45,000, but without asset context, comprehensive financial oversight remains impossible.
-
-### Legal & Criminal Standing
-Bhagare maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential gaps in source availability or verification. While the clean record is positive, the data quality caveat requires acknowledgment.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong attendance (95%) coupled with active questioning behavior, having raised 65 questions during the assessed period. However, debate participation remains limited at just 4 contributions, and no private member bills have been introduced. This pattern suggests focused constituency-oriented inquiry work but limited broader legislative initiative or policy discourse participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles with entirely neutral sentiment - no positive or negative coverage identified. This neutral media profile, while avoiding controversy, may indicate limited public visibility or newsworthy developmental initiatives. The accessibility evidence grade of 'D' suggests poor public engagement metrics, potentially limiting constituent connection and feedback mechanisms.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly impact this assessment's reliability. Asset information carries low confidence warnings, criminal record data shows source availability issues, and MPLADS utilization data is completely absent. Parliamentary data receives a 'C' grade, while accessibility scores 'D'. Committee membership information is entirely missing, suggesting Sansad profile unavailability. These gaps, particularly in financial and development fund areas, severely limit comprehensive transparency evaluation.
-
-### Key Takeaway
-While Bhagare maintains excellent parliamentary attendance and demonstrates no criminal record concerns, his transparency profile is fundamentally compromised by complete absence of asset disclosure and MPLADS utilization data. Given Maharashtra's documented fund management challenges highlighted in CAG audits, the missing MPLADS information is particularly concerning for constituents seeking development accountability. The MP would significantly benefit from improved financial disclosure practices and enhanced public engagement strategies to meet basic transparency standards expected of elected representatives.
+No criminal cases declared. Declared assets: Rs 17,450,827. MPLADS utilization: 15.8%. Parliament attendance: 95.0%. Questions asked: 65. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ While Bhagare maintains excellent parliamentary attendance and demonstrates no c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhaskar Murlidhar Bhagare's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 15.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

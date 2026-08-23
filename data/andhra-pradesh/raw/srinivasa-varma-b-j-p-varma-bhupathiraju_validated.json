@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": null,
-    "photo_url": null
+    "photo_url": "/mp-photos/5745.jpg"
   },
   "findings": {
     "mp": {
@@ -32,7 +32,7 @@
       "education": null,
       "profession": null,
       "age": null,
-      "photo_url": null
+      "photo_url": "/mp-photos/5745.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,52 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 71664809.0,
+      "liabilities": 16926961.0,
+      "net_worth": 54737848.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 50.1,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 1.2,
+      "expended": 0.0,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.849473Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:27:14.352665Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:27:14.350759Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T18:21:17.453650Z",
+          "notes": "Official eSAKSHI REST API — Works: 1 recommended, 1 sanctioned, 0 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 1,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 0.0
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -129,12 +115,14 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:28:16.849664Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +137,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856245Z",
+          "fetched_at": "2026-08-23T16:44:13.393749Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +153,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856263Z",
+          "fetched_at": "2026-08-23T16:44:13.393761Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856272Z",
+          "fetched_at": "2026-08-23T16:44:13.393768Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +185,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856280Z",
+          "fetched_at": "2026-08-23T16:44:13.393773Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +201,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856288Z",
+          "fetched_at": "2026-08-23T16:44:13.393780Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +217,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856295Z",
+          "fetched_at": "2026-08-23T16:44:13.393785Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:28:16.856302Z",
+          "fetched_at": "2026-08-23T16:44:13.393791Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,23 +388,11 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.07,
+  "overall_confidence": 0.43,
   "flags": [
     {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
       "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
+      "issue": "Extremely low utilization rate — verify data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -445,39 +421,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Srinivasa Varma B J P Varma Bhupathiraju\n\n### Overall Assessment\nMP Srinivasa Varma B J P Varma Bhupathiraju represents Narsapuram constituency in Andhra Pradesh for the Bharatiya Janata Party in the Lok Sabha. This assessment reveals significant data gaps across all transparency metrics, making it challenging to evaluate his performance comprehensively. The available information shows a clean criminal record and ministerial status, but lacks crucial details on financial transparency and parliamentary engagement.\n\n### Fund Utilization & Development\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Bhupathiraju, including entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPs are typically entitled to ₹5 crore annually for constituency development. The CAG audit context reveals systemic issues in Andhra Pradesh, including ₹1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about fund utilization effectiveness in the state.\n\n### Financial Transparency\nAsset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly hampers transparency assessment. The MP's monthly compensation is listed at ₹2,45,000, which appears consistent with standard parliamentary compensation structures. However, without baseline asset information, it's impossible to evaluate potential conflicts of interest or wealth accumulation patterns.\n\n### Legal & Criminal Standing\nMP Bhupathiraju maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potential source unavailability, suggesting this assessment should be viewed with caution.\n\n### Parliamentary Performance\nParliament activity data shows concerning gaps, with attendance percentage, question submissions, debate participation, and private bill introductions all listed as unavailable or zero. The MP holds ministerial status, which may legitimately impact attendance patterns due to executive responsibilities. However, the complete absence of quantifiable parliamentary engagement metrics, combined with a 'C' grade evidence rating for parliamentary data, suggests either poor data collection or minimal legislative activity.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests limited public visibility or controversial issues. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee participation data is available, and social media presence appears limited based on the available sources.\n\n### Data Quality & Caveats\nThis assessment faces significant methodological limitations. Automated flags indicate low confidence across criminal records, assets, MPLADS, and parliamentary activity data. The absence of committee information suggests the MP's Sansad profile may be unavailable. Evidence grades show moderate confidence in parliamentary data (C) but poor accessibility data (D). These substantial data gaps mean this assessment cannot definitively evaluate the MP's transparency or effectiveness. The CAG audit context provides relevant systemic insights for Andhra Pradesh but doesn't specifically address this MP's performance.\n\n### Key Takeaway\nMP Srinivasa Varma B J P Varma Bhupathiraju's transparency profile cannot be adequately assessed due to pervasive data unavailability across financial, parliamentary, and development metrics. While he maintains a clean legal record and holds ministerial position, the absence of crucial transparency indicators - including asset declarations, MPLADS utilization, and parliamentary engagement statistics - represents a significant accountability gap that voters and oversight bodies should address.",
-  "validated_at": "2026-05-21T14:28:37.514933Z",
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 1.2,
-    "expended": 0.0,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T18:21:17.453650Z",
-        "notes": "Official eSAKSHI REST API — Works: 1 recommended, 1 sanctioned, 0 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 1,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 0.0
-  },
-  "evidence_summary": {
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "mplads"
-  ]
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 71,664,809. MPLADS utilization: 0.0%. Low confidence data: Parliament activity. 2 warning(s) noted.",
+  "validated_at": "2026-08-23T16:44:13.394719Z"
 }

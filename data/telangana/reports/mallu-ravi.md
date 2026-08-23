@@ -3,32 +3,34 @@
 **Constituency:** Nagarkurnool, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 73
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 47.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 24.1 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 52.32 Crore
+- **Liabilities:** Rs 4.79 Crore
+- **Net Worth:** Rs 47.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 4
+- **Utilization Rate:** 30.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Mallu Ravi shows a mixed transparency profile with strong performance in criminal record disclosure (100%) and parliamentary attendance (90%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate scores in MPLADS utilization and asset disclosure suggest room for improvement in financial transparency.
+Mallu Ravi has a below-average transparency score of 47.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mallu Ravi
-
-### Overall Assessment
-Mallu Ravi, the Indian National Congress MP from Nagarkurnool constituency in Telangana, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining strong parliamentary attendance (90%), the absence of critical financial and developmental data raises questions about accountability and transparency in his representation.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG audit findings for Telangana that highlight systemic issues with fund management. The audit revealed Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled developmental works were either abandoned or incomplete, suggesting potential inefficiencies in fund deployment that may affect Nagarkurnool constituency.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents assessment of potential conflicts of interest or wealth accumulation patterns during his tenure. The MP's monthly compensation is documented at Rs 245,000, representing the standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Mallu Ravi maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, this data carries low confidence warnings, indicating potential gaps in criminal record verification systems that may affect the reliability of this assessment.
-
-### Parliamentary Performance
-The MP demonstrates strong engagement in parliamentary proceedings with 90% attendance, significantly above average parliamentary participation rates. His legislative activity includes 8 questions raised and participation in 5 debates, indicating active involvement in parliamentary discussions. However, he has not introduced any private member bills, which could indicate limited initiative in proposing new legislation. No committee membership data is available, preventing evaluation of his contribution to specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified over the assessment period. The coverage breakdown shows predominantly neutral reporting (9 articles) with one negative article and no positive coverage, suggesting minimal media attention or public discourse around his work. This limited media presence may indicate either low-profile governance or insufficient public communication efforts. Evidence grades show particularly poor accessibility (Grade D), highlighting challenges in public engagement and information availability.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Critical warnings include low confidence in criminal record data due to source unavailability, complete absence of asset information, and missing MPLADS data. Committee participation information is unavailable due to potential Sansad profile gaps, and legislative effectiveness data carries low confidence ratings. The evidence quality grades (Parliament: C, Accessibility: D) reflect these substantial data limitations. These gaps significantly constrain comprehensive transparency evaluation and may indicate broader systemic issues with information disclosure.
-
-### Key Takeaway
-While Mallu Ravi maintains strong parliamentary attendance and a clean legal record, his transparency profile is severely compromised by critical data gaps in financial disclosure, development fund utilization, and public engagement metrics. The absence of MPLADS data is particularly concerning given documented systemic fund management issues in Telangana. Voters and oversight bodies should demand greater transparency in asset disclosure and development fund utilization to enable proper accountability assessment of his representation effectiveness in Nagarkurnool constituency.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 523,215,816. MPLADS utilization: 30.1%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ While Mallu Ravi maintains strong parliamentary attendance and a clean legal rec
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mallu Ravi's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 30.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

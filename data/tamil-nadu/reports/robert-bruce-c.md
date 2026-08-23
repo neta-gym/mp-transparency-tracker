@@ -3,32 +3,34 @@
 **Constituency:** Tirunelveli, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 22.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.27 Crore
+- **Liabilities:** Rs 10.22 Lakh
+- **Net Worth:** Rs 9.16 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,45 +94,11 @@
 
 ## Qualitative Assessment
 
-Robert Bruce C demonstrates mixed transparency with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. The moderate MPLADS and assets transparency, combined with zero scores in committee work and legislative contributions, suggests limited overall accountability.
+Robert Bruce C shows moderate transparency with a score of 55.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Robert Bruce C
-
-### Overall Assessment
-Robert Bruce C, Indian National Congress MP from Tirunelveli constituency in Tamil Nadu, presents a mixed transparency profile with significant data limitations. While maintaining clean legal standing and strong parliamentary attendance (90%), critical financial and asset information is largely unavailable, hampering comprehensive assessment of his transparency credentials.
-
-### Fund Utilization & Development
-No MPLADS fund data is available for evaluation, including entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS is a key mechanism for constituency development. The absence of this data prevents assessment of the MP's effectiveness in delivering development projects to Tirunelveli.
-
-CAG audit findings raise systemic concerns about fund utilization in Tamil Nadu, with ₹1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's unclear how these state-level issues might affect Robert Bruce C's constituency work.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, including current net worth, previous asset values, and growth trajectories. This absence prevents assessment of potential wealth accumulation patterns or conflicts of interest. The MP receives standard parliamentary compensation of ₹2.45 lakh monthly, but without asset declarations, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Robert Bruce C maintains a clean legal record with zero criminal cases across all categories—no pending cases, serious charges, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. The clean record, if accurate, represents a positive transparency indicator.
-
-### Parliamentary Performance
-The MP demonstrates strong parliamentary engagement with 90% attendance, significantly above typical averages. Legislative activity shows moderate participation with 12 questions raised and 4 debate contributions, though no private member bills were introduced. The absence of committee membership data limits assessment of his broader parliamentary contributions beyond floor activities.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 articles identified over the assessment period. The coverage breakdown shows minimal polarization (1 positive, 1 negative, 8 neutral), suggesting low-profile public presence rather than controversial positioning. This limited media footprint may indicate either effective non-controversial governance or insufficient public visibility.
-
-Social media and accessibility data are insufficient for meaningful evaluation, receiving a 'D' grade for accessibility metrics. This suggests limited digital engagement with constituents, potentially impacting transparency and public communication.
-
-### Data Quality & Caveats
-This assessment faces significant data quality challenges across multiple domains:
-- **Critical gaps**: Asset declarations and MPLADS data completely unavailable
-- **Low confidence warnings**: Criminal records, asset information, and MPLADS data reliability questioned
-- **Missing information**: Committee memberships, legislative effectiveness metrics, and comprehensive accessibility data unavailable
-- **Evidence grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-The Sansad profile appears unavailable, limiting access to official parliamentary records. These limitations substantially constrain the reliability of this transparency assessment.
-
-### Key Takeaway
-Robert Bruce C presents a partially transparent profile hampered by critical data unavailability. While positive indicators include clean legal standing and strong parliamentary attendance, the absence of financial disclosures and development fund utilization data creates significant transparency blind spots. The MP's low public profile may reflect either effective quiet governance or insufficient constituent engagement. Comprehensive transparency assessment requires improved data availability, particularly regarding asset declarations and MPLADS fund utilization, which are fundamental to evaluating elected representative accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 92,662,888. MPLADS utilization: 28.1%. Parliament attendance: 90.0%. Questions asked: 12. Debates participated: 4.
 
 ---
 
@@ -172,7 +138,7 @@ Robert Bruce C presents a partially transparent profile hampered by critical dat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -251,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Robert Bruce C's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Firozpur, Punjab
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 61.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 45.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.12 Crore
+- **Liabilities:** Rs 43.78 Lakh
+- **Net Worth:** Rs 8.68 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 8
+- **Utilization Rate:** 53.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Sher Singh Ghubaya shows a mixed transparency profile with significant gaps in key areas. While maintaining perfect criminal record disclosure and good attendance, he performs poorly in committee participation, legislative activity, and public accessibility. The low data confidence of 14% and multiple validation flags suggest incomplete or unreliable information availability.
+Sher Singh Ghubaya shows moderate transparency with a score of 61.6/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Sher Singh Ghubaya
-
-### Overall Assessment
-Sher Singh Ghubaya, Indian National Congress MP from Firozpur, Punjab, presents a transparency profile characterized by significant data gaps across most accountability metrics. While his clean criminal record and neutral media coverage suggest basic integrity, the absence of critical financial and developmental data severely limits comprehensive assessment of his parliamentary effectiveness and stewardship of public resources.
-
-### Fund Utilization & Development
-No MPLADS data is available for MP Ghubaya, making it impossible to assess his utilization of the ₹5 crore annual constituency development allocation. This data gap is particularly concerning given the CAG's identification of systemic issues in Punjab's fund utilization, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also found 18% of sampled works were abandoned or incomplete, highlighting the critical need for transparent MPLADS reporting.
-
-### Financial Transparency
-Asset declaration data is entirely unavailable, preventing any assessment of the MP's financial holdings, growth patterns, or potential conflicts of interest. This absence of basic wealth transparency information represents a significant gap in public accountability. The MP's monthly compensation is recorded at ₹2,45,000, consistent with standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-MP Ghubaya maintains a clean criminal record with zero cases across all categories—no pending cases, disposed cases, serious charges, or convictions. However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting this clean record should be verified through additional channels.
-
-### Parliamentary Performance
-Ghubaya demonstrates moderate parliamentary engagement with 85% attendance, exceeding the typical benchmark for active participation. His legislative activity shows limited output with 10 questions raised, 4 debate participations, and zero private member bills introduced. This level of activity suggests basic fulfillment of parliamentary duties but indicates room for more proactive legislative engagement. No committee membership data is available, preventing assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment—no positive or negative coverage detected. This neutral profile suggests either limited public visibility or balanced reporting. The absence of strong media engagement may indicate reduced public outreach or limited controversial positions. Social media and direct accessibility metrics are not provided in the available data.
-
-### Data Quality & Caveats
-The transparency assessment faces severe limitations due to multiple data quality warnings. Criminal record confidence is flagged as low, asset information is completely unavailable, and MPLADS data is missing entirely. Committee participation data is absent, likely due to unavailable Sansad profile information. Legislative effectiveness assessment carries low confidence ratings. These gaps significantly compromise the ability to provide a comprehensive accountability evaluation. The evidence quality receives a 'C' grade for parliament activity and 'D' grade for accessibility, indicating substantial room for improvement in data availability.
-
-### Key Takeaway
-While MP Ghubaya maintains basic parliamentary attendance and a clean legal record, the extensive absence of financial, developmental, and detailed performance data prevents meaningful assessment of his effectiveness as a public representative. The critical gaps in MPLADS utilization data are particularly concerning given Punjab's documented fund management challenges identified in CAG audits. Voters and stakeholders require substantially more transparent reporting across asset declarations, development fund utilization, and detailed parliamentary contributions to make informed assessments of his public service delivery.
+No criminal cases declared. Declared assets: Rs 91,161,885. MPLADS utilization: 53.6%. Parliament attendance: 85.0%. Questions asked: 10. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Ghubaya maintains basic parliamentary attendance and a clean legal reco
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sher Singh Ghubaya's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 53.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

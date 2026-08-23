@@ -3,23 +3,25 @@
 **Constituency:** Barmer, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 30.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.28 Crore
+- **Liabilities:** Rs 6.62 Crore
+- **Net Worth:** Rs 12.65 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 38.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Ummeda Ram Beniwal demonstrates mixed transparency performance with a below-average overall score of 52.5/100. While showing perfect attendance and clean criminal record, the MP faces significant challenges in committee participation, legislative activity, and public accessibility, with particularly concerning gaps in committee work and constituent engagement.
+Ummeda Ram Beniwal shows moderate transparency with a score of 62.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ummeda Ram Beniwal
-
-### Overall Assessment
-
-Ummeda Ram Beniwal, Indian National Congress MP representing Barmer constituency in Rajasthan, presents a transparency profile with significant data gaps that limit comprehensive evaluation. While demonstrating perfect parliamentary attendance and active questioning behavior, critical information regarding assets, MPLADS utilization, and criminal record verification remains unavailable or unreliable.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, preventing assessment of constituency development fund utilization. This is particularly concerning given the CAG audit findings for Rajasthan, which identified systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without MPLADS data, it's impossible to determine if Beniwal's fund management aligns with or deviates from these concerning state-wide patterns. The MP's monthly compensation totals Rs 245,000, but transparency regarding discretionary fund deployment remains opaque.
-
-### Financial Transparency
-
-Asset disclosure presents a complete data void, with no information available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data significantly undermines public accountability standards expected from elected representatives. The lack of asset information prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), but this comes with a critical caveat: the automated system flags low confidence in criminal data due to potentially unavailable sources. This uncertainty means the clean record cannot be definitively verified, raising questions about data reliability rather than providing assurance of legal standing.
-
-### Parliamentary Performance
-
-Beniwal demonstrates exemplary parliamentary attendance at 100%, significantly above typical MP performance standards. Legislative engagement includes 33 questions raised and participation in 11 debates, indicating active constituency representation and policy engagement. However, no private bills were introduced, suggesting limited proactive legislative initiative. The absence of committee assignment data (flagged as unavailable Sansad profile) prevents evaluation of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-News sentiment analysis reveals minimal media engagement, with only 10 articles identified—all categorized as neutral with no positive or negative coverage. This limited media presence suggests either low public profile or insufficient digital footprint tracking. The evidence grade for accessibility rates 'D', indicating poor transparency in public communication channels. No social media engagement metrics are provided, further limiting assessment of constituent outreach efforts.
-
-### Data Quality & Caveats
-
-Multiple automated flags highlight severe data reliability issues. Criminal record confidence is rated as low due to source unavailability. Asset data carries similar reliability concerns. MPLADS information is entirely missing despite being crucial for development accountability. Committee participation data is unavailable due to potential Sansad profile gaps. Parliament activity receives a 'C' evidence grade, while accessibility scores 'D', indicating substantial transparency deficits across multiple evaluation dimensions.
-
-### Key Takeaway
-
-Ummeda Ram Beniwal's transparency profile is characterized by exemplary parliamentary attendance but undermined by critical data gaps in financial disclosure, development fund utilization, and verified criminal record status. The perfect attendance and active questioning demonstrate commitment to parliamentary duties, but the absence of asset declaration and MPLADS data—combined with systemic CAG audit concerns in Rajasthan—raises significant transparency red flags. Voters lack essential information to evaluate financial probity and constituency development effectiveness, highlighting the need for improved disclosure compliance and data availability systems.
+No criminal cases declared. Declared assets: Rs 192,765,969. MPLADS utilization: 38.5%. Parliament attendance: 100.0%. Questions asked: 33. Debates participated: 11.
 
 ---
 
@@ -170,7 +138,7 @@ Ummeda Ram Beniwal's transparency profile is characterized by exemplary parliame
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ummeda Ram Beniwal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 38.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

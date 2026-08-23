@@ -6,23 +6,23 @@
 **Age:** 70
 **Education:** Post Graduate
 **Profession:** Retired IAS Officer
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 60.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 18.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.22 Crore
-- **Immovable Assets:** Rs 3.21 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 5.43 Crore
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 5.43 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 44% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.7%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -95,58 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Amar Singh demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, both scoring perfect marks. However, significant weaknesses emerge in committee participation, legislative contributions, and public accessibility, which collectively drag down the overall score to 52.5/100.
+Amar Singh shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Amar Singh
-
-### Overall Assessment
-Amar Singh, a 70-year-old retired IAS officer representing Fatehgarh Sahib (Punjab) for the Indian National Congress, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating strong parliamentary attendance, significant gaps exist in fund utilization data and public accessibility metrics. His background as a career civil servant with post-graduate education suggests administrative competence, though transparency outcomes remain uneven across key indicators.
-
-### Fund Utilization & Development
-**Critical Data Gap**: MPLADS fund utilization data is entirely unavailable, with all fields (entitled, released, expended, utilization percentage) showing "None." This represents a significant transparency deficit given that MPs typically receive ₹5 crore annually for constituency development.
-
-**Systemic Concerns**: CAG audit findings reveal broader Punjab-specific issues that may affect Amar Singh's constituency:
-- ₹1,558 crore lying idle in district authorities' accounts statewide
-- 34% of sampled utilization certificates lacking proper documentation
-- 18% of development works remaining abandoned or incomplete
-
-These systemic weaknesses raise questions about the effectiveness of development spending in his constituency, though individual performance cannot be assessed without specific data.
-
-### Financial Transparency
-Amar Singh's asset declaration shows total assets of ₹5.43 crore, providing a baseline for financial transparency. However, the absence of previous asset data prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation of ₹2.45 lakh appears standard for parliamentary positions.
-
-**Missing Elements**: No previous asset comparison data limits the ability to track financial trajectory during his tenure, representing a moderate transparency gap.
-
-### Legal & Criminal Standing
-**Exemplary Record**: Amar Singh maintains a completely clean criminal record with zero cases across all categories—no pending cases, serious charges, convictions, or disposed matters. This represents the gold standard for elected officials and suggests strong personal integrity and legal compliance.
-
-### Parliamentary Performance
-**Strong Attendance**: 100% attendance rate demonstrates exceptional commitment to parliamentary duties, placing him among the most dedicated MPs.
-
-**Moderate Engagement**: Filed 48 questions and participated in 9 debates, indicating reasonable but not exceptional parliamentary activity levels. Zero private bills introduced suggests limited legislative initiative.
-
-**Institutional Limitations**: No committee membership data available, preventing full assessment of his parliamentary influence and specialization areas.
-
-### Public Engagement & Accessibility
-**Limited Visibility**: Media coverage shows minimal public engagement with only 10 articles total—1 positive, 1 negative, and 8 neutral. This suggests limited proactive communication or media strategy.
-
-**Accessibility Concerns**: The sparse media presence and lack of accessible information about his constituency work raise questions about public outreach effectiveness, particularly concerning given his development fund data gaps.
-
-### Data Quality & Caveats
-**Significant Limitations**:
-- MPLADS data completely unavailable (Grade D accessibility)
-- Committee information absent
-- Legislative effectiveness data has low confidence rating
-- No previous asset data for comparison
-
-**Evidence Quality**: Grades range from B (criminal record, assets) to D (accessibility), with parliamentary data receiving C grade due to missing committee information.
-
-**Source Coverage**: Data drawn from myneta, PRS, social media, and news sources, though gaps suggest incomplete public record maintenance.
-
-### Key Takeaway
-Amar Singh demonstrates personal integrity through his clean criminal record and strong parliamentary attendance, reflecting his professional civil service background. However, critical transparency gaps—particularly the complete absence of MPLADS utilization data and limited public engagement—prevent a full assessment of his effectiveness as a constituency representative. While his administrative background suggests competence, voters lack essential information to evaluate his development work impact. Improved transparency in fund utilization reporting and public communication would significantly strengthen his accountability profile.
+No criminal cases declared. Declared assets: Rs 54,280,612. MPLADS utilization: 23.7%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 9.
 
 ---
 
@@ -186,7 +139,7 @@ Amar Singh demonstrates personal integrity through his clean criminal record and
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -265,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amar Singh's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -284,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

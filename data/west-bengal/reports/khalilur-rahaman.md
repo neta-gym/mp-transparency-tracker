@@ -3,23 +3,23 @@
 **Constituency:** Jangipur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 11.3 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 51.43 Crore
+- **Liabilities:** Rs 95.71 Lakh
+- **Net Worth:** Rs 50.48 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.1%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-Khalilur Rahaman shows a mixed transparency profile with moderate MPLADS and asset disclosure scores, excellent criminal record transparency, and strong attendance. However, significant gaps exist in committee participation, accessibility, and legislative transparency, alongside concerning data confidence issues that limit assessment reliability.
+Khalilur Rahaman shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Khalilur Rahaman
-
-### Overall Assessment
-Khalilur Rahaman, representing Jangipur constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance at 90%, substantial missing information across key areas including assets, MPLADS fund utilization, and committee participation constrains assessment of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of Rahaman's development fund utilization. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to determine how effectively Rahaman has utilized his entitled Rs 5 crore annual development allocation.
-
-### Financial Transparency
-Asset disclosure information is completely missing, representing a significant transparency deficit. No data is available regarding total assets, previous holdings, growth ratios, or net worth. This absence prevents any assessment of financial growth patterns or potential conflicts of interest during his tenure. The only available financial information is his monthly compensation of Rs 2.45 lakh, which aligns with standard MP remuneration.
-
-### Legal & Criminal Standing
-Rahaman maintains a clean criminal record with zero cases across all categories - no pending cases, convictions, or serious charges. However, this data carries low confidence ratings, suggesting potential gaps in criminal record verification. While the available information indicates no legal issues, the warning flag about source availability necessitates cautious interpretation of this clean record.
-
-### Parliamentary Performance
-Rahaman demonstrates strong attendance with a 90% participation rate, significantly above average parliamentary engagement levels. His legislative activity includes 30 questions raised and participation in 6 debates, indicating moderate engagement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. No committee membership data is available, which may indicate either absence from committee work or data collection limitations.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative), suggesting low public visibility without notable controversies. This neutral profile may indicate either effective constituency work without major issues or limited media attention to his activities. The absence of accessibility data and limited social media presence information restricts evaluation of his public engagement effectiveness.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment:
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No fund utilization information available
-- **Committees**: Missing committee membership data, possibly due to unavailable Sansad profile
-- **Evidence grades**: Parliament data rated 'C', accessibility rated 'D', indicating substantial limitations
-
-These gaps prevent comprehensive evaluation across key transparency metrics.
-
-### Key Takeaway
-While Khalilur Rahaman maintains clean legal standing and strong parliamentary attendance, extensive missing data across assets, development funds, and committee work significantly limits transparency assessment. The absence of MPLADS utilization data is particularly concerning given documented fund management issues in West Bengal. Voters should seek additional transparency measures, particularly regarding asset disclosures and development fund utilization, to make informed judgments about his constituency service effectiveness.
+No criminal cases declared. Declared assets: Rs 514,346,283. MPLADS utilization: 14.1%. Parliament attendance: 90.0%. Questions asked: 30. Debates participated: 6.
 
 ---
 
@@ -169,7 +136,7 @@ While Khalilur Rahaman maintains clean legal standing and strong parliamentary a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Khalilur Rahaman's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

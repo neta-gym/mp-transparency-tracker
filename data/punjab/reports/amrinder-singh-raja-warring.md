@@ -6,23 +6,23 @@
 **Age:** 46
 **Education:** 10th Pass
 **Profession:** Business & Agriculture
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 16.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 7.93 Crore
-- **Immovable Assets:** Rs 9.80 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 17.72 Crore
 - **Liabilities:** Rs 4.47 Crore
 - **Net Worth:** Rs 13.26 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.4%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Amrinder Singh Raja Warring demonstrates a below-average transparency profile with a score of 48.5/100. While he maintains a clean criminal record and shows decent participation in parliamentary proceedings, critical weaknesses emerge in committee involvement, accessibility to constituents, and legislative contributions where he scores zero.
+Amrinder Singh Raja Warring shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Amrinder Singh Raja Warring
-
-### Overall Assessment
-Amrinder Singh Raja Warring, the 46-year-old Indian National Congress MP from Ludhiana, Punjab, presents a mixed transparency profile with notable strengths in legal standing but concerning gaps in parliamentary engagement and data availability. With a 10th Pass education and background in business and agriculture, he maintains a clean criminal record while managing substantial personal assets worth ₹17.7 crores.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable for assessment, with entitled, released, expended amounts and utilization percentages all marked as "None." This data gap severely limits evaluation of his constituency development efforts. The automated system flags low confidence in MPLADS data quality. However, CAG audit findings reveal systemic issues in Punjab's fund management, including ₹1,558 crores in idle funds across district authorities and 34% of utilization certificates lacking proper documentation—context that may affect his constituency's development projects.
-
-### Financial Transparency
-Warring declares total assets of ₹17.72 crores with a net worth of ₹13.26 crores. However, no previous asset declaration data is available, preventing analysis of wealth growth patterns or trends. His monthly compensation totals ₹2.45 lakhs. The absence of historical financial data significantly hampers transparency assessment, though current declarations appear complete.
-
-### Legal & Criminal Standing
-Warring maintains an exemplary legal record with zero criminal cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This clean slate represents a significant positive factor in his transparency profile and suggests adherence to legal standards expected of public representatives.
-
-### Parliamentary Performance
-His parliamentary engagement shows moderate activity with 60% attendance—below optimal levels for effective representation. He has asked 31 questions and participated in 5 debates, indicating some legislative involvement, though no private member bills have been introduced. The evidence grade for parliamentary performance is rated 'C', suggesting room for improvement in legislative effectiveness and active participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment—no positive or negative coverage identified. This neutral profile suggests limited public visibility or engagement, which may indicate missed opportunities for constituency communication. The accessibility evidence grade is rated 'D', the lowest among all categories, highlighting significant concerns about public outreach and transparency in communication with constituents.
-
-### Data Quality & Caveats
-Multiple data quality issues affect this assessment. The automated system flags low confidence in MPLADS data, absence of committee membership information (possibly due to unavailable Sansad profile), and limited legislative effectiveness data. Evidence grades vary significantly: criminal record data rated 'B', assets rated 'B', parliamentary activity rated 'C', and accessibility rated 'D'. No committee participation data is available, and historical asset information is missing, limiting comprehensive transparency evaluation.
-
-### Key Takeaway
-While Warring maintains clean legal standing and declares substantial assets transparently, significant data gaps in MPLADS utilization, committee work, and historical financial information, combined with modest parliamentary performance (60% attendance) and limited public engagement, present transparency concerns. The neutral media coverage and poor accessibility rating suggest opportunities for improved constituent communication and more active parliamentary participation to enhance overall transparency and effectiveness as a public representative.
+No criminal cases declared. Declared assets: Rs 177,243,256. MPLADS utilization: 20.4%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.
 
 ---
 
@@ -163,7 +139,7 @@ While Warring maintains clean legal standing and declares substantial assets tra
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amrinder Singh Raja Warring's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

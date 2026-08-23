@@ -3,32 +3,34 @@
 **Constituency:** Hazaribagh, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,21 +38,22 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 36.30 Crore
+- **Liabilities:** Rs 5.89 Crore
+- **Net Worth:** Rs 30.41 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Manish Jaiswal shows a mixed transparency profile with excellent attendance and clean criminal record, but significant gaps in committee participation, legislative activity, and public accessibility. The moderate MPLADS and asset disclosure scores, combined with zero committee involvement and minimal accessibility, indicate limited engagement in parliamentary processes beyond basic attendance.
+Manish Jaiswal shows moderate transparency with a score of 61.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Manish Jaiswal
-
-### Overall Assessment
-Manish Jaiswal, BJP MP from Hazaribagh, Jharkhand, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating exemplary legislative engagement with 100% attendance, critical information regarding assets, MPLADS utilization, and criminal record verification remains unavailable, limiting comprehensive assessment of his overall transparency and effectiveness.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable for MP Jaiswal, with no information on entitled amounts, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The CAG's 2010 audit revealed Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to assess whether Jaiswal's constituency development aligns with or diverges from these concerning state-level patterns.
-
-### Financial Transparency
-Asset declaration information is completely missing from available records, with no data on current assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing potential conflicts of interest and unexplained wealth accumulation. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, tracking financial changes during tenure is impossible. This lack of financial transparency severely limits public accountability assessment.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), but this comes with a critical data quality warning indicating low confidence due to potentially unavailable sources. While the clean record appears positive, the uncertainty around data reliability means this assessment cannot be considered definitive. The absence of verified criminal case information represents a significant gap in transparency evaluation.
-
-### Parliamentary Performance
-Jaiswal demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical MP attendance rates. His legislative activity includes 63 questions raised and participation in 7 debates, indicating active constituency representation and policy engagement. However, he has introduced zero private member's bills, suggesting limited initiative in independent legislative proposals. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics. This performance profile suggests strong institutional participation but limited independent legislative leadership.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely constrained by data limitations. News sentiment analysis covers only 10 articles, all classified as neutral, providing minimal insight into public perception or media coverage patterns. The accessibility evidence grade of 'D' indicates very low confidence in available data. No committee membership information is available, and social media presence data is insufficient for meaningful analysis. This lack of engagement metrics prevents assessment of constituency communication and public accessibility.
-
-### Data Quality & Caveats
-Multiple significant data quality issues compromise this transparency assessment:
-
-- **Criminal Records**: Low confidence warning suggests potential source unavailability
-- **Assets**: Complete absence of financial declaration data
-- **MPLADS**: No fund utilization information despite constituency development being a core MP responsibility
-- **Committees**: Missing committee membership data limits assessment of specialized legislative work
-- **Overall Evidence Grades**: Parliamentary data rated 'C', accessibility rated 'D', indicating moderate to low confidence levels
-
-The automated flagging system identifies 7 relevant CAG findings for Jharkhand, but absence of specific MPLADS data prevents assessment of how these systemic issues affect Jaiswal's constituency work.
-
-### Key Takeaway
-While Manish Jaiswal demonstrates strong parliamentary attendance (100%) and reasonable legislative engagement (63 questions, 7 debates), his transparency profile is severely compromised by missing data across critical accountability areas including assets, MPLADS utilization, and verified criminal records. The combination of excellent attendance with complete data gaps in financial transparency and development fund utilization creates a paradoxical profile where institutional engagement appears strong but public accountability mechanisms remain largely opaque. Voters and oversight bodies should prioritize obtaining complete transparency data to enable proper assessment of his overall effectiveness and integrity as a public representative.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 362,999,932. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 7.
 
 ---
 
@@ -170,7 +138,7 @@ While Manish Jaiswal demonstrates strong parliamentary attendance (100%) and rea
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manish Jaiswal's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

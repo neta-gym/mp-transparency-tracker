@@ -3,23 +3,23 @@
 **Constituency:** Asansol, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 40.5 / 100
+## Composite Transparency Score: 49.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 31.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 210.50 Crore
+- **Liabilities:** Rs 17.61 Crore
+- **Net Worth:** Rs 192.90 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.9%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Shatrughan Prasad Sinha shows a mixed transparency profile with concerning gaps in parliamentary engagement. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, he demonstrates significant deficiencies in legislative participation, committee work, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete transparency reporting.
+Shatrughan Prasad Sinha has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Shatrughan Prasad Sinha
-
-### Overall Assessment
-Shatrughan Prasad Sinha, representing Asansol constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement shows concerning gaps, with 50% attendance and minimal legislative participation. The absence of crucial financial and developmental fund utilization data severely limits assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable for assessment, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management. The CAG identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS transparency, constituents cannot evaluate how effectively Sinha has utilized development funds for Asansol's benefit.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, representing a critical transparency gap. No data exists regarding total assets, previous declarations, growth ratios, or net worth changes during his tenure. This absence prevents assessment of potential conflicts of interest or unusual wealth accumulation patterns. The monthly compensation of Rs 2,45,000 is documented, but without baseline asset information, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Sinha maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, this positive finding comes with a significant caveat: the criminal record data carries low confidence due to potentially unavailable sources. While the reported clean record is encouraging, the data quality warning suggests this information may be incomplete or outdated.
-
-### Parliamentary Performance
-Parliamentary engagement shows concerning deficiencies. Attendance stands at 50%, indicating irregular presence during crucial legislative sessions. More troubling is the complete absence of active participation: zero questions raised, zero debate contributions, and zero private member bills introduced. This minimal engagement suggests limited advocacy for constituent interests and reduced influence in policy formulation affecting Asansol. The evidence grade of 'C' for parliamentary data indicates moderate reliability of these concerning metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment patterns. However, accessibility receives a concerning 'D' evidence grade, suggesting limited reliable information about public outreach efforts. No committee participation data is available, potentially indicating missed opportunities for specialized policy contribution or unavailable profile information on parliamentary databases.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record information carries low confidence due to potentially unavailable sources. Asset data suffers from low confidence ratings, while MPLADS information is entirely absent. Committee data is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data also shows low confidence ratings. These limitations mean key aspects of transparency and performance cannot be properly evaluated, creating substantial blind spots in accountability assessment.
-
-### Key Takeaway
-Shatrughan Prasad Sinha's transparency profile is characterized more by data absence than clear performance indicators. While maintaining a reported clean criminal record, his minimal parliamentary engagement (50% attendance, zero legislative activities) raises questions about representative effectiveness. The complete absence of financial asset information and MPLADS utilization data creates critical transparency gaps, particularly concerning given systemic fund management issues identified by CAG audits in West Bengal. Constituents of Asansol face significant challenges in evaluating their representative's performance due to these data limitations, highlighting the need for improved transparency mechanisms and more comprehensive public disclosure of MP activities and financial dealings.
+No criminal cases declared. Declared assets: Rs 2,105,041,638. MPLADS utilization: 39.9%. Parliament attendance: 50.0%.
 
 ---
 
@@ -162,7 +136,7 @@ Shatrughan Prasad Sinha's transparency profile is characterized more by data abs
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shatrughan Prasad Sinha's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

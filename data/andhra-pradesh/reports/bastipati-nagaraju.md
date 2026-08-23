@@ -3,23 +3,25 @@
 **Constituency:** Kurnool, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 45
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 61.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 22.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.02 Crore
+- **Liabilities:** Rs 19.36 Lakh
+- **Net Worth:** Rs 8.82 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 27.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Bastipati Nagaraju demonstrates strong performance in attendance and criminal record transparency, achieving perfect scores in both areas. However, significant transparency gaps exist in committee participation, legislative activities, and public accessibility, which substantially impact the overall score despite good foundational metrics.
+Bastipati Nagaraju shows moderate transparency with a score of 61.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bastipati Nagaraju
-
-### Overall Assessment
-
-Bastipati Nagaraju, representing Kurnool constituency in Andhra Pradesh for the Telugu Desam Party, presents a profile marked by strong parliamentary attendance but limited available data across key transparency metrics. With perfect attendance (100%) and moderate question-raising activity (40 questions), he demonstrates consistent parliamentary engagement, though broader transparency indicators remain largely unavailable for comprehensive assessment.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is unavailable, preventing assessment of constituency development effectiveness. This data gap is concerning given the CAG audit context for Andhra Pradesh, which reveals systemic issues including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. Additional audit findings highlight that 34% of utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete. Without specific MPLADS data for Nagaraju's constituency, his fund management performance cannot be evaluated against these concerning state-wide trends.
-
-### Financial Transparency
-
-Asset declaration data is completely unavailable, making it impossible to assess financial transparency or track wealth changes during tenure. No information exists on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly limits transparency evaluation. Monthly compensation is recorded at Rs 245,000, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total cases: 0, serious: 0, pending: 0, disposed: 0, convictions: 0), indicating a clean legal profile. However, automated flags warn of low confidence in criminal data due to potentially unavailable sources, suggesting these figures should be interpreted cautiously.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance is exemplary at 100%, demonstrating consistent presence in legislative proceedings. Question-raising activity is moderate with 40 questions, indicating reasonable engagement in parliamentary oversight functions. Debate participation is minimal with only 3 recorded instances, and no private member bills have been introduced. Committee involvement data is unavailable due to potentially inaccessible Sansad profile information, limiting assessment of specialized legislative contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 articles identified (2 positive, 0 negative, 8 neutral). The predominantly neutral tone suggests limited controversial issues but also indicates minimal proactive public communication or high-profile advocacy. Social media presence and public accessibility metrics are not provided, preventing comprehensive evaluation of constituent engagement strategies.
-
-### Data Quality & Caveats
-
-This assessment faces significant data quality limitations affecting reliability. Evidence grades rate parliament data as 'C' and accessibility as 'D', indicating below-average data confidence. Multiple automated flags highlight concerns: low confidence in criminal record data, asset information unavailability, MPLADS data gaps, missing committee assignments, and limited legislative effectiveness metrics. The primary data sources include PRS (legislative data), social media, and news coverage, but institutional sources appear incomplete or inaccessible.
-
-### Key Takeaway
-
-Bastipati Nagaraju demonstrates strong parliamentary attendance (100%) but operates with limited transparency due to extensive data unavailability across asset declarations, MPLADS utilization, and committee work. While showing no criminal record and maintaining neutral media coverage, the absence of crucial transparency metrics—particularly concerning given Andhra Pradesh's documented fund management issues—prevents comprehensive accountability assessment. Enhanced data disclosure would significantly improve transparency evaluation and public accountability.
+No criminal cases declared. Declared assets: Rs 90,176,000. MPLADS utilization: 27.5%. Parliament attendance: 100.0%. Questions asked: 40. Debates participated: 3.
 
 ---
 
@@ -170,7 +138,7 @@ Bastipati Nagaraju demonstrates strong parliamentary attendance (100%) but opera
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bastipati Nagaraju's MPLADS account: Released: Rs 16, Expended: Rs 4, Utilization: 27.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

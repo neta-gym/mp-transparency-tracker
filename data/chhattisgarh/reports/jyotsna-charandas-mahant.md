@@ -3,23 +3,25 @@
 **Constituency:** Korba, Chhattisgarh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 70
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 60.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 34.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.96 Crore
+- **Liabilities:** Rs 5.00 Lakh
+- **Net Worth:** Rs 17.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 7
+- **Utilization Rate:** 43.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Jyotsna Charandas Mahant shows a mixed transparency profile with notable strengths in maintaining a clean criminal record and good parliamentary attendance (85%). However, significant weaknesses exist in committee participation (0%), legislative activity (0%), and public accessibility (10%), indicating limited engagement in formal parliamentary processes and constituent outreach.
+Jyotsna Charandas Mahant shows moderate transparency with a score of 60.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Jyotsna Charandas Mahant
-
-### Overall Assessment
-Jyotsna Charandas Mahant, representing Korba constituency in Chhattisgarh for the Indian National Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. Her parliamentary attendance of 85% demonstrates above-average engagement, though broader transparency metrics remain unclear due to missing financial and development fund data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap, particularly concerning given CAG audit findings revealing systemic issues in Chhattisgarh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds across district authorities nationally, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for MP Mahant, her constituency's development impact cannot be evaluated.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no current or previous asset values, growth ratios, or net worth data available. This absence of financial transparency data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during her tenure. The lack of asset information represents a significant barrier to evaluating her financial accountability to constituents.
-
-### Legal & Criminal Standing
-MP Mahant maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, suggesting the information may be incomplete rather than definitively accurate.
-
-### Parliamentary Performance
-Her parliamentary engagement shows moderate activity levels with 85% attendance, significantly above the typical average for Lok Sabha members. She has raised 21 questions and participated in 3 debates, indicating reasonable legislative engagement. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity evidence grade of 'C' indicates moderate data quality for these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility, with only 10 total articles identified. The coverage breakdown shows predominantly neutral reporting (9 articles) with minimal positive coverage (0 articles) and only 1 negative article. This low media presence suggests either limited public engagement or restricted media access to her activities. The accessibility evidence grade of 'D' indicates poor data availability for measuring her constituent outreach and public communication efforts.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to widespread missing data. Critical warnings include low confidence in criminal record data due to source unavailability, complete absence of asset information, and unavailable MPLADS utilization data. Committee membership information is entirely missing, suggesting her Sansad profile may be inaccessible. Legislative effectiveness data also carries low confidence ratings. These gaps significantly limit the reliability of this transparency assessment and suggest systemic issues with data collection or disclosure.
-
-### Key Takeaway
-While MP Mahant demonstrates reasonable parliamentary attendance and maintains a clean legal record, her overall transparency profile is severely hampered by missing financial and development fund data. The absence of MPLADS utilization information is particularly concerning given documented fund management issues in Chhattisgarh. Her limited media presence and the poor data quality across multiple transparency metrics suggest either inadequate disclosure practices or systematic barriers to accessing her performance information, limiting voters' ability to evaluate her effectiveness as their representative.
+No criminal cases declared. Declared assets: Rs 179,626,733. MPLADS utilization: 43.3%. Parliament attendance: 85.0%. Questions asked: 21. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ While MP Mahant demonstrates reasonable parliamentary attendance and maintains a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jyotsna Charandas Mahant's MPLADS account: Released: Rs 16, Expended: Rs 7, Utilization: 43.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

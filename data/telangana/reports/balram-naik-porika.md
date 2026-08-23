@@ -3,32 +3,32 @@
 **Constituency:** Mahabubabad, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 41.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 33.6 | 25% |
+| Asset Growth | 40.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.99 Crore
+- **Liabilities:** Rs 2.52 Crore
+- **Net Worth:** Rs 46.73 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 42.0%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Balram Naik Porika shows a mixed transparency profile with moderate performance in basic areas like MPLADS utilization and asset disclosure, but significant deficiencies in legislative participation and committee involvement. His perfect criminal record transparency is a positive indicator, though very low scores in accessibility and legislative activity suggest limited public engagement and parliamentary contribution.
+Balram Naik Porika has a below-average transparency score of 41.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Balram Naik Porika
-
-### Overall Assessment
-Balram Naik Porika represents the Mahabubabad constituency in Telangana as an Indian National Congress MP in the Lok Sabha. His profile shows significant data gaps across key transparency metrics, limiting comprehensive assessment. With 70% parliamentary attendance and neutral media coverage, his performance appears middling, though substantial missing data prevents definitive conclusions about his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap given the CAG's 2010 audit findings highlighting systemic issues in fund management across states, including Rs 1,558 crore lying idle in district authorities' accounts. The audit revealed that 34% of sampled utilization certificates lacked proper documentation and 18% of works remained incomplete or abandoned. Without specific MPLADS data for Porika's constituency, it's impossible to assess his development delivery record.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on current holdings, previous declarations, growth ratios, or net worth. This absence of financial transparency data significantly hampers public accountability assessment. The MP's monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration. The lack of asset information prevents evaluation of potential conflicts of interest or wealth accumulation patterns during his tenure.
-
-### Legal & Criminal Standing
-Porika maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal background verification. While the available information indicates no legal issues, the warning about data reliability means this assessment should be viewed with caution.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 70% attendance, falling short of optimal participation levels. Legislative activity appears limited with only 3 questions raised and 2 debates participated in during the available reporting period. No private member bills were introduced, indicating minimal proactive legislative initiative. Committee participation data is entirely absent, preventing assessment of his specialized parliamentary work. The overall parliamentary performance grade of 'C' reflects moderate but suboptimal engagement with legislative responsibilities.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This suggests limited media attention and possibly minimal public visibility. The accessibility grade of 'D' indicates poor public engagement metrics, though specific data on constituency outreach, social media presence, or public interactions is not available. The neutral media profile may indicate either effective non-controversial governance or insufficient newsworthy activities.
-
-### Data Quality & Caveats
-This assessment faces severe data quality limitations with multiple critical warnings. Asset information carries low confidence ratings, criminal record data may be unavailable from primary sources, and MPLADS utilization data is completely missing. Committee participation information is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data confidence is also flagged as low. These gaps significantly limit the reliability of this transparency assessment and suggest potential systemic data collection issues.
-
-### Key Takeaway
-Balram Naik Porika's transparency profile is severely compromised by extensive missing data across key accountability metrics, including asset declarations, MPLADS utilization, and committee work. While maintaining a clean criminal record and achieving moderate parliamentary attendance, the absence of crucial transparency information prevents comprehensive evaluation of his effectiveness as a public representative. The data gaps highlight broader systemic issues in MP transparency reporting that require addressing for meaningful public accountability.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 29,919,101. MPLADS utilization: 42.0%. Parliament attendance: 70.0%. Questions asked: 3. Debates participated: 2.
 
 ---
 
@@ -162,7 +136,7 @@ Balram Naik Porika's transparency profile is severely compromised by extensive m
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Balram Naik Porika's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 42.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

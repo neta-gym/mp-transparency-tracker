@@ -3,32 +3,34 @@
 **Constituency:** Gulbarga, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 54.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,21 +38,22 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 53.39 Crore
+- **Liabilities:** Rs 7.24 Crore
+- **Net Worth:** Rs 46.15 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Shri Radhakrishna shows a mixed transparency profile with significant areas of concern. While he demonstrates full transparency in criminal record disclosure and moderate performance in MPLADS utilization and attendance, critical weaknesses exist in committee participation, legislative engagement, and public accessibility, resulting in a below-average overall score.
+Shri  Radhakrishna shows moderate transparency with a score of 54.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shri Radhakrishna
-
-### Overall Assessment
-Shri Radhakrishna, the Indian National Congress MP representing Gulbarga constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating moderate parliamentary engagement, critical information about assets, MPLADS utilization, and development impact remains unavailable or unreliable.
-
-### Fund Utilization & Development
-Complete data on MPLADS fund utilization is unavailable, with all metrics (entitled, released, expended amounts and utilization percentage) showing as "None." This represents a significant transparency gap given that Karnataka faces systemic issues with fund management. CAG audits reveal concerning patterns statewide: ₹1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Shri Radhakrishna's constituency, it's impossible to assess his development effectiveness or fund stewardship.
-
-### Financial Transparency
-Asset disclosure transparency is severely compromised, with no data available on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information prevents any meaningful assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation stands at ₹2,45,000, but without asset baselines, evaluating proportionality or transparency in financial growth remains impossible.
-
-### Legal & Criminal Standing
-Shri Radhakrishna maintains a clean legal record with zero criminal cases across all categories—no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with low confidence ratings, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 70% attendance rate, indicating reasonable commitment to legislative duties. The MP has raised 14 questions and participated in 2 debates during the assessed period, demonstrating basic engagement with parliamentary processes. However, no private member bills were introduced, suggesting limited legislative initiative. The absence of committee participation data (marked as unavailable due to potential Sansad profile issues) prevents full evaluation of parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media presence appears limited but balanced, with 5 news articles providing mixed coverage—1 positive, 0 negative, and 4 neutral pieces. This suggests a relatively low public profile without significant controversies but also limited visibility in addressing constituent concerns or championing major causes. The accessibility grade of 'D' indicates poor public engagement mechanisms or transparency in communication channels.
-
-### Data Quality & Caveats
-The assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Committee participation information is entirely missing, and legislative effectiveness data carries low confidence ratings. Evidence grades show 'C' for parliamentary metrics and 'D' for accessibility, indicating below-average data reliability. The Karnataka-specific CAG context provides 7 relevant findings highlighting systemic governance challenges that may affect the MP's constituency, though direct attribution remains unclear without specific performance data.
-
-### Key Takeaway
-Shri Radhakrishna's transparency profile is severely hampered by extensive data gaps across critical areas including asset disclosure, MPLADS utilization, and committee participation. While maintaining a clean criminal record and moderate parliamentary attendance, the absence of financial transparency and development impact metrics raises significant accountability concerns. Given Karnataka's documented fund management issues revealed in CAG audits, the unavailability of MPLADS data is particularly problematic for assessing the MP's effectiveness in addressing constituent development needs.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 533,899,960. Parliament attendance: 70.0%. Questions asked: 14. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ Shri Radhakrishna's transparency profile is severely hampered by extensive data 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shri  Radhakrishna's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Bhadrak, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 53.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 7.1 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.08 Crore
+- **Liabilities:** Rs 1.07 Crore
+- **Net Worth:** Rs 6.01 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,50 +95,11 @@
 
 ## Qualitative Assessment
 
-Avimanyu Sethi demonstrates a mixed transparency profile with significant gaps in legislative engagement. While he shows strong attendance (90%) and maintains a clean criminal record, his complete absence from committee participation and legislative initiatives, combined with very poor accessibility (10%), substantially undermines his overall transparency score.
+Avimanyu Sethi shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Avimanyu Sethi
-
-### Overall Assessment
-
-Avimanyu Sethi, BJP MP from Bhadrak, Odisha, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean criminal records and satisfactory parliamentary attendance (90%), critical financial and developmental data remains unavailable. The profile suggests a parliamentarian with basic engagement but lacks depth in measurable development outcomes.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, preventing assessment of Sethi's development project execution. This data gap is concerning given CAG audit findings revealing systemic issues in fund utilization across Indian districts. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts nationwide, with Odisha reporting 7 relevant audit findings. Additionally, 34% of utilization certificates lacked proper documentation, and 18% of sampled works were incomplete or abandoned - highlighting broader governance challenges in Sethi's operational environment.
-
-### Financial Transparency
-
-Asset declaration data is completely missing, preventing any analysis of wealth accumulation, growth patterns, or potential conflicts of interest. This represents a significant transparency gap, as asset disclosure is fundamental to public accountability. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without baseline or comparative asset data, financial transparency assessment is impossible.
-
-### Legal & Criminal Standing
-
-Sethi maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the clean record appears positive, the reliability caveat prevents definitive assessment.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Sethi demonstrates strong attendance discipline at 90%, indicating consistent presence in legislative proceedings. However, substantive participation remains limited with only 5 questions raised and 2 debate contributions. Zero private member bills suggest minimal legislative initiative. The overall parliamentary activity grade of 'C' reflects adequate but unremarkable engagement levels. No committee assignment data is available, potentially indicating limited specialized parliamentary roles.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics indicate minimal digital presence and accessibility. News coverage analysis of 10 articles shows entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse generation or media attention. Social media and accessibility grades of 'D' indicate poor public outreach mechanisms. This low-profile approach may limit constituent communication and feedback channels.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly limit assessment reliability:
-- Criminal records: Low confidence due to source unavailability
-- Assets: Low confidence in financial data
-- MPLADS: Complete absence of development fund data
-- Committees: No committee information available
-- Legislative effectiveness: Low confidence ratings
-
-These limitations stem from potentially unavailable Sansad profiles and incomplete data sources, affecting nearly every transparency metric.
-
-### Key Takeaway
-
-Avimanyu Sethi's transparency profile suffers from extensive data gaps that prevent comprehensive accountability assessment. While maintaining clean criminal records and adequate parliamentary attendance, the absence of critical financial, developmental, and engagement data raises transparency concerns. The systemic fund utilization issues identified in CAG audits for Odisha underscore the importance of accessing MPLADS data for meaningful development assessment. Improved data availability and enhanced public engagement mechanisms are essential for establishing robust transparency credentials.
+No criminal cases declared. Declared assets: Rs 70,794,290. MPLADS utilization: 8.9%. Parliament attendance: 90.0%. Questions asked: 5. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -177,7 +139,7 @@ Avimanyu Sethi's transparency profile suffers from extensive data gaps that prev
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Avimanyu Sethi's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

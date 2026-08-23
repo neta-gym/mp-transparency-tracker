@@ -3,23 +3,25 @@
 **Constituency:** Madhepura, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 72
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 66.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 54.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.62 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 6.62 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 60.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Dinesh Chandra Yadav shows a mixed transparency profile with perfect attendance and clean criminal record, but significant weaknesses in committee participation, accessibility, and legislative contributions. The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency.
+Dinesh Chandra Yadav shows moderate transparency with a score of 66.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dinesh Chandra Yadav
-
-### Overall Assessment
-Dinesh Chandra Yadav, representing Madhepura constituency in Bihar as a Janata Dal (United) MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps. While his parliamentary attendance record is exemplary at 100%, substantial missing information regarding assets, MPLADS utilization, and criminal records limits comprehensive assessment of his overall performance and accountability.
-
-### Fund Utilization & Development
-MPLADS data for MP Yadav is unavailable, with all key metrics (entitled, released, expended amounts, and utilization percentage) showing as "None." This absence of data is particularly concerning given Bihar's documented MPLADS implementation challenges. CAG audit findings from 2010 reveal systemic issues in the state, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, suggesting potential implementation challenges that may affect Madhepura constituency's development projects.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, with total assets, previous assets, growth ratio, and net worth all reported as "None." This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. MP Yadav receives a total monthly compensation of Rs 2,45,000, but without asset data, it's impossible to assess potential conflicts of interest or track wealth accumulation during his tenure.
-
-### Legal & Criminal Standing
-MP Yadav's criminal record shows zero cases across all categories (total, serious, pending, disposed, and convictions). However, this data carries a low confidence warning, indicating potential source unavailability. While the clean record is positive if accurate, the data quality caveat necessitates cautious interpretation of this information.
-
-### Parliamentary Performance
-MP Yadav demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above average attendance rates. His legislative activity includes 27 questions raised and participation in 10 debates, indicating active involvement in parliamentary proceedings. However, he has introduced zero private bills, suggesting limited initiative in legislative development. The parliament activity data receives a 'C' evidence grade, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversial positions. This neutral coverage pattern may indicate either effective consensus-building or insufficient media engagement. The accessibility evidence grade of 'D' suggests poor data availability regarding public outreach efforts, constituency interactions, or digital presence.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues:
-- Criminal record data carries low confidence warnings due to potential source unavailability
-- Asset information is completely missing, preventing financial transparency evaluation
-- MPLADS utilization data is unavailable despite its critical importance for constituency development assessment
-- Committee membership information is absent, with Sansad profile potentially unavailable
-- Legislative effectiveness data has low confidence ratings
-
-These gaps substantially limit the comprehensiveness of this transparency evaluation and suggest potential systemic data collection or disclosure issues.
-
-### Key Takeaway
-While MP Dinesh Chandra Yadav demonstrates exemplary parliamentary attendance and maintains a clean legal record (subject to data quality concerns), his transparency profile is severely compromised by missing asset declarations and MPLADS utilization data. The absence of these critical transparency metrics, combined with Bihar's documented fund utilization challenges, raises concerns about accountability and effective constituency representation. Immediate disclosure of complete asset information and MPLADS utilization details would significantly enhance public trust and transparency assessment capabilities.
+No criminal cases declared. Declared assets: Rs 66,209,377. MPLADS utilization: 60.0%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 10.
 
 ---
 
@@ -169,7 +138,7 @@ While MP Dinesh Chandra Yadav demonstrates exemplary parliamentary attendance an
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dinesh Chandra Yadav's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 60.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

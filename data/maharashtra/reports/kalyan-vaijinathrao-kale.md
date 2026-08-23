@@ -3,32 +3,34 @@
 **Constituency:** Jalna, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 53.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 18.6 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 132.92 Crore
+- **Liabilities:** Rs 15.93 Crore
+- **Net Worth:** Rs 116.99 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kalyan Vaijinathrao Kale shows mixed transparency performance with a moderate overall score of 49.5/100. While demonstrating perfect attendance and a clean criminal record, the MP faces significant challenges in legislative activity, committee participation, and public accessibility, scoring zero in key areas like committee work and legislative contributions.
+Kalyan Vaijinathrao Kale shows moderate transparency with a score of 53.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Kalyan Vaijinathrao Kale
-
-### Overall Assessment
-Kalyan Vaijinathrao Kale, Indian National Congress MP representing Jalna constituency in Maharashtra, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While his parliamentary attendance record is exemplary at 100%, critical information regarding assets, MPLADS utilization, and detailed legislative work remains unavailable or of low confidence.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, preventing assessment of the MP's development work effectiveness. This is particularly concerning given Maharashtra's systemic issues highlighted in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, it's impossible to verify whether Kale's constituency work aligns with proper fund management practices or falls victim to the state's documented inefficiencies.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation during tenure. The MP's monthly compensation is recorded at Rs 2.45 lakh, but without asset context, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Kale maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, this data carries a low confidence rating due to potential source unavailability, warranting cautious interpretation of the criminal background assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with perfect 100% attendance demonstrating commitment to legislative duties. However, his substantive participation appears limited with only 9 questions raised and 2 debate participations recorded. No private member bills were introduced, suggesting minimal legislative initiative. The absence of committee assignment data further limits assessment of his specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, indicating limited public discourse around the MP's activities. This neutral coverage, combined with an accessibility evidence grade of 'D', suggests minimal public engagement or media interaction. The lack of significant media presence may indicate either effective constituency work conducted below media radar or insufficient public communication efforts.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to multiple data quality issues:
-- Criminal record data flagged as low confidence due to source unavailability
-- Complete absence of asset information prevents financial transparency evaluation
-- MPLADS utilization data entirely missing despite entitlement information being available
-- No committee membership data found, possibly due to unavailable Sansad profiles
-- Legislative effectiveness data carries low confidence ratings
-- Parliament activity evidence graded as 'C' and accessibility as 'D'
-
-These data gaps significantly compromise the reliability of this transparency assessment.
-
-### Key Takeaway
-While Kalyan Vaijinathrao Kale maintains perfect parliamentary attendance and a clean criminal record, his transparency profile remains largely incomplete due to missing critical data on asset holdings and MPLADS utilization. The neutral media coverage and limited parliamentary participation suggest a low-profile approach to representation. Given Maharashtra's documented issues with fund management and utilization certificate irregularities, the absence of MPLADS data is particularly problematic for assessing his development work effectiveness. Voters in Jalna constituency lack sufficient transparent information to fully evaluate their representative's financial standing and development fund utilization, highlighting the need for improved data disclosure and monitoring mechanisms.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 1,329,206,684. MPLADS utilization: 23.3%. Parliament attendance: 100.0%. Questions asked: 9. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ While Kalyan Vaijinathrao Kale maintains perfect parliamentary attendance and a 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kalyan Vaijinathrao Kale's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

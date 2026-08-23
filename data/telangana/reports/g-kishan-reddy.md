@@ -3,23 +3,25 @@
 **Constituency:** Secunderabad, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 63
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 48.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 0.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.22 Crore
+- **Liabilities:** Rs 1.63 Crore
+- **Net Worth:** Rs 17.59 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,41 +96,11 @@
 
 ## Qualitative Assessment
 
-G Kishan Reddy's transparency profile shows mixed performance with a moderate overall score of 45.5%. While he maintains a clean criminal record (100%) and average performance in basic metrics like MPLADS utilization, assets disclosure, and parliamentary attendance, significant concerns emerge in legislative contributions and committee participation where he scores zero. His accessibility to constituents is notably poor at 10%.
+G Kishan Reddy has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: G Kishan Reddy
-
-### Overall Assessment
-G Kishan Reddy, representing Secunderabad constituency in Telangana for the Bharatiya Janata Party, presents a limited transparency profile due to significant data gaps across multiple key indicators. As a sitting Minister in the Lok Sabha, his executive duties may account for some variations in typical parliamentary metrics, though comprehensive assessment remains challenging given data quality issues.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for constituency development assessment. However, relevant CAG audit findings from Telangana highlight systemic concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings provide important context for development fund management in the region.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data on total assets, previous holdings, growth ratios, or net worth. This creates a significant transparency deficit regarding financial standing and potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-The criminal record shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal profile. However, data quality warnings suggest low confidence in this information due to potentially unavailable source data, requiring cautious interpretation of these figures.
-
-### Parliamentary Performance
-Parliamentary activity data is severely limited, showing zero questions asked, zero debates participated, and zero private bills introduced, with no attendance percentage recorded. While the MP's ministerial status may legitimately impact traditional parliamentary metrics due to executive responsibilities, the complete absence of activity data raises questions about legislative engagement. Committee participation information is entirely unavailable, further limiting performance assessment.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse or potentially balanced reporting. Social media and public engagement metrics beyond news coverage are not provided. The accessibility grade of 'D' indicates poor public information availability, significantly hampering citizen oversight capabilities.
-
-### Data Quality & Caveats
-Multiple critical data quality warnings affect this assessment:
-- Criminal records, assets, MPLADS, and parliamentary activity all carry low confidence ratings
-- No committee membership data available, potentially indicating Sansad profile unavailability
-- Legislative effectiveness data has low confidence levels
-- Evidence grades show 'C' for parliament data and 'D' for accessibility
-
-These limitations substantially compromise the reliability of this transparency assessment and highlight systemic issues in public data availability for this MP.
-
-### Key Takeaway
-G Kishan Reddy's transparency profile is severely hampered by extensive data gaps across virtually all key indicators, making meaningful assessment extremely difficult. While his clean criminal record and ministerial position are notable, the absence of financial disclosures, development fund utilization data, and parliamentary activity metrics creates significant transparency deficits. The systemic CAG audit findings in Telangana underscore the importance of robust oversight mechanisms, which cannot be effectively applied without better data availability. Citizens and oversight bodies require substantial improvements in data collection and disclosure to properly evaluate this MP's performance and accountability.
+No criminal cases declared. Declared assets: Rs 192,241,721. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -169,7 +140,7 @@ G Kishan Reddy's transparency profile is severely hampered by extensive data gap
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for G Kishan Reddy's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Ratlam, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 39
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 55.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 24.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.25 Crore
+- **Liabilities:** Rs 1.87 Lakh
+- **Net Worth:** Rs 5.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 4
+- **Utilization Rate:** 30.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Anita Nagarsingh Chouhan shows a mixed transparency profile with a below-average overall score of 47/100. While she maintains a clean criminal record (100/100) and decent attendance (75/100), significant concerns exist in legislative activity, committee participation, and public accessibility. The low data confidence (14%) and multiple validation flags suggest limited available information, which itself raises transparency questions.
+Anita Nagarsingh Chouhan shows moderate transparency with a score of 55.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Anita Nagarsingh Chouhan
-
-### Overall Assessment
-
-Anita Nagarsingh Chouhan, BJP MP from Ratlam, Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Her parliamentary attendance of 75% meets baseline expectations, but limited legislative activity and substantial missing financial data raise concerns about overall accountability and transparency.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, preventing assessment of developmental impact. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Madhya Pradesh's fund management. The CAG's 2010 audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Chouhan's constituency, it's impossible to determine whether these systemic issues affect Ratlam's development projects.
-
-### Financial Transparency
-
-Asset declaration transparency is severely compromised with no current or previous asset information available. This complete absence of financial data makes it impossible to assess wealth accumulation patterns, potential conflicts of interest, or compliance with mandatory disclosure requirements. The MP's monthly compensation is listed at Rs 2,45,000, but without baseline asset information, growth trajectories cannot be evaluated. This represents a significant transparency deficit that undermines public accountability.
-
-### Legal & Criminal Standing
-
-Chouhan maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). While this positive indicator suggests good legal standing, the automated system flags low confidence in criminal data due to potential source unavailability, requiring verification through alternative channels.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity with 75% attendance, indicating regular participation in legislative proceedings. However, legislative effectiveness appears limited with only 1 question raised and 8 debate participations. The absence of private member's bills suggests minimal proactive legislative initiative. No committee membership data is available, preventing assessment of specialized parliamentary contributions. The evidence grade of 'C' for parliamentary performance reflects these mixed indicators.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse engagement or controversy avoidance. This neutral media presence, while avoiding negative publicity, may also indicate insufficient proactive public communication. The accessibility evidence grade of 'D' highlights significant gaps in public engagement metrics, with no social media activity data or public interaction indicators available.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight substantial data reliability issues:
-- Criminal record data flagged for low confidence due to potential source unavailability
-- Asset information completely missing, preventing financial transparency assessment
-- MPLADS utilization data unavailable despite entitlement
-- No committee membership information found, suggesting Sansad profile accessibility issues
-- Legislative effectiveness data carries low confidence ratings
-
-These data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in MP data availability and reporting.
-
-### Key Takeaway
-
-Anita Nagarsingh Chouhan's transparency profile is severely hampered by extensive missing data across critical accountability metrics. While maintaining a clean legal record and acceptable parliamentary attendance, the complete absence of asset declarations and MPLADS utilization data, combined with limited legislative activity, raises serious transparency concerns. The systematic data gaps suggest either poor record-keeping or limited public disclosure compliance, undermining effective democratic accountability for the Ratlam constituency.
+No criminal cases declared. Declared assets: Rs 52,459,353. MPLADS utilization: 30.3%. Parliament attendance: 75.0%. Questions asked: 1. Debates participated: 8.
 
 ---
 
@@ -177,7 +138,7 @@ Anita Nagarsingh Chouhan's transparency profile is severely hampered by extensiv
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Anita Nagarsingh Chouhan's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 30.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

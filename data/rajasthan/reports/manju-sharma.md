@@ -3,23 +3,25 @@
 **Constituency:** Jaipur, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.37 Crore
+- **Liabilities:** Rs 41.70 Lakh
+- **Net Worth:** Rs 1.95 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 21% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 13.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Manju Sharma demonstrates mixed transparency performance with notable strengths in attendance (95%) and clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency and development fund utilization.
+Manju Sharma shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Manju Sharma
-
-### Overall Assessment
-Manju Sharma, BJP MP representing Jaipur, Rajasthan in the Lok Sabha, demonstrates a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While showing strong parliamentary attendance (95.0%) and a clean criminal record, substantial missing information regarding assets and MPLADS utilization raises concerns about overall financial transparency.
-
-### Fund Utilization & Development
-Critical data regarding MPLADS fund utilization is entirely unavailable, with entitled, released, and expended amounts all unreported. This represents a major transparency gap for constituency development assessment. The broader CAG audit context for Rajasthan reveals systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings highlight the importance of transparent MPLADS reporting, which is currently missing for MP Sharma.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are fundamental to public accountability. The MP receives Rs 245,000 monthly in compensation, but without asset disclosure, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during tenure.
-
-### Legal & Criminal Standing
-MP Sharma maintains a clean legal record with zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, the system flags low confidence in criminal data availability, suggesting the source may be incomplete rather than definitively confirming a clean record.
-
-### Parliamentary Performance
-Parliamentary engagement shows positive indicators with 95.0% attendance, demonstrating consistent presence in the House. MP Sharma has raised 21 questions and participated in 13 debates, indicating active legislative participation. However, no private member bills have been introduced, and committee participation data is unavailable due to potential Sansad profile inaccessibility. The evidence grade for parliamentary activity is rated 'C', indicating moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified (1 positive, 0 negative, 9 neutral). This suggests relatively low public visibility or media attention. The accessibility evidence grade is 'D', indicating poor data availability for assessing public outreach efforts. No committee participation data further limits assessment of MP Sharma's engagement in detailed policy work.
-
-### Data Quality & Caveats
-Multiple significant data quality issues compromise this assessment:
-- **Criminal Records**: Low confidence due to potentially unavailable sources
-- **Assets**: Complete absence of asset declaration data
-- **MPLADS**: No utilization data available despite CAG highlighting systemic state-level issues
-- **Committees**: No committee participation data found
-- **Legislative Effectiveness**: Low confidence in available data
-
-The evidence grades (Parliament: C, Accessibility: D) reflect substantial limitations in data comprehensiveness and reliability.
-
-### Key Takeaway
-While MP Sharma demonstrates good parliamentary attendance and maintains a clean criminal record, the assessment is severely hampered by missing critical transparency data, particularly regarding asset declarations and MPLADS utilization. The absence of development fund transparency is especially concerning given documented state-level irregularities in fund management. Enhanced disclosure compliance is essential for meaningful public accountability assessment.
+No criminal cases declared. Declared assets: Rs 23,661,843. MPLADS utilization: 13.1%. Parliament attendance: 95.0%. Questions asked: 21. Debates participated: 13.
 
 ---
 
@@ -169,7 +138,7 @@ While MP Sharma demonstrates good parliamentary attendance and maintains a clean
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manju Sharma's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 13.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

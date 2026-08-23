@@ -6,23 +6,23 @@
 **Age:** 45
 **Education:** Post Graduate
 **Profession:** MLA
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 53.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.80 Crore
-- **Immovable Assets:** Rs 2.20 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 4.00 Crore
 - **Liabilities:** Rs 57.08 Lakh
 - **Net Worth:** Rs 3.43 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 59.2%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Meghalaya: 7 relevant findings
@@ -95,57 +95,11 @@
 
 ## Qualitative Assessment
 
-Saleng A Sangma demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in legislative activity and committee participation. The MP shows concerning gaps in accessibility and public engagement, while maintaining average performance in asset declaration and MPLADS utilization.
+Saleng A Sangma shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Saleng A Sangma
-### Overall Assessment
-
-Saleng A Sangma (INC, Tura constituency, Meghalaya) presents a mixed transparency profile with strong legal compliance but significant data gaps that limit comprehensive assessment. At 45 years old with post-graduate education and previous MLA experience, he maintains clean criminal records and demonstrates moderate parliamentary engagement with 85% attendance. However, critical transparency metrics including MPLADS utilization and committee participation lack reliable data, hampering evaluation of his developmental impact.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with all key metrics (entitled, released, expended amounts) showing as "None." This represents a significant transparency gap given MPs' ₹5 crore annual MPLADS allocation for constituency development. The absence of utilization data prevents assessment of his effectiveness in addressing local infrastructure and development needs in Tura constituency.
-
-CAG audit findings for Meghalaya reveal systemic issues in fund management across the state, including ₹1,558 crore in idle funds lying unspent with district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for Sangma, it remains unclear how these state-level inefficiencies may affect his constituency projects.
-
-### Financial Transparency
-
-Sangma reports total assets worth ₹4.00 crore with a net worth of ₹3.43 crore. However, asset growth analysis is impossible as previous asset declarations are unavailable ("Previous: None"), preventing assessment of wealth accumulation patterns during his tenure. His monthly parliamentary compensation stands at ₹2.45 lakh, consistent with standard MP remuneration.
-
-The asset declaration receives a 'B' grade for evidence quality, indicating reasonably reliable financial disclosure, though the absence of historical asset data limits transparency regarding wealth changes over time.
-
-### Legal & Criminal Standing
-
-Sangma maintains an exemplary legal record with zero criminal cases across all categories—no pending cases, disposed cases, serious charges, or convictions. This clean criminal background, graded 'B' for evidence quality, represents a positive aspect of his public service profile and indicates adherence to legal standards expected of elected representatives.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate effectiveness with 85% attendance, exceeding many MPs' participation rates. He has raised 5 questions and participated in 3 debates during his tenure, demonstrating active involvement in legislative proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation.
-
-Committee participation data is unavailable, flagged as potentially missing due to inaccessible Sansad profile information. This data gap prevents assessment of his specialized policy contributions through parliamentary committees, which often represent significant portions of MPs' legislative work.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited controversial issues but also potentially indicates lower public visibility compared to more prominent political figures.
-
-Social media presence and direct constituent engagement metrics are not available in the provided data, limiting assessment of his accessibility to voters and digital outreach efforts. The accessibility evidence grade of 'D' indicates poor data quality in this domain.
-
-### Data Quality & Caveats
-
-Evidence quality varies significantly across domains: criminal records (B), assets (B), parliament activity (C), and accessibility (D). Multiple automated flags highlight data reliability concerns:
-
-- MPLADS data shows "low confidence" with all key metrics unavailable
-- Committee participation data is missing, possibly due to inaccessible official profiles  
-- Legislative effectiveness data has "low confidence" ratings
-- No social media or direct accessibility metrics are available
-
-These limitations substantially constrain comprehensive transparency assessment, particularly regarding fund utilization and constituent services.
-
-### Key Takeaway
-
-Saleng A Sangma demonstrates strong legal compliance and moderate parliamentary participation but faces significant transparency gaps in crucial areas including MPLADS fund utilization and committee work. While his clean criminal record and reasonable attendance are positive indicators, the absence of development fund data and limited public engagement metrics prevent full evaluation of his effectiveness as Tura's representative. Improved data collection on fund utilization and committee participation would substantially enhance transparency assessment capabilities.
+No criminal cases declared. Declared assets: Rs 40,049,264. MPLADS utilization: 59.2%. Parliament attendance: 85.0%. Questions asked: 5. Debates participated: 3.
 
 ---
 
@@ -185,7 +139,7 @@ Saleng A Sangma demonstrates strong legal compliance and moderate parliamentary 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -264,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Saleng A Sangma's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 59.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -283,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

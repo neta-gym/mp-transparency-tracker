@@ -6,23 +6,23 @@
 **Age:** 51
 **Education:** Graduate
 **Profession:** Salary and allowances received as Lok Sabha
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (29%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 47.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 48.42 Lakh
-- **Immovable Assets:** Rs 75.40 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 1.24 Crore
 - **Liabilities:** Rs 19.10 Lakh
 - **Net Worth:** Rs 1.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.6%
 
 ---
 
@@ -86,7 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,35 +97,11 @@
 
 ## Qualitative Assessment
 
-MP Ajay Tamta shows mixed transparency performance with moderate scores in fund utilization and asset disclosure, but significant gaps in legislative activities and public accessibility. While maintaining a clean criminal record, his zero scores in committee participation and legislative contributions indicate limited parliamentary engagement beyond basic duties.
+Ajay Tamta has a below-average transparency score of 47.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Ajay Tamta
-
-### Overall Assessment
-Ajay Tamta, BJP MP from Almora, Uttarakhand, presents a mixed transparency profile with notable data gaps limiting comprehensive evaluation. At 51 years old with graduate-level education, he maintains a clean legal record but faces significant transparency challenges due to incomplete parliamentary activity and MPLADS utilization data. His profile shows strengths in criminal record transparency but weaknesses in accessibility and parliamentary performance documentation.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic concerns in Uttarakhand's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about implementation effectiveness in the region.
-
-### Financial Transparency
-Tamta's declared total assets stand at ₹1.24 crore with a net worth of ₹1.05 crore. However, no previous asset declaration data is available, preventing assessment of wealth growth patterns or asset accumulation trends during his tenure. His monthly compensation is ₹2.45 lakh, consisting of salary and allowances as a Lok Sabha member. The absence of comparative asset data limits transparency regarding financial progression while in office.
-
-### Legal & Criminal Standing
-Tamta maintains an exemplary criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. This clean legal standing represents a significant positive aspect of his transparency profile, indicating no legal impediments to his parliamentary service.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with 0% attendance recorded, zero questions asked, zero debate participations, and zero private bills introduced. However, as a Minister, lower attendance figures may be attributable to executive duties rather than poor performance. The complete absence of parliamentary engagement metrics raises questions about legislative effectiveness, though ministerial responsibilities could explain reduced floor participation.
-
-### Public Engagement & Accessibility
-Public engagement assessment is limited by data availability. News sentiment analysis across 10 articles shows entirely neutral coverage (0 positive, 0 negative, 10 neutral), suggesting minimal media attention or controversy. No committee membership data is available, and legislative effectiveness metrics are unreliable. Social media presence and constituency outreach programs are not documented in available sources.
-
-### Data Quality & Caveats
-The assessment faces significant limitations due to multiple data quality issues. Evidence grades range from B (criminal record and assets) to D (accessibility), with parliament activity receiving a C grade. Specific warnings include low confidence in MPLADS data and parliamentary activity metrics. Committee information is entirely absent, suggesting Sansad profile unavailability. Legislative effectiveness data reliability is questioned, and 7 CAG audit findings for Uttarakhand provide relevant but indirect context for fund utilization concerns.
-
-### Key Takeaway
-While Ajay Tamta maintains a clean legal record and transparent asset declarations, significant data gaps in MPLADS utilization, parliamentary activity, and public engagement metrics prevent a comprehensive transparency assessment. His ministerial role may explain reduced parliamentary floor activity, but the absence of development fund utilization data and limited public engagement documentation represent critical transparency deficits requiring attention for improved accountability.
+No criminal cases declared. Declared assets: Rs 12,381,663. MPLADS utilization: 1.6%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -164,7 +141,7 @@ While Ajay Tamta maintains a clean legal record and transparent asset declaratio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +220,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ajay Tamta's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -262,9 +241,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

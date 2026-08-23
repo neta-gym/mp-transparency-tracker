@@ -3,23 +3,25 @@
 **Constituency:** Shirur, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 10.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.42 Crore
+- **Liabilities:** Rs 4.50 Crore
+- **Net Worth:** Rs 3.92 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Amol Ramsing Kolhe shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and reasonable attendance/participation levels, he scores poorly in critical transparency metrics including committee work, legislative contributions, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information disclosure.
+Amol Ramsing Kolhe shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Amol Ramsing Kolhe
-
-### Overall Assessment
-Amol Ramsing Kolhe, representing Shirur constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile characterized by moderate parliamentary engagement but significant data gaps across key accountability metrics. While maintaining a clean legal record, the substantial absence of financial and development fund data severely limits comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, making it impossible to assess Kolhe's development work effectiveness. This data gap is concerning given CAG audit findings highlighting systemic issues in Maharashtra's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also revealed 18% of sampled works were abandoned or incomplete, raising questions about development project oversight in the state.
-
-### Financial Transparency
-Asset declaration data is completely missing, preventing any analysis of Kolhe's financial transparency or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are fundamental to assessing elected representatives' financial accountability and potential corruption risks.
-
-### Legal & Criminal Standing
-Kolhe maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a low confidence warning, indicating potential source reliability issues that could affect the accuracy of criminal record information.
-
-### Parliamentary Performance
-Kolhe demonstrates moderate parliamentary engagement with 70% attendance, meeting the minimum participation threshold. His legislative activity includes asking 65 questions and participating in 5 debates, showing reasonable involvement in parliamentary proceedings. However, he has introduced zero private member bills, indicating limited initiative in proposing independent legislation. The evidence grade for parliamentary data is rated 'C', suggesting moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 8 news articles with entirely neutral sentiment - zero positive or negative coverage. This neutral profile suggests limited public visibility or controversial positions. The accessibility evidence grade is rated 'D', indicating poor data availability regarding public engagement metrics. No social media or public outreach data is available to assess constituent interaction levels.
-
-### Data Quality & Caveats
-This assessment faces significant data quality limitations with multiple warning flags. Criminal record data has low confidence due to potential source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is entirely absent, preventing fund utilization analysis. Committee membership information is unavailable, possibly due to missing Sansad profile data. Legislative effectiveness data also carries low confidence ratings, limiting comprehensive performance assessment.
-
-### Key Takeaway
-While Kolhe maintains basic parliamentary participation and a clean legal record, the extensive data gaps across financial transparency and development fund utilization metrics severely compromise accountability assessment. The absence of asset declarations and MPLADS data, combined with concerning CAG audit findings about fund mismanagement in Maharashtra, raises transparency concerns that require immediate attention for comprehensive public accountability.
+No criminal cases declared. Declared assets: Rs 84,207,251. MPLADS utilization: 12.7%. Parliament attendance: 70.0%. Questions asked: 65. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ While Kolhe maintains basic parliamentary participation and a clean legal record
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amol Ramsing Kolhe's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

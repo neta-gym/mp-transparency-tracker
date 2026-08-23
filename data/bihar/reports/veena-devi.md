@@ -3,32 +3,34 @@
 **Constituency:** Vaishali, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 60.9 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 46.72 Crore
+- **Liabilities:** Rs 16.48 Crore
+- **Net Worth:** Rs 30.24 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 63.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Veena Devi demonstrates mixed transparency with strong attendance (95%) and no criminal issues, but faces significant gaps in legislative participation, committee involvement, and public accessibility. Her MPLADS and asset disclosure performance is moderate at 50%, while complete absence in committee work and legislative activities raises concerns about her parliamentary effectiveness.
+Veena Devi shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-## Executive Summary: Veena Devi
-
-### Overall Assessment
-Veena Devi, representing Vaishali constituency in Bihar under the Lok Jan Shakti Party (Ram Vilas), presents a mixed transparency profile with significant data gaps. Her parliamentary attendance of 95% demonstrates strong commitment to legislative duties, though broader transparency metrics remain unclear due to incomplete information across multiple domains.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap for assessing her development work in Vaishali constituency. The CAG audit context reveals systemic issues in Bihar's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, highlighting broader accountability challenges in the state's development framework.
-
-### Financial Transparency
-Asset declaration data is entirely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial disclosure severely limits transparency assessment. Her monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-Veena Devi maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal background verification processes.
-
-### Parliamentary Performance
-Her parliamentary engagement shows selective participation with 95% attendance demonstrating strong presence in legislative proceedings. However, her substantive contribution appears limited, with only 1 question raised and 1 debate participation recorded, alongside zero private member bills introduced. No committee membership data is available, indicating either non-participation or data collection issues regarding her legislative committee work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse or visibility. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms, while social media presence appears minimal based on available data sources. This limited public interface may impact constituent communication and feedback channels.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns. Criminal record data carries low confidence flags due to potential source unavailability. Asset information shows low confidence ratings, while MPLADS data appears completely inaccessible. Committee participation data is entirely missing, suggesting Sansad profile unavailability. Legislative effectiveness metrics also carry low confidence ratings. The overall evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these systematic data quality issues.
-
-### Key Takeaway
-While Veena Devi demonstrates strong parliamentary attendance (95%), her transparency profile remains largely opaque due to extensive missing data across financial declarations, development fund utilization, and committee participation. The clean criminal record provides some positive indication, but the absence of critical transparency metrics - particularly MPLADS utilization and asset declarations - significantly hampers public accountability assessment. Immediate priority should focus on improving data disclosure mechanisms and ensuring compliance with standard transparency requirements for public representatives.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 467,170,049. MPLADS utilization: 63.9%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ While Veena Devi demonstrates strong parliamentary attendance (95%), her transpa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Veena Devi's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 63.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Cuttack, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 58.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 13.0 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.91 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 19.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 16.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Bhartruhari Mahtab shows strong performance in parliamentary attendance (95%) and participation (90%) with a clean criminal record, demonstrating active engagement in legislative duties. However, significant transparency gaps exist in committee work, legislative contributions, and public accessibility, which substantially impact the overall score despite good attendance metrics.
+Bhartruhari Mahtab shows moderate transparency with a score of 58.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bhartruhari Mahtab
-
-### Overall Assessment
-Bhartruhari Mahtab, BJP MP representing Cuttack constituency in Odisha, presents a mixed transparency profile with significant data gaps. While demonstrating strong parliamentary attendance (95%), the assessment is severely limited by incomplete financial and developmental data across multiple key indicators. The profile suggests active legislative participation but lacks sufficient transparency metrics for comprehensive evaluation.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This represents a critical transparency gap given the CAG audit context revealing systemic issues in Odisha's fund management. The CAG 2010 audit highlighted Rs 1,558 crore in idle funds across district authorities and found 34% of sampled utilization certificates lacked proper supporting documents. Additionally, 18% of sampled works were abandoned or incomplete, raising concerns about development project oversight in the region.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data significantly undermines accountability assessment. Monthly compensation is recorded at Rs 2,45,000, which appears consistent with standard MP remuneration structures. The lack of asset data prevents any meaningful analysis of wealth accumulation or potential conflicts of interest.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be unreliable or unavailable. While the clean record is positive, the data quality caveat requires cautious interpretation of this finding.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong attendance at 95%, well above typical benchmarks. Legislative activity includes 72 questions raised and participation in 16 debates, indicating active engagement in parliamentary proceedings. However, no private member bills were introduced, and no committee participation data is available due to unavailable Sansad profiles. The evidence grade of 'C' for parliamentary data suggests moderate reliability in this assessment area.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited, with accessibility receiving a 'D' evidence grade. News sentiment analysis covers 10 articles, all categorized as neutral with no positive or negative coverage identified. This neutral media profile suggests limited public discourse around the MP's activities, which could indicate either low controversy or insufficient media attention. Social media presence and direct public engagement metrics are not available in the provided data.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data quality issues:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information shows low confidence across all financial metrics
-- MPLADS data is entirely unavailable with low confidence ratings
-- Committee participation data is missing due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades range from 'C' for parliament to 'D' for accessibility, indicating below-average data reliability. Sources include PRS, social media, and news outlets, but coverage appears incomplete across key transparency indicators.
-
-### Key Takeaway
-Bhartruhari Mahtab's transparency profile is characterized by strong parliamentary attendance but significant data gaps that prevent comprehensive accountability assessment. The absence of MPLADS utilization data is particularly concerning given documented fund management issues in Odisha highlighted by CAG audits. While maintaining a clean criminal record and active parliamentary participation, the lack of financial disclosure and development fund transparency severely limits meaningful evaluation of the MP's overall performance and accountability to constituents.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 199,052,798. MPLADS utilization: 16.3%. Parliament attendance: 95.0%. Questions asked: 72. Debates participated: 16.
 
 ---
 
@@ -169,7 +138,7 @@ Bhartruhari Mahtab's transparency profile is characterized by strong parliamenta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhartruhari Mahtab's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

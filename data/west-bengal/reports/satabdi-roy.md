@@ -3,23 +3,25 @@
 **Constituency:** Birbhum, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.5 / 100
+## Composite Transparency Score: 49.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 25.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.92 Crore
+- **Liabilities:** Rs 2.02 Crore
+- **Net Worth:** Rs 8.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Satabdi Roy demonstrates a mixed transparency profile with notable strengths in criminal record disclosure (100%) but significant weaknesses in legislative participation and committee engagement. Her moderate scores in MPLADS utilization and asset declaration are offset by poor accessibility and zero committee participation, indicating limited parliamentary engagement beyond basic requirements.
+Satabdi Roy has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Satabdi Roy
-
-### Overall Assessment
-
-Satabdi Roy, representing Birbhum constituency in West Bengal for the All India Trinamool Congress, presents a transparency profile with significant data gaps that limit comprehensive assessment. With a monthly compensation of ₹2,45,000, her parliamentary attendance stands at 50%, which is below optimal levels for effective representation. The absence of critical data on assets, MPLADS utilization, and committee participation raises concerns about transparency and accountability.
-
-### Fund Utilization & Development
-
-No MPLADS data is available for Satabdi Roy, making it impossible to assess her development fund utilization or project implementation effectiveness. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in West Bengal's fund management. The CAG Report 31 of 2010 revealed ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data, her constituency development performance cannot be evaluated.
-
-### Financial Transparency
-
-Asset disclosure information is entirely unavailable, preventing any assessment of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations represents a significant transparency deficit. Her monthly parliamentary compensation of ₹2,45,000 is the only available financial data point.
-
-### Legal & Criminal Standing
-
-Satabdi Roy maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the data quality warning necessitates cautious interpretation.
-
-### Parliamentary Performance
-
-Roy's parliamentary engagement shows mixed results. Her attendance rate of 50% falls short of expectations for effective representation, indicating potential gaps in legislative participation. She has participated in 3 debates, demonstrating some level of parliamentary engagement, but has asked zero questions and introduced no private bills. This pattern suggests limited proactive legislative involvement beyond basic debate participation. No committee membership data is available, further limiting assessment of her parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-
-Media analysis reveals neutral public perception with 10 articles providing mixed/neutral coverage (0 positive, 0 negative, 10 neutral). This suggests limited public visibility or controversial positioning. The absence of accessibility metrics and social media engagement data prevents comprehensive evaluation of her constituent outreach efforts. Evidence grades show particularly low accessibility (Grade D), indicating significant gaps in public engagement measurement.
-
-### Data Quality & Caveats
-
-This assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Parliamentary data receives a Grade C evidence rating, while accessibility scores Grade D. The absence of committee participation data suggests unavailable Sansad profiles. These data gaps significantly limit the reliability of this transparency assessment and highlight systemic issues in political transparency infrastructure.
-
-### Key Takeaway
-
-Satabdi Roy's transparency profile is characterized by concerning data gaps that prevent comprehensive accountability assessment. While maintaining a clean criminal record and some parliamentary participation, her 50% attendance rate and lack of proactive legislative engagement raise questions about representation effectiveness. The complete absence of asset and MPLADS data, combined with low accessibility metrics, suggests significant transparency deficits. Improved data collection and disclosure mechanisms are essential for meaningful accountability evaluation.
+No criminal cases declared. Declared assets: Rs 109,245,500. MPLADS utilization: 31.8%. Parliament attendance: 50.0%. Debates participated: 3.
 
 ---
 
@@ -170,7 +138,7 @@ Satabdi Roy's transparency profile is characterized by concerning data gaps that
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Satabdi Roy's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

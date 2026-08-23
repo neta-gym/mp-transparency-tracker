@@ -3,23 +3,25 @@
 **Constituency:** Nashik, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 58.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 11.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 15.86 Crore
+- **Liabilities:** Rs 19.19 Lakh
+- **Net Worth:** Rs 15.67 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 2
+- **Utilization Rate:** 13.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,45 +94,11 @@
 
 ## Qualitative Assessment
 
-Rajabhau Parag Prakash Waje shows a mixed transparency profile with strong performance in attendance and maintaining a clean criminal record, but significant gaps in committee participation, legislative engagement, and public accessibility. The moderate MPLADS and asset disclosure scores suggest room for improvement in financial transparency and development project reporting.
+Rajabhau Parag Prakash Waje shows moderate transparency with a score of 58.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-# Executive Summary: Rajabhau Parag Prakash Waje
-
-## Executive Summary: Rajabhau Parag Prakash Waje
-
-### Overall Assessment
-Rajabhau Parag Prakash Waje, representing Nashik constituency in Maharashtra for Shiv Sena (Uddhav Balasaheb Thackrey), presents a mixed transparency profile with significant data limitations. While maintaining perfect parliamentary attendance and a clean criminal record, critical information regarding assets and development fund utilization remains unavailable, limiting comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-Complete data on MPLADS fund utilization is unavailable, with no information on entitled amount, funds released, or expenditure patterns. This represents a significant transparency gap given the constituency's development needs. The absence of utilization data is concerning within the context of CAG audit findings revealing systematic issues in MPLADS implementation across Maharashtra, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts and 18% of sampled works remaining incomplete or abandoned.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data available on total assets, previous holdings, or wealth growth patterns. This prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset disclosure, comprehensive financial transparency cannot be evaluated. The absence of this mandatory information raises questions about compliance with disclosure requirements.
-
-### Legal & Criminal Standing
-Waje maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, or convictions. This clean slate indicates no formal legal challenges to his conduct, though data confidence is flagged as low due to potential source limitations. The absence of criminal proceedings suggests compliance with legal standards expected of elected representatives.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with perfect attendance (100%) demonstrating commitment to legislative duties. However, active participation remains limited with only 7 questions raised and 5 debate contributions, indicating minimal involvement in legislative discourse. No private member bills were introduced, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public perception with 10 articles providing balanced reporting - notably, zero positive or negative coverage suggests either limited media engagement or non-controversial tenure. The absence of accessibility data and social media engagement metrics limits evaluation of constituent outreach efforts. Evidence grade of 'D' for accessibility indicates poor transparency in public engagement channels.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact assessment reliability:
-- Criminal record data marked as low confidence due to potential source unavailability
-- Asset information completely missing with low confidence warnings
-- MPLADS utilization data absent with low confidence indicators
-- Committee participation information unavailable due to potential Sansad profile issues
-- Legislative effectiveness data flagged as low confidence
-- Overall evidence grades of 'C' for parliament and 'D' for accessibility indicate substantial data limitations
-
-The Maharashtra CAG audit context reveals 7 relevant findings highlighting systematic issues in fund management and utilization across the state, though specific constituency-level data remains unavailable.
-
-### Key Takeaway
-While Rajabhau Parag Prakash Waje maintains perfect parliamentary attendance and a clean criminal record, critical transparency gaps in asset disclosure and development fund utilization prevent comprehensive performance evaluation. The absence of mandatory financial disclosures and MPLADS data, combined with minimal legislative participation beyond attendance, suggests limited transparency and engagement. Improved data availability and more active parliamentary participation would enhance accountability to Nashik constituents. The clean legal standing provides a positive foundation, but substantial transparency improvements are needed across financial and development dimensions.
+No criminal cases declared. Declared assets: Rs 158,637,378. MPLADS utilization: 13.9%. Parliament attendance: 100.0%. Questions asked: 7. Debates participated: 5.
 
 ---
 
@@ -172,7 +138,7 @@ While Rajabhau Parag Prakash Waje maintains perfect parliamentary attendance and
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -251,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajabhau Parag Prakash Waje's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 13.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

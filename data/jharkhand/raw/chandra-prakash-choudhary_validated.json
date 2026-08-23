@@ -14,7 +14,7 @@
     "education": "Graduate",
     "profession": null,
     "age": 55,
-    "photo_url": null
+    "photo_url": "/mp-photos/5115.jpg"
   },
   "findings": {
     "mp": {
@@ -22,86 +22,80 @@
       "constituency": "Giridih",
       "state": "jharkhand",
       "party": "AJSU Party",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 8523,
       "slug": "chandra-prakash-choudhary",
       "house": "lok_sabha",
       "sansad_member_id": 5115,
       "profile_url": null,
       "canonical_name": "Chandra Prakash Choudhary",
       "name_aliases": [],
-      "education": null,
+      "education": "Graduate",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 55,
+      "photo_url": "/mp-photos/5115.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 2,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 2,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 49849182.0,
+      "liabilities": 27031670.0,
+      "net_worth": 22817512.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:47.241487Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 39.7,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 8.39,
+      "expended": 4.71,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.745794Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:20:40.683376Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:20:42.394862Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:22:57.838138Z",
+          "notes": "Official eSAKSHI REST API — Works: 632 recommended, 594 sanctioned, 29 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 632,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 32.04081632653061
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:21:19.745896Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758943Z",
+          "fetched_at": "2026-08-23T16:44:16.312882Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758955Z",
+          "fetched_at": "2026-08-23T16:44:16.312894Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758967Z",
+          "fetched_at": "2026-08-23T16:44:16.312904Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758973Z",
+          "fetched_at": "2026-08-23T16:44:16.312910Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758979Z",
+          "fetched_at": "2026-08-23T16:44:16.312916Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758984Z",
+          "fetched_at": "2026-08-23T16:44:16.312921Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:21:19.758988Z",
+          "fetched_at": "2026-08-23T16:44:16.312926Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +399,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,74 +420,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Chandra Prakash Choudhary\n\n### Overall Assessment\nChandra Prakash Choudhary, representing Giridih constituency in Jharkhand under the AJSU Party banner, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating solid parliamentary attendance (85%), critical financial and developmental data is largely unavailable, hampering evaluation of his effectiveness as a public representative.\n\n### Fund Utilization & Development\nMPLADS fund utilization data is entirely unavailable, preventing assessment of developmental work in the Giridih constituency. The CAG audit context for Jharkhand reveals concerning systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. With 18% of sampled works remaining abandoned or incomplete, these findings raise questions about fund management efficiency in the state, though specific impact on Choudhary's constituency cannot be determined from available data.\n\n### Financial Transparency\nAsset declaration information is completely absent, making it impossible to assess financial transparency or track wealth accumulation during tenure. Without baseline or current asset data, no growth ratio or net worth analysis can be conducted. The monthly compensation of Rs 245,000 represents the only available financial metric. This data gap significantly undermines transparency assessment in one of the most critical areas for public accountability.\n\n### Legal & Criminal Standing\nChoudhary maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in criminal record verification. Despite this caveat, the absence of any recorded criminal involvement represents a positive aspect of his profile.\n\n### Parliamentary Performance\nParliamentary engagement shows moderate activity levels with 85% attendance, demonstrating regular participation in legislative proceedings. He has raised 37 questions and participated in 5 debates, indicating engagement with constituency and national issues. However, no private member bills have been introduced, suggesting limited initiative in legislative innovation. Committee participation data is unavailable, preventing assessment of specialized parliamentary work.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals neutral public engagement with 10 news articles providing balanced coverage (no positive or negative sentiment detected). The absence of strong positive or negative media attention suggests either limited high-profile activities or minimal controversial involvement. Social media presence data is included in sources but specific metrics are not provided. The 'D' grade for accessibility indicates significant challenges in public outreach and transparency.\n\n### Data Quality & Caveats\nMultiple data quality warnings severely limit analysis reliability. Criminal record data carries low confidence warnings, asset information is entirely missing, and MPLADS utilization data is unavailable. Committee participation and legislative effectiveness data show low confidence levels. The evidence grades of 'C' for parliament and 'D' for accessibility reflect moderate to poor data availability. These gaps may result from unavailable Sansad profiles or incomplete data collection, significantly impacting the comprehensiveness of this assessment.\n\n### Key Takeaway\nWhile Choudhary maintains clean criminal records and reasonable parliamentary attendance, the extensive absence of crucial transparency data - particularly regarding assets and development fund utilization - severely limits accountability assessment. The systemic issues highlighted in CAG audits for Jharkhand underscore the importance of robust fund monitoring, making the lack of MPLADS data particularly concerning for constituents seeking accountability in developmental spending.",
-  "validated_at": "2026-05-21T14:21:39.234914Z",
-  "assets": {
-    "total_assets": 49849182.0,
-    "liabilities": 27031670.0,
-    "net_worth": 22817512.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 2,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 2,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.39,
-    "expended": 4.71,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:22:57.838138Z",
-        "notes": "Official eSAKSHI REST API — Works: 632 recommended, 594 sanctioned, 29 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 632,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 32.04081632653061
-  }
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 49,849,182. MPLADS utilization: 32.0%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5.",
+  "validated_at": "2026-08-23T16:44:16.313851Z"
 }

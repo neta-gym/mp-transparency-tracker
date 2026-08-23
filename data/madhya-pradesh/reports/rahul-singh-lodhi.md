@@ -3,23 +3,25 @@
 **Constituency:** Damoh, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 40
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.5 / 100
+## Composite Transparency Score: 50.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 28.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.64 Crore
+- **Liabilities:** Rs 5.53 Lakh
+- **Net Worth:** Rs 1.58 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 35.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Rahul Singh Lodhi shows a mixed transparency profile with significant gaps in public engagement and legislative activity. While maintaining a clean criminal record and moderate performance in MPLADS utilization and asset disclosure, he demonstrates concerning weaknesses in parliamentary participation, committee involvement, and public accessibility. The low data confidence level suggests limited public information availability.
+Rahul Singh Lodhi shows moderate transparency with a score of 50.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Rahul Singh Lodhi
-
-### Overall Assessment
-
-Rahul Singh Lodhi, BJP MP from Damoh (Madhya Pradesh), presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement appears limited with 60% attendance and minimal legislative activity. The absence of asset and MPLADS data raises concerns about financial transparency, though this may reflect data availability issues rather than deliberate non-disclosure.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This creates a complete blind spot regarding the MP's development fund management. The CAG audit context reveals systemic issues in Madhya Pradesh's fund utilization, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, suggesting broader infrastructural challenges in the state that may affect local development initiatives.
-
-### Financial Transparency
-
-Asset disclosure presents a major transparency gap, with no data available on total assets, previous declarations, growth ratios, or net worth. This absence of financial information makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. The MP receives Rs 245,000 in total monthly compensation, but without baseline asset data, tracking any correlation between income and wealth changes is not feasible.
-
-### Legal & Criminal Standing
-
-Lodhi maintains a completely clean legal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems rather than confirmed clean status.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows concerning limitations. With 60% attendance, Lodhi falls below optimal participation levels in legislative proceedings. More significantly, he has contributed zero questions, participated in zero debates, and introduced zero private member bills. This minimal legislative activity suggests limited active representation of constituency interests in parliamentary forums. No committee membership data is available, indicating either non-participation in parliamentary committees or data collection gaps.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - zero positive and zero negative coverage. This neutral media profile suggests either limited public visibility or non-controversial but unremarkable public engagement. The absence of positive coverage may indicate missed opportunities for highlighting developmental achievements or policy initiatives. Social media presence data is referenced in sources but specific engagement metrics are not provided, limiting assessment of digital constituency outreach.
-
-### Data Quality & Caveats
-
-Multiple significant data quality warnings affect this assessment. Criminal record data carries low confidence due to potential source unavailability. Asset information has low confidence ratings, while MPLADS data is entirely missing. Committee participation data is unavailable, possibly due to incomplete Sansad profile access. Legislative effectiveness data also has low confidence ratings. The evidence grades indicate 'C' for parliamentary data and 'D' for accessibility information, suggesting substantial limitations in data comprehensiveness and reliability.
-
-### Key Takeaway
-
-Rahul Singh Lodhi's transparency profile is characterized by significant information gaps that prevent comprehensive assessment of his effectiveness as an MP. While maintaining a clean criminal record, his minimal parliamentary participation (zero questions, debates, or bills) and unavailable MPLADS data raise questions about active constituency representation. The complete absence of asset disclosure data and limited public engagement, combined with systemic fund utilization issues highlighted in CAG audits across Madhya Pradesh, suggest need for improved transparency mechanisms. Voters should seek additional information sources to make informed assessments given these substantial data limitations.
+No criminal cases declared. Declared assets: Rs 16,355,135. MPLADS utilization: 35.5%. Parliament attendance: 60.0%.
 
 ---
 
@@ -170,7 +138,7 @@ Rahul Singh Lodhi's transparency profile is characterized by significant informa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rahul Singh Lodhi's MPLADS account: Released: Rs 16, Expended: Rs 6, Utilization: 35.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

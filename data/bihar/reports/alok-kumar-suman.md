@@ -3,22 +3,24 @@
 **Constituency:** Gopalganj, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 61.5 / 100
+## Composite Transparency Score: 67.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 23.8 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.67 Crore
+- **Liabilities:** Rs 8.75 Lakh
+- **Net Worth:** Rs 2.58 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 29.7%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -102,45 +102,11 @@
 
 ## Qualitative Assessment
 
-Alok Kumar Suman demonstrates mixed transparency performance with strong attendance and criminal record disclosure but significant weaknesses in committee participation and public accessibility. His moderate MPLADS and assets transparency, combined with zero committee engagement, suggests inconsistent commitment to legislative oversight responsibilities.
+Alok Kumar Suman shows moderate transparency with a score of 67.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-# Executive Summary: Alok Kumar Suman
-
-## Executive Summary: Alok Kumar Suman
-Alok Kumar Suman, representing Gopalganj constituency in Bihar as a Janata Dal (United) MP, presents a mixed transparency profile with notable parliamentary engagement but significant data gaps across key accountability metrics. While demonstrating strong legislative participation, critical financial and development data remains largely unavailable.
-
-### Overall Assessment
-The assessment reveals a parliamentarian with high legislative attendance and moderate engagement in formal proceedings, but substantial information deficits in financial transparency and development fund utilization. Evidence quality is rated 'C' for parliamentary activities and 'D' for accessibility measures.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This data gap is concerning given the CAG audit context revealing systemic issues in Bihar's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about local development effectiveness.
-
-### Financial Transparency
-Asset declaration information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a critical transparency gap. The MP receives a monthly compensation of Rs 2,45,000, but without asset disclosures, financial accountability cannot be properly assessed.
-
-### Legal & Criminal Standing
-Alok Kumar Suman maintains a clean legal record with zero criminal cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in source availability or verification.
-
-### Parliamentary Performance
-The MP demonstrates strong parliamentary engagement with perfect 100% attendance, significantly above national averages. Legislative activity shows moderate participation with 51 questions raised, 18 debate contributions, and 3 private member bills introduced. Zero hour mentions and special mentions are notably absent, indicating limited use of these parliamentary tools for constituency representation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with predominantly neutral sentiment (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversial engagement. Social media presence and direct citizen accessibility metrics are not provided. Committee membership information is unavailable, potentially indicating limited specialized legislative contribution.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly limit assessment reliability:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is entirely missing with low confidence ratings
-- MPLADS utilization data is completely unavailable
-- Committee participation data is absent
-- Legislative effectiveness metrics have low confidence ratings
-
-The evidence grading system rates parliamentary data as 'C' and accessibility as 'D', indicating substantial information deficits that compromise comprehensive evaluation.
-
-### Key Takeaway
-While Alok Kumar Suman demonstrates commendable parliamentary attendance and maintains a clean legal record, critical transparency gaps in financial disclosures, development fund utilization, and public engagement metrics prevent a comprehensive accountability assessment. The lack of MPLADS data is particularly concerning given documented systemic issues in Bihar's development fund management. Improved data availability and financial transparency would significantly enhance public accountability evaluation.
+No criminal cases declared. Declared assets: Rs 26,713,230. MPLADS utilization: 29.7%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 18.
 
 ---
 
@@ -180,7 +146,7 @@ While Alok Kumar Suman demonstrates commendable parliamentary attendance and mai
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Alok Kumar Suman's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 29.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -276,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

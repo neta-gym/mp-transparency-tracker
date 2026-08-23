@@ -3,23 +3,25 @@
 **Constituency:** Guna, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 29.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 424.75 Crore
+- **Liabilities:** Rs 48.24 Lakh
+- **Net Worth:** Rs 424.27 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 36.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Jyotiraditya M Scindia shows a mixed transparency profile with notable strengths in criminal record disclosure but significant weaknesses in committee participation, legislative activity, and public accessibility. His moderate performance in core areas like MPLADS utilization and asset declaration is offset by concerning gaps in parliamentary engagement and constituent interaction.
+Jyotiraditya M Scindia shows moderate transparency with a score of 54.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Jyotiraditya M Scindia
-
-### Overall Assessment
-Jyotiraditya M Scindia serves as the BJP MP for Guna, Madhya Pradesh, and currently holds ministerial position. This transparency assessment reveals significant data gaps across most evaluated categories, with evidence grades of 'C' for parliamentary activity and 'D' for accessibility. The limited available data prevents a comprehensive evaluation of his transparency and accountability record.
-
-### Fund Utilization & Development
-No MPLADS data is available for entitled funds, releases, expenditure, or utilization rates. However, relevant CAG audit findings for Madhya Pradesh highlight systemic concerns: Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of sampled utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. These state-level findings suggest potential oversight challenges in development fund management, though specific data for Scindia's constituency remains unavailable.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous asset values, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a fundamental requirement for public accountability. Monthly compensation is listed at Rs 245,000, which appears to reflect standard parliamentary remuneration including ministerial allowances.
-
-### Legal & Criminal Standing
-Scindia shows a clean criminal record with zero cases across all categories - no serious cases, pending cases, disposed cases, or convictions. However, the data carries a low confidence warning, indicating potential source unavailability. While the reported clean record is positive, the data quality caveat limits confidence in this assessment.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with no available information on attendance percentage, questions asked, debates participated in, or private bills introduced. The notation indicates Scindia serves as a minister, which typically results in lower recorded attendance due to executive duties taking precedence over parliamentary sessions. The 'C' evidence grade for parliamentary data suggests moderate reliability concerns.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited public discourse engagement. The accessibility evidence grade of 'D' suggests poor data availability for public engagement metrics. No committee data was found, potentially due to unavailable Sansad profiles, further limiting assessment of legislative engagement.
-
-### Data Quality & Caveats
-Multiple automated warnings indicate substantial data quality issues: low confidence ratings for criminal records, assets, MPLADS utilization, and parliamentary activity. Committee and legislative effectiveness data are entirely absent. Sources include PRS Legislative Research, social media, and news outlets, but coverage appears incomplete. The evidence grading system shows moderate confidence only in parliamentary data ('C') and poor confidence in accessibility metrics ('D').
-
-### Key Takeaway
-Jyotiraditya M Scindia's transparency profile is severely hampered by extensive data gaps across critical accountability measures. While no negative indicators are present (clean criminal record, neutral media coverage), the absence of asset declarations, MPLADS utilization data, and detailed parliamentary performance metrics prevents meaningful transparency assessment. As a minister representing Guna constituency, comprehensive public disclosure of development fund utilization and asset growth would significantly enhance accountability. Citizens and stakeholders should advocate for improved data availability to enable proper evaluation of their representative's performance and transparency standards.
+No criminal cases declared. Declared assets: Rs 4,247,494,078. MPLADS utilization: 36.2%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +139,7 @@ Jyotiraditya M Scindia's transparency profile is severely hampered by extensive 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jyotiraditya M Scindia's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 36.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

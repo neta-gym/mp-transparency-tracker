@@ -3,32 +3,32 @@
 **Constituency:** Pataliputra, Bihar
 **Party:** Rashtriya Janata Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 41.5 / 100
+## Composite Transparency Score: 39.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,20 +36,21 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.26 Crore
+- **Liabilities:** Rs 1.15 Crore
+- **Net Worth:** Rs 9.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,44 +92,11 @@
 
 ## Qualitative Assessment
 
-Misha Bharti demonstrates a mixed transparency profile with concerning gaps in parliamentary engagement. While she maintains a clean criminal record and shows moderate performance in MPLADS utilization, assets disclosure, and attendance, she has zero participation in debates, committee work, and legislative activities, indicating limited active involvement in parliamentary processes.
+Misha Bharti has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Misha Bharti
-
-### Overall Assessment
-Misha Bharti, representing Pataliputra constituency in Bihar for the Rashtriya Janata Dal (RJD), presents a mixed transparency profile with significant data gaps across multiple dimensions. While maintaining a clean criminal record and moderate parliamentary attendance (60%), the absence of critical financial and developmental data severely limits comprehensive assessment. The MP's profile is characterized by limited legislative engagement and substantial transparency concerns regarding asset disclosure and MPLADS fund utilization.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization percentages. This represents a critical transparency gap given the MP's constituency in Bihar, where CAG audits have identified systemic issues with fund management. The 2010 CAG audit (Report 31) revealed significant concerns in Bihar including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific data on Bharti's MPLADS performance, constituents cannot assess developmental impact or fund accountability.
-
-### Financial Transparency
-Asset disclosure presents major transparency concerns with no data available on current assets, previous holdings, growth ratios, or net worth. This complete absence of financial information prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The only available financial data is the standard monthly compensation of Rs 2,45,000. This lack of asset transparency significantly undermines public accountability and raises questions about compliance with mandatory disclosure requirements.
-
-### Legal & Criminal Standing
-Bharti maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, suggesting potential gaps in criminal record verification. While this appears positive for public trust, the data quality concerns warrant cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 60% attendance, indicating moderate commitment to House proceedings. However, legislative productivity is concerning with zero questions raised, zero debate participations, and zero private bills introduced. This suggests minimal active engagement in parliamentary processes beyond physical attendance. The low evidence grade of 'C' for parliament data indicates these metrics may not capture the full scope of parliamentary activity.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited due to poor accessibility data quality (Grade 'D'). News coverage analysis reveals 10 articles with neutral sentiment (no positive or negative coverage), suggesting limited media presence or public visibility. The absence of committee membership data and limited legislative activity indicate potentially weak constituent engagement mechanisms. Social media presence appears minimal based on available sources.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact assessment reliability:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence warnings
-- MPLADS data reliability is questioned
-- Committee membership data is entirely absent
-- Legislative effectiveness data has low confidence ratings
-- Parliament data receives only a 'C' evidence grade
-- Accessibility metrics receive the lowest 'D' grade
-
-These limitations suggest either incomplete data collection, non-disclosure by the MP, or systemic reporting gaps that prevent comprehensive transparency assessment.
-
-### Key Takeaway
-Misha Bharti's transparency profile is characterized by significant data voids that prevent meaningful public accountability assessment. While maintaining a clean criminal record and moderate parliamentary attendance, the complete absence of asset disclosure and MPLADS utilization data, combined with minimal legislative engagement (zero questions, debates, or bills), raises serious transparency concerns. The low data quality across multiple dimensions suggests either poor compliance with disclosure requirements or systematic gaps in public information availability, ultimately limiting constituents' ability to evaluate their representative's performance and accountability.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 102,619,562. Parliament attendance: 60.0%.
 
 ---
 
@@ -171,7 +136,7 @@ Misha Bharti's transparency profile is characterized by significant data voids t
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Misha Bharti's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

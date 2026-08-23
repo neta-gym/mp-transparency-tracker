@@ -3,32 +3,34 @@
 **Constituency:** Buxar, Bihar
 **Party:** Rashtriya Janata Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 52
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 57.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 58.2 | 25% |
+| Asset Growth | 40.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.79 Crore
+- **Liabilities:** Rs 5.74 Crore
+- **Net Worth:** Rs 1.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 12
+- **Expended:** Rs 11
+- **Utilization Rate:** 62.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Sudhakar Singh shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (85%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and asset disclosure scores, combined with low data confidence (14%) and multiple validation flags, suggest incomplete information availability that limits comprehensive evaluation.
+Sudhakar Singh shows moderate transparency with a score of 57.1/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sudhakar Singh
-
-### Overall Assessment
-Sudhakar Singh, representing Buxar constituency in Bihar for the Rashtriya Janata Dal, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, the absence of crucial financial data including assets and MPLADS utilization raises transparency concerns. The MP shows moderate parliamentary engagement but faces accessibility challenges in public communication.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This represents a critical transparency gap given that each MP is typically entitled to Rs 5 crore annually for constituency development. The absence of this data prevents assessment of Singh's effectiveness in addressing local development needs in Buxar constituency. CAG audit findings reveal systemic issues in Bihar's fund management, including Rs 1,558 crore lying idle across district authorities and 34% of utilization certificates lacking proper documentation, highlighting broader governance challenges that may affect constituency development.
-
-### Financial Transparency
-Asset declaration data is completely missing, preventing any assessment of the MP's financial standing or potential conflicts of interest. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This data gap significantly undermines financial transparency evaluation. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset disclosure, stakeholders cannot assess potential wealth accumulation or sources of income beyond parliamentary remuneration.
-
-### Legal & Criminal Standing
-Singh maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries low confidence due to potential source unavailability, as indicated by automated system warnings. While the clean record is positive, the data quality concerns limit the reliability of this assessment.
-
-### Parliamentary Performance
-Singh demonstrates reasonable parliamentary engagement with 85% attendance, significantly above average for many MPs. His legislative activity shows 26 questions raised and participation in 11 debates, indicating moderate involvement in parliamentary proceedings. However, no private member's bills have been introduced, suggesting limited initiative in legislative innovation. The absence of committee membership data limits assessment of specialized parliamentary work, though this may reflect data availability issues rather than actual non-participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no explicitly positive or negative sentiment, suggesting limited public visibility or controversial positions. This neutral profile may indicate either effective constituent relations without major conflicts or insufficient media engagement. The evidence grade of 'D' for accessibility indicates significant challenges in public communication and transparency. No social media engagement data is available, limiting assessment of digital outreach efforts.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns. Criminal record data has low confidence due to potential source unavailability. Asset information is entirely missing with low confidence ratings. MPLADS data is unavailable, preventing development work assessment. Committee membership information is absent, possibly due to unavailable Sansad profiles. These gaps severely limit comprehensive evaluation and suggest either inadequate disclosure practices or systemic data collection challenges. The evidence grading system rates parliament data as 'C' and accessibility as 'D', indicating moderate to poor data quality across key transparency metrics.
-
-### Key Takeaway
-While Sudhakar Singh maintains a clean criminal record and reasonable parliamentary attendance, significant transparency gaps in financial disclosure and development fund utilization prevent comprehensive assessment of his effectiveness as a public representative. The complete absence of asset declarations and MPLADS data, combined with limited public engagement visibility, suggests inadequate transparency practices that may undermine public accountability and constituent trust.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 67,851,400. MPLADS utilization: 62.2%. Parliament attendance: 85.0%. Questions asked: 26. Debates participated: 11.
 
 ---
 
@@ -162,7 +138,7 @@ While Sudhakar Singh maintains a clean criminal record and reasonable parliament
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sudhakar Singh's MPLADS account: Released: Rs 17, Expended: Rs 11, Utilization: 62.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

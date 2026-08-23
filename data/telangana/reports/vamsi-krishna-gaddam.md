@@ -3,23 +3,25 @@
 **Constituency:** Peddapalle, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 35
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 24.10 Crore
+- **Liabilities:** Rs 17.76 Lakh
+- **Net Worth:** Rs 23.92 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Vamsi Krishna Gaddam shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and parliamentary attendance (85%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate scores in MPLADS utilization, asset declaration, and parliamentary participation indicate room for improvement in most transparency areas.
+Vamsi Krishna Gaddam shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Vamsi Krishna Gaddam
-
-### Overall Assessment
-MP Vamsi Krishna Gaddam (Indian National Congress, Peddapalle constituency, Telangana) presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating solid parliamentary attendance (85%), substantial information is missing regarding financial assets and MPLADS fund utilization, limiting comprehensive assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap, particularly given CAG audit findings highlighting systemic issues in Telangana's fund management. The CAG identified Rs 1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data, it's impossible to assess Gaddam's development delivery effectiveness.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information on total assets, previous holdings, growth ratios, or net worth. This prevents evaluation of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, but the absence of asset data significantly undermines financial transparency assessment. This data gap is particularly concerning for public accountability.
-
-### Legal & Criminal Standing
-Gaddam maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, suggesting potential source unavailability. While the clean record is positive, the reliability caveat requires consideration when assessing this aspect of his profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 85% attendance, demonstrating consistent presence in proceedings. Legislative activity includes 15 questions raised and participation in 2 debates, indicating some engagement with parliamentary processes. However, no private member's bills were introduced, suggesting limited legislative initiative. The parliament data receives a 'C' evidence grade, indicating moderate reliability with room for improvement in data quality.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversial positions. The accessibility evidence grade of 'D' indicates poor data availability regarding public engagement mechanisms. No committee participation data is available due to potentially unavailable Sansad profiles, further limiting assessment of institutional engagement and specialized policy work.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information completely missing with low confidence ratings
-- MPLADS data entirely unavailable
-- Committee participation data absent
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades range from 'C' for parliament data to 'D' for accessibility, indicating substantial room for improvement in data collection and verification. Seven CAG audit findings relevant to Telangana provide important context but cannot substitute for specific MP performance data.
-
-### Key Takeaway
-While Vamsi Krishna Gaddam maintains clean legal standing and acceptable parliamentary attendance, his transparency profile is severely compromised by missing asset declarations and MPLADS utilization data. The absence of critical financial and development fund information, combined with limited public engagement visibility, prevents comprehensive accountability assessment. Improved data disclosure and public engagement mechanisms are essential for meaningful transparency evaluation.
+No criminal cases declared. Declared assets: Rs 240,976,163. MPLADS utilization: 10.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2.
 
 ---
 
@@ -169,7 +138,7 @@ While Vamsi Krishna Gaddam maintains clean legal standing and acceptable parliam
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vamsi Krishna Gaddam's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

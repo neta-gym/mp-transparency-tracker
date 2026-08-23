@@ -3,32 +3,32 @@
 **Constituency:** Satna, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 52.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.4 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.47 Crore
+- **Liabilities:** Rs 2.29 Crore
+- **Net Worth:** Rs 7.18 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Ganesh Singh demonstrates a mixed transparency profile with significant areas of concern. While he maintains perfect criminal record transparency and good attendance, his performance is severely hampered by zero scores in committee participation and legislative activity, along with very poor accessibility to constituents.
+Ganesh Singh shows moderate transparency with a score of 52.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ganesh Singh
-
-### Overall Assessment
-MP Ganesh Singh (BJP, Satna, Madhya Pradesh) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across financial and development indicators. While maintaining a clean criminal record and demonstrating consistent legislative engagement, the absence of critical financial data and MPLADS information limits comprehensive assessment of his constituency development work and asset transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic issues in Madhya Pradesh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Singh's constituency, it's impossible to determine if these state-level issues affect Satna's development projects.
-
-### Financial Transparency
-Asset declaration information is completely absent, with no data on current holdings, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit, as asset disclosure is mandatory for MPs and crucial for public accountability. The monthly compensation of Rs 2,45,000 is documented, but without asset context, comprehensive financial transparency cannot be assessed.
-
-### Legal & Criminal Standing
-Singh maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. This represents complete legal compliance and suggests no judicial challenges to his public service record.
-
-### Parliamentary Performance
-Singh demonstrates strong legislative engagement with 90% attendance, significantly above typical parliamentary averages. He has raised 46 questions and participated in 12 debates, indicating active constituency representation and policy engagement. However, no private member bills have been introduced, and committee participation data is unavailable, limiting assessment of his broader legislative contribution beyond floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative pieces), suggesting limited public visibility or controversial positions. This neutral profile may indicate either effective consensus-building or insufficient public engagement. Social media presence and direct accessibility metrics are not available, hampering assessment of constituent communication channels.
-
-### Data Quality & Caveats
-The analysis faces significant data quality challenges across multiple domains. Evidence grades of 'C' for parliament and 'D' for accessibility indicate moderate to poor data reliability. Specific warnings include low confidence in criminal record sources, asset data unavailability, and missing MPLADS information. Committee participation data is entirely absent, suggesting Sansad profile limitations. These gaps substantially constrain transparency assessment reliability.
-
-### Key Takeaway
-While Singh maintains strong parliamentary attendance (90%) and a clean criminal record, critical data gaps in asset declarations and MPLADS utilization severely limit transparency assessment. The complete absence of financial disclosure information and development fund data represents significant accountability deficits that prevent comprehensive evaluation of his constituency service and financial probity, despite his consistent legislative participation.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 94,681,128. MPLADS utilization: 20.5%. Parliament attendance: 90.0%. Questions asked: 46. Debates participated: 12.
 
 ---
 
@@ -162,7 +136,7 @@ While Singh maintains strong parliamentary attendance (90%) and a clean criminal
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ganesh Singh's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

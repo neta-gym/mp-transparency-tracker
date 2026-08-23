@@ -3,23 +3,25 @@
 **Constituency:** Faridabad, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 67
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 7.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 62.58 Crore
+- **Liabilities:** Rs 3.98 Crore
+- **Net Worth:** Rs 58.60 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 8.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-Krishan Pal Gurjar demonstrates mixed transparency performance with a below-average overall score of 45.5/100. While maintaining a clean criminal record (100%), he shows significant weaknesses in committee participation (0%), legislative activity (0%), and accessibility (10%), indicating limited engagement in parliamentary processes and public outreach.
+Krishan Pal Gurjar has a below-average transparency score of 49.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Krishan Pal Gurjar
-
-### Overall Assessment
-Krishan Pal Gurjar, BJP MP representing Faridabad constituency in Haryana, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record, comprehensive assessment is hampered by limited availability of key performance metrics including asset disclosures, MPLADS utilization, and parliamentary activity data. The MP serves in a ministerial capacity, which typically affects traditional attendance metrics.
-
-### Fund Utilization & Development
-MPLADS data for MP Gurjar is unavailable, making it impossible to assess development fund utilization patterns. However, CAG audit findings from Haryana highlight systemic concerns that may affect all MPs in the state. Key issues include Rs 1,558 crore in idle funds lying unspent across district authorities, indicating potential inefficiencies in the development fund ecosystem. Additionally, 34% of sampled utilization certificates lacked proper supporting documents, and 18% of sampled works were found to be abandoned or incomplete - both high-priority concerns for development effectiveness.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, preventing assessment of the MP's financial transparency. No information exists regarding total assets, asset growth patterns, or net worth declarations. This represents a significant gap in transparency metrics. The MP's monthly compensation is recorded at Rs 2,45,000, which aligns with standard parliamentary remuneration structures.
-
-### Legal & Criminal Standing
-MP Gurjar maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data carries a low confidence rating due to potential source unavailability, warranting cautious interpretation of these figures.
-
-### Parliamentary Performance
-Parliamentary activity metrics are largely unavailable, showing 0% attendance, zero questions raised, zero debate participations, and zero private member bills. However, these figures must be interpreted within the context that MP Gurjar serves as a Minister. Ministerial duties typically involve extensive executive responsibilities that can legitimately impact traditional parliamentary participation metrics, as ministers spend considerable time on administrative and policy implementation activities rather than floor participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited but neutral public engagement, with 10 news articles identified (1 positive, 0 negative, 9 neutral). This suggests minimal controversial coverage but also indicates relatively low media visibility. The accessibility grade of 'D' indicates significant challenges in public information access, while the parliament performance grade of 'C' reflects moderate transparency in legislative activities despite data limitations.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations across multiple domains. Criminal record data carries low confidence due to source availability issues. Asset information is completely missing, preventing financial transparency evaluation. MPLADS utilization data is unavailable, hindering development performance assessment. Parliamentary activity figures show zero engagement but must be contextualized within ministerial responsibilities. Committee membership information is entirely absent, possibly due to unavailable Sansad profiles. These limitations significantly constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-While MP Krishan Pal Gurjar maintains a clean legal record and receives neutral media coverage, the substantial absence of key transparency data - including asset disclosures, MPLADS utilization, and detailed parliamentary metrics - prevents comprehensive assessment of his performance as a public representative. His ministerial role provides context for low traditional parliamentary participation metrics, but the overall data gaps represent significant transparency challenges that limit public accountability evaluation. Improved data availability across asset disclosures and development fund utilization would be essential for meaningful transparency assessment.
+No criminal cases declared. Declared assets: Rs 625,815,843. MPLADS utilization: 8.9%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ While MP Krishan Pal Gurjar maintains a clean legal record and receives neutral 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Krishan Pal Gurjar's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

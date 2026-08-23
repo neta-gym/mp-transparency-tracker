@@ -6,71 +6,56 @@
 **Age:** 31
 **Education:** 10th Pass
 **Profession:** Dependent on Parents
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 20.5 / 100
+## Composite Transparency Score: 21.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 0.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 13
+- **Total Cases:** 12
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 13
+- **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 0064 Dated 20.02.2024, PS Dibrugarh, Dist. Dibrugarh, Assam) [pending] 
-3. No description (Sections: 19 Dated 30.03.2023, PS Mehtiana, Dist. Hoshiarpur, Punjab) [pending] 
-4. No description (Sections: 37 Dated 23.03.2023, PS Bilga, Dist. Jalandhar-Rural, Punjab) [pending] 
-5. No description (Sections: 48 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab) [pending] 
-6. No description (Sections: 47 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab) [pending] 
-7. No description (Sections: 28 Dated 20.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab) [pending] 
-8. No description (Sections: 27 Dated 19.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab) [pending] 
-9. No description (Sections: 26 Dated 18.03.2023, PS Khalchian, Dist. Amritsar Rural, Punjab) [pending] 
-10. No description (Sections: 39 Dated 24.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab) [pending] 
-11. No description (Sections: 34 Dated 22.02.2023, PS Bagha Purana, Dist. Moga, Punjab) [pending] 
-12. No description (Sections: 54 Dated 22.02.2023, PS Division-B, Police Commissionerate, Amritsar, Punjab) [pending] 
-13. No description (Sections: 29 Dated 16.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab) [pending] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 18.38 Lakh
-- **Immovable Assets:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 18.38 Lakh
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 18.38 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
+- **Entitled:** Rs 0
+- **Released:** Rs 0
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
 - **Utilization Rate:** N/A
 
 ---
@@ -102,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -111,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Amritpal Singh shows extremely poor transparency with a critically low score of 20.5/100, primarily driven by zero performance in attendance, participation, committee work, and legislative activities. While showing moderate performance in MPLADS utilization and asset disclosure, the complete absence of parliamentary engagement raises serious concerns about representation effectiveness.
+Amritpal Singh has a below-average transparency score of 21.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Amritpal Singh
-
-### Overall Assessment
-Amritpal Singh, the 31-year-old Independent MP from Khadoor Sahib, Punjab, presents a concerning transparency profile marked by significant legal challenges and minimal parliamentary engagement. With 13 pending criminal cases and zero parliamentary participation since taking office, his effectiveness as a public representative is severely compromised. The absence of MPLADS data and limited asset information further impedes comprehensive assessment of his performance.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Singh, making it impossible to assess his utilization of the ₹5 crore annual allocation for constituency development. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Punjab's MPLADS implementation, including ₹1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. The absence of expenditure data raises questions about Singh's commitment to constituency development.
-
-### Financial Transparency
-Singh's financial disclosure shows total assets worth ₹18.38 lakh, which appears modest for an MP. However, the absence of previous asset data prevents analysis of wealth growth patterns during his tenure. His declared profession as "Dependent on Parents" despite being 31 years old and holding high office raises questions about income sources. The monthly compensation of ₹2.45 lakh provides transparency on official earnings, but the overall financial picture remains incomplete due to missing comparative data.
-
-### Legal & Criminal Standing
-Singh faces a significant legal burden with 13 pending criminal cases and zero convictions or disposed cases. While none are classified as "serious," the sheer volume of pending cases spanning multiple districts in Punjab (Hoshiarpur, Jalandhar Rural, Shahkot) and one in Assam (Dibrugarh) suggests a pattern of legal entanglements. The cases date from March 2023 to February 2024, indicating recent legal troubles. The lack of case descriptions under various sections prevents detailed assessment of the nature and severity of charges.
-
-### Parliamentary Performance
-Singh's parliamentary performance is notably absent, with 0% attendance, zero questions raised, no participation in debates, and no private bills introduced. This complete disengagement from legislative duties represents a fundamental failure to fulfill his role as an elected representative. The lack of committee assignments further indicates minimal institutional involvement in the democratic process.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment, suggesting limited public engagement or controversial positioning. However, the neutral tone may also indicate measured media coverage of a relatively new MP. The absence of accessibility data and committee participation information limits assessment of his constituent engagement mechanisms.
-
-### Data Quality & Caveats
-The transparency assessment is significantly hampered by data quality issues. Evidence grades range from B (criminal and assets) to D (accessibility), with particular concerns about MPLADS data confidence and the absence of Sansad profile information. The warning flags indicate low confidence in MPLADS data and missing committee information, while legislative effectiveness data also shows low confidence ratings. These gaps materially impact the comprehensiveness of this assessment.
-
-### Key Takeaway
-Amritpal Singh's transparency profile reveals an MP struggling with legal challenges while failing to engage with parliamentary duties. The combination of 13 pending criminal cases, zero parliamentary participation, and missing MPLADS utilization data suggests significant concerns about his effectiveness as a public representative. His modest asset declaration provides some financial transparency, but the overall picture indicates an MP who has not translated electoral success into meaningful legislative or developmental contributions for his constituency. Immediate attention to parliamentary duties and resolution of legal matters appears essential for credible public service.
+Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 1,838,440. Parliament attendance: 0.0%.
 
 ---
 
@@ -179,7 +139,7 @@ Amritpal Singh's transparency profile reveals an MP struggling with legal challe
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -258,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amritpal Singh's MPLADS account: Released: Rs 0, Expended: Rs 0. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -277,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

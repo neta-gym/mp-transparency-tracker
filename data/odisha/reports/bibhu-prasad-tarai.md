@@ -3,32 +3,34 @@
 **Constituency:** Jagatsinghpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 3.2 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.80 Crore
+- **Liabilities:** Rs 9.50 Lakh
+- **Net Worth:** Rs 1.70 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,53 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Bibhu Prasad Tarai demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative activity. The moderate MPLADS and assets disclosure scores, combined with zero scores in committee and legislative work, suggest limited engagement in key parliamentary functions.
+Bibhu Prasad Tarai has a below-average transparency score of 49.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Bibhu Prasad Tarai
-
-### Overall Assessment
-
-Bibhu Prasad Tarai, BJP MP from Jagatsinghpur constituency in Odisha, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), critical transparency metrics including asset declarations and MPLADS utilization remain unavailable, raising concerns about financial accountability.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled funds, releases, expenditure, or utilization rates. This represents a significant transparency gap for an MP responsible for constituency development. The absence of such fundamental data prevents assessment of Tarai's effectiveness in delivering local infrastructure and development projects.
-
-CAG audits reveal systemic concerns in Odisha's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found incomplete or abandoned, highlighting potential implementation challenges in Tarai's operating environment.
-
-### Financial Transparency
-
-Asset declaration data is completely unavailable, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a critical transparency deficit, making it impossible to assess potential conflicts of interest or track wealth accumulation during tenure. The MP's monthly compensation is reported as Rs 2.45 lakh, but without asset context, financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-
-Tarai maintains a clean criminal record with zero cases across all categories—no serious charges, pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While this appears positive, the reliability caveat requires noting.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity levels with 85% attendance, indicating regular participation in legislative proceedings. Tarai has raised 22 questions and participated in 5 debates, demonstrating some engagement with parliamentary processes. However, no private member bills have been introduced, and no committee participation data is available, limiting assessment of legislative contribution depth.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public engagement, with only 10 news articles identified. The sentiment breakdown shows minimal positive coverage (0 articles), one negative piece, and nine neutral articles, suggesting low media visibility. This limited coverage may indicate reduced public engagement or minimal newsworthy activities. Social media presence and direct constituent accessibility metrics are not available.
-
-### Data Quality & Caveats
-
-Multiple significant data quality warnings affect this assessment:
-- Criminal record data marked as low confidence due to potential source unavailability
-- Asset information completely missing with low confidence ratings
-- MPLADS data entirely unavailable despite being crucial for MP accountability
-- No committee participation data found
-- Parliamentary activity graded as 'C' level evidence
-- Accessibility metrics graded as 'D' level evidence
-
-These gaps represent substantial limitations in transparency assessment capability.
-
-### Key Takeaway
-
-Bibhu Prasad Tarai's transparency profile is severely compromised by missing critical data across multiple accountability dimensions. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of asset declarations and MPLADS utilization data creates significant transparency deficits. The limited media presence and lack of comprehensive committee participation information further restrict public accountability assessment. Until complete financial and development fund data becomes available, voters cannot make fully informed judgments about Tarai's performance and integrity as their representative.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 17,974,886. MPLADS utilization: 4.0%. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -180,7 +139,7 @@ Bibhu Prasad Tarai's transparency profile is severely compromised by missing cri
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bibhu Prasad Tarai's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -276,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

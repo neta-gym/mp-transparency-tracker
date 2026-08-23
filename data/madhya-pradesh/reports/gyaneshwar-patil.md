@@ -3,32 +3,34 @@
 **Constituency:** Khandwa, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 61.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 45.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.22 Crore
+- **Liabilities:** Rs 54.46 Lakh
+- **Net Worth:** Rs 6.68 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 8
+- **Utilization Rate:** 53.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,47 +94,11 @@
 
 ## Qualitative Assessment
 
-Gyaneshwar Patil shows a mixed transparency profile with significant gaps in legislative engagement and public accessibility. While maintaining a clean criminal record and reasonable attendance, his complete absence from committee work and minimal accessibility efforts raise concerns about constituent engagement and parliamentary effectiveness.
+Gyaneshwar Patil shows moderate transparency with a score of 61.6/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gyaneshwar Patil
-
-### Overall Assessment
-Gyaneshwar Patil, BJP MP from Khandwa, Madhya Pradesh, presents a mixed transparency profile with strong criminal record standing but significant data gaps across multiple transparency indicators. While maintaining clean legal status and reasonable parliamentary attendance, comprehensive assessment is hindered by missing financial and development fund data.
-
-### Fund Utilization & Development
-**Critical data unavailable** - MPLADS fund utilization data is completely absent, showing no information on entitled amount, releases, expenditure, or utilization percentage. This represents a significant transparency gap for assessing the MP's development impact in Khandwa constituency. 
-
-The broader state context reveals systemic MPLADS implementation challenges in Madhya Pradesh, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, indicating potential oversight concerns that may affect local development outcomes.
-
-### Financial Transparency
-**Asset disclosure incomplete** - No asset information is available, including total assets, previous declarations, growth ratios, or net worth calculations. This prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is documented at Rs 2,45,000, but without asset context, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-**Clean record maintained** - Patil demonstrates exemplary legal standing with zero criminal cases across all categories: no serious cases, pending cases, disposed cases, or convictions. This clean criminal record represents a positive transparency indicator, suggesting adherence to legal standards expected of public representatives.
-
-### Parliamentary Performance
-**Moderate engagement levels** - Parliamentary attendance stands at 85%, indicating reasonably consistent participation in legislative proceedings. The MP has raised 48 questions during the current term, demonstrating some engagement with parliamentary inquiry mechanisms. However, participation in debates remains minimal with only 2 recorded interventions, and no private bills have been introduced, suggesting limited proactive legislative initiative.
-
-The absence of committee membership data further limits assessment of the MP's specialized parliamentary contributions and policy expertise development.
-
-### Public Engagement & Accessibility
-**Limited digital presence** - Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting minimal public discourse engagement or controversy. This neutral profile may indicate either effective constituency management or limited media attention to the MP's activities.
-
-Social media and digital accessibility metrics show room for improvement, with evidence grades indicating 'D' level accessibility performance, suggesting constituents may face challenges in accessing the MP's office or receiving timely responses to queries.
-
-### Data Quality & Caveats
-**Significant transparency gaps identified** - Multiple automated warnings highlight serious data quality issues:
-- Criminal record data marked as low confidence due to source unavailability
-- Asset information completely missing with low confidence ratings
-- MPLADS data entirely absent despite being crucial for development assessment
-- Committee membership information unavailable, limiting parliamentary effectiveness evaluation
-
-Evidence grades show 'C' level parliament data quality and 'D' level accessibility data, indicating substantial room for improvement in transparency reporting systems.
-
-### Key Takeaway
-Gyaneshwar Patil maintains a clean legal record and demonstrates basic parliamentary engagement, but faces significant transparency challenges due to missing financial disclosures and development fund utilization data. The absence of asset information and MPLADS details creates substantial accountability gaps that prevent comprehensive public oversight. Improved data disclosure mechanisms and enhanced digital accessibility would significantly strengthen the MP's transparency profile and enable better constituent evaluation of performance and integrity.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 72,237,099. MPLADS utilization: 53.7%. Parliament attendance: 85.0%. Questions asked: 48. Debates participated: 2.
 
 ---
 
@@ -174,7 +138,7 @@ Gyaneshwar Patil maintains a clean legal record and demonstrates basic parliamen
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -253,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gyaneshwar Patil's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 53.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -270,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

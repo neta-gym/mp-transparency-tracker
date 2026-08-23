@@ -3,32 +3,34 @@
 **Constituency:** Maval, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 131.86 Crore
+- **Liabilities:** Rs 85.29 Lakh
+- **Net Worth:** Rs 131.01 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.4%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -102,35 +102,11 @@
 
 ## Qualitative Assessment
 
-MP Shrirang Appa Chandu Barne shows a mixed transparency profile with strong attendance (95%) and clean criminal record, but significant weaknesses in committee participation (0%) and accessibility (10%). While maintaining decent legislative activity and participation scores, the extremely poor committee engagement and very low public accessibility suggest limited institutional involvement and constituent outreach.
+Shrirang Appa Chandu Barne shows moderate transparency with a score of 58.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Shrirang Appa Chandu Barne
-
-### Overall Assessment
-Shrirang Appa Chandu Barne, representing the Maval constituency in Maharashtra as a Shiv Sena MP in the Lok Sabha, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps in key accountability areas. While maintaining excellent attendance (95%) and active question-raising behavior, the absence of crucial financial and development data limits a comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for MP Barne, including entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given MPLADS funds are a primary vehicle for constituency development. The lack of data prevents assessment of his development priorities or fund management efficiency. CAG audit findings for Maharashtra reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data significantly hampers transparency assessment and prevents evaluation of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a total monthly compensation of Rs 245,000 as per standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-MP Barne maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in source availability or verification. This clean record, while positive, should be interpreted cautiously given the data quality concerns.
-
-### Parliamentary Performance
-Barne demonstrates strong parliamentary engagement with 95% attendance, well above average MP performance. He has actively participated in legislative processes by raising 87 questions, participating in 12 debates, and introducing 3 private member bills. His legislative record shows 3 private member bills but zero contributions to zero hour discussions or special mentions. This suggests focused but somewhat narrow parliamentary participation patterns.
-
-### Public Engagement & Accessibility
-Public engagement assessment reveals limited media presence with only 9 news articles identified, all classified as neutral in sentiment with no positive or negative coverage. This minimal media footprint may indicate either low public visibility or limited controversial activities. The absence of social media engagement data and committee participation information further limits assessment of his accessibility to constituents and stakeholder engagement efforts.
-
-### Data Quality & Caveats
-The transparency assessment faces significant limitations due to widespread data unavailability. Evidence grades are poor (Parliament: C, Accessibility: D), with automated flags indicating low confidence across multiple domains including criminal records, assets, MPLADS, and legislative effectiveness data. Committee participation data is entirely absent, suggesting Sansad profile unavailability. These gaps substantially limit the reliability of this transparency assessment.
-
-### Key Takeaway
-While MP Barne demonstrates commitment through excellent parliamentary attendance and active question-raising, the absence of critical transparency data - particularly regarding asset declarations and MPLADS utilization - prevents a comprehensive evaluation of his effectiveness and accountability. The clean criminal record and steady parliamentary participation are positive indicators, but voters and stakeholders lack access to essential information needed to fully assess his performance as their representative. Improved data disclosure would significantly enhance transparency and public trust.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 1,318,591,631. MPLADS utilization: 20.4%. Parliament attendance: 95.0%. Questions asked: 87. Debates participated: 12.
 
 ---
 
@@ -170,7 +146,7 @@ While MP Barne demonstrates commitment through excellent parliamentary attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shrirang Appa Chandu Barne's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

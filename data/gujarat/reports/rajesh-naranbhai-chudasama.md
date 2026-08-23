@@ -3,32 +3,32 @@
 **Constituency:** Junagadh, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 60.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 25.2 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.35 Crore
+- **Liabilities:** Rs 9.89 Lakh
+- **Net Worth:** Rs 3.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Rajesh Naranbhai Chudasama shows mixed transparency performance with notable strengths in attendance (95%) and a clean criminal record, but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency and development project reporting.
+Rajesh Naranbhai Chudasama shows moderate transparency with a score of 60.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rajesh Naranbhai Chudasama
-
-### Overall Assessment
-
-Rajesh Naranbhai Chudasama, BJP MP representing Junagadh constituency in Gujarat, presents a mixed transparency profile with limited data availability across key metrics. While maintaining strong parliamentary attendance (95%), significant gaps in financial disclosure and development fund utilization data hamper a comprehensive assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-
-**Critical data gaps exist for MPLADS fund utilization.** No information is available regarding entitled amounts, releases, expenditures, or utilization percentages for constituency development projects. This absence is particularly concerning given CAG audit findings highlighting systemic issues in Gujarat's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. The audit also revealed 18% of sampled works were abandoned or incomplete, raising questions about project monitoring and completion rates in the state.
-
-### Financial Transparency
-
-**Asset disclosure data is entirely unavailable.** No information exists on total assets, previous holdings, growth ratios, or net worth, representing a significant transparency deficit. This complete absence of financial data prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP's monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point.
-
-### Legal & Criminal Standing
-
-**Clean criminal record with data quality concerns.** Available records show zero criminal cases across all categories (total, serious, pending, disposed, and convictions). However, automated flags indicate low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously rather than as definitive clearance.
-
-### Parliamentary Performance
-
-**Above-average attendance with moderate legislative engagement.** The MP demonstrates strong commitment to parliamentary duties with 95% attendance, significantly above typical benchmarks. Legislative activity shows 51 questions raised and participation in 2 debates, indicating moderate engagement in parliamentary proceedings. However, no private member bills were introduced, and no committee participation data is available due to potential Sansad profile unavailability.
-
-### Public Engagement & Accessibility
-
-**Limited digital presence and neutral media coverage.** Analysis of 9 news articles reveals predominantly neutral coverage (8 articles) with minimal positive coverage and only 1 negative article. This suggests low media visibility rather than controversial positioning. The evidence grade of 'D' for accessibility indicates poor digital engagement and constituent communication channels, limiting transparency in public interaction.
-
-### Data Quality & Caveats
-
-**Significant data reliability concerns affect multiple assessment areas.** Automated flags highlight low confidence levels in criminal records, assets, and MPLADS data, with evidence grades of 'C' for parliament activity and 'D' for accessibility. The absence of committee data due to potential Sansad profile unavailability further limits comprehensive evaluation. These data gaps are sourced from PRS, social media, and news outlets, but may not reflect complete official records.
-
-### Key Takeaway
-
-While MP Chudasama maintains excellent parliamentary attendance and a clean criminal record, critical transparency gaps in financial disclosure and development fund utilization severely limit accountability assessment. The absence of asset declarations and MPLADS data, combined with poor accessibility metrics, suggests significant room for improvement in public transparency. Given Gujarat's documented fund management challenges highlighted in CAG audits, enhanced disclosure of constituency development activities would better serve public accountability standards.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 33,452,812. MPLADS utilization: 31.5%. Parliament attendance: 95.0%. Questions asked: 51. Debates participated: 2.
 
 ---
 
@@ -170,7 +136,7 @@ While MP Chudasama maintains excellent parliamentary attendance and a clean crim
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajesh Naranbhai Chudasama's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Jorhat, Assam
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 58.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.1 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 4.91 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Gaurav Gogoi demonstrates a mixed transparency profile with strong performance in attendance (100%) and criminal record disclosure (100%), alongside solid participation scores (80%). However, significant weaknesses exist in committee work transparency (0%), legislative activity disclosure (0%), and public accessibility (10%), which substantially impact his overall score.
+Gaurav Gogoi shows moderate transparency with a score of 58.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Gaurav Gogoi
-
-### Overall Assessment
-Gaurav Gogoi (Indian National Congress, Jorhat, Assam) demonstrates strong parliamentary attendance but faces significant transparency gaps across multiple dimensions. While his legislative engagement shows commitment with 100% attendance and active questioning, critical data limitations prevent a comprehensive assessment of his financial stewardship and development impact.
-
-### Fund Utilization & Development
-No MPLADS utilization data is available for assessment, representing a major transparency gap. The CAG audit context reveals systemic concerns in Assam's fund management, with Rs 1,558 crore lying idle in district accounts and 18% of sampled works remaining incomplete. These findings suggest potential challenges in the broader development ecosystem within which Gogoi operates, though his specific performance cannot be evaluated due to data unavailability.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, preventing any assessment of financial transparency or potential conflicts of interest. Without baseline or comparative asset data, it is impossible to evaluate growth patterns, income sources, or wealth accumulation during his tenure. This represents a critical gap in transparency standards expected from public representatives.
-
-### Legal & Criminal Standing
-Gogoi maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the data carries low confidence warnings, suggesting potential gaps in criminal background verification systems. The absence of any legal complications presents a positive indicator for his public standing.
-
-### Parliamentary Performance
-Gogoi demonstrates exceptional parliamentary engagement with 100% attendance, significantly above average legislative participation. His activity includes 45 questions raised and participation in 15 debates, indicating active constituency representation and policy engagement. However, he has not introduced any private member bills, suggesting limited legislative initiative beyond party lines. The parliament evidence grade of 'C' indicates moderate data reliability in this assessment.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse or controversy. The accessibility evidence grade of 'D' indicates poor data quality in measuring public engagement metrics. No committee participation data is available, limiting assessment of his specialized legislative contributions or policy expertise development.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly limit this assessment's reliability. Asset information, MPLADS utilization, and committee participation data are entirely unavailable. Criminal record data carries low confidence warnings, and legislative effectiveness measurements have limited reliability. Sources include PRS, social media, and news outlets, but systematic government transparency portals appear inaccessible or incomplete.
-
-### Key Takeaway
-While Gogoi demonstrates strong parliamentary attendance and maintains a clean legal record, the absence of critical financial and development data prevents meaningful transparency assessment. The 100% attendance rate suggests dedication, but without MPLADS utilization or asset disclosure information, voters cannot evaluate his effectiveness in fund utilization or potential conflicts of interest—fundamental aspects of democratic accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,061,120. MPLADS utilization: 21.4%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 15.
 
 ---
 
@@ -162,7 +138,7 @@ While Gogoi demonstrates strong parliamentary attendance and maintains a clean l
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Gaurav Gogoi's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

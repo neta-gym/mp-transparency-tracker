@@ -3,23 +3,25 @@
 **Constituency:** Sirsa, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 8.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 42.07 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 42.07 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Kumari Selja demonstrates a mixed transparency profile with strong attendance (85%) and clean criminal record (100%), but significant weaknesses in committee participation (0%), legislative engagement (0%), and accessibility (10%). Her MPLADS utilization and asset disclosure are moderate at 50% each, while overall participation in parliamentary activities remains below average.
+Kumari Selja shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Kumari Selja
-
-### Overall Assessment
-Kumari Selja, Indian National Congress MP from Sirsa, Haryana, presents a mixed transparency profile characterized by adequate parliamentary engagement but significant data gaps across multiple domains. With 85% attendance and active participation through 9 questions and 2 debates, she demonstrates reasonable legislative involvement. However, the absence of critical financial and developmental data severely limits comprehensive assessment of her overall performance and transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, or expenditures. This represents a critical transparency gap given that MPLADS funds are a primary vehicle for MP-driven local development. The CAG audit context for Haryana reveals systemic issues that may affect her constituency: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific data on Selja's fund utilization, it's impossible to assess whether these state-level issues impact her constituency's development projects.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected officials and crucial for assessing potential conflicts of interest. The only available financial information is her monthly compensation of ₹2,45,000, which appears standard for Lok Sabha members.
-
-### Legal & Criminal Standing
-Selja maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment should be viewed with appropriate caution.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 85% attendance, placing her above average compared to typical MP attendance rates. Her legislative activity includes 9 questions raised and participation in 2 debates, indicating active engagement with parliamentary processes. However, she has not introduced any private member bills, representing a missed opportunity for legislative initiative. The absence of committee membership data (flagged as unavailable Sansad profile) prevents assessment of her specialized parliamentary work.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals neutral public engagement with 10 articles providing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited public visibility or controversial issues. However, the evidence grade for accessibility is rated 'D', indicating poor performance in public accessibility metrics. No social media engagement data or public outreach initiatives are documented, suggesting limited digital presence or transparent communication with constituents.
-
-### Data Quality & Caveats
-This assessment faces significant data quality limitations. Multiple automated flags indicate low confidence across critical areas: criminal records, assets, and MPLADS data may be unreliable due to source unavailability. Committee participation data is entirely missing due to an unavailable Sansad profile. Legislative effectiveness data also carries low confidence ratings. Evidence grades are concerning - parliamentary performance rated 'C' and accessibility rated 'D' - suggesting below-average transparency standards. These limitations severely constrain the reliability of this assessment.
-
-### Key Takeaway
-Kumari Selja presents a transparency profile marked by significant information gaps rather than clear strengths or weaknesses. While her parliamentary attendance (85%) and basic legislative participation appear satisfactory, the complete absence of financial disclosure, MPLADS utilization data, and committee information raises serious transparency concerns. The neutral news coverage and poor accessibility rating suggest limited public engagement. Most critically, the numerous data quality warnings indicate that even available information may be unreliable, making it impossible to provide a confident assessment of her overall performance or integrity as an elected representative.
+No criminal cases declared. Declared assets: Rs 420,655,803. MPLADS utilization: 10.5%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ Kumari Selja presents a transparency profile marked by significant information g
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kumari Selja's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

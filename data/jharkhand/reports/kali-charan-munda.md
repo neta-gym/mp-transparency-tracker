@@ -3,23 +3,25 @@
 **Constituency:** Khunti, Jharkhand
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 58.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 42.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 54.08 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 54.08 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 5% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 51.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kali Charan Munda shows a mixed transparency profile with significant gaps in key areas. While maintaining perfect criminal record disclosure and good parliamentary attendance, the MP demonstrates poor performance in legislative activities, committee participation, and public accessibility, resulting in below-average overall transparency.
+Kali Charan Munda shows moderate transparency with a score of 58.6/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Kali Charan Munda
-
-### Overall Assessment
-Kali Charan Munda represents Khunti constituency in Jharkhand as a member of the Indian National Congress in the Lok Sabha. His transparency profile shows significant data gaps across multiple indicators, making comprehensive assessment challenging. Available evidence suggests moderate parliamentary engagement with an 85% attendance rate and participation in 8 debates, though overall transparency scoring remains limited due to missing financial and development fund data.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data for Munda is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap given that CAG audits have identified systemic issues in Jharkhand's fund management. The 2010 CAG audit highlighted Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Munda's constituency, it's impossible to assess his performance in local development initiatives.
-
-### Financial Transparency
-Asset disclosure information is completely missing from available records. No data exists for current total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration. The lack of asset data significantly undermines transparency evaluation, particularly given the importance of financial disclosure in public accountability.
-
-### Legal & Criminal Standing
-Munda maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings indicate low confidence in this criminal record information, suggesting the source may be unreliable or incomplete. While the absence of criminal charges appears positive, the data quality caveat requires this assessment to be treated with caution.
-
-### Parliamentary Performance
-Munda demonstrates reasonable parliamentary engagement with 85% attendance, which is above average for many MPs. He has participated in 8 parliamentary debates, indicating active involvement in legislative discussions. However, he has asked zero questions during parliamentary sessions and introduced no private member bills, suggesting limited initiative in raising constituency concerns or proposing legislative reforms. The parliament activity evidence grade of 'C' reflects moderate but incomplete engagement with parliamentary responsibilities.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility, with only 10 news articles identified. The sentiment breakdown shows predominantly neutral coverage (9 articles) with one negative article and zero positive coverage. This minimal media presence suggests either limited public engagement activities or insufficient media attention to his work. The accessibility evidence grade of 'D' indicates poor performance in public communication and engagement metrics. No social media data or committee participation information is available, further limiting assessment of public outreach efforts.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data quality issues. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information shows low confidence ratings, and MPLADS data is entirely missing with low confidence indicators. Committee participation data is absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These widespread data gaps severely limit the reliability of any comprehensive transparency assessment.
-
-### Key Takeaway
-Kali Charan Munda's transparency profile is characterized by substantial information gaps that prevent comprehensive evaluation. While he maintains clean criminal records and demonstrates reasonable parliamentary attendance (85%), critical areas like financial disclosure, development fund utilization, and public engagement remain opaque due to missing data. The absence of MPLADS information is particularly concerning given CAG findings of systemic fund management issues in Jharkhand. Improved data availability and proactive transparency measures would significantly enhance accountability assessment for this constituency representative.
+No criminal cases declared. Declared assets: Rs 5,407,803. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ Kali Charan Munda's transparency profile is characterized by substantial informa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kali Charan Munda's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

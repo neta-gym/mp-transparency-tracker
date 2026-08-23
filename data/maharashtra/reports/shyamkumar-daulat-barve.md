@@ -3,32 +3,34 @@
 **Constituency:** Ramtek, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 46
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 51.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.8 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.29 Crore
+- **Liabilities:** Rs 1.62 Crore
+- **Net Worth:** Rs 2.67 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 35% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,50 +95,11 @@
 
 ## Qualitative Assessment
 
-Shyamkumar Daulat Barve demonstrates mixed transparency performance with perfect attendance and clean criminal record, but significant gaps in committee participation and legislative activity. The moderate MPLADS utilization and very low accessibility scores suggest limited public engagement, while the low data confidence of 14% indicates substantial information gaps that affect the reliability of this assessment.
+Shyamkumar Daulat Barve shows moderate transparency with a score of 51.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Shyamkumar Daulat Barve
-
-### Overall Assessment
-Shyamkumar Daulat Barve, representing Ramtek constituency in Maharashtra for the Indian National Congress, presents a mixed transparency profile with significant data gaps affecting comprehensive evaluation. While demonstrating strong parliamentary attendance and a clean criminal record, critical financial and developmental data remains unavailable, limiting assessment of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap given that MPLADS funds are a key mechanism for constituency development. The absence of this data prevents evaluation of Barve's developmental impact in Ramtek constituency.
-
-CAG audit findings for Maharashtra reveal systemic issues in fund management that may affect local implementation: Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Barve, it's unclear how these state-level challenges impact his constituency's development projects.
-
-### Financial Transparency
-Asset disclosure information is entirely missing from available records, preventing any assessment of wealth accumulation or potential conflicts of interest. No baseline or current asset values are documented, nor is there any growth trajectory data available. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives.
-
-Barve's monthly compensation is recorded at Rs 245,000, providing the only available financial reference point in his profile.
-
-### Legal & Criminal Standing
-Barve maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Barve demonstrates exceptional parliamentary attendance at 100%, indicating strong commitment to legislative duties. His parliamentary engagement includes 43 questions raised and participation in 3 debates, showing moderate activity in House proceedings. However, he has introduced no private member bills, suggesting limited initiative in legislative drafting.
-
-The parliamentary activity grade of 'C' indicates room for improvement in overall legislative effectiveness beyond basic attendance metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 6 news articles with neutral sentiment - no positive or negative coverage detected. This suggests either limited public visibility or balanced media treatment. The accessibility grade of 'D' indicates poor public engagement mechanisms, with no committee data available and limited evidence of constituent outreach initiatives.
-
-Social media presence appears minimal based on available sources, potentially limiting direct citizen engagement channels.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is unavailable despite being crucial for developmental assessment
-- Committee membership information is absent
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades of 'C' for parliament and 'D' for accessibility reflect these systemic data gaps. Sources include PRS, social media, and news outlets, but apparent gaps suggest incomplete data aggregation.
-
-### Key Takeaway
-While Barve demonstrates strong parliamentary attendance and maintains a clean criminal record, the absence of critical financial and developmental data severely limits transparency assessment. The missing MPLADS and asset information, combined with low public accessibility scores, suggests either poor transparency practices or inadequate data collection systems. For a comprehensive evaluation, improved disclosure mechanisms and data availability are essential, particularly given Maharashtra's documented fund management challenges highlighted in CAG audits.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,894,953. MPLADS utilization: 1.0%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -177,7 +139,7 @@ While Barve demonstrates strong parliamentary attendance and maintains a clean c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shyamkumar Daulat Barve's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

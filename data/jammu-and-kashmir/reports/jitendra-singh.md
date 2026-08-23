@@ -3,23 +3,23 @@
 **Constituency:** Udhampur, Jammu And Kashmir
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 51.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 22.4 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.59 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 8.59 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.0%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,35 +93,11 @@
 
 ## Qualitative Assessment
 
-MP Jitendra Singh demonstrates mixed transparency performance with moderate scores in MPLADS utilization, asset declaration, and parliamentary participation, but shows significant deficiencies in committee engagement and legislative contributions. While maintaining a clean criminal record, the extremely low accessibility and complete absence of measurable committee and legislative activity raise concerns about public engagement and parliamentary effectiveness.
+Jitendra Singh shows moderate transparency with a score of 51.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Jitendra Singh
-
-### Overall Assessment
-Dr. Jitendra Singh, representing Udhampur constituency (Jammu and Kashmir) for the Bharatiya Janata Party in the Lok Sabha, presents a transparency profile marked by significant data gaps across critical metrics. With a clean criminal record and ministerial responsibilities, his profile shows limited publicly available information on key governance indicators, hampering comprehensive evaluation of his parliamentary effectiveness and constituency development work.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of Dr. Singh's constituency development performance. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Jammu and Kashmir's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Dr. Singh's constituency, it's impossible to determine whether these broader systemic issues affect his development work.
-
-### Financial Transparency
-Asset declaration information is completely unavailable, representing a significant transparency gap. No data exists on total assets, previous holdings, growth ratios, or net worth, making it impossible to assess financial transparency or potential conflicts of interest. The only available financial information is his monthly compensation of Rs 2,45,000, which appears standard for parliamentary positions. This lack of asset data severely limits stakeholders' ability to evaluate his financial accountability.
-
-### Legal & Criminal Standing
-Dr. Singh maintains a clean legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in the criminal record information, suggesting the source may be unreliable or unavailable. While the reported clean record is positive, the uncertainty around data accuracy requires cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary activity metrics are entirely unavailable, including attendance rates, questions raised, debate participation, and private bills introduced. The data indicates Dr. Singh serves as a Minister, which typically involves executive duties that may legitimately reduce parliamentary floor participation due to administrative responsibilities. However, without baseline attendance or activity data, it's impossible to assess his legislative engagement or constituency representation effectiveness in Parliament.
-
-### Public Engagement & Accessibility
-Media analysis reveals moderate public visibility with 10 news articles identified - 1 positive, 0 negative, and 9 neutral pieces, suggesting generally neutral public coverage. However, the evidence grade for accessibility is poor (Grade D), indicating limited public engagement mechanisms or transparency in communication with constituents. No committee membership data was found, potentially due to unavailable Sansad profile information, further limiting assessment of his institutional engagement.
-
-### Data Quality & Caveats
-This transparency assessment faces severe limitations due to widespread data unavailability. Evidence grades are poor across key metrics: Parliament activity (Grade C) and accessibility (Grade D). Multiple automated warnings flag low confidence in criminal records, asset declarations, MPLADS utilization, and parliamentary activity data. The absence of committee information and legislative effectiveness data further compounds assessment challenges. These data gaps may stem from inadequate disclosure practices, poor record-keeping, or inaccessible government databases, but regardless of cause, they significantly impair transparency evaluation.
-
-### Key Takeaway
-Dr. Jitendra Singh's transparency profile is severely hampered by extensive data unavailability across critical governance metrics. While his clean criminal record and ministerial position suggest positive elements, the absence of asset declarations, MPLADS utilization data, and parliamentary activity metrics creates substantial transparency gaps. The systemic fund management issues identified in CAG audits for Jammu and Kashmir underscore the importance of robust monitoring, making the lack of constituency-specific development data particularly concerning. Stakeholders seeking to evaluate his performance face significant informational constraints that limit meaningful assessment of his effectiveness as an elected representative.
+No criminal cases declared. Declared assets: Rs 85,905,005. MPLADS utilization: 28.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +137,7 @@ Dr. Jitendra Singh's transparency profile is severely hampered by extensive data
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jitendra Singh's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -259,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

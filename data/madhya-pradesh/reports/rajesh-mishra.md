@@ -3,32 +3,34 @@
 **Constituency:** Sidhi, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 67.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 63.3 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.40 Crore
+- **Liabilities:** Rs 1.84 Crore
+- **Net Worth:** Rs 12.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 26
+- **Released:** Rs 26
+- **Sanctioned:** Rs 19
+- **Expended:** Rs 17
+- **Utilization Rate:** 65.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Rajesh Mishra shows a mixed transparency profile with perfect criminal record disclosure and attendance but significant weaknesses in legislative activity and accessibility. His zero scores in committee participation and legislative initiatives, combined with minimal accessibility (10%), indicate limited public engagement and parliamentary contribution despite strong basic compliance metrics.
+Rajesh Mishra shows moderate transparency with a score of 67.7/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rajesh Mishra
-
-### Overall Assessment
-Rajesh Mishra, BJP MP from Sidhi constituency in Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining a clean criminal record and demonstrating consistent legislative engagement, critical information regarding financial assets and development fund utilization remains unavailable, limiting comprehensive assessment of his overall performance.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for assessment, including entitled amounts, funds released, or expenditure patterns. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG report identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were either abandoned or incomplete, raising questions about effective fund deployment in the state.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and serve as crucial indicators of potential conflicts of interest. The MP's monthly compensation is recorded at Rs 245,000, representing the standard parliamentary salary structure.
-
-### Legal & Criminal Standing
-Mishra maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, this data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems or data accessibility issues.
-
-### Parliamentary Performance
-Mishra demonstrates exemplary attendance with a perfect 100% parliamentary presence, significantly above average MP attendance rates. His legislative engagement includes 38 questions raised and participation in 8 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, which could suggest limited initiative in independent legislative proposals. The parliament activity data receives a 'C' grade for evidence quality, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment across all pieces - no positive or negative coverage identified. This neutral media profile suggests either limited public controversy or insufficient media attention. The accessibility assessment receives a 'D' grade, indicating poor transparency in public communication and engagement mechanisms. No social media data or committee participation information is available, further limiting assessment of public outreach efforts.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, missing asset information, and absent MPLADS utilization details. Committee participation data is entirely missing, attributed to potential Sansad profile unavailability. Legislative effectiveness data also carries low confidence ratings. The evidence grading system rates parliamentary data as 'C' grade and accessibility as 'D' grade, indicating substantial reliability concerns. Data sources include PRS Legislative Research, social media monitoring, and news aggregation, but coverage appears incomplete.
-
-### Key Takeaway
-While Rajesh Mishra demonstrates strong parliamentary attendance and maintains a clean legal record, his transparency profile is severely hampered by missing critical data across financial disclosures and development fund utilization. The absence of asset information and MPLADS data, combined with systemic fund management issues identified by CAG audits in Madhya Pradesh, raises concerns about accountability mechanisms. His neutral media profile and poor accessibility grade suggest limited public engagement. Voters and oversight bodies should prioritize obtaining complete financial and development fund data to enable comprehensive performance evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 144,008,066. MPLADS utilization: 65.6%. Parliament attendance: 100.0%. Questions asked: 38. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ While Rajesh Mishra demonstrates strong parliamentary attendance and maintains a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajesh Mishra's MPLADS account: Released: Rs 26, Expended: Rs 17, Utilization: 65.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

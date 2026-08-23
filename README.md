@@ -36,26 +36,26 @@ Generated from `data/national/leaderboard/latest.json`.
 
 - MPs scored: 540
 - States/UTs covered: 36 / 36
-- Average national score: 39.8 / 100
-- Highest current score: 59.5 / 100
-- Snapshot timestamp: 2026-05-23T18:23:39.289312Z
+- Average national score: 53.4 / 100
+- Highest current score: 71.6 / 100
+- Snapshot timestamp: 2026-08-22T20:01:56Z
 
 Top 10 in the current national ranking:
 
 | Rank | MP | Party | State | Constituency | Score |
 |---:|---|---|---|---|---:|
-| 1 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 59.5 |
-| 2 | Sukhdeo Bhagat | Indian National Congress | Jharkhand | Lohardaga | 57.6 |
-| 3 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 57.5 |
-| 4 | Arun Kumar Sagar | Bharatiya Janata Party | Uttar Pradesh | Shahjahanpur | 57.0 |
-| 5 | Chandra Shekhar | Azad Samaj Party (Kanshi Ram) | Uttar Pradesh | Nagina | 56.6 |
-| 6 | Tapir Gao | Bharatiya Janata Party | Arunachal Pradesh | Arunachal East | 55.1 |
-| 7 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 55.0 |
-| 8 | Rajesh Mishra | Bharatiya Janata Party | Madhya Pradesh | Sidhi | 54.3 |
-| 9 | Shrikant Eknath Shinde | Shiv Sena | Maharashtra | Kalyan | 54.0 |
-| 10 | Mohammad Jawed | Indian National Congress | Bihar | Kishanganj | 53.4 |
+| 1 | Arun Kumar Sagar | Bharatiya Janata Party | Uttar Pradesh | Shahjahanpur | 71.6 |
+| 2 | Sukhdeo Bhagat | Indian National Congress | Jharkhand | Lohardaga | 69.5 |
+| 3 | Tapir Gao | Bharatiya Janata Party | Arunachal Pradesh | Arunachal East | 68.1 |
+| 4 | Mohammad Jawed | Indian National Congress | Bihar | Kishanganj | 67.9 |
+| 5 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 67.8 |
+| 6 | Rajesh Mishra | Bharatiya Janata Party | Madhya Pradesh | Sidhi | 67.7 |
+| 7 | Rani Srikumar | Dravida Munnetra Kazhagam | Tamil Nadu | Tenkasi | 67.6 |
+| 8 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 67.5 |
+| 9 | Janardan Mishra | Bharatiya Janata Party | Madhya Pradesh | Rewa | 67.4 |
+| 10 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 67.4 |
 
-The scores are intentionally conservative. A score near 60 currently means “stronger than peers on available measurable indicators,” not “perfect transparency.” Missing or weakly evidenced public data can keep scores lower.
+The scores are intentionally conservative. A high score means “stronger than peers on available measurable indicators,” not “perfect transparency.” Missing or weakly evidenced public data keeps scores lower — a zero-case criminal record only scores fully when the source confidence backs it.
 
 ## How the ranking works
 
@@ -63,12 +63,12 @@ Each MP receives component scores from 0 to 100. The composite score is a weight
 
 | Component | Weight | What it is meant to capture |
 |---|---:|---|
-| MPLADS fund utilization | 25% | Whether available constituency development funds appear used effectively and transparently. |
+| MPLADS fund utilization | 20% | Whether available constituency development funds appear used effectively and transparently. |
 | Asset declarations/growth | 15% | Public affidavit-linked asset signals and declaration consistency. |
-| Criminal record disclosures | 15% | Declared criminal cases and severity signals from public affidavit-linked data. |
-| Parliament attendance | 10% | Attendance signals where available, with ministerial context handled in code. |
+| Criminal record disclosures | 20% | Declared criminal cases and severity signals from public affidavit-linked data. |
+| Parliament attendance | 15% | Attendance signals where available, with ministerial context handled in code. |
 | Parliamentary participation | 10% | Questions/debates participation signals from parliamentary activity data. |
-| Committee participation | 10% | Committee membership/participation where available. |
+| Committee participation | 5% | Committee membership/participation where available. |
 | Legislative activity | 10% | Bill/legislative activity signals where available. |
 | Public accessibility | 5% | Public-facing contact/social/accessibility signals. |
 

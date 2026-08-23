@@ -3,23 +3,25 @@
 **Constituency:** Raichur, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 54.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 11.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 33.41 Crore
+- **Liabilities:** Rs 5.04 Crore
+- **Net Worth:** Rs 28.37 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-G Kumar Naik demonstrates a mixed transparency profile with significant areas of concern. While he maintains excellent attendance (90%) and a clean criminal record, his performance is severely hampered by complete absence in committee participation and legislative contributions, along with very poor accessibility to constituents (10%).
+G Kumar Naik shows moderate transparency with a score of 54.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: G Kumar Naik
-
-### Overall Assessment
-G Kumar Naik, the Indian National Congress MP representing Raichur constituency in Karnataka, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, substantial missing information across key transparency metrics—particularly financial assets and MPLADS utilization—prevents a thorough assessment of his performance and accountability.
-
-### Fund Utilization & Development
-Critical data gaps exist regarding MPLADS fund utilization, with no available information on entitlements, releases, or expenditures. This absence is concerning given Karnataka's documented systemic issues with fund management. CAG audit findings reveal significant state-level problems: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled development works remaining abandoned or incomplete. Without specific MPLADS data for Naik's constituency, it's impossible to assess his development fund performance against these concerning state-level benchmarks.
-
-### Financial Transparency
-Asset disclosure transparency is severely compromised with no available data on current or previous asset values, preventing any assessment of wealth accumulation or growth patterns during his tenure. This data absence significantly limits public accountability regarding potential conflicts of interest or unexplained wealth changes. His documented monthly compensation stands at Rs 245,000, but without baseline asset information, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Naik maintains a clean legal record with zero criminal cases across all categories—no pending cases, serious charges, disposed matters, or convictions. However, the system flags low confidence in criminal data availability, suggesting potential gaps in information access rather than confirmed clean standing. This caveat requires consideration when evaluating his legal transparency profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 90% attendance rate, indicating strong physical presence in proceedings. Legislative activity remains limited with 11 questions raised, 2 debate participations, and zero private member bills introduced. This output suggests below-average legislative engagement compared to typical parliamentary performance benchmarks. The absence of committee participation data further limits assessment of his institutional involvement and policy contribution effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement with 10 news articles maintaining entirely neutral tone—zero positive or negative coverage. This neutrality, while avoiding controversy, may indicate limited public visibility or policy impact. The system grades his accessibility as 'D' level, suggesting poor public communication and engagement mechanisms. Social media presence appears minimal based on available monitoring data.
-
-### Data Quality & Caveats
-Multiple automated warnings indicate significant data reliability issues across core transparency metrics. Criminal record data carries low confidence flags, asset information is entirely unavailable, and MPLADS utilization data is missing. Committee participation information is absent, potentially due to unavailable Sansad profiles. Parliamentary performance data receives 'C' grade confidence, while accessibility metrics rate 'D' level confidence. These limitations substantially constrain comprehensive transparency assessment and suggest either poor record-keeping or limited public information accessibility.
-
-### Key Takeaway
-G Kumar Naik's transparency profile remains largely opaque due to extensive missing data across critical accountability metrics. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of financial asset disclosure and MPLADS utilization data—combined with Karnataka's documented fund management problems—raises transparency concerns. His neutral media profile and poor accessibility rating suggest limited public engagement effectiveness. Comprehensive accountability assessment requires addressing significant data gaps in asset disclosure, development fund utilization, and committee participation records.
+No criminal cases declared. Declared assets: Rs 334,128,505. MPLADS utilization: 14.9%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 2.
 
 ---
 
@@ -162,7 +138,7 @@ G Kumar Naik's transparency profile remains largely opaque due to extensive miss
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for G Kumar Naik's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

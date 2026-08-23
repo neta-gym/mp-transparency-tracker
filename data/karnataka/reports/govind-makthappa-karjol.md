@@ -3,23 +3,25 @@
 **Constituency:** Chitradurga, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 73
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 18.6 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.32 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 23.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Govind Makthappa Karjol demonstrates a mixed transparency profile with significant gaps in legislative engagement and public accessibility. While maintaining a clean criminal record and reasonable attendance, his zero scores in committee participation and legislative activities indicate limited parliamentary contribution. The low data confidence (14%) and multiple validation flags suggest incomplete information availability.
+Govind Makthappa Karjol shows moderate transparency with a score of 53.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Govind Makthappa Karjol
-
-### Overall Assessment
-Govind Makthappa Karjol, BJP MP representing Chitradurga constituency in Karnataka, presents a mixed transparency profile characterized by clean legal standing but significant data gaps across multiple key indicators. With 70% parliamentary attendance and neutral media coverage, his public accountability remains partially documented, though critical financial and development data are unavailable for comprehensive evaluation.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This creates a complete visibility gap regarding constituency development activities. The absence of this fundamental transparency metric prevents assessment of his developmental impact in Chitradurga. Given Karnataka's CAG audit findings showing ₹1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, this data gap is particularly concerning for accountability oversight.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous declarations, growth ratios, or net worth calculations. This represents a critical transparency deficit, as asset declarations are mandatory for public officials. The MP's monthly compensation is recorded at ₹2,45,000, but without baseline asset information, financial growth patterns or potential conflicts of interest cannot be assessed. This data absence significantly undermines financial accountability evaluation.
-
-### Legal & Criminal Standing
-Karjol maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability. While the clean record is positive, the reliability caveat suggests verification challenges that could affect the accuracy of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 70% attendance, indicating reasonable presence during legislative sessions. His parliamentary contributions include 21 questions raised, demonstrating engagement with policy issues affecting constituents. However, debate participation is minimal with only 1 recorded intervention, and no private member bills introduced, suggesting limited legislative initiative. The evidence grade of 'C' for parliamentary data indicates moderate reliability with some gaps in comprehensive activity tracking.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral sentiment - zero positive or negative coverage. This neutral profile suggests either limited media engagement or carefully managed public communications. The accessibility evidence grade of 'D' indicates significant challenges in evaluating public engagement effectiveness. No social media activity data or public interaction metrics are available, creating substantial gaps in understanding constituent connectivity and responsiveness.
-
-### Data Quality & Caveats
-Multiple critical data elements carry low confidence ratings or are entirely unavailable. Asset information, MPLADS utilization, and criminal record data all have reliability warnings. No committee membership information is available, suggesting incomplete Sansad profile access. Legislative effectiveness metrics also carry low confidence ratings. The Karnataka-specific CAG audit context reveals systemic issues including idle funds (₹1,558 crore), questionable utilization certificates (34% problematic), and incomplete works (18% abandoned), though direct connection to Karjol's constituency requires verification.
-
-### Key Takeaway
-While Karjol maintains clean legal standing and demonstrates moderate parliamentary attendance, his transparency profile is severely compromised by extensive data unavailability across crucial accountability metrics including asset declarations and MPLADS utilization. The neutral media coverage and absence of engagement data further limit public accountability assessment. For comprehensive evaluation, significant improvements in data availability and transparency reporting mechanisms are essential, particularly given Karnataka's documented fund utilization challenges highlighted in CAG audits.
+No criminal cases declared. Declared assets: Rs 43,243,598. MPLADS utilization: 23.3%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ While Karjol maintains clean legal standing and demonstrates moderate parliament
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Govind Makthappa Karjol's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 23.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

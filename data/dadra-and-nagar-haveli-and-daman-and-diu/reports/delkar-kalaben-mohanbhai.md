@@ -3,23 +3,25 @@
 **Constituency:** Dadra and Nagar Haveli, Dadra And Nagar Haveli And Daman And Diu
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 64.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,18 +40,19 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 71.45 Crore
+- **Liabilities:** Rs 1.58 Crore
+- **Net Worth:** Rs 69.86 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Dadra And Nagar Haveli And Daman And Diu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Delkar Kalaben Mohanbhai shows a moderate transparency profile with significant gaps in key areas. While maintaining perfect criminal record transparency and strong attendance/participation rates, critical deficiencies exist in committee involvement, legislative activity, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information availability.
+Delkar Kalaben Mohanbhai shows moderate transparency with a score of 64.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Delkar Kalaben Mohanbhai
-
-### Overall Assessment
-Delkar Kalaben Mohanbhai, the Bharatiya Janata Party MP representing Dadra and Nagar Haveli, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across multiple accountability metrics. With a 90% parliamentary attendance rate and no criminal record, the MP demonstrates basic institutional engagement, though comprehensive evaluation is hindered by incomplete asset and development fund data.
-
-### Fund Utilization & Development
-Critical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) transparency, with no available data on entitlements, releases, expenditures, or utilization rates. This absence is particularly concerning given the CAG audit context revealing systemic issues in the union territory, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit identified that 18% of sampled works were abandoned or incomplete, highlighting broader developmental fund management challenges in the constituency.
-
-### Financial Transparency
-Asset disclosure data is entirely unavailable, preventing assessment of the MP's financial holdings, growth patterns, or potential conflicts of interest. This represents a significant transparency deficit, as asset declarations are fundamental to public accountability. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset data, comprehensive financial oversight remains impossible.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence rating due to potential source unavailability, suggesting the information may be incomplete rather than definitively accurate.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with strong attendance (90%) but limited substantive contributions. The MP has asked 58 questions and participated in 9 debates, indicating moderate legislative activity. However, zero private member bills introduced suggests limited initiative in proposing new legislation. The overall parliamentary evidence grade of 'C' reflects adequate but unremarkable performance.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal minimal media presence with only 9 neutral news articles and no positive or negative coverage identified. This low-profile approach may indicate limited public communication or engagement with constituency issues. The accessibility evidence grade of 'D' suggests poor digital presence and limited transparency in public communication channels. No committee participation data is available, which may indicate either non-participation or data collection gaps.
-
-### Data Quality & Caveats
-Multiple significant data quality issues undermine comprehensive assessment. Warning flags include low confidence in criminal record data due to source unavailability, completely missing asset information, and absent MPLADS data. Committee participation and legislative effectiveness data are also unavailable. Evidence grades of 'C' for parliamentary performance and 'D' for accessibility reflect these systematic data limitations. The analysis relies primarily on PRS Legislative Research, social media monitoring, and news coverage, with notable gaps in official transparency portals.
-
-### Key Takeaway
-While Delkar Kalaben Mohanbhai maintains good parliamentary attendance and a clean criminal record, substantial transparency gaps in asset disclosure and development fund utilization prevent comprehensive accountability assessment. The absence of MPLADS data is particularly problematic given documented systemic fund management issues in the constituency. Enhanced transparency across financial holdings and development expenditure is essential for effective public oversight and addressing the documented governance challenges identified in CAG audits affecting the region.
+No criminal cases declared. Declared assets: Rs 714,454,357. Parliament attendance: 90.0%. Questions asked: 58. Debates participated: 9.
 
 ---
 
@@ -162,7 +138,7 @@ While Delkar Kalaben Mohanbhai maintains good parliamentary attendance and a cle
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Delkar Kalaben Mohanbhai's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

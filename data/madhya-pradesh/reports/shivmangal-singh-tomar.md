@@ -3,23 +3,25 @@
 **Constituency:** Morena, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 52.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.2 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 10.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.26 Crore
+- **Liabilities:** Rs 44.30 Lakh
+- **Net Worth:** Rs 1.82 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Shivmangal Singh Tomar shows mixed transparency performance with strong attendance (95%) and a clean criminal record, but significant weaknesses in legislative participation (0%), committee involvement (0%), and public accessibility (10%). While maintaining good parliamentary attendance, the MP's legislative output and public engagement appear limited, suggesting room for improvement in active representation.
+Shivmangal Singh Tomar shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Shivmangal Singh Tomar
-
-### Overall Assessment
-Shivmangal Singh Tomar, BJP MP from Morena, Madhya Pradesh, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key areas. While maintaining a clean legal record and good attendance, the lack of accessible information on assets, MPLADS utilization, and legislative activities raises transparency concerns.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of the MP's development work effectiveness. This is particularly concerning given CAG audit findings for Madhya Pradesh revealing systemic issues: Rs 1,558 crore lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific data on Tomar's constituency, voters cannot evaluate his development impact.
-
-### Financial Transparency
-Asset declaration information is completely unavailable, representing a significant transparency gap. No data exists on total assets, previous declarations, growth ratios, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or unusual wealth accumulation. The MP's monthly compensation stands at Rs 2,45,000, but without asset context, financial transparency remains severely limited.
-
-### Legal & Criminal Standing
-Tomar maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposals, or convictions. However, the data carries a low confidence warning, suggesting potential source unavailability. While the available information indicates no legal issues, the data quality concerns require noting.
-
-### Parliamentary Performance
-Tomar demonstrates strong attendance with a 95% participation rate in Lok Sabha proceedings, well above average parliamentary attendance. However, his legislative engagement appears minimal - only 2 questions raised, zero debate participations, and no private member bills introduced. This suggests a passive rather than proactive parliamentary approach, with high physical presence but limited active contribution to legislative processes.
-
-### Public Engagement & Accessibility
-Media coverage is limited to 10 articles, all classified as neutral with no positive or negative sentiment detected. This minimal media presence suggests either limited public engagement or low media visibility. No committee membership data is available, and the Sansad profile appears inaccessible, further limiting transparency about the MP's parliamentary roles and responsibilities. The evidence grade for accessibility is rated 'D', indicating poor public information access.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence warnings due to potential source unavailability
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is unavailable, preventing development work evaluation
-- Committee membership information is absent
-- Legislative effectiveness data has low confidence ratings
-- Evidence grades are poor: Parliament performance rated 'C' and accessibility rated 'D'
-
-These gaps represent substantial transparency deficits that limit comprehensive evaluation.
-
-### Key Takeaway
-While Shivmangal Singh Tomar maintains strong parliamentary attendance (95%) and a clean legal record, significant transparency gaps in financial disclosures, development fund utilization, and legislative activities prevent a comprehensive assessment of his performance. The absence of asset declarations and MPLADS data, combined with minimal legislative engagement (only 2 questions, no debates), suggests opportunities for improved transparency and more active representation of Morena constituency interests.
+No criminal cases declared. Declared assets: Rs 22,614,911. MPLADS utilization: 12.8%. Parliament attendance: 95.0%. Questions asked: 2.
 
 ---
 
@@ -170,7 +138,7 @@ While Shivmangal Singh Tomar maintains strong parliamentary attendance (95%) and
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shivmangal Singh Tomar's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

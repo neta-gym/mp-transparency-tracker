@@ -3,32 +3,34 @@
 **Constituency:** Thoothukkudi, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 18.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 60.41 Crore
+- **Liabilities:** Rs 60.60 Lakh
+- **Net Worth:** Rs 59.80 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 3
+- **Utilization Rate:** 22.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Kanimozhi Karunanidhi shows mixed transparency performance with strong attendance (90%) and clean criminal record, but significant weaknesses in committee participation, accessibility, and legislative engagement. The low data confidence (14%) and multiple validation flags suggest limited information availability, which itself impacts transparency assessment.
+Kanimozhi Karunanidhi shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kanimozhi Karunanidhi
-
-### Overall Assessment
-Kanimozhi Karunanidhi, the Dravida Munnetra Kazhagam (DMK) MP representing Thoothukkudi constituency in Tamil Nadu, presents a profile with significant data limitations that constrain comprehensive transparency evaluation. While her parliamentary attendance is strong at 90%, critical transparency metrics including asset declarations, MPLADS utilization, and criminal record verification face substantial data quality issues.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap for assessing constituency development impact. The broader context reveals concerning patterns in Tamil Nadu's fund management, with CAG audits identifying Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about overall development fund effectiveness in the state.
-
-### Financial Transparency
-Asset declaration data is completely absent, with no information available on current holdings, previous declarations, growth patterns, or net worth. This prevents any assessment of financial transparency or potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, but without asset context, comprehensive financial evaluation remains impossible.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), suggesting a clean legal profile. However, data quality warnings indicate low confidence in criminal record information, with source availability concerns that limit the reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Attendance at 90% demonstrates strong commitment to legislative duties. However, active participation metrics reveal limited engagement with 36 questions raised and 11 debate participations - figures that suggest moderate rather than highly active involvement in parliamentary proceedings. No private member bills were introduced, indicating limited legislative initiative. Committee participation data is unavailable due to potential Sansad profile accessibility issues.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 articles identified showing balanced coverage (0 positive, 0 negative, 10 neutral). This suggests limited media visibility or controversial positioning. The evidence grade for accessibility receives a 'D' rating, indicating significant challenges in public information access and transparency. Social media presence data is referenced but specific metrics are not provided.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations that significantly impact reliability:
-- **Criminal records**: Low confidence due to source unavailability
-- **Asset information**: Complete data absence prevents financial transparency evaluation
-- **MPLADS data**: No utilization information available
-- **Committee participation**: Data unavailable due to potential Sansad profile access issues
-- **Legislative effectiveness**: Low confidence ratings
-- **Evidence grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-The automated flagging system identifies multiple warning indicators, particularly around criminal record confidence and asset data availability. These limitations necessitate cautious interpretation of the transparency profile.
-
-### Key Takeaway
-Kanimozhi Karunanidhi's transparency profile is significantly hampered by data availability issues across critical metrics. While her 90% parliamentary attendance demonstrates legislative commitment and zero reported criminal cases suggest clean legal standing, the absence of asset declarations and MPLADS utilization data creates substantial transparency gaps. The neutral media coverage and moderate parliamentary participation levels, combined with poor accessibility ratings, suggest opportunities for enhanced public engagement. Meaningful transparency assessment requires improved data availability across asset disclosure, fund utilization, and committee participation metrics.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 604,056,590. MPLADS utilization: 22.9%. Parliament attendance: 90.0%. Questions asked: 36. Debates participated: 11.
 
 ---
 
@@ -170,7 +138,7 @@ Kanimozhi Karunanidhi's transparency profile is significantly hampered by data a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kanimozhi Karunanidhi's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

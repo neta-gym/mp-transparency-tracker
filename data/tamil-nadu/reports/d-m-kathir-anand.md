@@ -3,56 +3,69 @@
 **Constituency:** Vellore, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 48
+**Education:** Post Graduate
+**Profession:** Self Employed
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 11.4 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
-- **Serious Cases:** 0
+- **Total Cases:** 6
+- **Serious Cases:** 1
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Details and present status of appeal (Sections: N/A) 
+2. No description (Sections: N/A) 
+3. No description (Sections: 205/2019) 
+4. No description (Sections: 112/2017) 
+5. No description (Sections: 76/2017) 
+6. No description (Sections: Cr. No. 9/2002, Directorate of Vigilance and ani Corruption) **SERIOUS**
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 41.05 Crore
+- **Immovable Assets:** Rs 47.75 Crore
+- **Total Assets:** Rs 88.80 Crore
+- **Liabilities:** Rs 51.17 Crore
+- **Net Worth:** Rs 37.63 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.2%
 
 ---
 
@@ -91,9 +104,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -102,43 +112,11 @@
 
 ## Qualitative Assessment
 
-D M Kathir Anand demonstrates mixed transparency performance with a score of 59.5/100. While he shows strong attendance (90%) and maintains a clean criminal record (100%), significant weaknesses exist in committee participation (0%), accessibility (10%), and MPLADS utilization (50%). The low data confidence (14%) and multiple validation flags suggest limited publicly available information.
+D M Kathir Anand has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: D M Kathir Anand
-
-### Overall Assessment
-
-D M Kathir Anand, representing Vellore constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a mixed transparency profile with reasonable parliamentary engagement but significant gaps in financial disclosures. With 90% attendance and active participation in legislative processes, he demonstrates commitment to parliamentary duties. However, the absence of asset declarations and MPLADS utilization data severely limits assessment of his financial stewardship and development effectiveness.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditure, or utilization rates. This represents a critical transparency gap given MPs' Rs 5 crore annual constituency development allocation. The CAG audit context reveals systemic concerns in Tamil Nadu's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project monitoring and completion rates in the state.
-
-### Financial Transparency
-
-Asset disclosure information is completely absent, with no data on current holdings, previous declarations, growth ratios, or net worth. This lack of financial transparency prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset declarations, comprehensive financial oversight remains impossible.
-
-### Legal & Criminal Standing
-
-Official records show zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, data quality flags indicate "low confidence in criminal data" with potentially unavailable sources, suggesting this clean record should be interpreted cautiously pending verification from authoritative judicial databases.
-
-### Parliamentary Performance
-
-Kathir Anand demonstrates solid parliamentary engagement with 90% attendance, well above average parliamentary attendance rates. He has raised 49 questions, participated in 17 debates, and introduced 3 private member bills, indicating active legislative participation. His involvement spans questioning government actions, contributing to parliamentary discussions, and proposing legislative initiatives. However, he has not utilized zero hour interventions or made special mentions, suggesting selective engagement with parliamentary procedures.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public visibility with only 10 articles tracked - predominantly neutral coverage (9 articles) with minimal positive coverage (0 articles) and one negative piece. This low media profile suggests either limited public engagement or insufficient coverage of constituency activities. The accessibility evidence grade of 'D' indicates poor digital presence or public communication, potentially limiting constituent interaction and transparency.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence due to potentially unavailable sources. Asset information is completely missing with low confidence ratings. MPLADS data is entirely absent, preventing development impact evaluation. Committee assignment information is unavailable, possibly due to incomplete Sansad profile data. Legislative effectiveness metrics also carry low confidence ratings. These limitations necessitate cautious interpretation of all findings and highlight the need for improved data collection and disclosure mechanisms.
-
-### Key Takeaway
-
-While D M Kathir Anand maintains reasonable parliamentary attendance and participation levels, critical transparency gaps in asset declarations and development fund utilization severely limit comprehensive evaluation of his performance. The absence of financial disclosures and MPLADS data, combined with systemic fund management issues identified in Tamil Nadu, underscores the urgent need for enhanced transparency mechanisms. His clean criminal record and active parliamentary participation provide positive indicators, but improved financial disclosure and public engagement are essential for complete accountability assessment.
+Has 6 criminal case(s) (1 serious), 6 pending, 0 conviction(s). Declared assets: Rs 887,965,643. MPLADS utilization: 14.2%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 17.
 
 ---
 
@@ -178,7 +156,7 @@ While D M Kathir Anand maintains reasonable parliamentary attendance and partici
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +235,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for D M Kathir Anand's MPLADS account: Released: Rs 16, Expended: Rs 2, Utilization: 14.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +254,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads, myneta*
 *Methodology version: 3.0 (8 scoring dimensions)*

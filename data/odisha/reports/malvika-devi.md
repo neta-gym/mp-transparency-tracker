@@ -3,23 +3,25 @@
 **Constituency:** Kalahandi, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 60.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 21.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 41.89 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 41.89 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 85% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 4
+- **Utilization Rate:** 26.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Malvika Devi shows a mixed transparency profile with strong performance in criminal record disclosure and parliamentary attendance, but significant gaps in committee participation, accessibility, and legislative transparency. The very low data confidence (14%) and multiple validation flags suggest incomplete or unreliable data availability, which hampers a comprehensive evaluation of her transparency practices.
+Malvika Devi shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Malvika Devi
-
-### Overall Assessment
-
-Malvika Devi, BJP MP from Kalahandi, Odisha, presents a mixed transparency profile with significant data limitations. While maintaining strong parliamentary attendance (90%), the assessment is hampered by missing critical information across multiple transparency indicators. Her representation of Kalahandi, a historically underdeveloped district, makes transparency in fund utilization particularly important for constituents.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is completely unavailable, preventing assessment of her development work effectiveness. This data gap is concerning given CAG audit findings revealing systemic issues in Odisha's fund management. The CAG's 2010 audit identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to evaluate whether these systemic issues affect her constituency's development projects.
-
-### Financial Transparency
-
-Asset disclosure information is entirely missing, creating a significant transparency gap. No data is available regarding her total assets, previous holdings, growth patterns, or net worth. This absence of financial information makes it impossible to assess potential conflicts of interest or wealth accumulation patterns during her tenure. Her monthly compensation of Rs 2,45,000 represents the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-
-Official records indicate zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, this clean record comes with a significant caveat as automated systems flag low confidence in criminal data availability, suggesting the source may be unreliable or incomplete. While the absence of recorded cases is positive, the data quality concern prevents definitive assessment of her legal standing.
-
-### Parliamentary Performance
-
-Malvika Devi demonstrates strong parliamentary engagement with 90% attendance, significantly above average parliamentary attendance rates. Her legislative activity includes 30 questions raised and participation in 15 debates, indicating active constituency representation and policy engagement. However, she has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The evidence grade of 'C' for parliament data indicates moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with notably neutral tone - zero positive, zero negative, and 10 neutral articles. This neutral coverage pattern may indicate either balanced reporting or limited media attention to her activities. The accessibility evidence grade of 'D' suggests poor data availability regarding public engagement metrics. No committee assignment data is available, preventing assessment of her specialized parliamentary roles or policy expertise areas.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight significant data reliability issues. Criminal record data carries low confidence warnings, asset information is completely unavailable, and MPLADS utilization data is missing entirely. Committee membership information is absent, suggesting potential unavailability of her Sansad profile. The evidence grading system rates parliament data as 'C' (moderate confidence) and accessibility as 'D' (poor confidence). These limitations severely constrain comprehensive transparency assessment and suggest either data collection challenges or potential lack of proactive disclosure.
-
-### Key Takeaway
-
-While Malvika Devi maintains strong parliamentary attendance and shows no recorded criminal issues, her transparency profile is significantly compromised by missing critical data across asset disclosure, fund utilization, and public engagement metrics. The systemic fund management issues identified by CAG audits in Odisha make the absence of MPLADS data particularly concerning for constituents seeking accountability. Voters and oversight bodies should prioritize obtaining complete disclosure information to enable proper evaluation of her performance and transparency standards.
+No criminal cases declared. Declared assets: Rs 418,901,050. MPLADS utilization: 26.3%. Parliament attendance: 90.0%. Questions asked: 30. Debates participated: 15.
 
 ---
 
@@ -170,7 +138,7 @@ While Malvika Devi maintains strong parliamentary attendance and shows no record
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Malvika Devi's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

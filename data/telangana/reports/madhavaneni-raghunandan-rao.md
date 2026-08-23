@@ -3,32 +3,34 @@
 **Constituency:** Medak, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 59
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 37.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 13.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 29
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 29
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 22.09 Crore
+- **Liabilities:** Rs 12.12 Crore
+- **Net Worth:** Rs 9.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 16.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Madhavaneni Raghunandan Rao demonstrates mixed transparency performance with a moderate overall score of 51.5/100. While he maintains perfect attendance and a clean criminal record, significant gaps exist in committee participation, accessibility to constituents, and legislative activity disclosure. The low data confidence of 14% and multiple validation flags suggest limited reliable information availability.
+Madhavaneni Raghunandan Rao has a below-average transparency score of 37.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Madhavaneni Raghunandan Rao
-
-### Overall Assessment
-Madhavaneni Raghunandan Rao, BJP MP representing Medak constituency in Telangana, presents a limited transparency profile due to significant data gaps across multiple dimensions. While showing perfect parliamentary attendance and maintaining a clean criminal record, the absence of critical financial and developmental data severely constrains comprehensive assessment of his effectiveness and transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, making it impossible to assess the MP's developmental impact in the constituency. This data gap is particularly concerning given that CAG audits have identified systemic issues in fund management across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without access to entitled amounts, releases, expenditures, or utilization percentages, stakeholders cannot evaluate whether Medak constituency is receiving adequate developmental attention or if funds are being deployed effectively.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency data prevents assessment of potential conflicts of interest or unexplained wealth accumulation during tenure. The MP receives a monthly compensation of Rs 2,45,000, but without baseline asset information, it's impossible to track financial changes during his parliamentary term.
-
-### Legal & Criminal Standing
-Rao maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This represents a positive aspect of his profile, suggesting absence of legal controversies that might compromise his ability to serve constituents effectively.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance with a perfect 100% participation rate in parliamentary sessions, indicating commitment to his legislative duties. His parliamentary engagement includes 20 questions raised and participation in 5 debates, showing moderate activity in holding the government accountable and contributing to legislative discussions. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The absence of committee participation data prevents full assessment of his contribution to detailed policy work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 neutral articles with no positive or negative sentiment detected, indicating limited public visibility or controversial engagement. The neutral tone suggests either minimal media attention or balanced coverage without significant achievements or controversies generating strong reactions. No social media engagement metrics or public outreach data is available to assess direct constituent interaction.
-
-### Data Quality & Caveats
-This assessment faces severe limitations due to multiple data quality issues. Criminal record data carries low confidence warnings, potentially understating legal issues. Asset information is completely unavailable, preventing financial transparency evaluation. MPLADS data absence eliminates development impact assessment capabilities. Committee participation information is missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. Evidence grades show 'C' for parliamentary data and 'D' for accessibility, indicating substantial reliability concerns across key transparency metrics.
-
-### Key Takeaway
-While Rao demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial disclosure, development fund utilization, and public engagement severely limit transparency assessment. The absence of MPLADS and asset data particularly undermines accountability, as these represent core areas where MPs should demonstrate transparent governance. Stakeholders should advocate for improved data availability to enable meaningful evaluation of his effectiveness as their representative in Parliament.
+Has 29 criminal case(s) (0 serious), 29 pending, 0 conviction(s). Declared assets: Rs 220,907,289. MPLADS utilization: 16.5%. Parliament attendance: 100.0%. Questions asked: 20. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ While Rao demonstrates strong parliamentary attendance and maintains a clean cri
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Madhavaneni Raghunandan Rao's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

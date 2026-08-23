@@ -3,32 +3,34 @@
 **Constituency:** Ramanathapuram, Tamil Nadu
 **Party:** Indian Union Muslim League
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 61.5 / 100
+## Composite Transparency Score: 64.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 100.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 76.14 Crore
+- **Liabilities:** Rs 6.31 Crore
+- **Net Worth:** Rs 69.83 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.9%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -102,42 +102,11 @@
 
 ## Qualitative Assessment
 
-Navaskani K demonstrates mixed transparency performance with strong attendance (90%) and full participation in parliamentary activities, alongside a clean criminal record. However, significant concerns exist in committee involvement (0%), accessibility to constituents (10%), and MPLADS fund utilization (50%), creating an uneven transparency profile.
+Navaskani K shows moderate transparency with a score of 64.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Navaskani K
-
-### Overall Assessment
-Navaskani K, representing Ramanathapuram constituency for the Indian Union Muslim League, presents a mixed transparency profile with significant data gaps across key accountability metrics. While demonstrating strong parliamentary engagement with 90% attendance and active participation in legislative proceedings, the absence of critical financial and asset information severely limits comprehensive assessment of his public service record.
-
-### Fund Utilization & Development
-No MPLADS (Member of Parliament Local Area Development Scheme) data is available for Navaskani K, making it impossible to evaluate his constituency development performance. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in MPLADS implementation across states, including Rs 1,558 crore in idle funds lying unspent in district authorities' accounts. The audit revealed that 34% of utilization certificates lacked proper supporting documents, and 18% of sampled works were abandoned or incomplete, raising questions about development fund oversight in Tamil Nadu.
-
-### Financial Transparency
-Asset disclosure information is completely absent from available records, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap that prevents public assessment of potential conflicts of interest or wealth accumulation patterns. The MP receives a total monthly compensation of Rs 245,000, but without baseline asset information, tracking financial accountability remains impossible.
-
-### Legal & Criminal Standing
-Navaskani K maintains a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, the data quality warning indicates low confidence in criminal record information due to potentially unavailable sources, suggesting this assessment should be treated with caution.
-
-### Parliamentary Performance
-The MP demonstrates strong legislative engagement with 90% attendance in Parliament, significantly above average participation rates. His legislative activity includes 68 questions raised, 171 debate participations, and 3 private member bills introduced. This level of parliamentary involvement suggests active representation of constituency interests and engagement with national policy discussions. The introduction of 3 private member bills indicates proactive legislative initiative, though the absence of zero hour mentions and special mentions suggests limited use of these parliamentary tools.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals minimal public visibility, with only 10 news articles identified. The sentiment breakdown shows predominantly neutral coverage (9 neutral articles) with 1 negative article and no positive coverage. This low media profile may indicate limited public engagement or insufficient media outreach efforts. The evidence grade of 'D' for accessibility further suggests challenges in public communication and transparency.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Critical limitations include:
-- Low confidence in criminal record data due to potentially unavailable sources
-- Complete absence of asset and wealth information
-- No MPLADS utilization data available
-- Missing committee participation information due to unavailable Sansad profile
-- Low confidence grades for parliamentary performance (C) and accessibility (D)
-
-These data gaps prevent comprehensive evaluation of key accountability metrics and suggest systemic issues with transparency data availability for this MP.
-
-### Key Takeaway
-While Navaskani K demonstrates commendable parliamentary attendance and legislative participation, the absence of crucial financial transparency data and development fund utilization information creates significant accountability blind spots. The MP's clean criminal record is positive but requires verification given data quality concerns. Priority should be given to improving asset disclosure compliance and MPLADS reporting to enable proper public oversight of his constituency representation and financial accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 761,430,420. MPLADS utilization: 24.9%. Parliament attendance: 90.0%. Questions asked: 68. Debates participated: 171.
 
 ---
 
@@ -177,7 +146,7 @@ While Navaskani K demonstrates commendable parliamentary attendance and legislat
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Navaskani K's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

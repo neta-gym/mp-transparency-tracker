@@ -3,32 +3,34 @@
 **Constituency:** Bargarh, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 43.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 8.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.26 Crore
+- **Liabilities:** Rs 6.77 Lakh
+- **Net Worth:** Rs 2.19 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Pradeep Purohit shows a mixed transparency profile with strong attendance (95%) and clean criminal record, but significant gaps in committee participation, legislative contributions, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee engagement, suggest limited comprehensive transparency despite good parliamentary attendance.
+Pradeep Purohit has a below-average transparency score of 43.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Pradeep Purohit
-
-### Overall Assessment
-Pradeep Purohit, BJP MP from Bargarh constituency in Odisha, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps in critical areas. While maintaining a clean criminal record and demonstrating consistent legislative participation, the absence of comprehensive asset and MPLADS utilization data limits a full assessment of his financial transparency and development impact.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of Purohit's development work in Bargarh constituency. This data gap is particularly concerning given CAG audit findings across Odisha revealing systemic issues: Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to determine whether Purohit's constituency faces similar challenges or has achieved better utilization rates.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, eliminating any assessment of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations prevents analysis of financial trajectory during his tenure. Purohit receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset data, overall financial transparency remains opaque.
-
-### Legal & Criminal Standing
-Purohit maintains a clean criminal record with zero cases across all categories - no pending cases, serious charges, disposed matters, or convictions. However, data quality warnings indicate low confidence in criminal record information, suggesting the source may be incomplete or unavailable. While the reported clean record is positive, the reliability caveat requires consideration.
-
-### Parliamentary Performance
-Purohit demonstrates strong parliamentary engagement with 95% attendance, significantly above average legislative participation rates. His legislative activity includes 51 questions raised and participation in 7 debates, indicating active representation of constituency concerns. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The evidence grade of 'C' for parliamentary data indicates moderate confidence in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public sentiment with 10 articles tracked (1 positive, 0 negative, 9 neutral), suggesting limited controversial engagement but also potentially low public visibility. The 'D' evidence grade for accessibility data indicates poor confidence in public engagement metrics. No committee membership data was found, potentially indicating limited specialized legislative roles or data unavailability from Sansad profile sources.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence levels, asset information is completely unavailable, and MPLADS utilization data is missing. Committee participation and legislative effectiveness data also show low confidence levels. These gaps, flagged by automated systems, suggest either data source limitations or MP profile incompleteness on official platforms. The overall evidence quality ranges from 'C' for parliamentary metrics to 'D' for accessibility measures.
-
-### Key Takeaway
-While Pradeep Purohit demonstrates strong parliamentary attendance and maintains a reported clean criminal record, significant transparency gaps in asset disclosure and development fund utilization prevent a comprehensive assessment. The 95% attendance rate and active questioning indicate engaged representation, but without MPLADS and asset data, constituents cannot fully evaluate his development impact or financial transparency. Enhanced data disclosure would substantially improve accountability assessment for this Odisha constituency representative.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 22,595,410. MPLADS utilization: 10.4%. Parliament attendance: 95.0%. Questions asked: 51. Debates participated: 7.
 
 ---
 
@@ -162,7 +138,7 @@ While Pradeep Purohit demonstrates strong parliamentary attendance and maintains
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pradeep Purohit's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

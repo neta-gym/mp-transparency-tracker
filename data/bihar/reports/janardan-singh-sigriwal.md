@@ -3,32 +3,34 @@
 **Constituency:** Maharajganj, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 51.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 12.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.75 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.75 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 15.9%
 
 ---
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -102,42 +102,11 @@
 
 ## Qualitative Assessment
 
-MP Janardan Singh Sigriwal shows a mixed transparency profile with strong performance in attendance and criminal record disclosure, but significant weaknesses in committee participation, accessibility, and MPLADS transparency. The low data confidence of 14% and 6 validation flags suggest limited reliable information availability, which itself impacts overall transparency assessment.
+Janardan Singh Sigriwal shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Janardan Singh Sigriwal
-### Overall Assessment
-
-Janardan Singh Sigriwal, BJP MP from Maharajganj (Bihar), presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance and demonstrating legislative engagement through 41 questions and 3 private member bills, critical transparency areas including asset declarations, MPLADS utilization, and financial records show concerning data unavailability. The MP operates within a challenging state context marked by systemic fund utilization issues highlighted in CAG audits.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, or expenditure patterns. This data gap is particularly concerning given Bihar's documented challenges with fund utilization. CAG audits reveal systemic issues including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Sigriwal's constituency, it's impossible to assess his development impact or fund utilization efficiency.
-
-### Financial Transparency
-
-Asset transparency is critically deficient, with no current or previous asset declarations available. The absence of baseline financial data prevents any assessment of wealth growth, potential conflicts of interest, or compliance with disclosure requirements. Monthly compensation is documented at Rs 2,45,000, but this represents only a fraction of required financial transparency. The complete lack of asset data raises significant accountability concerns, particularly for a representative from a state facing documented governance challenges.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), presenting a clean legal profile. However, automated flags indicate low confidence in this criminal data due to potential source unavailability. While the reported clean record is positive, the data quality concerns require cautious interpretation. Independent verification of criminal background would strengthen confidence in this assessment.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows notable strengths, particularly the exceptional 100% attendance rate demonstrating consistent presence in legislative proceedings. Sigriwal has posed 41 questions and participated in 13 debates, indicating active engagement with parliamentary processes. The introduction of 3 private member bills suggests legislative initiative beyond party lines. However, zero hour contributions and special mentions both register zero, limiting broader parliamentary impact. The evidence grade of 'C' for parliamentary data suggests moderate reliability in these metrics.
-
-### Public Engagement & Accessibility
-
-Public engagement metrics are severely limited. News sentiment analysis covers only 10 articles, all classified as neutral, suggesting minimal media visibility or public discourse engagement. The accessibility evidence grade of 'D' indicates poor data availability for public interaction metrics. No social media engagement data, public interaction records, or constituency outreach information is available, creating a significant transparency gap in understanding the MP's public engagement strategy and effectiveness.
-
-### Data Quality & Caveats
-
-Multiple automated warnings highlight serious data reliability issues. Asset and MPLADS data carry "low confidence" flags, while criminal records show potential source unavailability. Committee membership information is entirely absent, likely due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. The evidence grading system rates parliament performance at 'C' and accessibility at 'D', indicating moderate to poor data quality across key metrics. These limitations significantly constrain comprehensive accountability assessment.
-
-### Key Takeaway
-
-Janardan Singh Sigriwal demonstrates committed parliamentary participation through perfect attendance and legislative engagement, but faces critical transparency deficits in financial disclosure, development fund utilization, and public engagement documentation. Operating within Bihar's challenging governance environment marked by systemic fund management issues, the MP's accountability profile suffers from extensive data gaps that prevent comprehensive evaluation. The combination of strong attendance with absent asset declarations and MPLADS data creates a paradox of visible legislative presence alongside invisible financial and development transparency, highlighting the need for improved data disclosure mechanisms to enable proper democratic accountability.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 17,536,436. MPLADS utilization: 15.9%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 13.
 
 ---
 
@@ -177,7 +146,7 @@ Janardan Singh Sigriwal demonstrates committed parliamentary participation throu
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Janardan Singh Sigriwal's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 15.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

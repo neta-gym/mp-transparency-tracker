@@ -3,23 +3,25 @@
 **Constituency:** Maldaha Dakshin, West Bengal
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 51.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 2.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.48 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 1.48 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 12% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 3.6%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,45 +95,11 @@
 
 ## Qualitative Assessment
 
-Isha Khan Choudhury shows a mixed transparency profile with moderate performance in basic disclosure areas like MPLADS utilization and asset declarations, but significant deficiencies in legislative engagement and public accessibility. While maintaining excellent attendance and a clean criminal record, the MP demonstrates minimal committee participation and legislative output, suggesting limited active contribution to parliamentary processes.
+Isha Khan Choudhury shows moderate transparency with a score of 51.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Isha Khan Choudhury
-
-### Overall Assessment
-
-Isha Khan Choudhury, representing Maldaha Dakshin constituency in West Bengal for the Indian National Congress, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating strong parliamentary attendance (90%), critical information regarding assets, MPLADS utilization, and committee participation remains unavailable. The MP receives a monthly compensation of ₹2,45,000 and has garnered neutral media coverage across 10 articles.
-
-### Fund Utilization & Development
-
-Complete MPLADS data is unavailable for assessment, including entitled amounts, releases, expenditures, and utilization percentages. This represents a significant transparency gap given the scheme's importance for constituency development. CAG audit findings for West Bengal highlight systemic concerns including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works being abandoned or incomplete. Without specific MPLADS data for Choudhury, constituency-level fund utilization cannot be evaluated.
-
-### Financial Transparency
-
-Asset disclosure information is entirely missing, preventing assessment of the MP's financial standing, wealth accumulation patterns, or potential conflicts of interest. No data is available regarding total assets, previous asset values, growth ratios, or net worth calculations. This complete absence of financial transparency data severely limits accountability assessment and raises concerns about disclosure compliance.
-
-### Legal & Criminal Standing
-
-Choudhury maintains a completely clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification. While the available data indicates no legal issues, the warning about source availability necessitates cautious interpretation of this clean record.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with strong attendance (90%) demonstrating commitment to legislative duties. However, active participation metrics are concerning - only 3 questions raised and 3 debate participations, with zero private member bills introduced. No committee membership data is available, potentially indicating limited involvement in parliamentary committee work. This pattern suggests physical presence without proportional active contribution to legislative processes.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with entirely neutral sentiment (zero positive or negative articles), suggesting limited public discourse generation or controversial positions. The absence of varied sentiment patterns may indicate either effective reputation management or insufficient public engagement to generate strong opinions. Social media presence and direct constituency interaction data are not available for comprehensive accessibility assessment.
-
-### Data Quality & Caveats
-
-Significant data quality issues affect this profile's reliability. Evidence grades are poor - Parliament data rated 'C' and accessibility rated 'D'. Critical warnings include low confidence in criminal record data due to potential source unavailability, low confidence in asset information, and low confidence in MPLADS data. Additionally, no committee participation data is found, possibly due to unavailable Sansad profile information. These gaps substantially limit comprehensive transparency assessment.
-
-The automated flagging system identifies multiple data reliability concerns, particularly regarding assets and MPLADS utilization - two crucial transparency indicators. While 7 relevant CAG audit findings provide context for West Bengal's fund utilization challenges, the absence of MP-specific data prevents direct accountability assessment.
-
-### Key Takeaway
-
-Isha Khan Choudhury's transparency profile is severely hampered by comprehensive data gaps across critical areas including assets, MPLADS utilization, and committee participation. While maintaining clean criminal records and strong parliamentary attendance, the MP's active legislative engagement appears limited with minimal question-raising and debate participation. The complete absence of financial disclosure data and fund utilization information creates significant transparency deficits that prevent meaningful accountability assessment, highlighting systemic issues in MP data availability and disclosure compliance.
+No criminal cases declared. Declared assets: Rs 14,810,368. MPLADS utilization: 3.6%. Parliament attendance: 90.0%. Questions asked: 3. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -172,7 +139,7 @@ Isha Khan Choudhury's transparency profile is severely hampered by comprehensive
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -251,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Isha Khan Choudhury's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 3.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

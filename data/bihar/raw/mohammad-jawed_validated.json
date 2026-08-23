@@ -14,7 +14,7 @@
     "education": "Graduate Professional",
     "profession": null,
     "age": 60,
-    "photo_url": null
+    "photo_url": "/mp-photos/5216.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Kishanganj",
       "state": "bihar",
       "party": "Indian National Congress",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 2240,
       "slug": "mohammad-jawed",
       "house": "lok_sabha",
       "sansad_member_id": 5216,
       "profile_url": null,
       "canonical_name": "Mohammad Jawed",
       "name_aliases": [],
-      "education": null,
+      "education": "Graduate Professional",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 60,
+      "photo_url": "/mp-photos/5216.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,60 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 159675943.0,
+      "liabilities": 16562000.0,
+      "net_worth": 143113943.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:45.108186Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 68.7,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.87,
+      "released": 14.87,
+      "sanctioned": 11.37,
+      "expended": 8.39,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.347321Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:22:36.465807Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:22:36.462916Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:20:44.069294Z",
+          "notes": "Official eSAKSHI REST API — Works: 183 recommended, 176 sanctioned, 116 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 183,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 56.42232683254876
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:23:44.347457Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.361980Z",
+          "fetched_at": "2026-08-23T16:44:14.225037Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.361996Z",
+          "fetched_at": "2026-08-23T16:44:14.225050Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362004Z",
+          "fetched_at": "2026-08-23T16:44:14.225056Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362011Z",
+          "fetched_at": "2026-08-23T16:44:14.225062Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362018Z",
+          "fetched_at": "2026-08-23T16:44:14.225068Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362025Z",
+          "fetched_at": "2026-08-23T16:44:14.225074Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362031Z",
+          "fetched_at": "2026-08-23T16:44:14.225079Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -261,7 +260,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:23:44.362037Z",
+          "fetched_at": "2026-08-23T16:44:14.225092Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -416,26 +415,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -455,74 +436,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Mohammad Jawed\n\n### Overall Assessment\n\nMohammad Jawed, the Indian National Congress MP representing Kishanganj constituency in Bihar, demonstrates strong parliamentary engagement but operates within a context of limited data transparency. With perfect attendance (100%) and active participation in legislative proceedings, he shows commitment to his parliamentary duties. However, significant data gaps across financial disclosures and development metrics prevent a comprehensive assessment of his overall effectiveness as a public representative.\n\n### Fund Utilization & Development\n\nNo MPLADS (Member of Parliament Local Area Development Scheme) data is available for Mohammad Jawed, including entitlement, release, expenditure, or utilization rates. This absence of information is concerning given that MPLADS represents a crucial mechanism for MPs to drive local development. The lack of data prevents evaluation of his contribution to constituency development projects.\n\nBihar's MPLADS implementation faces systemic challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found to be abandoned or incomplete, highlighting broader implementation concerns that may affect Kishanganj's development trajectory.\n\n### Financial Transparency\n\nAsset disclosure information is completely unavailable, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives and crucial for public accountability. The absence of this fundamental information raises concerns about financial disclosure compliance.\n\nMohammad Jawed's monthly compensation is recorded at Rs 2,45,000, representing the standard parliamentary remuneration structure.\n\n### Legal & Criminal Standing\n\nMohammad Jawed maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence rating due to potential source unavailability, necessitating cautious interpretation of these figures.\n\n### Parliamentary Performance\n\nMohammad Jawed demonstrates exemplary parliamentary attendance with a perfect 100% record, significantly above average participation levels. His legislative engagement includes 41 questions raised and participation in 16 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation.\n\nNo committee assignment data is available, which represents a gap in understanding his specialized parliamentary contributions. Committee work often constitutes a significant portion of an MP's legislative effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals 10 news articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting minimal public controversy but also limited positive visibility. This neutral coverage pattern may indicate either measured public engagement or insufficient media attention to his constituency work.\n\nThe evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and communication channels. This low rating suggests potential deficiencies in constituent services and public engagement mechanisms.\n\n### Data Quality & Caveats\n\nThis assessment faces significant limitations due to multiple data quality issues:\n\n- Criminal record data carries low confidence due to source unavailability\n- Asset information is completely missing with low confidence ratings\n- MPLADS data is entirely absent\n- Committee assignments are unavailable\n- Legislative effectiveness data has low confidence ratings\n\nThe overall evidence grade for parliament activity is 'C', indicating moderate data reliability. These limitations substantially constrain the ability to provide a comprehensive evaluation of Mohammad Jawed's performance across key metrics.\n\n### Key Takeaway\n\nMohammad Jawed presents a mixed profile characterized by strong parliamentary attendance and active legislative participation, offset by significant transparency deficits in financial disclosures and development fund utilization. While his clean criminal record and perfect attendance demonstrate basic compliance and commitment, the absence of critical data on assets, MPLADS implementation, and constituency development work prevents a complete assessment of his effectiveness as a public representative. Improved data disclosure and transparency would be essential for comprehensive public accountability evaluation.",
-  "validated_at": "2026-05-21T14:24:05.635128Z",
-  "assets": {
-    "total_assets": 159675943.0,
-    "liabilities": 16562000.0,
-    "net_worth": 143113943.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.87,
-    "released": 14.87,
-    "sanctioned": 11.37,
-    "expended": 8.39,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:20:44.069294Z",
-        "notes": "Official eSAKSHI REST API — Works: 183 recommended, 176 sanctioned, 116 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 183,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 56.42232683254876
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 159,675,943. MPLADS utilization: 56.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 16.",
+  "validated_at": "2026-08-23T16:44:14.226056Z"
 }

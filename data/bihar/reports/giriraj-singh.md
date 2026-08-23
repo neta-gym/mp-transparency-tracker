@@ -3,32 +3,34 @@
 **Constituency:** Begusarai, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 71
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 45.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 17.1 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.32 Crore
+- **Liabilities:** Rs 90.00 Lakh
+- **Net Worth:** Rs 13.42 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Giriraj Singh demonstrates a mixed transparency profile with notable strengths in criminal case disclosure (100%) but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). His moderate scores across MPLADS utilization, asset declaration, and parliamentary attendance suggest basic compliance but limited proactive transparency efforts.
+Giriraj Singh has a below-average transparency score of 45.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Giriraj Singh
-
-### Overall Assessment
-Giriraj Singh, BJP MP from Begusarai, Bihar, presents a challenging transparency profile due to significant data gaps across critical metrics. Currently serving as a Minister, which affects some performance expectations, the available information suggests limited transparency in financial disclosures and parliamentary engagement tracking. The analysis is severely hampered by missing data across asset declarations, MPLADS utilization, and parliamentary activity records.
-
-### Fund Utilization & Development
-No MPLADS data is available for entitled funds, releases, expenditure, or utilization rates, making it impossible to assess Singh's development fund management. This data gap is concerning given Bihar's historical MPLADS implementation challenges. CAG audits from 2010 identified systemic issues in the state, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled works were found abandoned or incomplete, highlighting the importance of robust monitoring that cannot be evaluated for this constituency due to missing data.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The only available financial information is the standard monthly compensation of Rs 2,45,000, which provides no insight into personal wealth or potential conflicts of interest.
-
-### Legal & Criminal Standing
-Singh maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential source reliability issues. While the available information indicates no legal complications, the data quality caveat requires careful interpretation.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely missing, with no recorded information on attendance rates, questions asked, debates participated in, or private bills introduced. Singh's ministerial status may explain lower attendance expectations due to executive responsibilities, but the complete absence of participation metrics prevents any meaningful assessment of legislative engagement. This data gap significantly limits transparency regarding his representative duties.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This neutral media presence suggests limited public visibility or controversial positions. However, the evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. The absence of committee participation data further limits assessment of his institutional engagement beyond ministerial duties.
-
-### Data Quality & Caveats
-The analysis faces substantial limitations due to multiple data quality issues:
-- **Criminal records**: Low confidence warning indicates potential source unavailability
-- **Assets**: Low confidence in asset declaration data
-- **MPLADS**: Low confidence in fund utilization data
-- **Parliamentary activity**: Low confidence in participation metrics
-- **Committee work**: No data found, possibly due to unavailable Sansad profile
-- **Overall evidence grades**: Parliament performance rated 'C', accessibility rated 'D'
-
-These widespread data gaps significantly compromise the reliability of this transparency assessment and suggest systemic issues with information availability or disclosure practices.
-
-### Key Takeaway
-Giriraj Singh's transparency profile is severely compromised by extensive missing data across virtually all key performance indicators, from asset declarations to parliamentary participation and MPLADS utilization. While he maintains a clean legal record and receives neutral media coverage, the absence of critical transparency metrics raises questions about accountability and public access to information. The 'D' grade for accessibility and multiple low-confidence data warnings suggest urgent need for improved disclosure practices and data management systems to enable meaningful public oversight of his representative performance.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 143,169,297. MPLADS utilization: 21.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Giriraj Singh's transparency profile is severely compromised by extensive missin
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Giriraj Singh's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

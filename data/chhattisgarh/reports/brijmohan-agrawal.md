@@ -3,23 +3,25 @@
 **Constituency:** Raipur, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 33.3 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 18.02 Crore
+- **Liabilities:** Rs 92.33 Lakh
+- **Net Worth:** Rs 17.10 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 41.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Brijmohan Agrawal shows a mixed transparency profile with moderate performance in parliamentary attendance (80%) and participation (80%), along with a clean criminal record. However, significant weaknesses exist in committee involvement (0%), legislative contributions (0%), and public accessibility (10%), resulting in an overall below-average transparency score of 51.5%.
+Brijmohan Agrawal shows moderate transparency with a score of 62.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Brijmohan Agrawal
-
-### Overall Assessment
-Brijmohan Agrawal, BJP MP from Raipur, Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (80%), critical information regarding assets and MPLADS utilization remains unavailable, hampering full evaluation of his developmental impact and financial transparency.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, preventing assessment of constituency development effectiveness. This data gap is particularly concerning given the CAG's identification of systemic issues in Chhattisgarh's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The state context shows 18% of sampled development works were abandoned or incomplete, raising questions about overall project execution standards that cannot be verified for Agrawal's constituency without specific MPLADS data.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, preventing any assessment of wealth accumulation or potential conflicts of interest. Without baseline or current asset data, growth ratios and net worth calculations are impossible. The MP's monthly compensation is recorded at Rs 2.45 lakh, but the absence of asset transparency significantly undermines overall financial accountability assessment.
-
-### Legal & Criminal Standing
-Agrawal maintains a clean legal record with zero criminal cases across all categories - no pending cases, convictions, or serious charges. However, this data carries a warning flag for low confidence, suggesting potential gaps in source availability or verification. While the recorded clean slate is positive, the data quality caveat requires noting.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance, indicating reasonable but not exceptional participation. Legislative activity includes 52 questions raised and participation in 5 debates, demonstrating moderate engagement with parliamentary processes. However, no private bills were introduced, and committee participation data is unavailable, limiting assessment of comprehensive legislative effectiveness. The evidence grade of 'C' for parliamentary data suggests moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 articles identified - 1 positive, 0 negative, and 9 neutral. This suggests minimal media engagement or possibly limited newsworthiness of activities. The accessibility evidence grade of 'D' indicates poor data availability for public engagement metrics. No committee participation data further limits assessment of institutional accessibility and public service delivery mechanisms.
-
-### Data Quality & Caveats
-Multiple significant data quality issues severely impact this assessment:
-- **Criminal records**: Low confidence warning due to potential source unavailability
-- **Assets**: Complete absence of financial disclosure data
-- **MPLADS**: No utilization data available despite constitutional entitlement
-- **Committees**: No participation data found, possibly due to unavailable Sansad profiles
-- **Legislative effectiveness**: Low confidence in available metrics
-
-These gaps represent substantial transparency deficits that prevent comprehensive evaluation across key accountability dimensions.
-
-### Key Takeaway
-While Brijmohan Agrawal maintains a clean criminal record and reasonable parliamentary attendance, critical transparency gaps in asset disclosure and MPLADS utilization severely limit accountability assessment. The absence of essential financial and developmental data, combined with minimal public engagement visibility, raises significant concerns about overall transparency standards. Given Chhattisgarh's documented fund management issues identified by CAG audits, the unavailability of specific MPLADS data for verification is particularly problematic for constituency-level accountability evaluation.
+No criminal cases declared. Declared assets: Rs 180,219,000. MPLADS utilization: 41.6%. Parliament attendance: 80.0%. Questions asked: 52. Debates participated: 5.
 
 ---
 
@@ -169,7 +138,7 @@ While Brijmohan Agrawal maintains a clean criminal record and reasonable parliam
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Brijmohan Agrawal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

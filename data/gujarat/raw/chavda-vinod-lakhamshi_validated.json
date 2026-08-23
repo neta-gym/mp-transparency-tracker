@@ -14,7 +14,7 @@
     "education": "Post Graduate",
     "profession": null,
     "age": 45,
-    "photo_url": null
+    "photo_url": "/mp-photos/4741.jpg"
   },
   "findings": {
     "mp": {
@@ -22,17 +22,17 @@
       "constituency": "Kachchh",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": null,
+      "myneta_candidate_id": 3769,
       "slug": "chavda-vinod-lakhamshi",
       "house": "lok_sabha",
       "sansad_member_id": 4741,
       "profile_url": null,
       "canonical_name": "Chavda Vinod Lakhamshi",
       "name_aliases": [],
-      "education": null,
+      "education": "Post Graduate",
       "profession": null,
-      "age": null,
-      "photo_url": null
+      "age": 45,
+      "photo_url": "/mp-photos/4741.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,66 +42,60 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
+      "confidence": 0.8,
       "sources": []
     },
     "assets": {
-      "movable_assets": null,
-      "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 70980147.0,
+      "liabilities": 15605895.0,
+      "net_worth": 55374252.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:46.259130Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 49.5,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 8.83,
+      "expended": 4.08,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.714393Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:24:11.523166Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:24:11.521433Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:22:00.303977Z",
+          "notes": "Official eSAKSHI REST API — Works: 238 recommended, 219 sanctioned, 46 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 238,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 27.755102040816325
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -129,12 +123,17 @@
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "myneta",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:25:12.714573Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -149,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777726Z",
+          "fetched_at": "2026-08-23T16:44:15.376792Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -165,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777743Z",
+          "fetched_at": "2026-08-23T16:44:15.376804Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -181,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777749Z",
+          "fetched_at": "2026-08-23T16:44:15.376811Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -197,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777755Z",
+          "fetched_at": "2026-08-23T16:44:15.376817Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -213,7 +212,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777761Z",
+          "fetched_at": "2026-08-23T16:44:15.376838Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -229,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777766Z",
+          "fetched_at": "2026-08-23T16:44:15.376845Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -245,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:25:12.777771Z",
+          "fetched_at": "2026-08-23T16:44:15.376850Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -400,26 +399,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.14,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -439,74 +420,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Chavda Vinod Lakhamshi\n\n### Overall Assessment\n\nChavda Vinod Lakhamshi, the Bharatiya Janata Party MP representing Kachchh constituency in Gujarat, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (80%), the absence of crucial financial data—including asset declarations and MPLADS utilization—severely constrains evaluation of his overall performance and accountability.\n\n### Fund Utilization & Development\n\nMPLADS data is entirely unavailable, with no information on entitled funds, releases, or expenditure patterns. This represents a critical transparency gap for assessing the MP's development work in Kachchh constituency. However, CAG audit findings reveal systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. These state-level concerns raise questions about broader fund management practices that may affect constituency development.\n\n### Financial Transparency\n\nAsset declaration data is completely missing, with no information available on total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure represents a significant transparency deficit. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset data, it's impossible to assess potential conflicts of interest or wealth accumulation patterns during tenure.\n\n### Legal & Criminal Standing\n\nThe MP maintains a clean legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, the analysis flags low confidence in criminal data availability, suggesting potential gaps in source information that could affect the completeness of this assessment.\n\n### Parliamentary Performance\n\nParliamentary engagement shows mixed results. The MP demonstrates reasonable attendance at 80%, indicating consistent participation in legislative proceedings. However, substantive contribution metrics reveal limited engagement: only 42 questions raised, 3 debate participations, and zero private bills introduced. This pattern suggests regular presence but potentially minimal active legislative contribution. No committee membership data is available due to unavailable Sansad profiles, further limiting assessment of parliamentary effectiveness.\n\n### Public Engagement & Accessibility\n\nMedia coverage analysis reveals neutral public engagement, with 10 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment patterns. This suggests limited public visibility or controversial positioning. The evidence grade for accessibility is marked as 'D', indicating poor performance in public engagement metrics. Social media presence appears limited based on available data sources.\n\n### Data Quality & Caveats\n\nMultiple automated warnings highlight significant data quality concerns:\n- Criminal record data has low confidence due to potential source unavailability\n- Asset information shows low confidence levels\n- MPLADS data reliability is questionable\n- Committee information is entirely missing due to unavailable Sansad profiles\n- Legislative effectiveness data has low confidence ratings\n\nThe overall evidence grades are concerning: 'C' for parliament performance and 'D' for accessibility, indicating substantial room for improvement in both areas.\n\n### Key Takeaway\n\nChavda Vinod Lakhamshi's transparency profile is severely limited by extensive data gaps, particularly in financial disclosures and development fund utilization. While maintaining a clean criminal record and adequate parliamentary attendance, the MP shows limited substantive legislative engagement and poor accessibility ratings. The absence of asset declarations and MPLADS data represents critical transparency deficits that prevent meaningful accountability assessment. Voters and stakeholders lack essential information needed to evaluate the MP's financial integrity and constituency development performance, highlighting the need for improved data disclosure and more active parliamentary participation.",
-  "validated_at": "2026-05-21T14:25:31.599323Z",
-  "assets": {
-    "total_assets": 70980147.0,
-    "liabilities": 15605895.0,
-    "net_worth": 55374252.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.83,
-    "expended": 4.08,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:22:00.303977Z",
-        "notes": "Official eSAKSHI REST API — Works: 238 recommended, 219 sanctioned, 46 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 238,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.755102040816325
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 70,980,147. MPLADS utilization: 27.8%. Parliament attendance: 80.0%. Questions asked: 42. Debates participated: 3.",
+  "validated_at": "2026-08-23T16:44:15.377772Z"
 }

@@ -3,23 +3,25 @@
 **Constituency:** Jhunjhunu, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 72
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 59.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 28.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 16.03 Crore
+- **Liabilities:** Rs 3.27 Crore
+- **Net Worth:** Rs 12.76 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 69% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 35.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Brijendra Singh Ola demonstrates mixed transparency performance with strong attendance and clean criminal record, but significant weaknesses in legislative activity and committee participation. The MP scores poorly in accessibility and has no recorded committee involvement, while MPLADS and asset disclosure show moderate performance.
+Brijendra Singh Ola shows moderate transparency with a score of 59.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Brijendra Singh Ola
-
-### Overall Assessment
-Brijendra Singh Ola, Indian National Congress MP representing Jhunjhunu constituency in Rajasthan, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining perfect attendance in Parliament, limited availability of asset and development fund data raises questions about overall transparency and public accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentages. This data gap is concerning given the CAG's 2010 audit findings highlighting systemic issues in Rajasthan's development fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also revealed that 18% of sampled development works were abandoned or incomplete, indicating broader accountability challenges in the state's development fund ecosystem.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of the MP's financial evolution during tenure. The MP's monthly compensation is recorded at Rs 245,000, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Ola maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings suggest low confidence in criminal record information, potentially due to source unavailability, which limits the reliability of this assessment.
-
-### Parliamentary Performance
-Ola demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical parliamentary standards. Legislative activity shows moderate participation with 12 questions raised and 4 debate contributions, indicating active parliamentary involvement. However, no private member bills were introduced, and no committee participation data is available due to potential Sansad profile unavailability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 news articles providing mixed to neutral coverage without positive or negative sentiment bias. This suggests limited media visibility and public discourse engagement. Social media presence data is included in sources but specific metrics are not provided. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement and transparency measures.
-
-### Data Quality & Caveats
-The assessment faces significant methodological limitations due to widespread data unavailability. Critical warnings include low confidence in criminal record data, completely missing asset information, and unavailable MPLADS utilization data. Parliamentary performance data receives a 'C' evidence grade, while accessibility scores 'D'. The absence of committee participation data due to potential Sansad profile unavailability further limits comprehensive assessment. These data gaps significantly constrain the ability to provide a complete transparency evaluation.
-
-### Key Takeaway
-While Brijendra Singh Ola demonstrates strong parliamentary attendance and maintains a clean legal record, substantial data gaps across asset declarations and development fund utilization severely limit transparency assessment. The perfect attendance record indicates parliamentary commitment, but missing financial and development data, combined with neutral media coverage and poor accessibility ratings, suggest significant room for improvement in overall public accountability and transparency practices.
+No criminal cases declared. Declared assets: Rs 160,284,000. MPLADS utilization: 35.6%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ While Brijendra Singh Ola demonstrates strong parliamentary attendance and maint
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Brijendra Singh Ola's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 35.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

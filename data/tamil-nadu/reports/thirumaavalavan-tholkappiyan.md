@@ -3,32 +3,32 @@
 **Constituency:** Chidambaram, Tamil Nadu
 **Party:** Viduthalai Chiruthaigal Katchi
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 43.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 27.4 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 7
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.45 Crore
+- **Liabilities:** Rs 83,969
+- **Net Worth:** Rs 2.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 5
+- **Utilization Rate:** 34.2%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Thirumaavalavan shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and moderate performance in basic duties like attendance and MPLADS utilization, there are concerning zero scores in committee participation and legislative activities, along with very poor accessibility to constituents.
+Thirumaavalavan Tholkappiyan has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Thirumaavalavan Tholkappiyan
-
-### Overall Assessment
-Thirumaavalavan Tholkappiyan, MP from Chidambaram constituency (Tamil Nadu) representing Viduthalai Chiruthaigal Katchi, presents a mixed transparency profile. While maintaining a clean criminal record, significant data gaps across financial disclosures and development fund utilization limit comprehensive assessment. Parliamentary engagement shows moderate activity with 65% attendance and selective participation in legislative processes.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of constituency development effectiveness. This data gap is concerning given CAG audit findings highlighting systematic issues in Tamil Nadu's fund management. The audit revealed Rs 1,558 crore in idle funds across district authorities and identified that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about local implementation capacity that directly affects constituency development.
-
-### Financial Transparency
-Asset disclosure information is completely missing from available records, creating a significant transparency gap. No data exists on total assets, previous declarations, growth ratios, or net worth. This absence prevents evaluation of financial probity and wealth accumulation patterns during tenure. The MP's monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, data confidence is rated as low, indicating potential gaps in criminal record verification systems. This clean slate, while positive, should be viewed with caution given the data quality warnings.
-
-### Parliamentary Performance
-Parliamentary engagement demonstrates moderate activity levels. Attendance rate of 65% falls below optimal participation standards, suggesting room for improvement in House proceedings involvement. Legislative contribution includes 39 questions raised and participation in 4 debates, indicating selective but meaningful engagement with parliamentary processes. Notably, no private member bills were introduced, suggesting focus on questioning and debate rather than legislative drafting.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public perception with 6 articles providing balanced coverage - no positive or negative sentiment detected. This neutral stance suggests either limited controversial involvement or measured public communication. However, accessibility data quality is rated as 'D', indicating insufficient information about constituent outreach, public meetings, or digital engagement platforms.
-
-### Data Quality & Caveats
-The transparency assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, asset declarations, and MPLADS utilization data. Committee membership information is entirely absent, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. Evidence grades reflect these limitations with Parliament activity rated 'C' and accessibility rated 'D'. Data sources include PRS Legislative Research, social media, and news coverage, but coverage appears incomplete.
-
-### Key Takeaway
-Thirumaavalavan Tholkappiyan's transparency profile is severely hampered by systemic data gaps rather than apparent misconduct. While maintaining clean criminal records and moderate parliamentary participation, the absence of financial disclosures and development fund utilization data prevents meaningful accountability assessment. The neutral media coverage and selective parliamentary engagement suggest a low-profile approach, but voters lack essential information about asset growth and constituency development effectiveness to make informed judgments about representation quality.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 24,455,903. MPLADS utilization: 34.2%. Parliament attendance: 65.0%. Questions asked: 39. Debates participated: 4.
 
 ---
 
@@ -162,7 +136,7 @@ Thirumaavalavan Tholkappiyan's transparency profile is severely hampered by syst
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Thirumaavalavan Tholkappiyan's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 34.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Karakat, Bihar
 **Party:** Communist Party of India (Marxist-Leninist) Liberation
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Literate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 56.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 31.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 26.18 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 26.18 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 3% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Raja Ram Singh demonstrates a mixed transparency profile with moderate scores in MPLADS utilization and asset disclosure, but significant weaknesses in committee participation and legislative activity. While he maintains a clean criminal record and reasonable attendance, his extremely low accessibility score and complete absence of committee engagement raise concerns about public accountability and parliamentary effectiveness.
+Raja Ram Singh shows moderate transparency with a score of 56.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Raja Ram Singh
-
-### Overall Assessment
-Raja Ram Singh, representing Karakat constituency in Bihar under the Communist Party of India (Marxist-Leninist) Liberation, presents a mixed transparency profile with significant data limitations. While maintaining a clean legal record and demonstrating moderate parliamentary engagement, substantial gaps in financial and developmental data severely limit comprehensive assessment of his effectiveness as an MP.
-
-### Fund Utilization & Development
-Critical MPLADS data is unavailable, preventing assessment of Raja Ram Singh's developmental fund utilization. Given Bihar's systemic issues highlighted in CAG audits, this data gap is particularly concerning. The 2010 CAG audit (Report 31) revealed severe deficiencies in fund management across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete. Without specific MPLADS data for Singh's constituency, constituents cannot evaluate his development delivery performance.
-
-### Financial Transparency
-Asset declaration data is completely unavailable for Raja Ram Singh, representing a significant transparency deficit. With no information on total assets, previous holdings, or growth patterns, stakeholders cannot assess potential conflicts of interest or wealth accumulation during his tenure. His monthly compensation stands at Rs 2,45,000, but the absence of asset disclosure data raises concerns about financial accountability standards expected from public representatives.
-
-### Legal & Criminal Standing
-Raja Ram Singh maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal profile distinguishes him positively in the current political landscape where criminal charges among MPs remain a significant concern. However, the data source reliability for criminal records is flagged as low confidence, requiring cautious interpretation of this assessment.
-
-### Parliamentary Performance
-Singh demonstrates moderate parliamentary engagement with 60% attendance, falling below optimal participation levels but remaining within acceptable ranges. His legislative activity shows 31 questions raised and participation in 5 debates, indicating active constituency representation and policy engagement. However, he has not introduced any private member bills, suggesting limited legislative initiative. The evidence grade for parliamentary performance is rated 'C', indicating moderate confidence in available data quality.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely limited due to data constraints. News sentiment analysis reveals 10 articles with neutral coverage, providing minimal insight into public perception or media engagement. No social media presence data is available, and committee participation information is absent, preventing comprehensive evaluation of his accessibility to constituents. The accessibility evidence grade is rated 'D', reflecting poor data availability in this crucial area.
-
-### Data Quality & Caveats
-This analysis faces substantial limitations due to multiple data quality issues. Asset and MPLADS information are completely unavailable, while criminal record data carries low confidence warnings. Committee participation and legislative effectiveness data are either missing or carry low confidence ratings. Evidence grades range from 'C' for parliamentary performance to 'D' for accessibility, indicating significant gaps in transparency documentation. These limitations severely constrain comprehensive assessment of Singh's overall effectiveness and accountability.
-
-### Key Takeaway
-Raja Ram Singh's transparency profile reveals a concerning pattern of data unavailability that limits meaningful assessment of his performance as an MP. While his clean criminal record and moderate parliamentary participation are positive indicators, the complete absence of financial and developmental fund data raises serious transparency concerns. The lack of comprehensive information particularly impacts evaluation of his development delivery in Bihar, a state already facing documented fund management challenges. Improved data disclosure and systematic transparency measures are essential for enabling meaningful public accountability assessment of his legislative and developmental contributions to Karakat constituency.
+No criminal cases declared. Declared assets: Rs 2,617,500. MPLADS utilization: 39.8%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.
 
 ---
 
@@ -162,7 +138,7 @@ Raja Ram Singh's transparency profile reveals a concerning pattern of data unava
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raja Ram Singh's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

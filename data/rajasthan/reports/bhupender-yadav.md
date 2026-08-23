@@ -3,23 +3,25 @@
 **Constituency:** Alwar, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 52.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 26.2 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.32 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.32 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,41 +95,11 @@
 
 ## Qualitative Assessment
 
-Bhupender Yadav shows a mixed transparency profile with moderate performance in basic disclosure areas like MPLADS utilization and asset declarations, and exemplary criminal record transparency. However, significant concerns exist in legislative engagement, committee participation, and constituent accessibility, which substantially impact overall accountability.
+Bhupender Yadav shows moderate transparency with a score of 52.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Bhupender Yadav
-
-### Overall Assessment
-Bhupender Yadav, BJP MP representing Alwar, Rajasthan in the Lok Sabha, presents a profile with significant data transparency gaps. While maintaining a clean criminal record, comprehensive assessment is limited by unavailable information across key performance indicators including assets, MPLADS utilization, and parliamentary activity metrics. His ministerial role may explain reduced parliamentary attendance expectations.
-
-### Fund Utilization & Development
-MPLADS data for Bhupender Yadav is unavailable, preventing assessment of his constituency development fund utilization. However, CAG audits reveal systemic issues in Rajasthan's fund management: Rs 1,558 crore remains idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. These findings highlight potential structural challenges affecting development fund effectiveness in his constituency.
-
-### Financial Transparency
-Asset declarations are completely unavailable, showing no data on total assets, previous holdings, growth ratios, or net worth. This represents a critical transparency gap that prevents public assessment of his financial standing and potential conflicts of interest. Monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration.
-
-### Legal & Criminal Standing
-Bhupender Yadav maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary activity data is largely unavailable, showing 0% attendance, zero questions raised, zero debates participated, and zero private bills introduced. As a Minister, reduced attendance may be expected due to executive responsibilities, but the complete absence of activity metrics raises data quality concerns rather than necessarily indicating poor performance.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse around his work. The evidence grade for accessibility is rated 'D', indicating poor transparency and public engagement metrics. No social media or committee data is available, limiting assessment of his public outreach efforts.
-
-### Data Quality & Caveats
-Multiple automated flags indicate severe data quality issues:
-- **Criminal records**: Low confidence due to potentially unavailable sources
-- **Assets**: Low confidence in financial transparency data
-- **MPLADS**: Low confidence in development fund data
-- **Parliamentary activity**: Low confidence across all metrics
-- **Committees**: No committee data found, suggesting unavailable Sansad profile
-- Overall evidence grades show 'C' for parliament data and 'D' for accessibility
-
-### Key Takeaway
-While Bhupender Yadav maintains a clean legal record, his transparency profile suffers from extensive data unavailability across critical performance indicators. The systemic data gaps prevent meaningful assessment of his effectiveness as an MP, highlighting broader transparency challenges in Indian parliamentary data systems. His ministerial status may explain some performance variations, but the complete absence of verifiable metrics across multiple domains suggests either poor data collection or inadequate public disclosure practices.
+No criminal cases declared. Declared assets: Rs 23,236,037. MPLADS utilization: 32.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ While Bhupender Yadav maintains a clean legal record, his transparency profile s
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhupender Yadav's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

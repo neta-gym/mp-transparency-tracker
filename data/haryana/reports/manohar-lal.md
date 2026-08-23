@@ -3,23 +3,25 @@
 **Constituency:** Karnal, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 70
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 47.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 2.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.54 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 23% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.4%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,40 +96,11 @@
 
 ## Qualitative Assessment
 
-Manohar Lal demonstrates mixed transparency performance with notable strengths in maintaining a clean criminal record but significant weaknesses in legislative engagement and public accessibility. His moderate scores in MPLADS utilization and asset disclosure are offset by poor committee participation and minimal legislative activity, suggesting limited active engagement in parliamentary duties.
+Manohar Lal has a below-average transparency score of 47.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Manohar Lal
-
-### Overall Assessment
-Manohar Lal, BJP MP from Karnal (Haryana) and sitting Lok Sabha member, presents a transparency profile with significant data gaps across most performance metrics. While his criminal record appears clean with zero cases, the lack of substantive data on assets, MPLADS utilization, and parliamentary activity raises concerns about information accessibility. His ministerial status may explain lower parliamentary attendance expectations, but comprehensive performance evaluation remains challenging due to data limitations.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. However, relevant CAG audit findings for Haryana highlight systemic issues: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings suggest potential implementation challenges that may affect local development programs, though specific impact on Karnal constituency cannot be determined without MP-specific data.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous declarations, growth patterns, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation or potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration. Without baseline asset information, monitoring financial propriety becomes impossible.
-
-### Legal & Criminal Standing
-Manohar Lal maintains a clean legal record with zero total cases, including no serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. While the reported clean slate is positive, the reliability caveat suggests this assessment should be treated with caution.
-
-### Parliamentary Performance
-Parliamentary activity data shows concerning gaps, with 0 recorded questions, debates, and private bills. Attendance percentage is unavailable. As a sitting minister, lower attendance expectations may apply due to executive duties, but the complete absence of legislative participation metrics raises questions about parliamentary engagement. The 'C' grade for parliament data quality indicates moderate confidence in available information, but the comprehensive lack of activity data suggests either poor record-keeping or minimal parliamentary participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), indicating limited but balanced public attention. The accessibility grade of 'D' suggests poor public information availability and potentially limited citizen engagement mechanisms. No committee participation data is available, indicating either absence from parliamentary committees or unavailable profile information on the Sansad website.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability issues:
-- Low confidence warnings across criminal records, assets, MPLADS, and parliamentary activity
-- Missing committee information due to potentially unavailable Sansad profiles
-- Evidence grades of 'C' for parliament data and 'D' for accessibility indicate substantial information gaps
-
-These limitations severely constrain comprehensive transparency assessment and suggest systemic issues with data collection or disclosure practices.
-
-### Key Takeaway
-Manohar Lal's transparency profile is characterized by a clean criminal record but substantial information voids across financial, developmental, and parliamentary performance metrics. While his ministerial status may explain some activity patterns, the pervasive data unavailability raises serious transparency concerns. The neutral media coverage and poor accessibility ratings suggest limited public engagement visibility. Without comprehensive asset disclosure, MPLADS utilization data, and detailed parliamentary participation records, stakeholders cannot adequately assess his performance as a public representative. Improved data disclosure and systematic information management are essential for meaningful transparency evaluation.
+No criminal cases declared. Declared assets: Rs 25,442,914. MPLADS utilization: 2.4%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -168,7 +140,7 @@ Manohar Lal's transparency profile is characterized by a clean criminal record b
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manohar Lal's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -264,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

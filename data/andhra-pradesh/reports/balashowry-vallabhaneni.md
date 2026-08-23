@@ -3,32 +3,34 @@
 **Constituency:** Machilipatnam, Andhra Pradesh
 **Party:** Janasena Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 44.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 4.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 133.72 Crore
+- **Liabilities:** Rs 86.81 Crore
+- **Net Worth:** Rs 46.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Balashowry Vallabhaneni shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record and moderate performance in MPLADS utilization and parliamentary participation, the MP demonstrates poor accessibility to constituents, zero committee participation, and lacks legislative contributions. The low data confidence (14%) and multiple validation flags suggest incomplete information disclosure.
+Balashowry Vallabhaneni has a below-average transparency score of 44.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Balashowry Vallabhaneni
-
-### Overall Assessment
-Balashowry Vallabhaneni, representing Machilipatnam constituency in Andhra Pradesh under the Janasena Party, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating reasonable parliamentary engagement through questions and debates, the MP's profile suffers from substantial missing information across critical areas including assets, MPLADS utilization, and committee participation.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Machilipatnam. The broader CAG audit context for Andhra Pradesh reveals systemic concerns, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about project implementation effectiveness in the region.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, with no data available on current holdings, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data makes it impossible to assess potential conflicts of interest or wealth accumulation patterns. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset context, the full financial picture remains opaque.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a low confidence warning due to potentially unavailable sources, suggesting the need for verification through alternative channels.
-
-### Parliamentary Performance
-Vallabhaneni demonstrates moderate parliamentary engagement with a 40% attendance rate, which falls below optimal levels for constituent representation. The MP has asked 43 questions and participated in 9 debates, indicating active involvement in parliamentary proceedings. However, no private member bills have been introduced, and committee participation data is unavailable, limiting the assessment of legislative contributions and specialized policy work.
-
-### Public Engagement & Accessibility
-Media coverage shows neutral sentiment across 10 articles with no positive or negative coverage, suggesting either low public visibility or balanced reporting. The absence of strong media narratives could indicate limited public engagement or controversy avoidance. Evidence grades rate accessibility as 'D', pointing to poor public outreach and communication channels.
-
-### Data Quality & Caveats
-This analysis faces significant limitations due to multiple data quality issues:
-- Criminal record data has low confidence warnings
-- Asset information is completely unavailable
-- MPLADS data is entirely missing
-- No committee assignment information found
-- Parliamentary effectiveness data has low confidence ratings
-- Sansad profile appears unavailable
-
-The evidence grading system rates parliament-related data as 'C' and accessibility as 'D', indicating substantial room for improvement in transparency metrics.
-
-### Key Takeaway
-While Balashowry Vallabhaneni maintains a clean criminal record and shows moderate parliamentary participation, the MP's transparency profile is severely compromised by extensive missing data across financial disclosures, development fund utilization, and public engagement metrics. The 40% attendance rate and complete absence of asset information raise concerns about accountability and transparency standards. Given the systemic fund utilization issues identified in Andhra Pradesh's CAG audits, the lack of MPLADS data is particularly concerning for voters seeking to evaluate development work in Machilipatnam constituency.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 1,337,214,564. MPLADS utilization: 5.3%. Parliament attendance: 40.0%. Questions asked: 43. Debates participated: 9. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ While Balashowry Vallabhaneni maintains a clean criminal record and shows modera
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Balashowry Vallabhaneni's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

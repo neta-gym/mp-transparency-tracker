@@ -3,32 +3,34 @@
 **Constituency:** Nagaur, Rajasthan
 **Party:** Rashtriya Loktantrik Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 52
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 61.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 31.3 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 81.11 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 81.11 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 39.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,63 +94,11 @@
 
 ## Qualitative Assessment
 
-Hanuman Beniwal demonstrates a mixed transparency profile with excellent attendance and participation records, alongside a clean criminal background. However, his transparency is significantly undermined by poor performance in committee work, legislative activities, and public accessibility, resulting in a below-average overall score.
+Hanuman Beniwal shows moderate transparency with a score of 61.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Hanuman Beniwal
-
-### Overall Assessment
-
-Hanuman Beniwal (Rashtriya Loktantrik Party, Nagaur) presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While demonstrating perfect parliamentary attendance, critical information regarding assets, MPLADS utilization, and committee participation remains unavailable. The analysis is constrained by low data confidence across multiple domains (grades: Parliament 'C', Accessibility 'D').
-
-### Fund Utilization & Development
-
-**MPLADS performance data is entirely unavailable**, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for constituency development assessment.
-
-The broader context reveals systemic concerns in Rajasthan's fund management. CAG audits identified **Rs 1,558 crore in idle funds** sitting unspent in district accounts statewide. Additionally, **34% of utilization certificates lacked proper documentation**, and **18% of sampled development works were abandoned or incomplete**. Without Beniwal's specific MPLADS data, his performance cannot be evaluated against these concerning state-level patterns.
-
-### Financial Transparency
-
-**Asset disclosure information is completely missing**, with no data on total assets, previous holdings, growth ratios, or net worth. This prevents any assessment of financial transparency or potential conflicts of interest.
-
-Monthly compensation is documented at **Rs 245,000**, representing the standard parliamentary remuneration. However, without asset declarations, the complete financial picture remains opaque.
-
-### Legal & Criminal Standing
-
-**Clean criminal record** with zero total cases, serious charges, pending matters, disposed cases, and convictions. However, data confidence is flagged as low, suggesting potential gaps in criminal background verification systems.
-
-### Parliamentary Performance
-
-**Strong attendance record** with **100% parliamentary participation**, demonstrating consistent engagement with legislative duties.
-
-**Moderate question activity** with **47 questions raised**, indicating reasonable parliamentary inquiry participation. However, **debate participation appears limited at 19 instances**, suggesting potential for increased floor engagement.
-
-**No private member bills introduced**, indicating minimal legislative initiative beyond party-directed activities.
-
-**Committee participation data is unavailable**, preventing assessment of specialized parliamentary work and detailed policy engagement.
-
-### Public Engagement & Accessibility
-
-**Limited media presence** with only **10 news articles** identified during the analysis period. Coverage breakdown shows **neutral dominance (7 articles)**, **3 negative pieces**, and **zero positive coverage**, suggesting either limited media engagement or negative public perception trends.
-
-**Social media and accessibility metrics are insufficient** for comprehensive public engagement assessment, contributing to the 'D' grade in accessibility.
-
-### Data Quality & Caveats
-
-**Significant data limitations** compromise this analysis:
-
-- **Asset information**: Completely unavailable, preventing financial transparency assessment
-- **MPLADS data**: Missing entirely, eliminating development performance evaluation
-- **Criminal record confidence**: Low, despite showing clean record
-- **Committee work**: No data available from Sansad profile
-- **Legislative effectiveness**: Low confidence ratings
-
-**Evidence quality varies** with parliamentary data (Grade 'C') and accessibility metrics (Grade 'D') indicating substantial information gaps. Sources include PRS, social media, and news outlets, but coverage appears limited.
-
-### Key Takeaway
-
-Hanuman Beniwal demonstrates **perfect parliamentary attendance** and maintains a **clean criminal record**, suggesting basic democratic accountability. However, **critical transparency gaps in asset disclosure and MPLADS utilization** severely limit comprehensive performance assessment. The **absence of development fund data** is particularly concerning given systemic fund management issues identified in Rajasthan. **Enhanced disclosure compliance and public engagement** are essential for improved democratic accountability and constituent service evaluation.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 8,110,760. MPLADS utilization: 39.1%. Parliament attendance: 100.0%. Questions asked: 47. Debates participated: 19.
 
 ---
 
@@ -190,7 +138,7 @@ Hanuman Beniwal demonstrates **perfect parliamentary attendance** and maintains 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -269,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Hanuman Beniwal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -286,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Mandi, Himachal Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 37
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 42.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 19.6 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 91.66 Crore
+- **Liabilities:** Rs 17.39 Crore
+- **Net Worth:** Rs 74.27 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 24.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Himachal Pradesh: 7 relevant findings
@@ -94,61 +94,11 @@
 
 ## Qualitative Assessment
 
-Kangna Ranaut's transparency profile shows significant areas for improvement with a below-average score of 50.5/100. While she maintains perfect criminal record transparency and strong attendance (90%), she scores zero in critical areas like committee participation and legislative activity, suggesting limited engagement in parliamentary duties. Her accessibility to constituents is particularly poor at 10%, indicating challenges in public communication and outreach.
+Kangna Ranaut has a below-average transparency score of 42.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kangna Ranaut
-
-### Overall Assessment
-
-Kangna Ranaut, BJP MP from Mandi (Himachal Pradesh), presents a mixed transparency profile with notable data gaps affecting comprehensive assessment. While maintaining strong parliamentary attendance (90%) and clean criminal record, significant information voids in asset declarations and MPLADS utilization limit full evaluation of her performance as a public representative.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable, preventing assessment of development fund utilization. This represents a critical transparency gap given that each MP is entitled to ₹5 crore annually for constituency development. The absence of data on entitled amounts, releases, expenditure, and utilization rates makes it impossible to evaluate her effectiveness in delivering development projects to Mandi constituency.
-
-CAG audit findings for Himachal Pradesh reveal systemic concerns: ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level issues provide important context for evaluating local development work, though specific data for Ranaut's constituency remains unavailable.
-
-### Financial Transparency
-
-Asset information is completely missing, preventing analysis of wealth accumulation, growth patterns, or potential conflicts of interest. The absence of both current and previous asset declarations represents a significant transparency deficit. Her monthly compensation totals ₹2.45 lakh, but without asset disclosure, comprehensive financial accountability cannot be assessed.
-
-### Legal & Criminal Standing
-
-Ranaut maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues that warrant cautious interpretation of this apparently clean record.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with strong attendance but limited legislative participation. Key metrics include:
-- **Attendance**: 90% - well above average parliamentary attendance rates
-- **Questions raised**: 20 - moderate level of scrutiny and constituency representation
-- **Debate participation**: 6 instances - limited engagement in parliamentary discussions
-- **Private bills**: 0 - no legislative initiatives introduced
-
-This profile suggests consistent presence but relatively passive participation in parliamentary proceedings.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement with 10 articles tracked (1 positive, 0 negative, 9 neutral). This neutral-to-mixed coverage suggests limited public visibility or controversial positioning. The evidence grade of 'D' for accessibility indicates poor transparency in public communication and constituent engagement mechanisms.
-
-Social media presence appears limited based on available sources, though comprehensive social media engagement metrics are not provided.
-
-### Data Quality & Caveats
-
-Several critical data quality issues significantly impact this assessment:
-
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Asset declarations**: Completely missing with low confidence ratings
-- **MPLADS data**: Entirely unavailable despite being mandatory public information
-- **Committee membership**: No data found, suggesting Sansad profile unavailability
-- **Legislative effectiveness**: Low confidence in available data
-
-Evidence grades of 'C' for parliament and 'D' for accessibility reflect substantial information gaps. The automated flagging system identifies multiple data reliability concerns that limit assessment accuracy.
-
-### Key Takeaway
-
-Kangna Ranaut's transparency profile is severely hampered by critical data voids in asset declarations and MPLADS utilization, despite maintaining good parliamentary attendance and a clean criminal record. The absence of mandatory financial disclosures and development fund information represents significant transparency failures that prevent comprehensive public accountability assessment. While her 90% attendance demonstrates commitment to parliamentary duties, limited legislative participation and poor accessibility scores suggest room for improvement in constituent engagement and policy contribution.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 916,631,239. MPLADS utilization: 24.5%. Parliament attendance: 90.0%. Questions asked: 20. Debates participated: 6.
 
 ---
 
@@ -188,7 +138,7 @@ Kangna Ranaut's transparency profile is severely hampered by critical data voids
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -267,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kangna Ranaut's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -284,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

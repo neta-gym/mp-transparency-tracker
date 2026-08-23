@@ -3,23 +3,25 @@
 **Constituency:** Bhind, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 13.7 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.68 Crore
+- **Liabilities:** Rs 1.14 Crore
+- **Net Worth:** Rs 8.54 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,49 +94,11 @@
 
 ## Qualitative Assessment
 
-Sandhya Ray demonstrates a mixed transparency profile with concerning gaps in several areas. While maintaining perfect criminal record disclosure and good parliamentary attendance, she shows significant deficiencies in committee participation, legislative activity, and public accessibility. The low data confidence of 14% with multiple validation flags suggests potential data quality issues that may affect the reliability of this assessment.
+Sandhya Ray shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Sandhya Ray
-
-### Overall Assessment
-
-Sandhya Ray, BJP MP from Bhind constituency in Madhya Pradesh, presents a transparency profile with significant data gaps that limit comprehensive assessment. While her parliamentary attendance of 85% demonstrates consistent engagement, the absence of crucial financial and development data raises concerns about accountability. Her clean criminal record provides a positive foundation, but the lack of asset disclosure and MPLADS utilization information hampers full transparency evaluation.
-
-### Fund Utilization & Development
-
-Critical gaps exist in MPLADS (Member of Parliament Local Area Development Scheme) data, with no information available on entitled funds, releases, expenditure, or utilization rates. This absence is particularly concerning given the CAG audit findings highlighting systemic issues in fund management across states. The audit revealed Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without MPLADS data for Ray's constituency, it's impossible to assess her development impact or fund stewardship.
-
-### Financial Transparency
-
-Asset disclosure presents a complete data void, with no information on current or previous asset values, making it impossible to track wealth accumulation or assess potential conflicts of interest. The monthly compensation of Rs 2,45,000 is documented, but without asset baselines, growth patterns cannot be evaluated. This transparency gap is significant given the importance of financial accountability in public office.
-
-### Legal & Criminal Standing
-
-Ray maintains a clean criminal record with zero cases across all categories - no pending cases, disposals, or convictions. This represents a positive aspect of her profile, though the warning flag indicates low confidence in the criminal data source, suggesting potential data collection limitations rather than confirmed clean status.
-
-### Parliamentary Performance
-
-Ray demonstrates solid parliamentary engagement with 85% attendance, positioning her well above average parliamentary participation rates. Her legislative activity includes 22 questions raised and participation in 4 debates, indicating active involvement in parliamentary proceedings. However, she has not introduced any private member bills, suggesting limited initiative in legislative drafting. The absence of committee membership data further limits assessment of her institutional contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles, all categorized as neutral, indicating limited public visibility or controversial positioning. The absence of positive or negative coverage suggests either minimal media engagement or a deliberately low-profile approach. The 'D' grade for accessibility indicates poor public communication channels or limited constituent interaction platforms.
-
-### Data Quality & Caveats
-
-Multiple significant data quality issues affect this assessment:
-- Low confidence warnings for criminal record, assets, and MPLADS data
-- Missing committee information due to potential Sansad profile unavailability  
-- Parliamentary performance data rated 'C' grade, indicating moderate reliability
-- Accessibility data rated 'D', suggesting poor source quality
-
-These limitations mean the profile may not reflect actual performance but rather data collection challenges. Eight CAG audit findings relevant to Madhya Pradesh provide context but cannot substitute for MP-specific data.
-
-### Key Takeaway
-
-Sandhya Ray's transparency profile is severely hampered by data gaps rather than poor performance indicators. While her clean criminal record and decent parliamentary attendance provide positive signals, the absence of asset disclosure and MPLADS utilization data represents critical transparency failures. The neutral media coverage and poor accessibility ratings suggest limited public engagement. Without comprehensive financial and development data, stakeholders cannot adequately assess her effectiveness or accountability, highlighting the need for improved transparency mechanisms and data collection systems for meaningful democratic oversight.
+No criminal cases declared. Declared assets: Rs 96,772,861. MPLADS utilization: 17.1%. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 4.
 
 ---
 
@@ -176,7 +138,7 @@ Sandhya Ray's transparency profile is severely hampered by data gaps rather than
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -255,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sandhya Ray's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -272,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

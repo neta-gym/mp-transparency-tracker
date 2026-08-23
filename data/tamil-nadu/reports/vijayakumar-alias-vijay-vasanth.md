@@ -3,32 +3,34 @@
 **Constituency:** Kanniyakumari, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 40
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 44.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 21.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 64.27 Crore
+- **Liabilities:** Rs 3.06 Crore
+- **Net Worth:** Rs 61.21 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 27.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Vijayakumar shows a mixed transparency profile with moderate performance in core parliamentary duties like attendance (80%) and participation (80%), and maintains a clean criminal record. However, significant gaps exist in committee engagement, legislative contributions, and public accessibility, while MPLADS and asset disclosure practices need improvement.
+Vijayakumar Alias Vijay Vasanth has a below-average transparency score of 44.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Vijayakumar Alias Vijay Vasanth
-
-### Overall Assessment
-Vijayakumar Alias Vijay Vasanth, representing Kanniyakumari constituency in Tamil Nadu for the Indian National Congress, presents a limited transparency profile due to significant data gaps across key performance indicators. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, the absence of critical financial and development data severely constrains comprehensive evaluation of his effectiveness as an elected representative.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic issues in Tamil Nadu's fund utilization, including Rs 1,558 crore lying idle in district accounts, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for this MP, it's impossible to assess whether these state-level issues affect his constituency development efforts.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency deficit as asset declarations are mandatory for all MPs under election rules. The monthly compensation is listed at Rs 2,45,000, consistent with standard MP remuneration. The lack of asset data prevents assessment of potential conflicts of interest or unusual wealth accumulation during tenure.
-
-### Legal & Criminal Standing
-Vijayakumar maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data carries a warning flag indicating low confidence in the source, suggesting potential data availability issues rather than confirmed clean status. Despite this caveat, the absence of any reported criminal matters is noteworthy in the current political landscape.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 80% attendance rate, indicating reasonable commitment to legislative duties though falling short of full participation. The MP has raised 55 questions in Parliament, demonstrating active engagement in the questioning process, and participated in 10 debates, showing involvement in legislative discussions. However, no private member bills have been introduced, suggesting limited initiative in proposing new legislation. The overall evidence grade for parliamentary performance is rated 'C', indicating moderate effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 news articles identified. The sentiment distribution shows predominantly neutral coverage (9 articles) with one negative article and no positive coverage, suggesting minimal media engagement or public relations activity. The accessibility evidence grade is rated 'D', indicating poor public engagement and limited transparency in constituency communication. No committee membership data is available, preventing assessment of specialized parliamentary work.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment:
-- Criminal record data flagged as low confidence due to potential source unavailability
-- Asset information completely missing despite being mandatory disclosure
-- MPLADS data entirely absent, preventing development impact assessment
-- Committee membership information unavailable
-- Legislative effectiveness data carries low confidence warnings
-
-These gaps substantially limit the reliability of this transparency assessment and suggest either incomplete data collection or restricted information access.
-
-### Key Takeaway
-Vijayakumar Alias Vijay Vasanth's transparency profile is severely compromised by extensive data gaps, particularly in financial disclosure and development fund utilization. While maintaining clean criminal records and reasonable parliamentary attendance, the absence of asset declarations and MPLADS information prevents meaningful assessment of his effectiveness as a public representative. The systemic fund utilization issues identified in Tamil Nadu's CAG audits underscore the importance of transparent MPLADS reporting, making the data absence particularly concerning. Immediate priority should be placed on ensuring complete financial disclosures and development fund transparency to enable proper public accountability.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 642,730,752. MPLADS utilization: 27.3%. Parliament attendance: 80.0%. Questions asked: 55. Debates participated: 10.
 
 ---
 
@@ -169,7 +138,7 @@ Vijayakumar Alias Vijay Vasanth's transparency profile is severely compromised b
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vijayakumar Alias Vijay Vasanth's MPLADS account: Released: Rs 17, Expended: Rs 5, Utilization: 27.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

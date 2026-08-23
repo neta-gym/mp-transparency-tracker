@@ -3,23 +3,23 @@
 **Constituency:** Uttara Kannada, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 15.6 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 16.74 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 16.74 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 3
+- **Utilization Rate:** 19.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-Vishweshwar Hegde Kageri shows a mixed transparency profile with perfect scores in criminal record disclosure and parliamentary attendance, but significant deficiencies in committee participation, legislative transparency, and public accessibility. The moderate MPLADS and assets disclosure scores suggest room for improvement in financial transparency, while the very low data confidence level raises concerns about information availability.
+Vishweshwar Hegde Kageri shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Vishweshwar Hegde Kageri
-
-### Overall Assessment
-Vishweshwar Hegde Kageri, BJP MP from Uttara Kannada, Karnataka, presents a mixed transparency profile with significant data gaps. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and development data severely limits assessment of his effectiveness as a public representative. The available evidence suggests minimal parliamentary engagement beyond attendance, with concerning gaps in transparency reporting.
-
-### Fund Utilization & Development
-**No MPLADS data available** - entitled amount, released funds, and expenditure information are not reported, making it impossible to assess development fund utilization. This represents a critical transparency gap for constituency development evaluation. CAG audit findings reveal systemic issues in Karnataka's fund management, including Rs 1,558 crore lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. An additional concern is that 18% of sampled works were found abandoned or incomplete, highlighting potential oversight challenges in the constituency.
-
-### Financial Transparency
-**Asset disclosure data unavailable** - both current and previous asset declarations are not reported, preventing assessment of wealth accumulation or potential conflicts of interest. The MP's monthly compensation stands at Rs 2,45,000. Without baseline asset information, it's impossible to track financial growth or evaluate transparency in wealth reporting, representing a significant accountability gap.
-
-### Legal & Criminal Standing
-**Clean criminal record** with zero cases across all categories (total, serious, pending, disposed, and convictions). However, data confidence is flagged as low, indicating potential source reliability issues. While the reported clean record is positive, the warning about data quality suggests this assessment should be treated with caution.
-
-### Parliamentary Performance
-**Mixed engagement levels** - demonstrates perfect attendance (100%) but limited substantive participation. Filed 26 questions and participated in 5 debates, indicating moderate legislative engagement. However, introduced zero private member's bills, suggesting minimal legislative initiative. The evidence grade for parliamentary performance is rated 'C', indicating moderate quality data with some limitations in assessment scope.
-
-### Public Engagement & Accessibility
-**Limited digital presence and accessibility** - evidence grade rated 'D' for accessibility, indicating poor transparency in public engagement channels. News sentiment analysis shows 10 articles with neutral coverage, suggesting minimal media attention or public discourse engagement. No committee data is available due to potentially unavailable Sansad profile, further limiting assessment of specialized parliamentary contributions.
-
-### Data Quality & Caveats
-**Significant data reliability concerns** across multiple domains:
-- Criminal record confidence flagged as low due to potential source unavailability
-- Asset data completely missing with low confidence warnings
-- MPLADS utilization data entirely absent
-- Committee participation data unavailable
-- Legislative effectiveness data quality rated as low confidence
-- Evidence grades indicate moderate to poor data quality (Parliament: C, Accessibility: D)
-
-These gaps severely limit comprehensive transparency assessment and raise questions about information disclosure practices.
-
-### Key Takeaway
-Vishweshwar Hegde Kageri's transparency profile is characterized by excellent parliamentary attendance but concerning information gaps across critical accountability measures. The absence of asset declarations, MPLADS utilization data, and limited parliamentary engagement beyond attendance suggests minimal transparency in key areas of public interest. While maintaining a clean legal record and regular attendance, the MP's profile lacks the comprehensive disclosure expected for effective public accountability, particularly given Karnataka's documented challenges with fund management and project completion rates identified in CAG audits.
+No criminal cases declared. Declared assets: Rs 167,409,004. MPLADS utilization: 19.5%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 5.
 
 ---
 
@@ -170,7 +136,7 @@ Vishweshwar Hegde Kageri's transparency profile is characterized by excellent pa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vishweshwar Hegde Kageri's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 19.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

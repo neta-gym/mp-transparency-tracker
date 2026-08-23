@@ -3,32 +3,34 @@
 **Constituency:** Chatra, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 49.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 16.4 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.62 Crore
+- **Liabilities:** Rs 4.04 Crore
+- **Net Worth:** Rs 4.58 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kali Charan Singh shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record and good attendance, he demonstrates poor performance in legislative participation, committee involvement, and public accessibility. The very low data confidence of 14% and multiple validation flags suggest substantial gaps in available information about his parliamentary activities.
+Kali Charan Singh has a below-average transparency score of 49.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Kali Charan Singh
-
-### Overall Assessment
-Kali Charan Singh, BJP MP from Chatra constituency in Jharkhand, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining clean criminal records and reasonable parliamentary attendance (85%), substantial missing information regarding assets and development fund utilization raises concerns about transparency standards. The profile is characterized by limited legislative activism and minimal public engagement metrics.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable, with all key metrics (entitled, released, expended amounts and utilization percentage) showing as "None." This absence of fund utilization data is particularly concerning given CAG audit findings revealing systemic issues in Jharkhand's development fund management. The 2010 CAG report (Report 31) identified Rs 1,558 crore in idle funds across district authorities and found that 34% of utilization certificates lacked proper documentation. Additionally, 18% of sampled development works were abandoned or incomplete, highlighting structural weaknesses in project implementation and monitoring.
-
-### Financial Transparency
-Asset disclosure presents significant transparency gaps, with both current and previous asset values listed as "None," making growth ratio and net worth calculations impossible. This missing financial data prevents meaningful assessment of wealth accumulation patterns or potential conflicts of interest. Monthly compensation stands at Rs 2.45 lakh, representing standard parliamentary remuneration, but without baseline asset information, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Singh maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, indicating potential source reliability issues. While this clean record is positive, the warning about criminal data confidence suggests these figures should be interpreted cautiously pending verification from additional sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with 85% attendance demonstrating reasonable commitment to legislative duties. However, legislative productivity metrics reveal minimal activism: zero questions raised, only 8 debate participations, and no private member bills introduced. This pattern suggests a relatively passive parliamentary role with limited initiative in legislative processes or constituency issue advocacy. No committee membership data is available, further limiting assessment of institutional contributions.
-
-### Public Engagement & Accessibility
-Public engagement metrics indicate limited media presence and accessibility. News coverage analysis of 10 articles shows predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting minimal controversial incidents but also limited proactive public communication. The absence of significant positive coverage may indicate missed opportunities for public engagement or policy advocacy. Social media and direct accessibility metrics are not comprehensively available, limiting full assessment of constituent outreach efforts.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact assessment reliability. Critical limitations include low confidence ratings for criminal records, assets, and MPLADS data, with evidence grades of 'C' for parliamentary data and 'D' for accessibility metrics. The absence of Sansad profile information prevents committee membership verification, while missing legislative effectiveness data limits comprehensive performance evaluation. These gaps necessitate cautious interpretation of available metrics and highlight the need for improved transparency reporting mechanisms.
-
-### Key Takeaway
-Kali Charan Singh's transparency profile is compromised by substantial data gaps across critical areas including asset disclosure, development fund utilization, and legislative committee participation. While maintaining clean criminal records and adequate parliamentary attendance, the MP demonstrates limited legislative activism and questionable financial transparency. The systemic issues identified in CAG audits regarding fund management in Jharkhand, combined with missing MPLADS data, raise concerns about development accountability. Improved data disclosure and more proactive legislative engagement would significantly enhance his transparency standing and constituent service effectiveness.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 86,201,641. MPLADS utilization: 20.5%. Parliament attendance: 85.0%. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ Kali Charan Singh's transparency profile is compromised by substantial data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kali Charan Singh's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

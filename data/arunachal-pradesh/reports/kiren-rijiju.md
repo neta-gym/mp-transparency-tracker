@@ -3,23 +3,25 @@
 **Constituency:** Arunachal West, Arunachal Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 53.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.94 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.94 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 59.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Kiren Rijiju's transparency profile shows significant gaps across multiple dimensions, with particularly concerning scores in committee participation (0%), legislative work (0%), and public accessibility (10%). While he maintains a clean criminal record (100%), his overall performance suggests limited public disclosure and engagement mechanisms. The low data confidence (7%) and high validation flags indicate substantial information gaps that further compromise transparency assessment.
+Kiren Rijiju shows moderate transparency with a score of 57.5/100. No criminal cases declared.
 
 ---
 
-## Executive Summary: Kiren Rijiju
-
-### Overall Assessment
-Kiren Rijiju, representing Arunachal West constituency in Lok Sabha for the Bharatiya Janata Party, presents a transparency profile significantly limited by data availability issues. With evidence grades of 'C' for parliamentary metrics and 'D' for accessibility, comprehensive assessment is challenging. As a Minister, his role involves executive duties that may affect traditional parliamentary participation metrics.
-
-### Fund Utilization & Development
-MPLADS data is unavailable, with no information on entitlements, releases, or expenditures. This data gap is concerning given CAG audit findings revealing systemic issues in fund management across states. The 2010 CAG audit (Report 31) identified Rs 1,558 crore in idle funds lying unspent in district authorities' accounts, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data for Rijiju's constituency, fund utilization effectiveness cannot be assessed.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, showing no data for total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for MPs and crucial for public accountability. The monthly compensation is documented at Rs 2,45,000, providing the only available financial data point.
-
-### Legal & Criminal Standing
-Rijiju maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, this data comes with a warning flag indicating low confidence due to potential source unavailability, suggesting the information may be incomplete or outdated.
-
-### Parliamentary Performance
-Parliamentary activity data is entirely unavailable, showing 0% attendance, zero questions asked, zero debate participations, and zero private bills introduced. While these metrics typically indicate low engagement, Rijiju's status as a Minister is crucial context - ministers often have reduced parliamentary participation due to executive responsibilities. The lack of committee data further limits assessment of his legislative contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public discourse around his activities. The accessibility grade of 'D' indicates poor data transparency and public information availability. No social media engagement metrics or public accessibility initiatives are documented, limiting assessment of constituent interaction.
-
-### Data Quality & Caveats
-Multiple warning flags indicate significant data reliability issues:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is unavailable with low confidence warnings
-- Parliamentary activity data lacks reliability
-- No committee information available, suggesting Sansad profile may be inaccessible
-- Legislative effectiveness data has low confidence ratings
-
-These limitations severely constrain meaningful transparency assessment and suggest systematic data collection or disclosure issues.
-
-### Key Takeaway
-Kiren Rijiju's transparency profile is characterized by extensive data unavailability across critical metrics including assets, MPLADS utilization, and parliamentary activities. While maintaining a clean criminal record, the absence of financial disclosures and development fund information represents a significant accountability gap. His ministerial status provides context for limited parliamentary metrics, but doesn't address broader transparency concerns. The systemic data quality issues, evidenced by multiple warning flags and poor evidence grades, highlight the need for improved disclosure mechanisms and data accessibility to enable proper public oversight of elected representatives.
+No criminal cases declared. Declared assets: Rs 49,403,234. MPLADS utilization: 59.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -171,7 +139,7 @@ Kiren Rijiju's transparency profile is characterized by extensive data unavailab
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kiren Rijiju's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 59.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

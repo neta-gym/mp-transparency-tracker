@@ -3,32 +3,32 @@
 **Constituency:** Arakkonam, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 41.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 14.0 | 25% |
+| Asset Growth | 40.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 53.46 Crore
+- **Liabilities:** Rs 656.77 Crore
+- **Net Worth:** Rs -6,033,083,140
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 18
+- **Released:** Rs 18
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.6%
 
 ---
 
@@ -83,9 +84,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **assets**: Liabilities exceed 5x total assets — unusual, verify
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +93,11 @@
 
 ## Qualitative Assessment
 
-Dr. S Jagathratchakan demonstrates a mixed transparency profile with a moderate overall score of 44/100. While maintaining a clean criminal record and showing reasonable MPLADS utilization, significant concerns exist around poor attendance (25%), zero committee participation, and minimal accessibility to constituents, indicating limited legislative engagement.
+Dr. S Jagathratchakan has a below-average transparency score of 41.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dr. S Jagathratchakan
-
-### Overall Assessment
-Dr. S Jagathratchagan represents Arakkonam constituency in Tamil Nadu as a member of the Dravida Munnetra Kazhagam (DMK). His transparency profile reveals significant data gaps across multiple indicators, with available information primarily limited to parliamentary attendance and media coverage. The MP maintains a clean criminal record but faces challenges in parliamentary engagement and public transparency.
-
-### Fund Utilization & Development
-MPLADS data is unavailable for Dr. Jagathratchakan, preventing assessment of his constituency development performance. This data gap is concerning given CAG audits revealing systemic issues with MPLADS implementation in Tamil Nadu, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The absence of MPLADS transparency data makes it impossible to evaluate whether the MP's fund utilization aligns with national standards or falls victim to the documented irregularities affecting 18% of sampled works that were abandoned or incomplete.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, representing a significant transparency deficit. No information exists regarding the MP's total assets, previous declarations, growth ratios, or net worth. This absence of financial disclosure data prevents any assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a standard monthly compensation of Rs 2,45,000, but without asset data, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Dr. Jagathratchakan maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This represents a positive indicator for public trust and governance standards. However, the data carries a low confidence warning, suggesting potential gaps in criminal record verification systems.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with concerning attendance patterns. Dr. Jagathratchakan's 25% attendance rate falls significantly below optimal standards for legislative participation. However, he demonstrates active questioning behavior with 46 questions raised and minimal debate participation with only 2 recorded interventions. The MP has not introduced any private member bills, indicating limited legislative initiative. No committee membership data is available, preventing assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public visibility or controversy. The absence of positive coverage may indicate insufficient public engagement or communication effectiveness. Social media and accessibility data receive a 'D' grade, highlighting significant gaps in public outreach mechanisms. This pattern suggests the MP may not be maximizing available channels for constituent communication.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly limit this assessment's comprehensiveness. Asset information is completely unavailable with low confidence ratings. MPLADS utilization data is missing, preventing development impact evaluation. Criminal record data, while showing clean status, carries verification concerns. Parliamentary data shows 'C' grade confidence with missing committee information. The overall evidence quality suggests systemic transparency challenges rather than selective disclosure issues.
-
-### Key Takeaway
-Dr. Jagathratchakan presents a mixed transparency profile characterized by clean criminal standing but significant data gaps in asset disclosure, development fund utilization, and public engagement metrics. His 25% parliamentary attendance rate requires improvement, while the absence of MPLADS and asset data prevents comprehensive governance assessment. Enhanced transparency in financial declarations and development fund utilization would substantially improve his accountability profile.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 534,587,828. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +137,7 @@ Dr. Jagathratchakan presents a mixed transparency profile characterized by clean
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +216,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dr. S Jagathratchakan's MPLADS account: Released: Rs 18, Expended: Rs 3, Utilization: 17.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +235,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

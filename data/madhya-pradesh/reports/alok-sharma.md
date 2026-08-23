@@ -3,32 +3,34 @@
 **Constituency:** Bhopal, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 49.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 13.9 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 8.86 Crore
+- **Liabilities:** Rs 1.30 Crore
+- **Net Worth:** Rs 7.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 17.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Alok Sharma's transparency profile shows mixed performance with a moderate overall score of 50.5/100. While he demonstrates excellent criminal record transparency (100%) and strong attendance (90%), significant concerns exist in committee participation (0%), legislative activity (0%), and accessibility to constituents (10%). His MPLADS fund utilization and asset disclosure are at average levels, but the low data confidence (14%) and multiple validation flags suggest incomplete or unreliable information availability.
+Alok Sharma has a below-average transparency score of 49.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Alok Sharma
-
-### Overall Assessment
-Alok Sharma, BJP MP representing Bhopal constituency in Madhya Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining clean legal standing and reasonable parliamentary attendance, critical information regarding assets and development fund utilization remains unavailable, raising concerns about financial transparency reporting.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, preventing assessment of development project effectiveness. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Madhya Pradesh's fund management. The 2010 CAG report (No. 31) identified Rs 1,558 crore in idle funds lying unspent across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for Sharma's constituency, development impact cannot be evaluated.
-
-### Financial Transparency
-Asset disclosure presents complete data unavailability, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap that prevents assessment of financial growth patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2.45 lakh, consistent with standard MP remuneration. The absence of asset data raises questions about compliance with mandatory disclosure requirements.
-
-### Legal & Criminal Standing
-Sharma maintains an exemplary legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting this information should be verified through additional channels. This clean record, if accurate, represents a positive aspect of his profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 90% attendance rate, demonstrating consistent presence in proceedings. Legislative participation includes 27 questions raised and 7 debate contributions, indicating active engagement in parliamentary discussions. However, no private member bills were introduced, suggesting limited legislative initiative. The evidence grade for parliamentary data is rated 'C', indicating moderate confidence levels. No committee participation data is available due to potential Sansad profile unavailability.
-
-### Public Engagement & Accessibility
-Public accessibility receives a 'D' evidence grade, indicating poor data quality and limited transparency in public engagement metrics. Media coverage analysis reveals 10 articles with predominantly neutral tone (9 neutral, 1 negative, 0 positive), suggesting limited public discourse around his work. The mixed/neutral coverage pattern indicates neither significant positive achievements nor major controversies have captured media attention, pointing to a relatively low public profile.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns. Criminal record data carries low confidence warnings due to source unavailability. Asset information is flagged with low confidence, representing a critical transparency gap. MPLADS data is entirely missing, preventing development assessment. Committee participation data is unavailable due to potential Sansad profile issues. Legislative effectiveness data also carries low confidence ratings. These limitations substantially constrain comprehensive evaluation capabilities and suggest potential systemic issues with transparency reporting mechanisms.
-
-### Key Takeaway
-Alok Sharma's transparency profile is severely hampered by critical data gaps, particularly in financial disclosure and development fund utilization—key areas for public accountability. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset declarations and MPLADS data raises significant transparency concerns. The CAG audit context highlighting systemic fund management issues in Madhya Pradesh makes the lack of constituency-specific MPLADS data particularly problematic. Enhanced disclosure compliance and data availability would be essential for meaningful public accountability assessment.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 88,625,237. MPLADS utilization: 17.4%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 7.
 
 ---
 
@@ -162,7 +138,7 @@ Alok Sharma's transparency profile is severely hampered by critical data gaps, p
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Alok Sharma's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

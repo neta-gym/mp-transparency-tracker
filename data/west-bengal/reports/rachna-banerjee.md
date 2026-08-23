@@ -3,23 +3,25 @@
 **Constituency:** Hooghly, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 51
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.5 / 100
+## Composite Transparency Score: 47.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 30.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 35.53 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 35.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Rachna Banerjee shows a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record, her performance is notably weak in parliamentary engagement with poor attendance (30%) and zero participation in committees and legislative activities. The low data confidence (14%) and multiple validation flags suggest information gaps that may affect the accuracy of this assessment.
+Rachna Banerjee has a below-average transparency score of 47.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-## Executive Summary: Rachna Banerjee
-
-### Overall Assessment
-Rachna Banerjee, representing Hooghly constituency for All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record, her parliamentary engagement shows concerning patterns with low attendance rates and limited legislative activity. The absence of critical financial data severely hampers assessment of her developmental impact and fiscal accountability.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of her developmental work in Hooghly constituency. This data gap is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data, it's impossible to determine whether Banerjee's constituency faces similar challenges.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, creating a significant transparency gap. No data exists regarding total assets, previous declarations, growth patterns, or net worth. This absence prevents any assessment of financial accountability or potential conflicts of interest. Her monthly compensation is recorded at Rs 2,45,000, representing standard parliamentary remuneration, but the lack of asset data severely undermines financial transparency evaluation.
-
-### Legal & Criminal Standing
-Banerjee maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, or convictions. However, the automated warning indicates low confidence in criminal data quality, suggesting potential source unavailability. While the reported clean record is positive, the data quality caveat requires noting that this assessment may be incomplete.
-
-### Parliamentary Performance
-Parliamentary engagement shows notable deficiencies. Attendance stands at just 30%, significantly below acceptable standards for constituent representation. Legislative activity is minimal with only 17 questions raised, participation in 1 debate, and zero private bills introduced. This limited engagement suggests reduced advocacy for constituency interests and minimal contribution to national policy discussions. The evidence grade of 'C' for parliamentary performance reflects these concerning patterns.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral with no positive or negative sentiment detected. This neutral coverage pattern suggests limited public visibility or newsworthy activities. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms. No committee membership data is available, potentially indicating limited involvement in specialized parliamentary work, though this may reflect data unavailability rather than actual non-participation.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data quality issues. Low confidence flags apply to criminal records, assets, and MPLADS data. Committee and legislative effectiveness data show similar reliability concerns. The absence of Sansad profile information further limits comprehensive evaluation. These data gaps substantially constrain the reliability of this assessment and suggest systemic transparency challenges rather than MP-specific issues.
-
-### Key Takeaway
-Rachna Banerjee's transparency profile is severely hampered by extensive data unavailability across critical metrics including assets, MPLADS utilization, and committee work. While maintaining a clean criminal record, her documented parliamentary performance shows concerning patterns of low engagement with 30% attendance and minimal legislative activity. The neutral media coverage and poor accessibility grade suggest limited public visibility. The extensive data gaps prevent comprehensive evaluation of her effectiveness as a public representative, highlighting broader systemic transparency challenges in parliamentary oversight mechanisms.
+No criminal cases declared. Declared assets: Rs 355,317,030. MPLADS utilization: 21.3%. Parliament attendance: 30.0%. Questions asked: 17. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Rachna Banerjee's transparency profile is severely hampered by extensive data un
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rachna Banerjee's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

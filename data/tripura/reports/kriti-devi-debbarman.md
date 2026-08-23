@@ -6,23 +6,23 @@
 **Age:** 52
 **Education:** Others
 **Profession:** Self Employed / Agriculture
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 5.88 Crore
-- **Immovable Assets:** Rs 80.04 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 85.92 Crore
 - **Liabilities:** Rs 15.26 Lakh
 - **Net Worth:** Rs 85.77 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 12.7%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tripura: 7 relevant findings
@@ -95,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Kriti Devi Debbarman shows a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets disclosure scores, combined with zero committee and legislative participation, suggest limited engagement in key parliamentary functions despite maintaining good attendance.
+Kriti Devi Debbarman shows moderate transparency with a score of 56.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kriti Devi Debbarman
-
-### Overall Assessment
-Kriti Devi Debbarman, a 52-year-old BJP MP representing Tripura East, presents a mixed transparency profile. While she maintains a clean criminal record and demonstrates reasonable parliamentary attendance, significant data gaps limit comprehensive assessment. Her substantial asset declaration of ₹85.9 crores stands out, though without previous comparison data. The profile is hampered by incomplete MPLADS utilization data and limited committee participation information.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable for MP Debbarman, with all metrics (entitled, released, expended, and utilization percentage) showing as "None." This data gap is flagged as low confidence, preventing assessment of her development fund management effectiveness. The broader CAG audit context for Tripura reveals systemic issues: ₹1,558 crores lying idle in district accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings highlight potential challenges in fund utilization monitoring.
-
-### Financial Transparency
-MP Debbarman has declared total assets worth ₹85.93 crores, with a net worth of ₹85.77 crores. However, previous asset data is unavailable, preventing growth ratio analysis or assessment of asset trajectory over time. Her monthly compensation stands at ₹2.45 lakhs. The substantial asset base relative to her declared profession as "Self Employed/Agriculture" warrants attention, though no irregularities are indicated in available data. The absence of comparative financial data limits transparency assessment.
-
-### Legal & Criminal Standing
-Kriti Devi Debbarman maintains an exemplary criminal record with zero cases across all categories—no total cases, serious cases, pending matters, disposed cases, or convictions. This clean legal standing represents a positive aspect of her transparency profile and suggests adherence to legal standards expected of public representatives.
-
-### Parliamentary Performance
-Her parliamentary engagement shows moderate activity with 85% attendance, which exceeds the average attendance rates typically seen in the Lok Sabha. She has raised 15 questions and participated in 5 debates, indicating reasonable legislative engagement. However, she has not introduced any private member bills, suggesting limited proactive legislative initiative. The evidence grade for parliamentary data is rated 'C', indicating some reliability concerns. Committee participation data is entirely absent, limiting assessment of her specialized legislative contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited public visibility or controversy. The accessibility evidence grade is rated 'D', indicating poor data quality in this domain. No committee participation information is available, which typically serves as an indicator of specialized engagement with policy issues. Social media presence and public interaction metrics are not provided in the available data.
-
-### Data Quality & Caveats
-The transparency assessment faces significant limitations due to data quality issues. Key caveats include: MPLADS data flagged as low confidence; complete absence of committee participation information potentially due to unavailable Sansad profiles; legislative effectiveness data marked as low confidence; and missing baseline asset information preventing growth analysis. Evidence grades range from 'B' (criminal and assets) to 'D' (accessibility), with parliamentary performance rated 'C'. These limitations substantially constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-While MP Debbarman maintains a clean legal record and demonstrates reasonable parliamentary attendance, her transparency profile is significantly limited by data gaps, particularly in fund utilization and committee participation. Her substantial asset declaration requires monitoring given the absence of historical comparison data. The lack of reliable MPLADS information is concerning given the constituency's development needs, though this may reflect systemic data collection issues rather than individual performance problems. Enhanced data collection and disclosure would significantly improve transparency assessment capabilities.
+No criminal cases declared. Declared assets: Rs 859,232,932. MPLADS utilization: 12.7%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 5.
 
 ---
 
@@ -163,7 +139,7 @@ While MP Debbarman maintains a clean legal record and demonstrates reasonable pa
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kriti Devi Debbarman's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

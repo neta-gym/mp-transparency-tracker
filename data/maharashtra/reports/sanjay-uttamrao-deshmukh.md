@@ -3,23 +3,25 @@
 **Constituency:** Yavatmal-Washim, Maharashtra
 **Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 6.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 28.44 Crore
+- **Liabilities:** Rs 9.49 Crore
+- **Net Worth:** Rs 18.95 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 19
+- **Released:** Rs 19
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 7.7%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,53 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Sanjay Uttamrao Deshmukh shows a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative contributions, and public accessibility. The moderate scores in MPLADS utilization and asset disclosure, combined with zero committee engagement and minimal accessibility efforts, suggest room for substantial improvement in constituent engagement and institutional participation.
+Sanjay Uttamrao Deshmukh shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Sanjay Uttamrao Deshmukh
-
-### Overall Assessment
-
-Sanjay Uttamrao Deshmukh, representing Yavatmal-Washim constituency in Maharashtra for Shiv Sena (UBT), presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), critical financial and development fund information remains unavailable, raising concerns about accountability and transparency.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a significant transparency gap given the ₹5 crore annual MPLADS allocation per MP. The absence of this data prevents assessment of constituency development impact.
-
-CAG audit findings for Maharashtra reveal systemic issues with fund management: ₹1,558 crore lying idle in district accounts, 34% of sampled utilization certificates lacking proper documentation, and 18% of works remaining incomplete or abandoned. These state-level patterns underscore the importance of transparent fund tracking, making the unavailability of Deshmukh's MPLADS data particularly concerning.
-
-### Financial Transparency
-
-Asset disclosure presents major transparency deficits. Neither current nor previous asset values are available, preventing assessment of wealth growth or potential conflicts of interest. Without baseline financial information, it's impossible to evaluate the MP's financial trajectory during his tenure or identify any red flags regarding unexplained wealth accumulation.
-
-Monthly compensation is reported at ₹2.45 lakh, representing standard parliamentary remuneration, but this alone provides insufficient insight into overall financial standing.
-
-### Legal & Criminal Standing
-
-Deshmukh maintains a clean legal record with zero criminal cases across all categories—no serious cases, pending matters, disposed cases, or convictions. This positive indicator suggests absence of legal complications that could compromise his public service role. However, data confidence is flagged as low, indicating potential source reliability issues that warrant cautious interpretation.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results. Attendance at 85% exceeds many peers and demonstrates reasonable commitment to legislative duties. However, active participation metrics reveal limited engagement: only 16 questions raised and 8 debate participations, with zero private member bills introduced. This suggests a more passive parliamentary role rather than proactive legislative leadership.
-
-The absence of committee membership data further limits assessment of his institutional contributions, as committees form the backbone of parliamentary work and policy development.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 articles identified—all categorized as neutral with zero positive or negative sentiment pieces. This suggests either limited media attention or carefully managed public communications. The absence of strongly positive coverage may indicate missed opportunities for highlighting constituency work or policy achievements.
-
-Public accessibility receives a 'D' grade, indicating significant deficiencies in constituent communication and engagement mechanisms. This low rating suggests potential barriers between the MP and his constituents, which could impact effective representation.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data has "low confidence" due to potential source unavailability. Asset information carries similar warnings, while MPLADS data is entirely absent. Committee and legislative effectiveness data suffer from low confidence ratings.
-
-Evidence grades of 'C' for parliament activity and 'D' for accessibility indicate below-average data quality across key transparency metrics. These limitations prevent comprehensive evaluation and suggest either poor record-keeping or limited public disclosure practices.
-
-### Key Takeaway
-
-Deshmukh's transparency profile is severely hampered by critical data gaps, particularly in financial disclosure and development fund utilization—two fundamental accountability measures. While maintaining clean legal standing and reasonable parliamentary attendance, the absence of asset information and MPLADS data, combined with limited legislative activism and poor accessibility ratings, raises significant transparency concerns. Immediate improvements in financial disclosure and fund utilization reporting are essential for enhanced public accountability and constituent trust.
+No criminal cases declared. Declared assets: Rs 284,422,940. MPLADS utilization: 7.7%. Parliament attendance: 85.0%. Questions asked: 16. Debates participated: 8. 1 warning(s) noted.
 
 ---
 
@@ -180,7 +139,7 @@ Deshmukh's transparency profile is severely hampered by critical data gaps, part
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sanjay Uttamrao Deshmukh's MPLADS account: Released: Rs 19, Expended: Rs 1, Utilization: 7.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -276,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,22 +3,24 @@
 **Constituency:** Saran, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 62
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 67.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -36,21 +38,22 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.37 Crore
+- **Liabilities:** Rs 6.57 Lakh
+- **Net Worth:** Rs 8.31 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -91,9 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -102,42 +102,11 @@
 
 ## Qualitative Assessment
 
-Rajiv Pratap Rudy shows a mixed transparency profile with excellent attendance and clean criminal record, but significant weaknesses in committee participation and public accessibility. His moderate MPLADS and asset disclosure scores, combined with zero committee engagement, suggest inconsistent commitment to transparency obligations despite strong parliamentary attendance.
+Rajiv Pratap Rudy shows moderate transparency with a score of 67.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rajiv Pratap Rudy
-
-### Overall Assessment
-Rajiv Pratap Rudy, BJP MP representing Saran constituency in Bihar, demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple accountability metrics. While maintaining perfect attendance (100%) and active participation in legislative activities, comprehensive assessment is hindered by missing asset, MPLADS, and financial data.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing constituency development effectiveness. The absence of this data is particularly concerning given Bihar's documented MPLADS implementation challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without baseline data, it's impossible to evaluate Rudy's development fund management against these systemic issues.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on current total assets, previous declarations, growth ratios, or net worth calculations. This absence of financial transparency data significantly limits accountability assessment. The MP receives a documented monthly compensation of Rs 2,45,000, but without asset declarations, there's no visibility into overall financial standing or potential conflicts of interest.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), though this comes with a data quality warning indicating low confidence in source reliability. While the reported clean legal standing is positive, the flagged uncertainty in criminal data sources requires cautious interpretation of this metric.
-
-### Parliamentary Performance
-Rudy demonstrates strong legislative engagement with 100% attendance, significantly above typical parliamentary averages. His activity includes 36 questions raised, participation in 6 debates, and introduction of 3 private member bills. The legislative record shows 3 private bills but zero participation in zero hour discussions or special mentions, suggesting focused but selective engagement patterns. Evidence quality for parliamentary data is graded 'C', indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse engagement. The accessibility evidence grade of 'D' indicates poor data availability for public interaction metrics. No committee assignment data was found, potentially indicating limited institutional leadership roles or data availability issues. Social media and news sources provide some coverage but limited depth of engagement assessment.
-
-### Data Quality & Caveats
-Multiple critical data gaps significantly impact assessment reliability:
-- Asset information entirely unavailable with low confidence warnings
-- MPLADS data completely missing despite high development relevance
-- Criminal record data flagged with source reliability concerns
-- Committee participation data unavailable
-- Legislative effectiveness metrics carry low confidence ratings
-
-The evidence grading system shows 'C' for parliamentary data and 'D' for accessibility, indicating substantial room for transparency improvements. Eight CAG audit findings for Bihar highlight systemic MPLADS issues that cannot be evaluated for this constituency due to missing data.
-
-### Key Takeaway
-While Rajiv Pratap Rudy maintains exemplary parliamentary attendance and demonstrates active legislative participation, massive data gaps across financial assets, development fund utilization, and public engagement severely limit comprehensive accountability assessment. The absence of MPLADS data is particularly problematic given documented statewide fund management issues. Improved transparency mechanisms are essential for meaningful public oversight and democratic accountability evaluation.
+No criminal cases declared. Declared assets: Rs 83,711,219. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.
 
 ---
 
@@ -177,7 +146,7 @@ While Rajiv Pratap Rudy maintains exemplary parliamentary attendance and demonst
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +225,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajiv Pratap Rudy's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +244,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

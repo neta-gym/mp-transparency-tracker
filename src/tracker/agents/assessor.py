@@ -11,6 +11,7 @@ from ..models.schemas import (
 )
 from ..utils.logger import get_logger
 from ..utils.mplads_calc import adjusted_utilization_rate
+from ..utils.photos import resolve_photo_url
 from .base import BaseAgent
 
 log = get_logger(__name__)
@@ -60,7 +61,8 @@ def calc_mplads_score(
 
     # Work-level bonus when eSAKSHI data is available
     if works and len(works) > 0:
-        completed = sum(1 for w in works if w.status == "completed")
+        # API status strings vary in case ("Completed", "COMPLETED")
+        completed = sum(1 for w in works if (w.status or "").strip().lower() == "completed")
         completion_pct = completed / len(works) if len(works) > 0 else 0
         # Up to +5 for high completion rate
         base += completion_pct * 5
@@ -126,6 +128,7 @@ def calc_criminal_score(
     convictions: int,
     pending_cases: int = 0,
     disposed_cases: int = 0,
+    confidence: float = 1.0,
 ) -> float:
     """Criminal Cases scoring — distinguishes pending vs convicted vs disposed.
 
@@ -133,7 +136,13 @@ def calc_criminal_score(
     Serious pending: -20 each
     Non-serious pending: -10 each
     Disposed/acquitted: -3 each (minimal — not proven guilt)
+
+    A zero-case record backed by very low source confidence (< 0.5) is
+    treated as unknown data and scored neutral (45), not as a clean slate.
     """
+    if total_cases == 0 and confidence < 0.5:
+        return 45.0
+
     score = 100.0
 
     # Convictions are the heaviest penalty
@@ -337,6 +346,10 @@ class AssessorAgent(BaseAgent):
         """Score an MP based on validated findings."""
         mp = validated.mp
         f = validated.findings
+
+        # Resolve the profile photo deterministically: prefer the local
+        # Sansad mirror keyed by member ID, else keep any existing URL.
+        mp.photo_url = resolve_photo_url(mp.photo_url, mp.sansad_member_id)
         log.info("[bold magenta]Scoring:[/bold magenta] %s", mp.name)
 
         # Calculate component scores — use adjusted rate when cumulative data available
@@ -358,6 +371,7 @@ class AssessorAgent(BaseAgent):
             f.criminal_record.convictions,
             f.criminal_record.pending_cases,
             f.criminal_record.disposed_cases,
+            confidence=f.criminal_record.confidence,
         )
         attendance_s = calc_attendance_score(
             f.parliament_activity.attendance_percentage,

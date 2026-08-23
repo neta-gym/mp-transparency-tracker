@@ -3,32 +3,34 @@
 **Constituency:** Dhenkanal, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 43.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 8
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,21 +38,22 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 56.77 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 56.77 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 5% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 2
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Rudra Narayan Pany demonstrates a mixed transparency profile with significant weaknesses in key areas. While he shows excellent criminal record transparency and strong parliamentary attendance, he has concerning gaps in committee participation, legislative contributions, and public accessibility. The low data confidence of 14% and six validation flags suggest substantial information gaps that limit a comprehensive evaluation.
+Rudra Narayan Pany has a below-average transparency score of 43.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Rudra Narayan Pany
-
-### Overall Assessment
-Rudra Narayan Pany, BJP MP from Dhenkanal, Odisha, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (90%) and a clean criminal record, critical financial and development data is unavailable, hampering assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is completely unavailable, making it impossible to assess Pany's performance in implementing local development projects. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Odisha's fund management, including Rs 1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, voters cannot evaluate whether Pany has effectively channeled development funds to Dhenkanal constituency or contributed to the broader pattern of poor fund utilization identified by auditors.
-
-### Financial Transparency
-Asset disclosure transparency is severely compromised with no current or previous asset declarations available. This prevents any analysis of wealth accumulation patterns or potential conflicts of interest during his tenure. The MP receives Rs 245,000 monthly compensation, but without asset baselines, it's impossible to track financial growth or assess compliance with disclosure requirements. This lack of financial transparency undermines public accountability.
-
-### Legal & Criminal Standing
-Pany maintains a clean criminal record with zero cases across all categories - no pending, disposed, or conviction records. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability. While this appears positive, the reliability caveat suggests voters should exercise caution in fully accepting this assessment without independent verification.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results. Pany demonstrates strong attendance at 90%, significantly above average parliamentary participation rates. However, his legislative activity remains limited with only 10 questions raised and 7 debates participated in, suggesting minimal active engagement in policy discussions. No private member bills were introduced, indicating limited legislative initiative. Committee participation data is unavailable due to inaccessible Sansad profiles, preventing assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited with only 10 news articles covering his activities over the assessment period. Media coverage is predominantly neutral (9 articles) with one positive article and no negative coverage, suggesting low public visibility rather than controversial performance. The minimal media presence may indicate either effective constituency work that doesn't generate headlines or limited public engagement. Social media activity data quality receives a 'D' grade, indicating poor accessibility through digital platforms.
-
-### Data Quality & Caveats
-This assessment is severely constrained by multiple data quality issues. Critical warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. Parliament activity receives a 'C' evidence grade while accessibility scores 'D', indicating significant reliability concerns. The absence of committee membership data and legislative effectiveness metrics further limits comprehensive evaluation. These data gaps mean this assessment provides an incomplete picture of Pany's performance and transparency.
-
-### Key Takeaway
-Rudra Narayan Pany's transparency profile is characterized more by data unavailability than actual performance indicators. While maintaining clean criminal records and strong parliamentary attendance, the absence of crucial financial disclosures and development fund utilization data raises significant transparency concerns. Given systemic fund management issues identified by CAG audits in Odisha, the lack of MPLADS data is particularly problematic. Voters in Dhenkanal face challenges in making informed decisions due to limited reliable information about their representative's financial standing and development work effectiveness. Improved data disclosure and verification mechanisms are essential for meaningful accountability assessment.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 5,676,627. Parliament attendance: 90.0%. Questions asked: 10. Debates participated: 7.
 
 ---
 
@@ -162,7 +138,7 @@ Rudra Narayan Pany's transparency profile is characterized more by data unavaila
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rudra Narayan Pany's MPLADS account: Released: Rs 16. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

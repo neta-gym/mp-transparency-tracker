@@ -3,32 +3,32 @@
 **Constituency:** Gandhinagar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 42.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 2.2 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 65.67 Crore
+- **Liabilities:** Rs 42.10 Lakh
+- **Net Worth:** Rs 65.25 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 3
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.8%
 
 ---
 
@@ -83,9 +84,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Amit Shah shows a mixed transparency profile with moderate performance in core areas like MPLADS utilization and asset disclosure, but significant gaps in legislative engagement and public accessibility. His perfect criminal record disclosure is commendable, though zero scores in committee participation and legislative activities indicate limited parliamentary engagement beyond his executive responsibilities.
+Amit Shah has a below-average transparency score of 42.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Amit Shah
-
-### Overall Assessment
-Amit Shah, BJP MP from Gandhinagar constituency in Gujarat, presents a transparency profile with significant data gaps across multiple dimensions. As a senior minister in the current government, his parliamentary activities and fund utilization patterns require scrutiny, though comprehensive data remains largely unavailable. The available evidence suggests neutral public reception but limited transparency in core accountability metrics.
-
-### Fund Utilization & Development
-MPLADS data is unavailable, with no information on entitled amounts, releases, or expenditure patterns. This represents a critical transparency gap for a constituency MP. However, CAG audit findings for Gujarat reveal systemic issues including Rs 1,558 crore in idle funds across district authorities and concerning utilization certificate irregularities. Specifically, 34% of sampled utilization certificates lacked proper supporting documentation, while 18% of development works remained abandoned or incomplete, indicating broader developmental governance challenges in the state.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, including current holdings, previous declarations, and growth patterns. This represents a significant transparency deficit for such a senior political figure. Monthly compensation is recorded at Rs 2,45,000, consistent with ministerial entitlements. The absence of asset data prevents assessment of wealth accumulation patterns or potential conflicts of interest.
-
-### Legal & Criminal Standing
-Criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), though data confidence is flagged as low. While this suggests a clean legal record, the data quality warning indicates potential gaps in information availability or reporting mechanisms.
-
-### Parliamentary Performance
-Parliamentary activity data is severely limited, showing zero questions asked, zero debates participated in, and zero private bills introduced. Attendance percentage is not available. As Shah serves as a minister, lower attendance may be explained by executive duties, but the complete absence of legislative activity data raises transparency concerns. No committee participation information is available due to unavailable Sansad profile data.
-
-### Public Engagement & Accessibility
-News sentiment analysis of 10 articles shows neutral coverage with no positive or negative articles identified. This suggests either limited media engagement or carefully managed public communications. The evidence grade for accessibility is rated 'D', indicating poor performance in public engagement metrics. Social media presence data is referenced but not detailed in the available metrics.
-
-### Data Quality & Caveats
-Multiple critical data quality issues compromise this assessment:
-- Criminal record data has low confidence due to potentially unavailable sources
-- Asset information is completely missing with low confidence ratings
-- MPLADS data is unavailable with low confidence flags
-- Parliamentary activity shows low confidence in available data
-- Committee participation data is absent due to unavailable Sansad profile
-- Legislative effectiveness data has low confidence ratings
-
-Evidence grades show 'C' for parliament-related metrics and 'D' for accessibility, indicating substantial room for improvement in transparency practices.
-
-### Key Takeaway
-Amit Shah's transparency profile is characterized by significant data gaps across fundamental accountability metrics including asset declarations, MPLADS utilization, and parliamentary activities. While showing a clean criminal record and neutral public sentiment, the absence of comprehensive financial and performance data limits meaningful transparency assessment. The systemic issues identified in Gujarat's development fund utilization through CAG audits underscore the importance of enhanced oversight mechanisms. Improved data disclosure and public engagement would significantly strengthen democratic accountability for this senior political figure.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 656,712,498. MPLADS utilization: 2.8%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -171,7 +138,7 @@ Amit Shah's transparency profile is characterized by significant data gaps acros
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Amit Shah's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,9 +236,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

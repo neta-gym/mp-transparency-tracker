@@ -3,23 +3,25 @@
 **Constituency:** Lakhimpur, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 58
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 58.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 26.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.42 Crore
+- **Liabilities:** Rs 22.70 Lakh
+- **Net Worth:** Rs 2.19 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Pradan Baruah demonstrates mixed transparency performance with perfect attendance and clean criminal record, but shows significant gaps in legislative participation and public accessibility. While maintaining basic compliance in asset disclosure and MPLADS utilization, the MP's zero participation in committees and minimal legislative activity indicate limited parliamentary engagement beyond attendance.
+Pradan Baruah shows moderate transparency with a score of 58.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Pradan Baruah
-
-### Overall Assessment
-Pradan Baruah represents Lakhimpur constituency in Assam as a Bharatiya Janata Party (BJP) MP in the Lok Sabha. His transparency profile presents significant data gaps across multiple dimensions, limiting comprehensive assessment. Available evidence indicates clean criminal record and perfect parliamentary attendance, but substantial information deficits in financial declarations, development fund utilization, and committee participation raise transparency concerns.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled funds, releases, or expenditure utilization. This represents a critical transparency gap given MPLADS funds are a primary mechanism for constituency development. CAG audit findings highlight systemic issues in Assam's development fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, indicating broader implementation challenges that may affect Baruah's constituency.
-
-### Financial Transparency
-Asset declaration data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP receives standard parliamentary compensation of ₹2,45,000 monthly, but without asset declarations, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Pradan Baruah maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, data confidence is flagged as low due to potential source unavailability, suggesting this assessment may be incomplete. The clean record, if accurate, represents a positive transparency indicator.
-
-### Parliamentary Performance
-Parliamentary attendance demonstrates exceptional performance at 100%, indicating strong commitment to legislative duties. However, active participation metrics show limitations - zero questions raised, only one debate participation, and no private member bills introduced. This pattern suggests physical presence without commensurate legislative engagement. No committee membership data is available, likely due to unavailable Sansad profile information, further limiting assessment of parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with predominantly neutral tone (8 neutral, 2 positive, 0 negative), suggesting limited public visibility or controversy. The mixed/neutral coverage pattern indicates moderate public engagement levels. However, the evidence grade for accessibility is rated 'D', indicating poor performance in public outreach and constituent communication channels.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data has low confidence due to source availability issues. Asset information is entirely missing with low confidence ratings. MPLADS data is unavailable, preventing development fund accountability assessment. Committee participation data is absent due to unavailable Sansad profiles. Legislative effectiveness data has low confidence ratings. These limitations stem from incomplete data sources (PRS, social media, news) and suggest potential gaps in official transparency reporting mechanisms.
-
-### Key Takeaway
-Pradan Baruah's transparency profile is characterized by significant data deficits that prevent comprehensive accountability assessment. While maintaining clean criminal records and perfect attendance, the absence of asset declarations, MPLADS utilization data, and committee participation information raises substantial transparency concerns. The systemic development fund management issues highlighted by CAG audits in Assam underscore the importance of transparent MPLADS reporting. Improved data availability across financial declarations, fund utilization, and parliamentary activities is essential for meaningful transparency evaluation and constituent accountability.
+No criminal cases declared. Declared assets: Rs 24,205,536. MPLADS utilization: 32.7%. Parliament attendance: 100.0%. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Pradan Baruah's transparency profile is characterized by significant data defici
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Pradan Baruah's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

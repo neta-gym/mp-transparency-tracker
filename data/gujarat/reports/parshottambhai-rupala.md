@@ -3,32 +3,34 @@
 **Constituency:** Rajkot, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.4 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.43 Crore
+- **Liabilities:** Rs 1.95 Lakh
+- **Net Worth:** Rs 17.41 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Parshottambhai Rupala shows a mixed transparency profile with concerning gaps in key areas. While he demonstrates strong criminal record transparency and good attendance, he has significant deficiencies in committee participation, accessibility, and legislative activity disclosure. The low data confidence (14%) and multiple validation flags suggest incomplete or unreliable information availability.
+Parshottambhai Rupala shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Parshottambhai Rupala
-
-### Overall Assessment
-Parshottambhai Rupala, BJP MP from Rajkot, Gujarat, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across multiple accountability metrics. While maintaining an exemplary 90% attendance record and clean criminal standing, the lack of comprehensive asset, MPLADS, and committee participation data limits a complete assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This data gap is particularly concerning given the CAG audit findings highlighting systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Without specific MPLADS data for Rupala's constituency, it's impossible to assess his development fund management effectiveness.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives. The only available financial information is his monthly compensation of Rs 2,45,000, which appears standard for Lok Sabha members. The absence of asset data prevents any assessment of potential conflicts of interest or wealth accumulation patterns.
-
-### Legal & Criminal Standing
-Rupala maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, suggesting potential source unavailability. While the clean record is positive, the data quality caveat requires noting that this assessment may be incomplete.
-
-### Parliamentary Performance
-Rupala demonstrates strong parliamentary engagement with 90% attendance, significantly above average participation levels. His legislative activity includes 37 questions raised and 2 debate participations, showing active involvement in parliamentary proceedings. However, he has introduced 0 private member bills, indicating limited legislative initiative. No committee participation data is available due to unavailable Sansad profile information, limiting assessment of his specialized legislative work.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with predominantly neutral sentiment (9 neutral, 1 negative, 0 positive), suggesting limited public visibility or controversial engagement. The absence of committee data and low legislative effectiveness confidence ratings indicate potential gaps in public engagement mechanisms. The evidence grade for accessibility is particularly low at 'D', suggesting limited transparency in public interactions and constituency outreach.
-
-### Data Quality & Caveats
-This analysis faces significant data quality limitations across multiple domains:
-- **Criminal records**: Low confidence due to source unavailability
-- **Assets**: Complete data absence raises transparency concerns
-- **MPLADS**: No utilization data available despite CAG highlighting systemic Gujarat fund management issues
-- **Committees**: Sansad profile unavailability prevents committee assessment
-- **Parliament activity**: Grade 'C' indicates moderate confidence
-- **Overall accessibility**: Grade 'D' indicates poor data availability
-
-The analysis relies on limited sources (PRS, social media, news), potentially missing comprehensive official records.
-
-### Key Takeaway
-While Parshottambhai Rupala maintains strong parliamentary attendance and a clean criminal record, significant data gaps across asset declarations, MPLADS utilization, and committee participation severely limit transparency assessment. The absence of crucial accountability data, combined with systemic fund management issues identified by CAG audits in Gujarat, suggests potential transparency improvements needed. His parliamentary engagement appears adequate but lacks comprehensive documentation of constituency development work and financial transparency measures essential for full public accountability.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 174,316,673. MPLADS utilization: 20.5%. Parliament attendance: 90.0%. Questions asked: 37. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ While Parshottambhai Rupala maintains strong parliamentary attendance and a clea
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Parshottambhai Rupala's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

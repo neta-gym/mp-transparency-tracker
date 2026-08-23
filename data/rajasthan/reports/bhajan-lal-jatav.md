@@ -3,32 +3,34 @@
 **Constituency:** Karauli-Dholpur, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 55
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 49.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 2.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.33 Crore
+- **Liabilities:** Rs 1.90 Crore
+- **Net Worth:** Rs 1.43 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 0
+- **Utilization Rate:** 3.4%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Bhajan Lal Jatav demonstrates a mixed transparency profile with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, accessibility, and legislative contributions. The moderate MPLADS and assets transparency scores, combined with zero committee involvement and minimal public accessibility, suggest limited overall transparency despite clean criminal standing.
+Bhajan Lal Jatav has a below-average transparency score of 49.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Bhajan Lal Jatav
-
-### Overall Assessment
-Bhajan Lal Jatav, Congress MP from Karauli-Dholpur constituency in Rajasthan, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining a clean criminal record and adequate parliamentary attendance, critical information regarding assets and development fund utilization remains unavailable, hampering full assessment of his performance and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable for MP Jatav, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap given that MPLADS funds are crucial for constituency development. The absence of this data is particularly concerning in light of CAG audit findings for Rajasthan revealing systemic issues: ₹1,558 crore in idle funds across district authorities, 34% of sampled utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. Without MPLADS transparency, constituents cannot assess whether their MP is effectively utilizing allocated development funds.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on total assets, previous declarations, growth ratios, or net worth. This represents a critical transparency deficit, as asset declarations are mandatory for MPs under the Representation of People Act. The MP receives a monthly compensation of ₹2,45,000, but without baseline asset information, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation. This data gap significantly undermines financial accountability.
-
-### Legal & Criminal Standing
-MP Jatav maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification. While the clean record is positive for public trust, the data quality concerns require acknowledgment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with an 85% attendance rate, which exceeds the Lok Sabha average and demonstrates reasonable commitment to parliamentary duties. However, legislative participation appears limited with only 5 questions raised, 1 debate participation, and zero private member bills introduced. This suggests minimal proactive engagement in parliamentary proceedings beyond attendance. No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability from Sansad profiles.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 news articles, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited media attention or controversial issues but also indicates minimal positive recognition for achievements or initiatives. The absence of social media engagement data and the 'D' grade for accessibility suggest limited digital presence and constituent outreach mechanisms.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to multiple data quality issues. Critical warnings include low confidence in criminal records, assets, and MPLADS data. The evidence grades are concerning - 'C' for parliamentary data and 'D' for accessibility data. Key missing elements include committee memberships, detailed asset disclosures, complete MPLADS utilization records, and comprehensive social media engagement metrics. These gaps substantially limit the reliability of this transparency assessment.
-
-### Key Takeaway
-While MP Bhajan Lal Jatav maintains basic parliamentary presence with clean criminal records and adequate attendance, severe data gaps in asset disclosure and development fund utilization create significant transparency concerns. The absence of MPLADS data is particularly troubling given CAG findings of systemic fund mismanagement in Rajasthan. Constituents lack essential information to evaluate their representative's financial integrity and development effectiveness, highlighting the need for improved transparency compliance and data availability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 33,282,184. MPLADS utilization: 3.4%. Parliament attendance: 85.0%. Questions asked: 5. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While MP Bhajan Lal Jatav maintains basic parliamentary presence with clean crim
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhajan Lal Jatav's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 3.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

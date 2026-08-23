@@ -3,23 +3,23 @@
 **Constituency:** Banaskantha, Gujarat
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 10.7 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.48 Crore
+- **Liabilities:** Rs 10.00 Lakh
+- **Net Worth:** Rs 2.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 2
+- **Utilization Rate:** 13.3%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,43 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Geniben Nagaji Thakor demonstrates a mixed transparency profile with notable strengths in criminal record disclosure but significant weaknesses in legislative participation and public accessibility. While maintaining perfect criminal background transparency and moderate scores in attendance and participation, the complete absence of committee involvement and legislative contributions raises concerns about parliamentary effectiveness.
+Geniben Nagaji Thakor shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Geniben Nagaji Thakor
-
-### Overall Assessment
-
-Geniben Nagaji Thakor, Indian National Congress MP from Banaskantha, Gujarat, presents a mixed transparency profile characterized by moderate parliamentary participation but significant data gaps across key accountability metrics. With 70% attendance and active questioning in Parliament, she demonstrates reasonable legislative engagement, though comprehensive assessment is hampered by missing financial and developmental data.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. CAG audit findings from Gujarat reveal systemic issues that may affect local fund management: Rs 1,558 crore in idle funds across state district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level concerns underscore the importance of transparent local fund tracking, which cannot be assessed due to missing data.
-
-### Financial Transparency
-
-Asset disclosure information is completely absent, with no data available on current holdings, previous declarations, growth patterns, or net worth calculations. This creates a substantial transparency deficit in understanding potential conflicts of interest or wealth accumulation patterns. The MP receives standard monthly compensation of Rs 2,45,000, but without asset context, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-
-Official records indicate zero criminal cases (total, serious, pending, disposed, or convictions), suggesting a clean legal profile. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, limiting the reliability of this assessment.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity with 70% attendance in the Lok Sabha, placing performance in the middle range of MP participation rates. Legislative contribution includes 38 questions raised and participation in 11 debates, indicating active engagement with parliamentary processes. However, no private member bills were introduced, and no committee participation data is available due to potentially unavailable Sansad profile information, limiting assessment of broader legislative effectiveness.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 news articles identified—all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility or controversial positioning, though the small sample size limits conclusive assessment. Social media and other accessibility metrics are not provided, creating gaps in understanding public interaction capabilities.
-
-### Data Quality & Caveats
-
-This assessment faces significant limitations due to extensive data unavailability. Critical warnings include low confidence in criminal records, asset declarations, and MPLADS utilization data. Committee participation information is missing due to potentially unavailable Sansad profiles, and legislative effectiveness data carries low confidence ratings. Evidence grades reflect these limitations with Parliament data rated 'C' and accessibility data rated 'D'. Sources include PRS, social media, and news outlets, but data completeness varies significantly across categories.
-
-### Key Takeaway
-
-While Geniben Nagaji Thakor demonstrates reasonable parliamentary attendance and questioning activity, comprehensive transparency assessment is severely limited by missing data across financial, developmental, and engagement metrics. The absence of MPLADS and asset information, combined with systemic fund management issues identified in Gujarat, highlights the need for improved data disclosure. Her clean criminal record and neutral media coverage suggest stability, but enhanced transparency across all accountability dimensions would strengthen public trust and enable more thorough evaluation of her representative effectiveness.
+No criminal cases declared. Declared assets: Rs 24,799,399. MPLADS utilization: 13.3%. Parliament attendance: 70.0%. Questions asked: 38. Debates participated: 11.
 
 ---
 
@@ -170,7 +136,7 @@ While Geniben Nagaji Thakor demonstrates reasonable parliamentary attendance and
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Geniben Nagaji Thakor's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 13.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

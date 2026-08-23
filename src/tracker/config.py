@@ -121,6 +121,16 @@ class Settings(BaseSettings):
     database_path: str = Field(default="data/tracker.db", description="SQLite database path")
     data_dir: str = Field(default="data", description="Root data directory")
 
+    # MP profile photos (local copies of public Sansad images, keyed by member ID)
+    mp_photos_dir: str = Field(
+        default="dashboard/public/mp-photos",
+        description="Directory holding local MP photos as {sansad_member_id}.jpg",
+    )
+    mp_photos_url_prefix: str = Field(
+        default="/mp-photos",
+        description="Root-relative URL prefix for locally hosted MP photos",
+    )
+
     # Logging
     log_level: str = Field(default="INFO", description="Logging level")
 

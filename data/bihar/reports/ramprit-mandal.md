@@ -3,23 +3,25 @@
 **Constituency:** Jhanjharpur, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 68
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 65.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 59.6 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.60 Crore
+- **Liabilities:** Rs 4.27 Lakh
+- **Net Worth:** Rs 10.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 61% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 63.1%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Ramprit Mandal shows a mixed transparency profile with significant weaknesses in key areas. While demonstrating perfect criminal record disclosure and good attendance, he scores poorly in committee participation, accessibility, and legislative activity, resulting in a below-average overall score.
+Ramprit Mandal shows moderate transparency with a score of 65.7/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ramprit Mandal
-
-### Overall Assessment
-Ramprit Mandal, representing Jhanjharpur constituency in Bihar as a Janata Dal (United) MP in the Lok Sabha, presents a mixed transparency profile characterized by adequate parliamentary participation but significant data gaps across multiple critical areas. While maintaining a clean criminal record and reasonable attendance, the absence of comprehensive financial and developmental data limits full assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data for Ramprit Mandal is unavailable, making it impossible to assess his developmental impact in Jhanjharpur constituency. This data gap is concerning given the CAG's 2010 audit findings highlighting systemic issues in Bihar's fund utilization. The audit revealed Rs 1,558 crore lying idle in district authorities' accounts, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, constituents cannot evaluate how effectively their MP has utilized allocated development funds.
-
-### Financial Transparency
-Asset declaration data for Ramprit Mandal is entirely missing, representing a significant transparency deficit. No information is available regarding his total assets, previous declarations, asset growth patterns, or net worth. This absence prevents public assessment of potential conflicts of interest or unexplained wealth accumulation during his tenure. The MP receives a total monthly compensation of Rs 2,45,000, but without asset data, comprehensive financial transparency cannot be established.
-
-### Legal & Criminal Standing
-Ramprit Mandal maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, the data comes with a low confidence warning, suggesting potential gaps in criminal record verification systems. While this clean record is positive for public trust, the data quality concerns warrant cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary attendance stands at 80%, indicating reasonable but not exceptional commitment to legislative duties. Mandal has raised 19 questions and participated in 5 debates, demonstrating moderate engagement with parliamentary processes. However, he has introduced zero private member bills, suggesting limited initiative in legislative innovation. The evidence grade for parliamentary data is 'C', indicating moderate reliability but potential gaps in comprehensive activity tracking.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles about Ramprit Mandal, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited public visibility or controversial positions, but may also indicate insufficient media engagement or newsworthiness. The accessibility evidence grade of 'D' indicates poor data availability regarding constituent outreach, digital presence, or public communication efforts.
-
-### Data Quality & Caveats
-This assessment faces substantial data quality limitations that significantly impact reliability:
-- **Criminal Records**: Low confidence warnings suggest incomplete or inaccessible source data
-- **Financial Assets**: Complete absence of asset declaration information
-- **MPLADS**: No fund utilization data available despite scheme importance
-- **Committee Participation**: Missing committee membership and activity data due to unavailable Sansad profiles
-- **Legislative Effectiveness**: Low confidence in comprehensive legislative activity tracking
-
-The evidence grading system rates parliament data as 'C' and accessibility as 'D', indicating moderate to poor data reliability across key transparency metrics.
-
-### Key Takeaway
-Ramprit Mandal's transparency profile is severely hampered by extensive data gaps rather than demonstrable performance issues. While available indicators show a clean criminal record and adequate parliamentary attendance, the absence of crucial financial, developmental, and engagement data prevents comprehensive public accountability assessment. The missing MPLADS data is particularly concerning given Bihar's documented fund utilization challenges. Improved data collection and disclosure mechanisms are essential for meaningful transparency evaluation of this MP's performance and impact in representing Jhanjharpur constituency.
+No criminal cases declared. Declared assets: Rs 105,978,772. MPLADS utilization: 63.1%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 5.
 
 ---
 
@@ -169,7 +138,7 @@ Ramprit Mandal's transparency profile is severely hampered by extensive data gap
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ramprit Mandal's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 63.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

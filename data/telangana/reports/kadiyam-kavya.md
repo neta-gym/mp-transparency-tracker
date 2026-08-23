@@ -3,23 +3,25 @@
 **Constituency:** Warangal, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 12.3 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.55 Crore
+- **Liabilities:** Rs 1.03 Crore
+- **Net Worth:** Rs 52.42 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 2
+- **Utilization Rate:** 15.4%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,37 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kadiyam Kavya shows a mixed transparency profile with notable strengths in criminal record disclosure (100%) and reasonable attendance (70%), but faces significant challenges in committee participation (0%), legislative activity (0%), and public accessibility (10%). The overall score of 47.5/100 indicates below-average transparency performance, with particular concerns around constituent engagement and parliamentary contribution.
+Kadiyam Kavya shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-# Executive Summary: Kadiyam Kavya
-
-## Executive Summary: Kadiyam Kavya
-
-### Overall Assessment
-Kadiyam Kavya, Congress MP from Warangal constituency in Telangana, presents a mixed transparency profile marked by moderate parliamentary engagement but significant gaps in financial and development data. While maintaining a clean criminal record and reasonable attendance in Parliament, critical information regarding assets, MPLADS fund utilization, and committee participation remains unavailable, limiting comprehensive assessment of her effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data for Kadiyam Kavya is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization rates. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Telangana's fund management. Specifically, CAG Report 31 of 2010 identified Rs 1,558 crore in idle funds across district authorities, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data for her constituency, it's impossible to assess whether Warangal faces similar implementation challenges.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on current holdings, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency deficit, as asset declarations are mandatory for elected representatives. Her monthly compensation is documented at Rs 2,45,000, providing the only available financial reference point. The absence of asset data prevents assessment of potential conflicts of interest or wealth accumulation patterns during her tenure.
-
-### Legal & Criminal Standing
-Kadiyam Kavya maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources, suggesting this clean record should be interpreted cautiously pending verification from authoritative judicial databases.
-
-### Parliamentary Performance
-Her parliamentary engagement shows moderate activity with 70% attendance, positioning her reasonably well compared to national averages. She has raised 21 questions in Parliament, demonstrating some engagement with legislative inquiry processes, and participated in one debate. However, she has introduced zero private member bills, indicating limited initiative in legislative drafting. No committee participation data is available, representing a significant gap as committees form the backbone of detailed parliamentary work. The evidence grade of 'C' for parliament data suggests moderate reliability in these metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals limited public visibility with only 10 articles tracked, predominantly neutral in tone (9 neutral, 1 positive, 0 negative). This low media footprint suggests either limited proactive public engagement or insufficient coverage of her constituency work. The accessibility evidence grade of 'D' indicates poor data availability regarding public interaction mechanisms, constituency office operations, or citizen grievance handling systems. Social media presence data exists but specific metrics are not provided.
-
-### Data Quality & Caveats
-This assessment faces substantial limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Committee participation information is entirely missing, likely due to unavailable Sansad profile data. Legislative effectiveness data carries low confidence ratings. Only three data sources (PRS, social media, news) provide information, suggesting limited comprehensive monitoring. The CAG audit context for Telangana includes seven relevant findings, but their specific applicability to Warangal constituency remains unclear without detailed MPLADS data.
-
-### Key Takeaway
-Kadiyam Kavya's transparency profile is significantly hampered by missing critical data across asset declarations, development fund utilization, and committee work. While her clean criminal record and moderate parliamentary attendance are positive indicators, the absence of financial transparency and unclear development impact limit comprehensive evaluation. The systemic fund management issues identified by CAG audits in Telangana warrant particular attention, but cannot be assessed at the constituency level without specific MPLADS data. Improved data disclosure across all transparency parameters is essential for meaningful public accountability assessment.
+No criminal cases declared. Declared assets: Rs 15,501,028. MPLADS utilization: 15.4%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 1.
 
 ---
 
@@ -164,7 +138,7 @@ Kadiyam Kavya's transparency profile is significantly hampered by missing critic
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kadiyam Kavya's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 15.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

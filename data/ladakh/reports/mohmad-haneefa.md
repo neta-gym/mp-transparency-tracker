@@ -6,23 +6,23 @@
 **Age:** 55
 **Education:** 10th Pass
 **Profession:** Self Employed
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 52.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.9 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 10.31 Lakh
-- **Immovable Assets:** Rs 3.17 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 3.28 Crore
 - **Liabilities:** Rs 1.50 Lakh
 - **Net Worth:** Rs 3.26 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 2.4%
 
 ---
 
@@ -86,7 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Ladakh: 7 relevant findings
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Mohmad Haneefa shows a mixed transparency profile with significant weaknesses in legislative participation and public accessibility. While maintaining perfect criminal record transparency and good attendance, the complete absence of committee participation and legislative contributions raises concerns about parliamentary effectiveness. The low data confidence of 36% suggests limited public information availability.
+Mohmad Haneefa shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mohmad Haneefa
-
-### Overall Assessment
-Mohmad Haneefa, Independent MP from Ladakh constituency, presents a mixed transparency profile with clean legal standing but significant data gaps. At 55 years old with 10th-pass education and self-employed background, he maintains moderate parliamentary engagement (80% attendance) and substantial personal assets (₹3.27 crores). However, critical development fund data remains unavailable, limiting assessment of his constituency impact.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable (entitled, released, expended figures all marked as "None"), raising transparency concerns. This data gap is particularly significant given CAG audit findings highlighting systemic issues in fund management across Indian districts, including ₹1,558 crores lying idle in district accounts and 34% of utilization certificates lacking proper documentation. For Ladakh specifically, 7 relevant CAG audit findings suggest regional fund management challenges that cannot be evaluated for this MP due to missing data.
-
-### Financial Transparency
-Haneefa declares total assets of ₹3.27 crores with net worth of ₹3.26 crores, indicating minimal liabilities. However, no previous asset declaration data is available, preventing assessment of wealth growth patterns during his tenure. This represents a significant transparency gap as comparative asset analysis is crucial for evaluating potential conflicts of interest. His monthly compensation of ₹2.45 lakhs follows standard MP rates.
-
-### Legal & Criminal Standing
-Haneefa maintains an exemplary legal record with zero criminal cases across all categories (total, serious, pending, disposed, convictions). This clean criminal profile provides confidence in his legal standing and removes concerns about character-related disqualifications or ongoing legal distractions from parliamentary duties.
-
-### Parliamentary Performance
-His parliamentary engagement shows moderate activity with 80% attendance rate, 11 questions raised, and participation in 2 debates. Notably, he has not introduced any private member bills, suggesting limited legislative initiative beyond standard parliamentary duties. The absence of committee membership data (flagged as unavailable) prevents full assessment of his parliamentary contribution, as committee work often represents substantial MP activity.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public engagement, with 10 articles showing balanced sentiment (1 positive, 1 negative, 8 neutral). This suggests limited media visibility but absence of major controversies. However, accessibility data receives the lowest evidence grade (D), indicating insufficient information about constituency outreach, public grievance handling, or community engagement mechanisms.
-
-### Data Quality & Caveats
-The assessment faces several critical limitations: MPLADS data carries "low confidence" warnings, committee information is unavailable (possibly due to Sansad profile gaps), and legislative effectiveness data has low confidence ratings. Asset growth analysis is impossible without historical data. These gaps significantly limit the comprehensiveness of this transparency assessment, particularly regarding development fund utilization and parliamentary committee contributions.
-
-### Key Takeaway
-While Mohmad Haneefa maintains clean legal standing and moderate parliamentary attendance, his transparency profile is severely hampered by missing development fund data and limited historical financial information. The unavailability of MPLADS utilization data is particularly concerning given his role in representing Ladakh's development needs. Voters and stakeholders should seek greater disclosure on fund utilization and constituency development activities to enable proper accountability assessment.
+No criminal cases declared. Declared assets: Rs 32,761,570. MPLADS utilization: 2.4%. Parliament attendance: 80.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ While Mohmad Haneefa maintains clean legal standing and moderate parliamentary a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mohmad Haneefa's MPLADS account: Released: Rs 16, Expended: Rs 0, Utilization: 2.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

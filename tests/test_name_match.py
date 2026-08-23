@@ -82,9 +82,20 @@ class TestNameMatches:
         # With high threshold, partial overlap may not match
         assert not name_matches("A B C D", "A B E F", min_confidence=0.9)
 
-    def test_default_threshold(self):
-        # 2 out of 3 tokens overlap = 66% > 60%
-        assert name_matches("Ram Kumar Singh", "Ram Kumar Verma", min_confidence=0.6)
+    def test_subset_match(self):
+        # Middle names missing on one side should still match
+        assert name_matches("Narendra Modi", "Narendra Damodardas Modi")
+
+    def test_reordered_tokens_match(self):
+        assert name_matches("Modi Narendra", "Narendra Modi")
+
+    def test_shared_common_tokens_no_match(self):
+        # Real distinct MPs from Jharkhand sharing 2 of 3 tokens
+        assert not name_matches("Kali Charan Munda", "Kali Charan Singh")
+
+    def test_partial_overlap_not_subset_no_match(self):
+        # 2/3 token overlap but neither name is a subset of the other
+        assert not name_matches("Ram Kumar Singh", "Ram Kumar Verma")
 
     def test_empty_strings(self):
         assert not name_matches("", "Manoj Tiwari")

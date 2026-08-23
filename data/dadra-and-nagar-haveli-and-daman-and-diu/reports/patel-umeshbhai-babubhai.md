@@ -3,32 +3,32 @@
 **Constituency:** Daman and Diu, Dadra And Nagar Haveli And Daman And Diu
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 43.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 35.0 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 14
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 14
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,20 +36,21 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 47.52 Lakh
+- **Liabilities:** Rs 4.07 Lakh
+- **Net Worth:** Rs 43.45 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
+- **Entitled:** Rs 25
+- **Released:** Rs 25
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Dadra And Nagar Haveli And Daman And Diu: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Patel shows mixed transparency performance with strong criminal record disclosure and good parliamentary attendance, but significant gaps in committee participation, legislative activities, and public accessibility. The moderate MPLADS and assets transparency, combined with zero committee and legislative scores, indicate selective engagement with transparency requirements.
+Patel Umeshbhai Babubhai has a below-average transparency score of 43.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Patel Umeshbhai Babubhai
-
-### Overall Assessment
-Patel Umeshbhai Babubhai, Independent MP representing Daman and Diu constituency in the Lok Sabha, presents a limited transparency profile with significant data gaps. With 85% parliamentary attendance and moderate legislative participation (30 questions, 15 debates), he demonstrates adequate engagement in core parliamentary duties. However, critical financial and developmental data remain unavailable, severely constraining comprehensive transparency assessment.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The CAG audit context reveals systemic concerns in the union territory, including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for this MP, it's impossible to assess whether these regional patterns apply to his constituency development efforts.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, with no information on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficiency, as asset declarations are mandatory for elected officials and crucial for public accountability. The monthly compensation is documented at Rs 2,45,000, providing the only available financial data point. Without baseline asset information, it's impossible to assess financial growth patterns or potential conflicts of interest.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings indicate low confidence in criminal record information due to potential source unavailability, suggesting this assessment may be incomplete rather than definitively clean.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with evidence grade 'C' for parliament activity. Attendance at 85% exceeds many parliamentary benchmarks, demonstrating consistent presence. Legislative participation includes 30 questions raised and 15 debate contributions, indicating moderate engagement in parliamentary discourse. However, zero private member bills introduced suggests limited initiative in proposing new legislation. No committee membership data is available, representing another transparency gap in assessing comprehensive parliamentary contribution.
-
-### Public Engagement & Accessibility
-Public visibility remains limited with low accessibility grade 'D'. News coverage analysis of 10 articles shows predominantly neutral sentiment (7 neutral, 1 positive, 2 negative), suggesting minimal public controversy but also limited positive visibility. The mixed coverage pattern indicates neither strong public criticism nor significant achievements gaining media attention. Social media presence appears minimal based on available sources, potentially limiting direct constituent engagement.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns. Criminal record data carries low confidence warnings due to source unavailability. Asset information shows low confidence levels, potentially indicating incomplete disclosure or data collection issues. MPLADS data is entirely missing with low confidence ratings. Committee membership information is unavailable, possibly due to inaccessible Sansad profiles. Legislative effectiveness data also shows low confidence levels. Evidence grades of 'C' for parliament and 'D' for accessibility reflect these systemic data quality issues.
-
-### Key Takeaway
-Patel Umeshbhai Babubhai's transparency profile is severely constrained by extensive data gaps across critical areas including assets, MPLADS utilization, and committee work. While maintaining clean criminal records and adequate parliamentary attendance, the absence of financial and developmental fund data prevents meaningful transparency assessment. The systemic audit concerns highlighted for his union territory underscore the importance of accessing complete MPLADS and asset data to ensure proper accountability. Improved data collection and disclosure mechanisms are essential for comprehensive evaluation of this Independent MP's performance and transparency standards.
+Has 14 criminal case(s) (0 serious), 14 pending, 0 conviction(s). Declared assets: Rs 4,752,198. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 15.
 
 ---
 
@@ -162,7 +136,7 @@ Patel Umeshbhai Babubhai's transparency profile is severely constrained by exten
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Patel Umeshbhai Babubhai's MPLADS account: Released: Rs 25. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

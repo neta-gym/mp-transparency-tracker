@@ -3,32 +3,34 @@
 **Constituency:** Nalgonda, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 44
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 41.5 / 100
+## Composite Transparency Score: 39.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 3.1 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 35.57 Crore
+- **Liabilities:** Rs 17.67 Crore
+- **Net Worth:** Rs 17.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 3.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Kunduru Raghuveer demonstrates a concerning transparency profile with significant gaps in public accountability. While maintaining a clean criminal record and moderate performance in MPLADS utilization and attendance, the MP shows zero engagement in parliamentary participation, committee work, and legislative activities, indicating limited active representation of constituents.
+Kunduru Raghuveer has a below-average transparency score of 39.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Kunduru Raghuveer
-
-### Overall Assessment
-
-Kunduru Raghuveer, representing Nalgonda constituency in Telangana as a member of the Indian National Congress, presents a mixed transparency profile with significant data gaps that limit comprehensive assessment. While maintaining a clean criminal record and moderate parliamentary attendance, the absence of critical financial and development fund data raises concerns about transparency accountability.
-
-### Fund Utilization & Development
-
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap, particularly concerning given the CAG audit context for Telangana revealing systemic issues including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper supporting documentation. The audit also identified that 18% of sampled development works were abandoned or incomplete, highlighting potential risks in fund management that cannot be assessed for this MP due to missing data.
-
-### Financial Transparency
-
-Asset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents assessment of potential conflicts of interest or wealth accumulation patterns. The MP's monthly compensation is documented at Rs 245,000, representing the standard parliamentary remuneration package.
-
-### Legal & Criminal Standing
-
-Raghuveer maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning indicating potential source unavailability, suggesting the clean record may reflect data gaps rather than comprehensive verification.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed results with 60% attendance rate, which falls below optimal standards for legislative participation. More concerning is the complete absence of recorded questions (0), debates (0), and private bills (0), suggesting minimal active contribution to parliamentary proceedings. No committee membership data is available, indicating either non-participation in parliamentary committees or incomplete data collection from official sources.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public engagement, with only 10 articles identified over the assessment period. The coverage breakdown shows predominantly neutral reporting (9 articles), one positive article, and no negative coverage, suggesting a low-profile public presence rather than active constituency engagement or policy advocacy.
-
-### Data Quality & Caveats
-
-This assessment faces significant limitations due to widespread data unavailability across multiple categories. Evidence grades are poor (Parliament: C, Accessibility: D), with automated flags indicating low confidence in criminal records, assets, and MPLADS data. The absence of committee information suggests potential unavailability of the MP's Sansad profile. Legislative effectiveness data also carries low confidence ratings. These gaps may reflect either genuine transparency deficits or systemic data collection challenges affecting comprehensive evaluation.
-
-### Key Takeaway
-
-Kunduru Raghuveer's transparency profile is characterized more by data absence than substantive assessment opportunities. While maintaining a clean criminal record and acceptable attendance rates, the complete lack of financial disclosure and development fund utilization data, combined with minimal parliamentary activity beyond attendance, suggests limited transparency and accountability. The systemic CAG audit findings for Telangana underscore the importance of MPLADS transparency, making the data gaps particularly concerning for constituency development oversight.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 355,731,499. MPLADS utilization: 3.9%. Parliament attendance: 60.0%. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Kunduru Raghuveer's transparency profile is characterized more by data absence t
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kunduru Raghuveer's MPLADS account: Released: Rs 16, Expended: Rs 1, Utilization: 3.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

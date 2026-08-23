@@ -3,32 +3,34 @@
 **Constituency:** Chikkballapur, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 50
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 56.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 13.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 33.42 Crore
+- **Liabilities:** Rs 20.34 Crore
+- **Net Worth:** Rs 13.07 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 16.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-K Sudhakar demonstrates mixed transparency performance with notable strengths in attendance (95%) and a clean criminal record, but faces significant challenges in committee participation (0%), legislative activity (0%), and public accessibility (10%). While his MPLADS utilization and asset disclosure are moderate at 50%, the extremely low data confidence (14%) and high validation flags (6) suggest substantial gaps in available information that limit comprehensive evaluation.
+K Sudhakar shows moderate transparency with a score of 56.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: K Sudhakar
-
-### Overall Assessment
-K Sudhakar, BJP MP from Chikkballapur constituency in Karnataka, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While maintaining excellent attendance at 95% and demonstrating active participation through 49 questions and 11 debates, substantial missing information regarding assets, MPLADS utilization, and development fund usage limits comprehensive assessment of his overall performance and transparency.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditure, or utilization percentages. This represents a critical transparency gap given that MPLADS is a key mechanism for constituency development. CAG audit findings reveal systemic issues in Karnataka's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising concerns about effective fund deployment in the constituency.
-
-### Financial Transparency
-Asset declaration transparency is severely compromised with no available data on total assets, previous holdings, growth ratios, or net worth calculations. This absence of financial disclosure information prevents assessment of wealth accumulation patterns or potential conflicts of interest. The MP's monthly compensation is recorded at Rs 2,45,000, but without baseline asset information, comprehensive financial accountability cannot be established.
-
-### Legal & Criminal Standing
-K Sudhakar maintains a clean criminal record with zero cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, data confidence is flagged as low, suggesting potential source unavailability issues that may affect the reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong quantitative metrics with 95% attendance rate, significantly above average performance standards. Active participation is evidenced through 49 questions raised and 11 debate contributions, indicating consistent engagement with legislative processes. However, no private member's bills were introduced, and committee participation data is unavailable, limiting assessment of broader legislative effectiveness and specialization areas.
-
-### Public Engagement & Accessibility
-Public engagement metrics show limited activity with 10 news articles providing mixed coverage - 8 neutral, 2 negative, and 0 positive stories. This suggests minimal proactive media engagement or public communication efforts. The evidence grade for accessibility is marked as 'D', indicating poor performance in constituent outreach and transparency mechanisms. No social media engagement metrics or public interaction data are available for comprehensive assessment.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data confidence is low due to potential source unavailability. Asset information shows low confidence levels, creating substantial transparency gaps. MPLADS data is entirely missing, preventing development fund accountability assessment. Committee participation information is unavailable, possibly due to Sansad profile accessibility issues. Legislative effectiveness data also shows low confidence ratings, limiting comprehensive performance evaluation.
-
-### Key Takeaway
-While K Sudhakar demonstrates strong parliamentary attendance and active questioning, critical transparency gaps in asset disclosure, MPLADS utilization, and public engagement severely limit accountability assessment. The systemic CAG audit findings regarding fund mismanagement in Karnataka, combined with missing constituency development data, raise concerns about effective resource utilization. Priority improvements needed include comprehensive asset disclosure, MPLADS transparency reporting, and enhanced public engagement mechanisms to meet modern parliamentary accountability standards.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 334,163,156. MPLADS utilization: 16.5%. Parliament attendance: 95.0%. Questions asked: 49. Debates participated: 11.
 
 ---
 
@@ -162,7 +138,7 @@ While K Sudhakar demonstrates strong parliamentary attendance and active questio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for K Sudhakar's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

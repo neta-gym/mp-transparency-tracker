@@ -3,23 +3,25 @@
 **Constituency:** Siwan, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Literate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 64.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 58.3 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.41 Crore
+- **Liabilities:** Rs 3.60 Lakh
+- **Net Worth:** Rs 4.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 62.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,50 +94,11 @@
 
 ## Qualitative Assessment
 
-Vijaylakshmi Devi shows a mixed transparency profile with strong performance in attendance (100%) and criminal record disclosure (100%), but significant weaknesses in legislative activity, committee participation, and public accessibility. The low data confidence (14%) and six validation flags suggest incomplete or unreliable information, making this assessment preliminary.
+Vijaylakshmi Devi shows moderate transparency with a score of 64.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Vijaylakshmi Devi
-
-### Overall Assessment
-
-Vijaylakshmi Devi, representing Siwan constituency in Bihar for Janata Dal (United), presents a mixed transparency profile marked by perfect parliamentary attendance but significant data gaps across key accountability metrics. Her profile shows strong attendance discipline but limited legislative engagement and concerning data unavailability across multiple transparency indicators.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is unavailable for MP Devi, marking a critical transparency gap. This is particularly concerning given the broader Bihar context revealed by CAG audits, which identified systemic issues including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documents. With 18% of sampled works remaining abandoned or incomplete statewide, the absence of specific MPLADS data for Siwan constituency prevents assessment of local development impact.
-
-### Financial Transparency
-
-Asset declaration information is completely unavailable, representing a major transparency deficit. Neither current total assets nor previous holdings are disclosed, making it impossible to assess financial growth, potential conflicts of interest, or compliance with asset declaration requirements. Her monthly compensation stands at Rs 2,45,000, but without baseline asset data, financial trajectory analysis is impossible.
-
-### Legal & Criminal Standing
-
-MP Devi maintains a clean criminal record with zero cases across all categories - no pending, disposed, serious cases, or convictions. However, confidence in this data is flagged as low, suggesting potential source limitations rather than definitively confirming a pristine record.
-
-### Parliamentary Performance
-
-Devi demonstrates exceptional attendance with 100% parliamentary presence, indicating strong commitment to legislative duties. However, her substantive engagement remains limited with only 10 questions raised, zero participation in debates, and no private member bills introduced. This suggests physical presence without corresponding active legislative participation or policy initiation.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement with 10 news articles, all categorized as neutral with no positive or negative coverage. This pattern suggests limited public visibility or controversial engagement. The evidence grade for accessibility is poor (D), indicating insufficient data on constituent interaction mechanisms, public meetings, or community engagement initiatives.
-
-### Data Quality & Caveats
-
-Multiple critical data quality warnings significantly impact assessment reliability:
-- Criminal record data confidence is low due to potentially unavailable sources
-- Asset information shows low confidence levels
-- MPLADS data reliability is questionable
-- No committee membership data found, suggesting incomplete Sansad profile availability
-- Legislative effectiveness data carries low confidence ratings
-
-The overall evidence grades are concerning: parliament activities rated C and accessibility rated D, indicating substantial information gaps.
-
-### Key Takeaway
-
-While Vijaylakshmi Devi maintains perfect parliamentary attendance and a clean criminal record, her transparency profile is severely hampered by missing critical data across assets, MPLADS utilization, and legislative engagement. The combination of limited substantive parliamentary participation, absent financial disclosures, and poor data availability raises transparency concerns that warrant enhanced disclosure and accountability measures.
+No criminal cases declared. Declared assets: Rs 44,130,032. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10.
 
 ---
 
@@ -177,7 +138,7 @@ While Vijaylakshmi Devi maintains perfect parliamentary attendance and a clean c
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vijaylakshmi Devi's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 62.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -273,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

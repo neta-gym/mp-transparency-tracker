@@ -3,32 +3,34 @@
 **Constituency:** Krishnanagar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 53.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 18.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.51 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 3.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 30% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 4
+- **Utilization Rate:** 23.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Mahua Moitra shows mixed transparency performance with strong attendance (95%) and clean criminal record, but faces significant challenges in legislative participation and committee engagement. Her low scores in accessibility, committee work, and legislative activities suggest limited public engagement and parliamentary effectiveness, despite maintaining good attendance records.
+Mahua Moitra shows moderate transparency with a score of 53.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Mahua Moitra
-
-### Overall Assessment
-Mahua Moitra, representing Krishnanagar constituency in West Bengal for the All India Trinamool Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining strong parliamentary attendance (95.0%), critical financial and development-related information remains unavailable, hampering full accountability assessment.
-
-### Fund Utilization & Development
-MPLADS (Member of Parliament Local Area Development Scheme) data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing constituency development impact. The CAG audit context reveals systemic concerns in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about project implementation oversight.
-
-### Financial Transparency
-Asset disclosure presents major transparency challenges with no available data on total assets, previous holdings, growth ratios, or net worth. This complete absence of financial information makes it impossible to assess wealth accumulation patterns or potential conflicts of interest. Monthly compensation is reported at Rs 2.45 lakh, representing standard MP remuneration.
-
-### Legal & Criminal Standing
-The criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), indicating a clean legal profile. However, data quality warnings suggest low confidence in criminal record information due to potentially unavailable sources, limiting the reliability of this assessment.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with excellent attendance at 95.0%, demonstrating consistent presence in the House. However, legislative activity appears limited with only 1 question raised, 3 debate participations, and no private member bills introduced. No committee participation data is available due to unavailable Sansad profiles, preventing assessment of detailed legislative work.
-
-### Public Engagement & Accessibility
-News coverage analysis reveals 10 articles with predominantly neutral tone (8 neutral, 2 negative, 0 positive), suggesting mixed public perception. The low evidence grade for accessibility (D) indicates limited transparency in public communication channels. Social media presence is noted as a data source but specific metrics are not provided.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence warnings
-- Asset information is completely unavailable
-- MPLADS data shows low confidence ratings
-- Committee participation data is missing due to unavailable Sansad profiles
-- Legislative effectiveness data has low confidence ratings
-- Parliament activity evidence grade is C, indicating moderate reliability
-- Overall accessibility evidence grade is D, suggesting poor transparency
-
-### Key Takeaway
-Mahua Moitra's transparency profile is severely limited by extensive data gaps, particularly in financial disclosures and development fund utilization. While maintaining strong parliamentary attendance and a clean criminal record, the absence of critical financial and MPLADS information, combined with systemic fund management issues highlighted in CAG audits for West Bengal, raises significant transparency concerns. Enhanced data availability and disclosure practices are essential for meaningful accountability assessment.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 35,067,166. MPLADS utilization: 23.3%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 3.
 
 ---
 
@@ -169,7 +138,7 @@ Mahua Moitra's transparency profile is severely limited by extensive data gaps, 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mahua Moitra's MPLADS account: Released: Rs 16, Expended: Rs 4, Utilization: 23.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

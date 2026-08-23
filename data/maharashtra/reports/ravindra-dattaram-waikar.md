@@ -3,32 +3,34 @@
 **Constituency:** Mumbai North West, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 21.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 54.50 Crore
+- **Liabilities:** Rs 4.48 Crore
+- **Net Worth:** Rs 50.02 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 4
+- **Utilization Rate:** 26.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Ravindra Dattaram Waikar shows a mixed transparency profile with excellent attendance and clean criminal record, but significant gaps in legislative activity and accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information availability, making comprehensive assessment challenging.
+Ravindra Dattaram Waikar shows moderate transparency with a score of 57.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Ravindra Dattaram Waikar
-
-### Overall Assessment
-
-Ravindra Dattaram Waikar (Shiv Sena, Mumbai North West) presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across key accountability metrics. While demonstrating high legislative engagement with 100% attendance and active questioning behavior, the absence of critical financial and developmental data raises transparency concerns for a constituency representing India's financial capital.
-
-### Fund Utilization & Development
-
-MPLADS data is completely unavailable, preventing assessment of Waikar's development fund utilization in Mumbai North West. This is particularly concerning given CAG audit findings highlighting systemic issues in Maharashtra's fund management. The 2010 CAG audit (Report 31) identified ₹1,558 crore in idle funds across district authorities, with 34% of utilization certificates lacking proper documentation and 18% of works remaining incomplete or abandoned. Without specific MPLADS data, voters cannot evaluate Waikar's effectiveness in addressing local infrastructure needs in this critical Mumbai constituency.
-
-### Financial Transparency
-
-Asset disclosure information is entirely missing, preventing any assessment of Waikar's financial background or potential conflicts of interest. With a monthly compensation of ₹2.45 lakh, standard for Lok Sabha MPs, there is no available data on his net worth, asset growth, or business interests. This complete absence of financial transparency data significantly limits public accountability, particularly for an MP representing a constituency with substantial commercial and industrial interests.
-
-### Legal & Criminal Standing
-
-Waikar shows a clean legal record with zero criminal cases (total, serious, pending, disposed, or convictions). However, confidence in this criminal record data is flagged as low, indicating potential data source limitations. While the available information suggests no legal issues, the warning about data reliability means this assessment should be treated with appropriate caution.
-
-### Parliamentary Performance
-
-Waikar demonstrates strong legislative engagement with exceptional 100% attendance in the Lok Sabha. His parliamentary activity includes 55 questions raised and participation in 14 debates, indicating active representation of constituency concerns. However, he has introduced zero private member's bills, suggesting limited initiative in proposing new legislation. Committee participation data is unavailable due to potential Sansad profile accessibility issues, limiting assessment of his contribution to parliamentary committee work.
-
-### Public Engagement & Accessibility
-
-Public engagement assessment is severely constrained by limited data availability. News coverage shows 10 neutral articles with no positive or negative sentiment, suggesting minimal media visibility or impact. Social media and direct public engagement metrics are not available. The evidence grade for accessibility is rated 'D', indicating poor transparency in public communication and engagement mechanisms.
-
-### Data Quality & Caveats
-
-This assessment faces significant data quality limitations across multiple domains. Key caveats include:
-
-- **Asset Information**: Complete absence of financial disclosure data
-- **MPLADS**: No fund utilization data available despite critical importance for development assessment
-- **Criminal Records**: Low confidence warning suggests potential data source issues
-- **Committee Work**: Unavailable due to Sansad profile accessibility problems
-- **Legislative Effectiveness**: Low confidence rating limits assessment reliability
-
-The parliament activity evidence grade of 'C' and accessibility grade of 'D' indicate substantial transparency gaps. Data sources include PRS, social media monitoring, and news analysis, but coverage appears incomplete.
-
-### Key Takeaway
-
-While Waikar maintains excellent parliamentary attendance and demonstrates basic legislative engagement through questions and debates, his transparency profile suffers from critical data gaps that prevent comprehensive accountability assessment. The complete absence of asset disclosure and MPLADS utilization data, combined with Maharashtra's documented fund management challenges, raises significant transparency concerns. Voters in Mumbai North West lack essential information to evaluate their MP's financial integrity and development fund effectiveness, undermining democratic accountability despite his strong attendance record.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 545,049,854. MPLADS utilization: 26.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 14.
 
 ---
 
@@ -178,7 +138,7 @@ While Waikar maintains excellent parliamentary attendance and demonstrates basic
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ravindra Dattaram Waikar's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

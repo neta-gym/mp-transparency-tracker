@@ -3,23 +3,23 @@
 **Constituency:** Sriperumbudur, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 20.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 45.73 Crore
+- **Liabilities:** Rs 8.06 Crore
+- **Net Worth:** Rs 37.67 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 20
+- **Released:** Rs 20
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 26.1%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-T R Baalu shows a mixed transparency profile with significant weaknesses in key areas. While maintaining clean criminal records and reasonable attendance, he demonstrates poor performance in committee participation, accessibility to constituents, and legislative contributions. The low data confidence of 14% and multiple validation flags suggest incomplete reporting across several transparency metrics.
+T R Baalu shows moderate transparency with a score of 57.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: T R Baalu
-
-### Overall Assessment
-T R Baalu, representing Sriperumbudur constituency in Tamil Nadu for the Dravida Munnetra Kazhagam (DMK), presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), significant data gaps across multiple transparency dimensions limit comprehensive evaluation of his performance as an MP.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, preventing assessment of the MP's development fund utilization. This is particularly concerning given Tamil Nadu's systemic MPLADS implementation challenges identified in CAG audits, including Rs 1,558 crore in idle funds across district authorities and widespread issues with utilization certificates. Without specific data on Baalu's allocation, release, and expenditure figures, constituents cannot evaluate his effectiveness in driving local development projects.
-
-### Financial Transparency
-Asset disclosure information is completely absent from available records. No data exists on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected officials and provide crucial insights into potential conflicts of interest. The MP's monthly compensation stands at Rs 245,000, but without baseline asset information, tracking financial changes during tenure is impossible.
-
-### Legal & Criminal Standing
-T R Baalu maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, data quality warnings indicate low confidence in criminal record sources, suggesting verification challenges that may affect the reliability of this clean profile.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate effectiveness with 85% attendance, significantly above many MPs' performance levels. Baalu has raised 32 questions and participated in 4 debates, indicating active engagement in legislative processes. However, he has introduced zero private member bills, suggesting limited legislative initiative. No committee membership data is available, which limits assessment of his specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - no positive or negative coverage identified. This suggests either low media visibility or balanced reporting that doesn't strongly favor or criticize the MP's performance. The absence of social media or direct accessibility data prevents evaluation of constituent engagement channels. Evidence grading shows particularly poor accessibility metrics (Grade D), indicating significant barriers to public interaction.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence due to potential source unavailability. Asset information shows low confidence ratings. MPLADS data is entirely missing despite being crucial for development assessment. Committee participation data is unavailable, possibly due to Sansad profile access issues. Legislative effectiveness data also carries low confidence ratings. These gaps collectively limit comprehensive transparency evaluation.
-
-### Key Takeaway
-While T R Baalu demonstrates clean criminal credentials and reasonable parliamentary attendance, extensive data gaps across financial disclosure, development fund utilization, and public accessibility severely hamper transparency assessment. The absence of MPLADS data is particularly problematic given Tamil Nadu's documented fund utilization challenges. Improved data availability and proactive disclosure would significantly enhance his transparency profile and public accountability.
+No criminal cases declared. Declared assets: Rs 457,302,056. MPLADS utilization: 26.1%. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4.
 
 ---
 
@@ -162,7 +136,7 @@ While T R Baalu demonstrates clean criminal credentials and reasonable parliamen
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for T R Baalu's MPLADS account: Released: Rs 20, Expended: Rs 5, Utilization: 26.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

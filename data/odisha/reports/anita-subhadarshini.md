@@ -6,23 +6,23 @@
 **Age:** 52
 **Education:** Post Graduate
 **Profession:** Coaching And Advocate
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 52.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 4.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.58 Crore
-- **Immovable Assets:** Rs 90.00 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 2.48 Crore
 - **Liabilities:** Rs 10.00 Lakh
 - **Net Worth:** Rs 2.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 1
+- **Utilization Rate:** 5.3%
 
 ---
 
@@ -86,7 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -95,35 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Anita Subhadarshini shows a mixed transparency profile with concerning gaps in key areas. While maintaining a clean criminal record and decent attendance, she demonstrates significant deficiencies in committee participation, accessibility measures, and legislative contributions, resulting in a below-average overall score.
+Anita Subhadarshini shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Anita Subhadarshini
-
-### Overall Assessment
-Anita Subhadarshini, the 52-year-old BJP MP representing Aska constituency in Odisha, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating decent parliamentary attendance, significant data gaps exist regarding fund utilization and committee participation. Her financial disclosures show substantial assets, though growth patterns cannot be assessed due to missing baseline data.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The broader context is concerning, as CAG audits reveal systemic issues in Odisha including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting potential implementation challenges in the state.
-
-### Financial Transparency
-Subhadarshini declared total assets of Rs 2.48 crore with a net worth of Rs 2.38 crore, indicating minimal liabilities. However, the absence of previous asset declarations prevents any assessment of wealth growth or potential discrepancies. Her monthly compensation totals Rs 2.45 lakh. The financial transparency receives a 'B' evidence grade, suggesting reasonable data quality despite the missing baseline comparison.
-
-### Legal & Criminal Standing
-The MP maintains an exemplary legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. This clean slate provides confidence in her legal standing and eliminates concerns about criminal liability affecting her legislative duties.
-
-### Parliamentary Performance
-Subhadarshini demonstrates moderate engagement with 75% attendance in parliamentary sessions, which is reasonable though not exceptional. She has asked 10 questions and participated in 5 debates, showing active involvement in legislative discussions. However, she has not introduced any private member bills, indicating limited initiative in proposing new legislation. Critically, no committee membership data is available, representing a significant gap in assessing her policy development contributions.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 9 articles with neutral sentiment - no positive or negative coverage identified. This neutral profile suggests limited public visibility or controversial engagement. The lack of accessible communication channels or public outreach data receives a 'D' evidence grade, indicating poor transparency in this domain. Her background as a post-graduate with experience in coaching and legal practice provides relevant professional credentials.
-
-### Data Quality & Caveats
-Several significant limitations affect this assessment. MPLADS data carries low confidence warnings, committee participation information is entirely missing, and legislative effectiveness data has limited reliability. The assets evidence receives a 'B' grade while parliamentary activity data rates 'C', indicating moderate reliability. Sources include myneta, PRS, social media, and news outlets, though data completeness varies significantly across domains.
-
-### Key Takeaway
-While Subhadarshini maintains clean legal standing and reasonable parliamentary attendance, critical transparency gaps in fund utilization, committee work, and public engagement limit comprehensive assessment. The missing MPLADS data is particularly concerning given systemic fund management issues identified by CAG audits in Odisha. Improved disclosure of development fund usage and committee contributions would significantly enhance her transparency profile.
+No criminal cases declared. Declared assets: Rs 24,799,399. MPLADS utilization: 5.3%. Parliament attendance: 75.0%. Questions asked: 10. Debates participated: 5. 1 warning(s) noted.
 
 ---
 
@@ -163,7 +140,7 @@ While Subhadarshini maintains clean legal standing and reasonable parliamentary 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -242,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Anita Subhadarshini's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -261,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

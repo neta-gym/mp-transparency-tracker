@@ -3,23 +3,25 @@
 **Constituency:** Singhbhum, Jharkhand
 **Party:** Jharkhand Mukti Morcha
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 25.3 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.29 Crore
+- **Liabilities:** Rs 6.20 Lakh
+- **Net Worth:** Rs 2.22 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Joba Majhi demonstrates a mixed transparency profile with a below-average overall score of 45/100. While maintaining a clean criminal record (100/100) and moderate performance in MPLADS utilization and asset disclosure, significant weaknesses emerge in legislative participation, committee involvement, and public accessibility. The very low data confidence (14%) and multiple validation flags suggest limited available information, which itself indicates poor transparency practices.
+Joba Majhi shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Joba Majhi
-
-### Overall Assessment
-
-Joba Majhi, representing Singhbhum constituency in Jharkhand as a Jharkhand Mukti Morcha MP, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record and moderate parliamentary attendance (55%), substantial gaps exist in financial disclosure data, making comprehensive assessment challenging. The MP's parliamentary engagement shows room for improvement with limited legislative activity.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is unavailable, preventing assessment of development work effectiveness. This data gap is concerning given CAG audit findings highlighting systemic issues in Jharkhand's fund management. The CAG has identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of utilization certificates lacking proper documentation and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Majhi's constituency, it's impossible to determine whether these state-wide issues affect Singhbhum's development projects.
-
-### Financial Transparency
-
-Asset disclosure presents a complete data void - both current and previous asset values are unavailable, making wealth assessment impossible. Growth ratios and net worth calculations cannot be performed due to missing baseline data. The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, but without asset declarations, questions remain about financial transparency compliance. This represents a significant accountability gap that affects public trust and transparency benchmarks.
-
-### Legal & Criminal Standing
-
-Majhi maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal standing positions the MP favorably compared to many parliamentary colleagues where criminal cases are common. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification processes.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate activity levels with 55% attendance, falling short of optimal participation standards. Legislative contributions are limited - 11 questions raised, 2 debate participations, and zero private member bills introduced. This activity level suggests below-average parliamentary engagement compared to active legislators. No committee membership data is available, preventing assessment of specialized parliamentary work. The evidence grade of 'C' for parliamentary performance indicates mediocre engagement levels.
-
-### Public Engagement & Accessibility
-
-Media presence reflects neutral public engagement with 10 news articles showing balanced coverage (no positive or negative sentiment detected). This neutral profile suggests limited public visibility or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent communication channels. Social media presence appears minimal based on available data sources.
-
-### Data Quality & Caveats
-
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record confidence is flagged as low due to potential source unavailability. Asset data shows low confidence levels, creating substantial transparency gaps. MPLADS utilization data is completely unavailable, preventing development work evaluation. Committee participation data is missing due to potential Sansad profile unavailability. Legislative effectiveness assessment carries low confidence ratings. These limitations mean this profile represents only partial transparency evaluation rather than comprehensive assessment.
-
-### Key Takeaway
-
-Joba Majhi's transparency profile suffers from critical data gaps that prevent full accountability assessment. While maintaining clean criminal records and moderate parliamentary attendance, significant concerns arise from missing asset disclosures and unavailable development fund utilization data. The neutral media presence and poor accessibility ratings suggest limited public engagement. Improving data disclosure compliance and parliamentary participation would enhance transparency standing and constituent service delivery.
+No criminal cases declared. Declared assets: Rs 22,860,659. MPLADS utilization: 31.6%. Parliament attendance: 55.0%. Questions asked: 11. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ Joba Majhi's transparency profile suffers from critical data gaps that prevent f
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Joba Majhi's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

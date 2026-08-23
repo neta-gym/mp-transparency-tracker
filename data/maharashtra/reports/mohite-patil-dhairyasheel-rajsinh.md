@@ -3,32 +3,34 @@
 **Constituency:** Madha, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 36.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 3.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 36
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 36
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 48.94 Crore
+- **Liabilities:** Rs 20.50 Crore
+- **Net Worth:** Rs 28.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 20
+- **Released:** Rs 20
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.5%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Mohite Patil shows mixed transparency performance with strong attendance (95%) and a clean criminal record, but faces significant gaps in committee participation, public accessibility, and legislative activity disclosure. The moderate MPLADS and assets transparency, combined with zero scores in key areas like committee work and legislative contributions, suggests inconsistent engagement with transparency practices.
+Mohite Patil Dhairyasheel Rajsinh has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Mohite Patil Dhairyasheel Rajsinh
-
-### Overall Assessment
-MP Mohite Patil Dhairyasheel Rajsinh from Madha constituency (Maharashtra) represents the Nationalist Congress Party - Sharadchandra Pawar in the Lok Sabha. His transparency profile shows strong parliamentary attendance but significant data gaps across multiple critical areas including financial assets, MPLADS utilization, and committee participation. With limited public information available, a comprehensive assessment of his effectiveness remains challenging.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing the MP's development work in Madha constituency. The CAG audit context reveals systemic issues in Maharashtra's fund utilization, including Rs 1,558 crore lying idle in district authorities' accounts, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These findings highlight broader concerns about development fund management that may affect constituency-level implementation.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data available on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data prevents any assessment of wealth accumulation or potential conflicts of interest. The MP receives the standard monthly compensation of Rs 2,45,000, but without asset declarations, a complete financial picture cannot be established.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a warning about low confidence levels, suggesting the source information may be unreliable or unavailable. While the current data indicates no legal issues, the data quality concerns require careful interpretation.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance with 95% participation in parliamentary sessions, significantly above average attendance rates. He has actively engaged in questioning the government with 66 questions raised, showing commitment to oversight functions. However, his participation in debates remains minimal with only 1 recorded contribution, and he has introduced no private member bills. The absence of committee membership data (flagged as unavailable due to potential Sansad profile issues) limits assessment of his legislative work beyond the main chamber.
-
-### Public Engagement & Accessibility
-Media coverage remains neutral with 9 articles providing mixed/neutral coverage and no distinctly positive or negative sentiment. The limited media presence suggests either low public visibility or measured public relations approach. However, accessibility receives a 'D' grade, indicating potential challenges in public engagement or information availability. No committee participation data further suggests limited visible engagement in specialized legislative work.
-
-### Data Quality & Caveats
-This profile contains significant data reliability concerns across multiple domains. Asset information is entirely missing, MPLADS data is unavailable despite being crucial for constituency development assessment, and criminal record data carries low confidence warnings. Committee membership information is absent due to potential Sansad profile unavailability. Parliament performance data receives a 'C' grade while accessibility scores 'D', indicating moderate to poor data quality. These limitations significantly constrain the ability to provide a comprehensive transparency assessment.
-
-### Key Takeaway
-MP Mohite Patil Dhairyasheel Rajsinh shows commitment to parliamentary attendance (95%) and government oversight through questioning (66 questions), but his transparency profile is severely hampered by missing data across critical areas including assets, MPLADS utilization, and committee work. While maintaining a clean criminal record, the absence of financial disclosures and development fund information raises transparency concerns. The systemic fund utilization issues identified in Maharashtra's CAG audits underscore the importance of proper MPLADS monitoring, making the lack of this data particularly concerning for constituency accountability.
+Has 36 criminal case(s) (0 serious), 36 pending, 0 conviction(s). Declared assets: Rs 489,434,188. MPLADS utilization: 4.5%. Parliament attendance: 95.0%. Questions asked: 66. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ MP Mohite Patil Dhairyasheel Rajsinh shows commitment to parliamentary attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mohite Patil Dhairyasheel Rajsinh's MPLADS account: Released: Rs 20, Expended: Rs 1, Utilization: 4.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

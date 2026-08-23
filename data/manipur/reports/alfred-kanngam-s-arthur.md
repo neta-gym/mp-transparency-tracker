@@ -6,23 +6,23 @@
 **Age:** 50
 **Education:** 12th Pass
 **Profession:** Social Worker and Agriculturist
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 43.0 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 44.2 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.82 Crore
-- **Immovable Assets:** Rs 53.71 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 55.53 Crore
 - **Liabilities:** Rs 44.00 Lakh
 - **Net Worth:** Rs 55.09 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 52.8%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Manipur: 7 relevant findings
@@ -95,42 +95,11 @@
 
 ## Qualitative Assessment
 
-Alfred Kanngam S Arthur demonstrates mixed transparency performance with a concerning overall score of 43/100. While he maintains a clean criminal record and shows moderate performance in MPLADS utilization and asset disclosure, he has significant deficiencies in legislative participation, committee involvement, and public accessibility that severely impact his transparency profile.
+Alfred Kanngam S Arthur shows moderate transparency with a score of 54.8/100. No criminal cases declared. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Alfred Kanngam S Arthur
-
-### Overall Assessment
-Alfred Kanngam S Arthur, the 50-year-old Indian National Congress MP representing Outer Manipur, presents a mixed transparency profile. While maintaining a clean legal record and substantial declared assets, significant data gaps limit comprehensive assessment of his parliamentary effectiveness and development fund utilization. His educational background (12th Pass) and profession as a social worker and agriculturist align with his constituency's demographic profile.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization percentages. This represents a critical transparency gap for assessing development impact. The CAG audit context reveals systemic issues in Manipur's fund management, including Rs 1,558 crore in idle funds across district authorities and concerning patterns of incomplete works (18% of sampled projects) and questionable utilization certificates (34% lacking proper documentation). Without specific MPLADS data, it's impossible to assess Arthur's performance against these regional benchmarks.
-
-### Financial Transparency
-Arthur declares total assets of Rs 55.53 crore with a net worth of Rs 55.09 crore, indicating minimal liabilities. However, the absence of previous asset data prevents growth analysis, limiting assessment of wealth accumulation patterns during his tenure. His monthly compensation stands at Rs 2.45 lakh. The substantial asset base raises questions about wealth sources and growth, which cannot be evaluated without historical data. Asset declaration appears complete with a 'B' evidence grade, suggesting reasonable data quality.
-
-### Legal & Criminal Standing
-Arthur maintains an exemplary legal record with zero criminal cases across all categories—no pending cases, serious charges, disposed matters, or convictions. This clean record enhances his credibility and public trust, particularly important for a constituency representative. The 'B' evidence grade for criminal record data suggests reliable information quality.
-
-### Parliamentary Performance
-Arthur's parliamentary engagement shows concerning patterns with 55% attendance, falling below optimal standards for constituency representation. His legislative activity is minimal, with zero questions raised, only two debate participations, and no private member bills introduced. This low activity level (evidence grade 'C') suggests limited proactive engagement in parliamentary processes. Committee participation data is unavailable, further limiting assessment of his legislative effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public sentiment with 10 articles (1 positive, 0 negative, 9 neutral), indicating limited public discourse around his work. The absence of significant positive or negative coverage suggests either low media engagement or unremarkable performance. Social media and direct public engagement metrics are not available, limiting assessment of grassroots connectivity. The 'D' evidence grade for accessibility indicates substantial data limitations in this area.
-
-### Data Quality & Caveats
-Several critical data limitations affect this assessment:
-- MPLADS utilization data completely unavailable (low confidence warning)
-- No historical asset data preventing growth analysis
-- Committee participation information missing
-- Limited parliamentary effectiveness data (low confidence)
-- No previous term comparison data available
-
-Evidence grades vary significantly (B for criminal/assets, C for parliament, D for accessibility), indicating uneven data quality across transparency dimensions. The myneta, PRS, social media, and news sources provide partial coverage but insufficient comprehensive assessment.
-
-### Key Takeaway
-Alfred Kanngam S Arthur maintains basic transparency standards with clean legal records and proper asset declarations, but significant data gaps—particularly in MPLADS utilization and parliamentary effectiveness—prevent comprehensive evaluation of his constituency service. His 55% parliamentary attendance and minimal legislative activity, combined with neutral media coverage, suggest a low-profile approach that may not fully serve his constituents' interests. The systemic fund management issues identified in Manipur's CAG audits underscore the importance of transparent MPLADS reporting, making the absence of this data particularly concerning for development accountability.
+No criminal cases declared. Declared assets: Rs 555,326,115. MPLADS utilization: 52.8%. Parliament attendance: 55.0%. Debates participated: 2.
 
 ---
 
@@ -170,7 +139,7 @@ Alfred Kanngam S Arthur maintains basic transparency standards with clean legal 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Alfred Kanngam S Arthur's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 52.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -268,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -6,22 +6,22 @@
 **Age:** 58
 **Education:** Graduate Professional
 **Profession:** Advocate
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 59.0 / 100
+## Composite Transparency Score: 61.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 8.81 Crore
-- **Immovable Assets:** Rs 20.87 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 29.68 Crore
-- **Liabilities:** Rs 2.58 Crore
-- **Net Worth:** Rs 27.11 Crore
+- **Liabilities:** Rs 2.50 Crore
+- **Net Worth:** Rs 27.18 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 18
+- **Released:** Rs 18
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.1%
 
 ---
 
@@ -94,7 +95,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chandigarh: 7 relevant findings
@@ -103,35 +103,11 @@
 
 ## Qualitative Assessment
 
-Manish Tewari demonstrates mixed transparency performance with a moderate overall score of 59/100. While he shows strong attendance (95%) and clean criminal record (100%), significant weaknesses exist in committee participation (0%) and accessibility (10%). The low data confidence (36%) and multiple validation flags suggest incomplete transparency reporting.
+Manish Tewari shows moderate transparency with a score of 61.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Manish Tewari
-
-### Overall Assessment
-Manish Tewari, the 58-year-old Congress MP representing Chandigarh, presents a mixed transparency profile characterized by strong parliamentary attendance and clean criminal record, but limited data availability across key accountability metrics. As an advocate-turned-politician, Tewari demonstrates active legislative participation with 95% attendance, though his broader development impact remains difficult to assess due to incomplete MPLADS and committee data.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a significant transparency gap for assessing Tewari's constituency development impact. CAG audit findings reveal systemic issues in fund management across districts, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising concerns about project implementation effectiveness in his constituency region.
-
-### Financial Transparency
-Tewari declares total assets worth ₹29.68 crore with a net worth of ₹27.11 crore, positioning him among higher-asset MPs. However, the absence of previous asset declaration data prevents assessment of wealth growth patterns or potential conflicts of interest. His monthly compensation totals ₹2.45 lakh. The asset data receives a 'B' evidence grade, indicating reasonable reliability but some limitations in historical comparison capabilities.
-
-### Legal & Criminal Standing
-Tewari maintains an exemplary legal record with zero criminal cases—no pending charges, disposed cases, or convictions. This clean criminal profile, graded 'B' for evidence quality, represents a significant positive factor in his transparency assessment and distinguishes him from many peers in Indian politics where criminal cases are common.
-
-### Parliamentary Performance
-Tewari demonstrates strong parliamentary engagement with 95% attendance, well above average for Indian MPs. He has raised 37 questions, participated in 10 debates, and introduced 3 private member bills, indicating active legislative participation. However, his record shows zero interventions in zero hour discussions and no special mentions, suggesting limited use of some parliamentary mechanisms for constituency issues. The parliamentary performance data receives a 'C' evidence grade, reflecting moderate confidence levels.
-
-### Public Engagement & Accessibility
-Public engagement metrics reveal significant limitations. News sentiment analysis across 10 articles shows entirely neutral coverage with no positive or negative stories, suggesting limited media visibility or public discourse engagement. No committee membership data is available, indicating either non-participation in parliamentary committees or data availability issues. The accessibility assessment receives a 'D' evidence grade, highlighting substantial gaps in public engagement transparency.
-
-### Data Quality & Caveats
-Multiple data quality warnings affect this assessment's comprehensiveness. MPLADS data carries low confidence ratings, preventing evaluation of development fund utilization—a critical accountability metric. Committee participation data is entirely absent, possibly due to unavailable Sansad profile information. Legislative effectiveness data also carries low confidence ratings, limiting assessment of policy impact. These gaps significantly constrain the ability to provide a complete transparency evaluation.
-
-### Key Takeaway
-Manish Tewari presents a parliamentarian with strong attendance and clean legal standing but significant transparency gaps in development fund utilization and public engagement. While his 95% parliamentary attendance and zero criminal cases represent positive accountability indicators, the complete absence of MPLADS data and limited committee information prevent comprehensive assessment of his constituency service effectiveness. Voters seeking transparency should note these data limitations when evaluating his overall performance as their representative.
+No criminal cases declared. Declared assets: Rs 296,842,688. MPLADS utilization: 10.1%. Parliament attendance: 95.0%. Questions asked: 37. Debates participated: 10.
 
 ---
 
@@ -171,7 +147,7 @@ Manish Tewari presents a parliamentarian with strong attendance and clean legal 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +226,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manish Tewari's MPLADS account: Released: Rs 18, Expended: Rs 2, Utilization: 10.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -269,9 +247,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

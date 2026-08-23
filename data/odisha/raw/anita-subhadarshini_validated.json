@@ -14,7 +14,7 @@
     "education": "Post Graduate",
     "profession": "Coaching And Advocate",
     "age": 52,
-    "photo_url": "https://myneta.info/images_candidate/LokSabha2024/6c44fdb83405e3508fba2b672d9a814bcb98e50b.jpg"
+    "photo_url": "/mp-photos/5597.jpg"
   },
   "findings": {
     "mp": {
@@ -32,7 +32,7 @@
       "education": "Post Graduate",
       "profession": "Coaching And Advocate",
       "age": 52,
-      "photo_url": "https://myneta.info/images_candidate/LokSabha2024/6c44fdb83405e3508fba2b672d9a814bcb98e50b.jpg"
+      "photo_url": "/mp-photos/5597.jpg"
     },
     "criminal_record": {
       "total_cases": 0,
@@ -42,20 +42,12 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.7,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:28:42.786057Z",
-          "notes": "MyNeta candidate affidavit data"
-        }
-      ]
+      "confidence": 0.8,
+      "sources": []
     },
     "assets": {
-      "movable_assets": 15799398.79,
-      "immovable_assets": 9000000.0,
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
       "total_assets": 24799399.0,
       "liabilities": 1000000.0,
       "net_worth": 23799399.0,
@@ -66,58 +58,44 @@
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T14:28:42.798107Z",
-          "notes": "MyNeta candidate affidavit data"
+          "fetched_at": "2026-08-22T20:01:50.663046Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 22.4,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 4.97,
+      "expended": 0.78,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in",
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.640219Z",
-          "notes": "eSAKSHI data not available — all fetch strategies failed"
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-05-21T14:28:41.097687Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-05-21T14:28:41.094928Z",
-          "notes": "MPLADS data unavailable — dataset covers 12th-16th Lok Sabha only"
+          "fetched_at": "2026-05-23T17:37:23.156342Z",
+          "notes": "Official eSAKSHI REST API — Works: 140 recommended, 140 sanctioned, 13 completed"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 140,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "Constituency-level MPLADS figures for the 18th Lok Sabha are not published in a consistently accessible machine-readable source at this time. The legacy MoSPI/data.gov.in dataset covers older Lok Sabha terms and the eSAKSHI portal is treated as unavailable unless a per-constituency record is positively matched. This profile therefore marks MPLADS as unavailable rather than estimating fund amounts. Use the RTI template below for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 5.306122448979592
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -146,14 +124,16 @@
       "myneta",
       "prs",
       "social_media",
-      "news"
+      "news",
+      "mplads"
     ],
     "collected_at": "2026-05-21T14:29:44.640423Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D"
+      "accessibility": "D",
+      "mplads": "A"
     },
     "cag_findings": [
       {
@@ -168,7 +148,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645784Z",
+          "fetched_at": "2026-08-23T16:44:19.623526Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -184,7 +164,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645798Z",
+          "fetched_at": "2026-08-23T16:44:19.623538Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -200,7 +180,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645805Z",
+          "fetched_at": "2026-08-23T16:44:19.623545Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -216,7 +196,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645811Z",
+          "fetched_at": "2026-08-23T16:44:19.623555Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -232,7 +212,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645817Z",
+          "fetched_at": "2026-08-23T16:44:19.623561Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -248,7 +228,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645822Z",
+          "fetched_at": "2026-08-23T16:44:19.623566Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -264,7 +244,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-05-21T14:29:44.645827Z",
+          "fetched_at": "2026-08-23T16:44:19.623571Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -419,11 +399,11 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.36,
+  "overall_confidence": 0.5,
   "flags": [
     {
       "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
+      "issue": "Extremely low utilization rate — verify data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -446,74 +426,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "## Executive Summary: Anita Subhadarshini\n\n### Overall Assessment\nAnita Subhadarshini, the 52-year-old BJP MP representing Aska constituency in Odisha, presents a mixed transparency profile. While maintaining a clean criminal record and demonstrating decent parliamentary attendance, significant data gaps exist regarding fund utilization and committee participation. Her financial disclosures show substantial assets, though growth patterns cannot be assessed due to missing baseline data.\n\n### Fund Utilization & Development\nMPLADS data is entirely unavailable, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given the scheme's importance for constituency development. The broader context is concerning, as CAG audits reveal systemic issues in Odisha including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting potential implementation challenges in the state.\n\n### Financial Transparency\nSubhadarshini declared total assets of Rs 2.48 crore with a net worth of Rs 2.38 crore, indicating minimal liabilities. However, the absence of previous asset declarations prevents any assessment of wealth growth or potential discrepancies. Her monthly compensation totals Rs 2.45 lakh. The financial transparency receives a 'B' evidence grade, suggesting reasonable data quality despite the missing baseline comparison.\n\n### Legal & Criminal Standing\nThe MP maintains an exemplary legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. This clean slate provides confidence in her legal standing and eliminates concerns about criminal liability affecting her legislative duties.\n\n### Parliamentary Performance\nSubhadarshini demonstrates moderate engagement with 75% attendance in parliamentary sessions, which is reasonable though not exceptional. She has asked 10 questions and participated in 5 debates, showing active involvement in legislative discussions. However, she has not introduced any private member bills, indicating limited initiative in proposing new legislation. Critically, no committee membership data is available, representing a significant gap in assessing her policy development contributions.\n\n### Public Engagement & Accessibility\nMedia coverage analysis reveals 9 articles with neutral sentiment - no positive or negative coverage identified. This neutral profile suggests limited public visibility or controversial engagement. The lack of accessible communication channels or public outreach data receives a 'D' evidence grade, indicating poor transparency in this domain. Her background as a post-graduate with experience in coaching and legal practice provides relevant professional credentials.\n\n### Data Quality & Caveats\nSeveral significant limitations affect this assessment. MPLADS data carries low confidence warnings, committee participation information is entirely missing, and legislative effectiveness data has limited reliability. The assets evidence receives a 'B' grade while parliamentary activity data rates 'C', indicating moderate reliability. Sources include myneta, PRS, social media, and news outlets, though data completeness varies significantly across domains.\n\n### Key Takeaway\nWhile Subhadarshini maintains clean legal standing and reasonable parliamentary attendance, critical transparency gaps in fund utilization, committee work, and public engagement limit comprehensive assessment. The missing MPLADS data is particularly concerning given systemic fund management issues identified by CAG audits in Odisha. Improved disclosure of development fund usage and committee contributions would significantly enhance her transparency profile.",
-  "validated_at": "2026-05-21T14:30:03.326742Z",
-  "assets": {
-    "total_assets": 24799399.0,
-    "liabilities": 1000000.0,
-    "net_worth": 23799399.0,
-    "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ]
-  },
-  "criminal_record": {
-    "total_cases": 0,
-    "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 0,
-    "disposed_cases": 0,
-    "source": "myneta",
-    "confidence": 0.75,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
-        "source_name": "myneta",
-        "grade": "B",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
-      }
-    ]
-  },
-  "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
-  },
-  "sources_consulted": [
-    "myneta",
-    "mplads"
-  ],
-  "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.97,
-    "expended": 0.78,
-    "source": "esakshi",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-        "source_name": "esakshi",
-        "grade": "A",
-        "fetched_at": "2026-05-23T17:37:23.156342Z",
-        "notes": "Official eSAKSHI REST API — Works: 140 recommended, 140 sanctioned, 13 completed"
-      }
-    ],
-    "works": [],
-    "works_count": 140,
-    "esakshi_coverage_start": "2023-04-01",
-    "period_data": [],
-    "cumulative_entitled": null,
-    "cumulative_released": null,
-    "cumulative_expended": null,
-    "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.306122448979592
-  }
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 24,799,399. MPLADS utilization: 5.3%. Parliament attendance: 75.0%. Questions asked: 10. Debates participated: 5. 1 warning(s) noted.",
+  "validated_at": "2026-08-23T16:44:19.624472Z"
 }

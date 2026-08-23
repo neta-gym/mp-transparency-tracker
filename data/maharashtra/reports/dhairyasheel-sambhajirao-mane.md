@@ -3,23 +3,25 @@
 **Constituency:** Hatkanangle, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 43
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.51 Crore
+- **Liabilities:** Rs 1.00 Crore
+- **Net Worth:** Rs 3.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.4%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Dhairyasheel Sambhajirao Mane demonstrates a mixed transparency profile with notable strengths in criminal record transparency (100%) and reasonable performance in parliamentary participation (70%) and attendance (65%). However, significant weaknesses exist in committee involvement (0%), legislative activity (0%), and public accessibility (10%), which substantially impact overall transparency.
+Dhairyasheel Sambhajirao Mane shows moderate transparency with a score of 52.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Dhairyasheel Sambhajirao Mane
-
-### Overall Assessment
-
-Dhairyasheel Sambhajirao Mane, representing the Hatkanangle constituency in Maharashtra as a Shiv Sena MP in the Lok Sabha, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance, the absence of critical financial data raises concerns about overall transparency accountability.
-
-### Fund Utilization & Development
-
-MPLADS data is entirely unavailable for MP Mane, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap given Maharashtra's documented systemic issues with fund management. CAG audits reveal concerning state-wide patterns: Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. Without specific MPLADS data for Mane's constituency, it's impossible to assess his development impact or fund management effectiveness.
-
-### Financial Transparency
-
-Asset disclosure presents a complete information void. No data is available regarding MP Mane's total assets, previous holdings, growth ratios, or net worth. This absence of financial transparency is particularly concerning for public accountability. The only confirmed financial information is his monthly compensation of Rs 2,45,000, which aligns with standard parliamentary remuneration. The lack of asset declaration data significantly undermines the ability to assess potential conflicts of interest or wealth accumulation during his tenure.
-
-### Legal & Criminal Standing
-
-MP Mane maintains an exemplary legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the system flags low confidence in this criminal data due to potential source unavailability, suggesting these figures should be interpreted cautiously. While the clean record is positive, the data quality concerns prevent full confidence in this assessment.
-
-### Parliamentary Performance
-
-Mane demonstrates moderate engagement in parliamentary activities with 65% attendance, which falls below optimal participation levels but remains within reasonable bounds. His legislative activity shows 71 questions raised in Parliament, indicating active constituency representation through the questioning mechanism. However, his participation in debates is notably limited at just 3 interventions, and he has introduced zero private member bills, suggesting minimal proactive legislative initiative. This performance pattern indicates reactive rather than proactive parliamentary engagement.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 9 articles about MP Mane, all classified as neutral with no positive or negative sentiment detected. This neutral coverage suggests limited public visibility or controversial positions. The absence of committee membership data further indicates potential limitations in specialized policy engagement. Social media and news sources provide minimal insights into his constituency outreach or public communication strategies, earning a 'D' grade for accessibility.
-
-### Data Quality & Caveats
-
-The assessment faces significant limitations due to multiple data quality issues. The evidence grading system assigns 'C' for parliament data and 'D' for accessibility, indicating moderate to poor data reliability. Specific warnings include low confidence in criminal records, assets, and MPLADS data due to source unavailability. The absence of Sansad profile data prevents committee membership assessment, while legislative effectiveness data carries low confidence ratings. Maharashtra-specific CAG audit findings provide context but cannot substitute for individual MP performance data.
-
-### Key Takeaway
-
-While MP Dhairyasheel Sambhajirao Mane maintains a clean legal record and shows reasonable parliamentary attendance, the extensive data gaps in financial disclosures and development fund utilization create significant transparency concerns. His moderate parliamentary engagement suggests adequate but not exceptional representation, while the complete absence of asset and MPLADS data prevents meaningful accountability assessment. Enhanced data disclosure is essential for comprehensive public oversight of his legislative performance and constituency development impact.
+No criminal cases declared. Declared assets: Rs 45,131,759. MPLADS utilization: 4.4%. Parliament attendance: 65.0%. Questions asked: 71. Debates participated: 3. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ While MP Dhairyasheel Sambhajirao Mane maintains a clean legal record and shows 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Dhairyasheel Sambhajirao Mane's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 4.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

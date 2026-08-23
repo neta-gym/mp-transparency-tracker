@@ -3,23 +3,25 @@
 **Constituency:** Nawada, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.06 Crore
+- **Liabilities:** Rs 1.04 Crore
+- **Net Worth:** Rs 4.01 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.3%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Vivek Thakur demonstrates a mixed transparency profile with notable strengths in attendance and criminal record disclosure, both scoring perfect marks. However, significant weaknesses emerge in committee participation, legislative activity, and public accessibility, which collectively drag down the overall score to below-average levels.
+Vivek Thakur shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Vivek Thakur
-
-### Overall Assessment
-Vivek Thakur, BJP MP from Nawada constituency in Bihar, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining perfect parliamentary attendance and clean criminal record, substantial missing information regarding assets and MPLADS utilization raises concerns about overall transparency. The MP demonstrates basic parliamentary engagement but faces challenges in accessibility and public outreach.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, preventing assessment of constituency development efforts. This data gap is concerning given CAG audit findings revealing systemic issues in Bihar's fund utilization. The audit context shows Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper documentation and 18% of works remaining incomplete. Without specific MPLADS data for Thakur's constituency, it's impossible to determine if these systemic issues affect Nawada.
-
-### Financial Transparency
-Asset declaration information is entirely missing, including both current and previous asset values, preventing any assessment of wealth accumulation or financial transparency during tenure. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without baseline asset data, growth patterns cannot be evaluated. This represents a significant transparency gap that undermines public accountability.
-
-### Legal & Criminal Standing
-Thakur maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, data confidence is flagged as low, suggesting potential source reliability issues. The absence of any legal complications represents a positive aspect of his profile, though verification challenges remain.
-
-### Parliamentary Performance
-The MP demonstrates strong attendance with a perfect 100% record in parliamentary sessions, indicating commitment to institutional duties. However, active participation remains limited with only 11 questions asked and 2 debates participated in during the session. No private member bills were introduced, suggesting minimal legislative initiative. Committee participation data is unavailable, preventing full assessment of parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media coverage shows neutral engagement with 10 articles identified, all categorized as neutral with no positive or negative sentiment detected. This suggests limited public visibility and media engagement. The accessibility grade of 'D' indicates poor public outreach and constituent communication. No committee data availability further limits assessment of policy engagement and specialization areas.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this assessment:
-- Criminal record data marked as low confidence due to potential source unavailability
-- Complete absence of asset information raises transparency concerns
-- MPLADS data entirely missing despite entitlement
-- Committee membership information unavailable
-- Legislative effectiveness data confidence rated as low
-- Parliament performance graded 'C', indicating moderate data reliability
-
-Evidence sources include PRS, social media, and news outlets, but coverage appears incomplete across key transparency metrics.
-
-### Key Takeaway
-Vivek Thakur's transparency profile reveals a parliamentarian with perfect attendance and clean legal standing but significant accountability gaps due to missing asset and MPLADS data. While maintaining basic parliamentary duties, limited legislative activity and poor accessibility suggest minimal constituent engagement. The extensive data unavailability, particularly regarding financial transparency and development fund utilization, undermines comprehensive evaluation and raises questions about information disclosure practices. Immediate attention to asset declaration compliance and MPLADS reporting would significantly improve transparency standing.
+No criminal cases declared. Declared assets: Rs 50,566,297. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Vivek Thakur's transparency profile reveals a parliamentarian with perfect atten
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Vivek Thakur's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

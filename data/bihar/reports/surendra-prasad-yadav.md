@@ -3,32 +3,34 @@
 **Constituency:** Jahanabad, Bihar
 **Party:** Rashtriya Janata Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 65
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 38.5 / 100
+## Composite Transparency Score: 29.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 22.6 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 30.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 7
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.88 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 13.88 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 4
+- **Utilization Rate:** 28.3%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Surendra Prasad Yadav demonstrates a below-average transparency profile with a score of 38.5/100. While he shows clean criminal records and moderate performance in MPLADS utilization and asset disclosure, his participation is severely lacking with zero scores in parliamentary participation, committee work, and legislative contributions, coupled with very poor attendance and accessibility.
+Surendra Prasad Yadav has a below-average transparency score of 29.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Surendra Prasad Yadav
-
-### Overall Assessment
-
-Surendra Prasad Yadav, representing Jahanabad constituency in Bihar under the Rashtriya Janata Dal, presents a transparency profile with significant data limitations. The available evidence suggests concerning parliamentary engagement levels, with critical gaps in financial and development activity reporting that hinder comprehensive assessment of his legislative effectiveness.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization percentages. This complete absence of fund utilization transparency is particularly concerning given Bihar's documented challenges with development fund management. CAG audit findings reveal systemic issues in the state, including Rs 1,558 crore in idle funds lying unspent across district authorities and 34% of sampled utilization certificates lacking proper supporting documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, highlighting broader governance challenges that may impact constituency development.
-
-### Financial Transparency
-
-Asset disclosure information is completely unavailable, with no data on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency makes it impossible to assess potential conflicts of interest or unusual wealth accumulation patterns. The MP's monthly compensation is recorded at Rs 245,000, representing standard parliamentary remuneration, but without asset declarations, comprehensive financial accountability cannot be evaluated.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total cases, serious cases, pending cases, disposed cases, and convictions), though this comes with a significant caveat regarding data confidence. The system flags indicate low confidence in criminal data availability, suggesting the source may be unavailable rather than confirming a clean record. This uncertainty limits the reliability of the criminal standing assessment.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows concerning patterns, with only 30% attendance rate in the Lok Sabha. Legislative activity is minimal, with zero questions asked, zero participation in debates, and zero private member bills introduced. This low engagement level raises questions about constituency representation effectiveness. No committee participation data is available, as the Sansad profile appears inaccessible, further limiting assessment of parliamentary contributions beyond floor activities.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with neutral sentiment (zero positive, zero negative, 10 neutral), suggesting limited public visibility or engagement. The purely neutral coverage indicates minimal newsworthy activities or public statements. Evidence grading shows poor accessibility (Grade D), reflecting limited public engagement mechanisms and transparency in communications with constituents.
-
-### Data Quality & Caveats
-
-This assessment faces significant data quality limitations that substantially impact reliability. Multiple automated warnings indicate low confidence in criminal records, assets, and MPLADS data, with sources potentially unavailable rather than confirming zero values. Committee information and legislative effectiveness data are entirely missing due to inaccessible Sansad profiles. Parliament activity data receives a Grade C confidence rating, while accessibility scores Grade D. These limitations mean the assessment may not reflect actual performance levels, particularly in areas showing zero or minimal activity.
-
-### Key Takeaway
-
-Surendra Prasad Yadav's transparency profile is severely constrained by data unavailability across critical assessment areas, making meaningful evaluation difficult. The 30% parliamentary attendance rate represents the most reliable performance indicator, suggesting limited legislative engagement. Without asset declarations, MPLADS utilization data, or comprehensive criminal background verification, constituents lack essential information for accountability assessment. The neutral media coverage and poor accessibility ratings compound concerns about public engagement. This data gap pattern may reflect either systematic transparency failures or limitations in public information systems, both of which hinder democratic accountability in the Jahanabad constituency.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 138,754,448. MPLADS utilization: 28.3%. Parliament attendance: 30.0%.
 
 ---
 
@@ -170,7 +138,7 @@ Surendra Prasad Yadav's transparency profile is severely constrained by data una
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Surendra Prasad Yadav's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

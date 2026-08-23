@@ -139,7 +139,6 @@ class MyNetaParser:
             if "criminal" in tag.get_text(strip=True).lower():
                 criminal_section = tag
                 break
-
         if criminal_section:
             sibling = criminal_section.find_next("table")
             if sibling:
@@ -184,7 +183,8 @@ class MyNetaParser:
             total = max(total, int(case_match.group(1)))
 
         # Check for "no criminal cases"
-        if re.search(r"no\s+criminal\s+cases?", page_text, re.IGNORECASE):
+        explicit_no_cases = bool(re.search(r"no\s+criminal\s+cases?", page_text, re.IGNORECASE))
+        if explicit_no_cases:
             total = 0
             cases = []
             serious_count = 0
@@ -203,6 +203,17 @@ class MyNetaParser:
             notes="MyNeta candidate affidavit data",
         )
 
+        if total > 0 or cases:
+            confidence = 0.8
+        elif explicit_no_cases or criminal_section is not None:
+            confidence = 0.7
+        else:
+            # Neither a case table nor an explicit "no cases" marker was
+            # found — the page layout likely changed. Report low confidence
+            # instead of a clean record that would score as a perfect 100.
+            log.warning("MyNeta criminal section not found on page; marking low confidence")
+            confidence = 0.3
+
         return CriminalRecord(
             total_cases=total,
             serious_cases=serious_count,
@@ -210,7 +221,7 @@ class MyNetaParser:
             pending_cases=pending_count,
             disposed_cases=disposed_count,
             cases=cases,
-            confidence=0.8 if total > 0 or cases else 0.7,
+            confidence=confidence,
             sources=[source],
         )
 

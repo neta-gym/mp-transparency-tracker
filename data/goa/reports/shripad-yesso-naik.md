@@ -6,23 +6,23 @@
 **Age:** 71
 **Education:** Graduate
 **Profession:** Business
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (29%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 8.4 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.06 Crore
-- **Immovable Assets:** Rs 8.81 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 10.87 Crore
 - **Liabilities:** Rs 5.09 Lakh
 - **Net Worth:** Rs 10.82 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 2
+- **Utilization Rate:** 10.5%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,58 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Shripad Yesso Naik demonstrates a mixed transparency profile with significant areas of concern. While maintaining a clean criminal record, the MP shows poor performance in committee participation, legislative contributions, and public accessibility, which are critical for effective representation.
+Shripad Yesso Naik has a below-average transparency score of 49.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Shripad Yesso Naik
-
-### Overall Assessment
-
-Shripad Yesso Naik, the 71-year-old BJP MP representing North Goa, presents a mixed transparency profile with strong legal standing but significant data gaps in parliamentary activity and development fund utilization. As a Minister, his executive responsibilities may explain reduced parliamentary visibility, though critical MPLADS data remains unavailable for assessment.
-
-### Fund Utilization & Development
-
-**MPLADS Performance**: Complete data unavailability prevents assessment of the ₹5 crore annual MPLADS allocation. No information exists on entitled amounts, releases, expenditures, or utilization rates—a significant transparency gap for a constituency development evaluation.
-
-**CAG Audit Context**: Goa faces systemic issues with development fund management, with 7 relevant CAG findings highlighting concerning patterns. Nationally, ₹1,558 crore lies unspent in district accounts, 34% of utilization certificates lack proper documentation, and 18% of sampled works remain incomplete or abandoned. These systemic issues raise questions about local fund oversight mechanisms.
-
-### Financial Transparency
-
-**Asset Profile**: Naik declares total assets worth ₹10.87 crore with a net worth of ₹10.82 crore as of his last declaration. However, the absence of previous asset data prevents growth analysis—a critical limitation for assessing financial trajectory trends.
-
-**Income Sources**: Monthly compensation totals ₹2.45 lakh from parliamentary duties. His professional background in business provides additional income sources beyond legislative compensation.
-
-### Legal & Criminal Standing
-
-**Clean Record**: Naik maintains an exemplary legal profile with zero criminal cases across all categories—no pending cases, disposed matters, or convictions. This clean record represents a significant positive factor in his transparency assessment.
-
-### Parliamentary Performance
-
-**Activity Metrics**: Parliamentary performance data shows concerning gaps with zero recorded questions, debates, or private member's bills. However, as a serving Minister, executive responsibilities typically reduce floor participation, making these metrics less indicative of overall legislative effectiveness.
-
-**Attendance**: No attendance data available, though ministerial duties often result in lower house presence due to administrative commitments. The data quality grade of 'C' suggests limited confidence in available parliamentary metrics.
-
-### Public Engagement & Accessibility
-
-**Media Presence**: Analysis of 9 news articles reveals entirely neutral coverage with no positive or negative sentiment detected. This neutral media profile suggests limited controversial issues but also potentially reduced public visibility.
-
-**Digital Footprint**: Accessibility receives a 'D' grade, indicating poor digital engagement and limited online presence for constituent communication. No committee participation data exists, further limiting transparency into his legislative specializations.
-
-### Data Quality & Caveats
-
-**Critical Limitations**: Several data quality issues significantly impact this assessment:
-- MPLADS data completely unavailable (warning flag raised)
-- Parliamentary activity metrics have low confidence ratings
-- No committee membership information found
-- Missing previous asset declarations prevent growth analysis
-- Legislative effectiveness data rated as low confidence
-
-**Evidence Reliability**: Criminal record data (Grade B) and assets information (Grade B) show reasonable reliability, while parliamentary performance (Grade C) and accessibility (Grade D) indicate substantial data gaps.
-
-### Key Takeaway
-
-Shripad Yesso Naik's transparency profile reveals a paradox: excellent legal standing and substantial declared assets alongside critical information gaps in parliamentary activity and development fund utilization. While his ministerial role may explain reduced floor participation, the complete absence of MPLADS data and poor digital accessibility represent significant transparency challenges. His clean criminal record and business background suggest competence, but constituents lack essential information to evaluate his development work effectiveness. Improved data disclosure, particularly regarding MPLADS utilization and constituent engagement metrics, would substantially enhance his transparency profile.
+No criminal cases declared. Declared assets: Rs 108,683,533. MPLADS utilization: 10.5%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -187,7 +140,7 @@ Shripad Yesso Naik's transparency profile reveals a paradox: excellent legal sta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -266,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Shripad Yesso Naik's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 10.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -285,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Alipurduars, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 51
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 39.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 0.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 10.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 57.51 Lakh
+- **Liabilities:** Rs 16.03 Lakh
+- **Net Worth:** Rs 41.48 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 5% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,47 +95,11 @@
 
 ## Qualitative Assessment
 
-Manoj Tigga demonstrates a mixed transparency profile with perfect attendance and clean criminal record, but significant deficiencies in legislative participation and committee involvement. While his attendance shows commitment to parliamentary duties, the complete absence of committee participation and minimal legislative activity indicate limited engagement in substantive parliamentary work.
+Manoj Tigga has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Manoj Tigga
-
-### Overall Assessment
-MP Manoj Tigga (BJP, Alipurduars, West Bengal) presents a limited transparency profile due to significant data gaps across multiple assessment areas. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and development data severely constrains evaluation of his overall effectiveness as a public representative.
-
-### Fund Utilization & Development
-Complete data unavailability for MPLADS (Member of Parliament Local Area Development Scheme) funding prevents assessment of Tigga's development work in Alipurduars constituency. No information exists regarding entitled amounts, releases, expenditures, or utilization percentages. This data gap is particularly concerning given West Bengal's documented challenges with fund management, as highlighted by CAG audits revealing Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.
-
-The absence of MPLADS data coincides with broader systemic issues identified in CAG audit findings, including 18% of sampled development works being abandoned or incomplete. Without constituency-specific data, it remains impossible to evaluate whether Tigga's area faces similar challenges or has achieved better outcomes.
-
-### Financial Transparency
-Asset disclosure information is entirely unavailable, preventing any assessment of Tigga's financial transparency. No data exists for current total assets, previous declarations, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations serve as a primary mechanism for public accountability regarding elected officials' financial dealings.
-
-The monthly compensation of Rs 245,000 represents the only available financial data point, reflecting standard parliamentary remuneration rather than personal wealth disclosure.
-
-### Legal & Criminal Standing
-Tigga maintains a clean legal record with zero criminal cases across all categories—no pending cases, disposed cases, serious charges, or convictions. However, data confidence remains low due to potential source unavailability, warranting cautious interpretation of this finding.
-
-### Parliamentary Performance
-Tigga demonstrates strong attendance discipline with 100% parliamentary participation, indicating consistent engagement with legislative proceedings. However, his substantive parliamentary contribution appears limited, with only 1 question raised, zero debate participations, and no private member bills introduced. This pattern suggests minimal active legislative engagement beyond attendance requirements.
-
-No committee membership information is available, likely due to Sansad profile inaccessibility, further limiting assessment of his parliamentary effectiveness.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals mixed public engagement, with 10 news articles generating neutral to mixed sentiment (8 neutral, 1 positive, 1 negative). This relatively low media presence suggests limited public visibility or newsworthy activities during the assessment period.
-
-Social media and accessibility data remain insufficient for comprehensive evaluation, contributing to an overall 'D' grade for accessibility metrics.
-
-### Data Quality & Caveats
-This assessment faces significant methodological limitations due to widespread data unavailability. Evidence grades reflect these constraints, with parliament performance rated 'C' and accessibility rated 'D'. Multiple automated warnings indicate low confidence levels across criminal records, assets, and MPLADS data.
-
-The absence of committee information, legislative effectiveness metrics, and financial transparency data substantially limits analytical depth. While perfect attendance suggests basic parliamentary engagement, the broader data gaps prevent meaningful evaluation of constituency service, development impact, or overall effectiveness.
-
-CAG audit context for West Bengal provides relevant systemic background but cannot substitute for constituency-specific performance data.
-
-### Key Takeaway
-Manoj Tigga maintains perfect parliamentary attendance and a clean legal record but faces severe transparency deficits due to missing financial, development, and engagement data. The absence of MPLADS utilization information, asset declarations, and substantive legislative contributions raises questions about accountability and effectiveness. Voters in Alipurduars constituency lack essential information needed to evaluate their representative's performance, highlighting the critical need for improved data disclosure and transparency mechanisms.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 5,751,023. MPLADS utilization: 0.0%. Parliament attendance: 100.0%. Questions asked: 1. 1 warning(s) noted.
 
 ---
 
@@ -174,7 +139,7 @@ Manoj Tigga maintains perfect parliamentary attendance and a clean legal record 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -253,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Manoj Tigga's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -270,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

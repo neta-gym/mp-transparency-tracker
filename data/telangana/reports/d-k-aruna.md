@@ -3,32 +3,34 @@
 **Constituency:** Mahbubnagar, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 64
+**Education:** 12th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 17.3 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 6
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 66.76 Crore
+- **Liabilities:** Rs 1.61 Crore
+- **Net Worth:** Rs 65.14 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-D K Aruna demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, but faces significant challenges in committee participation, accessibility, and legislative transparency. The moderate MPLADS and assets disclosure scores, combined with zero scores in committee work and legislative activities, indicate substantial room for improvement in public accountability.
+D K Aruna has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: D K Aruna
-
-### Overall Assessment
-D K Aruna, the BJP MP representing Mahbubnagar constituency in Telangana, demonstrates strong parliamentary attendance at 95% but operates with limited transparency in several key areas. The assessment reveals significant data gaps across criminal records, assets, and MPLADS utilization, constraining a comprehensive evaluation of her overall effectiveness and accountability.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlement, releases, expenditure, or utilization rates. This represents a critical transparency gap given that MPLADS funds are a primary mechanism for constituency development. The absence of this data prevents assessment of her developmental impact in Mahbubnagar. CAG audit findings highlight systemic concerns in Telangana, including Rs 1,558 crore in idle funds across district authorities and 18% of sampled development works remaining incomplete, though direct links to Aruna's constituency management cannot be established.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency concern as asset declarations are mandatory for MPs and crucial for public accountability. Her monthly compensation is documented at Rs 2,45,000, consistent with standard MP remuneration, but the absence of asset data severely limits financial transparency assessment.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), suggesting a clean legal profile. However, the data carries a warning flag indicating "low confidence" due to potential source unavailability, which raises questions about the reliability of this assessment.
-
-### Parliamentary Performance
-Aruna demonstrates solid parliamentary engagement with 95% attendance, significantly above average MP performance. She has raised 30 questions in Parliament and participated in 4 debates, indicating active involvement in legislative processes. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The absence of committee membership data further constrains evaluation of her parliamentary contribution.
-
-### Public Engagement & Accessibility
-Media analysis reveals 10 news articles with neutral sentiment coverage, indicating moderate public visibility without significant positive or negative attention. The accessibility evidence grade of 'D' suggests limited public engagement mechanisms. No social media engagement metrics are provided, and the overall evidence suggests room for improvement in constituent communication and accessibility.
-
-### Data Quality & Caveats
-The assessment faces substantial data quality limitations with evidence grades of 'C' for parliament and 'D' for accessibility. Critical warnings include low confidence in criminal record data, complete absence of asset information, and unavailable MPLADS data. The lack of committee information due to potentially unavailable Sansad profiles further constrains the analysis. These data gaps significantly limit the reliability of transparency assessments across multiple dimensions.
-
-### Key Takeaway
-While D K Aruna maintains strong parliamentary attendance and a clean legal record, severe data gaps in asset declarations and MPLADS utilization create significant transparency concerns. Her parliamentary engagement appears adequate but unremarkable, and public accessibility seems limited. The numerous data quality warnings suggest either poor record-keeping or restricted information access, both problematic for democratic accountability. Immediate improvements in financial disclosure and development fund transparency reporting are essential for enhanced public trust and accountability.
+Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 667,569,871. MPLADS utilization: 21.6%. Parliament attendance: 95.0%. Questions asked: 30. Debates participated: 4.
 
 ---
 
@@ -162,7 +138,7 @@ While D K Aruna maintains strong parliamentary attendance and a clean legal reco
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for D K Aruna's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

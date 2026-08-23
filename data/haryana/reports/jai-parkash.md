@@ -3,23 +3,26 @@
 **Constituency:** Hisar, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** 12th Pass
+**Profession:** Agriculture
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 27.0 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 2.06 Crore
+- **Immovable Assets:** Rs 4.75 Crore
+- **Total Assets:** Rs 6.81 Crore
+- **Liabilities:** Rs 1.32 Crore
+- **Net Worth:** Rs 5.49 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 33.8%
 
 ---
 
@@ -83,9 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
@@ -94,76 +95,11 @@
 
 ## Qualitative Assessment
 
-Jai Parkash demonstrates mixed transparency performance with strong attendance and clean criminal record, but faces significant challenges in legislative participation and public engagement. The MP shows zero participation in debates and committee work, coupled with very limited accessibility to constituents, which undermines overall transparency despite perfect attendance.
+Jai Parkash shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Jai Parkash
-
-### Overall Assessment
-
-Jai Parkash, representing Hisar constituency in Haryana for the Indian National Congress, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. While maintaining perfect parliamentary attendance (100%), the absence of critical financial and developmental data raises concerns about transparency and public accountability. The MP's profile shows minimal legislative activity despite consistent chamber presence.
-
-### Fund Utilization & Development
-
-**No MPLADS data available** - Critical information regarding Member of Parliament Local Area Development Scheme fund entitlement, release, expenditure, and utilization rates is missing, preventing assessment of developmental impact in the Hisar constituency.
-
-**CAG audit context reveals systemic issues** in Haryana's fund management:
-- Rs 1,558 crore in idle funds lying unspent across district authorities
-- 34% of sampled utilization certificates lack proper supporting documentation
-- 18% of sampled development works remain abandoned or incomplete
-
-These findings suggest potential challenges in effective fund deployment within the state framework, though specific data for Hisar constituency remains unavailable.
-
-### Financial Transparency
-
-**Asset disclosure incomplete** - Both current and previous asset declarations are missing from available records, making it impossible to assess wealth accumulation patterns or potential conflicts of interest. Without baseline asset data, growth ratios and net worth calculations cannot be determined.
-
-**Monthly compensation**: Rs 2,45,000 as per standard parliamentary remuneration structure.
-
-The absence of asset transparency significantly undermines financial accountability assessment.
-
-### Legal & Criminal Standing
-
-**Clean criminal record** - Available data indicates zero criminal cases across all categories: no total cases, serious cases, pending cases, disposed cases, or convictions. However, data quality warnings suggest potential gaps in criminal record verification systems.
-
-This appears to reflect positively on the MP's legal standing, though data confidence remains limited.
-
-### Parliamentary Performance
-
-**Attendance**: Exemplary 100% attendance rate demonstrates consistent parliamentary presence and commitment to chamber responsibilities.
-
-**Legislative activity**: Concerning zero participation across key metrics:
-- 0 questions raised
-- 0 debates participated in
-- 0 private member bills introduced
-
-This suggests minimal active engagement in legislative processes despite perfect attendance. No committee membership data is available, potentially indicating limited involvement in parliamentary committee work.
-
-### Public Engagement & Accessibility
-
-**Media coverage**: 10 news articles identified with neutral sentiment distribution (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or controversial issues.
-
-**Accessibility concerns**: Evidence grade 'D' for accessibility indicates poor public engagement mechanisms or limited available information about constituent interaction channels.
-
-**Committee participation**: No data available on committee memberships, limiting assessment of specialized legislative contributions.
-
-### Data Quality & Caveats
-
-**Significant data limitations** affect this assessment:
-- Criminal record data flagged as low confidence
-- Asset information completely unavailable
-- MPLADS data missing entirely
-- Committee participation unknown
-- Legislative effectiveness data limited
-
-**Evidence grades**: Parliament performance (C) and accessibility (D) indicate substantial information gaps.
-
-**Sources**: Data compiled from PRS Legislative Research, social media monitoring, and news coverage, though comprehensiveness remains limited.
-
-### Key Takeaway
-
-Jai Parkash maintains excellent parliamentary attendance but demonstrates minimal legislative engagement despite consistent chamber presence. Critical transparency gaps in asset disclosure and MPLADS utilization, combined with systemic fund management issues highlighted by CAG audits in Haryana, raise questions about developmental impact and financial accountability. The MP's clean criminal record and neutral media coverage suggest absence of major controversies, but limited public engagement and accessibility concerns indicate room for improvement in constituent relations. Comprehensive transparency assessment remains challenging due to significant data unavailability across multiple key indicators.
+No criminal cases declared. Declared assets: Rs 68,053,567. MPLADS utilization: 33.8%. Parliament attendance: 100.0%.
 
 ---
 
@@ -203,7 +139,7 @@ Jai Parkash maintains excellent parliamentary attendance but demonstrates minima
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -282,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jai Parkash's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -299,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads, myneta*
 *Methodology version: 3.0 (8 scoring dimensions)*

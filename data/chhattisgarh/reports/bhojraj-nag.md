@@ -3,23 +3,25 @@
 **Constituency:** Kanker, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 49
+**Education:** 8th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 15.0 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.24 Crore
+- **Liabilities:** Rs 6.07 Lakh
+- **Net Worth:** Rs 1.18 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 3
+- **Utilization Rate:** 18.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Bhojraj Nag demonstrates a mixed transparency profile with perfect scores in criminal disclosure and attendance but significant deficiencies in legislative participation and committee engagement. While maintaining clean attendance and criminal records, the MP shows very poor performance in core legislative functions, committee work, and public accessibility, indicating limited engagement with parliamentary duties beyond basic attendance.
+Bhojraj Nag shows moderate transparency with a score of 55.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Bhojraj Nag
-
-### Overall Assessment
-Bhojraj Nag, BJP MP from Kanker constituency in Chhattisgarh, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining perfect parliamentary attendance, critical transparency indicators including asset declarations, MPLADS utilization, and legislative effectiveness remain unavailable or unverified.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlements, releases, expenditure, or utilization rates. This represents a critical transparency gap for assessing developmental impact. CAG audits reveal systemic concerns in Chhattisgarh's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found abandoned or incomplete, raising questions about overall implementation effectiveness in the state.
-
-### Financial Transparency
-Asset declaration data is completely missing, preventing assessment of financial transparency or potential conflicts of interest. No information is available on current assets, previous declarations, or wealth growth patterns. Monthly compensation is reported at ₹2,45,000, representing the standard parliamentary remuneration structure.
-
-### Legal & Criminal Standing
-Nag's criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions). However, this data carries a "low confidence" warning, indicating potential source unavailability or verification issues. The clean record, while positive, requires cautious interpretation given the data quality concerns.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with perfect 100% attendance demonstrating commitment to legislative duties. However, substantive participation appears limited with only 9 questions raised, zero debate contributions, and no private member bills introduced. Committee participation data is entirely unavailable due to inaccessible Sansad profiles. This pattern suggests physical presence without corresponding active legislative engagement.
-
-### Public Engagement & Accessibility
-Public engagement assessment is severely constrained by limited data availability. News coverage analysis shows 10 neutral articles with no positive or negative sentiment detected, suggesting minimal media attention or public discourse around the MP's activities. Social media presence and direct constituent interaction metrics are unavailable, earning a 'D' grade for accessibility.
-
-### Data Quality & Caveats
-This assessment faces significant limitations due to widespread data unavailability. Critical warnings include low confidence in criminal records, assets, and MPLADS data. Parliamentary activity receives a 'C' grade while accessibility scores 'D', indicating substantial information gaps. The absence of committee data, legislative effectiveness metrics, and financial transparency indicators severely limits comprehensive evaluation. These data quality issues are common challenges in Indian political transparency but particularly pronounced in this case.
-
-### Key Takeaway
-Bhojraj Nag's transparency profile is characterized by perfect attendance but limited substantive parliamentary participation, coupled with critical data gaps in asset disclosure, development fund utilization, and public engagement metrics. The systemic fund management issues identified by CAG audits in Chhattisgarh underscore the importance of robust MPLADS monitoring, though specific data for Nag remains unavailable. Enhanced transparency in asset declarations and development fund utilization would significantly improve accountability assessment.
+No criminal cases declared. Declared assets: Rs 12,394,941. MPLADS utilization: 18.7%. Parliament attendance: 100.0%. Questions asked: 9.
 
 ---
 
@@ -162,7 +138,7 @@ Bhojraj Nag's transparency profile is characterized by perfect attendance but li
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Bhojraj Nag's MPLADS account: Released: Rs 16, Expended: Rs 3, Utilization: 18.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

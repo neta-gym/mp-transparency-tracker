@@ -3,32 +3,34 @@
 **Constituency:** Darjeeling, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 38
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 21.5 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 47.54 Crore
+- **Liabilities:** Rs 27.95 Lakh
+- **Net Worth:** Rs 47.26 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 4
+- **Utilization Rate:** 26.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Raju Bista shows a mixed transparency profile with moderate performance in MPLADS utilization and asset disclosure, and notably clean criminal record. However, significant concerns exist in committee participation, legislative activity, and public accessibility, which substantially impact his overall transparency score.
+Raju Bista shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Raju Bista
-
-### Overall Assessment
-Raju Bista, BJP MP from Darjeeling constituency in West Bengal, presents a mixed transparency profile characterized by significant data gaps across key accountability metrics. While maintaining reasonable parliamentary attendance at 70%, substantial information is unavailable regarding his financial assets, MPLADS fund utilization, and committee participation. The limited available data suggests moderate parliamentary engagement but raises concerns about overall transparency.
-
-### Fund Utilization & Development
-MPLADS fund data is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap for assessing developmental impact in the Darjeeling constituency. The absence of this data prevents evaluation of local infrastructure investment or community development initiatives. CAG audit reports from 2010 highlight systemic MPLADS issues in West Bengal, including Rs 1,558 crore in idle funds across district authorities and 34% of sampled utilization certificates lacking proper documentation, though specific applicability to Bista's tenure cannot be determined.
-
-### Financial Transparency
-Asset declaration information is completely absent, with no data on current assets, previous holdings, growth patterns, or net worth calculations. This represents a significant transparency deficit, as asset disclosure is fundamental to public accountability. The monthly compensation is recorded at Rs 2,45,000, providing the only available financial reference point. Without baseline asset data, assessment of potential conflicts of interest or unexplained wealth accumulation is impossible.
-
-### Legal & Criminal Standing
-Bista maintains a clean criminal record with zero total cases, serious charges, pending matters, disposed cases, and convictions. This represents full legal compliance and absence of judicial proceedings. However, data confidence is flagged as low, suggesting potential gaps in criminal record verification systems or source availability limitations.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 70% attendance, positioning Bista slightly below optimal participation standards. Legislative contributions include 46 questions raised and participation in 11 debates, indicating reasonable engagement with parliamentary processes. However, zero private bills introduced suggests limited proactive legislative initiatives. No committee participation data is available, preventing assessment of specialized parliamentary work or sectoral expertise development.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals minimal public discourse, with only 10 articles identified (1 positive, 0 negative, 9 neutral). This limited coverage suggests either restricted media engagement or low visibility in public discourse. The predominantly neutral sentiment indicates absence of significant controversies but may also reflect limited newsworthy achievements or public engagement initiatives. Accessibility metrics receive a 'D' grade, indicating substantial room for improvement in public outreach and transparency.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence flags, while asset and MPLADS information is entirely unavailable. Committee participation and legislative effectiveness data quality is poor, with Sansad profile potentially inaccessible. Evidence grades show 'C' for parliament-related data and 'D' for accessibility metrics, indicating below-average data availability and reliability. These limitations severely constrain comprehensive transparency evaluation.
-
-### Key Takeaway
-Raju Bista's transparency profile is severely compromised by extensive data unavailability across critical accountability metrics, particularly financial assets and MPLADS fund utilization. While maintaining clean legal standing and moderate parliamentary participation, the absence of fundamental transparency data prevents comprehensive public accountability assessment. Immediate attention is required to improve data disclosure and accessibility to enable meaningful democratic oversight of his parliamentary representation.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 475,357,268. MPLADS utilization: 26.9%. Parliament attendance: 70.0%. Questions asked: 46. Debates participated: 11.
 
 ---
 
@@ -162,7 +138,7 @@ Raju Bista's transparency profile is severely compromised by extensive data unav
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Raju Bista's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

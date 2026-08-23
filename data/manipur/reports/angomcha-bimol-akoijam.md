@@ -6,23 +6,23 @@
 **Age:** 57
 **Education:** Doctorate
 **Profession:** Associate Professor, JNU, New Delhi
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 45.8 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -39,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 71.72 Lakh
-- **Immovable Assets:** Rs 25.96 Lakh
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 97.68 Lakh
 - **Liabilities:** Rs 34.84 Lakh
 - **Net Worth:** Rs 62.83 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 8
+- **Utilization Rate:** 53.9%
 
 ---
 
@@ -86,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Manipur: 7 relevant findings
@@ -95,43 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Angomcha Bimol Akoijam demonstrates mixed transparency performance with notable strengths in attendance and criminal record disclosure, but significant weaknesses in committee participation, accessibility, and legislative contributions. The moderate MPLADS and assets transparency scores suggest room for improvement in financial accountability, while zero scores in committee work and legislative activity indicate limited parliamentary engagement beyond basic attendance.
+Angomcha Bimol Akoijam shows moderate transparency with a score of 62.4/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-## Executive Summary: Angomcha Bimol Akoijam
-
-### Overall Assessment
-
-Dr. Angomcha Bimol Akoijam, Indian National Congress MP representing Inner Manipur, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps. As a 57-year-old academic with a doctorate and profession as Associate Professor at JNU, New Delhi, he brings substantial educational credentials to his legislative role. However, incomplete MPLADS data and limited accessibility metrics constrain a comprehensive evaluation of his developmental impact.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with all fields (entitled, released, expended, utilization percentage) showing "None." This represents a critical transparency gap for assessing developmental impact. The CAG audit context reveals systemic concerns in Manipur's fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining abandoned or incomplete. Without specific MPLADS data, it's impossible to assess whether Akoijam's constituency faces similar challenges or has achieved better outcomes.
-
-### Financial Transparency
-
-Akoijam's current total assets stand at Rs 97.67 lakh with a net worth of Rs 62.83 lakh. However, asset growth analysis is impossible due to missing previous asset data ("None" recorded). This represents a significant transparency limitation, as asset growth comparison is crucial for understanding financial conduct over time. His monthly compensation totals Rs 2.45 lakh, consistent with standard MP remuneration. The assets grade of 'B' suggests reasonable data quality for current holdings but incomplete historical tracking.
-
-### Legal & Criminal Standing
-
-Akoijam maintains a clean legal record with zero cases across all categories: no total cases, serious cases, pending cases, disposed cases, or convictions. This represents exemplary legal standing and suggests no criminal liability concerns. The criminal record receives a 'B' evidence grade, indicating reliable data quality in this crucial transparency dimension.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows strong attendance at 100%, demonstrating commitment to legislative duties. However, his active participation metrics are modest: 7 questions raised, 4 debate participations, and zero private bills introduced. The parliament activity grade of 'C' suggests data limitations that may not capture the full scope of his legislative contributions. No committee data was found, possibly indicating unavailability of his Sansad profile, which limits assessment of his specialized parliamentary work.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 articles with neutral sentiment (0 positive, 0 negative, 10 neutral), suggesting limited public visibility or potentially balanced reporting. The accessibility grade of 'D' indicates significant limitations in available data about public engagement activities, social media presence, or citizen interaction mechanisms. This represents a notable transparency gap for understanding how effectively he communicates with constituents.
-
-### Data Quality & Caveats
-
-Several automated flags highlight data quality concerns: low confidence in MPLADS data, unavailable committee information, and limited legislative effectiveness data. Evidence grades vary significantly across categories (criminal: B, assets: B, parliament: C, accessibility: D), indicating uneven data reliability. The warning about MPLADS data confidence is particularly concerning given the importance of development fund utilization for constituency welfare. Missing previous asset data prevents growth analysis, while absent committee data limits understanding of specialized parliamentary work.
-
-### Key Takeaway
-
-While Dr. Akoijam demonstrates strong parliamentary attendance (100%) and maintains a clean legal record, significant data gaps particularly around MPLADS utilization and public engagement limit comprehensive assessment of his effectiveness. His academic background suggests policy expertise, but without development fund data or robust accessibility metrics, constituents and stakeholders cannot fully evaluate his developmental impact. The mixed data quality (ranging from B to D grades) necessitates improved transparency mechanisms to enable proper accountability assessment.
+No criminal cases declared. Declared assets: Rs 9,767,556. MPLADS utilization: 53.9%. Parliament attendance: 100.0%. Questions asked: 7. Debates participated: 4.
 
 ---
 
@@ -171,7 +139,7 @@ While Dr. Akoijam demonstrates strong parliamentary attendance (100%) and mainta
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -250,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Angomcha Bimol Akoijam's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 53.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -269,9 +239,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

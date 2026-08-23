@@ -3,32 +3,34 @@
 **Constituency:** Purulia, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 39
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 41.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.0 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.95 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 5.95 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,53 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Jyotirmay Singh Mahato shows a mixed transparency profile with significant gaps in legislative engagement. While maintaining a clean criminal record and reasonable attendance, he demonstrates poor participation in parliamentary proceedings and zero committee involvement. The very low data confidence (14%) and multiple validation flags suggest incomplete or unreliable information reporting.
+Jyotirmay Singh Mahato has a below-average transparency score of 41.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Jyotirmay Singh Mahato
-
-### Overall Assessment
-
-Jyotirmay Singh Mahato, BJP MP representing Purulia constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Available evidence indicates moderate parliamentary engagement (75% attendance) but raises concerns about accessibility and financial transparency due to missing asset and MPLADS utilization data.
-
-### Fund Utilization & Development
-
-Complete absence of MPLADS (Member of Parliament Local Area Development Scheme) data severely hampers assessment of developmental fund utilization. No information is available regarding entitled amounts, funds released, expenditures, or utilization percentages. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore lying idle in district authorities' accounts and 18% of sampled works remaining incomplete or abandoned.
-
-The lack of MPLADS transparency occurs against a backdrop of documented irregularities, with 34% of utilization certificates lacking proper supporting documentation according to CAG audits. Without specific data on Mahato's fund utilization, voters cannot assess his developmental impact in Purulia constituency.
-
-### Financial Transparency
-
-Asset disclosure presents a complete information void. No data is available for current total assets, previous holdings, growth ratios, or net worth calculations. This absence of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation during tenure.
-
-The MP receives a total monthly compensation of Rs 245,000, but without asset declarations, the complete financial picture remains opaque. This lack of transparency falls short of public accountability standards expected from elected representatives.
-
-### Legal & Criminal Standing
-
-Mahato maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. While this presents a positive legal profile, data quality warnings indicate low confidence in criminal record information due to potentially unavailable sources. The clean record, if accurate, suggests absence of legal complications that might impede parliamentary duties.
-
-### Parliamentary Performance
-
-Parliamentary attendance stands at 75%, indicating reasonable but not exemplary engagement with legislative responsibilities. Mahato has raised 13 questions in Parliament, demonstrating some level of constituency representation and issue advocacy. However, participation in debates remains at zero, and no private member bills have been introduced, suggesting limited proactive legislative contribution beyond questioning.
-
-The absence of committee membership data (likely due to unavailable Sansad profile) prevents assessment of specialized parliamentary work. Overall parliamentary effectiveness appears moderate, with room for enhanced engagement in debates and legislative initiatives.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage detected. This neutral media presence suggests limited public visibility or controversial positioning. The evidence grade for accessibility (D) indicates poor performance in citizen engagement and public communication.
-
-Social media presence and direct citizen interaction data remain unavailable, limiting assessment of grassroots connectivity. The low accessibility grade suggests potential challenges in constituency outreach and responsive governance.
-
-### Data Quality & Caveats
-
-Significant data quality concerns pervade this assessment. Automated flags indicate low confidence in criminal record data, asset information, and MPLADS utilization figures. The absence of committee membership data and legislative effectiveness metrics further constrains comprehensive evaluation.
-
-Evidence grades reflect these limitations: parliament performance rated C (average confidence) and accessibility rated D (low confidence). Multiple warning flags highlight unavailable sources and incomplete datasets. These data gaps may result from inadequate disclosure practices or systematic transparency deficiencies rather than necessarily indicating poor performance.
-
-### Key Takeaway
-
-Jyotirmay Singh Mahato's transparency profile is severely constrained by missing critical data across asset declarations, development fund utilization, and accessibility metrics. While maintaining a clean legal record and moderate parliamentary attendance, the absence of financial transparency and unclear development impact raises accountability concerns. The neutral media coverage and poor accessibility grade suggest limited public engagement. Voters in Purulia constituency lack essential information to fully evaluate their representative's performance, highlighting the need for improved disclosure practices and enhanced transparency mechanisms. Without comprehensive MPLADS and asset data, assessing Mahato's effectiveness as a public representative remains incomplete.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 595,229. MPLADS utilization: 0.0%. Parliament attendance: 75.0%. Questions asked: 13. 1 warning(s) noted.
 
 ---
 
@@ -180,7 +139,7 @@ Jyotirmay Singh Mahato's transparency profile is severely constrained by missing
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jyotirmay Singh Mahato's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -276,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

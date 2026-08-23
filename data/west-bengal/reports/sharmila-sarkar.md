@@ -3,23 +3,25 @@
 **Constituency:** Bardhaman Purba, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 38
+**Education:** 5th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.5 / 100
+## Composite Transparency Score: 45.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 9.5 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.20 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 17.20 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 5
+- **Expended:** Rs 2
+- **Utilization Rate:** 11.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-Sharmila Sarkar shows a mixed transparency profile with significant areas of concern. While she maintains a clean criminal record (100% score), her overall transparency is hampered by poor legislative engagement, zero committee participation, and very limited public accessibility. Her moderate performance in MPLADS utilization and asset disclosure suggests basic compliance but lacks the proactive transparency expected from public representatives.
+Sharmila Sarkar has a below-average transparency score of 45.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Sharmila Sarkar
-
-### Overall Assessment
-Sharmila Sarkar, representing Bardhaman Purba constituency for All India Trinamool Congress in the Lok Sabha, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining a clean criminal record, her parliamentary engagement shows room for improvement with 50% attendance and limited legislative activity. The absence of critical financial data including assets and MPLADS utilization raises transparency concerns.
-
-### Fund Utilization & Development
-Complete absence of MPLADS data presents a major transparency gap. No information is available regarding her Rs 5 crore annual MPLADS entitlement, release status, or expenditure patterns. This data void is particularly concerning given CAG audit findings highlighting systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without verifiable MPLADS data, constituents cannot assess her development work effectiveness.
-
-### Financial Transparency
-Asset disclosure information is entirely missing, preventing any assessment of financial transparency or potential conflicts of interest. No data exists for current assets, previous declarations, growth patterns, or net worth calculations. This represents a critical transparency failure, as asset declarations are mandatory for MPs under the Representation of People Act. Her monthly compensation of Rs 2.45 lakh is the only available financial data point.
-
-### Legal & Criminal Standing
-Sarkar maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, disposed matters, serious charges, or convictions. However, the system flags low confidence in criminal data sources, suggesting potential data collection issues rather than confirmed clean status.
-
-### Parliamentary Performance
-Parliamentary engagement shows mixed results with concerning gaps. Attendance stands at 50%, falling short of optimal legislative participation standards. Her contribution to parliamentary discourse is minimal - zero questions raised, only 3 debate participations, and no private member bills introduced. This limited legislative activity suggests reduced advocacy for constituent interests and policy development. No committee membership information is available, indicating either non-participation or data unavailability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with entirely neutral tone - no positive or negative coverage identified. This neutral sentiment, while avoiding controversy, may indicate limited public visibility or impact. The absence of social media engagement data or public interaction metrics further limits assessment of constituent accessibility. Evidence grades rate accessibility at 'D' level, suggesting poor public engagement mechanisms.
-
-### Data Quality & Caveats
-Multiple data quality warnings significantly impact this assessment's reliability. Criminal record data carries low confidence ratings due to source unavailability. Asset information shows similar reliability concerns. MPLADS data is entirely absent, preventing development work evaluation. Committee assignments are missing, possibly due to unavailable Sansad profiles. Legislative effectiveness data carries low confidence ratings. These limitations mean the transparency profile may not reflect actual performance, representing data collection failures rather than MP accountability issues.
-
-### Key Takeaway
-Sharmila Sarkar's transparency profile is severely hampered by extensive data gaps rather than confirmed poor performance. While maintaining a clean criminal record, her 50% parliamentary attendance and minimal legislative activity raise engagement concerns. The complete absence of asset declarations and MPLADS utilization data creates significant transparency deficits that prevent meaningful accountability assessment. Given systemic fund management issues highlighted in CAG audits for West Bengal, the missing MPLADS data is particularly problematic. Voters lack essential information to evaluate her financial integrity and development work effectiveness, highlighting urgent need for improved data disclosure and parliamentary engagement.
+No criminal cases declared. Declared assets: Rs 1,720,080. MPLADS utilization: 11.9%. Parliament attendance: 50.0%. Debates participated: 3.
 
 ---
 
@@ -162,7 +138,7 @@ Sharmila Sarkar's transparency profile is severely hampered by extensive data ga
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Sharmila Sarkar's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 11.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

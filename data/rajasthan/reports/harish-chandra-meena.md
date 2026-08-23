@@ -3,23 +3,25 @@
 **Constituency:** Tonk-Sawai Madhopur, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 69
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 0.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 23.08 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 23.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 0
+- **Expended:** Rs 0
+- **Utilization Rate:** 0.0%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -94,43 +95,11 @@
 
 ## Qualitative Assessment
 
-Harish Chandra Meena shows mixed transparency performance with notable strengths in criminal record disclosure (100%) and parliamentary attendance (85%), but significant weaknesses in committee participation (0%), legislative activity (0%), and public accessibility (10%). The overall 50% score reflects moderate transparency with room for improvement in active parliamentary engagement and constituent communication.
+Harish Chandra Meena shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Harish Chandra Meena
-
-### Overall Assessment
-
-Harish Chandra Meena, Indian National Congress MP from Tonk-Sawai Madhopur constituency in Rajasthan, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and demonstrating reasonable parliamentary attendance (85%), substantial information is missing across critical areas including asset declarations and MPLADS fund utilization. The available data suggests basic parliamentary engagement but raises concerns about overall transparency due to incomplete disclosure patterns.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditures. This represents a critical transparency gap given that MPLADS funds are a primary tool for constituency development. The CAG audit context reveals systemic issues in Rajasthan's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Meena's MPLADS performance, constituents cannot assess his development track record or fund management effectiveness.
-
-### Financial Transparency
-
-Asset disclosure information is completely absent, with no data available on current holdings, previous declarations, or growth patterns. This absence of financial transparency data makes it impossible to evaluate potential conflicts of interest or wealth accumulation patterns during his tenure. The MP's monthly compensation is documented at Rs 2,45,000, representing the only available financial data point. This lack of asset information significantly undermines transparency assessment capabilities.
-
-### Legal & Criminal Standing
-
-Harish Chandra Meena maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed matters, or convictions. However, the data carries a low confidence warning, indicating potential source availability issues. While the current record appears clean, the data quality caveat suggests this assessment should be treated with caution until more reliable criminal background verification is available.
-
-### Parliamentary Performance
-
-Meena demonstrates moderate parliamentary engagement with 85% attendance, indicating regular participation in house proceedings. His legislative activity includes 32 questions raised and participation in 4 debates, suggesting active constituency representation through questioning mechanisms. However, he has introduced zero private member bills, indicating limited legislative initiative beyond government business. The absence of committee membership data (flagged as unavailable due to potential Sansad profile issues) prevents full assessment of his specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (zero positive or negative pieces), suggesting limited public discourse engagement or controversial positions. This neutral media profile, while avoiding negative coverage, may indicate insufficient public visibility for effective constituency representation. The evidence grade for accessibility is particularly poor (Grade D), suggesting limited transparency in public communication or information sharing. No social media engagement metrics are available despite social media being listed as a source.
-
-### Data Quality & Caveats
-
-Multiple automated flags indicate significant data reliability concerns. Criminal record data carries low confidence warnings, asset information is entirely unavailable, and MPLADS data is missing completely. Committee membership information is unavailable due to potential Sansad profile access issues, and legislative effectiveness data has low confidence ratings. Evidence grading shows poor performance in parliament (Grade C) and accessibility (Grade D). These data gaps severely limit comprehensive transparency assessment capabilities.
-
-### Key Takeaway
-
-Harish Chandra Meena's transparency profile is characterized by significant information gaps that prevent comprehensive evaluation of his performance as a public representative. While maintaining a clean criminal record and reasonable parliamentary attendance, the absence of critical data on asset declarations and MPLADS utilization raises serious transparency concerns. The systemic CAG findings regarding fund mismanagement in Rajasthan, combined with missing utilization data, create accountability gaps that constituents cannot properly assess. Improved data disclosure and transparency mechanisms are essential for meaningful democratic oversight of his parliamentary tenure.
+No criminal cases declared. Declared assets: Rs 230,794,780. MPLADS utilization: 0.0%. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4. 1 warning(s) noted.
 
 ---
 
@@ -170,7 +139,7 @@ Harish Chandra Meena's transparency profile is characterized by significant info
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Harish Chandra Meena's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,25 @@
 **Constituency:** Bardoli, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Others
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 11.9 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.70 Crore
+- **Liabilities:** Rs 84.56 Lakh
+- **Net Worth:** Rs 3.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
@@ -94,59 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Parbhubhai Nagarbhai Vasava shows a mixed transparency profile with concerning gaps in several key areas. While maintaining a clean criminal record and moderate performance in MPLADS utilization and parliamentary attendance, the MP demonstrates significant weaknesses in committee participation, public accessibility, and legislative contributions, resulting in a below-average overall transparency score.
+Parbhubhai Nagarbhai Vasava shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Parbhubhai Nagarbhai Vasava
-
-### Overall Assessment
-
-Parbhubhai Nagarbhai Vasava, BJP MP from Bardoli constituency in Gujarat, presents a mixed transparency profile with significant data gaps across multiple domains. While maintaining a clean criminal record and moderate parliamentary attendance (65%), the absence of crucial financial data including assets and MPLADS utilization raises substantial transparency concerns. The MP's legislative engagement remains limited with only 27 questions asked and 5 debate participations.
-
-### Fund Utilization & Development
-
-MPLADS data for MP Vasava is entirely unavailable, with no information on entitled amounts, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS funds are essential for constituency development. The absence of this data prevents any assessment of the MP's development priorities or fund management efficiency.
-
-CAG audit findings for Gujarat reveal systemic issues in fund management that may impact constituency development: Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining abandoned or incomplete. These state-level irregularities highlight the importance of transparent MPLADS reporting, making the data absence particularly concerning.
-
-### Financial Transparency
-
-Asset declaration data is completely unavailable for MP Vasava, including both current and previous asset values, growth ratios, and net worth calculations. This represents a fundamental transparency deficit as asset declarations are mandatory for all MPs and serve as key indicators of financial integrity. Without baseline financial data, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation.
-
-The MP receives standard parliamentary compensation of Rs 2,45,000 monthly, consistent with other Lok Sabha members.
-
-### Legal & Criminal Standing
-
-MP Vasava maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. However, the data quality warning indicates low confidence in criminal record information, suggesting potential source unavailability rather than definitively clean record verification.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows moderate levels with 65% attendance, placing the MP slightly below optimal participation standards. Legislative activity remains limited with 27 questions raised and 5 debate participations, indicating minimal proactive engagement in policy discussions. No private member bills were introduced, suggesting limited legislative initiative.
-
-The absence of committee membership data further limits assessment of the MP's specialized policy contributions, as committees represent crucial forums for detailed legislative work.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 10 neutral articles with no positive or negative sentiment detected, suggesting limited public discourse around the MP's activities. This neutral coverage pattern may indicate either effective consensus-building or insufficient newsworthy initiatives.
-
-Social media presence and public accessibility mechanisms are not adequately documented, receiving a 'D' grade for accessibility, indicating significant gaps in public engagement channels.
-
-### Data Quality & Caveats
-
-Multiple critical data quality issues significantly limit this assessment's reliability:
-
-- **Criminal records**: Low confidence due to potential source unavailability
-- **Assets**: Complete absence of mandatory asset declaration data
-- **MPLADS**: No utilization data available despite constitutional importance
-- **Committee work**: Missing Sansad profile data prevents committee assessment
-- **Legislative effectiveness**: Low confidence in comprehensive activity tracking
-
-Evidence grades of 'C' for parliament data and 'D' for accessibility reflect substantial information gaps that compromise transparency evaluation.
-
-### Key Takeaway
-
-While MP Parbhubhai Nagarbhai Vasava maintains basic parliamentary functions with clean legal standing and moderate attendance, critical transparency deficits in financial disclosures and development fund utilization prevent comprehensive accountability assessment. The complete absence of asset declarations and MPLADS data, combined with limited legislative activity, suggests significant room for improvement in transparency practices. Immediate priorities should include ensuring complete financial disclosures and transparent MPLADS reporting to enable proper public oversight of the MP's stewardship of public resources and constituency development responsibilities.
+No criminal cases declared. Declared assets: Rs 47,003,506. MPLADS utilization: 14.9%. Parliament attendance: 65.0%. Questions asked: 27. Debates participated: 5.
 
 ---
 
@@ -186,7 +138,7 @@ While MP Parbhubhai Nagarbhai Vasava maintains basic parliamentary functions wit
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -265,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Parbhubhai Nagarbhai Vasava's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -282,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

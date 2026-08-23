@@ -3,23 +3,25 @@
 **Constituency:** Bijapur, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 71
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 3.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 51.63 Crore
+- **Liabilities:** Rs 6.81 Crore
+- **Net Worth:** Rs 44.82 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 27
+- **Released:** Rs 27
+- **Sanctioned:** Rs 2
+- **Expended:** Rs 1
+- **Utilization Rate:** 4.1%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-MP Ramesh Chandappa Jigajinagi shows a mixed transparency profile with strong attendance (90%) and clean criminal record, but significant weaknesses in legislative engagement, committee participation, and public accessibility. The low data confidence (14%) and multiple validation flags suggest incomplete information disclosure, which particularly impacts areas like MPLADS utilization and constituent engagement metrics.
+Ramesh Chandappa Jigajinagi shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Ramesh Chandappa Jigajinagi
-
-### Overall Assessment
-Ramesh Chandappa Jigajinagi represents Bijapur constituency in Karnataka as a Bharatiya Janata Party MP in the Lok Sabha. His transparency profile shows mixed indicators with reasonable parliamentary attendance but significant data gaps across multiple critical areas. With 90% attendance in Parliament and a clean criminal record, he demonstrates basic parliamentary compliance, though comprehensive assessment is hindered by incomplete financial and development fund data.
-
-### Fund Utilization & Development
-Complete data on MPLADS fund utilization is unavailable, with all key metrics (entitled amount, released funds, expenditure, and utilization percentage) showing as "None" in available records. This data gap is particularly concerning given the CAG audit findings for Karnataka highlighting systemic issues in fund management. The audit revealed Rs 1,558 crore in idle funds across district authorities and found that 34% of sampled utilization certificates lacked proper supporting documents. Additionally, 18% of sampled development works were abandoned or incomplete, raising questions about effective fund deployment in the constituency.
-
-### Financial Transparency
-Asset disclosure data is entirely absent from available records, with both current and previous asset values listed as "None." This prevents any assessment of wealth accumulation patterns or potential conflicts of interest. The growth ratio and net worth figures are similarly unavailable. The MP receives Rs 2,45,000 in monthly compensation, but without asset declarations, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Jigajinagi maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed matters, or convictions. However, the data carries a low confidence warning, indicating potential gaps in criminal record verification. While this appears positive, the data quality caveat suggests this assessment should be treated with appropriate caution.
-
-### Parliamentary Performance
-The MP demonstrates adequate parliamentary engagement with 90% attendance, significantly above many peers. His legislative activity shows 4 questions raised and participation in 1 debate, though no private member bills were introduced. This level of activity suggests basic fulfillment of parliamentary duties but falls short of exceptional legislative engagement. The Parliament activity data receives a 'C' evidence grade, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment - no positive or negative coverage identified. This suggests either limited public visibility or non-controversial tenure. The accessibility score receives a 'D' evidence grade, indicating poor data quality for assessing public engagement. No social media presence data or committee membership information is available, limiting assessment of constituent outreach and specialized parliamentary work.
-
-### Data Quality & Caveats
-Multiple significant data quality issues affect this profile. Criminal record data carries low confidence warnings due to potential source unavailability. Asset information shows complete absence, preventing financial transparency assessment. MPLADS data is entirely missing, making development fund accountability impossible to evaluate. Committee membership data is unavailable, potentially indicating Sansad profile access issues. Legislative effectiveness data also shows low confidence ratings. These gaps substantially limit comprehensive transparency assessment.
-
-### Key Takeaway
-While Jigajinagi maintains basic parliamentary compliance through good attendance and a clean criminal record, severe data gaps across financial disclosures, development fund utilization, and public engagement metrics prevent comprehensive transparency evaluation. The absence of MPLADS data is particularly concerning given CAG audit findings highlighting systemic fund management issues in Karnataka. Improved data availability and disclosure practices are essential for meaningful transparency assessment of this MP's performance and accountability to constituents.
+No criminal cases declared. Declared assets: Rs 516,315,994. MPLADS utilization: 4.1%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 1. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Jigajinagi maintains basic parliamentary compliance through good attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Ramesh Chandappa Jigajinagi's MPLADS account: Released: Rs 27, Expended: Rs 1, Utilization: 4.1%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

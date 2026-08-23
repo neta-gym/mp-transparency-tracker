@@ -6,23 +6,23 @@
 **Age:** 55
 **Education:** Post Graduate
 **Profession:** Politics, Social Worker, State Education Minister Indian Govt
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (30%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.5 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 16.3 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -35,32 +35,28 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
-### Cases Detail
-
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 454/2021, P.S-Dhanbad, Dist.Dhanbad) 
-
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 3.20 Crore
-- **Immovable Assets:** Rs 9.63 Crore
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
 - **Total Assets:** Rs 12.83 Crore
 - **Liabilities:** Rs 78.86 Lakh
 - **Net Worth:** Rs 12.04 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.3%
 
 ---
 
@@ -91,7 +87,6 @@
 
 ## Data Validation Flags
 
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -101,43 +96,11 @@
 
 ## Qualitative Assessment
 
-Annpurna Devi shows a mixed transparency profile with moderate performance in basic areas like MPLADS utilization and asset disclosure, but significant deficiencies in parliamentary engagement. The complete absence of committee participation and legislative contributions, combined with very poor accessibility to constituents, indicates limited active representation despite maintaining basic attendance levels.
+Annpurna Devi has a below-average transparency score of 47.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Annpurna Devi
-
-### Overall Assessment
-Annpurna Devi, BJP MP from Kodarma, Jharkhand, presents a mixed transparency profile characterized by significant wealth accumulation but limited verifiable data on parliamentary effectiveness and constituency development work. As a 55-year-old postgraduate serving as State Education Minister, her dual role as MP and minister may explain certain performance gaps, though data quality issues prevent definitive assessment.
-
-### Fund Utilization & Development
-**MPLADS data is entirely unavailable**, with no information on entitlements, releases, expenditures, or utilization rates. This represents a critical transparency gap for constituency development assessment. The CAG audit context reveals systemic issues in Jharkhand's fund management, including ₹1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These findings suggest broader challenges in development fund utilization that may affect constituency-level projects.
-
-### Financial Transparency
-Annpurna Devi declared total assets worth ₹12.83 crore with a net worth of ₹12.04 crore. However, **no previous asset data is available**, preventing analysis of wealth growth patterns or potential conflicts of interest. Her monthly compensation totals ₹2.45 lakh. The absence of comparative asset data limits assessment of financial transparency, though the declared wealth suggests substantial financial resources that warrant scrutiny regarding sources and growth trajectories.
-
-### Legal & Criminal Standing
-The MP faces **2 pending criminal cases with no convictions**. Neither case is classified as serious, and both remain unresolved with no disposals recorded. One case (454/2021) is registered at Dhanbad Police Station but lacks detailed description. While the current legal standing appears manageable, the pending nature of both cases requires monitoring for resolution and potential impact on public service.
-
-### Parliamentary Performance
-**Parliamentary activity data shows significant gaps**: 0 questions asked, 0 debate participations, and 0 private bills introduced, with no attendance percentage recorded. However, her role as State Education Minister may legitimately impact parliamentary presence due to executive responsibilities. The complete absence of legislative metrics raises concerns about constituency representation effectiveness, though ministerial duties could provide alternative avenues for public service.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals **10 neutral news articles with no positive or negative sentiment**, suggesting limited public visibility or engagement. No committee membership data is available, indicating either non-participation in parliamentary committees or data unavailability. Social media presence and public accessibility metrics are not provided, limiting assessment of constituent engagement and communication effectiveness.
-
-### Data Quality & Caveats
-The analysis faces significant **data quality limitations** with evidence grades ranging from B (criminal, assets) to D (accessibility). Key caveats include:
-
-- **MPLADS data**: Completely unavailable, preventing development work assessment
-- **Parliamentary activity**: Low confidence ratings suggest potential data gaps
-- **Committee participation**: No information available
-- **Asset growth**: Missing previous declarations prevent trend analysis
-- **Legislative effectiveness**: Insufficient data for meaningful evaluation
-
-These limitations substantially impact the reliability of performance assessments.
-
-### Key Takeaway
-Annpurna Devi's transparency profile is hampered by extensive data gaps that prevent comprehensive evaluation of her effectiveness as an MP. While her legal standing remains relatively clear with manageable pending cases and substantial declared assets, the complete absence of MPLADS data and limited parliamentary activity metrics raise questions about constituency service delivery. Her ministerial role may explain some performance gaps, but the lack of alternative service indicators makes it difficult to assess overall public service effectiveness. Improved data availability and transparency mechanisms are essential for meaningful accountability assessment.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 128,282,857. MPLADS utilization: 20.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -177,7 +140,7 @@ Annpurna Devi's transparency profile is hampered by extensive data gaps that pre
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -256,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Annpurna Devi's MPLADS account: Released: Rs 17, Expended: Rs 3, Utilization: 20.3%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -275,9 +240,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
 | Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news*
+*Sources consulted: myneta, prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

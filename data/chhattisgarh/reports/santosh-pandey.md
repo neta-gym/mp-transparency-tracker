@@ -3,32 +3,34 @@
 **Constituency:** Rajnandgaon, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 56
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 24.9 | 25% |
+| Asset Growth | 60.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.29 Crore
+- **Liabilities:** Rs 32.30 Lakh
+- **Net Worth:** Rs 3.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 35% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 31.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-Santosh Pandey demonstrates a mixed transparency profile with strong performance in attendance and criminal record disclosure, but significant gaps in legislative participation and committee involvement. The low data confidence of 14% and 6 validation flags suggest incomplete or unreliable information availability, which itself impacts overall transparency assessment.
+Santosh Pandey shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Santosh Pandey
-
-### Overall Assessment
-
-Santosh Pandey, BJP MP from Rajnandgaon constituency in Chhattisgarh, presents a limited transparency profile due to significant data gaps across multiple assessment areas. While maintaining perfect parliamentary attendance (100%), the absence of comprehensive asset disclosure, MPLADS utilization data, and criminal record verification raises concerns about overall transparency. The MP's profile reflects systemic data availability issues that hinder complete public accountability assessment.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitlement, release, or expenditure amounts. This complete data absence prevents assessment of the MP's development work effectiveness in Rajnandgaon constituency. The lack of utilization percentage data is particularly concerning given CAG audit findings highlighting widespread MPLADS implementation issues across states, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation. Without baseline MPLADS data, it's impossible to determine if Santosh Pandey's constituency faces similar implementation challenges.
-
-### Financial Transparency
-
-Asset disclosure presents a critical transparency gap, with no current or previous asset values available. The absence of total assets, net worth, and growth ratio data makes financial transparency assessment impossible. This data unavailability prevents public evaluation of potential conflicts of interest or unexplained wealth accumulation during the MP's tenure. The MP receives Rs 245,000 in monthly compensation, representing the standard parliamentary remuneration, but without asset disclosure context, comprehensive financial oversight remains incomplete.
-
-### Legal & Criminal Standing
-
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, automated flags indicate "low confidence in criminal data" with potentially unavailable sources, requiring cautious interpretation. While the reported clean record is positive, the data quality warning suggests this information may not reflect complete background verification. Without reliable criminal record verification, definitive assessment of legal standing remains uncertain.
-
-### Parliamentary Performance
-
-Parliamentary engagement shows mixed effectiveness. Santosh Pandey demonstrates excellent attendance discipline with 100% participation, indicating commitment to legislative duties. However, active participation metrics reveal limited engagement: only 4 questions raised and 5 debate participations, with zero private bills introduced. This suggests a passive parliamentary approach focused on presence rather than active legislative contribution. The absence of committee participation data (flagged as unavailable) further limits assessment of specialized legislative work and policy expertise development.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals neutral public engagement, with 10 news articles providing mixed/neutral coverage without clear positive or negative sentiment patterns. This neutral media profile suggests limited public visibility or controversial positions. The evidence grade for accessibility rates poorly (D), indicating minimal public outreach or constituent communication efforts. No social media engagement metrics are available, limiting assessment of modern communication strategies with constituents in Rajnandgaon.
-
-### Data Quality & Caveats
-
-Significant data quality issues pervade this transparency assessment. Multiple automated warnings highlight low confidence levels across criminal records, assets, and MPLADS data. Committee participation information is entirely unavailable, potentially due to missing Sansad profile data. Legislative effectiveness data carries low confidence ratings, while parliament activity evidence receives only a C grade. These systematic data gaps may reflect broader transparency infrastructure limitations rather than deliberate non-disclosure, but substantially limit accountability assessment capabilities.
-
-### Key Takeaway
-
-Santosh Pandey's transparency profile is characterized by excellent attendance discipline but significant information gaps across critical accountability areas. While maintaining perfect parliamentary presence and a reportedly clean criminal record, the absence of asset disclosure, MPLADS utilization data, and limited active legislative participation raises transparency concerns. The multiple data quality warnings suggest systemic information availability issues that prevent comprehensive public accountability assessment, highlighting the need for improved transparency infrastructure and standardized disclosure mechanisms for effective democratic oversight.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 42,916,375. MPLADS utilization: 31.2%. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 5.
 
 ---
 
@@ -170,7 +138,7 @@ Santosh Pandey's transparency profile is characterized by excellent attendance d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Santosh Pandey's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 31.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

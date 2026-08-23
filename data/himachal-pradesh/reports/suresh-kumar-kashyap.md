@@ -3,23 +3,25 @@
 **Constituency:** Shimla, Himachal Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 53
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 49.8 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.44 Crore
+- **Liabilities:** Rs 51.05 Lakh
+- **Net Worth:** Rs 3.93 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 9
+- **Utilization Rate:** 56.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Himachal Pradesh: 7 relevant findings
@@ -94,70 +94,11 @@
 
 ## Qualitative Assessment
 
-Suresh Kumar Kashyap demonstrates a mixed transparency profile with notable strengths in criminal record disclosure (perfect score) and reasonable performance in attendance and participation metrics. However, significant weaknesses emerge in committee work transparency, legislative activity disclosure, and public accessibility, which substantially impact his overall transparency rating.
+Suresh Kumar Kashyap shows moderate transparency with a score of 62.5/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-## Executive Summary: Suresh Kumar Kashyap
-
-### Overall Assessment
-
-Suresh Kumar Kashyap, BJP MP from Shimla, Himachal Pradesh, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. With 70% parliamentary attendance and minimal criminal record concerns, he demonstrates basic parliamentary engagement, though substantial information on asset disclosure and development fund utilization remains unavailable.
-
-### Fund Utilization & Development
-
-**Critical data unavailability**: Complete absence of MPLADS (Member of Parliament Local Area Development Scheme) data severely limits assessment of constituency development activities. No information is available on entitled funds, releases, expenditures, or utilization rates.
-
-**Systemic concerns from CAG audits** highlight broader issues in Himachal Pradesh's fund management:
-- Rs 1,558 crore in idle funds across district authorities (CAG Report 31/2010)
-- 34% of sampled utilization certificates lack proper documentation
-- 18% of development works remain abandoned or incomplete
-
-These audit findings raise questions about the broader development fund ecosystem in which MP Kashyap operates, though his individual performance cannot be directly assessed due to missing MPLADS data.
-
-### Financial Transparency
-
-**Asset disclosure**: No current or previous asset information is available, preventing assessment of wealth declaration compliance or financial growth patterns. This represents a significant transparency gap, as asset disclosure is mandatory for elected officials.
-
-**Compensation**: Monthly parliamentary compensation recorded at Rs 2,45,000, consistent with standard MP remuneration structures.
-
-### Legal & Criminal Standing
-
-**Clean record**: Zero criminal cases across all categories—no serious offenses, pending cases, disposed matters, or convictions. This indicates a clean legal standing, though the warning flag suggests potential data reliability issues in criminal record verification.
-
-### Parliamentary Performance
-
-**Attendance**: 70% parliamentary attendance falls below optimal engagement levels but remains within acceptable ranges for active participation.
-
-**Legislative activity**: 
-- 45 questions raised in Parliament, indicating moderate engagement in oversight functions
-- 8 debate participations show limited involvement in legislative discussions
-- Zero private bills introduced, suggesting minimal legislative initiative
-
-**Committee work**: No committee assignment data available, limiting assessment of specialized parliamentary contributions.
-
-### Public Engagement & Accessibility
-
-**Media presence**: Analysis of 10 news articles reveals predominantly neutral coverage (9 neutral, 1 positive, 0 negative), suggesting limited media visibility or controversial activities. This neutral profile may indicate either effective constituency management or insufficient public engagement visibility.
-
-**Digital accessibility**: Evidence grade 'D' for accessibility indicates poor online presence or transparency in constituent communication channels.
-
-### Data Quality & Caveats
-
-**Significant limitations**: Multiple warning flags indicate compromised data reliability:
-- Criminal record data marked as low confidence
-- Asset information completely unavailable
-- MPLADS data entirely missing
-- Committee participation data absent
-- Legislative effectiveness metrics have low confidence ratings
-
-**Source limitations**: Data compiled from PRS Legislative Research, social media, and news sources, with notable gaps in official parliamentary and election commission records.
-
-**Evidence grading**: Parliament performance rated 'C' and accessibility rated 'D', indicating below-average data availability and verification confidence.
-
-### Key Takeaway
-
-MP Suresh Kumar Kashyap's transparency profile is severely constrained by missing critical data across asset disclosure and development fund utilization. While maintaining a clean legal record and moderate parliamentary attendance, the absence of MPLADS information and asset declarations raises significant transparency concerns. The neutral media coverage and poor accessibility rating suggest limited public engagement visibility. Comprehensive assessment requires substantial improvement in data availability and official disclosure compliance. Voters should seek direct engagement for constituency development updates given the absence of official utilization data.
+No criminal cases declared. Declared assets: Rs 44,442,736. MPLADS utilization: 56.5%. Parliament attendance: 70.0%. Questions asked: 45. Debates participated: 8.
 
 ---
 
@@ -197,7 +138,7 @@ MP Suresh Kumar Kashyap's transparency profile is severely constrained by missin
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -276,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Suresh Kumar Kashyap's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 56.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -293,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

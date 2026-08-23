@@ -3,32 +3,32 @@
 **Constituency:** Purnia, Bihar
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 38.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 26.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 41
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 41
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 12.09 Crore
+- **Liabilities:** Rs 1.72 Crore
+- **Net Worth:** Rs 10.36 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 63% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 5
+- **Utilization Rate:** 32.5%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -94,35 +92,11 @@
 
 ## Qualitative Assessment
 
-Rajesh Ranjan shows a mixed transparency profile with moderate overall performance but significant gaps in key areas. While maintaining perfect criminal case disclosure and decent participation scores, critical weaknesses in committee involvement, legislative activity, and public accessibility substantially undermine transparency. The low data confidence of 14% and multiple validation flags suggest incomplete information availability.
+Rajesh Ranjan has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rajesh Ranjan
-
-### Overall Assessment
-Rajesh Ranjan, Independent MP from Purnia, Bihar, presents a mixed transparency profile with significant data gaps that limit comprehensive evaluation. While maintaining reasonable parliamentary attendance (70%), his overall transparency is hampered by incomplete disclosure of critical information including assets, MPLADS utilization, and limited public engagement metrics.
-
-### Fund Utilization & Development
-MPLADS data is unavailable for assessment, with no information on entitled amounts, releases, or expenditure. This represents a critical transparency gap for evaluating constituency development efforts. The CAG audit context for Bihar reveals systemic concerns relevant to fund management, including Rs 1,558 crore in idle funds lying unspent across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of sampled works remaining incomplete or abandoned. These state-level findings raise questions about overall fund management effectiveness in the region.
-
-### Financial Transparency
-Asset disclosure data is completely unavailable, with no information on current assets, previous holdings, growth ratios, or net worth. This represents a significant transparency deficit, making it impossible to assess financial accountability or potential conflicts of interest. The MP receives standard parliamentary compensation of Rs 2.45 lakh monthly, but without asset declarations, comprehensive financial transparency cannot be evaluated.
-
-### Legal & Criminal Standing
-Criminal record data shows zero cases across all categories (total, serious, pending, disposed, and convictions), indicating a clean legal standing. However, data confidence is flagged as low, suggesting potential gaps in source availability or reporting completeness that may affect the reliability of this assessment.
-
-### Parliamentary Performance
-Ranjan demonstrates moderate parliamentary engagement with 70% attendance, positioning him reasonably within expected participation levels. He has raised 41 questions and participated in 22 debates, showing active involvement in legislative discussions. However, he has introduced zero private bills, indicating limited legislative initiative. No committee data is available, preventing assessment of specialized parliamentary work.
-
-### Public Engagement & Accessibility
-Public engagement metrics are limited, with news coverage analysis showing 10 articles (20% negative, 80% neutral/positive), suggesting minimal media attention and limited public discourse. Social media presence and direct accessibility measures are not available in the provided data, making it difficult to assess constituent engagement strategies or responsiveness to public concerns.
-
-### Data Quality & Caveats
-The analysis faces significant limitations due to multiple data quality issues. Criminal record data has low confidence ratings, asset information is completely unavailable, MPLADS data is missing, and committee information is absent due to potentially unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These gaps substantially limit the comprehensiveness of the transparency assessment and suggest systemic data availability challenges.
-
-### Key Takeaway
-Rajesh Ranjan's transparency profile is severely constrained by missing critical data, particularly regarding assets and MPLADS utilization. While maintaining adequate parliamentary attendance and a clean criminal record, the absence of financial disclosures and development fund information prevents meaningful accountability assessment. The data gaps, combined with systemic fund management concerns highlighted by CAG audits in Bihar, underscore the need for improved transparency mechanisms and data disclosure practices.
+Has 41 criminal case(s) (0 serious), 41 pending, 0 conviction(s). Declared assets: Rs 120,884,682. MPLADS utilization: 32.5%. Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 22.
 
 ---
 
@@ -162,7 +136,7 @@ Rajesh Ranjan's transparency profile is severely constrained by missing critical
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rajesh Ranjan's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

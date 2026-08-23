@@ -3,23 +3,25 @@
 **Constituency:** Chennai North, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 60.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 27.1 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 61.06 Crore
+- **Liabilities:** Rs 38.34 Crore
+- **Net Worth:** Rs 22.72 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 10
+- **Expended:** Rs 6
+- **Utilization Rate:** 33.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kalanidhi Veeraswamy demonstrates mixed transparency performance with a moderate overall score of 52/100. While showing excellent attendance (95%) and clean criminal record (100%), significant concerns exist in committee participation (0%), legislative initiatives (0%), and public accessibility (10%). The low data confidence (14%) and multiple validation flags suggest incomplete information availability.
+Kalanidhi Veeraswamy shows moderate transparency with a score of 60.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Kalanidhi Veeraswamy
-
-### Overall Assessment
-Kalanidhi Veeraswamy, representing Chennai North constituency for the Dravida Munnetra Kazhagam (DMK), demonstrates strong parliamentary attendance but faces significant data transparency gaps across multiple critical areas. While maintaining a clean legal record and high legislative participation, the absence of comprehensive financial and development fund data limits a complete assessment of his effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, with all metrics (entitlement, release, expenditure, and utilization percentage) showing no recorded information. This data gap is particularly concerning given the CAG audit findings revealing systemic issues in fund management across Tamil Nadu, including Rs 1,558 crore lying idle in district accounts and 34% of utilization certificates lacking proper documentation. Without transparent MPLADS reporting, constituents cannot assess how effectively their MP is utilizing allocated development funds for Chennai North's infrastructure and social programs.
-
-### Financial Transparency
-Asset disclosure information is completely unavailable, with no data on current total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency prevents assessment of potential conflicts of interest or wealth accumulation patterns during tenure. The MP receives a monthly compensation of Rs 2,45,000, but without baseline asset information, tracking financial changes or potential irregularities is impossible.
-
-### Legal & Criminal Standing
-Veeraswamy maintains a clean criminal record with zero cases across all categories - no pending cases, disposed cases, serious charges, or convictions. This clean legal standing provides confidence in his eligibility and character for public office, though data quality warnings suggest these records may not be comprehensively verified.
-
-### Parliamentary Performance
-The MP demonstrates exceptional parliamentary attendance at 95%, significantly above average legislative participation rates. He has asked 43 questions in Parliament and participated in 7 debates, showing active engagement in legislative processes. However, he has not introduced any private member bills, indicating limited initiative in proposing new legislation. The evidence quality for parliamentary data is rated 'C', suggesting moderate reliability in these performance metrics.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment - no positive or negative coverage identified. This neutral media profile suggests either limited controversial involvement or insufficient media attention to his constituency work. The accessibility evidence grade of 'D' indicates poor transparency in public engagement metrics. No committee membership data is available, limiting assessment of his specialized legislative contributions.
-
-### Data Quality & Caveats
-Multiple automated flags highlight significant data reliability concerns. Criminal record data carries low confidence warnings due to potentially unavailable sources. Asset information and MPLADS data both show low confidence ratings, fundamentally limiting transparency assessment. The absence of Sansad profile data prevents committee membership verification. Parliamentary effectiveness data also carries low confidence ratings, though basic attendance and question metrics appear more reliable. These data gaps significantly constrain comprehensive evaluation of the MP's performance and transparency.
-
-### Key Takeaway
-While Kalanidhi Veeraswamy demonstrates strong parliamentary attendance (95%) and maintains a clean legal record, critical transparency gaps in asset disclosure and MPLADS utilization prevent comprehensive accountability assessment. The systemic data unavailability across financial and development metrics, combined with CAG audit findings highlighting widespread fund management issues in Tamil Nadu, raises concerns about transparency standards. Constituents lack essential information to evaluate their representative's financial integrity and development fund effectiveness, despite his active legislative participation.
+No criminal cases declared. Declared assets: Rs 610,614,066. MPLADS utilization: 33.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 7.
 
 ---
 
@@ -162,7 +138,7 @@ While Kalanidhi Veeraswamy demonstrates strong parliamentary attendance (95%) an
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kalanidhi Veeraswamy's MPLADS account: Released: Rs 17, Expended: Rs 6, Utilization: 33.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,32 +3,34 @@
 **Constituency:** Kadapa, Andhra Pradesh
 **Party:** Yuvajana Sramika Rythu Congress Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 39
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 16.0 | 25% |
+| Asset Growth | 55.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 40.43 Crore
+- **Liabilities:** Rs 11.56 Crore
+- **Net Worth:** Rs 28.87 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 3
+- **Utilization Rate:** 20.0%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-Y S Avinash Reddy demonstrates mixed transparency with notable strengths in criminal record disclosure (perfect score) and moderate performance in MPLADS utilization and parliamentary participation. However, significant weaknesses exist in committee involvement, accessibility to constituents, and legislative contributions, resulting in a below-average overall transparency profile.
+Y S Avinash Reddy has a below-average transparency score of 48.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-## Executive Summary: Y S Avinash Reddy
-
-### Overall Assessment
-Y S Avinash Reddy, representing Kadapa constituency in Andhra Pradesh for the Yuvajana Sramika Rythu Congress Party, presents a mixed transparency profile with significant data gaps. While maintaining a clean criminal record and moderate parliamentary participation, the MP's profile is hampered by missing financial and asset information, limiting comprehensive assessment of their public service effectiveness.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of the MP's development work in Kadapa constituency. This data gap is particularly concerning given CAG audit findings revealing systemic issues in Andhra Pradesh, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The audit also identified 18% of sampled works as abandoned or incomplete, highlighting broader infrastructure execution challenges that may affect the constituency's development projects.
-
-### Financial Transparency
-Asset disclosure information is completely missing, with no data on total assets, previous holdings, growth ratios, or net worth. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives and crucial for public accountability. The MP receives Rs 2,45,000 in monthly compensation, but without baseline asset information, it's impossible to assess financial propriety or potential conflicts of interest.
-
-### Legal & Criminal Standing
-The MP maintains a clean criminal record with zero cases across all categories - no serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning due to potential source unavailability, suggesting the information may be incomplete rather than definitively clean.
-
-### Parliamentary Performance
-Parliamentary attendance stands at 55%, falling below the ideal standard for consistent representation. The MP has asked 48 questions in Parliament, demonstrating some engagement with legislative oversight, and participated in 2 debates, showing limited but present involvement in parliamentary discussions. No private bills have been introduced, indicating minimal legislative initiative. The evidence grade of 'C' for parliamentary performance suggests adequate but improvable engagement.
-
-### Public Engagement & Accessibility
-Public engagement metrics show concerning limitations. News coverage analysis reveals 10 articles with entirely neutral sentiment (0 positive, 0 negative), suggesting limited public visibility or impact. The accessibility evidence grade of 'D' indicates poor public outreach and engagement mechanisms. No committee participation data is available, potentially due to unavailable Sansad profile information, further limiting assessment of the MP's specialized legislative contributions.
-
-### Data Quality & Caveats
-Multiple data quality issues significantly impact this assessment:
-- Criminal record data carries low confidence warnings
-- Asset information is completely unavailable
-- MPLADS utilization data is missing
-- Committee participation information is absent
-- Legislative effectiveness data has low confidence ratings
-
-These gaps may result from unavailable official sources or incomplete data collection, requiring cautious interpretation of available information.
-
-### Key Takeaway
-Y S Avinash Reddy's transparency profile reveals a representative with a clean legal record but significant accountability gaps. The absence of crucial financial and development fund data, combined with below-average parliamentary attendance (55%) and minimal public engagement, raises questions about overall effectiveness. While the clean criminal record is positive, the missing asset declarations and MPLADS utilization data prevent comprehensive evaluation of the MP's stewardship of public resources. The neutral media coverage and poor accessibility ratings suggest limited constituent engagement, requiring improvement in public communication and transparency practices to enhance democratic accountability.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 404,301,973. MPLADS utilization: 20.0%. Parliament attendance: 55.0%. Questions asked: 48. Debates participated: 2.
 
 ---
 
@@ -169,7 +138,7 @@ Y S Avinash Reddy's transparency profile reveals a representative with a clean l
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Y S Avinash Reddy's MPLADS account: Released: Rs 16, Expended: Rs 3, Utilization: 20.0%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

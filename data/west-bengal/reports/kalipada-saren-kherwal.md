@@ -3,23 +3,25 @@
 **Constituency:** Jhargram, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 66
+**Education:** Post Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 59.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 34.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.30 Crore
+- **Liabilities:** Rs 2.06 Lakh
+- **Net Worth:** Rs 1.28 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 11% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 7
+- **Expended:** Rs 6
+- **Utilization Rate:** 42.6%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,43 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Kalipada Saren Kherwal shows a mixed transparency profile with perfect attendance and no criminal record, but significant gaps in legislative participation and committee involvement. The low data confidence (14%) and multiple validation flags suggest limited information availability, which itself indicates poor transparency practices.
+Kalipada Saren Kherwal shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Kalipada Saren Kherwal
-
-### Overall Assessment
-
-MP Kalipada Saren Kherwal represents the Jhargram constituency in West Bengal as a member of the All India Trinamool Congress in the Lok Sabha. The transparency profile reveals a mixed picture with perfect attendance but significant data gaps across critical areas including asset declarations, MPLADS utilization, and development fund management. With evidence grades of 'C' for parliament activity and 'D' for accessibility, the MP's transparency profile is hampered by incomplete information availability.
-
-### Fund Utilization & Development
-
-Complete data on MPLADS fund utilization is unavailable, with all key metrics (entitled amount, released funds, expenditure, and utilization percentage) showing as "None." This represents a critical transparency gap given that MPLADS funds are essential for constituency development. The lack of utilization data is particularly concerning given CAG audit findings highlighting systemic issues in fund management across states, including ₹1,558 crore in idle funds lying unspent in district authorities' accounts and 34% of sampled utilization certificates lacking proper supporting documents.
-
-### Financial Transparency
-
-Asset declaration data is completely absent, with both current and previous asset values listed as "None," making it impossible to assess financial transparency or track wealth accumulation during tenure. The growth ratio and net worth calculations are consequently unavailable. The MP receives a total monthly compensation of ₹245,000, which appears to be the standard parliamentary compensation structure.
-
-### Legal & Criminal Standing
-
-The MP shows a clean criminal record with zero cases across all categories (total, serious, pending, disposed, and convictions). However, automated flags indicate "low confidence in criminal data" as the source may be unavailable, suggesting this clean record should be interpreted with caution due to potential data quality issues.
-
-### Parliamentary Performance
-
-MP Kherwal demonstrates strong attendance with a perfect 100% attendance record in the Lok Sabha. However, active participation appears limited with zero questions asked and zero private bills introduced during the tenure. The MP has participated in 2 debates, showing minimal legislative engagement beyond attendance. No committee membership data is available, as the Sansad profile appears to be inaccessible.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals 9 news articles, all classified as neutral with zero positive or negative sentiment articles. This suggests limited public visibility or controversial issues but also indicates minimal proactive engagement with media or public discourse. The summary describes "mixed/neutral coverage," pointing to a low-profile public presence. Social media presence and direct accessibility metrics are not available in the provided data.
-
-### Data Quality & Caveats
-
-The transparency assessment is significantly compromised by multiple data quality issues. Automated warnings highlight low confidence in criminal record data, asset information, and MPLADS utilization figures. The absence of committee membership data due to inaccessible Sansad profiles further limits the assessment. Evidence grades of 'C' for parliament activity and 'D' for accessibility reflect these substantial information gaps. The CAG audit context provides relevant systemic concerns about fund utilization in West Bengal, with 7 relevant findings identified, but specific linkage to this MP's performance cannot be established without detailed MPLADS data.
-
-### Key Takeaway
-
-While MP Kalipada Saren Kherwal maintains perfect parliamentary attendance and a clean criminal record, the transparency profile is severely undermined by missing critical data on asset declarations, MPLADS fund utilization, and limited legislative engagement beyond attendance. The absence of financial transparency data and development fund information represents significant accountability gaps that prevent a comprehensive assessment of the MP's effectiveness and integrity in serving the Jhargram constituency.
+No criminal cases declared. Declared assets: Rs 13,023,236. MPLADS utilization: 42.6%. Parliament attendance: 100.0%. Debates participated: 2.
 
 ---
 
@@ -170,7 +138,7 @@ While MP Kalipada Saren Kherwal maintains perfect parliamentary attendance and a
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -249,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Kalipada Saren Kherwal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 42.6%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -266,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

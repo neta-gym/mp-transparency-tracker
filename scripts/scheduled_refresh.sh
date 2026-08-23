@@ -1,25 +1,26 @@
 #!/bin/bash
 # Scheduled pipeline refresh — runs every 15 days via cron
-# Refreshes all states with seed data, then sends Telegram notification
+# Refreshes tracked states, then sends Telegram notification
 #
 # Cron entry (runs at 6 AM on 1st and 16th of each month):
-#   0 6 1,16 * * /Users/shridhar.kumar/Downloads/side/mp-transparency-tracker/scripts/scheduled_refresh.sh >> /tmp/mp-tracker-cron.log 2>&1
+#   0 6 1,16 * * /path/to/mp-transparency-tracker/scripts/scheduled_refresh.sh >> /tmp/mp-tracker-cron.log 2>&1
 
 set -e
 
-cd /Users/shridhar.kumar/Downloads/side/mp-transparency-tracker
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR/.."
 
-# Load environment
+# Load environment (Telegram credentials etc.)
 source .env
-export ANTHROPIC_API_KEY
 
 LOGFILE="/tmp/mp-tracker-refresh-$(date +%Y%m%d).log"
 
 echo "=== MP Transparency Tracker Refresh ===" | tee -a "$LOGFILE"
 echo "Started: $(date)" | tee -a "$LOGFILE"
 
-# Run pipeline for all seeded states
+# Run pipeline for tracked states
 # Smart cache will skip fresh data and only re-fetch stale/missing sources
+# NOTE: currently only Delhi; switch to --all-states for a full refresh
 python -m tracker.main --states delhi 2>&1 | tee -a "$LOGFILE"
 
 echo "" | tee -a "$LOGFILE"

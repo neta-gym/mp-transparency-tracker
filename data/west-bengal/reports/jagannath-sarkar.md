@@ -3,32 +3,34 @@
 **Constituency:** Ranaghat, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 61
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 47.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.2 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.23 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 6
+- **Expended:** Rs 3
+- **Utilization Rate:** 21.5%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,42 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Jagannath Sarkar demonstrates mixed transparency performance with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in legislative participation and committee engagement. The complete absence of committee participation and legislative activity, combined with very low accessibility scores, indicates limited public engagement and institutional involvement despite good attendance records.
+Jagannath Sarkar has a below-average transparency score of 47.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-## Executive Summary: Jagannath Sarkar
-
-### Overall Assessment
-Jagannath Sarkar, BJP MP from Ranaghat constituency in West Bengal, presents a mixed transparency profile with significant data gaps limiting comprehensive assessment. While maintaining good parliamentary attendance (90%), several key transparency indicators lack reliable data, including asset declarations, MPLADS utilization, and detailed criminal record verification.
-
-### Fund Utilization & Development
-MPLADS data is unavailable for assessment, marking a critical gap in evaluating developmental fund utilization. The absence of entitled, released, and expended amounts prevents analysis of constituency development effectiveness. This data limitation is particularly concerning given CAG audit findings revealing systemic issues in West Bengal's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data available for total assets, previous holdings, growth ratios, or net worth calculations. This represents a significant transparency deficit, preventing assessment of financial probity or potential conflicts of interest. Monthly compensation stands at Rs 2,45,000, representing the standard parliamentary remuneration package.
-
-### Legal & Criminal Standing
-Criminal record shows zero cases across all categories (total, serious, pending, disposed, convictions), suggesting a clean legal standing. However, automated flags indicate "low confidence in criminal data" due to potentially unavailable sources, requiring cautious interpretation of this apparently clean record.
-
-### Parliamentary Performance
-Parliamentary engagement shows moderate activity levels with 90% attendance, demonstrating consistent presence in proceedings. Legislative participation includes 13 questions raised and 1 debate participation, indicating basic engagement with parliamentary processes. No private member bills were introduced, and no committee participation data is available, suggesting limited legislative initiative beyond standard participation.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral sentiment (no positive or negative coverage identified), suggesting limited public visibility or controversial positions. The absence of committee data and low evidence grades for accessibility (Grade D) indicate limited transparency in public engagement mechanisms. Social media presence appears minimal based on available data sources.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns:
-- Criminal record data marked as low confidence due to source unavailability
-- Asset information completely absent with low confidence ratings
-- MPLADS data unavailable despite constituency development importance
-- Committee participation data missing due to potentially unavailable Sansad profiles
-- Evidence grades of C for parliament activity and D for accessibility indicate substantial data gaps
-
-The overall evidence quality suggests limited digital transparency infrastructure or reporting compliance, making comprehensive performance evaluation challenging.
-
-### Key Takeaway
-Jagannath Sarkar maintains basic parliamentary compliance with good attendance but faces significant transparency deficits across multiple indicators. The absence of asset declarations, MPLADS utilization data, and reliable criminal record verification, combined with minimal public engagement visibility, creates substantial accountability gaps. While no negative indicators are clearly documented, the extensive data unavailability prevents confident assessment of overall performance and raises questions about transparency infrastructure in his constituency representation.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 22,328,968. MPLADS utilization: 21.5%. Parliament attendance: 90.0%. Questions asked: 13. Debates participated: 1.
 
 ---
 
@@ -169,7 +138,7 @@ Jagannath Sarkar maintains basic parliamentary compliance with good attendance b
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jagannath Sarkar's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.5%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

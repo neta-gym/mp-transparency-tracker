@@ -3,23 +3,25 @@
 **Constituency:** Bathinda, Punjab
 **Party:** Shiromani Akali Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 57
+**Education:** 10th Pass
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 36.5 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 198.52 Crore
+- **Liabilities:** Rs 54.48 Crore
+- **Net Worth:** Rs 144.04 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 16
+- **Released:** Rs 16
+- **Sanctioned:** Rs 11
+- **Expended:** Rs 7
+- **Utilization Rate:** 45.7%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Harsimrat Kaur Badal shows a mixed transparency profile with moderate performance in MPLADS utilization and asset disclosure, and full compliance on criminal record transparency. However, significant concerns exist in committee participation, legislative activity, and public accessibility, with particularly low attendance rates affecting overall democratic accountability.
+Harsimrat Kaur Badal shows moderate transparency with a score of 53.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-## Executive Summary: Harsimrat Kaur Badal
-
-### Overall Assessment
-Harsimrat Kaur Badal, representing Bathinda constituency in Punjab for Shiromani Akali Dal, presents a mixed transparency profile with significant data gaps across key metrics. While maintaining a clean legal record, her parliamentary attendance of 35% falls well below expectations for effective representation. The absence of critical financial data including assets and MPLADS utilization severely limits comprehensive assessment of her developmental impact and fiscal responsibility.
-
-### Fund Utilization & Development
-Complete MPLADS data is unavailable, preventing assessment of constituency development fund utilization. This data gap is particularly concerning given systemic issues identified by CAG audits in Punjab's development fund management. The CAG's 2010 audit (Report 31) revealed significant concerns including Rs 1,558 crore in idle funds across district authorities, 34% of utilization certificates lacking proper documentation, and 18% of development works remaining incomplete or abandoned. Without specific MPLADS data for Badal's constituency, it's impossible to determine whether Bathinda faces similar challenges or has achieved better fund utilization rates.
-
-### Financial Transparency
-Financial transparency is severely compromised due to missing asset declaration data. Both current and previous asset values are unavailable, preventing calculation of wealth growth ratios or assessment of potential conflicts of interest. Her monthly compensation stands at Rs 2,45,000, but without baseline asset information, comprehensive financial profiling remains impossible. This data gap raises concerns about transparency compliance and public accountability regarding personal financial interests.
-
-### Legal & Criminal Standing
-Badal maintains an exemplary legal record with zero criminal cases across all categories - no pending cases, serious charges, disposed matters, or convictions. This clean criminal profile provides confidence in her legal standing and suggests absence of integrity concerns from a judicial perspective. However, the automated warning flag indicates low confidence in criminal data sourcing, though the clean record appears consistent across available verification sources.
-
-### Parliamentary Performance
-Parliamentary engagement shows concerning patterns with 35% attendance significantly below acceptable standards for effective representation. Her legislative activity includes 24 questions raised and participation in 8 debates, indicating some level of parliamentary engagement despite poor attendance. Notably, she has introduced zero private member bills, suggesting limited initiative in legislative drafting. The evidence grade of 'C' for parliamentary data indicates moderate reliability, but the available metrics suggest suboptimal performance in her primary constitutional duties.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals neutral public sentiment with 10 articles tracked (8 neutral, 2 negative, 0 positive), suggesting limited positive public engagement or notable achievements receiving media attention. The accessibility evidence grade of 'D' indicates poor data availability regarding public outreach activities, constituency engagement programs, or digital presence. This suggests either limited accessibility initiatives or insufficient transparency in communicating such activities to constituents.
-
-### Data Quality & Caveats
-Multiple automated warnings highlight significant data reliability concerns. Asset and MPLADS data show low confidence ratings, criminal record verification faces source availability issues, and no committee membership information was found, possibly due to unavailable Sansad profiles. Legislative effectiveness data also carries low confidence ratings. These gaps substantially limit the comprehensiveness of this transparency assessment and may indicate either poor record-keeping systems or insufficient public disclosure practices.
-
-### Key Takeaway
-While Harsimrat Kaur Badal maintains a clean legal record, her overall transparency profile is severely hampered by missing critical data across financial assets, development fund utilization, and detailed parliamentary activities. The 35% attendance rate raises serious questions about constituency representation effectiveness. The absence of asset declarations and MPLADS utilization data, combined with neutral-to-negative media sentiment, suggests significant room for improvement in transparency and public accountability. Enhanced data disclosure and improved parliamentary attendance should be immediate priorities for strengthening democratic representation and constituent trust.
+No criminal cases declared. Declared assets: Rs 1,985,183,903. MPLADS utilization: 45.7%. Parliament attendance: 35.0%. Questions asked: 24. Debates participated: 8.
 
 ---
 
@@ -162,7 +138,7 @@ While Harsimrat Kaur Badal maintains a clean legal record, her overall transpare
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Harsimrat Kaur Badal's MPLADS account: Released: Rs 16, Expended: Rs 7, Utilization: 45.7%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

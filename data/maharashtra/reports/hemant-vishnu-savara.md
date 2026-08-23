@@ -3,23 +3,25 @@
 **Constituency:** Palghar, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 47
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 56.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.1 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 8.16 Crore
+- **Liabilities:** Rs 1.08 Crore
+- **Net Worth:** Rs 7.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.4%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Hemant Vishnu Savara demonstrates mixed transparency with notable strengths in criminal record disclosure and parliamentary attendance, but significant weaknesses in committee participation, legislative activity, and public accessibility. The moderate MPLADS and assets transparency scores, combined with zero committee and legislative engagement, suggest limited overall effectiveness in transparent governance.
+Hemant Vishnu Savara shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Hemant Vishnu Savara
-
-### Overall Assessment
-Hemant Vishnu Savara, BJP MP from Palghar, Maharashtra, presents a mixed transparency profile with adequate parliamentary attendance but significant data gaps across key accountability metrics. While maintaining a clean criminal record and reasonable participation in parliamentary proceedings, the absence of crucial financial and developmental data severely limits comprehensive assessment of his performance as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is completely unavailable, with no information on entitled funds, releases, expenditures, or utilization rates. This represents a critical transparency gap given that MPLADS funds are a primary mechanism for constituency development. The CAG audit context reveals systemic issues in Maharashtra's fund management, including ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Without specific data on Savara's MPLADS performance, constituents cannot assess his effectiveness in securing and utilizing development funds.
-
-### Financial Transparency
-Asset disclosure data is entirely missing, with no information on total assets, previous declarations, growth ratios, or net worth. This complete absence of financial transparency data prevents evaluation of wealth accumulation patterns or potential conflicts of interest. The only available financial information is his monthly compensation of ₹2,45,000, which represents standard parliamentary remuneration. The lack of asset data significantly undermines public accountability.
-
-### Legal & Criminal Standing
-Savara maintains an exemplary legal record with zero criminal cases across all categories - no total cases, serious charges, pending matters, disposed cases, or convictions. However, the data carries a low confidence warning, suggesting potential source limitations. Despite this caveat, the clean criminal record represents a positive aspect of his public service profile.
-
-### Parliamentary Performance
-Savara demonstrates solid parliamentary engagement with 85% attendance, significantly above average participation levels. He has asked 69 questions and participated in 10 debates, indicating active involvement in legislative proceedings. However, he has introduced zero private member bills, suggesting limited initiative in proposing new legislation. The parliament activity grade of 'C' reflects adequate but not exceptional performance in formal parliamentary duties.
-
-### Public Engagement & Accessibility
-Media coverage analysis shows 10 news articles, all neutral in sentiment with no positive or negative coverage identified. This neutral media presence suggests either limited public visibility or absence of controversial activities. The accessibility grade of 'D' indicates poor public engagement metrics, potentially limiting constituent communication and feedback mechanisms. Committee participation data is unavailable, preventing assessment of his role in specialized legislative work.
-
-### Data Quality & Caveats
-This analysis faces significant data quality limitations across multiple domains. Criminal record data has low confidence due to potential source unavailability. Asset information is completely missing, severely limiting financial transparency assessment. MPLADS data is unavailable, preventing evaluation of constituency development work. Committee membership information is absent, and legislative effectiveness data has low confidence ratings. These gaps substantially constrain the comprehensiveness of this transparency evaluation.
-
-### Key Takeaway
-While Hemant Vishnu Savara maintains a clean criminal record and demonstrates reasonable parliamentary attendance, the extensive absence of financial, developmental, and detailed legislative data creates significant transparency concerns. The complete lack of asset disclosure and MPLADS information, combined with neutral media coverage and poor accessibility metrics, suggests limited public accountability mechanisms. Constituents lack access to crucial information needed to evaluate his effectiveness in fund utilization, wealth management, and constituency development. Improved data disclosure across all transparency metrics is essential for meaningful public oversight.
+No criminal cases declared. Declared assets: Rs 81,622,050. MPLADS utilization: 1.4%. Parliament attendance: 85.0%. Questions asked: 69. Debates participated: 10. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Hemant Vishnu Savara maintains a clean criminal record and demonstrates re
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Hemant Vishnu Savara's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,23 +3,23 @@
 **Constituency:** Tenkasi, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 67.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 54.1 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +36,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.14 Crore
+- **Liabilities:** Rs 9.88 Lakh
+- **Net Worth:** Rs 2.04 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 9
+- **Expended:** Rs 9
+- **Utilization Rate:** 59.4%
 
 ---
 
@@ -83,9 +84,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
@@ -94,42 +92,11 @@
 
 ## Qualitative Assessment
 
-MP Rani Srikumar shows a mixed transparency profile with notable strengths in attendance and criminal record disclosure, achieving perfect scores in both areas. However, significant weaknesses emerge in committee participation, legislative contributions, and accessibility measures, which substantially impact the overall transparency score. The low data confidence of 14% and presence of 6 validation flags suggest incomplete or unreliable information availability.
+Rani Srikumar shows moderate transparency with a score of 67.6/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Rani Srikumar
-
-### Overall Assessment
-Rani Srikumar, Dravida Munnetra Kazhagam (DMK) MP representing Tenkasi constituency in Tamil Nadu, presents a mixed transparency profile with strong parliamentary attendance but significant data gaps across multiple domains. While maintaining perfect attendance and active participation in parliamentary proceedings, comprehensive assessment is hindered by incomplete financial and administrative data availability.
-
-### Fund Utilization & Development
-Critical data on MPLADS (Member of Parliament Local Area Development Scheme) fund utilization is unavailable, with all metrics showing "None" for entitled, released, expended amounts and utilization percentages. This data gap is particularly concerning given CAG audit findings highlighting systemic issues in Tamil Nadu's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. The absence of MPLADS data prevents assessment of the MP's development delivery effectiveness in Tenkasi constituency.
-
-### Financial Transparency
-Asset disclosure information is completely absent, with no data available for total assets, previous assets, growth ratios, or net worth calculations. This represents a significant transparency gap, as asset declarations are mandatory for elected representatives. The MP receives standard parliamentary compensation of Rs 245,000 monthly, but without asset disclosure data, comprehensive financial transparency assessment is impossible.
-
-### Legal & Criminal Standing
-Rani Srikumar maintains a clean legal record with zero criminal cases across all categories—no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with a low confidence warning, indicating potential source reliability issues. While the clean record is positive, the data quality concerns require noting.
-
-### Parliamentary Performance
-The MP demonstrates exceptional parliamentary engagement with 100% attendance—a standout performance metric. Legislative participation includes 17 questions raised and 7 debate contributions, showing active involvement in parliamentary proceedings. However, no private member bills were introduced, and committee participation data is unavailable due to potential Sansad profile accessibility issues. The evidence grade for parliamentary activity is rated 'C', suggesting moderate data reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with neutral sentiment (zero positive or negative articles), indicating limited public discourse engagement. The accessibility evidence grade is 'D', the lowest among tracked metrics, suggesting poor public communication and engagement infrastructure. This low accessibility score may indicate limited constituent outreach or media presence, which could impact effective representation.
-
-### Data Quality & Caveats
-Multiple automated flags indicate significant data reliability concerns:
-- Criminal record data has low confidence due to potential source unavailability
-- Asset information shows low confidence ratings
-- MPLADS data reliability is questioned
-- Committee participation data is missing due to potential Sansad profile inaccessibility
-- Legislative effectiveness data has low confidence ratings
-
-The overall evidence quality varies significantly, with parliamentary data (Grade C) being more reliable than accessibility measures (Grade D). Data sources include PRS Legislative Research, social media, and news outlets, but coverage appears incomplete across several domains.
-
-### Key Takeaway
-While Rani Srikumar demonstrates strong parliamentary discipline through perfect attendance and active participation in legislative proceedings, her transparency profile is severely limited by data availability issues across financial disclosures, fund utilization, and public engagement metrics. The absence of MPLADS and asset data, combined with poor accessibility ratings, prevents comprehensive assessment of her effectiveness as a public representative. Given the CAG audit context highlighting systemic fund management issues in Tamil Nadu, the lack of MPLADS transparency is particularly concerning for constituents seeking accountability in development spending.
+No criminal cases declared. Declared assets: Rs 21,375,000. MPLADS utilization: 59.4%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 7.
 
 ---
 
@@ -169,7 +136,7 @@ While Rani Srikumar demonstrates strong parliamentary discipline through perfect
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +215,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Rani Srikumar's MPLADS account: Released: Rs 15, Expended: Rs 9, Utilization: 59.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +234,10 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

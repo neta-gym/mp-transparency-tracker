@@ -3,23 +3,25 @@
 **Constituency:** Baramati, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 54
+**Education:** Graduate
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 5.5 | 25% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 100.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 166.52 Crore
+- **Liabilities:** Rs 55.00 Lakh
+- **Net Worth:** Rs 165.97 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 1
+- **Utilization Rate:** 6.9%
 
 ---
 
@@ -83,9 +86,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -94,35 +95,11 @@
 
 ## Qualitative Assessment
 
-Supriya Sule demonstrates excellent attendance and participation in Parliament with a clean criminal record, but faces significant transparency challenges in committee engagement, legislative contributions, and public accessibility. Her MPLADS and asset disclosure practices show room for improvement, while the low data confidence (14%) and multiple validation flags suggest limited reliable information availability.
+Supriya Sule shows moderate transparency with a score of 61.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Supriya Sule
-
-### Overall Assessment
-Supriya Sule, representing Baramati constituency in Maharashtra for the Nationalist Congress Party - Sharadchandra Pawar, presents a mixed transparency profile with significant data gaps limiting comprehensive evaluation. Her parliamentary performance shows strong attendance (100%) and active participation, while maintaining a clean legal record. However, critical financial and developmental metrics are largely unavailable, constraining full assessment of her effectiveness as a public representative.
-
-### Fund Utilization & Development
-MPLADS data is entirely unavailable, with no information on entitlement, release, expenditure, or utilization rates. This represents a significant transparency gap given that MPs typically receive Rs 5 crore annually under this scheme. The absence of this data prevents assessment of her development work in Baramati constituency. CAG audit findings from 2010 reveal systemic issues in fund management across Maharashtra, including Rs 1,558 crore in idle funds and 34% of utilization certificates lacking proper documentation, though specific impacts on Sule's constituency remain unclear.
-
-### Financial Transparency
-Asset disclosure data is completely missing, with no information available on total assets, previous declarations, growth patterns, or net worth. This represents a critical gap in financial transparency, as asset declarations are mandatory for all MPs. The monthly compensation is recorded at Rs 2,45,000, which appears consistent with standard parliamentary remuneration. Without asset data, it's impossible to assess potential conflicts of interest or unexplained wealth accumulation.
-
-### Legal & Criminal Standing
-Sule maintains a clean legal record with zero criminal cases across all categories - no serious cases, pending matters, disposed cases, or convictions. This clean slate is notable in the Indian political context where criminal cases among MPs are common. However, the data source carries a low confidence warning, suggesting potential gaps in criminal record verification processes.
-
-### Parliamentary Performance
-Sule demonstrates exceptional parliamentary attendance at 100%, significantly above typical MP attendance rates. Her legislative participation includes 65 questions raised and 30 debate contributions, indicating active engagement with parliamentary proceedings. However, she has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliamentary performance data carries a 'C' grade for evidence quality, indicating moderate reliability.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles with entirely neutral coverage (0 positive, 0 negative, 10 neutral), suggesting either limited media attention or balanced reporting. The accessibility score receives a 'D' grade, indicating poor data availability for public engagement metrics. No committee membership data is available, representing another gap in understanding her parliamentary role beyond floor participation.
-
-### Data Quality & Caveats
-The profile suffers from significant data quality issues with multiple automated warnings flagging low confidence across key areas. Criminal record data has low confidence due to potentially unavailable sources. Asset information is completely missing despite being mandatory for MPs. MPLADS data is entirely unavailable, preventing assessment of constituency development work. Committee participation data is absent, possibly due to unavailable Sansad profiles. These gaps severely limit comprehensive transparency assessment.
-
-### Key Takeaway
-While Supriya Sule demonstrates strong parliamentary attendance and maintains a clean criminal record, the extensive data gaps across financial disclosure, development fund utilization, and committee work prevent a complete transparency evaluation. The available evidence suggests active parliamentary participation but raises concerns about data accessibility and public transparency standards. Voters in Baramati constituency lack access to crucial information about their representative's financial status and development fund utilization, highlighting systemic transparency challenges in Indian democratic institutions.
+No criminal cases declared. Declared assets: Rs 1,665,186,348. MPLADS utilization: 6.9%. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 30. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +139,7 @@ While Supriya Sule demonstrates strong parliamentary attendance and maintains a 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Supriya Sule's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 6.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

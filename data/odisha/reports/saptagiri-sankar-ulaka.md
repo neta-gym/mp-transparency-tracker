@@ -3,23 +3,25 @@
 **Constituency:** Koraput, Odisha
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 45
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 61.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 15.3 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.10 Crore
+- **Liabilities:** Rs 1.60 Crore
+- **Net Worth:** Rs 5.50 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 27
+- **Released:** Rs 27
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 5
+- **Utilization Rate:** 19.2%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -94,51 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Saptagiri Sankar Ulaka demonstrates mixed transparency performance with strong attendance and clean criminal record, but faces significant challenges in legislative productivity and public accessibility. The notably low committee participation (0%) and minimal accessibility score (10%) suggest limited engagement in parliamentary processes and constituent outreach, while the low data confidence (14%) indicates substantial information gaps.
+Saptagiri Sankar Ulaka shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Saptagiri Sankar Ulaka
-
-### Overall Assessment
-
-Saptagiri Sankar Ulaka, Indian National Congress MP from Koraput, Odisha, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps across key accountability metrics. With perfect attendance (100%) and active participation in parliamentary proceedings, he demonstrates commitment to his legislative duties. However, substantial missing data on assets, MPLADS utilization, and development activities limits comprehensive assessment of his overall performance and transparency.
-
-### Fund Utilization & Development
-
-MPLADS fund utilization data is entirely unavailable, with no information on entitled amounts, releases, or expenditure. This represents a critical transparency gap for assessing the MP's development work in his constituency. The broader context reveals concerning systemic issues in Odisha's fund management, with CAG audits highlighting ₹1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about implementation effectiveness in the state.
-
-### Financial Transparency
-
-Asset disclosure data is completely missing, with no information available on total assets, previous declarations, growth ratios, or net worth. This absence of financial transparency data makes it impossible to assess potential conflicts of interest or unexplained wealth accumulation. The MP's monthly compensation is recorded at ₹2,45,000, providing the only available financial reference point. The lack of asset data represents a significant transparency deficit that undermines public accountability.
-
-### Legal & Criminal Standing
-
-The MP maintains a clean criminal record with zero cases across all categories - no pending cases, disposed matters, or convictions. However, this data comes with a warning flag indicating low confidence due to potentially unavailable sources, suggesting the need for verification through additional channels.
-
-### Parliamentary Performance
-
-Ulaka demonstrates exceptional parliamentary engagement with 100% attendance, significantly above typical MP averages. His legislative activity includes 48 questions raised and participation in 20 debates, indicating active involvement in parliamentary proceedings. However, he has not introduced any private member bills, suggesting limited initiative in proposing new legislation. The parliament activity data receives a 'C' evidence grade, indicating moderate confidence in the assessment.
-
-### Public Engagement & Accessibility
-
-Media coverage analysis reveals limited public visibility, with only 10 news articles identified. The coverage breakdown shows predominantly neutral coverage (9 articles) with one negative piece and no positive coverage, suggesting minimal media engagement or public profile. This low media presence may indicate limited public accessibility or communication effectiveness. The accessibility component receives a 'D' evidence grade, reflecting poor data quality and limited available information.
-
-### Data Quality & Caveats
-
-The transparency assessment faces significant limitations due to multiple data quality issues:
-- Asset and MPLADS data marked as low confidence with warnings about source availability
-- Criminal record data flagged with reliability concerns
-- No committee membership information available, suggesting Sansad profile unavailability
-- Legislative effectiveness data marked as low confidence
-- Parliament performance graded 'C' for evidence quality
-- Accessibility component graded 'D' due to limited data
-
-These data gaps substantially limit the comprehensiveness of the transparency assessment and highlight the need for improved information disclosure mechanisms.
-
-### Key Takeaway
-
-While Saptagiri Sankar Ulaka demonstrates strong parliamentary attendance and active participation in legislative proceedings, his transparency profile is severely compromised by missing critical data on asset declarations and MPLADS utilization. The systemic fund management issues identified in Odisha through CAG audits underscore the importance of transparent development fund utilization. The MP's clean criminal record and consistent parliamentary presence are positive indicators, but the substantial data gaps prevent a comprehensive assessment of his overall accountability and effectiveness as a public representative.
+No criminal cases declared. Declared assets: Rs 70,956,659. MPLADS utilization: 19.2%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20.
 
 ---
 
@@ -178,7 +138,7 @@ While Saptagiri Sankar Ulaka demonstrates strong parliamentary attendance and ac
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -257,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Saptagiri Sankar Ulaka's MPLADS account: Released: Rs 27, Expended: Rs 5, Utilization: 19.2%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -274,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

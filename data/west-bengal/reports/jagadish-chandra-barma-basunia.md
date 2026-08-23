@@ -3,32 +3,34 @@
 **Constituency:** Coochbehar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 60
+**Education:** Graduate Professional
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 42.5 / 100
+## Composite Transparency Score: 45.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 17.4 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -38,21 +40,22 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 2.69 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.69 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 4
+- **Expended:** Rs 4
+- **Utilization Rate:** 21.8%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
@@ -94,35 +94,11 @@
 
 ## Qualitative Assessment
 
-MP Jagadish Chandra Barma Basunia shows a mixed transparency profile with significant areas of concern. While he maintains a clean criminal record (100/100), his performance is notably poor in committee participation (0/100), legislative engagement (0/100), and public accessibility (10/100). The moderate scores in MPLADS utilization and assets disclosure are offset by weak parliamentary participation and engagement metrics.
+Jagadish Chandra Barma Basunia has a below-average transparency score of 45.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-## Executive Summary: Jagadish Chandra Barma Basunia
-
-### Overall Assessment
-Jagadish Chandra Barma Basunia, representing Coochbehar constituency in West Bengal as an All India Trinamool Congress member, presents a mixed transparency profile with significant data limitations. While maintaining a clean criminal record, his parliamentary engagement shows room for improvement with 50% attendance and minimal legislative activity. The assessment is severely hampered by missing financial data across multiple domains.
-
-### Fund Utilization & Development
-MPLADS data is unavailable for this MP, preventing assessment of constituency development fund utilization. This data gap is concerning given West Bengal's documented issues with fund management. CAG audits reveal systemic problems in the state, including ₹1,558 crore in idle funds lying unspent across district authorities and 34% of utilization certificates lacking proper documentation. Additionally, 18% of sampled development works were found to be abandoned or incomplete, raising questions about effective fund deployment in the region.
-
-### Financial Transparency
-Asset declaration data is completely missing, making it impossible to assess financial transparency or wealth accumulation patterns. No information is available regarding total assets, previous declarations, growth ratios, or net worth. This represents a significant transparency gap, as asset disclosure is a fundamental requirement for public accountability. The MP receives a monthly compensation of ₹2,45,000, but without asset data, comprehensive financial assessment remains impossible.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no total cases, serious cases, pending matters, disposed cases, or convictions. However, this data comes with low confidence warnings, suggesting potential gaps in criminal record verification systems. While the clean record is positive, the data quality concerns warrant cautious interpretation.
-
-### Parliamentary Performance
-Parliamentary engagement shows concerning patterns with 50% attendance rate, indicating frequent absence from House proceedings. Legislative activity is minimal, with zero questions raised, only one debate participation, and no private member bills introduced. This level of parliamentary participation falls short of expectations for effective constituency representation and suggests limited engagement with national policy discussions affecting his constituents.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 articles with neutral sentiment - zero positive, zero negative, and 10 neutral pieces. This neutral coverage pattern suggests limited public visibility or controversial positions. The accessibility evidence grade of 'D' indicates poor public engagement mechanisms, potentially limiting constituent access to their representative. No committee participation data is available, further suggesting limited institutional engagement.
-
-### Data Quality & Caveats
-This assessment faces significant data quality challenges with multiple warning flags. Criminal record data has low confidence due to potential source unavailability. Asset information is completely missing with low confidence ratings. MPLADS data is unavailable, preventing development fund assessment. Committee membership information is absent, possibly due to Sansad profile unavailability. Legislative effectiveness data carries low confidence warnings. These limitations substantially impact the reliability of this transparency assessment.
-
-### Key Takeaway
-Jagadish Chandra Barma Basunia's transparency profile is characterized by significant data gaps that prevent comprehensive evaluation. While maintaining a clean criminal record, his 50% parliamentary attendance and minimal legislative activity raise concerns about representative effectiveness. The complete absence of asset and MPLADS data, combined with neutral media coverage and poor accessibility ratings, suggests limited transparency and public engagement. The numerous data quality warnings indicate systemic issues with information availability that voters should consider when evaluating their representative's accountability.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 26,907,638. MPLADS utilization: 21.8%. Parliament attendance: 50.0%. Debates participated: 1.
 
 ---
 
@@ -162,7 +138,7 @@ Jagadish Chandra Barma Basunia's transparency profile is characterized by signif
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +217,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Jagadish Chandra Barma Basunia's MPLADS account: Released: Rs 17, Expended: Rs 4, Utilization: 21.8%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +236,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

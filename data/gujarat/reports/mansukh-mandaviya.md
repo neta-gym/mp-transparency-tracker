@@ -3,23 +3,25 @@
 **Constituency:** Porbandar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (7%) | **Evidence Grade:** Third-party (C)
+**Age:** 51
+**Education:** Doctorate
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
+| MPLADS Fund Utilization | 11.9 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +38,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.95 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 7.95 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 15
+- **Released:** Rs 15
+- **Sanctioned:** Rs 8
+- **Expended:** Rs 2
+- **Utilization Rate:** 14.9%
 
 ---
 
@@ -83,9 +86,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -95,41 +95,11 @@
 
 ## Qualitative Assessment
 
-Mansukh Mandaviya shows a mixed transparency profile with moderate performance in basic compliance areas like MPLADS utilization and asset disclosure, while maintaining a clean criminal record. However, significant weaknesses in committee participation, legislative contributions, and public accessibility substantially impact his overall transparency score.
+Mansukh Mandaviya has a below-average transparency score of 49.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-## Executive Summary: Mansukh Mandaviya
-
-### Overall Assessment
-Mansukh Mandaviya, BJP MP from Porbandar, Gujarat, presents a transparency profile hampered by significant data gaps across most key metrics. While maintaining a clean criminal record, his parliamentary and financial transparency cannot be adequately assessed due to incomplete information availability. The limited data suggests a low-profile parliamentary approach, though this may be influenced by his ministerial responsibilities.
-
-### Fund Utilization & Development
-MPLADS utilization data is unavailable, preventing assessment of constituency development efforts. This data gap is concerning given the CAG's identification of systemic issues in Gujarat's fund management, including Rs 1,558 crore in idle funds across district authorities and 34% of utilization certificates lacking proper supporting documents. Without specific utilization figures for Mandaviya's constituency, it's impossible to determine whether Porbandar has been affected by these state-wide inefficiencies or if the MP has successfully navigated these challenges.
-
-### Financial Transparency
-Asset declaration data is completely unavailable, representing a significant transparency gap. No information exists regarding total assets, previous holdings, growth ratios, or net worth. This absence of financial disclosure data makes it impossible to assess potential conflicts of interest or track wealth accumulation during his tenure. The only available financial information is his monthly compensation of Rs 245,000, which represents standard MP remuneration.
-
-### Legal & Criminal Standing
-Mandaviya maintains a clean legal record with zero criminal cases across all categories - no serious charges, pending cases, disposed cases, or convictions. However, the data quality warning indicates low confidence in criminal record information due to potential source unavailability, suggesting this assessment may be incomplete rather than definitively clean.
-
-### Parliamentary Performance
-Parliamentary activity data shows significant limitations, with 0 questions asked, 0 debates participated in, and 0 private bills introduced. Attendance percentage is unavailable. However, the profile notes that Mandaviya serves as a Minister, which typically results in lower traditional parliamentary participation metrics due to executive responsibilities taking precedence over legislative floor activities. The 'C' grade for parliamentary evidence suggests moderate confidence in available data.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals 10 news articles, all categorized as neutral, with no positive or negative coverage identified. This neutral media profile suggests limited public controversy but also potentially limited proactive public engagement. The 'D' grade for accessibility evidence indicates poor data availability regarding public outreach efforts, social media engagement, or constituency interaction metrics.
-
-### Data Quality & Caveats
-This analysis faces substantial limitations due to widespread data unavailability:
-- **High-risk gaps**: Assets, MPLADS utilization, and parliamentary attendance data completely missing
-- **Moderate-risk gaps**: Criminal record data flagged with low confidence warnings
-- **Systematic issues**: No committee participation data available, suggesting Sansad profile inaccessibility
-- **Evidence quality**: Parliamentary data rated 'C' grade, accessibility rated 'D' grade
-
-The CAG audit context for Gujarat reveals systemic governance issues that may affect constituency development, though Mandaviya's specific performance cannot be isolated from available data.
-
-### Key Takeaway
-Mansukh Mandaviya's transparency profile is characterized by extensive data gaps that prevent meaningful assessment of his effectiveness as an MP. While maintaining an apparently clean legal record, the absence of financial disclosures, MPLADS utilization data, and detailed parliamentary metrics raises transparency concerns. His ministerial role may explain limited traditional parliamentary activity, but the overall lack of accessible performance data suggests either poor record-keeping systems or limited public transparency initiatives. Citizens and stakeholders should seek more comprehensive disclosure of his governmental and constituency work to enable proper democratic accountability.
+No criminal cases declared. Declared assets: Rs 79,504,705. MPLADS utilization: 14.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 
@@ -169,7 +139,7 @@ Mansukh Mandaviya's transparency profile is characterized by extensive data gaps
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -248,6 +218,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Mansukh Mandaviya's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.9%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -265,9 +237,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, myneta, mplads*
 *Methodology version: 3.0 (8 scoring dimensions)*

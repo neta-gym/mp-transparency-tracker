@@ -3,23 +3,26 @@
 **Constituency:** Narasaraopet, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-05-21
-**Data Confidence:** Low (14%) | **Evidence Grade:** Third-party (C)
+**Age:** 41
+**Education:** Graduate Professional
+**Profession:** Educationalist
+**Report Date:** 2026-08-23
+**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 50.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 1.1 | 25% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
-| Committee Engagement | 0.0 | 10% |
-| Public Accessibility | 10.0 | 5% |
-| Legislative Effectiveness | 0.0 | 10% |
+| Committee Engagement | 40.0 | 10% |
+| Public Accessibility | 15.0 | 5% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -36,23 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 6.59 Crore
+- **Immovable Assets:** Rs 50.07 Crore
+- **Total Assets:** Rs 56.65 Crore
+- **Liabilities:** Rs 6.81 Crore
+- **Net Worth:** Rs 49.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** N/A
-- **Released:** N/A
-- **Sanctioned:** N/A
-- **Expended:** N/A
-- **Utilization Rate:** N/A
+- **Entitled:** Rs 17
+- **Released:** Rs 17
+- **Sanctioned:** Rs 1
+- **Expended:** Rs 0
+- **Utilization Rate:** 1.4%
 
 ---
 
@@ -83,9 +87,7 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
+- [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
@@ -94,35 +96,11 @@
 
 ## Qualitative Assessment
 
-MP Lavu Sri Krishna Devarayalu shows a mixed transparency profile with significant gaps in key areas. While maintaining a clean criminal record and good attendance, the MP demonstrates poor performance in committee participation, accessibility to constituents, and legislative contributions. The moderate MPLADS and assets disclosure scores, combined with zero scores in committee and legislative work, indicate limited transparency in core parliamentary functions.
+Lavu Sri Krishna Devarayalu shows moderate transparency with a score of 55.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-## Executive Summary: Lavu Sri Krishna Devarayalu
-
-### Overall Assessment
-Lavu Sri Krishna Devarayalu, representing Narasaraopet constituency in Andhra Pradesh for the Telugu Desam Party, presents a mixed transparency profile characterized by strong parliamentary attendance but significant data gaps in critical areas including asset disclosure and development fund utilization. With evidence grades of 'C' for parliament and 'D' for accessibility, the MP's transparency record requires substantial improvement in key accountability metrics.
-
-### Fund Utilization & Development
-MPLADS fund utilization data is unavailable, preventing assessment of the MP's development work effectiveness. This data gap is particularly concerning given the CAG audit context revealing systemic issues in Andhra Pradesh's fund management. The 2010 CAG audit (Report 31) identified Rs 1,558 crore lying idle in district authorities' accounts across states, with 34% of sampled utilization certificates lacking proper supporting documents and 18% of works remaining abandoned or incomplete. Without specific MPLADS data for this MP, constituents cannot evaluate development project implementation.
-
-### Financial Transparency
-Asset disclosure presents a critical transparency gap, with no data available on total assets, previous holdings, growth ratios, or net worth. This absence of financial information severely limits public oversight of potential conflicts of interest or unexplained wealth accumulation. The MP's monthly compensation stands at Rs 2,45,000, but without baseline asset information, tracking financial growth during tenure remains impossible.
-
-### Legal & Criminal Standing
-The MP maintains a clean legal record with zero criminal cases across all categories - no pending cases, disposed cases, serious charges, or convictions. While this represents a positive transparency indicator, the automated warning flag noting "low confidence in criminal data" suggests potential source reliability issues that should be considered when interpreting this information.
-
-### Parliamentary Performance
-Parliamentary engagement shows strong attendance at 90%, significantly above average performance levels. The MP has raised 37 questions and participated in 9 debates, demonstrating active legislative involvement. However, no private member bills have been introduced, indicating limited initiative in proposing new legislation. Committee participation data is unavailable, preventing full assessment of the MP's institutional engagement within Parliament's working structure.
-
-### Public Engagement & Accessibility
-Media coverage analysis reveals minimal public engagement, with only 10 news articles identified - 1 positive, 0 negative, and 9 neutral. This limited media presence suggests either low public visibility or restricted information availability. The predominantly neutral coverage indicates absence of major controversies but also points to limited proactive public communication. Social media and direct constituent accessibility metrics are not available, hampering evaluation of grassroots engagement effectiveness.
-
-### Data Quality & Caveats
-Multiple automated warning flags indicate significant data reliability concerns. Criminal record confidence is rated as low due to potential source unavailability. Asset data carries low confidence warnings, while MPLADS information is similarly unreliable. Committee participation data is entirely absent, with the Sansad profile potentially unavailable. Legislative effectiveness data shows low confidence ratings. These systemic data gaps severely limit the comprehensiveness of this transparency assessment and suggest either poor record-keeping or restricted information access.
-
-### Key Takeaway
-While Lavu Sri Krishna Devarayalu demonstrates commendable parliamentary attendance (90%) and maintains a clean criminal record, critical transparency deficits in asset disclosure, development fund utilization, and public engagement significantly undermine overall accountability. The absence of financial data, MPLADS information, and limited public visibility raise substantial concerns about constituent oversight capabilities. Priority improvements needed include complete asset disclosure, transparent MPLADS reporting, and enhanced public communication to meet basic democratic accountability standards.
+No criminal cases declared. Declared assets: Rs 566,548,466. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 37. Debates participated: 9. 1 warning(s) noted.
 
 ---
 
@@ -162,7 +140,7 @@ While Lavu Sri Krishna Devarayalu demonstrates commendable parliamentary attenda
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/05/2026
+Date: 23/08/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,6 +219,8 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
+[Note: As per publicly available data, the following figures have been reported for Lavu Sri Krishna Devarayalu's MPLADS account: Released: Rs 17, Expended: Rs 0, Utilization: 1.4%. This RTI seeks to verify and supplement this data.]
+
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -258,9 +238,12 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
+| Assets | myneta | Official (B) |
+| Criminal | myneta | Official (B) |
+| Mplads | esakshi | Authoritative (A) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, mplads, myneta*
 *Methodology version: 3.0 (8 scoring dimensions)*
