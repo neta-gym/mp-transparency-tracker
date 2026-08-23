@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { getAllStates, getNationalStats, getPartyStats } from "@/lib/data";
+import { getAllMPEntries } from "@/lib/search";
+import { SearchBar } from "@/components/SearchBar";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ColorLegend } from "@/components/ColorLegend";
 import { ScoreBadge } from "@/components/ScoreBadge";
@@ -156,6 +158,7 @@ export default function HomePage() {
 	const states = getAllStates();
 	const stats = getNationalStats();
 	const partyStats = getPartyStats();
+	const allEntries = getAllMPEntries();
 	const topMPs = stats.topMPs;
 	const redFlagMPs = [...stats.bottomMPs]
 		.sort((a, b) => riskScore(b) - riskScore(a))
@@ -203,20 +206,28 @@ export default function HomePage() {
 								The average is just {formatScore(stats.avgScore)} — barely passing for elected representatives.
 							</p>
 
-							<div className="mt-5 flex flex-wrap items-center gap-3">
-								<Link
-									href="/national"
-									className="border-3 border-ink bg-danger px-4 py-2 text-sm font-black uppercase tracking-wider text-white shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-danger/90"
-								>
-									📊 See The Full Picture
-								</Link>
-								<Link
-									href="/compare"
-									className="border-3 border-ink bg-surface px-4 py-2 text-sm font-black uppercase tracking-wider text-ink shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-highlight"
-								>
-									⚡ Compare Any Two MPs
-								</Link>
-							</div>
+						<div className="mt-5 flex flex-wrap items-center gap-3">
+							<Link
+								href="/national"
+								className="border-3 border-ink bg-danger px-4 py-2 text-sm font-black uppercase tracking-wider text-white shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-danger/90"
+							>
+								📊 See The Full Picture
+							</Link>
+							<Link
+								href="/compare"
+								className="border-3 border-ink bg-surface px-4 py-2 text-sm font-black uppercase tracking-wider text-ink shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-highlight"
+							>
+								⚡ Compare Any Two MPs
+							</Link>
+						</div>
+
+						{/* Constituency lookup: "I am from this district" */}
+						<div className="mt-5 max-w-md">
+							<label className="mb-1 block text-[10px] font-black uppercase tracking-[0.15em] text-text-muted">
+								Find your MP — search your district, constituency or MP name
+							</label>
+							<SearchBar allEntries={allEntries} />
+						</div>
 						</div>
 
 						<div className="flex flex-wrap gap-3">
