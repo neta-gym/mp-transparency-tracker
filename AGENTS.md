@@ -8,6 +8,7 @@ Read `README.md` first. The key project goal is to turn open public data about I
 
 1. No hidden LLM/API dependency in the data pipeline.
    - Do not add Claude/OpenAI/LLM calls to discovery, enrichment, validation, scoring, or report generation unless explicitly requested by the maintainer.
+   - Maintainer-approved exception: the optional GLM-5.3 Flash (Z.ai) sector-classification assist in `src/tracker/utils/glm.py`. It must stay optional (disabled without an API key), visible, and documented in the README. Never make scoring depend on it.
    - Prefer rule-based, source-backed, reproducible logic.
 
 2. Do not hand-edit rankings.

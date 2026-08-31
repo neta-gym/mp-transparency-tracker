@@ -89,7 +89,7 @@ Core scoring implementation:
 
 ## Data sources
 
-The pipeline is designed to be open-data first and reproducible. It should not require paid LLM/API dependencies.
+The pipeline is designed to be open-data first and reproducible. Core data collection requires no paid LLM/API dependencies. One optional LLM assist exists: GLM-5.3 Flash reclassifies MPLADS works the keyword classifier cannot place (see [GLM-5.3 Flash assist](#glm-53-flash-assist-optional)). It is disabled unless an API key is configured, and the pipeline is fully reproducible without it.
 
 Primary source families include:
 
@@ -238,11 +238,43 @@ The static export ships a machine-readable layer so citizens can ask any LLM (Ch
 
 These files are regenerated at build time by `dashboard/scripts/prepare-agent-assets.mjs` (wired as the npm `prebuild` hook). Example agent prompt for users: *"Fetch https://neta-gym.github.io/mp-transparency-tracker/llms.txt, find [MP name], read their report and summarize it in Hindi."* Translation is left to the user's own LLM — no LLM dependency exists in this repo's pipeline.
 
+## GLM-5.3 Flash assist (optional)
+
+The MPLADS pipeline classifies each eSAKSHI work description into a sector
+(education, health, infrastructure, water, community, sports, other). The
+primary classifier is keyword-based (`src/tracker/tools/esakshi.py`), which
+keeps scoring reproducible. Descriptions the keywords miss fall through to
+"other", which understates the sector-diversity bonus in the MPLADS score.
+
+When a key is configured, [GLM-5.3 Flash](https://z.ai/blog/glm-5.3-flash)
+(Z.ai) reclassifies those "other" works in one batched chat-completions call
+(`src/tracker/utils/glm.py`). This is a real API call, not a stub:
+
+- Provider order: direct Z.ai key first, then OpenRouter.
+- Z.ai: `GLM_API_KEY`, base `https://api.z.ai/api/paas/v4`, model `glm-5.3-flash`.
+- OpenRouter: `OPENROUTER_API_KEY`, base `https://openrouter.ai/api/v1`, model `z-ai/glm-5.3-flash`.
+- Overrides: `GLM_BASE_URL`, `GLM_MODEL`, `GLM_TIMEOUT` (seconds).
+- Graceful fallback: no key, HTTP error, timeout, or unparseable reply means
+  the works keep their keyword sectors. The pipeline never fails because of
+  the LLM assist, and scores change only when GLM returns a valid sector.
+- Works already classified by keywords are never sent to the model, and the
+  batch per MP is capped (50 descriptions) to bound token spend.
+
+Get a Z.ai API key at [z.ai](https://z.ai) (GLM-5.3 Flash is the free/fast
+tier model), then:
+
+```bash
+export GLM_API_KEY=your-zai-key
+PYTHONPATH=src python -m tracker.main --state delhi --format json
+```
+
+Tests for the assist (mocked HTTP, no key needed): `tests/test_glm.py`.
+
 ## Guide for AI coding agents: Codex, Claude Code, and similar tools
 
 If you are an automated coding agent reading this repository, preserve these project invariants:
 
-1. Do not add hidden LLM dependencies to the data pipeline.
+1. Do not add hidden LLM dependencies to the data pipeline. The one maintainer-approved exception is the optional GLM-5.3 Flash assist in `src/tracker/utils/glm.py` — keep it optional, visible, and documented.
    - The tracker is meant to run from open/public data and deterministic code.
    - Avoid Claude/OpenAI/API calls for scoring, validation, or report generation unless the maintainer explicitly asks for that architectural change.
 
