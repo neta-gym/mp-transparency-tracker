@@ -114,6 +114,15 @@ class Settings(BaseSettings):
     # data.gov.in API key (optional, for higher rate limits)
     datagov_api_key: str = Field(default="", description="data.gov.in API key")
 
+    # GLM-5.3 Flash (Z.ai) — optional LLM assist for MPLADS sector classification.
+    # Keyword classification is the primary path; GLM-5.3 reclassifies works the
+    # keywords miss. Disabled when no key is set. See src/tracker/utils/glm.py.
+    glm_api_key: str = Field(default="", description="Z.ai API key for GLM-5.3 Flash")
+    openrouter_api_key: str = Field(default="", description="OpenRouter API key (fallback provider)")
+    glm_base_url: str = Field(default="", description="Override GLM chat-completions base URL")
+    glm_model: str = Field(default="", description="Override GLM model slug")
+    glm_timeout: float = Field(default=30.0, description="GLM request timeout (seconds)")
+
     # Concurrency
     max_concurrent_mps: int = Field(default=3, description="Max MPs processed in parallel")
 
