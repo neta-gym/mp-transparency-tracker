@@ -32,6 +32,7 @@ from ..models.schemas import (
     MPLADSWork,
     MPProfile,
 )
+from ..utils.glm import classify_work_sectors
 from ..utils.logger import get_logger
 from ..utils.name_match import name_matches, normalize_state
 from .scraper import AsyncScraper
@@ -160,6 +161,36 @@ def _classify_sector(description: str) -> str:
         if any(kw in desc for kw in keywords):
             return sector
     return "other"
+
+
+async def _apply_glm_sector_fallback(works: list[MPLADSWork]) -> int:
+    """Reclassify works stuck at "other" using GLM-5.3 Flash (Z.ai).
+
+    The keyword classifier above is the primary, reproducible path. When it
+    cannot place a description, GLM-5.3 Flash (glm-5.3-flash via Z.ai, or
+    z-ai/glm-5.3-flash via OpenRouter) classifies the remainder in one
+    batched call. If no API key is configured or the call fails, the works
+    keep their keyword sectors and the pipeline is unchanged.
+
+    Returns the number of works reclassified.
+    """
+    other_idx = [i for i, w in enumerate(works) if (w.sector or "other") == "other" and w.description]
+    if not other_idx:
+        return 0
+    # Cap the batch so one MP cannot blow up token usage
+    other_idx = other_idx[:50]
+    descriptions = [works[i].description for i in other_idx]
+    sectors = await classify_work_sectors(descriptions)
+    if not sectors:
+        return 0
+    updated = 0
+    for i, sector in zip(other_idx, sectors, strict=True):
+        if sector != "other":
+            works[i].sector = sector
+            updated += 1
+    if updated:
+        log.info(f"GLM-5.3 Flash classified {updated} MPLADS work sector(s)")
+    return updated
 
 
 class ESAKSHIFetcher:
@@ -976,6 +1007,7 @@ class ESAKSHIFetcher:
                     ),
                 )
                 works.append(work)
+            await _apply_glm_sector_fallback(works)
             return works
         except Exception:
             return []
