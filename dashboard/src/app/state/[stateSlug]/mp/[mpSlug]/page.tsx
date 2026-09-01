@@ -71,7 +71,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title,
       description,
-      images: [{ url: "/og-card.png", width: 1200, height: 630, alt: title }],
+      images: [
+        {
+          url: `/mp-cards/${stateSlug}/${mpSlug}.jpg`,
+          width: 1200,
+          height: 675,
+          alt: title,
+        },
+      ],
     },
   };
 }
