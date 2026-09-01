@@ -42,7 +42,7 @@ HOUSE_RAJYA_SABHA = 1
 
 REPORT_KEYS = ("Works Recommended", "Works Sanctioned", "Works Completed")
 
-_REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=45)
+_REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60, sock_connect=20, sock_read=45)
 _HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -217,7 +217,13 @@ class ESAKSHIWorksClient:
         data = await self._post("getStateData", {})
         for row in data or []:
             self._state_cache[_norm(row.get("STATE_NAME", ""))] = int(row["STATE_ID"])
-        return self._state_cache.get(key)
+        hit = self._state_cache.get(key)
+        if hit is not None:
+            return hit
+        # Fuzzy: unique containment match (e.g. "dadra and nagar haveli" vs
+        # "the dadra and nagar haveli and daman and diu").
+        matches = [v for k, v in self._state_cache.items() if key and (key in k or k in key)]
+        return matches[0] if len(matches) == 1 else None
 
     async def resolve_tenure_id(self, house: int, caption_fragment: str) -> int | None:
         key = (house, _norm(caption_fragment))
@@ -235,7 +241,32 @@ class ESAKSHIWorksClient:
         data = await self._post("getConstituencyData", {"id": str(state_id)})
         for row in data or []:
             self._const_cache[(state_id, _norm(row.get("CAPTION", "")))] = int(row["ID"])
-        return self._const_cache.get(key)
+        hit = self._const_cache.get(key)
+        if hit is not None:
+            return hit
+        # Fuzzy: captions carry reservation tags, e.g. "TIRUPATI (SC)".
+        query = key[1]
+        matches = [
+            v
+            for (sid, cap), v in self._const_cache.items()
+            if sid == state_id and query and (cap.startswith(query) or query.startswith(cap))
+        ]
+        if len(matches) == 1:
+            return matches[0]
+        # Spelling variants: "Ujiarpur" vs "UJJARPUR", "Purnia" vs "PURNEA".
+        import difflib
+
+        caps = {cap: v for (sid, cap), v in self._const_cache.items() if sid == state_id}
+        close = difflib.get_close_matches(query, list(caps), n=2, cutoff=0.8)
+        if len(close) == 1:
+            return caps[close[0]]
+        if len(close) == 2 and (
+            difflib.SequenceMatcher(None, query, close[0]).ratio()
+            - difflib.SequenceMatcher(None, query, close[1]).ratio()
+            >= 0.05
+        ):
+            return caps[close[0]]
+        return None
 
     async def resolve_mp(
         self,

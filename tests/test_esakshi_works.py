@@ -181,3 +181,31 @@ async def test_report_handles_aggregate_only():
     client = _FakeClient({"getTilesReportData": {"Total Works Recommended": '[{"Total_Amt":0.0}]'}})
     rows = await client._report("6,75,0,2,7", "Works Recommended")
     assert rows == []
+
+
+@pytest.mark.asyncio
+async def test_fuzzy_constituency_resolution_with_reservation_tag():
+    client = _FakeClient(
+        {"getConstituencyData": [{"ID": 90, "CAPTION": "TIRUPATI (SC)"}, {"ID": 91, "CAPTION": "NELLORE"}]}
+    )
+    assert await client.resolve_constituency_id(2, "Tirupati") == 90
+    # exact match wins over fuzzy
+    client2 = _FakeClient({"getConstituencyData": [{"ID": 1, "CAPTION": "ARIYALUR"}, {"ID": 2, "CAPTION": "ARI"}]})
+    assert await client2.resolve_constituency_id(4, "Ari") == 2
+    # ambiguous prefix -> None
+    client3 = _FakeClient({"getConstituencyData": [{"ID": 1, "CAPTION": "ARIYALUR"}, {"ID": 2, "CAPTION": "ARANI"}]})
+    assert await client3.resolve_constituency_id(4, "Ar") is None
+
+
+@pytest.mark.asyncio
+async def test_fuzzy_state_resolution_union_territory():
+    client = _FakeClient(
+        {
+            "getStateData": [
+                {"STATE_NAME": "Dadra and Nagar Haveli", "STATE_ID": 9},
+                {"STATE_NAME": "Bihar", "STATE_ID": 6},
+            ]
+        }
+    )
+    assert await client.resolve_state_id("dadra and nagar haveli and daman and diu") == 9
+    assert await client.resolve_state_id("nonexistent-place") is None

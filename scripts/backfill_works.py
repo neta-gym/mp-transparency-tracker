@@ -42,7 +42,11 @@ CURRENT_LS_TENURE_CAPTION = "18th Lok Sabha"
 
 
 def state_dirs() -> list[Path]:
-    return sorted(p for p in DATA.iterdir() if p.is_dir() and (p / "leaderboard" / "latest.json").exists())
+    return sorted(
+        p
+        for p in DATA.iterdir()
+        if p.is_dir() and p.name != "national" and (p / "leaderboard" / "latest.json").exists()
+    )
 
 
 def _leaderboard_entries(state_dir: Path) -> list[dict]:
@@ -60,6 +64,7 @@ async def backfill_state(
     state_dir: Path,
     limit: int | None,
     dry_run: bool,
+    force: bool = False,
 ) -> dict:
     state = state_dir.name
     entries = _leaderboard_entries(state_dir)
@@ -81,16 +86,21 @@ async def backfill_state(
         if not path.exists():
             stats["skipped"].append(f"{name}: no validated json")
             continue
+        if not force and "Work-level backfill" in path.read_text():
+            stats["skipped"].append(f"{name}: already backfilled")
+            continue
         try:
-            const_id = await client.resolve_constituency_id(state_id, constituency)
+            const_id = await asyncio.wait_for(client.resolve_constituency_id(state_id, constituency), timeout=180)
             if const_id is None:
                 stats["skipped"].append(f"{name}: constituency '{constituency}' unresolved")
                 continue
-            resolved = await client.resolve_mp(state_id, const_id, HOUSE_LOK_SABHA, tenure_id)
+            resolved = await asyncio.wait_for(
+                client.resolve_mp(state_id, const_id, HOUSE_LOK_SABHA, tenure_id), timeout=180
+            )
             if resolved is None:
                 stats["skipped"].append(f"{name}: mp unresolved on eSAKSHI")
                 continue
-            works = await client.fetch_works(resolved)
+            works = await asyncio.wait_for(client.fetch_works(resolved), timeout=240)
         except Exception as e:  # noqa: BLE001 - record and continue
             stats["errors"].append(f"{name}: {e}")
             log.warning("%s/%s failed: %s", state, name, e)
@@ -127,6 +137,7 @@ async def main() -> int:
     ap.add_argument("--limit", type=int, default=None, help="max MPs per state")
     ap.add_argument("--delay", type=float, default=0.25, help="seconds between requests")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--force", action="store_true", help="redo MPs already backfilled")
     args = ap.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -143,7 +154,7 @@ async def main() -> int:
     async with ESAKSHIWorksClient(request_delay=args.delay) as client:
         for state_dir in dirs:
             log.info("state: %s", state_dir.name)
-            stats = await backfill_state(client, state_dir, args.limit, args.dry_run)
+            stats = await backfill_state(client, state_dir, args.limit, args.dry_run, args.force)
             report["states"].append(stats)
             log.info(
                 "%s done: %d MPs, %d works, %d skipped, %d errors",
