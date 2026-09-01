@@ -145,7 +145,8 @@ async def _post_chat_completion(
                 body = await resp.text()
                 log.warning(f"GLM-5.3 Flash returned HTTP {resp.status}: {body[:200]}")
                 return None
-            return await resp.json()
+            data = await resp.json()
+            return data if isinstance(data, dict) else None
     except Exception as exc:  # network errors, timeouts, bad JSON
         log.warning(f"GLM-5.3 Flash call failed, keeping keyword sectors: {exc}")
         return None
