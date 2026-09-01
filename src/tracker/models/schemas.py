@@ -145,6 +145,12 @@ class MPLADSWork(BaseModel):
     district: str = ""
     completion_date: str | None = None
     source: DataSource = Field(default_factory=DataSource)
+    # eSAKSHI work-lifecycle detail (transaction-level fund flow)
+    recommendation_date: str | None = None
+    sanction_date: str | None = None
+    executing_agency: str | None = None  # IDA_NAME, e.g. district authority executing the work
+    average_rating: float | None = None  # citizen rating on completed works (0-5)
+    letter_no: str | None = None  # MP recommendation letter reference
 
 
 class MPLADSFundPeriod(BaseModel):
