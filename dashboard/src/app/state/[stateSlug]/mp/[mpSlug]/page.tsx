@@ -32,6 +32,7 @@ import {
 import { RTITemplate } from "@/components/RTITemplate";
 import { CAGSection } from "@/components/CAGSection";
 import { PDFExportButton } from "@/components/PDFExportButton";
+import { ShareButtons } from "@/components/ShareButtons";
 import { MPStatusSummary } from "@/components/MPStatusSummary";
 import { CitizenSummary } from "@/components/CitizenSummary";
 import { TrendChart } from "@/components/TrendChart";
@@ -67,7 +68,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title,
     description,
-    openGraph: { title, description },
+    openGraph: {
+      title,
+      description,
+      images: [{ url: "/og-card.png", width: 1200, height: 630, alt: title }],
+    },
   };
 }
 
@@ -224,6 +229,13 @@ export default async function MPDetailPage({ params }: PageProps) {
                 Scored {formatDate(score.scored_at)}
               </span>
               <PDFExportButton />
+              <ShareButtons
+                mpName={mp.name}
+                party={mp.party}
+                constituency={mp.constituency}
+                score={score.composite_score}
+                url={`${SITE_URL}/state/${stateSlug}/mp/${mpSlug}`}
+              />
             </div>
           </div>
         </CardContent>

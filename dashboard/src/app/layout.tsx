@@ -17,9 +17,17 @@ export const metadata: Metadata = {
     description: siteDescription,
     type: "website",
     siteName: siteTitle,
+    images: [
+      {
+        url: "/og-card.png",
+        width: 1200,
+        height: 630,
+        alt: "MP Transparency Tracker - public report cards for India's 540 MPs",
+      },
+    ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: siteTitle,
     description: siteDescription,
   },
