@@ -121,6 +121,36 @@ def _parse_sectors(content: str, expected: int) -> list[str] | None:
     return sectors
 
 
+async def _post_chat_completion(
+    base_url: str, api_key: str, payload: dict, timeout: float
+) -> dict | None:
+    """POST to an OpenAI-compatible chat-completions endpoint.
+
+    Returns the parsed JSON body, or None on any failure (HTTP error,
+    network error, timeout, bad JSON). Never raises — LLM assist must
+    never break the data pipeline.
+    """
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    client_timeout = aiohttp.ClientTimeout(total=timeout)
+    try:
+        async with aiohttp.ClientSession(timeout=client_timeout) as session, session.post(
+            f"{base_url.rstrip('/')}/chat/completions",
+            json=payload,
+            headers=headers,
+        ) as resp:
+            if resp.status != 200:
+                body = await resp.text()
+                log.warning(f"GLM-5.3 Flash returned HTTP {resp.status}: {body[:200]}")
+                return None
+            return await resp.json()
+    except Exception as exc:  # network errors, timeouts, bad JSON
+        log.warning(f"GLM-5.3 Flash call failed, keeping keyword sectors: {exc}")
+        return None
+
+
 async def classify_work_sectors(descriptions: list[str]) -> list[str] | None:
     """Classify MPLADS work descriptions into sectors via GLM-5.3 Flash.
 
@@ -137,32 +167,15 @@ async def classify_work_sectors(descriptions: list[str]) -> list[str] | None:
         return None
 
     api_key, base_url, model = config
-    timeout = aiohttp.ClientTimeout(
-        total=float(os.environ.get("GLM_TIMEOUT", "") or settings.glm_timeout or 30)
-    )
+    timeout = float(os.environ.get("GLM_TIMEOUT", "") or settings.glm_timeout or 30)
     payload = {
         "model": model,
         "messages": _build_prompt(descriptions),
         "temperature": 0,
     }
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
 
-    try:
-        async with aiohttp.ClientSession(timeout=timeout) as session, session.post(
-            f"{base_url.rstrip('/')}/chat/completions",
-            json=payload,
-            headers=headers,
-        ) as resp:
-            if resp.status != 200:
-                body = await resp.text()
-                log.warning(f"GLM-5.3 Flash returned HTTP {resp.status}: {body[:200]}")
-                return None
-            data = await resp.json()
-    except Exception as exc:  # network errors, timeouts, bad JSON
-        log.warning(f"GLM-5.3 Flash call failed, keeping keyword sectors: {exc}")
+    data = await _post_chat_completion(base_url, api_key, payload, timeout)
+    if data is None:
         return None
 
     try:

@@ -1,9 +1,12 @@
-"""Tests for the GLM-5.3 Flash sector-classification assist."""
+"""Tests for the GLM-5.3 Flash sector-classification assist.
+
+The HTTP transport (`_post_chat_completion`) is monkeypatched in these
+tests so the suite stays hermetic and independent of aiohttp internals.
+"""
 
 from __future__ import annotations
 
 import pytest
-from aioresponses import aioresponses
 
 from tracker.models.schemas import MPLADSWork
 from tracker.tools.esakshi import _apply_glm_sector_fallback
@@ -18,6 +21,10 @@ def _clear_glm_env(monkeypatch):
     monkeypatch.setattr(glm.settings, "openrouter_api_key", "", raising=False)
     monkeypatch.setattr(glm.settings, "glm_base_url", "", raising=False)
     monkeypatch.setattr(glm.settings, "glm_model", "", raising=False)
+
+
+def _fake_glm_response(content: str) -> dict:
+    return {"choices": [{"message": {"content": content}}]}
 
 
 def test_no_key_returns_none():
@@ -63,21 +70,29 @@ async def test_classify_without_key_is_graceful():
 @pytest.mark.asyncio
 async def test_classify_with_mocked_zai(monkeypatch):
     monkeypatch.setattr(glm.settings, "glm_api_key", "zai-key", raising=False)
-    with aioresponses() as m:
-        m.post(
-            "https://api.z.ai/api/paas/v4/chat/completions",
-            payload={"choices": [{"message": {"content": '["health", "education"]'}}]},
-        )
-        out = await glm.classify_work_sectors(["new PHC building", "school classroom"])
+    calls = {}
+
+    async def fake_post(base_url, api_key, payload, timeout):
+        calls["base_url"] = base_url
+        calls["api_key"] = api_key
+        return _fake_glm_response('["health", "education"]')
+
+    monkeypatch.setattr(glm, "_post_chat_completion", fake_post)
+    out = await glm.classify_work_sectors(["new PHC building", "school classroom"])
     assert out == ["health", "education"]
+    assert calls["base_url"] == "https://api.z.ai/api/paas/v4"
+    assert calls["api_key"] == "zai-key"
 
 
 @pytest.mark.asyncio
 async def test_http_error_is_graceful(monkeypatch):
     monkeypatch.setattr(glm.settings, "glm_api_key", "zai-key", raising=False)
-    with aioresponses() as m:
-        m.post("https://api.z.ai/api/paas/v4/chat/completions", status=500, body="boom")
-        assert await glm.classify_work_sectors(["x"]) is None
+
+    async def failed_post(base_url, api_key, payload, timeout):
+        return None
+
+    monkeypatch.setattr(glm, "_post_chat_completion", failed_post)
+    assert await glm.classify_work_sectors(["x"]) is None
 
 
 @pytest.mark.asyncio
@@ -88,12 +103,12 @@ async def test_fallback_reclassifies_only_other(monkeypatch):
         MPLADSWork(description="construction of primary health centre", sector="other"),
         MPLADSWork(description="anganwadi classroom repair", sector="other"),
     ]
-    with aioresponses() as m:
-        m.post(
-            "https://api.z.ai/api/paas/v4/chat/completions",
-            payload={"choices": [{"message": {"content": '["health", "education"]'}}]},
-        )
-        updated = await _apply_glm_sector_fallback(works)
+
+    async def fake_post(base_url, api_key, payload, timeout):
+        return _fake_glm_response('["health", "education"]')
+
+    monkeypatch.setattr(glm, "_post_chat_completion", fake_post)
+    updated = await _apply_glm_sector_fallback(works)
     assert updated == 2
     assert works[0].sector == "infrastructure"  # untouched
     assert works[1].sector == "health"
