@@ -36,13 +36,15 @@ class ComparisonResult:
             values = [getattr(s.breakdown, attr) for s in self.scores]
             best = max(values)
             winner_idx = values.index(best) if values.count(best) == 1 else -1
-            rows.append({
-                "dimension": label,
-                "attr": attr,
-                "values": values,
-                "winner_index": winner_idx,
-                "spread": max(values) - min(values),
-            })
+            rows.append(
+                {
+                    "dimension": label,
+                    "attr": attr,
+                    "values": values,
+                    "winner_index": winner_idx,
+                    "spread": max(values) - min(values),
+                }
+            )
         return rows
 
     def _overall_winner(self) -> int:
@@ -105,8 +107,10 @@ class ComparisonResult:
             lines.append(f"- **{name}**: leads in {wins[i]}/{len(self.dimensions)} dimensions")
 
         if self.winner_index >= 0:
-            lines.append(f"\n**Overall leader: {names[self.winner_index]}** "
-                         f"({self.scores[self.winner_index].composite_score:.1f}/100)")
+            lines.append(
+                f"\n**Overall leader: {names[self.winner_index]}** "
+                f"({self.scores[self.winner_index].composite_score:.1f}/100)"
+            )
 
         return "\n".join(lines)
 

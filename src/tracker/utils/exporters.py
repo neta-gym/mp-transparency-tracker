@@ -22,23 +22,50 @@ class LeaderboardExporter:
         """Generate CSV string."""
         output = io.StringIO()
         writer = csv.writer(output)
-        writer.writerow([
-            "Rank", "House", "MP Name", "Constituency", "Party", "State",
-            "Composite Score", "MPLADS", "Assets", "Criminal", "Attendance",
-            "Participation", "Committee", "Accessibility", "Legislative",
-            "Confidence", "Key Finding",
-        ])
+        writer.writerow(
+            [
+                "Rank",
+                "House",
+                "MP Name",
+                "Constituency",
+                "Party",
+                "State",
+                "Composite Score",
+                "MPLADS",
+                "Assets",
+                "Criminal",
+                "Attendance",
+                "Participation",
+                "Committee",
+                "Accessibility",
+                "Legislative",
+                "Confidence",
+                "Key Finding",
+            ]
+        )
         for e in leaderboard.entries:
             house_tag = "LS" if e.house == "lok_sabha" else "RS"
-            writer.writerow([
-                e.rank, house_tag, e.mp_name, e.constituency, e.party, e.state,
-                f"{e.composite_score:.1f}",
-                f"{e.mplads_score:.1f}", f"{e.asset_score:.1f}", f"{e.criminal_score:.1f}",
-                f"{e.attendance_score:.1f}", f"{e.participation_score:.1f}",
-                f"{e.committee_score:.1f}", f"{e.accessibility_score:.1f}",
-                f"{e.legislative_score:.1f}",
-                f"{e.data_confidence:.2f}", e.key_finding,
-            ])
+            writer.writerow(
+                [
+                    e.rank,
+                    house_tag,
+                    e.mp_name,
+                    e.constituency,
+                    e.party,
+                    e.state,
+                    f"{e.composite_score:.1f}",
+                    f"{e.mplads_score:.1f}",
+                    f"{e.asset_score:.1f}",
+                    f"{e.criminal_score:.1f}",
+                    f"{e.attendance_score:.1f}",
+                    f"{e.participation_score:.1f}",
+                    f"{e.committee_score:.1f}",
+                    f"{e.accessibility_score:.1f}",
+                    f"{e.legislative_score:.1f}",
+                    f"{e.data_confidence:.2f}",
+                    e.key_finding,
+                ]
+            )
         return output.getvalue()
 
     @staticmethod
@@ -72,13 +99,15 @@ class LeaderboardExporter:
                 f"{e.composite_score:.1f}{delta_str} | {e.data_confidence:.0%} | {e.key_finding} |"
             )
 
-        lines.extend([
-            "",
-            "### Score Breakdown",
-            "",
-            "| Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |",
-            "|------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|",
-        ])
+        lines.extend(
+            [
+                "",
+                "### Score Breakdown",
+                "",
+                "| Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |",
+                "|------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|",
+            ]
+        )
 
         for e in lb.entries:
             house_tag = "LS" if e.house == "lok_sabha" else "RS"
@@ -144,7 +173,7 @@ class LeaderboardExporter:
 <body>
 <div class="container">
   <h1>MP Transparency Leaderboard — {state_label.title()}</h1>
-  <p class="meta">Generated: {lb.generated_at.strftime('%Y-%m-%d %H:%M UTC')} | Methodology v{lb.methodology_version} | {lb.total_mps} MPs</p>
+  <p class="meta">Generated: {lb.generated_at.strftime("%Y-%m-%d %H:%M UTC")} | Methodology v{lb.methodology_version} | {lb.total_mps} MPs</p>
 
   <div class="stats" id="stats"></div>
   <div id="chart-container"><canvas id="scoreChart"></canvas></div>

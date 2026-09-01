@@ -116,13 +116,15 @@ class SocialMediaFetcher:
                 handle = data.get(platform, "")
                 if handle and handle.strip() and handle.strip() not in ("", "NA", "N/A", "None"):
                     handle = handle.strip()
-                    profiles.append(SocialMediaProfile(
-                        platform=platform,
-                        handle=handle,
-                        url=self._build_url(platform, handle),
-                        verified=False,
-                        active=True,
-                    ))
+                    profiles.append(
+                        SocialMediaProfile(
+                            platform=platform,
+                            handle=handle,
+                            url=self._build_url(platform, handle),
+                            verified=False,
+                            active=True,
+                        )
+                    )
         except Exception as e:
             log.debug("Sansad API social media fetch failed for %s: %s", mp.name, e)
 
@@ -143,19 +145,23 @@ class SocialMediaFetcher:
             "twitter": re.compile(r"https?://(?:www\.)?(?:twitter\.com|x\.com)/([A-Za-z0-9_]+)", re.IGNORECASE),
             "facebook": re.compile(r"https?://(?:www\.)?facebook\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
             "instagram": re.compile(r"https?://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
-            "youtube": re.compile(r"https?://(?:www\.)?youtube\.com/(?:@|channel/|user/)([A-Za-z0-9_-]+)", re.IGNORECASE),
+            "youtube": re.compile(
+                r"https?://(?:www\.)?youtube\.com/(?:@|channel/|user/)([A-Za-z0-9_-]+)", re.IGNORECASE
+            ),
         }
 
         for platform, pattern in platform_patterns.items():
             match = pattern.search(html)
             if match:
                 handle = match.group(1)
-                profiles.append(SocialMediaProfile(
-                    platform=platform,
-                    handle=handle,
-                    url=match.group(0),
-                    active=True,
-                ))
+                profiles.append(
+                    SocialMediaProfile(
+                        platform=platform,
+                        handle=handle,
+                        url=match.group(0),
+                        active=True,
+                    )
+                )
 
         return profiles
 
@@ -166,6 +172,7 @@ class SocialMediaFetcher:
 
         try:
             from ..config import settings
+
             url = settings.urls.myneta_candidate.format(candidate_id=mp.myneta_candidate_id)
             html = await self.scraper.fetch(url)
         except Exception:
@@ -176,7 +183,9 @@ class SocialMediaFetcher:
             "twitter": re.compile(r"https?://(?:www\.)?(?:twitter\.com|x\.com)/([A-Za-z0-9_]+)", re.IGNORECASE),
             "facebook": re.compile(r"https?://(?:www\.)?facebook\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
             "instagram": re.compile(r"https?://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)", re.IGNORECASE),
-            "youtube": re.compile(r"https?://(?:www\.)?youtube\.com/(?:@|channel/|user/)([A-Za-z0-9_-]+)", re.IGNORECASE),
+            "youtube": re.compile(
+                r"https?://(?:www\.)?youtube\.com/(?:@|channel/|user/)([A-Za-z0-9_-]+)", re.IGNORECASE
+            ),
         }
 
         seen_platforms: set[str] = set()
@@ -184,13 +193,15 @@ class SocialMediaFetcher:
             match = pattern.search(html)
             if match and platform not in seen_platforms:
                 handle = match.group(1)
-                profiles.append(SocialMediaProfile(
-                    platform=platform,
-                    handle=handle,
-                    url=match.group(0),
-                    verified=False,
-                    active=True,
-                ))
+                profiles.append(
+                    SocialMediaProfile(
+                        platform=platform,
+                        handle=handle,
+                        url=match.group(0),
+                        verified=False,
+                        active=True,
+                    )
+                )
                 seen_platforms.add(platform)
 
         return profiles

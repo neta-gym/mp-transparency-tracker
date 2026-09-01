@@ -84,53 +84,29 @@ class ResearcherAgent(BaseAgent):
         tasks: dict[str, asyncio.Task] = {}
 
         if mp.myneta_candidate_id:
-            tasks["myneta"] = asyncio.create_task(
-                self.myneta.fetch_candidate(mp.myneta_candidate_id)
-            )
+            tasks["myneta"] = asyncio.create_task(self.myneta.fetch_candidate(mp.myneta_candidate_id))
 
-        tasks["prs"] = asyncio.create_task(
-            self.prs.fetch_activity(mp)
-        )
+        tasks["prs"] = asyncio.create_task(self.prs.fetch_activity(mp))
 
         # MPLADS cascade: eSAKSHI (A) > data.gov.in (B) > dataful.in CSV (C)
-        tasks["mplads"] = asyncio.create_task(
-            self.mplads.fetch_fund_data(mp)
-        )
+        tasks["mplads"] = asyncio.create_task(self.mplads.fetch_fund_data(mp))
         if self.esakshi:
-            tasks["esakshi"] = asyncio.create_task(
-                self.esakshi.fetch_fund_data(mp)
-            )
-            tasks["esakshi_works"] = asyncio.create_task(
-                self.esakshi.fetch_works(mp)
-            )
+            tasks["esakshi"] = asyncio.create_task(self.esakshi.fetch_fund_data(mp))
+            tasks["esakshi_works"] = asyncio.create_task(self.esakshi.fetch_works(mp))
         if self.mplads_datagov:
-            tasks["mplads_datagov"] = asyncio.create_task(
-                self.mplads_datagov.fetch_fund_data(mp)
-            )
+            tasks["mplads_datagov"] = asyncio.create_task(self.mplads_datagov.fetch_fund_data(mp))
 
         # New data sources (Phases 2, 6, 7, 9)
         if self.sansad:
-            tasks["committees"] = asyncio.create_task(
-                self.sansad.fetch_committees(mp)
-            )
-            tasks["legislative"] = asyncio.create_task(
-                self.sansad.fetch_legislative_record(mp)
-            )
-            tasks["voting"] = asyncio.create_task(
-                self.sansad.fetch_voting_record(mp)
-            )
+            tasks["committees"] = asyncio.create_task(self.sansad.fetch_committees(mp))
+            tasks["legislative"] = asyncio.create_task(self.sansad.fetch_legislative_record(mp))
+            tasks["voting"] = asyncio.create_task(self.sansad.fetch_voting_record(mp))
         if self.social_media:
-            tasks["social_media"] = asyncio.create_task(
-                self.social_media.fetch_social_media(mp)
-            )
+            tasks["social_media"] = asyncio.create_task(self.social_media.fetch_social_media(mp))
         if self.news:
-            tasks["news_sentiment"] = asyncio.create_task(
-                self.news.fetch_news(mp)
-            )
+            tasks["news_sentiment"] = asyncio.create_task(self.news.fetch_news(mp))
         if self.sagy:
-            tasks["sagy"] = asyncio.create_task(
-                self.sagy.fetch_adoptions(mp)
-            )
+            tasks["sagy"] = asyncio.create_task(self.sagy.fetch_adoptions(mp))
 
         # Gather results
         criminal = CriminalRecord()
@@ -323,7 +299,8 @@ class ResearcherAgent(BaseAgent):
         await self.db.save_research_findings(mp.slug, mp.state, findings)
         log.info(
             "[green]Research complete:[/green] %s — %d sources consulted",
-            mp.name, len(sources_consulted),
+            mp.name,
+            len(sources_consulted),
         )
         return findings
 
@@ -487,5 +464,3 @@ class ResearcherAgent(BaseAgent):
             analysis_notes="Simplified analysis - full cross-referencing requires detailed business data",
             confidence=0.3 if committee_sectors else 0.0,
         )
-
-

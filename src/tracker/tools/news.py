@@ -19,14 +19,37 @@ log = get_logger(__name__)
 
 # Simple keyword-based sentiment classification
 _POSITIVE_KEYWORDS = {
-    "inaugurated", "launched", "awarded", "praised", "development",
-    "welfare", "achieved", "donated", "relief", "scheme",
-    "progress", "improved", "successful", "contribution",
+    "inaugurated",
+    "launched",
+    "awarded",
+    "praised",
+    "development",
+    "welfare",
+    "achieved",
+    "donated",
+    "relief",
+    "scheme",
+    "progress",
+    "improved",
+    "successful",
+    "contribution",
 }
 _NEGATIVE_KEYWORDS = {
-    "arrested", "accused", "scam", "corruption", "scandal",
-    "fraud", "allegation", "controversy", "raid", "chargesheet",
-    "convicted", "booked", "fir", "complaint", "protest",
+    "arrested",
+    "accused",
+    "scam",
+    "corruption",
+    "scandal",
+    "fraud",
+    "allegation",
+    "controversy",
+    "raid",
+    "chargesheet",
+    "convicted",
+    "booked",
+    "fir",
+    "complaint",
+    "protest",
 }
 
 
@@ -104,13 +127,15 @@ class NewsFetcher:
                 neutral += 1
                 severity = "low"
 
-            headlines.append(NewsAllegation(
-                headline=title,
-                source=source_name,
-                severity=severity,
-                url=link,
-                sentiment=sentiment,
-            ))
+            headlines.append(
+                NewsAllegation(
+                    headline=title,
+                    source=source_name,
+                    severity=severity,
+                    url=link,
+                    sentiment=sentiment,
+                )
+            )
 
         total = len(headlines)
         if total == 0:
@@ -138,7 +163,8 @@ class NewsFetcher:
         """Regex fallback for malformed RSS that xml.etree can't parse."""
         items = re.findall(
             r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>.*?</item>",
-            rss_text, re.DOTALL,
+            rss_text,
+            re.DOTALL,
         )
         headlines = []
         positive = negative = neutral = 0
@@ -153,14 +179,21 @@ class NewsFetcher:
                 negative += 1
             else:
                 neutral += 1
-            headlines.append(NewsAllegation(
-                headline=title, source="Google News",
-                severity="medium" if sentiment == "negative" else "low",
-                url=link, sentiment=sentiment,
-            ))
+            headlines.append(
+                NewsAllegation(
+                    headline=title,
+                    source="Google News",
+                    severity="medium" if sentiment == "negative" else "low",
+                    url=link,
+                    sentiment=sentiment,
+                )
+            )
         total = len(headlines)
         return NewsSentiment(
-            total_articles=total, positive=positive, negative=negative, neutral=neutral,
+            total_articles=total,
+            positive=positive,
+            negative=negative,
+            neutral=neutral,
             top_headlines=headlines[:5],
             sentiment_summary=f"Mixed coverage ({total} articles)" if total else "",
             confidence=0.5 if total > 0 else 0.0,

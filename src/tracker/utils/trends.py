@@ -36,23 +36,31 @@ def compute_deltas(
         prev_breakdown = prev.get("breakdown", {})
         dimension_deltas = {}
         for dim in [
-            "mplads_score", "asset_score", "criminal_score", "attendance_score",
-            "participation_score", "committee_score", "accessibility_score", "legislative_score",
+            "mplads_score",
+            "asset_score",
+            "criminal_score",
+            "attendance_score",
+            "participation_score",
+            "committee_score",
+            "accessibility_score",
+            "legislative_score",
         ]:
             current_val = getattr(entry, dim, 0.0)
             prev_val = prev_breakdown.get(dim, 0.0)
             if current_val != prev_val:
                 dimension_deltas[dim] = round(current_val - prev_val, 1)
 
-        deltas.append(ScoreDelta(
-            mp_name=entry.mp_name,
-            mp_slug=slug,
-            state=entry.state,
-            current_score=entry.composite_score,
-            previous_score=prev_composite,
-            delta=delta,
-            dimension_deltas=dimension_deltas,
-        ))
+        deltas.append(
+            ScoreDelta(
+                mp_name=entry.mp_name,
+                mp_slug=slug,
+                state=entry.state,
+                current_score=entry.composite_score,
+                previous_score=prev_composite,
+                delta=delta,
+                dimension_deltas=dimension_deltas,
+            )
+        )
 
     return deltas
 
@@ -74,4 +82,5 @@ def annotate_leaderboard_with_deltas(
 def _name_to_slug(name: str) -> str:
     """Convert MP name to slug for matching."""
     import re
+
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")

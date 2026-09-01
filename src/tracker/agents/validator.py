@@ -55,15 +55,15 @@ class ValidatorAgent(BaseAgent):
         cag_findings = self.cag.get_state_risk_indicators(mp.state)
         if cag_findings:
             findings.cag_findings = cag_findings
-            cag_notes = "; ".join(
-                f"[CAG {f.report_number}] {f.finding}" for f in cag_findings[:3]
+            cag_notes = "; ".join(f"[CAG {f.report_number}] {f.finding}" for f in cag_findings[:3])
+            flags.append(
+                ValidationFlag(
+                    field="mplads",
+                    issue=f"CAG audit context for {mp.state.title()}: {len(cag_findings)} relevant findings",
+                    severity="info",
+                    suggestion=cag_notes,
+                )
             )
-            flags.append(ValidationFlag(
-                field="mplads",
-                issue=f"CAG audit context for {mp.state.title()}: {len(cag_findings)} relevant findings",
-                severity="info",
-                suggestion=cag_notes,
-            ))
 
         # Sansad Q&A cross-check (if available)
         if self.sansad_qa and findings.mplads.confidence > 0:
@@ -99,65 +99,83 @@ class ValidatorAgent(BaseAgent):
         await self.db.save_validated_findings(mp.slug, mp.state, validated)
         log.info(
             "[green]Validation complete:[/green] %s — confidence: %.2f, flags: %d",
-            mp.name, overall, len(flags),
+            mp.name,
+            overall,
+            len(flags),
         )
         return validated
 
     def _check_criminal(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         cr = f.criminal_record
         if cr.serious_cases > cr.total_cases:
-            flags.append(ValidationFlag(
-                field="criminal_record",
-                issue="Serious cases exceed total cases",
-                severity="error",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="criminal_record",
+                    issue="Serious cases exceed total cases",
+                    severity="error",
+                )
+            )
         if cr.convictions > cr.total_cases:
-            flags.append(ValidationFlag(
-                field="criminal_record",
-                issue="Convictions exceed total cases",
-                severity="error",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="criminal_record",
+                    issue="Convictions exceed total cases",
+                    severity="error",
+                )
+            )
         # Pending + disposed + convicted should not exceed total
         accounted = cr.pending_cases + cr.disposed_cases + cr.convictions
         if accounted > 0 and accounted > cr.total_cases:
-            flags.append(ValidationFlag(
-                field="criminal_record",
-                issue=f"Pending ({cr.pending_cases}) + disposed ({cr.disposed_cases}) + convicted ({cr.convictions}) = {accounted} exceeds total ({cr.total_cases})",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="criminal_record",
+                    issue=f"Pending ({cr.pending_cases}) + disposed ({cr.disposed_cases}) + convicted ({cr.convictions}) = {accounted} exceeds total ({cr.total_cases})",
+                    severity="warning",
+                )
+            )
         if cr.confidence < 0.5:
-            flags.append(ValidationFlag(
-                field="criminal_record",
-                issue="Low confidence in criminal data — source may be unavailable",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="criminal_record",
+                    issue="Low confidence in criminal data — source may be unavailable",
+                    severity="warning",
+                )
+            )
 
     def _check_assets(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         a = f.assets
         if a.total_assets is not None and a.total_assets < 0:
-            flags.append(ValidationFlag(
-                field="assets",
-                issue="Negative total assets — likely a parsing error",
-                severity="error",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="assets",
+                    issue="Negative total assets — likely a parsing error",
+                    severity="error",
+                )
+            )
         if a.liabilities is not None and a.total_assets is not None and a.liabilities > a.total_assets * 5:
-            flags.append(ValidationFlag(
-                field="assets",
-                issue="Liabilities exceed 5x total assets — unusual, verify",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="assets",
+                    issue="Liabilities exceed 5x total assets — unusual, verify",
+                    severity="warning",
+                )
+            )
         if a.growth_ratio is not None and a.growth_ratio > 10:
-            flags.append(ValidationFlag(
-                field="assets",
-                issue=f"Asset growth ratio of {a.growth_ratio:.0%} is extremely high",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="assets",
+                    issue=f"Asset growth ratio of {a.growth_ratio:.0%} is extremely high",
+                    severity="warning",
+                )
+            )
         if a.confidence < 0.5:
-            flags.append(ValidationFlag(
-                field="assets",
-                issue="Low confidence in asset data",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="assets",
+                    issue="Low confidence in asset data",
+                    severity="warning",
+                )
+            )
 
     def _check_mplads(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         m = f.mplads
@@ -165,84 +183,106 @@ class ValidatorAgent(BaseAgent):
             if m.utilization_rate > 100:
                 if m.includes_covid_suspension or m.cumulative_released:
                     # Expected when using cumulative/multi-year data
-                    flags.append(ValidationFlag(
-                        field="mplads",
-                        issue="Utilization rate > 100% — includes carryover/prior-year balances",
-                        severity="info",
-                        suggestion="Non-lapsable nature of MPLADS funds means expenditure can exceed single-year release",
-                    ))
+                    flags.append(
+                        ValidationFlag(
+                            field="mplads",
+                            issue="Utilization rate > 100% — includes carryover/prior-year balances",
+                            severity="info",
+                            suggestion="Non-lapsable nature of MPLADS funds means expenditure can exceed single-year release",
+                        )
+                    )
                 else:
-                    flags.append(ValidationFlag(
-                        field="mplads",
-                        issue="Utilization rate > 100% — may include carryover funds",
-                        severity="info",
-                    ))
+                    flags.append(
+                        ValidationFlag(
+                            field="mplads",
+                            issue="Utilization rate > 100% — may include carryover funds",
+                            severity="info",
+                        )
+                    )
             if m.utilization_rate < 10:
-                flags.append(ValidationFlag(
-                    field="mplads",
-                    issue="Extremely low utilization rate — verify data",
-                    severity="warning",
-                ))
+                flags.append(
+                    ValidationFlag(
+                        field="mplads",
+                        issue="Extremely low utilization rate — verify data",
+                        severity="warning",
+                    )
+                )
         if m.includes_covid_suspension:
-            flags.append(ValidationFlag(
-                field="mplads",
-                issue="Data period includes COVID-19 MPLADS suspension (Apr 2020 – Nov 2021)",
-                severity="info",
-                suggestion="MPLADS was suspended for 20 months; utilization rates should be interpreted in this context",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="mplads",
+                    issue="Data period includes COVID-19 MPLADS suspension (Apr 2020 – Nov 2021)",
+                    severity="info",
+                    suggestion="MPLADS was suspended for 20 months; utilization rates should be interpreted in this context",
+                )
+            )
         if m.confidence < 0.5:
-            flags.append(ValidationFlag(
-                field="mplads",
-                issue="Low confidence in MPLADS data",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="mplads",
+                    issue="Low confidence in MPLADS data",
+                    severity="warning",
+                )
+            )
 
     def _check_parliament(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         p = f.parliament_activity
         if p.attendance_percentage is not None and p.attendance_percentage > 100:
-            flags.append(ValidationFlag(
-                field="parliament_activity",
-                issue="Attendance > 100% — data error",
-                severity="error",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="parliament_activity",
+                    issue="Attendance > 100% — data error",
+                    severity="error",
+                )
+            )
         if p.confidence < 0.5:
-            flags.append(ValidationFlag(
-                field="parliament_activity",
-                issue="Low confidence in parliament activity data",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="parliament_activity",
+                    issue="Low confidence in parliament activity data",
+                    severity="warning",
+                )
+            )
 
     def _check_committees(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         c = f.committees
         if c.leadership_roles > c.total_committees:
-            flags.append(ValidationFlag(
-                field="committees",
-                issue="Leadership roles exceed total committees",
-                severity="error",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="committees",
+                    issue="Leadership roles exceed total committees",
+                    severity="error",
+                )
+            )
         if c.confidence < 0.3 and c.total_committees == 0:
-            flags.append(ValidationFlag(
-                field="committees",
-                issue="No committee data found — Sansad profile may be unavailable",
-                severity="info",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="committees",
+                    issue="No committee data found — Sansad profile may be unavailable",
+                    severity="info",
+                )
+            )
 
     def _check_legislative(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         leg = f.legislative
         if leg.confidence < 0.3:
-            flags.append(ValidationFlag(
-                field="legislative",
-                issue="Low confidence in legislative effectiveness data",
-                severity="info",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="legislative",
+                    issue="Low confidence in legislative effectiveness data",
+                    severity="info",
+                )
+            )
 
     def _check_sources(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         if len(f.sources_consulted) < 2:
-            flags.append(ValidationFlag(
-                field="sources",
-                issue=f"Only {len(f.sources_consulted)} source(s) consulted — limited cross-referencing",
-                severity="warning",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="sources",
+                    issue=f"Only {len(f.sources_consulted)} source(s) consulted — limited cross-referencing",
+                    severity="warning",
+                )
+            )
 
     def _check_evidence_quality(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         """Flag if evidence quality is low across all dimensions."""
@@ -254,20 +294,24 @@ class ValidatorAgent(BaseAgent):
         low_grades = {"D", "E"}
 
         if all(g in low_grades for g in grades):
-            flags.append(ValidationFlag(
-                field="evidence_quality",
-                issue="All data sources are Grade D or E — low reliability across all dimensions",
-                severity="warning",
-                suggestion="Seek authoritative government sources for verification",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="evidence_quality",
+                    issue="All data sources are Grade D or E — low reliability across all dimensions",
+                    severity="warning",
+                    suggestion="Seek authoritative government sources for verification",
+                )
+            )
 
         majority_low = sum(1 for g in grades if g in low_grades)
         if len(grades) > 0 and majority_low > len(grades) / 2 and not all(g in low_grades for g in grades):
-            flags.append(ValidationFlag(
-                field="evidence_quality",
-                issue=f"Majority of data sources ({majority_low}/{len(grades)}) are Grade D or E",
-                severity="info",
-            ))
+            flags.append(
+                ValidationFlag(
+                    field="evidence_quality",
+                    issue=f"Majority of data sources ({majority_low}/{len(grades)}) are Grade D or E",
+                    severity="info",
+                )
+            )
 
     async def _cross_check_sansad_qa(self, f: ResearchFindings, flags: list[ValidationFlag]) -> None:
         """Cross-check MPLADS data against Sansad Q&A annexure data."""
@@ -293,18 +337,22 @@ class ValidatorAgent(BaseAgent):
                 if qa_data.get("released") and f.mplads.released:
                     diff = abs(qa_data["released"] - f.mplads.released) / f.mplads.released
                     if diff > 0.15:
-                        flags.append(ValidationFlag(
-                            field="mplads",
-                            issue=f"Sansad Q&A annexure shows released amount differs by {diff:.0%} from primary source",
-                            severity="warning",
-                            suggestion=f"Q&A: Rs {qa_data['released']:,.0f} vs Primary: Rs {f.mplads.released:,.0f}",
-                        ))
+                        flags.append(
+                            ValidationFlag(
+                                field="mplads",
+                                issue=f"Sansad Q&A annexure shows released amount differs by {diff:.0%} from primary source",
+                                severity="warning",
+                                suggestion=f"Q&A: Rs {qa_data['released']:,.0f} vs Primary: Rs {f.mplads.released:,.0f}",
+                            )
+                        )
                     else:
-                        flags.append(ValidationFlag(
-                            field="mplads",
-                            issue=f"Sansad Q&A cross-check: figures match within {diff:.0%} (consistent)",
-                            severity="info",
-                        ))
+                        flags.append(
+                            ValidationFlag(
+                                field="mplads",
+                                issue=f"Sansad Q&A cross-check: figures match within {diff:.0%} (consistent)",
+                                severity="info",
+                            )
+                        )
                     break  # Found a match, stop searching
 
         except Exception as e:
@@ -347,7 +395,9 @@ class ValidatorAgent(BaseAgent):
 
         # Committee engagement
         if f.committees and f.committees.total_committees > 0:
-            lines.append(f"Serves on {f.committees.total_committees} committee(s) ({f.committees.leadership_roles} leadership).")
+            lines.append(
+                f"Serves on {f.committees.total_committees} committee(s) ({f.committees.leadership_roles} leadership)."
+            )
 
         # Data quality notes
         low_conf = []

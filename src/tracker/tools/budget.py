@@ -15,11 +15,11 @@ log = get_logger(__name__)
 # Known MPLADS budget allocations from Union Budget documents
 # These are national-level figures from Notes on Demands for Grants (MoSPI)
 _KNOWN_ALLOCATIONS: dict[str, float] = {
-    "2024-25": 3960.0,    # Rs 3,960 crore (Interim Budget + Full Budget)
-    "2023-24": 3960.0,    # Rs 3,960 crore
-    "2022-23": 3960.0,    # Rs 3,960 crore
-    "2019-20": 3950.0,    # Rs 3,950 crore (pre-COVID)
-    "2018-19": 3950.0,    # Rs 3,950 crore
+    "2024-25": 3960.0,  # Rs 3,960 crore (Interim Budget + Full Budget)
+    "2023-24": 3960.0,  # Rs 3,960 crore
+    "2022-23": 3960.0,  # Rs 3,960 crore
+    "2019-20": 3950.0,  # Rs 3,950 crore (pre-COVID)
+    "2018-19": 3950.0,  # Rs 3,950 crore
 }
 
 # Per-MP entitlement
@@ -103,7 +103,7 @@ class BudgetFetcher:
                 f"Budget allocation: Rs {allocation} Cr. "
                 f"Sum of MP entitlements: Rs {sum_entitled_crore:.1f} Cr. "
                 f"Deviation: {deviation * 100:.1f}% "
-                f"({'within' if deviation <= tolerance else 'exceeds'} {tolerance*100:.0f}% tolerance)"
+                f"({'within' if deviation <= tolerance else 'exceeds'} {tolerance * 100:.0f}% tolerance)"
             ),
             "source": DataSource(
                 url=f"{settings.urls.india_budget}",

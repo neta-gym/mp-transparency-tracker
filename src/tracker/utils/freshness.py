@@ -43,30 +43,34 @@ def freshness_report(state: str, data_dir: str) -> list[dict]:
 
         # Overall collection date
         if collected_at:
-            age = (now - collected_at.replace(tzinfo=timezone.utc) if collected_at.tzinfo is None else now - collected_at)
+            age = now - collected_at.replace(tzinfo=timezone.utc) if collected_at.tzinfo is None else now - collected_at
             age_days = age.days
         else:
             age_days = -1
 
         # Per-source freshness from evidence summary
         for dim, grade in findings.evidence_summary.items():
-            rows.append({
-                "mp_name": mp_name,
-                "source": dim,
-                "fetched_at": collected_at.isoformat() if collected_at else "unknown",
-                "age_days": age_days,
-                "grade": grade,
-            })
+            rows.append(
+                {
+                    "mp_name": mp_name,
+                    "source": dim,
+                    "fetched_at": collected_at.isoformat() if collected_at else "unknown",
+                    "age_days": age_days,
+                    "grade": grade,
+                }
+            )
 
         # If no evidence summary, add a single row
         if not findings.evidence_summary:
-            rows.append({
-                "mp_name": mp_name,
-                "source": "all",
-                "fetched_at": collected_at.isoformat() if collected_at else "unknown",
-                "age_days": age_days,
-                "grade": "E",
-            })
+            rows.append(
+                {
+                    "mp_name": mp_name,
+                    "source": "all",
+                    "fetched_at": collected_at.isoformat() if collected_at else "unknown",
+                    "age_days": age_days,
+                    "grade": "E",
+                }
+            )
 
     # Sort by stalest first
     rows.sort(key=lambda r: -r["age_days"])

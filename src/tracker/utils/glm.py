@@ -121,9 +121,7 @@ def _parse_sectors(content: str, expected: int) -> list[str] | None:
     return sectors
 
 
-async def _post_chat_completion(
-    base_url: str, api_key: str, payload: dict, timeout: float
-) -> dict | None:
+async def _post_chat_completion(base_url: str, api_key: str, payload: dict, timeout: float) -> dict | None:
     """POST to an OpenAI-compatible chat-completions endpoint.
 
     Returns the parsed JSON body, or None on any failure (HTTP error,
@@ -136,11 +134,14 @@ async def _post_chat_completion(
     }
     client_timeout = aiohttp.ClientTimeout(total=timeout)
     try:
-        async with aiohttp.ClientSession(timeout=client_timeout) as session, session.post(
-            f"{base_url.rstrip('/')}/chat/completions",
-            json=payload,
-            headers=headers,
-        ) as resp:
+        async with (
+            aiohttp.ClientSession(timeout=client_timeout) as session,
+            session.post(
+                f"{base_url.rstrip('/')}/chat/completions",
+                json=payload,
+                headers=headers,
+            ) as resp,
+        ):
             if resp.status != 200:
                 body = await resp.text()
                 log.warning(f"GLM-5.3 Flash returned HTTP {resp.status}: {body[:200]}")

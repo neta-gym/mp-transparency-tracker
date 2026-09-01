@@ -43,17 +43,20 @@ class SansadQAParser:
 
             # Try to parse as JSON (API response)
             import json
+
             try:
                 data = json.loads(text)
                 items = data if isinstance(data, list) else data.get("results", [])
                 for item in items:
-                    results.append({
-                        "question_id": item.get("question_id", ""),
-                        "title": item.get("title", "") or item.get("subject", ""),
-                        "date": item.get("date", ""),
-                        "annexure_url": item.get("annexure_url", ""),
-                        "ministry": item.get("ministry", ""),
-                    })
+                    results.append(
+                        {
+                            "question_id": item.get("question_id", ""),
+                            "title": item.get("title", "") or item.get("subject", ""),
+                            "date": item.get("date", ""),
+                            "annexure_url": item.get("annexure_url", ""),
+                            "ministry": item.get("ministry", ""),
+                        }
+                    )
             except (json.JSONDecodeError, ValueError):
                 # HTML response — parse for question links
                 results = self._parse_search_html(text)
@@ -168,6 +171,7 @@ class SansadQAParser:
         """Strip HTML tags to get plain text."""
         try:
             from bs4 import BeautifulSoup
+
             soup = BeautifulSoup(html, "html.parser")
             return soup.get_text(separator="\n", strip=True)
         except Exception:
@@ -178,6 +182,7 @@ class SansadQAParser:
         results = []
         try:
             from bs4 import BeautifulSoup
+
             soup = BeautifulSoup(html, "html.parser")
 
             for item in soup.find_all("div", class_=re.compile(r"question|result", re.I)):
@@ -186,13 +191,15 @@ class SansadQAParser:
                 link = title_el.get("href", "") if title_el and title_el.name == "a" else ""
 
                 if "mplads" in title.lower() or "mplad" in title.lower():
-                    results.append({
-                        "question_id": "",
-                        "title": title,
-                        "date": "",
-                        "annexure_url": link,
-                        "ministry": "MoSPI",
-                    })
+                    results.append(
+                        {
+                            "question_id": "",
+                            "title": title,
+                            "date": "",
+                            "annexure_url": link,
+                            "ministry": "MoSPI",
+                        }
+                    )
         except Exception:
             pass
 

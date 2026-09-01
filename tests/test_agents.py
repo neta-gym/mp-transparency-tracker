@@ -1,6 +1,5 @@
 """Agent logic tests with mocked dependencies."""
 
-
 from tracker.models.schemas import (
     AssetDeclaration,
     CriminalRecord,
@@ -34,22 +33,21 @@ class TestValidatorRules:
 
     def test_criminal_serious_exceeds_total(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
-        findings = self._make_findings(
-            criminal_record=CriminalRecord(total_cases=1, serious_cases=5, confidence=0.8)
-        )
+        findings = self._make_findings(criminal_record=CriminalRecord(total_cases=1, serious_cases=5, confidence=0.8))
         agent._check_criminal(findings, flags)
         assert any("Serious cases exceed" in f.issue for f in flags)
 
     def test_criminal_pending_disposed_exceeds_total(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(
             criminal_record=CriminalRecord(
-                total_cases=2, serious_cases=0, convictions=0,
-                pending_cases=2, disposed_cases=2, confidence=0.8
+                total_cases=2, serious_cases=0, convictions=0, pending_cases=2, disposed_cases=2, confidence=0.8
             )
         )
         agent._check_criminal(findings, flags)
@@ -57,26 +55,25 @@ class TestValidatorRules:
 
     def test_negative_assets_flagged(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
-        findings = self._make_findings(
-            assets=AssetDeclaration(total_assets=-100, confidence=0.8)
-        )
+        findings = self._make_findings(assets=AssetDeclaration(total_assets=-100, confidence=0.8))
         agent._check_assets(findings, flags)
         assert any("Negative total assets" in f.issue for f in flags)
 
     def test_high_utilization_flagged(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
-        findings = self._make_findings(
-            mplads=MPLADSFund(released=100, expended=150, confidence=0.8)
-        )
+        findings = self._make_findings(mplads=MPLADSFund(released=100, expended=150, confidence=0.8))
         agent._check_mplads(findings, flags)
         assert any("100%" in f.issue for f in flags)
 
     def test_low_source_count_flagged(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(sources_consulted=["myneta"])
@@ -85,6 +82,7 @@ class TestValidatorRules:
 
     def test_attendance_over_100_flagged(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(
@@ -95,6 +93,7 @@ class TestValidatorRules:
 
     def test_evidence_quality_all_low(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(
@@ -105,6 +104,7 @@ class TestValidatorRules:
 
     def test_evidence_quality_majority_low(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(
@@ -115,6 +115,7 @@ class TestValidatorRules:
 
     def test_evidence_quality_all_good(self):
         from tracker.agents.validator import ValidatorAgent
+
         agent = ValidatorAgent.__new__(ValidatorAgent)
         flags: list[ValidationFlag] = []
         findings = self._make_findings(
@@ -128,10 +129,14 @@ class TestValidatorRules:
 class TestAssessorAutoKeyFinding:
     def test_clean_high_utilization(self):
         from tracker.agents.assessor import AssessorAgent
+
         agent = AssessorAgent.__new__(AssessorAgent)
         breakdown = ScoreBreakdown(
-            criminal_score=100, mplads_score=85, attendance_score=90,
-            asset_score=50, participation_score=50,
+            criminal_score=100,
+            mplads_score=85,
+            attendance_score=90,
+            asset_score=50,
+            participation_score=50,
         )
         finding = agent._auto_key_finding(breakdown)
         assert "Clean record" in finding
@@ -140,10 +145,14 @@ class TestAssessorAutoKeyFinding:
 
     def test_poor_record(self):
         from tracker.agents.assessor import AssessorAgent
+
         agent = AssessorAgent.__new__(AssessorAgent)
         breakdown = ScoreBreakdown(
-            criminal_score=30, mplads_score=20, attendance_score=30,
-            asset_score=50, participation_score=50,
+            criminal_score=30,
+            mplads_score=20,
+            attendance_score=30,
+            asset_score=50,
+            participation_score=50,
         )
         finding = agent._auto_key_finding(breakdown)
         assert "criminal" in finding.lower()
@@ -170,9 +179,14 @@ class TestMPProfile:
 
     def test_sansad_fields(self):
         mp = MPProfile(
-            name="Test", constituency="Test", state="test", party="T",
-            sansad_member_id=101, profile_url="https://sansad.in/101",
-            canonical_name="Test MP", name_aliases=["T. MP"],
+            name="Test",
+            constituency="Test",
+            state="test",
+            party="T",
+            sansad_member_id=101,
+            profile_url="https://sansad.in/101",
+            canonical_name="Test MP",
+            name_aliases=["T. MP"],
         )
         assert mp.sansad_member_id == 101
         assert mp.canonical_name == "Test MP"

@@ -56,6 +56,7 @@ class SAGYFetcher:
             text = await self.scraper.fetch(url)
 
             import json
+
             data = json.loads(text)
             self._cached_data = data if isinstance(data, list) else data.get("data", [])
             log.info("SAGY: Loaded %d records", len(self._cached_data))
@@ -97,23 +98,26 @@ class SAGYFetcher:
                 constituency = str(record.get("constituency", ""))
                 if mp.constituency and constituency:
                     from ..utils.name_match import normalize_state
+
                     if normalize_state(mp.constituency) == normalize_state(constituency):
                         matched = True
 
             if matched:
-                results.append(SAGYAdoption(
-                    village_name=record.get("village_name", "") or record.get("gram_panchayat", ""),
-                    district=record.get("district", ""),
-                    state=record.get("state", mp.state),
-                    adopted_year=self._parse_year(record.get("year", "") or record.get("adopted_year", "")),
-                    phase=record.get("phase", ""),
-                    source=DataSource(
-                        url=settings.urls.sagy_portal,
-                        source_name="sagy",
-                        grade=EvidenceGrade.B,
-                        notes="SAGY village adoption from saanjhi.gov.in",
-                    ),
-                ))
+                results.append(
+                    SAGYAdoption(
+                        village_name=record.get("village_name", "") or record.get("gram_panchayat", ""),
+                        district=record.get("district", ""),
+                        state=record.get("state", mp.state),
+                        adopted_year=self._parse_year(record.get("year", "") or record.get("adopted_year", "")),
+                        phase=record.get("phase", ""),
+                        source=DataSource(
+                            url=settings.urls.sagy_portal,
+                            source_name="sagy",
+                            grade=EvidenceGrade.B,
+                            notes="SAGY village adoption from saanjhi.gov.in",
+                        ),
+                    )
+                )
 
         log.info("SAGY: Found %d adoptions for %s", len(results), mp.name)
         return results
@@ -128,20 +132,23 @@ class SAGYFetcher:
         """Parse SAGY portal HTML for village adoption data."""
         try:
             from bs4 import BeautifulSoup
+
             soup = BeautifulSoup(html, "html.parser")
 
             records = []
             for row in soup.find_all("tr"):
                 cells = row.find_all("td")
                 if len(cells) >= 4:
-                    records.append({
-                        "mp_name": cells[0].get_text(strip=True),
-                        "constituency": cells[1].get_text(strip=True) if len(cells) > 1 else "",
-                        "village_name": cells[2].get_text(strip=True) if len(cells) > 2 else "",
-                        "district": cells[3].get_text(strip=True) if len(cells) > 3 else "",
-                        "state": cells[4].get_text(strip=True) if len(cells) > 4 else "",
-                        "phase": cells[5].get_text(strip=True) if len(cells) > 5 else "",
-                    })
+                    records.append(
+                        {
+                            "mp_name": cells[0].get_text(strip=True),
+                            "constituency": cells[1].get_text(strip=True) if len(cells) > 1 else "",
+                            "village_name": cells[2].get_text(strip=True) if len(cells) > 2 else "",
+                            "district": cells[3].get_text(strip=True) if len(cells) > 3 else "",
+                            "state": cells[4].get_text(strip=True) if len(cells) > 4 else "",
+                            "phase": cells[5].get_text(strip=True) if len(cells) > 5 else "",
+                        }
+                    )
             return records
         except Exception:
             return []

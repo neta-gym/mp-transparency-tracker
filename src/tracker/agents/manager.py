@@ -71,14 +71,16 @@ def _load_seed_data() -> dict[str, list[MPProfile]]:
             entries = houses.get(house_key, [])
             house_enum = House.LOK_SABHA if house_key == "lok_sabha" else House.RAJYA_SABHA
             for entry in entries:
-                mps.append(MPProfile(
-                    name=entry["name"],
-                    constituency=entry["constituency"],
-                    state=state_norm,
-                    party=entry.get("party", "Unknown"),
-                    myneta_candidate_id=entry.get("myneta_candidate_id"),
-                    house=house_enum,
-                ))
+                mps.append(
+                    MPProfile(
+                        name=entry["name"],
+                        constituency=entry["constituency"],
+                        state=state_norm,
+                        party=entry.get("party", "Unknown"),
+                        myneta_candidate_id=entry.get("myneta_candidate_id"),
+                        house=house_enum,
+                    )
+                )
         _seed_cache[state_norm] = mps
 
     return _seed_cache
@@ -110,7 +112,10 @@ class ManagerAgent:
 
         # Agents
         self.researcher = ResearcherAgent(
-            db, self.myneta, self.prs, self.mplads,
+            db,
+            self.myneta,
+            self.prs,
+            self.mplads,
             esakshi=self.esakshi,
             mplads_datagov=self.mplads_datagov,
             sansad=self.sansad,
@@ -121,7 +126,10 @@ class ManagerAgent:
             cag=self.cag,
         )
         self.validator = ValidatorAgent(
-            db, cag=self.cag, budget=self.budget, sansad_qa=self.sansad_qa,
+            db,
+            cag=self.cag,
+            budget=self.budget,
+            sansad_qa=self.sansad_qa,
         )
         self.developer = DeveloperAgent(db)
         self.assessor = AssessorAgent(db)
@@ -144,7 +152,10 @@ class ManagerAgent:
                 self.esakshi = ESAKSHIFetcher(self.scraper, browser=self._browser)
                 # Re-wire researcher with the updated esakshi fetcher
                 self.researcher = ResearcherAgent(
-                    self.db, self.myneta, self.prs, self.mplads,
+                    self.db,
+                    self.myneta,
+                    self.prs,
+                    self.mplads,
                     esakshi=self.esakshi,
                     mplads_datagov=self.mplads_datagov,
                     sansad=self.sansad,
@@ -163,7 +174,10 @@ class ManagerAgent:
                 self._browser = None
 
     async def run(
-        self, state: str, discover_only: bool = False, include_rs: bool = False,
+        self,
+        state: str,
+        discover_only: bool = False,
+        include_rs: bool = False,
         update: bool = False,
     ) -> Leaderboard | None:
         """Run the full pipeline for a state."""
@@ -273,6 +287,7 @@ class ManagerAgent:
         # Uses fuzzy matching to handle name spelling variants (e.g., Chandoliya vs Chandolia)
         if seed_mps and mps:
             from ..utils.name_match import name_matches
+
             seed_map = {mp.name.lower(): mp for mp in seed_mps}
             for mp in mps:
                 if mp.myneta_candidate_id:
@@ -307,8 +322,10 @@ class ManagerAgent:
     def _load_cached_findings(self, mp: MPProfile) -> ResearchFindings | None:
         """Load cached research findings from disk if they exist."""
         cache_path = os.path.join(
-            settings.data_dir, mp.state.replace(" ", "-").lower(),
-            "raw", f"{mp.slug}.json",
+            settings.data_dir,
+            mp.state.replace(" ", "-").lower(),
+            "raw",
+            f"{mp.slug}.json",
         )
         if not os.path.exists(cache_path):
             return None
@@ -359,10 +376,7 @@ class ManagerAgent:
                 missing.append("legislative")
 
         # MyNeta data missing — check criminal and assets independently
-        if (
-            findings.criminal_record.confidence == 0.0
-            and findings.assets.confidence == 0.0
-        ):
+        if findings.criminal_record.confidence == 0.0 and findings.assets.confidence == 0.0:
             missing.append("myneta")
         elif (
             findings.assets.total_assets is None
@@ -399,12 +413,16 @@ class ManagerAgent:
         return missing
 
     async def _selective_refresh(
-        self, mp: MPProfile, findings: ResearchFindings, missing: list[str],
+        self,
+        mp: MPProfile,
+        findings: ResearchFindings,
+        missing: list[str],
     ) -> ResearchFindings:
         """Re-fetch only specific data sources and merge into existing findings."""
         log.info(
             "Selective refresh for %s — re-fetching: %s",
-            mp.name, ", ".join(missing),
+            mp.name,
+            ", ".join(missing),
         )
 
         if ("committees" in missing or "legislative" in missing) and not mp.sansad_member_id:
@@ -433,9 +451,7 @@ class ManagerAgent:
 
         if "myneta" in missing and mp.myneta_candidate_id:
             try:
-                criminal, assets, extras = await self.researcher.myneta.fetch_candidate(
-                    mp.myneta_candidate_id
-                )
+                criminal, assets, extras = await self.researcher.myneta.fetch_candidate(mp.myneta_candidate_id)
                 findings.criminal_record = criminal
                 findings.assets = assets
                 findings.evidence_summary["criminal"] = "B"
@@ -469,9 +485,7 @@ class ManagerAgent:
                     fund = await self.mplads.fetch_fund_data(mp)
                 findings.mplads = fund
                 if fund.confidence > 0:
-                    findings.evidence_summary["mplads"] = (
-                        fund.sources[0].grade.value if fund.sources else "A"
-                    )
+                    findings.evidence_summary["mplads"] = fund.sources[0].grade.value if fund.sources else "A"
                     log.info(
                         "  [refreshed] mplads for %s — released: %s, expended: %s, conf: %.1f",
                         mp.name,
@@ -518,7 +532,9 @@ class ManagerAgent:
                         collected = cached.collected_at.strftime("%Y-%m-%d")
                         log.info(
                             "[cached+refresh] %s — data from %s, refreshing: %s",
-                            mp.name, collected, ", ".join(missing),
+                            mp.name,
+                            collected,
+                            ", ".join(missing),
                         )
                         findings = await self._selective_refresh(mp, cached, missing)
                     else:
@@ -526,9 +542,12 @@ class ManagerAgent:
                         log.info("[cached] %s — all data fresh from %s", mp.name, collected)
                         findings = cached
                 else:
-                    age_days = (datetime.now(timezone.utc) - cached.collected_at.replace(
-                        tzinfo=timezone.utc if cached.collected_at.tzinfo is None else cached.collected_at.tzinfo
-                    )).days
+                    age_days = (
+                        datetime.now(timezone.utc)
+                        - cached.collected_at.replace(
+                            tzinfo=timezone.utc if cached.collected_at.tzinfo is None else cached.collected_at.tzinfo
+                        )
+                    ).days
                     log.info("[stale] %s — cache is %d days old (max %d), re-fetching", mp.name, age_days, max_age)
 
         if findings is None:
@@ -578,9 +597,7 @@ class ManagerAgent:
         asset_data: list[tuple[str, float]] = []  # (slug, total_assets)
         for s in scores:
             state_slug = s.mp.state.replace(" ", "-").lower()
-            findings_path = os.path.join(
-                settings.data_dir, state_slug, "raw", f"{s.mp.slug}.json"
-            )
+            findings_path = os.path.join(settings.data_dir, state_slug, "raw", f"{s.mp.slug}.json")
             if os.path.exists(findings_path):
                 try:
                     with open(findings_path) as f:
@@ -605,9 +622,7 @@ class ManagerAgent:
             if s.mp.slug not in percentile_map:
                 continue
             state_slug = s.mp.state.replace(" ", "-").lower()
-            findings_path = os.path.join(
-                settings.data_dir, state_slug, "raw", f"{s.mp.slug}.json"
-            )
+            findings_path = os.path.join(settings.data_dir, state_slug, "raw", f"{s.mp.slug}.json")
             if os.path.exists(findings_path):
                 try:
                     with open(findings_path) as f:
@@ -627,27 +642,29 @@ class ManagerAgent:
             house_val = score.mp.house.value if score.mp.house else "lok_sabha"
             avg_grade = self._compute_avg_evidence_grade(score.mp)
 
-            entries.append(LeaderboardEntry(
-                rank=rank,
-                mp_name=score.mp.name,
-                constituency=score.mp.constituency,
-                party=score.mp.party,
-                state=score.mp.state,
-                composite_score=score.composite_score,
-                mplads_score=score.breakdown.mplads_score,
-                asset_score=score.breakdown.asset_score,
-                criminal_score=score.breakdown.criminal_score,
-                attendance_score=score.breakdown.attendance_score,
-                participation_score=score.breakdown.participation_score,
-                committee_score=score.breakdown.committee_score,
-                accessibility_score=score.breakdown.accessibility_score,
-                legislative_score=score.breakdown.legislative_score,
-                data_confidence=score.data_confidence,
-                key_finding=score.key_finding,
-                house=house_val,
-                photo_url=score.mp.photo_url,
-                avg_evidence_grade=avg_grade,
-            ))
+            entries.append(
+                LeaderboardEntry(
+                    rank=rank,
+                    mp_name=score.mp.name,
+                    constituency=score.mp.constituency,
+                    party=score.mp.party,
+                    state=score.mp.state,
+                    composite_score=score.composite_score,
+                    mplads_score=score.breakdown.mplads_score,
+                    asset_score=score.breakdown.asset_score,
+                    criminal_score=score.breakdown.criminal_score,
+                    attendance_score=score.breakdown.attendance_score,
+                    participation_score=score.breakdown.participation_score,
+                    committee_score=score.breakdown.committee_score,
+                    accessibility_score=score.breakdown.accessibility_score,
+                    legislative_score=score.breakdown.legislative_score,
+                    data_confidence=score.data_confidence,
+                    key_finding=score.key_finding,
+                    house=house_val,
+                    photo_url=score.mp.photo_url,
+                    avg_evidence_grade=avg_grade,
+                )
+            )
 
         return Leaderboard(
             state=state_slug,
@@ -665,9 +682,7 @@ class ManagerAgent:
         reverse_map = {4: "A", 3: "B", 2: "C", 1: "D", 0: "E"}
 
         state_slug = mp.state.replace(" ", "-").lower()
-        findings_path = os.path.join(
-            settings.data_dir, state_slug, "raw", f"{mp.slug}.json"
-        )
+        findings_path = os.path.join(settings.data_dir, state_slug, "raw", f"{mp.slug}.json")
 
         if not os.path.exists(findings_path):
             return "E"
@@ -734,13 +749,15 @@ class ManagerAgent:
                 f"{e.composite_score:.1f} | {e.data_confidence:.0%} | {e.key_finding} |"
             )
 
-        lines.extend([
-            "",
-            "### Score Breakdown",
-            "",
-            "| Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |",
-            "|------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|",
-        ])
+        lines.extend(
+            [
+                "",
+                "### Score Breakdown",
+                "",
+                "| Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |",
+                "|------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|",
+            ]
+        )
 
         for e in lb.entries:
             house_tag = "LS" if e.house == "lok_sabha" else "RS"

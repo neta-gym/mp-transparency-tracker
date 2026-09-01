@@ -270,12 +270,14 @@ class ESAKSHIFetcher:
         )
         return MPLADSFund(
             confidence=0.0,
-            sources=[DataSource(
-                url=self._dashboard_url,
-                source_name="esakshi",
-                grade=EvidenceGrade.A,
-                notes=note,
-            )],
+            sources=[
+                DataSource(
+                    url=self._dashboard_url,
+                    source_name="esakshi",
+                    grade=EvidenceGrade.A,
+                    notes=note,
+                )
+            ],
             data_period_note=note,
         )
 
@@ -347,18 +349,14 @@ class ESAKSHIFetcher:
                     return None
 
                 # Resolve constituency ID (with retry on transient failure)
-                const_id = await self._resolve_constituency_id(
-                    page, str(state_id), mp.constituency
-                )
+                const_id = await self._resolve_constituency_id(page, str(state_id), mp.constituency)
                 if not const_id:
                     # Server may still be warming up — wait and retry once
                     log.debug("eSAKSHI: Constituency resolution failed, retrying after delay...")
                     await asyncio.sleep(5)
                     # Clear cache to force re-fetch
                     self._constituency_ids.pop(str(state_id), None)
-                    const_id = await self._resolve_constituency_id(
-                        page, str(state_id), mp.constituency
-                    )
+                    const_id = await self._resolve_constituency_id(page, str(state_id), mp.constituency)
 
                 if const_id:
                     log.info("eSAKSHI: Resolved constituency '%s' -> ID %d", mp.constituency, const_id)
@@ -388,19 +386,26 @@ class ESAKSHIFetcher:
                         if tiles_data:
                             fund = self._parse_tiles_data(tiles_data if isinstance(tiles_data, dict) else {})
                             if fund and fund.confidence > 0:
-                                log.info("eSAKSHI REST: Extracted fund data — entitled=%.2f Cr, expended=%s Cr",
-                                         fund.entitled or 0, fund.expended)
+                                log.info(
+                                    "eSAKSHI REST: Extracted fund data — entitled=%.2f Cr, expended=%s Cr",
+                                    fund.entitled or 0,
+                                    fund.expended,
+                                )
                                 # Reset rate-limit state on success. Keep a short pause;
                                 # retries still enforce the long cooldown on actual empty/rate-limited responses.
                                 self._rate_limit_until = 0
                                 await asyncio.sleep(0.2)
                                 return fund
                             else:
-                                log.warning("eSAKSHI REST: getTilesData returned data but parse failed (attempt %d): %s",
-                                            attempt + 1, str(tiles_data)[:300])
+                                log.warning(
+                                    "eSAKSHI REST: getTilesData returned data but parse failed (attempt %d): %s",
+                                    attempt + 1,
+                                    str(tiles_data)[:300],
+                                )
                         else:
-                            log.warning("eSAKSHI REST: getTilesData returned empty (attempt %d/4) — rate-limited",
-                                        attempt + 1)
+                            log.warning(
+                                "eSAKSHI REST: getTilesData returned empty (attempt %d/4) — rate-limited", attempt + 1
+                            )
 
                         # Set global cooldown — all callers (including this retry)
                         # must wait for the full cooldown before the next call
@@ -432,7 +437,8 @@ class ESAKSHIFetcher:
     async def _call_rest_api(self, page, endpoint: str, payload: dict) -> dict | list | None:
         """Call an eSAKSHI REST API endpoint from within the page context."""
         try:
-            result = await page.evaluate("""async (args) => {
+            result = await page.evaluate(
+                """async (args) => {
                 const [endpoint, payload] = args;
                 try {
                     const r = await fetch('/rest/PreLoginDashboardData/' + endpoint, {
@@ -448,7 +454,9 @@ class ESAKSHIFetcher:
                 } catch(e) {
                     return {_error: e.message};
                 }
-            }""", [endpoint, payload])
+            }""",
+                [endpoint, payload],
+            )
 
             if result is None:
                 return None
@@ -476,9 +484,7 @@ class ESAKSHIFetcher:
                     return int(sid)
         return None
 
-    async def _resolve_constituency_id(
-        self, page, state_id: str, constituency: str
-    ) -> int | None:
+    async def _resolve_constituency_id(self, page, state_id: str, constituency: str) -> int | None:
         """Look up constituency ID from the eSAKSHI constituency list."""
         if state_id in self._constituency_ids:
             const_map = self._constituency_ids[state_id]
@@ -545,7 +551,9 @@ class ESAKSHIFetcher:
 
         log.warning(
             "eSAKSHI: Constituency '%s' not found in state %s (available: %s)",
-            constituency, state_id, list(const_map.keys()),
+            constituency,
+            state_id,
+            list(const_map.keys()),
         )
         return None
 
@@ -559,7 +567,8 @@ class ESAKSHIFetcher:
         the MP across all pages, not just the visible rows.
         """
         try:
-            result = await page.evaluate(r"""(args) => {
+            result = await page.evaluate(
+                r"""(args) => {
                 const [mpName, constituency] = args;
                 const mpLower = mpName.toLowerCase();
                 const constLower = constituency.toLowerCase();
@@ -635,7 +644,9 @@ class ESAKSHIFetcher:
                 }
 
                 return {error: 'not found via DOM', rowCount: table.rows.length};
-            }""", [mp.name, mp.constituency])
+            }""",
+                [mp.name, mp.constituency],
+            )
 
             if not result or result.get("error"):
                 log.debug("eSAKSHI DataTable: %s", result)
@@ -654,7 +665,9 @@ class ESAKSHIFetcher:
 
             log.info(
                 "eSAKSHI DataTable: Found %s (%s) — Allocated: %s",
-                found_mp, found_const, allocated_raw,
+                found_mp,
+                found_const,
+                allocated_raw,
             )
 
             return MPLADSFund(
@@ -662,12 +675,14 @@ class ESAKSHIFetcher:
                 released=allocated,
                 source="esakshi",
                 confidence=0.85,
-                sources=[DataSource(
-                    url=ESAKSHI_DASHBOARD_URL,
-                    source_name="esakshi",
-                    grade=EvidenceGrade.A,
-                    notes=f"From eSAKSHI DataTable — MP: {found_mp}, Allocated: {allocated_raw}",
-                )],
+                sources=[
+                    DataSource(
+                        url=ESAKSHI_DASHBOARD_URL,
+                        source_name="esakshi",
+                        grade=EvidenceGrade.A,
+                        notes=f"From eSAKSHI DataTable — MP: {found_mp}, Allocated: {allocated_raw}",
+                    )
+                ],
                 esakshi_coverage_start=ESAKSHI_COVERAGE_START,
             )
 
@@ -739,7 +754,11 @@ class ESAKSHIFetcher:
 
         log.info(
             "eSAKSHI tiles parsed: entitled=%.2f Cr, expended=%s Cr, works=%d recommended / %d sanctioned / %d completed",
-            entitled or 0, expended, works_recommended_count, works_sanctioned_count, works_completed_count,
+            entitled or 0,
+            expended,
+            works_recommended_count,
+            works_sanctioned_count,
+            works_completed_count,
         )
 
         return MPLADSFund(
@@ -750,17 +769,19 @@ class ESAKSHIFetcher:
             source="esakshi",
             confidence=0.9,
             works_count=works_recommended_count,
-            sources=[DataSource(
-                url=ESAKSHI_DASHBOARD_URL,
-                source_name="esakshi",
-                grade=EvidenceGrade.A,
-                notes=(
-                    f"Official eSAKSHI REST API — "
-                    f"Works: {works_recommended_count} recommended, "
-                    f"{works_sanctioned_count} sanctioned, "
-                    f"{works_completed_count} completed"
-                ),
-            )],
+            sources=[
+                DataSource(
+                    url=ESAKSHI_DASHBOARD_URL,
+                    source_name="esakshi",
+                    grade=EvidenceGrade.A,
+                    notes=(
+                        f"Official eSAKSHI REST API — "
+                        f"Works: {works_recommended_count} recommended, "
+                        f"{works_sanctioned_count} sanctioned, "
+                        f"{works_completed_count} completed"
+                    ),
+                )
+            ],
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
@@ -822,12 +843,14 @@ class ESAKSHIFetcher:
             released=allocated,
             source="esakshi",
             confidence=0.85,
-            sources=[DataSource(
-                url=ESAKSHI_DASHBOARD_URL,
-                source_name="esakshi",
-                grade=EvidenceGrade.A,
-                notes="From eSAKSHI report table data",
-            )],
+            sources=[
+                DataSource(
+                    url=ESAKSHI_DASHBOARD_URL,
+                    source_name="esakshi",
+                    grade=EvidenceGrade.A,
+                    notes="From eSAKSHI report table data",
+                )
+            ],
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
@@ -914,12 +937,14 @@ class ESAKSHIFetcher:
                 source="esakshi",
                 confidence=0.85,
                 works_count=works_count,
-                sources=[DataSource(
-                    url=ESAKSHI_DASHBOARD_URL,
-                    source_name="esakshi",
-                    grade=EvidenceGrade.A,
-                    notes="Extracted from eSAKSHI rendered DOM via Playwright",
-                )],
+                sources=[
+                    DataSource(
+                        url=ESAKSHI_DASHBOARD_URL,
+                        source_name="esakshi",
+                        grade=EvidenceGrade.A,
+                        notes="Extracted from eSAKSHI rendered DOM via Playwright",
+                    )
+                ],
                 esakshi_coverage_start=ESAKSHI_COVERAGE_START,
             )
 
@@ -1031,12 +1056,14 @@ class ESAKSHIFetcher:
             expended=expended,
             source="esakshi",
             confidence=0.9 if has_data else 0.0,
-            sources=[DataSource(
-                url=self._dashboard_url,
-                source_name="esakshi",
-                grade=EvidenceGrade.A,
-                notes="Official MoSPI eSAKSHI dashboard — Grade A authoritative source",
-            )],
+            sources=[
+                DataSource(
+                    url=self._dashboard_url,
+                    source_name="esakshi",
+                    grade=EvidenceGrade.A,
+                    notes="Official MoSPI eSAKSHI dashboard — Grade A authoritative source",
+                )
+            ],
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )
 
@@ -1092,11 +1119,13 @@ class ESAKSHIFetcher:
             expended=expended,
             source="esakshi",
             confidence=0.85 if has_data else 0.0,
-            sources=[DataSource(
-                url=self._dashboard_url,
-                source_name="esakshi",
-                grade=EvidenceGrade.A,
-                notes="Parsed from eSAKSHI dashboard HTML",
-            )],
+            sources=[
+                DataSource(
+                    url=self._dashboard_url,
+                    source_name="esakshi",
+                    grade=EvidenceGrade.A,
+                    notes="Parsed from eSAKSHI dashboard HTML",
+                )
+            ],
             esakshi_coverage_start=ESAKSHI_COVERAGE_START,
         )

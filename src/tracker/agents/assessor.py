@@ -70,7 +70,7 @@ def calc_mplads_score(
         # Sector diversity bonus: more diverse fund usage = better transparency
         sectors = set()
         for w in works:
-            if hasattr(w, 'sector') and w.sector:
+            if hasattr(w, "sector") and w.sector:
                 sectors.add(w.sector.lower())
         if len(sectors) >= 5:
             base += 10
@@ -182,9 +182,7 @@ def calc_attendance_score(attendance_pct: float | None, is_minister: bool = Fals
     return 45.0  # Slightly penalizes missing attendance data
 
 
-def calc_participation_score(
-    questions: int, debates: int, is_minister: bool = False
-) -> float:
+def calc_participation_score(questions: int, debates: int, is_minister: bool = False) -> float:
     """Questions & Debates participation scoring.
 
     Ministers get their actual score if data is available, otherwise neutral 50.
@@ -446,7 +444,9 @@ class AssessorAgent(BaseAgent):
         await self.db.save_score(mp.slug, mp.state, score)
         log.info(
             "[green]Score complete:[/green] %s — %.1f/100 (confidence: %.0f%%)",
-            mp.name, composite, data_confidence * 100,
+            mp.name,
+            composite,
+            data_confidence * 100,
         )
         return score
 
@@ -504,9 +504,7 @@ class AssessorAgent(BaseAgent):
             parts.append("Legislative initiative")
         return ", ".join(parts) if parts else "Mixed transparency record"
 
-    def _auto_assessment(
-        self, mp, breakdown: ScoreBreakdown, composite: float, validated: ValidatedFindings
-    ) -> str:
+    def _auto_assessment(self, mp, breakdown: ScoreBreakdown, composite: float, validated: ValidatedFindings) -> str:
         """Generate a rule-based qualitative assessment without LLM."""
         parts = []
         rounded = round(composite, 1)
@@ -517,7 +515,9 @@ class AssessorAgent(BaseAgent):
         elif rounded >= 50:
             parts.append(f"{mp.name} shows moderate transparency with a score of {rounded}/100.")
         else:
-            parts.append(f"{mp.name} has a below-average transparency score of {rounded}/100, indicating significant room for improvement.")
+            parts.append(
+                f"{mp.name} has a below-average transparency score of {rounded}/100, indicating significant room for improvement."
+            )
 
         # Criminal
         if breakdown.criminal_score >= 100:

@@ -36,8 +36,8 @@ class AsyncScraper:
                     timeout=timeout,
                     headers={
                         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                                      "Chrome/120.0.0.0 Safari/537.36",
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/120.0.0.0 Safari/537.36",
                         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                         "Accept-Language": "en-US,en;q=0.5",
                     },
@@ -59,15 +59,13 @@ class AsyncScraper:
                         if resp.status == 200:
                             return await resp.text()
                         elif resp.status == 429:
-                            delay = settings.retry_base_delay * (2 ** attempt)
+                            delay = settings.retry_base_delay * (2**attempt)
                             log.warning("Rate limited on %s, retrying in %.1fs", url, delay)
                             await asyncio.sleep(delay)
                             continue
                         elif resp.status == 404:
                             log.warning("HTTP 404 for %s — not found, skipping retries", url)
-                            raise aiohttp.ClientResponseError(
-                                resp.request_info, resp.history, status=resp.status
-                            )
+                            raise aiohttp.ClientResponseError(resp.request_info, resp.history, status=resp.status)
                         else:
                             log.warning("HTTP %d for %s (attempt %d)", resp.status, url, attempt + 1)
                             last_error = aiohttp.ClientResponseError(
@@ -75,7 +73,7 @@ class AsyncScraper:
                             )
                 except (aiohttp.ClientError, asyncio.TimeoutError) as e:
                     last_error = e
-                    delay = settings.retry_base_delay * (2 ** attempt)
+                    delay = settings.retry_base_delay * (2**attempt)
                     log.warning("Request error for %s: %s, retrying in %.1fs", url, e, delay)
                     await asyncio.sleep(delay)
 
@@ -96,18 +94,17 @@ class AsyncScraper:
                         if resp.status == 200:
                             data: dict | list = await resp.json(content_type=None)
                             return data
-                        last_error = aiohttp.ClientResponseError(
-                            resp.request_info, resp.history, status=resp.status
-                        )
+                        last_error = aiohttp.ClientResponseError(resp.request_info, resp.history, status=resp.status)
                 except (aiohttp.ClientError, asyncio.TimeoutError) as e:
                     last_error = e
-                    await asyncio.sleep(settings.retry_base_delay * (2 ** attempt))
+                    await asyncio.sleep(settings.retry_base_delay * (2**attempt))
 
         raise last_error or RuntimeError(f"Failed to fetch JSON from {url}")
 
     async def fetch_html(self, url: str, parser: str = "lxml") -> BeautifulSoup:
         """Fetch URL and parse as HTML with BeautifulSoup."""
         from bs4 import BeautifulSoup
+
         text = await self.fetch(url)
         return BeautifulSoup(text, parser)
 

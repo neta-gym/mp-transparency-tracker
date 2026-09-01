@@ -11,8 +11,13 @@ log = get_logger(__name__)
 
 # Bills of national importance — missing these is flagged
 KEY_BILL_KEYWORDS = {
-    "budget", "finance bill", "appropriation", "constitution amendment",
-    "no confidence", "confidence motion", "president's address",
+    "budget",
+    "finance bill",
+    "appropriation",
+    "constitution amendment",
+    "no confidence",
+    "confidence motion",
+    "president's address",
 }
 
 

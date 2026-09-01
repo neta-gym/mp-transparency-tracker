@@ -16,14 +16,42 @@ log = get_logger(__name__)
 
 # Indian states and UTs for --all-states
 ALL_STATES = [
-    "andhra pradesh", "arunachal pradesh", "assam", "bihar", "chhattisgarh",
-    "goa", "gujarat", "haryana", "himachal pradesh", "jharkhand", "karnataka",
-    "kerala", "madhya pradesh", "maharashtra", "manipur", "meghalaya", "mizoram",
-    "nagaland", "odisha", "punjab", "rajasthan", "sikkim", "tamil nadu",
-    "telangana", "tripura", "uttar pradesh", "uttarakhand", "west bengal",
-    "delhi", "jammu and kashmir", "ladakh", "chandigarh",
-    "dadra and nagar haveli and daman and diu", "lakshadweep",
-    "andaman and nicobar islands", "puducherry",
+    "andhra pradesh",
+    "arunachal pradesh",
+    "assam",
+    "bihar",
+    "chhattisgarh",
+    "goa",
+    "gujarat",
+    "haryana",
+    "himachal pradesh",
+    "jharkhand",
+    "karnataka",
+    "kerala",
+    "madhya pradesh",
+    "maharashtra",
+    "manipur",
+    "meghalaya",
+    "mizoram",
+    "nagaland",
+    "odisha",
+    "punjab",
+    "rajasthan",
+    "sikkim",
+    "tamil nadu",
+    "telangana",
+    "tripura",
+    "uttar pradesh",
+    "uttarakhand",
+    "west bengal",
+    "delhi",
+    "jammu and kashmir",
+    "ladakh",
+    "chandigarh",
+    "dadra and nagar haveli and daman and diu",
+    "lakshadweep",
+    "andaman and nicobar islands",
+    "puducherry",
 ]
 
 
@@ -42,12 +70,16 @@ async def run(
     manager = ManagerAgent(db)
     try:
         leaderboard = await manager.run(
-            state, discover_only=discover_only, include_rs=include_rs, update=update,
+            state,
+            discover_only=discover_only,
+            include_rs=include_rs,
+            update=update,
         )
         if leaderboard:
             # Trend analysis: annotate leaderboard with deltas from previous run
             if compare:
                 from .utils.trends import annotate_leaderboard_with_deltas
+
                 previous = await db.get_previous_scores(state.replace(" ", "-").lower())
                 if previous:
                     annotate_leaderboard_with_deltas(leaderboard, previous)
@@ -59,20 +91,22 @@ async def run(
             _save_exports(leaderboard, state, output_format)
 
             console.print(f"\n[bold green]Pipeline complete for {state.title()}![/bold green]")
-            state_slug = state.replace(' ', '-').lower()
+            state_slug = state.replace(" ", "-").lower()
             console.print(f"  Leaderboard: data/{state_slug}/leaderboard/latest.json")
             console.print(f"  Reports: data/{state_slug}/reports/")
     finally:
         await manager.cleanup()
 
 
-async def run_states(states: list[str], include_rs: bool = False, update: bool = False, output_format: str = "md") -> None:
+async def run_states(
+    states: list[str], include_rs: bool = False, update: bool = False, output_format: str = "md"
+) -> None:
     """Run the pipeline for a list of states sequentially."""
     for state in states:
         try:
-            console.print(f"\n{'='*60}")
+            console.print(f"\n{'=' * 60}")
             console.print(f"[bold]Processing: {state.title()}[/bold]")
-            console.print(f"{'='*60}\n")
+            console.print(f"{'=' * 60}\n")
             await run(state, include_rs=include_rs, update=update, output_format=output_format)
         except Exception as e:
             log.error("Failed for state %s: %s", state, e)
@@ -103,15 +137,20 @@ async def run_single_mp(mp_name: str, state: str | None, update: bool = False) -
             rows = await db.find_mp_by_name(mp_name)
             if rows:
                 from .models.schemas import House, MPProfile
+
                 matches = []
                 for r in rows:
-                    matches.append(MPProfile(
-                        name=r["name"], constituency=r["constituency"],
-                        state=r["state"], party=r["party"],
-                        house=House(r.get("house", "lok_sabha")),
-                        myneta_candidate_id=r.get("myneta_candidate_id"),
-                        sansad_member_id=r.get("sansad_member_id"),
-                    ))
+                    matches.append(
+                        MPProfile(
+                            name=r["name"],
+                            constituency=r["constituency"],
+                            state=r["state"],
+                            party=r["party"],
+                            house=House(r.get("house", "lok_sabha")),
+                            myneta_candidate_id=r.get("myneta_candidate_id"),
+                            sansad_member_id=r.get("sansad_member_id"),
+                        )
+                    )
             else:
                 matches = []
 
@@ -185,17 +224,21 @@ async def run_national() -> None:
             f.write(national.model_dump_json(indent=2))
 
         from .utils.exporters import LeaderboardExporter
+
         with open(os.path.join(lb_dir, "latest.md"), "w") as f:
             f.write(LeaderboardExporter.to_md(national))
         with open(os.path.join(lb_dir, "latest.html"), "w") as f:
             f.write(LeaderboardExporter.to_html(national))
 
-        console.print(f"\n[bold green]National leaderboard: {len(all_entries)} MPs from {len(states)} states[/bold green]")
+        console.print(
+            f"\n[bold green]National leaderboard: {len(all_entries)} MPs from {len(states)} states[/bold green]"
+        )
         console.print(f"  JSON: {lb_dir}/latest.json")
         console.print(f"  HTML: {lb_dir}/latest.html")
 
         # Display top 10
         from rich.table import Table
+
         table = Table(title="National Top 10")
         table.add_column("#", style="bold")
         table.add_column("MP", style="cyan")
@@ -301,7 +344,8 @@ def _show_freshness(state: str) -> None:
         else:
             age_style = "green"
         table.add_row(
-            r["mp_name"], r["source"],
+            r["mp_name"],
+            r["source"],
             r["fetched_at"][:10] if len(r["fetched_at"]) >= 10 else r["fetched_at"],
             f"[{age_style}]{age}[/{age_style}]",
             r["grade"],
@@ -327,10 +371,17 @@ def cli_entry() -> None:
     parser.add_argument("--national", action="store_true", help="Build national leaderboard from cached state data")
     parser.add_argument("--compare", action="store_true", help="Show score changes since last run")
     parser.add_argument("--compare-mps", nargs="+", metavar="NAME", help="Compare two or more MPs side-by-side")
-    parser.add_argument("--format", choices=["md", "csv", "html", "json"], default="md", help="Leaderboard export format")
+    parser.add_argument(
+        "--format", choices=["md", "csv", "html", "json"], default="md", help="Leaderboard export format"
+    )
     parser.add_argument("--freshness", action="store_true", help="Show data freshness report")
     parser.add_argument("--rti-batch", action="store_true", help="Generate RTI templates for all MPs in a state")
-    parser.add_argument("--max-age", type=int, default=None, help="Cache max age in days (default: 7). Cached data older than this is re-fetched.")
+    parser.add_argument(
+        "--max-age",
+        type=int,
+        default=None,
+        help="Cache max age in days (default: 7). Cached data older than this is re-fetched.",
+    )
 
     # Debug flags
     parser.add_argument("--debug", action="store_true", help="Run debugger (no API key needed)")
@@ -348,6 +399,7 @@ def cli_entry() -> None:
     # --- Debugger ---
     if args.debug:
         from .debugger import DebuggerAgent
+
         agent = DebuggerAgent(
             data_dir=settings.data_dir,
             db_path=settings.database_path,
@@ -373,6 +425,7 @@ def cli_entry() -> None:
             console.print("[bold red]--rti-batch requires --state[/bold red]")
             sys.exit(1)
         from .utils.rti_batch import generate_rti_batch
+
         files = generate_rti_batch(args.state, settings.data_dir)
         console.print(f"[bold green]Generated {len(files)} RTI files[/bold green]")
         for f in files[:5]:
@@ -408,14 +461,16 @@ def cli_entry() -> None:
         state_list = [s.strip().lower() for s in args.states.split(",") if s.strip()]
         asyncio.run(run_states(state_list, include_rs=args.include_rs, update=args.update, output_format=args.format))
     else:
-        asyncio.run(run(
-            args.state.lower(),
-            discover_only=args.discover_only,
-            include_rs=args.include_rs,
-            update=args.update,
-            output_format=args.format,
-            compare=args.compare,
-        ))
+        asyncio.run(
+            run(
+                args.state.lower(),
+                discover_only=args.discover_only,
+                include_rs=args.include_rs,
+                update=args.update,
+                output_format=args.format,
+                compare=args.compare,
+            )
+        )
 
 
 if __name__ == "__main__":

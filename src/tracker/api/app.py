@@ -65,9 +65,7 @@ def _conn() -> aiosqlite.Connection:
 @app.get("/api/v1/states")
 async def list_states():
     """List all states with MP counts."""
-    cursor = await _conn().execute(
-        "SELECT state, COUNT(*) as mp_count FROM mps GROUP BY state ORDER BY state"
-    )
+    cursor = await _conn().execute("SELECT state, COUNT(*) as mp_count FROM mps GROUP BY state ORDER BY state")
     rows = await cursor.fetchall()
     return [{"state": r["state"], "mp_count": r["mp_count"]} for r in rows]
 

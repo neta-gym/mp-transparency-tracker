@@ -94,17 +94,14 @@ def detect_conflicts(
 
     for sector in mp_set & set(committee_sectors):
         matching_committees = [
-            m.committee_name for m in committees.memberships
+            m.committee_name
+            for m in committees.memberships
             if sector in _classify_sectors(m.committee_name, _COMMITTEE_SECTOR_MAP)
         ]
-        overlaps.append(
-            f"Business in {sector} sector + sits on {', '.join(matching_committees)}"
-        )
+        overlaps.append(f"Business in {sector} sector + sits on {', '.join(matching_committees)}")
 
     for sector in mp_set & set(question_sectors):
-        overlaps.append(
-            f"Business in {sector} sector + asks questions on {sector}-related topics"
-        )
+        overlaps.append(f"Business in {sector} sector + asks questions on {sector}-related topics")
 
     # Determine severity
     if not overlaps:

@@ -51,7 +51,8 @@ class SansadFetcher:
             # API returns ALL members across all terms (5000+).
             # Filter to current 18th Lok Sabha sitting members only.
             self._ls_cache = [
-                m for m in all_members
+                m
+                for m in all_members
                 if str(m.get("status", "")).strip().lower() == "sitting"
                 and str(m.get("lastLoksabha", "")).strip() == "18"
             ]
@@ -61,7 +62,11 @@ class SansadFetcher:
                 if sitting:
                     self._ls_cache = sitting
                     log.info("Used status-only filter (%d sitting members)", len(sitting))
-            log.info("Loaded %d current Lok Sabha members from Digital Sansad (of %d total)", len(self._ls_cache), len(all_members))
+            log.info(
+                "Loaded %d current Lok Sabha members from Digital Sansad (of %d total)",
+                len(self._ls_cache),
+                len(all_members),
+            )
         except Exception as e:
             log.warning("Failed to fetch Lok Sabha members from Sansad API: %s", e)
             self._ls_cache = []
@@ -87,23 +92,22 @@ class SansadFetcher:
                 if not isinstance(all_members, list):
                     all_members = []
             # Filter to current sitting members only
-            self._rs_cache = [
-                m for m in all_members
-                if str(m.get("status", "")).strip().lower() == "sitting"
-            ]
+            self._rs_cache = [m for m in all_members if str(m.get("status", "")).strip().lower() == "sitting"]
             if not self._rs_cache and all_members:
                 # Fallback if no status field
                 self._rs_cache = all_members
-            log.info("Loaded %d current Rajya Sabha members from Digital Sansad (of %d total)", len(self._rs_cache), len(all_members))
+            log.info(
+                "Loaded %d current Rajya Sabha members from Digital Sansad (of %d total)",
+                len(self._rs_cache),
+                len(all_members),
+            )
         except Exception as e:
             log.warning("Failed to fetch Rajya Sabha members from Sansad API: %s", e)
             self._rs_cache = []
 
         return self._rs_cache
 
-    async def get_members_by_state(
-        self, state: str, house: House = House.LOK_SABHA
-    ) -> list[MPProfile]:
+    async def get_members_by_state(self, state: str, house: House = House.LOK_SABHA) -> list[MPProfile]:
         """Get MPs for a state from the Sansad API.
 
         Args:
@@ -132,7 +136,9 @@ class SansadFetcher:
 
         log.info(
             "Found %d %s members for %s from Digital Sansad",
-            len(mps), house.value, state,
+            len(mps),
+            house.value,
+            state,
         )
         return mps
 
@@ -144,9 +150,7 @@ class SansadFetcher:
                 return str(val).strip()  # API pads stateName with trailing spaces
         return ""
 
-    def _member_to_profile(
-        self, member: dict, state_norm: str, house: House
-    ) -> MPProfile | None:
+    def _member_to_profile(self, member: dict, state_norm: str, house: House) -> MPProfile | None:
         """Convert a Sansad API member dict to an MPProfile."""
         # Extract name — API uses firstName/lastName or full name, with fallback to mpFirstLastName
         first = member.get("firstName", member.get("first_name", ""))
@@ -354,7 +358,7 @@ class SansadFetcher:
 
                 # Determine role
                 role = "member"
-                context = html[max(0, match.start() - 100):match.end() + 100].lower()
+                context = html[max(0, match.start() - 100) : match.end() + 100].lower()
                 if "chairperson" in context or "chairman" in context:
                     role = "chairperson"
                     leadership_count += 1
@@ -374,12 +378,14 @@ class SansadFetcher:
                 elif "consultative" in name_lower:
                     ctype = "consultative"
 
-                memberships.append(CommitteeMembership(
-                    committee_name=name,
-                    role=role,
-                    committee_type=ctype,
-                    source=source,
-                ))
+                memberships.append(
+                    CommitteeMembership(
+                        committee_name=name,
+                        role=role,
+                        committee_type=ctype,
+                        source=source,
+                    )
+                )
 
         confidence = 0.7 if memberships else 0.3
         return CommitteeEngagement(
@@ -434,12 +440,14 @@ class SansadFetcher:
             bill_name = re.sub(r"<[^>]+>", "", match.group(1)).strip()
             date = match.group(2).strip()
             if bill_name and date:
-                records.append(VoteRecord(
-                    bill_name=bill_name,
-                    date=date,
-                    vote="unknown",
-                    source=source,
-                ))
+                records.append(
+                    VoteRecord(
+                        bill_name=bill_name,
+                        date=date,
+                        vote="unknown",
+                        source=source,
+                    )
+                )
 
         return records[:20]  # Cap at 20 most recent
 

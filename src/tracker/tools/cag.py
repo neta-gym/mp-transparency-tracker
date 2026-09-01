@@ -19,9 +19,24 @@ _KNOWN_FINDINGS: list[dict] = [
         "year": 2010,
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "findings": [
-            {"finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states", "category": "idle_funds", "severity": "high", "states": ["all"]},
-            {"finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents", "category": "bogus_ucs", "severity": "high", "states": ["all"]},
-            {"finding": "Incomplete works: 18% of sampled works were abandoned or incomplete", "category": "incomplete_works", "severity": "medium", "states": ["all"]},
+            {
+                "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+                "category": "idle_funds",
+                "severity": "high",
+                "states": ["all"],
+            },
+            {
+                "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+                "category": "bogus_ucs",
+                "severity": "high",
+                "states": ["all"],
+            },
+            {
+                "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+                "category": "incomplete_works",
+                "severity": "medium",
+                "states": ["all"],
+            },
         ],
     },
     {
@@ -30,8 +45,18 @@ _KNOWN_FINDINGS: list[dict] = [
         "year": 2013,
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "findings": [
-            {"finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances", "category": "idle_funds", "severity": "high", "states": ["all"]},
-            {"finding": "Works executed outside MP constituency in multiple states", "category": "irregular_works", "severity": "medium", "states": ["uttar pradesh", "bihar", "madhya pradesh"]},
+            {
+                "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+                "category": "idle_funds",
+                "severity": "high",
+                "states": ["all"],
+            },
+            {
+                "finding": "Works executed outside MP constituency in multiple states",
+                "category": "irregular_works",
+                "severity": "medium",
+                "states": ["uttar pradesh", "bihar", "madhya pradesh"],
+            },
         ],
     },
     {
@@ -40,10 +65,30 @@ _KNOWN_FINDINGS: list[dict] = [
         "year": 2017,
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "findings": [
-            {"finding": "Only 53% of recommended works completed within the audit period", "category": "incomplete_works", "severity": "medium", "states": ["all"]},
-            {"finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines", "category": "irregular_works", "severity": "high", "states": ["all"]},
-            {"finding": "Asset registers not maintained by district authorities in 40% of sampled districts", "category": "poor_records", "severity": "medium", "states": ["all"]},
-            {"finding": "Delhi: 67% utilization rate, below national average of 72%", "category": "low_utilization", "severity": "medium", "states": ["delhi"]},
+            {
+                "finding": "Only 53% of recommended works completed within the audit period",
+                "category": "incomplete_works",
+                "severity": "medium",
+                "states": ["all"],
+            },
+            {
+                "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+                "category": "irregular_works",
+                "severity": "high",
+                "states": ["all"],
+            },
+            {
+                "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+                "category": "poor_records",
+                "severity": "medium",
+                "states": ["all"],
+            },
+            {
+                "finding": "Delhi: 67% utilization rate, below national average of 72%",
+                "category": "low_utilization",
+                "severity": "medium",
+                "states": ["delhi"],
+            },
         ],
     },
 ]
@@ -69,21 +114,23 @@ class CAGFetcher:
             for item in report["findings"]:
                 states = item.get("states", [])
                 if "all" in states or normalized in states:
-                    findings.append(CAGFinding(
-                        report_title=report["report_title"],
-                        report_number=report["report_number"],
-                        year=report["year"],
-                        finding=item["finding"],
-                        category=item["category"],
-                        state=normalized if normalized in states else "national",
-                        severity=item.get("severity", "medium"),
-                        source=DataSource(
-                            url=report["url"],
-                            source_name="cag",
-                            grade=EvidenceGrade.A,
-                            notes=f"CAG Report No. {report['report_number']}",
-                        ),
-                    ))
+                    findings.append(
+                        CAGFinding(
+                            report_title=report["report_title"],
+                            report_number=report["report_number"],
+                            year=report["year"],
+                            finding=item["finding"],
+                            category=item["category"],
+                            state=normalized if normalized in states else "national",
+                            severity=item.get("severity", "medium"),
+                            source=DataSource(
+                                url=report["url"],
+                                source_name="cag",
+                                grade=EvidenceGrade.A,
+                                notes=f"CAG Report No. {report['report_number']}",
+                            ),
+                        )
+                    )
 
         log.info("CAG: Found %d relevant findings for %s", len(findings), state)
         return findings

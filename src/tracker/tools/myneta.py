@@ -54,9 +54,22 @@ def _parse_amount(text: str) -> float | None:
 def _is_serious_case(sections: list[str], description: str) -> bool:
     """Heuristic: is this a serious criminal case?"""
     serious_sections = {
-        "302", "304", "307", "376", "395", "396", "397", "399",
-        "420", "467", "468", "471", "477", "120B",
-        "13(1)", "13(2)",  # Prevention of Corruption Act
+        "302",
+        "304",
+        "307",
+        "376",
+        "395",
+        "396",
+        "397",
+        "399",
+        "420",
+        "467",
+        "468",
+        "471",
+        "477",
+        "120B",
+        "13(1)",
+        "13(2)",  # Prevention of Corruption Act
     }
     combined = " ".join(sections) + " " + description
     for s in serious_sections:
@@ -340,7 +353,11 @@ class MyNetaParser:
 
                     # MyNeta tables often have columns: Label | Current | Previous
                     if len(cells) >= 3 and has_previous_col:
-                        prev_text = cells[-2].get_text(strip=True).replace("\xa0", " ") if len(cells) == 3 else cells[1].get_text(strip=True).replace("\xa0", " ")
+                        prev_text = (
+                            cells[-2].get_text(strip=True).replace("\xa0", " ")
+                            if len(cells) == 3
+                            else cells[1].get_text(strip=True).replace("\xa0", " ")
+                        )
                         if "total" in label and "asset" in label and previous_total is None:
                             previous_total = _parse_amount(prev_text)
 
@@ -369,7 +386,8 @@ class MyNetaParser:
         if previous_total is None:
             prev_match = re.search(
                 r"(?:previous|last)\s+(?:election|affidavit).*?(?:total\s+)?assets?\s*[:=]?\s*Rs\.?\s*([\d,.\s]+(?:Crore|Lacs?h?)?)",
-                page_text, re.IGNORECASE,
+                page_text,
+                re.IGNORECASE,
             )
             if prev_match:
                 previous_total = _parse_amount(prev_match.group(1))
@@ -447,7 +465,8 @@ class MyNetaParser:
             # Try "Category: X" pattern first (MyNeta specific)
             cat_match = re.search(
                 r"Educational\s+Details.*?Category\s*[:=]?\s*([^\n]{3,80})",
-                page_text, re.IGNORECASE | re.DOTALL,
+                page_text,
+                re.IGNORECASE | re.DOTALL,
             )
             if cat_match:
                 edu = cat_match.group(1).strip().rstrip(".")
@@ -457,7 +476,8 @@ class MyNetaParser:
                 # Generic "Education: X" pattern (with word boundary to avoid matching "Educational")
                 edu_match = re.search(
                     r"\bEducation\b\s*[:=]\s*([A-Za-z][^\n]{2,80})",
-                    page_text, re.IGNORECASE,
+                    page_text,
+                    re.IGNORECASE,
                 )
                 if edu_match:
                     edu = edu_match.group(1).strip().rstrip(".")
@@ -468,7 +488,8 @@ class MyNetaParser:
         if "profession" not in extras:
             prof_match = re.search(
                 r"\bProfession\b\s*[:=]?\s*([A-Za-z][^\n]{2,120})",
-                page_text, re.IGNORECASE,
+                page_text,
+                re.IGNORECASE,
             )
             if prof_match:
                 prof = prof_match.group(1).strip().rstrip(".")
@@ -486,7 +507,8 @@ class MyNetaParser:
         # Annual / Total Income
         income_match = re.search(
             r"(?:Total\s+)?Income\s*[:=]?\s*Rs\.?\s*([\d,.\s]+(?:Crore|Lacs?h?)?)",
-            page_text, re.IGNORECASE,
+            page_text,
+            re.IGNORECASE,
         )
         if income_match:
             extras["annual_income"] = _parse_amount(income_match.group(1))
@@ -494,7 +516,8 @@ class MyNetaParser:
         # Election Expenditure — look in tables and text
         exp_match = re.search(
             r"(?:Election\s+)?Expenditure\s*[:=]?\s*Rs\.?\s*([\d,.\s]+(?:Crore|Lacs?h?)?)",
-            page_text, re.IGNORECASE,
+            page_text,
+            re.IGNORECASE,
         )
         if exp_match:
             extras["election_expenditure"] = _parse_amount(exp_match.group(1))

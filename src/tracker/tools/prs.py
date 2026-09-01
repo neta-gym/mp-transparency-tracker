@@ -161,8 +161,9 @@ class PRSFetcher:
             with contextlib.suppress(ValueError, TypeError):
                 attendance = float(str(att_val).replace("%", "").strip())
 
-        is_minister = (row.get("Minister", "").strip().lower() == "yes"
-                       or row.get("Attendance", "").strip().lower() == "minister")
+        is_minister = (
+            row.get("Minister", "").strip().lower() == "yes" or row.get("Attendance", "").strip().lower() == "minister"
+        )
 
         questions = 0
         with contextlib.suppress(ValueError, TypeError):
@@ -184,12 +185,14 @@ class PRSFetcher:
             is_minister=is_minister,
             source="prs",
             confidence=0.8 if attendance is not None else 0.3,
-            sources=[DataSource(
-                url=settings.urls.prs_github_csv,
-                source_name="prs_github_csv",
-                grade=EvidenceGrade.C,
-                notes="PRS India GitHub CSV - 18th Lok Sabha",
-            )],
+            sources=[
+                DataSource(
+                    url=settings.urls.prs_github_csv,
+                    source_name="prs_github_csv",
+                    grade=EvidenceGrade.C,
+                    notes="PRS India GitHub CSV - 18th Lok Sabha",
+                )
+            ],
         )
 
     # --- Tier 2: PRS Website Scrape ---
@@ -242,7 +245,7 @@ class PRSFetcher:
         debates = int(debates_raw) if debates_raw is not None else 0
         questions = int(questions_raw) if questions_raw is not None else 0
         bills = int(bills_raw) if bills_raw is not None else 0
-        is_minister = bool(re.search(r'\bminister\b', html, re.IGNORECASE))
+        is_minister = bool(re.search(r"\bminister\b", html, re.IGNORECASE))
 
         # Phase 3: Extract focus areas and notable questions
         focus_topics = self._extract_focus_topics(html)
@@ -256,12 +259,14 @@ class PRSFetcher:
             is_minister=is_minister,
             source="prs",
             confidence=0.9 if attendance is not None else 0.5,
-            sources=[DataSource(
-                url=url,
-                source_name="prs_website",
-                grade=EvidenceGrade.B,
-                notes="PRS India MP Track page - 18th Lok Sabha",
-            )],
+            sources=[
+                DataSource(
+                    url=url,
+                    source_name="prs_website",
+                    grade=EvidenceGrade.B,
+                    notes="PRS India MP Track page - 18th Lok Sabha",
+                )
+            ],
             focus_topics=focus_topics,
             notable_questions=notable_questions,
         )
@@ -314,7 +319,7 @@ class PRSFetcher:
         Pattern: arrayToDataTable([["","",{header}],["",VALUE,"#8562a4"],...])
         The MP's value is tagged with purple color "#8562a4".
         """
-        pattern = rf'function\s+{re.escape(function_name)}\s*\(\)\s*\{{.*?arrayToDataTable\(\[(.*?)\]\)'
+        pattern = rf"function\s+{re.escape(function_name)}\s*\(\)\s*\{{.*?arrayToDataTable\(\[(.*?)\]\)"
         match = re.search(pattern, html, re.DOTALL)
         if not match:
             return None

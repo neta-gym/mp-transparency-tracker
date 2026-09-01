@@ -107,18 +107,23 @@ class Database:
                 profile_url=excluded.profile_url, canonical_name=excluded.canonical_name
             """,
             (
-                mp.slug, mp.state, mp.name, mp.constituency, mp.party,
-                mp.myneta_candidate_id, mp.house.value, mp.sansad_member_id,
-                mp.profile_url, mp.canonical_name,
+                mp.slug,
+                mp.state,
+                mp.name,
+                mp.constituency,
+                mp.party,
+                mp.myneta_candidate_id,
+                mp.house.value,
+                mp.sansad_member_id,
+                mp.profile_url,
+                mp.canonical_name,
             ),
         )
         await self._conn.commit()
 
     async def get_mps_by_state(self, state: str) -> list[dict]:
         assert self._conn is not None
-        cursor = await self._conn.execute(
-            "SELECT * FROM mps WHERE state = ? ORDER BY constituency", (state,)
-        )
+        cursor = await self._conn.execute("SELECT * FROM mps WHERE state = ? ORDER BY constituency", (state,))
         rows = await cursor.fetchall()
         return [dict(r) for r in rows]
 
@@ -128,7 +133,8 @@ class Database:
         assert self._conn is not None
         # Delete prior run for this MP then insert fresh — avoids duplicate accumulation
         await self._conn.execute(
-            "DELETE FROM research_findings WHERE mp_slug = ? AND state = ?", (mp_slug, state),
+            "DELETE FROM research_findings WHERE mp_slug = ? AND state = ?",
+            (mp_slug, state),
         )
         await self._conn.execute(
             "INSERT INTO research_findings (mp_slug, state, findings_json) VALUES (?, ?, ?)",
@@ -141,7 +147,8 @@ class Database:
     async def save_validated_findings(self, mp_slug: str, state: str, validated: ValidatedFindings) -> None:
         assert self._conn is not None
         await self._conn.execute(
-            "DELETE FROM validated_findings WHERE mp_slug = ? AND state = ?", (mp_slug, state),
+            "DELETE FROM validated_findings WHERE mp_slug = ? AND state = ?",
+            (mp_slug, state),
         )
         await self._conn.execute(
             "INSERT INTO validated_findings (mp_slug, state, validated_json, overall_confidence, num_flags) VALUES (?, ?, ?, ?, ?)",
@@ -155,7 +162,8 @@ class Database:
         assert self._conn is not None
         b = result.breakdown
         await self._conn.execute(
-            "DELETE FROM scores WHERE mp_slug = ? AND state = ?", (mp_slug, state),
+            "DELETE FROM scores WHERE mp_slug = ? AND state = ?",
+            (mp_slug, state),
         )
         await self._conn.execute(
             """INSERT INTO scores (mp_slug, state, composite_score, mplads_score, asset_score,
@@ -164,11 +172,19 @@ class Database:
                data_confidence, score_json)
                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             (
-                mp_slug, state, result.composite_score,
-                b.mplads_score, b.asset_score, b.criminal_score,
-                b.attendance_score, b.participation_score,
-                b.committee_score, b.accessibility_score, b.legislative_score,
-                result.data_confidence, result.model_dump_json(),
+                mp_slug,
+                state,
+                result.composite_score,
+                b.mplads_score,
+                b.asset_score,
+                b.criminal_score,
+                b.attendance_score,
+                b.participation_score,
+                b.committee_score,
+                b.accessibility_score,
+                b.legislative_score,
+                result.data_confidence,
+                result.model_dump_json(),
             ),
         )
         # Also append to score_history (never deleted — tracks trends over time)

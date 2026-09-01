@@ -51,14 +51,16 @@ class TestESAKSHIFetcher:
     async def test_api_response_parsed(self):
         """When eSAKSHI API returns valid JSON, parse it correctly."""
         mock_scraper = AsyncMock()
-        api_response = json.dumps({
-            "mp_name": "Test MP",
-            "constituency": "Test Constituency",
-            "entitled": "2500",
-            "released": "2000",
-            "sanctioned": "1800",
-            "expended": "1500",
-        })
+        api_response = json.dumps(
+            {
+                "mp_name": "Test MP",
+                "constituency": "Test Constituency",
+                "entitled": "2500",
+                "released": "2000",
+                "sanctioned": "1800",
+                "expended": "1500",
+            }
+        )
         mock_scraper.fetch.return_value = api_response
 
         fetcher = ESAKSHIFetcher(mock_scraper)
@@ -90,24 +92,26 @@ class TestESAKSHIFetcher:
     async def test_works_parsed_from_api(self):
         """When eSAKSHI works API returns data, parse individual works."""
         mock_scraper = AsyncMock()
-        works_response = json.dumps([
-            {
-                "work_id": "W001",
-                "work_name": "Construction of School Building",
-                "sanctioned_amount": "15.0",
-                "expended_amount": "12.5",
-                "status": "completed",
-                "district": "Central Delhi",
-            },
-            {
-                "work_id": "W002",
-                "work_name": "Road construction in village area",
-                "sanctioned_amount": "8.0",
-                "expended_amount": "0",
-                "status": "sanctioned",
-                "district": "New Delhi",
-            },
-        ])
+        works_response = json.dumps(
+            [
+                {
+                    "work_id": "W001",
+                    "work_name": "Construction of School Building",
+                    "sanctioned_amount": "15.0",
+                    "expended_amount": "12.5",
+                    "status": "completed",
+                    "district": "Central Delhi",
+                },
+                {
+                    "work_id": "W002",
+                    "work_name": "Road construction in village area",
+                    "sanctioned_amount": "8.0",
+                    "expended_amount": "0",
+                    "status": "sanctioned",
+                    "district": "New Delhi",
+                },
+            ]
+        )
         # fetch_works only calls _fetch_works_via_api which makes one fetch call
         mock_scraper.fetch.return_value = works_response
 

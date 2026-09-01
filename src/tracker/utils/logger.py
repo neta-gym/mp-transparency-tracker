@@ -11,13 +11,15 @@ from rich.console import Console
 from rich.logging import RichHandler
 from rich.theme import Theme
 
-custom_theme = Theme({
-    "info": "cyan",
-    "warning": "yellow",
-    "error": "bold red",
-    "success": "bold green",
-    "agent": "bold magenta",
-})
+custom_theme = Theme(
+    {
+        "info": "cyan",
+        "warning": "yellow",
+        "error": "bold red",
+        "success": "bold green",
+        "agent": "bold magenta",
+    }
+)
 
 console = Console(theme=custom_theme)
 

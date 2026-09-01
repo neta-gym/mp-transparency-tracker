@@ -131,8 +131,12 @@ def make_parliament(**overrides) -> ParliamentActivity:
 def make_committees(**overrides) -> CommitteeEngagement:
     defaults = dict(
         memberships=[
-            CommitteeMembership(committee_name="Standing Committee on Finance", role="member", committee_type="standing"),
-            CommitteeMembership(committee_name="Joint Committee on Education", role="chairperson", committee_type="joint"),
+            CommitteeMembership(
+                committee_name="Standing Committee on Finance", role="member", committee_type="standing"
+            ),
+            CommitteeMembership(
+                committee_name="Joint Committee on Education", role="chairperson", committee_type="joint"
+            ),
         ],
         total_committees=2,
         leadership_roles=1,
@@ -183,9 +187,27 @@ def make_findings(mp: MPProfile | None = None, **overrides) -> ResearchFindings:
         social_media=make_social_media(),
         legislative=make_legislative(),
         news_sentiment=NewsSentiment(total_articles=5, positive=2, negative=1, neutral=2, confidence=0.5),
-        constituency_context=ConstituencyContext(population=2_000_000, literacy_rate=86.5, urban_percentage=97.5, district="New Delhi"),
-        sources_consulted=["myneta", "prs", "mplads", "sansad_committees", "sansad_legislative", "social_media", "news"],
-        evidence_summary={"criminal": "B", "assets": "B", "mplads": "A", "parliament": "C", "committees": "A", "accessibility": "D", "legislative": "A"},
+        constituency_context=ConstituencyContext(
+            population=2_000_000, literacy_rate=86.5, urban_percentage=97.5, district="New Delhi"
+        ),
+        sources_consulted=[
+            "myneta",
+            "prs",
+            "mplads",
+            "sansad_committees",
+            "sansad_legislative",
+            "social_media",
+            "news",
+        ],
+        evidence_summary={
+            "criminal": "B",
+            "assets": "B",
+            "mplads": "A",
+            "parliament": "C",
+            "committees": "A",
+            "accessibility": "D",
+            "legislative": "A",
+        },
     )
     defaults.update(overrides)
     return ResearchFindings(**defaults)

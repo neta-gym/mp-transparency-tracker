@@ -98,11 +98,13 @@ class MPDiscovery:
                                     constituency = ct
                                     break
 
-                    myneta_candidates.append({
-                        "name": candidate_name,
-                        "id": candidate_id,
-                        "constituency": constituency,
-                    })
+                    myneta_candidates.append(
+                        {
+                            "name": candidate_name,
+                            "id": candidate_id,
+                            "constituency": constituency,
+                        }
+                    )
 
             # Match MPs to MyNeta candidates
             for mp in mps:
@@ -115,9 +117,11 @@ class MPDiscovery:
                             mp.name_aliases = [mc["name"]]
                         break
                     # Constituency-based fallback
-                    if (mc["constituency"]
-                            and mp.constituency
-                            and normalize_state(mc["constituency"]) == normalize_state(mp.constituency)):
+                    if (
+                        mc["constituency"]
+                        and mp.constituency
+                        and normalize_state(mc["constituency"]) == normalize_state(mp.constituency)
+                    ):
                         mp.myneta_candidate_id = mc["id"]
                         if not mp.name_aliases and mc["name"] != mp.name:
                             mp.name_aliases = [mc["name"]]

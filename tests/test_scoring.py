@@ -292,26 +292,17 @@ class TestCompositeFormula:
     def test_perfect_scores(self):
         # Weights: mplads=0.20, asset=0.15, criminal=0.20, attendance=0.15,
         # participation=0.10, committee=0.05, accessibility=0.05, legislative=0.10
-        composite = (
-            100 * 0.20 + 85 * 0.15 + 100 * 0.20 + 100 * 0.15
-            + 100 * 0.10 + 100 * 0.05 + 100 * 0.05 + 100 * 0.10
-        )
+        composite = 100 * 0.20 + 85 * 0.15 + 100 * 0.20 + 100 * 0.15 + 100 * 0.10 + 100 * 0.05 + 100 * 0.05 + 100 * 0.10
         assert composite == pytest.approx(97.75, abs=0.1)
 
     def test_worst_scores(self):
-        composite = (
-            0 * 0.20 + 10 * 0.15 + 0 * 0.20 + 0 * 0.15
-            + 0 * 0.10 + 0 * 0.05 + 15 * 0.05 + 0 * 0.10
-        )
+        composite = 0 * 0.20 + 10 * 0.15 + 0 * 0.20 + 0 * 0.15 + 0 * 0.10 + 0 * 0.05 + 15 * 0.05 + 0 * 0.10
         assert composite == pytest.approx(2.25, abs=0.1)
 
     def test_neutral_scores(self):
         # New defaults: mplads=40, asset=45, criminal=100, attendance=45,
         # participation=0, committee=40, accessibility=15, legislative=40
-        composite = (
-            40 * 0.20 + 45 * 0.15 + 100 * 0.20 + 45 * 0.15
-            + 0 * 0.10 + 40 * 0.05 + 15 * 0.05 + 40 * 0.10
-        )
+        composite = 40 * 0.20 + 45 * 0.15 + 100 * 0.20 + 45 * 0.15 + 0 * 0.10 + 40 * 0.05 + 15 * 0.05 + 40 * 0.10
         # Expected: 8 + 6.75 + 20 + 6.75 + 0 + 2 + 0.75 + 4 = 48.25
         assert composite == pytest.approx(48.25, abs=0.1)
 

@@ -15,17 +15,19 @@ class TestDataGovFetcher:
     async def test_successful_fetch(self):
         """data.gov.in returns valid JSON with MP records."""
         mock_scraper = AsyncMock()
-        api_response = json.dumps({
-            "records": [
-                {
-                    "mp_name": "Manoj Tiwari",
-                    "constituency": "North East Delhi",
-                    "released": "500.0",
-                    "expended": "400.0",
-                    "entitled": "600.0",
-                },
-            ],
-        })
+        api_response = json.dumps(
+            {
+                "records": [
+                    {
+                        "mp_name": "Manoj Tiwari",
+                        "constituency": "North East Delhi",
+                        "released": "500.0",
+                        "expended": "400.0",
+                        "entitled": "600.0",
+                    },
+                ],
+            }
+        )
         mock_scraper.fetch.return_value = api_response
 
         fetcher = DataGovMPLADSFetcher(mock_scraper)
@@ -43,16 +45,18 @@ class TestDataGovFetcher:
     async def test_mp_not_found(self):
         """data.gov.in returns records but none match the MP."""
         mock_scraper = AsyncMock()
-        api_response = json.dumps({
-            "records": [
-                {
-                    "mp_name": "Someone Else",
-                    "constituency": "Other Place",
-                    "released": "100.0",
-                    "expended": "50.0",
-                },
-            ],
-        })
+        api_response = json.dumps(
+            {
+                "records": [
+                    {
+                        "mp_name": "Someone Else",
+                        "constituency": "Other Place",
+                        "released": "100.0",
+                        "expended": "50.0",
+                    },
+                ],
+            }
+        )
         mock_scraper.fetch.return_value = api_response
 
         fetcher = DataGovMPLADSFetcher(mock_scraper)
@@ -79,16 +83,18 @@ class TestDataGovFetcher:
     async def test_constituency_fallback(self):
         """When name doesn't match but constituency + state does, still find."""
         mock_scraper = AsyncMock()
-        api_response = json.dumps({
-            "records": [
-                {
-                    "mp_name": "Different Name",
-                    "constituency": "North East Delhi",
-                    "released": "300.0",
-                    "expended": "200.0",
-                },
-            ],
-        })
+        api_response = json.dumps(
+            {
+                "records": [
+                    {
+                        "mp_name": "Different Name",
+                        "constituency": "North East Delhi",
+                        "released": "300.0",
+                        "expended": "200.0",
+                    },
+                ],
+            }
+        )
         mock_scraper.fetch.return_value = api_response
 
         fetcher = DataGovMPLADSFetcher(mock_scraper)
@@ -103,11 +109,13 @@ class TestDataGovFetcher:
     async def test_caching(self):
         """Second fetch for same state should use cached data."""
         mock_scraper = AsyncMock()
-        api_response = json.dumps({
-            "records": [
-                {"mp_name": "Test MP", "constituency": "Test", "released": "100.0", "expended": "80.0"},
-            ],
-        })
+        api_response = json.dumps(
+            {
+                "records": [
+                    {"mp_name": "Test MP", "constituency": "Test", "released": "100.0", "expended": "80.0"},
+                ],
+            }
+        )
         mock_scraper.fetch.return_value = api_response
 
         fetcher = DataGovMPLADSFetcher(mock_scraper)

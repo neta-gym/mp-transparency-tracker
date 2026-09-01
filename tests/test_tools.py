@@ -456,10 +456,7 @@ class TestMPLADSHTMLDetection:
         from unittest.mock import AsyncMock
 
         mock_scraper = AsyncMock()
-        csv_text = (
-            "MP Name,Constituency,State,Released,Expended\n"
-            "Test MP,Test Seat,Delhi,500.0,400.0\n"
-        )
+        csv_text = "MP Name,Constituency,State,Released,Expended\nTest MP,Test Seat,Delhi,500.0,400.0\n"
         mock_scraper.fetch.return_value = csv_text
 
         fetcher = MPLADSFetcher(mock_scraper)

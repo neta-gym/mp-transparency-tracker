@@ -10,6 +10,7 @@ from pydantic import BaseModel, Field, computed_field
 
 # --- Enums ---
 
+
 class House(str, Enum):
     LOK_SABHA = "lok_sabha"
     RAJYA_SABHA = "rajya_sabha"
@@ -17,6 +18,7 @@ class House(str, Enum):
 
 class EvidenceGrade(str, Enum):
     """Data quality grade: A (authoritative govt API) to E (LLM knowledge)."""
+
     A = "A"
     B = "B"
     C = "C"
@@ -26,8 +28,10 @@ class EvidenceGrade(str, Enum):
 
 # --- Data Source Provenance ---
 
+
 class DataSource(BaseModel):
     """Tracks where a piece of data came from."""
+
     url: str = ""
     source_name: str = ""
     grade: EvidenceGrade = EvidenceGrade.E
@@ -36,6 +40,7 @@ class DataSource(BaseModel):
 
 
 # --- MP Profile ---
+
 
 class MPProfile(BaseModel):
     """Core MP identity."""
@@ -65,6 +70,7 @@ class MPProfile(BaseModel):
 
 # --- Criminal ---
 
+
 class CriminalCase(BaseModel):
     """Single criminal case."""
 
@@ -91,6 +97,7 @@ class CriminalRecord(BaseModel):
 
 
 # --- Assets ---
+
 
 class AssetDeclaration(BaseModel):
     """Asset and liability data from MyNeta affidavit."""
@@ -123,6 +130,7 @@ class AssetDeclaration(BaseModel):
 
 
 # --- MPLADS ---
+
 
 class MPLADSWork(BaseModel):
     """Individual MPLADS work/project detail from eSAKSHI."""
@@ -184,6 +192,7 @@ class MPLADSFund(BaseModel):
 
 # --- Parliament Activity ---
 
+
 class VoteRecord(BaseModel):
     """A single division vote record for an MP."""
 
@@ -216,6 +225,7 @@ class ParliamentActivity(BaseModel):
 
 # --- Committee Memberships (Phase 2) ---
 
+
 class CommitteeMembership(BaseModel):
     """A single committee membership."""
 
@@ -236,6 +246,7 @@ class CommitteeEngagement(BaseModel):
 
 
 # --- Social Media (Phase 6) ---
+
 
 class SocialMediaProfile(BaseModel):
     """A single social media profile."""
@@ -260,6 +271,7 @@ class PublicAccessibility(BaseModel):
 
 # --- News ---
 
+
 class NewsAllegation(BaseModel):
     """A news item or allegation about the MP."""
 
@@ -272,6 +284,7 @@ class NewsAllegation(BaseModel):
 
 
 # --- News Sentiment (Phase 7) ---
+
 
 class NewsSentiment(BaseModel):
     """Aggregated news sentiment analysis."""
@@ -287,6 +300,7 @@ class NewsSentiment(BaseModel):
 
 # --- Legislative Record (Phase 9) ---
 
+
 class LegislativeRecord(BaseModel):
     """Legislative effectiveness metrics."""
 
@@ -301,6 +315,7 @@ class LegislativeRecord(BaseModel):
 
 # --- Constituency Context (Phase 10) ---
 
+
 class ConstituencyContext(BaseModel):
     """Constituency-level development indicators."""
 
@@ -311,6 +326,7 @@ class ConstituencyContext(BaseModel):
 
 
 # --- CAG Audit Findings ---
+
 
 class CAGFinding(BaseModel):
     """A finding from a CAG audit report on MPLADS."""
@@ -326,6 +342,7 @@ class CAGFinding(BaseModel):
 
 
 # --- MP Compensation ---
+
 
 class MPCompensation(BaseModel):
     """MP salary and allowances (informational, not scored)."""
@@ -343,6 +360,7 @@ class MPCompensation(BaseModel):
 
 # --- SAGY ---
 
+
 class SAGYAdoption(BaseModel):
     """Sansad Adarsh Gram Yojana village adoption record."""
 
@@ -355,6 +373,7 @@ class SAGYAdoption(BaseModel):
 
 
 # --- Voting Analysis (Phase 1.1) ---
+
 
 class VotingAnalysis(BaseModel):
     """Analysis of MP's voting patterns and party alignment."""
@@ -372,6 +391,7 @@ class VotingAnalysis(BaseModel):
 
 # --- Question Quality (Phase 1.2) ---
 
+
 class QuestionQuality(BaseModel):
     """Quality analysis of parliamentary questions asked by an MP."""
 
@@ -388,6 +408,7 @@ class QuestionQuality(BaseModel):
 
 # --- Conflict of Interest (Phase 1.3) ---
 
+
 class ConflictOfInterest(BaseModel):
     """Potential conflict of interest detection results."""
 
@@ -402,6 +423,7 @@ class ConflictOfInterest(BaseModel):
 
 # --- Attendance Pattern (Phase 1.4) ---
 
+
 class AttendancePattern(BaseModel):
     """Detailed attendance pattern analysis beyond a single percentage."""
 
@@ -415,6 +437,7 @@ class AttendancePattern(BaseModel):
 
 
 # --- MGNREGA Constituency Data (Phase 2.3) ---
+
 
 class MGNREGAData(BaseModel):
     """MGNREGA constituency-level data (informational, not scored)."""
@@ -431,6 +454,7 @@ class MGNREGAData(BaseModel):
 
 # --- PM-KISAN Constituency Data (Phase 2.3) ---
 
+
 class PMKisanData(BaseModel):
     """PM-KISAN constituency-level data (informational, not scored)."""
 
@@ -443,6 +467,7 @@ class PMKisanData(BaseModel):
 
 
 # --- Research Findings (Researcher output) ---
+
 
 class ResearchFindings(BaseModel):
     """Combined output from the Researcher agent for one MP."""
@@ -497,6 +522,7 @@ class ResearchFindings(BaseModel):
 
 # --- Validation ---
 
+
 class ValidationFlag(BaseModel):
     """A flag raised during validation."""
 
@@ -518,6 +544,7 @@ class ValidatedFindings(BaseModel):
 
 
 # --- Scoring ---
+
 
 class ScoreBreakdown(BaseModel):
     """Per-component score breakdown."""
@@ -545,6 +572,7 @@ class ScoreResult(BaseModel):
 
 
 # --- Leaderboard ---
+
 
 class LeaderboardEntry(BaseModel):
     """One row in the leaderboard."""
@@ -595,6 +623,7 @@ class NationalLeaderboard(BaseModel):
 
 
 # --- Score Delta (Phase 4.1) ---
+
 
 class ScoreDelta(BaseModel):
     """Score change between two pipeline runs for one MP."""

@@ -25,8 +25,13 @@ class ScoreWeights(BaseSettings):
     @model_validator(mode="after")
     def _weights_must_sum_to_one(self) -> ScoreWeights:
         total = (
-            self.mplads + self.asset + self.criminal + self.attendance
-            + self.participation + self.committee + self.accessibility
+            self.mplads
+            + self.asset
+            + self.criminal
+            + self.attendance
+            + self.participation
+            + self.committee
+            + self.accessibility
             + self.legislative
         )
         if abs(total - 1.0) > 0.001:
@@ -39,9 +44,15 @@ class DataSourceURLs(BaseSettings):
 
     myneta_candidate: str = "https://myneta.info/LokSabha2024/candidate.php?candidate_id={candidate_id}"
     myneta_state_winners: str = "https://myneta.info/LokSabha2024/index.php?action=show_winners&sort=state"
-    myneta_state_constituencies: str = "https://myneta.info/LokSabha2024/index.php?action=show_constituencies&state_id={state_id}"
-    prs_github_json: str = "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/json/Lok%20Sabha/18th.json"
-    prs_github_csv: str = "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv"
+    myneta_state_constituencies: str = (
+        "https://myneta.info/LokSabha2024/index.php?action=show_constituencies&state_id={state_id}"
+    )
+    prs_github_json: str = (
+        "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/json/Lok%20Sabha/18th.json"
+    )
+    prs_github_csv: str = (
+        "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv"
+    )
     prs_mptrack_base: str = "https://prsindia.org/mptrack/18th-lok-sabha"
     mplads_csv: str = "https://dataful.in/datasets/18540/"
     sansad_ls_api: str = "https://www.sansad.in/api_ls/member"
@@ -151,7 +162,9 @@ class Settings(BaseSettings):
     scrape_delay: float = Field(default=1.0, description="Delay between scrape requests (seconds)")
 
     # Cache freshness
-    cache_max_age_days: int = Field(default=15, description="Max age (days) for cached research data before re-fetching")
+    cache_max_age_days: int = Field(
+        default=15, description="Max age (days) for cached research data before re-fetching"
+    )
 
     # Scoring
     weights: ScoreWeights = ScoreWeights()

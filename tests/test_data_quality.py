@@ -25,6 +25,7 @@ from tracker.models.schemas import (
 
 # --- Fixtures ---
 
+
 @pytest.fixture
 def scored_mp():
     """Create a ScoreResult with non-default values across all dimensions."""
@@ -62,24 +63,33 @@ def research_findings_with_evidence():
             sources=[DataSource(source_name="myneta", grade=EvidenceGrade.B)],
         ),
         mplads=MPLADSFund(
-            entitled=5_00_00_000, released=4_00_00_000, expended=3_00_00_000,
+            entitled=5_00_00_000,
+            released=4_00_00_000,
+            expended=3_00_00_000,
             confidence=0.9,
             sources=[DataSource(source_name="esakshi", grade=EvidenceGrade.A)],
         ),
         parliament_activity=ParliamentActivity(
-            attendance_percentage=85.0, questions_asked=15, debates_participated=5,
+            attendance_percentage=85.0,
+            questions_asked=15,
+            debates_participated=5,
             confidence=0.8,
             sources=[DataSource(source_name="prs", grade=EvidenceGrade.C)],
         ),
         evidence_summary={
-            "criminal": "B", "assets": "B", "mplads": "A",
-            "parliament": "C", "committees": "A", "legislative": "A",
+            "criminal": "B",
+            "assets": "B",
+            "mplads": "A",
+            "parliament": "C",
+            "committees": "A",
+            "legislative": "A",
             "accessibility": "D",
         },
     )
 
 
 # --- Score Quality Tests ---
+
 
 class TestScoreQuality:
     """Tests that scored data has meaningful non-default values."""
@@ -88,14 +98,17 @@ class TestScoreQuality:
         """At least 4 of 8 dimensions should have non-default (non-50.0) scores."""
         bd = scored_mp.breakdown
         scores = [
-            bd.mplads_score, bd.asset_score, bd.criminal_score,
-            bd.attendance_score, bd.participation_score,
-            bd.committee_score, bd.accessibility_score, bd.legislative_score,
+            bd.mplads_score,
+            bd.asset_score,
+            bd.criminal_score,
+            bd.attendance_score,
+            bd.participation_score,
+            bd.committee_score,
+            bd.accessibility_score,
+            bd.legislative_score,
         ]
         non_default = sum(1 for s in scores if s != 50.0)
-        assert non_default >= 4, (
-            f"Only {non_default}/8 dimensions are non-default: {scores}"
-        )
+        assert non_default >= 4, f"Only {non_default}/8 dimensions are non-default: {scores}"
 
     def test_composite_score_in_range(self, scored_mp: ScoreResult):
         """Composite score must be between 0 and 100."""
@@ -127,6 +140,7 @@ class TestScoreQuality:
 
 # --- Evidence Grade Tests ---
 
+
 class TestEvidenceGrades:
     """Tests that evidence grades are properly computed."""
 
@@ -152,6 +166,7 @@ class TestEvidenceGrades:
 
 
 # --- Leaderboard Entry Tests ---
+
 
 class TestLeaderboardEntry:
     """Tests that leaderboard entries are well-formed."""
@@ -181,9 +196,17 @@ class TestLeaderboardEntry:
     def test_entry_avg_evidence_grade_default(self):
         """Default avg_evidence_grade should be 'E'."""
         entry = LeaderboardEntry(
-            rank=1, mp_name="T", constituency="T", party="T", state="t",
-            composite_score=50.0, mplads_score=50.0, asset_score=50.0,
-            criminal_score=50.0, attendance_score=50.0, participation_score=50.0,
+            rank=1,
+            mp_name="T",
+            constituency="T",
+            party="T",
+            state="t",
+            composite_score=50.0,
+            mplads_score=50.0,
+            asset_score=50.0,
+            criminal_score=50.0,
+            attendance_score=50.0,
+            participation_score=50.0,
             data_confidence=0.5,
         )
         assert entry.avg_evidence_grade == "E"
@@ -191,15 +214,25 @@ class TestLeaderboardEntry:
     def test_entry_with_evidence_grade(self):
         """avg_evidence_grade should be settable."""
         entry = LeaderboardEntry(
-            rank=1, mp_name="T", constituency="T", party="T", state="t",
-            composite_score=50.0, mplads_score=50.0, asset_score=50.0,
-            criminal_score=50.0, attendance_score=50.0, participation_score=50.0,
-            data_confidence=0.5, avg_evidence_grade="B",
+            rank=1,
+            mp_name="T",
+            constituency="T",
+            party="T",
+            state="t",
+            composite_score=50.0,
+            mplads_score=50.0,
+            asset_score=50.0,
+            criminal_score=50.0,
+            attendance_score=50.0,
+            participation_score=50.0,
+            data_confidence=0.5,
+            avg_evidence_grade="B",
         )
         assert entry.avg_evidence_grade == "B"
 
 
 # --- Research Data Quality Tests ---
+
 
 class TestResearchDataQuality:
     """Tests that research findings have meaningful data."""
@@ -248,6 +281,7 @@ class TestResearchDataQuality:
 
 # --- PRS Name Matching Tests ---
 
+
 class TestPRSNameMatching:
     """Tests that PRS name matching handles common variants."""
 
@@ -260,6 +294,7 @@ class TestPRSNameMatching:
     def test_similar_names(self):
         """Similar names with minor spelling differences should match."""
         from tracker.tools.prs import PRSFetcher
+
         assert PRSFetcher._similar_names("chandoliya", "chandolia")
         assert PRSFetcher._similar_names("tiwari", "tiwari")
         assert not PRSFetcher._similar_names("malhotra", "bidhuri")

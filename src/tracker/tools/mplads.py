@@ -70,8 +70,7 @@ class MPLADSFetcher:
             # Check if the response is HTML instead of CSV
             if _is_html(text):
                 log.warning(
-                    "MPLADS URL returned HTML instead of CSV: %s — "
-                    "attempting to find CSV download link",
+                    "MPLADS URL returned HTML instead of CSV: %s — attempting to find CSV download link",
                     settings.urls.mplads_csv,
                 )
                 csv_link = _extract_csv_link(text, settings.urls.mplads_csv)
@@ -80,9 +79,7 @@ class MPLADSFetcher:
                     text = await self.scraper.fetch(csv_link)
                     # Verify the follow-up is actually CSV
                     if _is_html(text):
-                        log.error(
-                            "CSV link also returned HTML — MPLADS data unavailable"
-                        )
+                        log.error("CSV link also returned HTML — MPLADS data unavailable")
                         self._data_available = False
                         self._cached_data = []
                         return self._cached_data
@@ -124,12 +121,14 @@ class MPLADSFetcher:
             note = "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
             return MPLADSFund(
                 confidence=0.0,
-                sources=[DataSource(
-                    url=settings.urls.mplads_csv,
-                    source_name="mplads_csv",
-                    grade=EvidenceGrade.E,
-                    notes=note,
-                )],
+                sources=[
+                    DataSource(
+                        url=settings.urls.mplads_csv,
+                        source_name="mplads_csv",
+                        grade=EvidenceGrade.E,
+                        notes=note,
+                    )
+                ],
                 data_period_note=note,
             )
 
@@ -175,7 +174,11 @@ class MPLADSFetcher:
                 break
 
             # Constituency-based fallback
-            if mp.constituency and r_constituency and normalize_state(mp.constituency) == normalize_state(r_constituency):
+            if (
+                mp.constituency
+                and r_constituency
+                and normalize_state(mp.constituency) == normalize_state(r_constituency)
+            ):
                 match = record
                 break
 
@@ -183,12 +186,14 @@ class MPLADSFetcher:
             log.warning("MP not found in MPLADS data: %s", mp.name)
             return MPLADSFund(
                 confidence=0.0,
-                sources=[DataSource(
-                    url=settings.urls.mplads_csv,
-                    source_name="mplads_csv",
-                    grade=EvidenceGrade.E,
-                    notes="MP not found in MPLADS dataset",
-                )],
+                sources=[
+                    DataSource(
+                        url=settings.urls.mplads_csv,
+                        source_name="mplads_csv",
+                        grade=EvidenceGrade.E,
+                        notes="MP not found in MPLADS dataset",
+                    )
+                ],
             )
 
         return self._parse_record(match)
@@ -227,10 +232,12 @@ class MPLADSFetcher:
             expended=expended,
             source="mplads",
             confidence=0.8 if released is not None and expended is not None else 0.3,
-            sources=[DataSource(
-                url=settings.urls.mplads_csv,
-                source_name="mplads_csv",
-                grade=EvidenceGrade.C,
-                notes="MPLADS fund utilization CSV from dataful.in",
-            )],
+            sources=[
+                DataSource(
+                    url=settings.urls.mplads_csv,
+                    source_name="mplads_csv",
+                    grade=EvidenceGrade.C,
+                    notes="MPLADS fund utilization CSV from dataful.in",
+                )
+            ],
         )

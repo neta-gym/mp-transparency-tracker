@@ -88,8 +88,9 @@ class DataGovMPLADSFetcher:
         disabled until a replacement resource ID is found.
         """
         log.info(
-            "data.gov.in: MPLADS dataset resource ID no longer valid — "
-            "skipping fetch for %s (%s)", mp.name, mp.state,
+            "data.gov.in: MPLADS dataset resource ID no longer valid — skipping fetch for %s (%s)",
+            mp.name,
+            mp.state,
         )
         return self._empty_result(
             "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
@@ -107,15 +108,12 @@ class DataGovMPLADSFetcher:
         api_key = settings.datagov_api_key or "579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b"
 
         url = (
-            f"{settings.urls.mplads_datagov_api}"
-            f"?api-key={api_key}"
-            f"&format=json"
-            f"&limit=500"
-            f"&filters[State]={state_filter}"
+            f"{settings.urls.mplads_datagov_api}?api-key={api_key}&format=json&limit=500&filters[State]={state_filter}"
         )
 
         try:
             import json
+
             text = await self.scraper.fetch(url)
             data = json.loads(text)
 
@@ -200,22 +198,26 @@ class DataGovMPLADSFetcher:
             expended=expended,
             source="data.gov.in",
             confidence=0.85 if has_data else 0.0,
-            sources=[DataSource(
-                url=settings.urls.mplads_datagov_api,
-                source_name="data.gov.in",
-                grade=EvidenceGrade.B,
-                notes="MPLADS fund data from Open Government Data Platform India",
-            )],
+            sources=[
+                DataSource(
+                    url=settings.urls.mplads_datagov_api,
+                    source_name="data.gov.in",
+                    grade=EvidenceGrade.B,
+                    notes="MPLADS fund data from Open Government Data Platform India",
+                )
+            ],
         )
 
     def _empty_result(self, notes: str) -> MPLADSFund:
         return MPLADSFund(
             confidence=0.0,
-            sources=[DataSource(
-                url=settings.urls.mplads_datagov_api,
-                source_name="data.gov.in",
-                grade=EvidenceGrade.B,
-                notes=notes,
-            )],
+            sources=[
+                DataSource(
+                    url=settings.urls.mplads_datagov_api,
+                    source_name="data.gov.in",
+                    grade=EvidenceGrade.B,
+                    notes=notes,
+                )
+            ],
             data_period_note=f"MPLADS data.gov.in unavailable: {notes}. No constituency-level fund amounts are estimated.",
         )

@@ -32,12 +32,24 @@ class TestSansadFirstDiscovery:
 
         # Sansad returns Delhi MPs
         mock_sansad.get_members_by_state.return_value = [
-            MPProfile(name="Manoj Tiwari", constituency="North East Delhi",
-                      state="delhi", party="BJP", house=House.LOK_SABHA,
-                      sansad_member_id=101, canonical_name="Manoj Tiwari"),
-            MPProfile(name="Bansuri Swaraj", constituency="New Delhi",
-                      state="delhi", party="BJP", house=House.LOK_SABHA,
-                      sansad_member_id=102, canonical_name="Bansuri Swaraj"),
+            MPProfile(
+                name="Manoj Tiwari",
+                constituency="North East Delhi",
+                state="delhi",
+                party="BJP",
+                house=House.LOK_SABHA,
+                sansad_member_id=101,
+                canonical_name="Manoj Tiwari",
+            ),
+            MPProfile(
+                name="Bansuri Swaraj",
+                constituency="New Delhi",
+                state="delhi",
+                party="BJP",
+                house=House.LOK_SABHA,
+                sansad_member_id=102,
+                canonical_name="Bansuri Swaraj",
+            ),
         ]
 
         discovery = MPDiscovery(mock_scraper, mock_sansad)
@@ -56,12 +68,12 @@ class TestSansadFirstDiscovery:
         mock_sansad = AsyncMock(spec=SansadFetcher)
 
         ls_mps = [
-            MPProfile(name="Manoj Tiwari", constituency="North East Delhi",
-                      state="delhi", party="BJP", house=House.LOK_SABHA),
+            MPProfile(
+                name="Manoj Tiwari", constituency="North East Delhi", state="delhi", party="BJP", house=House.LOK_SABHA
+            ),
         ]
         rs_mps = [
-            MPProfile(name="Sanjay Singh", constituency="Delhi",
-                      state="delhi", party="AAP", house=House.RAJYA_SABHA),
+            MPProfile(name="Sanjay Singh", constituency="Delhi", state="delhi", party="AAP", house=House.RAJYA_SABHA),
         ]
 
         def side_effect(state, house=House.LOK_SABHA):

@@ -10,6 +10,7 @@ from tracker.debugger import CheckResult, CheckStatus, DebuggerAgent, SuiteResul
 # CheckResult tests
 # ---------------------------------------------------------------------------
 
+
 class TestCheckResult:
     def test_pass_result(self):
         r = CheckResult(name="test", status=CheckStatus.PASS, message="ok")
@@ -32,6 +33,7 @@ class TestCheckResult:
 # SuiteResult tests
 # ---------------------------------------------------------------------------
 
+
 class TestSuiteResult:
     def test_empty_suite(self):
         s = SuiteResult(suite_name="empty")
@@ -41,32 +43,41 @@ class TestSuiteResult:
         assert s.skipped == 0
 
     def test_counting_properties(self):
-        s = SuiteResult(suite_name="mixed", checks=[
-            CheckResult("a", CheckStatus.PASS),
-            CheckResult("b", CheckStatus.PASS),
-            CheckResult("c", CheckStatus.FAIL),
-            CheckResult("d", CheckStatus.WARN),
-            CheckResult("e", CheckStatus.SKIP),
-            CheckResult("f", CheckStatus.PASS),
-        ])
+        s = SuiteResult(
+            suite_name="mixed",
+            checks=[
+                CheckResult("a", CheckStatus.PASS),
+                CheckResult("b", CheckStatus.PASS),
+                CheckResult("c", CheckStatus.FAIL),
+                CheckResult("d", CheckStatus.WARN),
+                CheckResult("e", CheckStatus.SKIP),
+                CheckResult("f", CheckStatus.PASS),
+            ],
+        )
         assert s.passed == 3
         assert s.failed == 1
         assert s.warned == 1
         assert s.skipped == 1
 
     def test_all_pass(self):
-        s = SuiteResult(suite_name="good", checks=[
-            CheckResult("a", CheckStatus.PASS),
-            CheckResult("b", CheckStatus.PASS),
-        ])
+        s = SuiteResult(
+            suite_name="good",
+            checks=[
+                CheckResult("a", CheckStatus.PASS),
+                CheckResult("b", CheckStatus.PASS),
+            ],
+        )
         assert s.passed == 2
         assert s.failed == 0
 
     def test_all_fail(self):
-        s = SuiteResult(suite_name="bad", checks=[
-            CheckResult("a", CheckStatus.FAIL),
-            CheckResult("b", CheckStatus.FAIL),
-        ])
+        s = SuiteResult(
+            suite_name="bad",
+            checks=[
+                CheckResult("a", CheckStatus.FAIL),
+                CheckResult("b", CheckStatus.FAIL),
+            ],
+        )
         assert s.passed == 0
         assert s.failed == 2
 
@@ -75,6 +86,7 @@ class TestSuiteResult:
 # DebuggerAgent suite tests
 # ---------------------------------------------------------------------------
 
+
 class TestScoringInvariants:
     """Test that check_scoring_invariants passes with no failures."""
 
@@ -82,9 +94,8 @@ class TestScoringInvariants:
         agent = DebuggerAgent(data_dir="data", db_path="data/tracker.db")
         result = asyncio.run(agent.check_scoring_invariants())
         assert result.suite_name == "Scoring Algorithm Invariants"
-        assert result.failed == 0, (
-            "Scoring invariant failures: "
-            + ", ".join(c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL)
+        assert result.failed == 0, "Scoring invariant failures: " + ", ".join(
+            c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL
         )
 
 
@@ -125,9 +136,8 @@ class TestModelRoundTrip:
         agent = DebuggerAgent(data_dir="data", db_path="data/tracker.db")
         result = asyncio.run(agent.check_model_roundtrip())
         assert result.suite_name == "Pydantic Model Round-Trip"
-        assert result.failed == 0, (
-            "Model round-trip failures: "
-            + ", ".join(c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL)
+        assert result.failed == 0, "Model round-trip failures: " + ", ".join(
+            c.name + ": " + c.message for c in result.checks if c.status == CheckStatus.FAIL
         )
 
     def test_roundtrip_includes_computed_fields(self):
