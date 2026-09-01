@@ -382,18 +382,44 @@ export function MPLADSSection({ validated }: MPDetailSectionsProps) {
                     <tr className="bg-surface border-b-2 border-ink">
                       <th className="text-left p-2">Description</th>
                       <th className="text-left p-2">Sector</th>
+                      <th className="text-right p-2">Recommended</th>
                       <th className="text-right p-2">Sanctioned</th>
                       <th className="text-right p-2">Expended</th>
+                      <th className="text-left p-2">Executing Agency</th>
                       <th className="text-center p-2">Status</th>
                     </tr>
                   </thead>
                   <tbody>
                     {works.map((w: MPLADSWork, i: number) => (
                       <tr key={i} className="border-b border-ink/30">
-                        <td className="p-2 max-w-[200px] truncate">{w.description || "—"}</td>
+                        <td className="p-2 max-w-[200px] truncate" title={w.description}>{w.description || "—"}</td>
                         <td className="p-2">{w.sector || "—"}</td>
-                        <td className="p-2 text-right font-mono">{formatINR(w.sanctioned_amount)}</td>
-                        <td className="p-2 text-right font-mono">{formatINR(w.expended_amount)}</td>
+                        <td className="p-2 text-right font-mono">
+                          {formatINR(w.recommended_amount)}
+                          {w.recommendation_date && (
+                            <div className="text-[10px] text-text-muted">{w.recommendation_date}</div>
+                          )}
+                        </td>
+                        <td className="p-2 text-right font-mono">
+                          {formatINR(w.sanctioned_amount)}
+                          {w.sanction_date && (
+                            <div className="text-[10px] text-text-muted">{w.sanction_date}</div>
+                          )}
+                        </td>
+                        <td className="p-2 text-right font-mono">
+                          {formatINR(w.expended_amount)}
+                          {w.completion_date && (
+                            <div className="text-[10px] text-text-muted">{w.completion_date}</div>
+                          )}
+                        </td>
+                        <td className="p-2 max-w-[160px] truncate text-xs" title={w.executing_agency ?? undefined}>
+                          {w.executing_agency
+                            ? w.executing_agency.replace(/\s*\([^)]*\)\s*$/, "")
+                            : "—"}
+                          {w.average_rating != null && w.average_rating > 0 && (
+                            <div className="text-[10px] text-text-muted">★ {w.average_rating.toFixed(1)}</div>
+                          )}
+                        </td>
                         <td className="p-2 text-center">
                           <Badge className={cn(
                             "text-xs border border-ink",

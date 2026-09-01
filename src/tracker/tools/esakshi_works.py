@@ -58,12 +58,6 @@ def _norm(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", (text or "").casefold())
 
 
-def _to_crore(amount: float | None) -> float | None:
-    if amount is None:
-        return None
-    return round(amount / 10_000_000, 6)
-
-
 _STATUS_MAP = {
     "pending for sanction": "recommended",
     "recommended": "recommended",
@@ -95,8 +89,8 @@ def merge_work_lifecycle(
 ) -> list[MPLADSWork]:
     """Join the three report record lists into per-work lifecycle entries.
 
-    Join key: WORK_RECOMMENDATION_DTL_ID. Amounts are stored in crore to
-    match MPLADSWork conventions elsewhere in the pipeline.
+    Join key: WORK_RECOMMENDATION_DTL_ID. Amounts are stored in raw
+    rupees, matching the dashboard's formatINR expectation for works.
     """
     works: dict[Any, MPLADSWork] = {}
 
@@ -115,17 +109,17 @@ def merge_work_lifecycle(
 
     for rec in recommended:
         w = _get(rec)
-        w.recommended_amount = _to_crore(rec.get("RECOMMENDED_AMOUNT"))
+        w.recommended_amount = rec.get("RECOMMENDED_AMOUNT")
         w.recommendation_date = (rec.get("RECOMMENDATION_DATE") or "").strip() or None
         w.executing_agency = (rec.get("IDA_NAME") or "").strip() or None
         w.letter_no = (rec.get("LETTER_NO") or "").strip() or None
         w.status = map_work_status(rec.get("WORK_STAGE"), rec.get("FLAG"))
         if w.sanctioned_amount is None:
-            w.sanctioned_amount = _to_crore(rec.get("SANCTION_AMOUNT"))
+            w.sanctioned_amount = rec.get("SANCTION_AMOUNT")
 
     for rec in sanctioned:
         w = _get(rec)
-        w.sanctioned_amount = _to_crore(rec.get("SANCTION_AMOUNT"))
+        w.sanctioned_amount = rec.get("SANCTION_AMOUNT")
         w.sanction_date = (rec.get("SANCTION_DATE") or "").strip() or None
         w.executing_agency = w.executing_agency or (rec.get("IDA_NAME") or "").strip() or None
         if w.status in ("unknown", "recommended"):
@@ -133,7 +127,7 @@ def merge_work_lifecycle(
 
     for rec in completed:
         w = _get(rec)
-        w.expended_amount = _to_crore(rec.get("ACTUAL_AMOUNT"))
+        w.expended_amount = rec.get("ACTUAL_AMOUNT")
         w.completion_date = (rec.get("ACTUAL_END_DATE") or "").strip() or None
         rating = rec.get("AVERAGE_RATING")
         w.average_rating = float(rating) if isinstance(rating, (int, float)) and rating else None

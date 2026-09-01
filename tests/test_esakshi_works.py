@@ -73,8 +73,8 @@ def test_merge_full_lifecycle():
     w = works[0]
     assert w.work_id == "268560"
     assert w.sector == "education"  # "school" wins over "gym" in keyword order
-    assert w.recommended_amount == pytest.approx(0.0925)
-    assert w.sanctioned_amount == pytest.approx(0.09)
+    assert w.recommended_amount == pytest.approx(925000.0)
+    assert w.sanctioned_amount == pytest.approx(900000.0)
     assert w.recommendation_date == "15-Feb-2026"
     assert w.sanction_date == "01-Mar-2026"
     assert w.status == "in_progress"
@@ -87,7 +87,7 @@ def test_merge_completed_work():
     assert len(works) == 1
     w = works[0]
     assert w.status == "completed"
-    assert w.expended_amount == pytest.approx(0.1486089)
+    assert w.expended_amount == pytest.approx(1486089.0)
     assert w.completion_date == "23-Sep-2023"
     assert w.average_rating == pytest.approx(4.2)
     assert w.sector == "infrastructure"

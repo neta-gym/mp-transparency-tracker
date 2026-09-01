@@ -82,6 +82,11 @@ export interface MPLADSWork {
   district: string;
   completion_date: string | null;
   source: DataSource;
+  recommendation_date?: string | null;
+  sanction_date?: string | null;
+  executing_agency?: string | null;
+  average_rating?: number | null;
+  letter_no?: string | null;
 }
 
 export interface MPLADSFundPeriod {
