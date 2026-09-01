@@ -3,10 +3,26 @@ import Link from "next/link";
 import { SearchBarWrapper } from "@/components/SearchBarWrapper";
 import "./globals.css";
 
+const siteUrl = "https://neta-gym.github.io/mp-transparency-tracker";
+const siteTitle = "MP Transparency Tracker";
+const siteDescription =
+  "Interactive dashboard tracking transparency scores of Indian Members of Parliament";
+
 export const metadata: Metadata = {
-  title: "MP Transparency Tracker",
-  description:
-    "Interactive dashboard tracking transparency scores of Indian Members of Parliament",
+  metadataBase: new URL(siteUrl),
+  title: siteTitle,
+  description: siteDescription,
+  openGraph: {
+    title: siteTitle,
+    description: siteDescription,
+    type: "website",
+    siteName: siteTitle,
+  },
+  twitter: {
+    card: "summary",
+    title: siteTitle,
+    description: siteDescription,
+  },
 };
 
 export default function RootLayout({
