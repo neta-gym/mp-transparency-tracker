@@ -21,7 +21,7 @@ Read `README.md` first. The key project goal is to turn open public data about I
    - Watchlists/red flags are scrutiny aids, not legal conclusions.
 
 4. Preserve national coverage.
-   - Current expected scale: 36 states/UTs, 537 MPs.
+   - Current expected scale: 36 states/UTs, 540 MPs.
    - After pipeline changes, check `data/national/leaderboard/latest.json`.
 
 5. Respect GitHub Pages subpath deployment.
