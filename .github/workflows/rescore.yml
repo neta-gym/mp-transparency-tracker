@@ -34,6 +34,7 @@ jobs:
     outputs:
       states: ${{ steps.build.outputs.states }}
     steps:
+      - uses: actions/checkout@v5
       - name: Build state matrix
         id: build
         run: |
