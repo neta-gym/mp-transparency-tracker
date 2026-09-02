@@ -6,7 +6,7 @@ import { GradeBadge } from "./GradeBadge";
 import { ConfidenceBadge } from "./ConfidenceBadge";
 import { Badge } from "@/components/ui/badge";
 import { formatINR, formatCrore, formatPercent, formatGrowth } from "@/lib/format";
-import type { ValidatedFindings, ValidationFlag, MPLADSWork, DataSource, CommitteeMembership } from "@/lib/types";
+import type { ValidatedFindings, ValidationFlag, MPLADSWork, DataSource, CommitteeMembership, CriminalCase } from "@/lib/types";
 import { cn } from "@/lib/cn";
 import { SourceCitation } from "./SourceCitation";
 
@@ -108,6 +108,18 @@ function ProgressBar({ value, max, color }: { value: number; max: number; color:
 export function CriminalSection({ validated }: MPDetailSectionsProps) {
   const cr = validated.findings.criminal_record;
   const hasCases = cr.total_cases > 0;
+  const [filter, setFilter] = useState<"total" | "serious" | "pending" | "convictions" | null>(null);
+
+  const filters: { key: "total" | "serious" | "pending" | "convictions"; label: string; count: number; match: (c: CriminalCase) => boolean; danger?: boolean; muted?: boolean }[] = [
+    { key: "total", label: "Total Cases", count: cr.total_cases, match: () => true },
+    { key: "serious", label: "Serious", count: cr.serious_cases, match: (c) => c.is_serious, danger: true },
+    { key: "pending", label: "Pending", count: cr.pending_cases, match: (c) => c.status === "pending", muted: true },
+    { key: "convictions", label: "Convictions", count: cr.convictions, match: (c) => c.is_convicted, danger: true },
+  ];
+
+  const active = filters.find((f) => f.key === filter) ?? null;
+  const shownCases = active ? cr.cases.filter(active.match) : [];
+  const detailMissing = active !== null && cr.cases.length === 0;
 
   return (
     <SectionToggle
@@ -117,43 +129,59 @@ export function CriminalSection({ validated }: MPDetailSectionsProps) {
     >
       <div className="space-y-3">
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-          <div className="text-center p-3 border-3 border-ink shadow-brutal-sm bg-surface">
-            <div className="text-2xl font-bold font-mono text-ink">
-              {cr.total_cases}
-            </div>
-            <div className="text-xs text-text-muted uppercase tracking-wide">Total Cases</div>
-          </div>
-          <div className="text-center p-3 border-3 border-ink shadow-brutal-sm bg-surface">
-            <div className="text-2xl font-bold font-mono text-danger">
-              {cr.serious_cases}
-            </div>
-            <div className="text-xs text-text-muted uppercase tracking-wide">Serious</div>
-          </div>
-          <div className="text-center p-3 border-3 border-ink shadow-brutal-sm bg-surface">
-            <div className="text-2xl font-bold font-mono text-text-secondary">
-              {cr.pending_cases}
-            </div>
-            <div className="text-xs text-text-muted uppercase tracking-wide">Pending</div>
-          </div>
-          <div className="text-center p-3 border-3 border-ink shadow-brutal-sm bg-surface">
-            <div className="text-2xl font-bold font-mono text-danger">
-              {cr.convictions}
-            </div>
-            <div className="text-xs text-text-muted uppercase tracking-wide">Convictions</div>
-          </div>
+          {filters.map((f) => {
+            const clickable = f.count > 0 && cr.cases.length > 0;
+            const isActive = filter === f.key;
+            return (
+              <button
+                key={f.key}
+                type="button"
+                disabled={!clickable}
+                onClick={() => setFilter(isActive ? null : f.key)}
+                aria-expanded={isActive}
+                className={cn(
+                  "text-center p-3 border-3 border-ink shadow-brutal-sm bg-surface transition-colors",
+                  clickable && "cursor-pointer hover:bg-primary/10",
+                  isActive && "bg-primary/15 outline-2 outline-primary"
+                )}
+              >
+                <div
+                  className={cn(
+                    "text-2xl font-bold font-mono",
+                    f.danger ? "text-danger" : f.muted ? "text-text-secondary" : "text-ink"
+                  )}
+                >
+                  {f.count}
+                </div>
+                <div className="text-xs text-text-muted uppercase tracking-wide">
+                  {f.label}
+                </div>
+                {clickable && (
+                  <div className="text-[10px] text-primary mt-1">
+                    {isActive ? "hide cases" : "view cases"}
+                  </div>
+                )}
+              </button>
+            );
+          })}
         </div>
 
-        {cr.cases.length > 0 && (
+        {active && (
           <div className="space-y-2 mt-4">
             <h4 className="text-sm font-bold uppercase tracking-wide text-text-secondary">
-              Case Details
+              {active.label === "Total Cases" ? "All Cases" : `${active.label} Cases`} ({shownCases.length})
             </h4>
-            {cr.cases.map((c, i) => (
-              <div key={i} className="p-3 border-2 border-ink bg-surface text-sm">
-                <div className="flex items-center gap-2 mb-1">
+            {detailMissing && (
+              <p className="text-text-muted text-sm">
+                Case-level detail is not yet available for this MP; only affidavit summary counts are on record.
+              </p>
+            )}
+            {shownCases.map((c, i) => (
+              <div key={i} className="p-3 border-2 border-ink bg-surface text-sm space-y-1">
+                <div className="flex flex-wrap items-center gap-2">
                   <Badge
                     className={cn(
-                      c.is_serious
+                      c.is_convicted
                         ? "bg-danger text-white border-2 border-ink"
                         : "bg-surface text-ink border-2 border-ink"
                     )}
@@ -164,16 +192,37 @@ export function CriminalSection({ validated }: MPDetailSectionsProps) {
                     <Badge className="bg-danger text-white border-2 border-ink">Serious</Badge>
                   )}
                 </div>
-                {c.description && (
-                  <p className="text-text-secondary">{c.description}</p>
+                {c.fir_no && (
+                  <p className="text-text-secondary"><span className="font-bold text-ink">FIR:</span> {c.fir_no}</p>
+                )}
+                {c.case_no && (
+                  <p className="text-text-secondary"><span className="font-bold text-ink">Case No:</span> {c.case_no}</p>
+                )}
+                {c.court && (
+                  <p className="text-text-secondary"><span className="font-bold text-ink">Court:</span> {c.court}</p>
                 )}
                 {c.ipc_sections.length > 0 && (
-                  <p className="text-text-muted text-xs mt-1 font-mono">
+                  <p className="text-text-muted text-xs font-mono">
                     IPC: {c.ipc_sections.join(", ")}
                   </p>
                 )}
+                {c.other_acts && (
+                  <p className="text-text-muted text-xs">{c.other_acts}</p>
+                )}
+                {c.description && !c.fir_no && (
+                  <p className="text-text-secondary">{c.description}</p>
+                )}
+                <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-text-muted pt-1">
+                  {c.charges_framed && <span>Charges framed: {c.charges_framed}{c.date_charges_framed ? ` (${c.date_charges_framed})` : ""}</span>}
+                  {c.punishment && <span>Punishment: {c.punishment}</span>}
+                  {c.date_convicted && <span>Convicted: {c.date_convicted}</span>}
+                  {c.appeal_filed && <span>Appeal: {c.appeal_filed}{c.appeal_status ? ` - ${c.appeal_status}` : ""}</span>}
+                </div>
               </div>
             ))}
+            {active && shownCases.length === 0 && !detailMissing && (
+              <p className="text-text-muted text-sm">No cases in this category.</p>
+            )}
           </div>
         )}
 
@@ -182,6 +231,9 @@ export function CriminalSection({ validated }: MPDetailSectionsProps) {
             No criminal cases on record
           </p>
         )}
+        <p className="text-[11px] text-text-muted">
+          Self-declared election affidavit via MyNeta/ADR; status as filed, may have changed since.
+        </p>
       </div>
     </SectionToggle>
   );
