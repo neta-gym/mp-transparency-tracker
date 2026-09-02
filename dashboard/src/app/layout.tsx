@@ -44,38 +44,38 @@ export default function RootLayout({
         {/* Navigation */}
         <nav className="sticky top-0 z-40 border-b-3 border-ink bg-background">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex items-center justify-between h-14">
+            <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-2 py-2 sm:h-14 sm:py-0 sm:flex-nowrap">
               <Link
                 href="/"
                 className="flex items-center gap-2 text-ink"
               >
-                <span className="text-xl font-bold uppercase tracking-tight">
+                <span className="text-base sm:text-xl font-bold uppercase tracking-tight">
                   MP Transparency Tracker
                 </span>
               </Link>
-              <div className="flex items-center gap-4 text-sm">
+              <div className="flex items-center gap-2 sm:gap-4 text-xs sm:text-sm">
                 <div className="hidden sm:block w-56">
                   <SearchBarWrapper />
                 </div>
                 <Link
                   href="/"
-                  className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-3 py-1.5 font-bold uppercase text-ink"
+                  className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-2 py-1 sm:px-3 sm:py-1.5 font-bold uppercase text-ink"
                 >
                   Dashboard
                 </Link>
                 <Link
                   href="/national"
-                  className="border-3 border-ink bg-primary text-white shadow-brutal-sm brutal-press hover:bg-primary/90 px-3 py-1.5 font-bold uppercase"
+                  className="border-3 border-ink bg-primary text-white shadow-brutal-sm brutal-press hover:bg-primary/90 px-2 py-1 sm:px-3 sm:py-1.5 font-bold uppercase"
                 >
                   Leaderboard
                 </Link>
                 <Link
                   href="/compare"
-                  className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-3 py-1.5 font-bold uppercase text-ink"
+                  className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-2 py-1 sm:px-3 sm:py-1.5 font-bold uppercase text-ink"
                 >
                   Compare
                 </Link>
-                <span className="font-mono border-2 border-ink bg-accent px-2 py-0.5 text-xs font-bold">
+                <span className="hidden sm:inline font-mono border-2 border-ink bg-accent px-2 py-0.5 text-xs font-bold">
                   v3.1
                 </span>
               </div>
