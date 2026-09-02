@@ -20,20 +20,34 @@ import os
 from ..config import settings
 
 
-def local_photo_path(member_id: int | None) -> str | None:
-    """Return the filesystem path of the local photo for a member ID, if present."""
+def local_photo_path(member_id: int | None, house: str | None = None) -> str | None:
+    """Return the filesystem path of the local photo for a member ID, if present.
+
+    Rajya Sabha portraits live in the ``rs/`` subdirectory keyed by the RS
+    member number; Lok Sabha portraits sit at the mirror root keyed by the
+    LS member number. Member IDs are not unique across the two houses, so
+    the house disambiguates the file.
+    """
     if not member_id:
         return None
-    path = os.path.join(settings.mp_photos_dir, f"{int(member_id)}.jpg")
+    subdir = "rs" if house == "rajya_sabha" else ""
+    path = os.path.join(settings.mp_photos_dir, subdir, f"{int(member_id)}.jpg")
     return path if os.path.isfile(path) else None
 
 
-def resolve_photo_url(current_url: str | None, member_id: int | None) -> str | None:
+def resolve_photo_url(
+    current_url: str | None, member_id: int | None, house: str | None = None
+) -> str | None:
     """Pick the best photo URL for an MP.
 
     Prefers the locally mirrored Sansad photo (reliable, no third-party
     hotlinking); falls back to whatever remote URL the record already has.
+    A root-relative local path from an earlier pass (e.g. ``/mp-photos/rs/...``)
+    is kept as-is.
     """
-    if member_id and local_photo_path(member_id):
-        return f"{settings.mp_photos_url_prefix.rstrip('/')}/{int(member_id)}.jpg"
-    return (current_url or None) if current_url and current_url.startswith("http") else None
+    if member_id and local_photo_path(member_id, house):
+        subdir = "rs/" if house == "rajya_sabha" else ""
+        return f"{settings.mp_photos_url_prefix.rstrip('/')}/{subdir}{int(member_id)}.jpg"
+    if current_url and (current_url.startswith("http") or current_url.startswith("/")):
+        return current_url
+    return None

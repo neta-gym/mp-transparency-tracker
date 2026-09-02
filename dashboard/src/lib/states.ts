@@ -32,6 +32,8 @@ export const STATES: StateInfo[] = [
   { slug: "meghalaya", displayName: "Meghalaya", geoJsonName: "Meghalaya" },
   { slug: "mizoram", displayName: "Mizoram", geoJsonName: "Mizoram" },
   { slug: "nagaland", displayName: "Nagaland", geoJsonName: "Nagaland" },
+  // Nominated Rajya Sabha members (no territorial constituency; not on the map)
+  { slug: "nominated", displayName: "Nominated (Rajya Sabha)", geoJsonName: "" },
   // india-states.json uses legacy spellings for these two state names
   { slug: "odisha", displayName: "Odisha", geoJsonName: "Orissa" },
   { slug: "puducherry", displayName: "Puducherry", geoJsonName: "Puducherry" },

@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Uttarakhand
 
-*Generated: 2026-09-02 01:28 UTC | Methodology v3.1 | 8 MPs*
+*Generated: 2026-09-02 01:36 UTC | Methodology v3.1 | 8 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

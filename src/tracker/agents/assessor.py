@@ -347,7 +347,7 @@ class AssessorAgent(BaseAgent):
 
         # Resolve the profile photo deterministically: prefer the local
         # Sansad mirror keyed by member ID, else keep any existing URL.
-        mp.photo_url = resolve_photo_url(mp.photo_url, mp.sansad_member_id)
+        mp.photo_url = resolve_photo_url(mp.photo_url, mp.sansad_member_id, getattr(mp, "house", None))
         log.info("[bold magenta]Scoring:[/bold magenta] %s", mp.name)
 
         # Calculate component scores — use adjusted rate when cumulative data available
