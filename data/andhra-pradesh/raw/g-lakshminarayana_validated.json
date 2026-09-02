@@ -71,10 +71,24 @@
       "confidence": 0.0,
       "sources": [
         {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-09-02T12:11:43.193833Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T12:03:53.940506Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
-          "fetched_at": "2026-08-20T15:31:01.996512Z",
+          "fetched_at": "2026-09-02T12:03:58.280677Z",
           "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
@@ -86,7 +100,7 @@
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-08-18T20:05:06.081530Z",
+          "fetched_at": "2026-09-02T12:03:56.964687Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,14 +124,56 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Anantapur Member of Parliament appointed member of panel on labour - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1plb3Npak1aTHpON05WM1NqOWtvSWxjUktvQ1ZwbGFlcVplY0JETE5XWGF1OXE4YWVnbFl6WHhyaUZaWVJYM2t2ZnpCZFhRYjFFZ3owZDg5ek5XcUY4aF9UNUo2a3YtX044ZDRRMUZuS29LMlpLQTEtRmRtMHd4bVdyTWxzblNESTdYVXZWWVRTMjJucWlESEwxOVlsV3Vaamx6aHRrc3AtR0RibEo0UmxDbGhlbWNtS01MU0s5dmRrcm5iNkxvcF9Bdk42QTY2ZXVtMWU1Y9IB3gFBVV95cUxNRVhGY3F1SHJJbGJrSk1YdGRKX3FSQ1pGdldlUjJhSnRVRC1yOUl0QU8xSXFrb1hJT0haejIyU2VUdjNCR0Y2Wm1Qd2RUcUFxY0VqWDh5NmxFY3ZwZEU3NmM0bWw0emtvc2k2cXpFTGJteFFnYmF4VzU2aVE2V1E3WVlwUmF0UXN6QmZkMS15YXg1QUxoUmZNVFpBSVg3cm5GczBXQ2VEQUptREJTSU1VVUMxbTRJMFpLdmZ3UnpCRExjeWdieGhXV3B2ZUJPcVM2d19nX25mbkloa1NfN2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQWEJxOHZ2cVF4anF4VzkwTm9QVDhGb1M5S0JHbDBlWXN6UDJnZkxuR0dISHBBSXRuQlB3cDVfV1hUVHV5RTY5YjR6WFJwRUhpSGx6cjNnNGJVQkRqeWI5T2RKdzhfUUFJWndDYUMzS0RQSDlsRjg4dDZ4YjZvYk1faEYxZWNtZ0dGemg3QWlLSkhjM0ZsQTlOaEc1UlVzZnJxT3Y4VFdCc2tLODF0aExERUpMUU56SW52SW43UVlVSEZOb3pFS050b1lKbFBJUVNISlBsOXYtUm5OaE94cEx5TXd5S2NnSDVnY1ZublhWZGN3OFZxbUt3R2dVbDRSZkx3SDg1cDdocDd5OVFCS2lFQk9iSkE2MXFBXzF1Zk5PVDBfMW9RSVVBSDFRbmFXQ0NvaEJMZkZ3MmZyZ29UZlBXVDJIU3JzSl9RYW9XWGFCNWlYdkZwSVJ4T3Z0S0cxVFdCM2RHeXF3Y1pyYXdvZHpSRTEyRzRKOVJpbDMxdlA1dy1IUkpCTm1VcNIBjgNBVV95cUxQSU1sSEZkSjcxNmVZT3dMcFJsTGhuUW9NSmxsRFUxNlB0clAtVmVHeThuT2g0Vkg5SDNhSnNTdkJfSGtLdklFNWpTd2haMWRJb1FXOWZyOTJaVldSYnNXMzkzXzhhTEFNMXVCUFpfV1ZfMENBNHdOWWFSeW8tV1lMNUZzQU94ajFiTF9ic1g0NDZ2ZHdJYzNFUjF2OXVTaGt6RWFqbGdyZGZPeFpBQ3RSQkRxUnpRZEhUaE5qRmluYXk0WVVBSGMtVFhyUXRhVGZfdnh2UkRJb2tBWDNmZ21TNEs2dkhwRTJ3RFFPbjJXWVRuQmpwSWxzeTFMaWZFSXFSSkRqZkc0aGZtQ1Y3WWhKVXhMdWd5c0xMSlJsdFVzcUlYbHJpWExxV0NxYnl4dno4WW1iay1hZHNzcEF2U3FESnk4S3ZlRU1xSm8tRDBzVzJkeVNRa0lTX3oxZjNNNzh5QkVnZzlGMUxFYjNNNkxVY3ZwNTFzTXU4ZDVSLU1IZjBNck5nT0xRWlBSR0VoZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TDP MP’s sister among six killed in Uttarakhand helicopter crash - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPenhSUjZmeVVTZ2I1RG9vclVnREdDMlhvWF8tM1RrcThUYWtWakJ2Q18tOHZYdjBscndxUUFGalpTWlI3TUk0czRBR0xRR2lZQ1lHdnlaa09LSl9CLWlfYTZxYmlVX3JhODFsTWVoV3UxY1Q1R1NXeHB5bXFZdnVXQXdMMzVYU09CR0R0M21CZGl0bkdOdDBQS2lYcHJoS2tHVmVZem9XVXRFM3BBUU9oN3c3bVhuVjZjaUk5QmJyMi03ME4wYTZvb0pB0gHXAUFVX3lxTFBnTFA4Y0hFOGR1bHFiWWhBTU5VaFI1ZFY3WUhwcHFFLXdYTFZqeDQxXzZCMkpxYTl4V3pZTFExWlBWZTE5WDNYcGRjMEhtUlp0REZoOGhVZGUxWkFaTEVSTDc2RXNNdFJKV2d3R0RBNEhMOFU0WXNaLVdGblpieXBzZjBOZkM0S3ZlRnk2NXRsQzJ2ckU1Nzh2dGhVSS1vNDhtMmdyNTI5VTFDTGZza3VEbnB0SERTQ0hNNjl3TERyalBlWllEdlowSlRGUmtPRm92SzNTUnk4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TDP MPs meet PM Modi, Amit Shah to discuss Andhra Pradesh issues - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzN1MUo1NE5nSkt6bUdTNFBscVJud1hSdnZiWkoyLVpxWVEyLVVvcTNLNDRRVGNpT0stVExuV0tpQUdNQUxDeEd2R0M5UDVsNzJiWjgtRGpHT2FOZkJUeEZkaFg1a2hvVGt3SFJpTnJaenVQZ0hpcUEzZnZDamNOV0xYUElXUTZUM2JzUzkwekVwLUlL?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Train from Anantapur to Bengaluru to start from June 4 - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFBsWEJXaXRhd1VsOEpQZlVjT2V6SUZjUmxTM3hNbU5FTW9tN1YzaGtPdGZfRFp0Q0NYRTFtcHNqdTFJZHdqMUFMQXVseDZWQXVEQ0luMU5hTi1Kb1ZWMlRETGlNRU5Od1VfN2poN3BpZnA1cm5VNmFXNEVEbVhlUlVOZ2VEelROY3Y1V0R1b09HRnRXUjc1RmREWW02Z1JlR2RsbnVJVW4xWkVVVnlHN0NTTk1Bbm1MOE1NSVVnbG9PeFhSYnM00gHOAUFVX3lxTE1hQWpabHdfbDhKQUtjbFFOcU5OZ1c1Qi1qcVhHVG5FLVNoNjBSNWNUNUFJc0lBZDdMRnItN1YyYXR6X0tZXy1OaU45bHlkNFNYOFFvTmlnQlk5UVlwOHFlMHVfeGxiUVh6M29TMHBuYUZkenFHUm95VzdTLWk3bUZxU3Y4RmNuN0xJN0RlcDNmYzEzbm9kbEFKUUFRYmJqRERJeXAybHVpVi1wcGFtVUlKQjVkVm5IXy1KREp2Q1hYUDJaanVQNzdCbTBlektR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "cag"
     ],
-    "collected_at": "2026-08-20T15:31:01.996546Z",
+    "collected_at": "2026-09-02T12:11:43.196114Z",
     "evidence_summary": {
       "parliament": "C",
       "committees": "E",
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366778Z",
+          "fetched_at": "2026-09-02T12:11:43.201838Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366792Z",
+          "fetched_at": "2026-09-02T12:11:43.201851Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366797Z",
+          "fetched_at": "2026-09-02T12:11:43.201856Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366802Z",
+          "fetched_at": "2026-09-02T12:11:43.201861Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366808Z",
+          "fetched_at": "2026-09-02T12:11:43.201867Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366813Z",
+          "fetched_at": "2026-09-02T12:11:43.201872Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.366817Z",
+          "fetched_at": "2026-09-02T12:11:43.201876Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -265,10 +321,10 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "Anantapur Member of Parliament appointed member of panel on labour - The Hindu",
@@ -287,19 +343,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Payyavula pushes for an airport in Anantapur - The Hindu",
-          "source": "The Hindu",
+          "headline": "TDP MP’s sister among six killed in Uttarakhand helicopter crash - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaU5mbVBSWXhYRWRXSmVYbTRWSk9ObGd6SURObEZlbHNqSEpXbmJJdzZ5emZydU0zeHpkQUcySjlIQnh1QWEwOFQxdlpHSVJsQ2YxVVZSSUFxcFRpcFNDNXVjRUZGX3RGR25xMHdHRklxeHZOYmVBVW51cEx0Ujlla2FPVHNrSnd4MkVXWFNRUTkzWms1bVhmYXlUMjlieDMzXzRfWUxFR1IySnNEbXI5WmtQTVAzVUhIcWfSAcABQVVfeXFMT0xIR2dwTXNsM3AzVkF0WjRDQ1l2Rk92aTh2NGVIeEZJd0dvcHRtem9rbmR5cndoNWNHY0ltYS05ZFhzTGNpbUFxY0wtTXRrbTFEN01OV05GcTVzMWJXVTJKZ3RibU5UcTRCX0M4cUFWc01RQXFoVjJBWW4wbTRuSzQ5c3BObnBUakNRYnF4cktneklHWjZMYVlLMVVJc0RtVmxsME9DaHZRcGprYmhQb2hVbFpXeUdxYzNsMDF3YzZk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPenhSUjZmeVVTZ2I1RG9vclVnREdDMlhvWF8tM1RrcThUYWtWakJ2Q18tOHZYdjBscndxUUFGalpTWlI3TUk0czRBR0xRR2lZQ1lHdnlaa09LSl9CLWlfYTZxYmlVX3JhODFsTWVoV3UxY1Q1R1NXeHB5bXFZdnVXQXdMMzVYU09CR0R0M21CZGl0bkdOdDBQS2lYcHJoS2tHVmVZem9XVXRFM3BBUU9oN3c3bVhuVjZjaUk5QmJyMi03ME4wYTZvb0pB0gHXAUFVX3lxTFBnTFA4Y0hFOGR1bHFiWWhBTU5VaFI1ZFY3WUhwcHFFLXdYTFZqeDQxXzZCMkpxYTl4V3pZTFExWlBWZTE5WDNYcGRjMEhtUlp0REZoOGhVZGUxWkFaTEVSTDc2RXNNdFJKV2d3R0RBNEhMOFU0WXNaLVdGblpieXBzZjBOZkM0S3ZlRnk2NXRsQzJ2ckU1Nzh2dGhVSS1vNDhtMmdyNTI5VTFDTGZza3VEbnB0SERTQ0hNNjl3TERyalBlWllEdlowSlRGUmtPRm92SzNTUnk4?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Centre allocates ₹736 crore for drinking water, sewage projects in Anantapur - The Hindu",
-          "source": "The Hindu",
+          "headline": "TDP MPs meet PM Modi, Amit Shah to discuss Andhra Pradesh issues - Telangana Today",
+          "source": "Telangana Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX0l0ZGY5RW5WbEJzVllTbEw1YzdVZWZLSm15QUU1QXliTUhjWlJ3ZEVGdWNkcmNfdGd2ZHBPUlFvRTNteF83TDJYaFRBYVVibUs4VHdvb1djMXljcFY1eFEzbWlwN3VyTEJsVm9Rbkw1UG5Od2NYLVNBUjhYNFJnVS1rWlZzWlltdi1RT1hBZkp2bm50SmN2R2R2V2lWOC1QT0wtWTUtMU91MUhJdkpXYU40Mk95dWR2NzlCcHktMkNfYXpndDFsZkVWMGV0TmJQOE9YanU3elgxUm53SnlTY1l30gHoAUFVX3lxTFB6VUlZZG9WcVpKU2xJSUNMcW1kWktQajVCRVBFZ2p0UXRwQTdjMzRhcFhrNHgzZm9nYmtIRU54bEVnTnM0aHc0R21vbi12WU9wX1piN1RsdUc3eW9MbDRROEJUc0F6ZDBSazh3ZDEwZml2UU9tYkhVNWVvVUtkNzJlZjdGd1NJbkhfaTd2bUZuMG9UVEx4djJjYlJ1eklUcTJyR0p6cmR5clQ3NzlncmQ5aEFnQTdpRldOcjh6MHBVbU9DQzI3aGgxQ3pPeTFra1h1dTd1RGplalluRmR6SGFXczlfX2tWSi0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzN1MUo1NE5nSkt6bUdTNFBscVJud1hSdnZiWkoyLVpxWVEyLVVvcTNLNDRRVGNpT0stVExuV0tpQUdNQUxDeEd2R0M5UDVsNzJiWjgtRGpHT2FOZkJUeEZkaFg1a2hvVGt3SFJpTnJaenVQZ0hpcUEzZnZDamNOV0xYUElXUTZUM2JzUzkwekVwLUlL?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -311,7 +367,7 @@
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -434,5 +490,5 @@
     }
   ],
   "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 47. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:46.367757Z"
+  "validated_at": "2026-09-02T12:11:43.204690Z"
 }

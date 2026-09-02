@@ -53,10 +53,24 @@
     "confidence": 0.0,
     "sources": [
       {
+        "url": "https://mplads.mospi.gov.in",
+        "source_name": "esakshi",
+        "grade": "A",
+        "fetched_at": "2026-09-02T12:10:13.139655Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T12:03:53.937008Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
         "url": "https://dataful.in/datasets/18540/",
         "source_name": "mplads_csv",
         "grade": "E",
-        "fetched_at": "2026-08-20T15:31:01.990727Z",
+        "fetched_at": "2026-09-02T12:03:56.704711Z",
         "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
@@ -68,7 +82,7 @@
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated",
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
     "utilization_rate": null
   },
   "parliament_activity": {
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-08-18T20:05:03.565514Z",
+        "fetched_at": "2026-09-02T12:03:55.705909Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,14 +106,56 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘Addamla Cheyana’ Song from “Chakkora – Lunar Love Bird” - industryhit.com",
+      "source": "industryhit.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0d5cE0xX0gyREVfZ3lTcHppSVlCTTZIckhFVkE1dGZYOE5ld0tROUJZLTU4dnViaEVieXZFbXZGZFQyRnVua285MGNjYlNISng4VURoUGhXV3EtendtMjkyWHFFTFo1akhYU1U2TUhoR1p5ZjRWSmgzbzZ5MnotZGJwWUo1VURCVE16eV9MbUJmTGlIMHFGLV9ZMS04RFRNbmRRZmV1eG81a0NiVXhZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXpUaUxqdXhIZEUwV1cwNWVzMTcxWE9ZNkhqLUVPcnM3TE9JeFRIT3lrWWtPN0g3R3FtZmZSVE9tUkJqYko5SDN0VTJTY211aUFUUVhUeFZWT0Nael9NSDhxeTBfZWdFcXFYQ3dDbVM2dDZBVXVfQ3Bqa0Nvdkthd0U5VjFfejB5UUFHXzMzRU8xRlNVR0NNaFNRYnoxQnhxOWFROVNVM2RqQXBEYndFNm5YM0N2UnZlRktzUXJUNE44Tm54VS1DOC00cjdiMnR2UWVOSWZVX3dqVVBRUVkyRTdCRV9mUXd0NlHSAfABQVVfeXFMTUlRNmU5SUU3d0MwVDJPWXVQbWJwclk1MldBV1IwWTQzbUFvSHpBVkw3ajYtTWFBbEwzVHRLbDlnanJQaGJvbUpQWmJjZE0zb1piRUFMVFdSRW9YNFh5YnVkak1meHRZWmhpeXNhQXlGQkxsZ0p6VzZzX3V1NFFUa0EwUjZOX1FCMzJJN0ZqbFpwUzEwUW1RdmRmdjdZT2JERGY1clZmazhyOFFEcjc3T0NDUksxX3Fac2VlendUN0s2UWxvMkdCQ1dkaXhLUUUxU0NIdlA0WEpuMmc2clBMUzdKcHhZRjFScFVDdTRWclY3?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNc3dmMVFYWTRPUHhaM3BaQVZPNzVvUmlJbEVsSzB2a2NiNWl2YmNGNjZ5cFd5ZUlHRjFPVmJ3ZW5jYkdoY1Bfa1piazZQcm1DSktUQ2gtWTNWOTM5a0RRSzJ4TmlNZ1prbVdqLTdxZVVZa25TaURxRU9EeHFYYUlzRzNSSFBvbVRCdGdoa0ZZY3FxQTNDS0V0VTBLN19POUpsdGMtdDBsY29KanR5cm1FQlBOWlpVeE94dnVMeEY4cGxzS2lESVFNSUx2VWpHbUhyRjlWWmRheTZpNnlRX245Mzc4ZnlMT2pCa0ZlNjRRdlNZNUZjUmhxYVBCSWppTHZBMUc0VUVsdG9DRGpVSmZjY09n0gGXAkFVX3lxTE00eVl0OXNhWGtmNnZNS0U4Nkc4RVFCUTZGbjFwOThIMkxSZXU3Sy1DbDBJNU9SeldkLTViLWRnTWV3Q01wT3U4YlluZkFTWFFPLWNMWFU2cC1YUG9TSDBNYV9XTGV4NVgtMERlS1o3S01Kb19iTm1zYk1nUTdJX3VVM2JKdEUwY25BMWJMRXZCMTJyWlJxRnE5S0JvZl9uVXczLWZfaTc4RTg4REc1bzFZUUlxa1NGNmRxejRRdDNuN19KbTVldnU1SXBxZzhWZk9ieTg4OEVZTGQzWVE3MG5jbElHS0JMdFVFRmp0cjROWEZ4MVN5MzZMUUQ5bV8za183WF9sZ1IzZlNGNFdIQXJxVUZycXJOaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWJPMjZweGtmcUFjWThockJtNVFCQXJrSGZxR3ptaC1EbWxJZDB6cG52WmFwX0hLaEcxUVFFSXN1TGVKN292dUtVWXROMUtsandBRTRNQTh1czJoX00tWEIzQzMxSWZlcGhnQVJUZlpxTzdGWG5aUDI1Z0lVTWVUQXB2R1BUVS05ZU9ScUViWkptUWVHcWRFVTZobVVBZGFfZzFlOGxBb3lQZU5LMjAtMnV6RmVKNndWN3BGWFlOQzZubUx0aGwxb3piakFOZlZqSUMtakMxbHNyd9IB5wFBVV95cUxPYUNfOUVTaGFPRFR6R0U2OURpMjM1MVd5cS1aaTFTdWV3WVJxZHM1STRPc25uc2FaR2tFZDFkUHhMZndHTmV3UFZjYmhPVkV1cWJueW5zQUdhYmJsSWFrRjlSUUktRzFPVUJ0NEd1M0JfOGVKNU53cy04UzhXZnEtZlpYN216SkNMNFlZRmQ1V0M0YWZGd054UnYzMUNrbU1hX3RtX2FCMUdwSkg3T084SHdGcXNaZFNOc3pvMEhPbzE1UVNRVFM2VFh0TlBkT1Jhb0duNjFLTUNsSk9aVzVVelZwRGc3cDQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - deccanchronicle.com",
+      "source": "deccanchronicle.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelhYVTZZNnVfSDlfaFdYdE5TQ2xuNjZZVWpUU0pHZHIxQnZGUG9jTU56ZUpsSUI0elFTd1U1dU5Vb0EySTRvaUl2X2J0bzFGV3hKakVHZkE3OXcyajhudVBDenYwR1dUa2pQT3VwaTctNXdCLW9HSC1tb0NibF9NMGxTLW1YRXIyS243LXdTSG81MzB4MkhySDIta2ZCdERfRXdzZXBtS0dRYm9aYlVwS3dZdTlUYV9rMFpzb3drNVd6d0JHSTBEX3MtMNIB0AFBVV95cUxONnRScjB5QlBLd0hvNXA2NTZXZGlQdVJ4WnI3OHo1aDhENHI0MXVYWWVFcjBXUkRmd2M3NGdlVWVGMW92YzVqVEptRWxvSkhLWElRUVBsaTY2Y0prUXJRU2RGM05vcTFmOE5Gckh6N0JhbGxiVVYyTm5xV1JWWXljR3h1X3JaekkzTHdRMjIwbFhNXy1fNWZHdTJyZWdiYUZKeFc5UGx3WlM1S1hfNlY5dTZ1Q05XU1gtN1RYbktZSEhvc2lWVU8zcldodTZQSzN2?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
-    "news"
+    "news",
+    "cag"
   ],
-  "collected_at": "2026-08-20T15:31:01.990765Z",
+  "collected_at": "2026-09-02T12:11:19.041567Z",
   "evidence_summary": {
     "parliament": "C",
     "committees": "E",
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318459Z",
+        "fetched_at": "2026-09-02T12:11:19.046105Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318470Z",
+        "fetched_at": "2026-09-02T12:11:19.046118Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318497Z",
+        "fetched_at": "2026-09-02T12:11:19.046123Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318506Z",
+        "fetched_at": "2026-09-02T12:11:19.046129Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318512Z",
+        "fetched_at": "2026-09-02T12:11:19.046135Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318517Z",
+        "fetched_at": "2026-09-02T12:11:19.046141Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.318521Z",
+        "fetched_at": "2026-09-02T12:11:19.046146Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "facebook.com/cmrameshoffl",
+        "url": "https://facebook.com/facebook.com/cmrameshoffl",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "instagram.com/cmramesh_mp",
+        "url": "https://instagram.com/instagram.com/cmramesh_mp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T12:03:56.946014Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,11 +334,11 @@
     "neutral": 7,
     "top_headlines": [
       {
-        "headline": "Payyavula attacks Jagan over alleged criminal and factional politics legacy - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "‘Addamla Cheyana’ Song from “Chakkora – Lunar Love Bird” - industryhit.com",
+        "source": "industryhit.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaVRFZzlBaU1yZFczbk9rZ0tHbFpPdEc3TXVFSXNFeHZ1bnZBMkE2UTBiZ1BHRFRKbmpzT1NrbExUbkJzaUNFeTltbnA3cThORGVsOVdJWjlteV8xQjQ3MWVjX2FTcEhDMENMOWhrZ2pPX2hoQm9MTllXSTA0UE10anJqeTg0TXRCTWY3WHh5aVVIWnF0ZXVrdE1VX3lqUEw3OXJmMFdoTXpENVY5WERIU21jRE5rRWM4SzV2TW5CNzEwTTRfTGpyVUprVFRmbDFMZlZIX2ZNOGtBd9IB5wFBVV95cUxOSzRJUXEtQUJ4Y2xQcGJNYTVfcUxfd2RHOHd5WDJQTDU0RlpqcTQzcVFUQUFHQmJmSWw3TUQzRFd1WW5QeFJzV3JSTHRFLVByeVlUX3QxZkc3Y3ZvNEF6c1UxWTlWQWlTZkRDdXZ2cEdGMFh0TzgtbW9zZURIei1EdnlkZDlNdTUyYmdZRHVhbWN5QWVkNnN3TUlvTGREaFlnTVV1UVRFTEhGcnBNRldFS0tDaGFlUElUSzZXV0Vfb19fZ0NsZlhSZmZfSVZXQlFqT3JSN282RXRmNG5ZbU0yamExVXpaa1E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0d5cE0xX0gyREVfZ3lTcHppSVlCTTZIckhFVkE1dGZYOE5ld0tROUJZLTU4dnViaEVieXZFbXZGZFQyRnVua285MGNjYlNISng4VURoUGhXV3EtendtMjkyWHFFTFo1akhYU1U2TUhoR1p5ZjRWSmgzbzZ5MnotZGJwWUo1VURCVE16eV9MbUJmTGlIMHFGLV9ZMS04RFRNbmRRZmV1eG81a0NiVXhZ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -277,16 +358,16 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Andhra Pradesh BJP MP Ramesh’s entry makes Anakapalle contest intense - The New Indian Express",
+        "headline": "BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGRoYnRXNm1zc0NKc3dLaVU0cVNVQnVXWDlfQ3FielFwUlJBUHVlVEJNeDE5NDZ2bmZ5bGlJRk1OekJYRnF4SUhhNmhTTzhfVjJRUGwtZUR0UGRrQVhtbWczcmNjODZmZVJwN1I3eVB2NE16cWNibE1sYlJlY1NXN2dKc3M4aHRKamJhOHc1d2RJVU9fMFplbXRTejF1c0paa0JQc3dPQWdFLUo3anVhb25WQ1VjN3BXU3JfTDlrcW81X0RmdUpGWEtCeWRDU2kz0gHeAUFVX3lxTFA4Sm9lMTBpZ0lERkdCU3FybWtMMTVJLUVXMVVuaUNEQkl6RlYzeEF5WHgwejA3RkF2ejJOeFAtcXYzTmVKb2l1YUIzU18yNnRUZGFwUTV0R2R4U2lpTzFpd21WV2JpeUVUb1B6X0VZQnI4Y0QzVzJBWDVja0NXRkZRSWtZU2M5WVFKY3gwZ09pam9lRlhHaWtMcWQtbW9lYlF2RjhoNGhHMzBtVjlyTVJ3UlZ1c2RVUlBOZ2JPSmRtVDR0UXNuVkUzbWp1YTZrdDMxQlh2bGx3Z3gwQ29pZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWJPMjZweGtmcUFjWThockJtNVFCQXJrSGZxR3ptaC1EbWxJZDB6cG52WmFwX0hLaEcxUVFFSXN1TGVKN292dUtVWXROMUtsandBRTRNQTh1czJoX00tWEIzQzMxSWZlcGhnQVJUZlpxTzdGWG5aUDI1Z0lVTWVUQXB2R1BUVS05ZU9ScUViWkptUWVHcWRFVTZobVVBZGFfZzFlOGxBb3lQZU5LMjAtMnV6RmVKNndWN3BGWFlOQzZubUx0aGwxb3piakFOZlZqSUMtakMxbHNyd9IB5wFBVV95cUxPYUNfOUVTaGFPRFR6R0U2OURpMjM1MVd5cS1aaTFTdWV3WVJxZHM1STRPc25uc2FaR2tFZDFkUHhMZndHTmV3UFZjYmhPVkV1cWJueW5zQUdhYmJsSWFrRjlSUUktRzFPVUJ0NEd1M0JfOGVKNU53cy04UzhXZnEtZlpYN216SkNMNFlZRmQ1V0M0YWZGd054UnYzMUNrbU1hX3RtX2FCMUdwSkg3T084SHdGcXNaZFNOc3pvMEhPbzE1UVNRVFM2VFh0TlBkT1Jhb0duNjFLTUNsSk9aVzVVelZwRGc3cDQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle",
-        "source": "Deccan Chronicle",
+        "headline": "GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - deccanchronicle.com",
+        "source": "deccanchronicle.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelhYVTZZNnVfSDlfaFdYdE5TQ2xuNjZZVWpUU0pHZHIxQnZGUG9jTU56ZUpsSUI0elFTd1U1dU5Vb0EySTRvaUl2X2J0bzFGV3hKakVHZkE3OXcyajhudVBDenYwR1dUa2pQT3VwaTctNXdCLW9HSC1tb0NibF9NMGxTLW1YRXIyS243LXdTSG81MzB4MkhySDIta2ZCdERfRXdzZXBtS0dRYm9aYlVwS3dZdTlUYV9rMFpzb3drNVd6d0JHSTBEX3MtMNIB0AFBVV95cUxONnRScjB5QlBLd0hvNXA2NTZXZGlQdVJ4WnI3OHo1aDhENHI0MXVYWWVFcjBXUkRmd2M3NGdlVWVGMW92YzVqVEptRWxvSkhLWElRUVBsaTY2Y0prUXJRU2RGM05vcTFmOE5Gckh6N0JhbGxiVVYyTm5xV1JWWXljR3h1X3JaekkzTHdRMjIwbFhNXy1fNWZHdTJyZWdiYUZKeFc5UGx3WlM1S1hfNlY5dTZ1Q05XU1gtN1RYbktZSEhvc2lWVU8zcldodTZQSzN2?oc=5",
